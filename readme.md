@@ -41,7 +41,7 @@
 
 ### 主线剧情
 
-- **主线剧情部分均有较大改动**
+**主线剧情部分均有较大改动**
 - @秋裤SE7EN（Bilibili）【主线剧情第1~3章】
 - @凉月crella（Bilibili）【主线剧情第4章】
 - @凉月crella（Bilibili） @水银h2oag @ASD一ZERO @monsterwatari @シキ【主线剧情第5章】
