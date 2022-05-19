@@ -25,7 +25,7 @@
 - @uss-enterprise1071
 - @ManakaAo
 
-## 技术协力
+## 技术支持
 
 - @chinosk114514
 - @akemimadoka
@@ -57,7 +57,7 @@
 
 ### 角色语音
 
-- @Linxesu（萌娘百科）【特别周语音】
+- @Linxesu（萌娘百科）【特别周、草原奇迹语音】
 
  **另外本插件内引用了较多[B站赛马娘中文WIKI](https://wiki.biligame.com/umamusume/%E9%A6%96%E9%A1%B5)和[萌娘百科](https://zh.moegirl.org.cn/%E8%B5%9B%E9%A9%AC%E5%A8%98_Pretty_Derby)的翻译内容，由于寻找所有翻译者较为困难，故没有特别列出。若相关翻译者认为此插件的引用内容侵犯了您的权利，请联系此仓库所有者@MinamiChiwa 或直接发布Issue。**
 
