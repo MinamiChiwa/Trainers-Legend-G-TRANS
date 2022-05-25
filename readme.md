@@ -1,6 +1,7 @@
 # 注意
 
-- **本插件内所有翻译内容均属于原翻译者，转载请注明出处**
+- **本插件内所有翻译内容均属于原翻译者，以任何方式（录制视频、提取文本等）转载或大段搬运译文请注明原作者或此仓库的贡献者列表**
+
 - 此仓库为[`Trainer's Legend G`](https://github.com/MinamiChiwa/Trainers-Legend-G)的译文部分。
 - 此插件的汉化进度目前为 **部分汉化**
 [翻译进度及比赛译名对照表](http://docs.qq.com/sheet/DYkFFZVJudWxTa1Vq)
