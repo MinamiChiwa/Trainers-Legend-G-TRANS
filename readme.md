@@ -37,7 +37,7 @@
 - @虚拟狗头人 【修图】
 - @狸 【修图】
 
-## 译文搬运授权
+## 译文搬运授权・参考
 
 ### 主线剧情
 
@@ -53,7 +53,6 @@
 - @Suzuka Sairensu(萌娘百科) 【涙ひかって明日になれ！】
 - @凉月crella（Bilibili）【transforming】
 - @雪村あおいaoi(Bilibili) 【Grow up Shine!】【BLAZE】
-- @Rajiformes软骨鱼(Bilibili) 【UNLIMITED IMPACT】←暂未获得授权
 
 ### 角色语音
 
