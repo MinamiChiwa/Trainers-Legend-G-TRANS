@@ -33,12 +33,6 @@
 
 贡献者具体贡献内容请参考[翻译进度](http://docs.qq.com/sheet/DYkFFZVJudWxTa1Vq)
 
-## 技术支持
-
-- @chinosk114514
-- @akemimadoka
-- @MiddleRed
-
 ## 修图嵌字
 
 - @KiraPoi 【嵌字】
@@ -75,9 +69,6 @@
 - 大多数**技能名称及技能描述翻译**来自[`B站赛马娘中文WIKI`](https://wiki.biligame.com/umamusume/%E6%8A%80%E8%83%BD%E9%80%9F%E6%9F%A5%E8%A1%A8)
 - 大多数**赛马娘皮肤名称翻译**来自[`萌娘百科`](https://zh.moegirl.org.cn/%E8%B5%9B%E9%A9%AC%E5%A8%98_Pretty_Derby/%E8%AF%91%E5%90%8D%E5%AF%B9%E7%85%A7%E8%A1%A8)
 
-#### 繁体中文
-
-- @yotv2000tw
 
 
 ### 如何贡献【建议加频道，频道内可以提供更多汉化相关的工具】
