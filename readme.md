@@ -8,14 +8,14 @@
 - 本仓库的文件使用 [署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 协议开源，您仅能在符合此协议的规定条件下使用这些文件。
 - 此仓库为[`Trainer's Legend G`](https://github.com/MinamiChiwa/Trainers-Legend-G)的译文部分。
 - 此插件的汉化进度目前为 **部分汉化**
-[翻译进度及比赛译名对照表](http://docs.qq.com/sheet/DYkFFZVJudWxTa1Vq)
+[翻译进度表](translation-progress.md)
 
 # 赞助
 
 [`爱发电`](https://afdian.net/@Trainers-Legend-G)
 
 # 贡献者
-
+**贡献者具体贡献内容请参考[翻译进度表](translation-progress.md)**
 ## 翻译
 
 ### 目前的贡献者
@@ -34,8 +34,6 @@
 - @july20026
 - @RikkaTakanaishi
 - @羲羲
-
-贡献者具体贡献内容请参考[翻译进度](http://docs.qq.com/sheet/DYkFFZVJudWxTa1Vq)
 
 ## 修图嵌字
 
