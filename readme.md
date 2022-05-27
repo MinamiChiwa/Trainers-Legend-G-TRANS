@@ -70,8 +70,8 @@
 
 ### 游戏资料
 
-- 大多数**技能名称及技能描述翻译**来自[`B站赛马娘中文WIKI`](https://wiki.biligame.com/umamusume/%E6%8A%80%E8%83%BD%E9%80%9F%E6%9F%A5%E8%A1%A8)
-- 大多数**赛马娘皮肤名称翻译**来自[`萌娘百科`](https://zh.moegirl.org.cn/%E8%B5%9B%E9%A9%AC%E5%A8%98_Pretty_Derby/%E8%AF%91%E5%90%8D%E5%AF%B9%E7%85%A7%E8%A1%A8)
+- 大多数**技能名称及技能描述翻译、支援卡译名**来自[`B站赛马娘中文WIKI`](https://wiki.biligame.com/umamusume/%E6%8A%80%E8%83%BD%E9%80%9F%E6%9F%A5%E8%A1%A8)
+- 大多数**赛马娘皮肤译名、支援卡译名**来自[`萌娘百科`](https://zh.moegirl.org.cn/%E8%B5%9B%E9%A9%AC%E5%A8%98_Pretty_Derby/%E8%AF%91%E5%90%8D%E5%AF%B9%E7%85%A7%E8%A1%A8)
 
 
 
