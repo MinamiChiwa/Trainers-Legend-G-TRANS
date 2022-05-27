@@ -1,14 +1,14 @@
+[![License](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
+[![Download](https://img.shields.io/github/v/release/MinamiChiwa/umamusume-localify-zh-CN?color=blue&logoColor=white&label=Download&logo=DocuSign)](https://github.com/MinamiChiwa/Trainers-Legend-G/releases/latest)
+[![Chat](https://img.shields.io/badge/Join-QQ%E9%A2%91%E9%81%93-blue?logo=tencent-qq&logoColor=white)](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&inviteCode=1olqdK&from=246610&biz=ka)
+[![Discord](https://img.shields.io/discord/973208860217200653?color=blue&label=Discord&logo=Discord&logoColor=white)](https://discord.com/invite/TBCSv5hU69)
 # 注意
 
-- **本插件内所有翻译内容均属于原翻译者，以任何方式（录制视频、提取文本等）转载或大段搬运译文请注明原作者或此仓库的贡献者列表及授权参考列表**
-
+- **本插件内所有翻译内容均属于原翻译者，以任何方式（录制视频、提取文本等）转载或大段搬运译文请注明原译者或此仓库的贡献者列表及授权参考列表**
+- 本仓库的文件使用 [署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 协议开源，您仅能在符合此协议的规定条件下使用这些文件。
 - 此仓库为[`Trainer's Legend G`](https://github.com/MinamiChiwa/Trainers-Legend-G)的译文部分。
 - 此插件的汉化进度目前为 **部分汉化**
 [翻译进度及比赛译名对照表](http://docs.qq.com/sheet/DYkFFZVJudWxTa1Vq)
-- [![Download](https://img.shields.io/github/v/release/MinamiChiwa/umamusume-localify-zh-CN?color=orange&logoColor=orange&label=Download&logo=DocuSign)](https://github.com/MinamiChiwa/Trainers-Legend-G/releases/latest)
-- [![Chat](https://img.shields.io/badge/Join-QQ%E9%A2%91%E9%81%93-red?logo=tencent-qq&logoColor=red)](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&inviteCode=1olqdK&from=246610&biz=ka)
-密码：cygames 若无资格请挂梯子
-- [![Discord](https://img.shields.io/discord/973208860217200653?color=orange&label=Discord&logo=Discord&logoColor=red)](https://discord.com/invite/TBCSv5hU69)
 
 # 贡献者
 
@@ -25,12 +25,13 @@
 - @八意永恩
 - @uss-enterprise1071
 - @ManakaAo
+- @AirJerryWhite
+- @Yaklo
+- @july20026
+- @RikkaTakanaishi
+- @羲羲
 
-## 技术支持
-
-- @chinosk114514
-- @akemimadoka
-- @MiddleRed
+贡献者具体贡献内容请参考[翻译进度](http://docs.qq.com/sheet/DYkFFZVJudWxTa1Vq)
 
 ## 修图嵌字
 
@@ -63,21 +64,12 @@
 
 - @Linxesu（萌娘百科）【绝大部分】
 
- **另外本插件内引用了较多[B站赛马娘中文WIKI](https://wiki.biligame.com/umamusume/%E9%A6%96%E9%A1%B5)和[萌娘百科](https://zh.moegirl.org.cn/%E8%B5%9B%E9%A9%AC%E5%A8%98_Pretty_Derby)的翻译内容，由于寻找所有翻译者较为困难，故没有特别列出。若相关翻译者认为此插件的引用内容侵犯了您的权利，请联系此仓库所有者@MinamiChiwa 或直接发布Issue。**
+### 游戏资料
 
-### 原贡献者
+- 大多数**技能名称及技能描述翻译**来自[`B站赛马娘中文WIKI`](https://wiki.biligame.com/umamusume/%E6%8A%80%E8%83%BD%E9%80%9F%E6%9F%A5%E8%A1%A8)
+- 大多数**赛马娘皮肤名称翻译**来自[`萌娘百科`](https://zh.moegirl.org.cn/%E8%B5%9B%E9%A9%AC%E5%A8%98_Pretty_Derby/%E8%AF%91%E5%90%8D%E5%AF%B9%E7%85%A7%E8%A1%A8)
 
-#### 简体中文
 
-- @AirJerryWhite
-- @Yaklo
-- @july20026
-- @RikkaTakanaishi
-- @羲羲
-
-#### 繁体中文
-
-- @yotv2000tw
 
 ### 如何贡献【建议加频道，频道内可以提供更多汉化相关的工具】
 
