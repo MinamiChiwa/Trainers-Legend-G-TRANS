@@ -10,6 +10,10 @@
 - 此插件的汉化进度目前为 **部分汉化**
 [翻译进度及比赛译名对照表](http://docs.qq.com/sheet/DYkFFZVJudWxTa1Vq)
 
+# 赞助
+
+[`爱发电`](https://afdian.net/@Trainers-Legend-G)
+
 # 贡献者
 
 ## 翻译
