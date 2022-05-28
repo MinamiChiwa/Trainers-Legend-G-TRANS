@@ -73,7 +73,7 @@
 | 1035 | WINnin’ 5 －ウイニング☆ファイヴ－ | 完全翻译√ | 南千和                       |
 | 1037 | transforming                      | 完全翻译√ | *凉月crella（Bilibili）      |
 | 1048 | BLOW my GALE                      | 完全翻译√ | 南千和                       |
-
+| 1050 | We are DREAMERS!!                 | 完全翻译√ | 南千和                       |
 
 
 ## 角色及皮肤名
