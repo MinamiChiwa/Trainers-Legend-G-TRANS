@@ -59,6 +59,7 @@
 | 1004 | Never Looking Back                | 完全翻译√ | *SinonJZH（萌娘百科）        |
 | 1005 | 彩 Phantasia                      | 完全翻译√ | 南千和                       |
 | 1006 | Make debut!                       | 完全翻译√ | 南千和                       |
+| 1007 | ENDLESS DREAM!!                   | 完全翻译√ | 南千和                       |
 | 1008 | NEXT FRONTIER                     | 完全翻译√ | 南千和                       |
 | 1009 | UNLIMITED IMPACT                  | 完全翻译√ | 南千和                       |
 | 1012 | グロウアップ・シャイン！          | 完全翻译√ | *雪村あおいaoi（Bilibili）   |
