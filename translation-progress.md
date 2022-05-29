@@ -47,7 +47,7 @@
 | 单格漫画标题                        | 完全翻译√      |正在获取授权                                                  |
 | 秘密                               | 完全翻译√      | 南千和                                                       |
 | 技能名及描述                       | 翻译中（长期） | [B站赛马娘中文WIKI](https://wiki.biligame.com/umamusume/%E6%8A%80%E8%83%BD%E9%80%9F%E6%9F%A5%E8%A1%A8)、南千和 |
-| 角色档案                           | 翻译中（长期） | *Linxesu（萌娘百科）、[其他萌娘百科用户]、*冰羽洛白（Bilibili）(https://zh.moegirl.org.cn/%E8%B5%9B%E9%A9%AC%E5%A8%98_Pretty_Derby/%E8%AF%91%E5%90%8D%E5%AF%B9%E7%85%A7%E8%A1%A8)、[B站赛马娘中文WIKI](https://wiki.biligame.com/umamusume/%E6%8A%80%E8%83%BD%E9%80%9F%E6%9F%A5%E8%A1%A8) |
+| 角色档案                           | 翻译中（长期） | *Linxesu（萌娘百科）、[其他萌娘百科用户](https://zh.moegirl.org.cn/%E8%B5%9B%E9%A9%AC%E5%A8%98_Pretty_Derby/%E8%AF%91%E5%90%8D%E5%AF%B9%E7%85%A7%E8%A1%A8)、*冰羽洛白（Bilibili）、[B站赛马娘中文WIKI](https://wiki.biligame.com/umamusume/%E6%8A%80%E8%83%BD%E9%80%9F%E6%9F%A5%E8%A1%A8) |
 | 闪耀期刊                           |                |                                                              |
 
 
