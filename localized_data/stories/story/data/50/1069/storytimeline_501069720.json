@@ -1,0 +1,809 @@
+{
+  "Title": "安〜心笹针师，参☆上",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "这一天，为了确认<chrname>的身体状况，\n我们一起来到了保健室——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "啊，来啦来啦ー！客人……不是，\n是学生呀！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "受伤了？\u3000生病了？\u3000还是有什么精神创伤？\n都一样啦，全部交给我吧！",
+      "ChoiceDataList": [
+        "……你谁啊！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "哎？呃……因为待在保健室里……\n那肯定是超厉害的保健室医生？\n……吧？",
+      "ChoiceDataList": [
+        "不对吧……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "啊哈哈，果然骗不过你们呢。\n那我就普通地报上大名咯。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "咳咳！\n行不改名，坐不改姓！在下便是――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "无数马娘（大概）的救世主！\n拥有奇迹之手（自称）之称的笹针師！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "名为『<color=#26C611>安心泽\u3000刺刺美</color>』噢！！\n啊哈☆",
+      "ChoiceDataList": [
+        "…………"
+      ],
+      "ColorTextInfoList": [
+        "安心泽\u3000刺刺美"
+      ]
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "那……那个……\r\n虽说以貌取人是个很不好的习惯，\r\n但是这位实在是有点……呃……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "呜哇，好像不是说“啊哈☆”的时候呢",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "好啦好啦好啦，总之呢。\n自我介绍也做完了，要我扎哪儿吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "不、不用不用不用！如果我这辈子一定要被什么\r\n东西扎到的话，我希望那只是团子串的竹串！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "啊哈哈！不用害怕哦？\n只要让我用秘传的笹针法扎一下穴位就好！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "这样一来，劈里啪啦……咔擦咔擦……\n总之立马就会变得超~级厉害的！",
+      "ChoiceDataList": [
+        "（好可疑……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "啊！有言在先，这可一点不可疑噢！\n我的针灸一次都没失败过哦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "……我师父是这样。",
+      "ChoiceDataList": [
+        "说的是你师父吗！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "好啦ー好啦ー我虽然也是第一次独立工作，\n从宏观角度来看怎么都不可能失败哦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "在那拥有传说之名的师父手下喝了十年茶……\n不对，修行了十年。所以放心啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "啊☆哈～",
+      "ChoiceDataList": [
+        "（这可疑程度要溢出来了……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "无论怎么说也不能听信这种家伙的胡话。\r\n 在我打算带着<chrname>离开的时候——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "等、等下等下等下、等一下嘛！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "仔细一看，这不是樱花千代王吗？！\r\n那个憧憬着丸善斯基，\r\n全心全意努力着的那个赛马娘！",
+      "ChoiceDataList": [
+        "……你认识的吗……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "当然认识啦！我在比赛里见过她！！\n我是粉丝哦！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "我、我是来给你们加油的！\n我是来帮助你们的！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "所以求你了～～～！！\n拜托了，就让我扎一下吧~！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "感、感谢您的支持！\r\n……说不定，\r\n她其实是个温柔的人……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "求你了求你了求你了！\r\n就让我扎一下吧！\r\n你可以自己选要扎哪个穴位哦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "绝～对不会失败的哦～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "……应该。",
+      "ChoiceDataList": [
+        "你刚刚说应该了吧！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "我的意思是——应该的程度到了绝对的水平了！\n……的感觉吧……？\n……别在意那些小事啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "那我现在就开始瞄准穴位了哦！？\n提升能力的，提升健康程度的……\n还有提升魅力的，什～么都有哦！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……我嗅到了一丝危险的香味。\n要是真的成功了，说不定……\n大概的确会有厉害的效果……吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "要怎么做呢……？",
+      "ChoiceDataList": [
+        "扎能大幅增强实力的穴位！",
+        "扎能在比赛中更容易获胜的穴位！",
+        "扎能变得健康而精力充沛的穴位！",
+        "扎能够提升魅力的穴位！",
+        "实在太可疑所以算了吧。"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "嚯嚯……\n『能成为强大赛马娘』的穴位呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "那么，我就扎了哦？真的要扎了哦？\n真的真的真的要扎了哦？",
+      "ChoiceDataList": [
+        "是",
+        "否"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "OKOK——交给我吧！\n来吧竹针——穴位锁定！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "放轻松哦~哇哦，啊哈☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "砰！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "……噫呀？！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "大成功！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "哇……？！\r\n力量正在不断地涌出来——！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "这简直可以这样说呢！——\r\n『樱花树的成长，离不开笹针一刺』！\r\n啊啊～身体好轻盈！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "欸？成功了？\n真的？哎？？？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "不会吧～～～！！\n我真的做到了～！？！？\n我可真是个天才～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "<chrname>肉眼可见地充满了力量！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "看来我们抓住了那微乎其微的可能性呢。\n感觉今后也能更加大步地向梦想迈进了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "呜呜呜呜呜……训练员…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "今后一定要吸取教训…………\r\n『笹針什么的真的痛死了』……\r\n呜呜……连格言都开始编不出来……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "<chrname>……肉眼可见地变弱了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "啊～……嘛……\n就是那个……对吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "……那，拜拜～☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "被怪人所诱惑，害担当马娘遭遇这种事情……\n我陷入了深深的自责之中……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "嚯嚯，\n『瞄准能赢到手软的穴位』呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "那么，我就扎了哦？真的要扎了哦？\n真的真的真的要扎了哦？",
+      "ChoiceDataList": [
+        "是",
+        "否"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "OKOK——交给我吧！\n来吧竹针——穴位锁定！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "放轻松哦~哇哦，啊哈☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "砰！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "……噫呀？！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "大成功！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "哇……？！\r\n力量正在不断地涌出来——！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "这简直可以这样说呢！——\r\n『樱花树的成长，离不开笹针一刺』！\r\n啊啊～身体好轻盈！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "欸？成功了？\n真的？哎？？？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "不会吧～～～！！\n我真的做到了～！？！？\n我可真是个天才～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "<chrname>的技量，极大量地提升了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "看来我们抓住了那微乎其微的可能性呢。\n感觉今后也能更加大步地向梦想迈进了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "呜呜呜呜呜……训练员…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "今后一定要吸取教训…………\r\n『笹針什么的真的痛死了』……\r\n呜呜……连格言都开始编不出来……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "<chrname>……肉眼可见地变弱了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "啊～……嘛……\n就是那个……对吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "……那，拜拜～☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "早知道就不该接受这种奇怪的要求……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "嚯嚯，\n『瞄准能变得健康的穴位』呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "那么，我就扎了哦？真的要扎了哦？\n真的真的真的要扎了哦？",
+      "ChoiceDataList": [
+        "是",
+        "否"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "OKOK——交给我吧！\n来吧竹针——穴位锁定！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "放轻松哦~哇哦，啊哈☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "砰！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "……噫呀？！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "大成功！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "哇……？！\r\n力量正在不断地涌出来——！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "这简直可以这样说呢！——\r\n『樱花树的成长，离不开笹针一刺』！\r\n啊啊～身体好轻盈！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "欸？成功了？\n真的？哎？？？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "不会吧～～～！！\n我真的做到了～！？！？\n我可真是个天才～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "<chrname>的全身，\n如今好像正散发着光辉！\n健康的能量正从她身上迸发而出！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "看来我们抓住了那微乎其微的可能性呢。\n感觉今后也能更加大步地向梦想迈进了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "呜呜呜呜呜……训练员…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "今后一定要吸取教训…………\r\n『笹針什么的真的痛死了』……\r\n呜呜……连格言都开始编不出来……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "<chrname>……肉眼可见地变弱了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "啊～……嘛……\n就是那个……对吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "……那，拜拜～☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "早知道就不该接受这种奇怪的要求……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "嚯嚯，\n『瞄准提升魅力的穴位』呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "那么，我就扎了哦？真的要扎了哦？\n真的真的真的要扎了哦？",
+      "ChoiceDataList": [
+        "是",
+        "否"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "OKOK——交给我吧！\n来吧竹针——穴位锁定！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "放轻松哦~哇哦，啊哈☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "砰！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "……噫呀？！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "大成功！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "哇……？！\r\n力量正在不断地涌出来——！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "这简直可以这样说呢！——\r\n『樱花树的成长，离不开笹针一刺』！\r\n啊啊～身体好轻盈！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "欸？成功了？\n真的？哎？？？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "不会吧～～～！！\n我真的做到了～！？！？\n我可真是个天才～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "<chrname>的魅力，\n如今已经提升到回头率100%的程度了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "看来我们抓住了那微乎其微的可能性呢。\n感觉今后也能更加大步地向梦想迈进了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "呜呜呜呜呜……训练员…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "今后一定要吸取教训…………\r\n『笹針什么的真的痛死了』……\r\n呜呜……连格言都开始编不出来……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "<chrname>……肉眼可见地变弱了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "啊～……嘛……\n就是那个……对吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "……那，拜拜～☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "早知道就不该接受这种奇怪的要求……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "欸欸？别、别这么说嘛……",
+      "ChoiceDataList": [
+        "算了算了",
+        "我再考虑一下……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "——喂，站住！\n你不法侵入了这个学园了吧？！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "噫呀？！不妙，被发现了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "……那，我就先溜啦～☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "啊？！站、站住！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "……『心急吃不了热胡萝卜』呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "赛马娘的成长不存在抄近道可言！\r\n我会继续相信训练员的指导，每日精进的！",
+      "ChoiceDataList": [
+        "对呢……",
+        "是呢……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "安心泽究竟是何许人也……\n但无论我怎么打听都没人认识这样的家伙。\n算了，就当今天的事情没发生过吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "哎呀，搞错了？\n嘛，有时候就是会这样呢~",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "那，我再确认一次哦？\n真的要扎这个孔吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "可别着急哦~？\n就算讨厌也要记得耐心等待，只要等下去的话——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "——喂，站住！\n你不法侵入了这个学园了吧？！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "噫呀？！不妙，被发现了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心泽刺刺美",
+      "Text": "……那，我就先溜啦～☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "啊？！站、站住！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……一直烦恼这种事情的话，\n总觉得莫名火大。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我与<chrname>无言地对视——\r\n并且默契地决定就当刚刚的一切都没发生过。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
