@@ -44,7 +44,7 @@
 | 比赛实况`race_jikkyo_message.json` | 完全翻译√      | 南千和                                                       |
 | 比赛解说`race_jikkyo_comment.json` | 完全翻译√      | 南千和                                                       |
 | 单格漫画图片                        | 完全翻译√      | 南千和（译）、海带鸡Poi（嵌字）、虚拟狗头人（修图）、狸（修图）  |
-| 单格漫画标题                        | 完全翻译√      | *-CLCL-（Bilibili）                                         |
+| 单格漫画标题                        | 完全翻译√      | *-CLCL-（Bilibili）、南千和                                  |
 | 秘密                               | 完全翻译√      | 南千和                                                       |
 | 技能名及描述                       | 翻译中（长期） | [B站赛马娘中文WIKI](https://wiki.biligame.com/umamusume/%E6%8A%80%E8%83%BD%E9%80%9F%E6%9F%A5%E8%A1%A8)、*伊洛伊白（Bilibili）、*双枪狙击twoguns（Bilibili）、*シキ_（Bilibili）、南千和 |
 | 角色档案                           | 翻译中（长期） | *Linxesu（萌娘百科）、[萌娘百科](https://zh.moegirl.org.cn/%E8%B5%9B%E9%A9%AC%E5%A8%98_Pretty_Derby/%E8%AF%91%E5%90%8D%E5%AF%B9%E7%85%A7%E8%A1%A8)、*伊洛伊白（Bilibili）、[B站赛马娘中文WIKI](https://wiki.biligame.com/umamusume/%E6%8A%80%E8%83%BD%E9%80%9F%E6%9F%A5%E8%A1%A8) |
