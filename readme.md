@@ -13,7 +13,7 @@
 # 赞助
 
 - [`爱发电`](https://afdian.net/@Trainers-Legend-G)
-- [`赞助说明及支出明细`](donate_readme.md)
+- [`赞助说明及支出明细`](https://github.com/MinamiChiwa/Trainers-Legend-G/blob/main/donate_readme.md)
 
 # 贡献者
 **贡献者具体贡献内容请参考[翻译进度表](translation-progress.md)**
