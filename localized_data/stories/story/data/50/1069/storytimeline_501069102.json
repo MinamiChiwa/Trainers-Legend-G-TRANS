@@ -1,0 +1,400 @@
+{
+  "Title": "新年参拜",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "——在除夕之后，\r\n世间又因比赛的话题而热闹起来。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "观众A",
+      "Text": "喂喂，你看过小栗帽和玉藻十字的比赛了吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "观众B",
+      "Text": "肯定看了啊！\r\n不过，超级溪流也相当厉害的呀……\r\n居然能闯进那两个人的一对一决斗之中呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "观众A",
+      "Text": "闪耀・系列赛已经有这么多强大的赛马娘了，\r\n看来今年的比赛也会很有意思呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "观众B",
+      "Text": "媒体也躁动起来了呢！\r\n他们甚至评选出了代表时代的永世三强……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "永世三强"
+      ]
+    },
+    {
+      "Name": "观众B",
+      "Text": "啊～但是我听说，\r\n玉藻十字好像打算退出闪耀・系列赛了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "玉藻十字",
+      "Text": "咱的饭量本来就小，最近还吃啥都犯恶心。\r\n好像脚也比以前变得更重了，\r\n所以咱打算暂时休息一下。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "玉藻十字",
+      "Text": "这大概是身体发来的信号，它在提醒咱现在差不\r\n多是退役的时候了……吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "玉藻十字",
+      "Text": "哎，这种事儿对运动员而言也算是很常见啦。\r\n做事儿嘛，讲究个不愧于心，\r\n咱再和自个儿的身体好好谈谈再做决定吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "观众A",
+      "Text": "我也在网上看过那场见面会了……\r\n要真的退役了的话，以后赛场会变得寂寞的吧～\r\n明明她好不容易才把气氛炒热——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "喂喂，这边的诸位！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "诸位莫不是忘了谁啊？！\r\n以胜利装点其心之故乡・大井的大井之花——\r\n稻荷一可尚在此处哦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "稻荷一"
+      ]
+    },
+    {
+      "Name": "观众A",
+      "Text": "哦哦哦哦哦哦～说的不错啊，稻荷！！\r\n今年也要努力赢下GⅠ哦！\r\n你的时代已经来临啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "稻荷"
+      ]
+    },
+    {
+      "Name": "观众B",
+      "Text": "把小栗和溪流也打个落花流水的话，\r\n稻荷你就是最强的啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "小栗"
+      ]
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "哦哦，了然于心！\r\n若是诸位不仅仅满足于在屏幕前看比赛的话，\r\n就到现场来为我应援把！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "稻荷一",
+      "Text": "坚持战斗到独身一人才称得上江户之花！\r\n看我稻荷一要如何夺取比赛的胜利罢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "新年已至——而世间似乎正迎来新的变革。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "强者仍在如雨后春笋般不断涌现。\r\n照这状况，周围的任何一个赛马娘都有可能\r\n担当起整个时代——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "训练员！您看过玉藻同学的见面会了吗？",
+      "ChoiceDataList": [
+        "看了哦。",
+        "嗯，看了哦。"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "我吓了一跳呢……\r\n时间真是不等人啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "时间如滚滚江流，一去不复返……\r\n同时，也在不断改变着世间的事物……",
+      "ChoiceDataList": [
+        "但是你的信念却从未改变吧？",
+        "但是你的信念却从未改变吧？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "是的！就像你说的一样哦，训练员。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "那么，为了新的一年也能继续进步，\r\n咱们一起为许下新年愿望吧！",
+      "ChoiceDataList": [
+        "健\u3000康\u3000第\u3000一！严禁过度的自主训练！",
+        "为了进一步成长，先打好基础吧！",
+        "掌握把所有人都打个落花流水的技巧吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "……\r\n那个……难道您还在因为我『皋月赏』之前\r\n因为过度自主训练而受伤的事情生气吗……？",
+      "ChoiceDataList": [
+        "……你猜猜看？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "呜……我不会再犯那种错误啦！\r\n请不要用这种表情看我啦～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "我绝对、绝对、绝～对！不会再这么做了！\r\n我现在就去对神明大人发誓！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "无论过程如何，\r\n总之我和千代王一起进行了新年参拜。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "嘿……咻。\r\n啊……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "哦哦！那么，现在就是千代笔记登场的时候了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "千代笔记"
+      ]
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "嘿嘿……因为训练员您曾经告诉我，\r\n要随时记录自己的弱点嘛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "……您要看看吗？\r\n这一页上就是我的弱点哦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "总感觉，训练员您也该知道我的弱点了……\r\n哎嘿嘿……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "就这样，\r\n我和千代王一起许下了新年的新愿望。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "嘿……咻。\r\n啊……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "落花流水……落花流水……\r\n呣呣呣……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "喝！喝啊！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "哈啊——！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "这、这样如何呢……？\r\n刚试了下像八重同学那样气势满满地\r\n挥拳踢腿……",
+      "ChoiceDataList": [
+        "……还挺有模有样的？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "啊、啊哈哈……以前八重同学教我这防身术\r\n的时候也这么说过呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "就这样，\r\n我和千代王一起许下了新年的新愿望。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "嘿……咻。\r\n啊……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "章鱼烧的味道，真香啊……\r\n还有酱汁和鲣鱼干的味道……",
+      "ChoiceDataList": [
+        "要不去路边摊逛逛吧？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "诶？！不、不用啦！\r\n我肚子还不饿，没关系的啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "比起这个，咱们还是早点回去训练吧！\r\n我的双脚已经想跑得不得了了呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿尔丹",
+      "Text": "呼……嘶……\r\n呼……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "（啪嗒啪嗒啪嗒……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "主治医生",
+      "Text": "……阿尔丹大小姐。\r\n您又躲着我们悄悄进行康复训练了吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿尔丹",
+      "Text": "……实在是非常抱歉。\r\n我想尽快恢复好状态。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "主治医生",
+      "Text": "……\r\n但是，即便您这样勉强自己，\r\n复健之路也没有捷径可走。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿尔丹",
+      "Text": "……这……\r\n……好吧。我明白了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "主治医生",
+      "Text": "您明白我们的一片苦心就好。\r\n也请您千万要按照我们的建议进行康复训练，\r\n这样才能尽早回归赛场。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "主治医生",
+      "Text": "我等是世代侍奉目白家之人，\r\n即是您的手足，也是您的顾问。\r\n请您随意差遣我们。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白阿尔丹",
+      "Text": "……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "啊……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "学園から戻る道中、サクラチヨノオーは\nふと立ち止まった。",
+      "ChoiceDataList": [
+        "怎么了？",
+        "怎么啦？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "没什么，就是……\r\n好像，阿尔丹同学住的医院就在附近呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "阿尔丹同学，她有没有在看我的比赛呢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "……不，就算她没在看也无所谓。\r\n现在我可不能向阿尔丹同学撒娇。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "我一定要更加活跃，\r\n活跃到让她就算不想看也会注意到我的程度！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "即便回到学校之后，\r\n樱花千代王在训练中依旧干劲十足。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

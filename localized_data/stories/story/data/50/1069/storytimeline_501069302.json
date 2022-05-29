@@ -1,0 +1,539 @@
+{
+  "Title": "抽签机会！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "这天，我和千代王一起在外面买完东西，\r\n正在回去的路上时——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "哎呀？那是……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "走过路过千万不要错过！\r\n这里正在举办新春祈福抽奖祭典哦！\r\n特等奖可是『温泉旅行券』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "温泉旅行券"
+      ]
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "一等奖是『上等胡萝卜肉排』\n二等奖『一筐胡萝卜』\n三等奖是『一根胡萝卜』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "别错过别错过啊，这可是祈福抽签！\n不管什么人都可以抽，大家都来试试吧～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "哦哦，是祈福抽签呢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "对了，训练员！\r\n咱们刚刚买马蹄锉的时候是有抽奖券的吧！",
+      "ChoiceDataList": [
+        "要抽抽看吗？",
+        "你想抽吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "嗯。不过要是满怀期待地去抽奖，\r\n最后什么都没抽中的话，也觉得很抱歉呢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "啊，那我们可以一起抽吗！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "要是我们两个人一起抽的话，\r\n就算结果不太好，感觉也可以接受呢……\r\n哎嘿嘿……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我接受了千代王的提案，\r\n和她一起转动了抽奖器的手柄。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "那么结果是――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "没想到啊！可喜可贺，恭喜你！！\n是特等奖，『温泉旅行券』～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "获得了『<itemname>』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "……诶？！啊………………\r\n诶诶诶诶诶诶诶诶诶诶？！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "训、训练员！\r\n我……我们、那个……就是，这个！这个！！",
+      "ChoiceDataList": [
+        "好厉害，特等奖！！",
+        "好厉害，特等奖！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "是、是的！特等奖！\r\n我们中了特等奖！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "噫！好！我们中了！我们中了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "千代王高兴得忘乎所以，\r\n攥着旅行券在原地蹦跶起来。",
+      "ChoiceDataList": [
+        "恭喜你，千代王！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "谢谢你，训练员！\r\n嘿嘿嘿……完全没想到能中特等赏呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "哈哈哈，你们看上去像兄妹一样好啊。\r\n要不一块去旅行吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "哈哈哈，你们看上去像姐妹一样好啊。\r\n要不一块去旅行吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "诶？！啊……诶？！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "这不是一人份的吗？\r\n我也跟着一起去吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "啊啊，当然可以啊！\r\n要是让人们觉得商店街的大家都是连旅行券都\r\n只准备一人分的小气鬼就麻烦啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "……！原来这样啊……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "那、那……\r\n训练员……您愿意带我一起去嘛？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "要是一人份的旅行券的话，我觉得训练员拿着\r\n肯定会更好……\r\n但要是能一起去的话……我也有点想去了呢……",
+      "ChoiceDataList": [
+        "我当然愿意啦！不过，你真的愿意跟我去吗？",
+        "我当然愿意啦！不过，你真的愿意跟我去吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "肯定的啦！不如说，\r\n我就只想跟您一起去！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "那么大概什么时候安排旅行呢？\r\n最近这段时间可能都会比较忙呢……\r\n嗯……",
+      "ChoiceDataList": [
+        "等比赛暂时告一段落之后吧？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "是呢！嘿嘿，等时间定下来之后，\r\n我还得制作旅行用的书签呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "而且，温泉旅行什么的，\r\n我还是第一次和家人以外的人一起去呢！\r\n要是有卡啦OK就好啦～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我看了看旅行券。这个温泉旅馆，\r\n似乎就是以赛马娘们常去那儿治疗比赛的疲劳\r\n而闻名的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "——等到那个时候，\r\n再让她好好放松一下吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "可喜可贺，一等奖哦～！\n奖品是『上等胡萝卜肉排』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "获得了『<itemname>』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "唔哇！看上去好像很好吃呢！\r\n叔叔，非常感谢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "哈哈，不用谢我，\r\n这是小姑娘你运气好啦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "一眼就看得出来是个好孩子呢～\r\n应该是平时的善行得到回报了吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "哇？！诶、诶嘿嘿……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "是、是这样吗……\r\n真的非常谢谢您……",
+      "ChoiceDataList": [
+        "没错，千代王是个认真刻苦的好孩子哦！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "哈哇哇！训练员您怎么也开始了？！\r\n请别突然开始表扬我呀！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "虽然我也自认算得上认真和刻苦，\r\n但是，好孩子什么的……",
+      "ChoiceDataList": [
+        "但是千代王你就是好孩子啊？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "呼哇……\r\n等、等等……我有点……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "唔……唔咕咕……\r\n…………………………",
+      "ChoiceDataList": [
+        "千代王？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "训练员，您也是个好人哦？！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "正是因为训练员您也是个好人，所以咱们才能\r\n一起抽到一等奖！\r\n这不仅仅是我一个人的运气而已！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "只有好人和一个有点好的孩子加在一起，\r\n才能抽中这种厉害的奖品……唔……\r\n总之，大概就是这种感觉吧！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "所以说，这个……那个……呃……\r\n谢谢您，一等奖！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "千代王最后害羞得说了一大堆不明所以的话，\r\n接着就捂着脸飞快地跑远了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "为了表达捉弄她的歉意，\r\n我最后把肉排整个让给了她。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "二等奖！奖品是『一大筐胡萝卜』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "获得了『<itemname>』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "哦哦～篮子里全是胡萝卜，\r\n甚至见不到底诶……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "训练员，这么多胡萝卜全拿来做饭的话，\r\n甚至能吃整整两天呢！",
+      "ChoiceDataList": [
+        "你两天就能吃完吗？！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "是的！嘿嘿，就交给我吧。\r\n让您见识一下我母亲直传的秘制相扑锅！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "让我来给您做饭吧！\r\n昼・晚・夜三餐，一顿不落！",
+      "ChoiceDataList": [
+        "晚和夜有区别吗……？",
+        "晚和夜有区别吗……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "啊，确实啊……\r\n就算我晚上有空，\r\n训练员也可能会不大方便呢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "大半夜的还在训练员的房间里打扰您。\r\n实在是太过失礼了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "……好，我有办法啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "当天晚上……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "训练员～\r\n能麻烦您开下门吗～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "您好～\r\n千代特制相扑锅，配送完成～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "不仅仅是晚饭的分量，也加入了夜宵的分量哦！\r\n请您不必客气哦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她走后，我看着桌上离谱的大锅陷入沉思。\r\n这是我有生以来见过的最大的锅，而锅里还\r\n满满当当地塞着数量可怖的胡萝卜……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "三等奖！\n奖品是『一根胡萝卜』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "获得了『<itemname>』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "啊，我见过这种胡萝卜！\r\n这莫非就是最近街头巷尾都在传的\r\n『美味美味胡萝卜』吗？！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "哎呀，小姑娘你还挺识货的啊？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "哎嘿嘿……昨天电视上刚刚放过特辑呢！\r\n舌尖轻触一下——锵～\r\n甜味瞬间充斥在口腔～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "嘿嘿……哎嘿嘿……\r\n美味美味……好想快点吃吃看呢……",
+      "ChoiceDataList": [
+        "那就吃吧？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "哇啊！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "唔唔唔……抱歉，我光顾着自己乐了……\r\n……好想找个洞钻进去……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "千代王的脸颊一点点地变得通红。\r\n……反正人类也没有生吃胡萝卜的习惯，\r\n我把整根胡萝卜都让给千代王吃掉了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "非常遗憾！\n只抽到安慰奖『纸巾』呢～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "获得了『<itemname>』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "哎呀～……搞砸了～……\r\n……训练员，对不起……",
+      "ChoiceDataList": [
+        "这不是千代王的错啦。"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "唔，但是",
+      "ChoiceDataList": [
+        "你说过『就算结果不太好也可以接受呢』。"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "哎嘿嘿……好像是呢。\r\n总觉得失落的心情也被平分掉了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "和千代王一同承担了这份悔意，\r\n我们一起返回了学园。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
