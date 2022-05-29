@@ -17,62 +17,6 @@
 
 # 贡献者
 **贡献者具体贡献内容请参考[翻译进度表](translation-progress.md)**
-## 翻译
-
-### 目前的贡献者
-
-#### 简体中文
-
-- @MinamiChiwa（南千和）
-- @晖轩
-- @毫毛
-- @Chihyuen
-- @八意永恩
-- @uss-enterprise1071
-- @ManakaAo
-- @AirJerryWhite
-- @Yaklo
-- @july20026
-- @RikkaTakanaishi
-- @羲羲
-
-## 修图嵌字
-
-- @KiraPoi 【嵌字】
-- @虚拟狗头人 【修图】
-- @狸 【修图】
-
-## 译文搬运授权・参考
-
-### 主线剧情
-
-**主线剧情部分均有较大改动**
-
-- @秋裤SE7EN（Bilibili）【主线剧情第1~3章】
-- @凉月crella（Bilibili）【主线剧情第4章】
-- @凉月crella（Bilibili） @水银h2oag @ASD一ZERO @monsterwatari @シキ【主线剧情第5章、最终章前篇】
-
-### LIVE歌词
-
-- @SinonJZH（萌娘百科）【Never Looking Back】
-- @Suzuka Sairensu(萌娘百科) 【涙ひかって明日になれ！】
-- @凉月crella（Bilibili）【transforming】
-- @雪村あおいaoi(Bilibili) 【Grow up Shine!】【BLAZE】
-
-### 角色语音
-
-- @Linxesu（萌娘百科）【特别周、草上飞、大和赤骥语音】
-
-### 角色档案
-
-- @Linxesu（萌娘百科）【绝大部分】
-
-### 游戏资料
-
-- 大多数**技能名称及技能描述翻译、支援卡译名**来自[`B站赛马娘中文WIKI`](https://wiki.biligame.com/umamusume/%E6%8A%80%E8%83%BD%E9%80%9F%E6%9F%A5%E8%A1%A8)
-- 大多数**赛马娘皮肤译名、支援卡译名**来自[`萌娘百科`](https://zh.moegirl.org.cn/%E8%B5%9B%E9%A9%AC%E5%A8%98_Pretty_Derby/%E8%AF%91%E5%90%8D%E5%AF%B9%E7%85%A7%E8%A1%A8)
-
-
 
 ### 如何贡献【建议加频道，频道内可以提供更多汉化相关的工具】
 
