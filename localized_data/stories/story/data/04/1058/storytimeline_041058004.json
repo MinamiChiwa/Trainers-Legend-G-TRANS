@@ -1,0 +1,386 @@
+{
+  "Title": "对不起，但总有一天――",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "那天之后，名将怒涛一个人拼命地做训练。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名将怒涛",
+      "Text": "哈啊，哈啊，哈啊……！\r\n再、再来1圈……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名将怒涛",
+      "Text": "呼，嘿，呼……！\r\n累、累了……不行！\u3000这才刚刚开始！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "不言放弃，一心向前――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名将怒涛",
+      "Text": "要跑出、最好的、比赛，哒啊啊啊啊啊～～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名将怒涛",
+      "Text": "――哎呀！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "……呵！\u3000做得很好啊，怒涛！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "――然后，来到了『多项目竞技大赛』当天！\r\n观众席上，挤满了参赛的马娘和前来观战的马娘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "同学Ａ",
+      "Text": "听说了吗？\u3000怒涛要跟歌剧在1800m赛上对决哦！\r\n叫什么『我与怒涛，华丽的交响曲』？\u3000看，这是传单！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "同学Ｂ",
+      "Text": "传单？\u3000……虽然槽点不少，\r\n但总之，怒涛要去对决的话……绝对会搞砸的吧ー。",
+      "ChoiceDataList": [
+        "（加、加油，名将怒涛……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "今天，让我们奏出最棒的交响曲吧！\r\n拜托你了哦，怒涛！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名将怒涛",
+      "Text": "好、好的……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名将怒涛",
+      "Text": "呼～哈～……！\r\n鞋带是好的，号码布是好的，肚子也，没有疼！\u3000要加油咯……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况",
+      "Text": "赢得1800m的将会是谁呢！\r\n各马娘已入闸――开赛了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况",
+      "Text": "――比赛很快进入第3弯道。\r\n备受瞩目的好歌剧从中间集团开始瞄准前方。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名将怒涛",
+      "Text": "（身后就有歌剧同学的气息……！\r\n一定是开始发力了――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况",
+      "Text": "好，现在来到最终直线！\r\n外侧的是好歌剧，好歌剧冲上来了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名将怒涛",
+      "Text": "（来了……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "故事的结局，\r\n注定会落在我的Victory Road上……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "――哈啊啊啊啊啊ーー！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名将怒涛",
+      "Text": "（背、背影变得越来越小……！\r\n果然，歌剧同学，好、好厉害――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名将怒涛",
+      "Text": "――诶！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况",
+      "Text": "哎呀，名将怒涛，失去平衡了――！？\r\n是绊到脚了吗！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名将怒涛",
+      "Text": "（为什么，为什么这种时候……！\u3000果然，我――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "『不言放弃，是你的优点』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "『不言放弃，是你的优点』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名将怒涛",
+      "Text": "…………呜、呜、呜哦哦哦哦ーーー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况",
+      "Text": "但是她马上调整好了姿势，拼命追赶着歌剧！\r\n还剩200m――这样下去会是歌剧获胜吗！\u3000还是怒涛会追上！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名将怒涛",
+      "Text": "（要追上去……我，要追上去！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名将怒涛",
+      "Text": "哒啊啊啊啊ーーー！",
+      "ChoiceDataList": [
+        "……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况",
+      "Text": "好歌剧与名将怒涛，展开了激烈角逐！\r\n获胜的是――好歌剧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名将怒涛",
+      "Text": "哈啊，哈啊……哈啊～！\r\n果然我还是没能追上～……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名将怒涛",
+      "Text": "（但是……有许多露出笑容的孩子啊……我有，\r\n稍微成为，帮得上歌剧同学的马娘吗……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "呜呼，回荡在我耳边的喝彩，还有赞美我的眼神！\r\nExcellent！\u3000感谢，感谢诸君！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "但，我们不能忽视这场演出的功臣！\u3000对，这是拥有\r\n连我都赞叹的不屈不挠精神的，名将怒涛的功劳！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名将怒涛",
+      "Text": "诶！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "她献出了一场不亚于才华横溢的我的精彩表演，\r\n请再一次向她致以热烈的掌声！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "（哇啊啊ー！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名将怒涛",
+      "Text": "哇、哇啊……！\u3000非、非常感谢！？\r\n为什么！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "你那可以与我相提并论的韧性，超出我的期待！\r\n虽然和我预想的一样，但再说一次，能选择你真是太好了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名将怒涛",
+      "Text": "诶，邀请我不是偶然吗……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "哈哈哈！\u3000你在说什么呢！\r\n今后也请多多关照哦，怒涛！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名将怒涛",
+      "Text": "…………！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "热烈的掌声，再次包围了站着一动不动的怒涛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "同学Ａ",
+      "Text": "紧张死了～！\u3000还以为她会摔倒呢～！\r\nNice Recovery！\u3000怒涛，干得好ー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "已经没有嘲笑名将怒涛的马娘了。\r\n我还没压抑住兴奋情绪，就朝着名将怒涛身边走去。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名将怒涛",
+      "Text": "你来看了呢。谢谢……\r\n不管怎么说，能跑完真是太好了～……诶嘿嘿……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名将怒涛",
+      "Text": "总觉得……\r\n在今天的比赛中，我感觉，自己又向前迈进了一步～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "虽然现在说着轻松――\r\n但我知道，其实她膝盖上满是创可贴。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "我也知道，其实她擦了许多次眼泪。\r\n我还知道，她比任何人都更能从挫折中站起来。",
+      "ChoiceDataList": [
+        "你真是个坚强的马娘",
+        "你真是个坚强的马娘"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名将怒涛",
+      "Text": "诶……！？\u3000突、突然是怎么了！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "只要她想去改变，就一定会改变。\r\n因为，名将怒涛是一名绝对不会放弃的马娘。",
+      "ChoiceDataList": [
+        "――我想要看见你的未来",
+        "――我想要看见你的未来"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名将怒涛",
+      "Text": "……！\u3000那、那是说……！",
+      "ChoiceDataList": [
+        "希望你能成为由我负责的马娘"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名将怒涛",
+      "Text": "哇……！\u3000我我我、我我我，可、可、可以的吗！？",
+      "ChoiceDataList": [
+        "你可以的！",
+        "你可以的！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名将怒涛",
+      "Text": "我……我、我……！\u3000今天在跑的时候，\r\n想起了之前你对我说的话……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名将怒涛",
+      "Text": "『不言放弃，是你的优点』……\r\n那对我来说，就像护身符一样……所以……那个……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名将怒涛",
+      "Text": "『不言放弃，是你的优点』……\r\n那对我来说，就像护身符一样……所以……那个……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名将怒涛",
+      "Text": "我、我觉得，只要有你在，我就能够改变！\r\n所以，我才要，请你多多关照，训练员！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "（嘎！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名将怒涛",
+      "Text": "呀！？\u3000脚，脚ー！\u3000踩到脚了！\r\n你、你还好吗，训练员～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
