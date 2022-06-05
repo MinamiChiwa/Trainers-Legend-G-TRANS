@@ -1,5 +1,5 @@
 {
-  "Title": "第1話",
+  "Title": "应当效仿睡莲",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,230 +9,230 @@
     },
     {
       "Name": "",
-      "Text": "放課後、エアグルーヴが後輩たちのダンスレッスンを\r\n見ていると聞き、こっそり足を運んでみた。",
+      "Text": "放学后，我听说气槽在看后辈们的舞蹈课，\r\n就偷偷过去了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "气槽",
-      "Text": "隊列を乱すな！\u3000ボックスからの、ターン！\r\nしっかりと首を切れ！",
+      "Text": "队列不要乱！\u3000方形步之后，转身！\r\n头要好好摇！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "马娘A",
-      "Text": "はい、先輩っ！",
+      "Text": "是，前辈！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "气槽",
-      "Text": "ワンテンポの遅れが命取りになるぞ！\u3000次、ヒールステップ！\r\n前列、――構え！",
+      "Text": "慢一个节拍可就致命了！\u3000接下来，高跟鞋步！\r\n前排，――准备！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "马娘A",
-      "Text": "はい、先輩っ！",
+      "Text": "是，前辈！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "口調は厳しいが、的確な指示が飛ぶ。\r\nこれがエアグルーヴ式のダンスレッスンのようだ。",
+      "Text": "虽然语气很严厉，但指示非常准确。\r\n这可能就是气槽式的舞蹈课吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "气槽",
-      "Text": "よーし、次はユニゾンの訓練だ！\r\n速やかに二人一組になり、ルーティンを開始せよ！",
+      "Text": "好ー，接下来是齐唱训练！\r\n迅速组成两人一组，开始固定动作！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "马娘们",
-      "Text": "はぁ～い！",
+      "Text": "是～！",
       "ChoiceDataList": [
-        "ずいぶんハイレベルなプログラムだな",
-        "ずいぶんハイレベルなプログラムだね"
+        "还真是个高水平的节目呢",
+        "还真是个高水平的节目呢"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "气槽",
-      "Text": "む、貴様……いたのか。",
+      "Text": "嗯，你这家伙……也在啊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "气槽",
-      "Text": "ウイニングライブも完璧にこなしてこそ、ウマ娘だ。\r\n特にダンスは、体に染み込ませることで――",
+      "Text": "胜者舞台也能够完美完成，才叫真正的马娘。\r\n特别是舞蹈，要让它渗到身体当中――",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "马娘B",
-      "Text": "エアグルーヴ先輩から手ほどきいただけるなんて！",
+      "Text": "竟然能得到气槽前辈的指导！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "马娘C",
+      "Text": "不能让她看到我们难看的样子！\r\n奋力地转吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "那个干劲十足的后辈，一下子失去了平衡――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "气槽",
+      "Text": "那块，移开视线的话――危险！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "马娘B",
+      "Text": "呀啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "气槽",
+      "Text": "……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "气槽突然挺身而出，保护了后辈……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "赛马娘C",
-      "Text": "みっともない姿はみせられないわ！\r\n気合いれて回っちゃう！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "はりきった後輩は、大きく体勢を崩し――",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "气槽",
-      "Text": "そこっ、目を逸らしたら――危ないっ！！",
+      "Text": "疼疼疼疼……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "马娘B",
-      "Text": "きゃあっ！",
-      "ChoiceDataList": [],
+      "Text": "哇啊啊！？\r\n气槽前辈！\u3000前辈，振作起来！",
+      "ChoiceDataList": [
+        "气槽！你还好吧！？",
+        "气槽！你还好吧！？"
+      ],
       "ColorTextInfoList": []
     },
     {
       "Name": "气槽",
-      "Text": "嘁……！",
+      "Text": "……我没事。你用不着大惊小怪的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "エアグルーヴは、とっさに身をていして後輩を庇った……！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "赛马娘C",
-      "Text": "いったたたた……。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "马娘B",
-      "Text": "きゃああッ！？\r\nエアグルーヴ先輩！\u3000先輩、しっかりしてください！",
-      "ChoiceDataList": [
-        "エアグルーヴ！大丈夫か！？",
-        "エアグルーヴ！大丈夫！？"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "气槽",
-      "Text": "……大丈夫だ。騒ぐようなことじゃない。",
+      "Text": "由碰撞引发的摔倒事故……\u3000我说服了坚称『没问题』的气槽，\r\n把她带到了保健室。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "接触による転倒事故……。『問題ない』と言い張る\r\nエアグルーヴを説得し、保健室へ連れていった。",
+      "Text": "医生说，只是轻微的扭伤。\r\n虽然有点肿起，但还好没伤到韧带和骨头。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "气槽",
+      "Text": "这种程度的话，没什么问题。\r\n我要回去作指导了。告辞。",
+      "ChoiceDataList": [
+        "等会儿！",
+        "等会儿！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "气槽",
+      "Text": "……为什么要阻止我？后辈们还在等着我呢。\r\n我有责任去指导她们。",
+      "ChoiceDataList": [
+        "我希望你能更重视自己"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "气槽",
+      "Text": "自己？\u3000自我管理的话，我做的很彻底了。\r\n你这家伙没理由来指点我。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "气槽",
+      "Text": "作为“女帝”，搁置对后辈的指导是不可理喻的。\r\n就这点小伤――",
+      "ChoiceDataList": [
+        "你是很重要的！",
+        "你是很重要的！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "气槽",
+      "Text": "！？\u3000……太近了太近了！\r\n给我保持适当的距离再讲话！！",
+      "ChoiceDataList": [
+        "对、对不起",
+        "对、对不起"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "气槽",
+      "Text": "……喂。能不能收起你那张可怜巴巴的脸。\r\n真是的，你这个家伙。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "气槽",
+      "Text": "但是……\r\n…………啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "气槽",
+      "Text": "我知道了，今天就先修养。\r\n我去向后辈们道歉，并告诉她们日后补上。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "气槽",
+      "Text": "我所要达到的境界，是成为所有马娘理想中的“女帝”――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "气槽",
+      "Text": "……让训练员操心的身体状况，\r\n可根本称不上是理想。",
+      "ChoiceDataList": [
+        "气槽……！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "气槽",
+      "Text": "得了，话题到此为止！\r\n既然已经决定了，就要好好休息。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "气槽",
+      "Text": "……我是说我要睡一觉。你打算看我到什么时候？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "医者によると、軽い捻挫とのことだった。\r\n少し腫れてはいるが、幸い靭帯や骨には影響ないようだ。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "气槽",
-      "Text": "その程度なら、なんら問題はないな。\r\n私は指導に戻るぞ。失礼。",
-      "ChoiceDataList": [
-        "待った！",
-        "待って！"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "气槽",
-      "Text": "……なぜ止める。後輩を待たせているんだぞ。\r\n私には、彼女らを指導する責任がある。",
-      "ChoiceDataList": [
-        "もっと自分のことを大切にしてほしい"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "气槽",
-      "Text": "自分のこと？\u3000自己管理ならば徹底している。\r\n貴様に指図される筋合いはない。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "气槽",
-      "Text": "“女帝”たるもの、後進の指導を放り出すなど言語道断。\r\nこれしきのケガなど――",
-      "ChoiceDataList": [
-        "君が大事なんだ！",
-        "貴方が大事なの！"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "气槽",
-      "Text": "ッ！？\u3000ち……近い近いっ！\r\n適正な距離で話さんかっ！！",
-      "ChoiceDataList": [
-        "……抱歉。",
-        "ご、ごめんなさい"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "气槽",
-      "Text": "……おい。その情けない顔をやめんか。\r\nまったく、貴様という奴は。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "气槽",
-      "Text": "だが……。\r\n…………はぁ。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "气槽",
-      "Text": "わかった、本日はこれより休養とする。\r\n後輩たちには謝罪と、後日の埋め合わせを伝えよう。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "气槽",
-      "Text": "私が至るべき境地は、あらゆるウマ娘の理想となる“女帝”――",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "气槽",
-      "Text": "……トレーナーに気苦労をかけるような体たらくでは、\r\n理想などと呼べんからな。",
-      "ChoiceDataList": [
-        "エアグルーヴ……！！"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "气槽",
-      "Text": "ええい、話は終わりだ！\r\n決定した以上、万全な休息を取るぞ。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "气槽",
-      "Text": "……ひと眠りすると言っている。いつまで見ている気だ？",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "保健室から追い出される羽目にはなったものの、\r\nエアグルーヴは体を休めることを選んでくれたのだった。",
+      "Text": "虽然我被她给赶出了保健室，\r\n但气槽最终还是选择休息了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }
