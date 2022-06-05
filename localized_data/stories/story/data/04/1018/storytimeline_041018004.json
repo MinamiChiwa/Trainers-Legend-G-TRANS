@@ -1,5 +1,5 @@
 {
-  "Title": "いつか花咲くその日まで",
+  "Title": "直到花开的那一天",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,175 +9,175 @@
     },
     {
       "Name": "气槽",
-      "Text": "私は“女帝”エアグルーヴ。あらゆるウマ娘の理想を体現し、\r\n皆にとっての指針となるためにこの名が在る。",
+      "Text": "我是“女帝”气槽。我这个名字的存在是为了\r\n体现所有马娘的理想，成为所有人的行动准则。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "常に自らが志した“女帝”であろうとする、エアグルーヴ。",
+      "Text": "气槽一直在努力成为她所渴望成为的“女帝”。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "その真意を完全に理解したとはまだ言えないだろう。\r\nだが同じ景色を見て、ひたすら考えるうちに1つの答えは出ていた。",
+      "Text": "虽然我现在还不能说完全理解了她的本意，但看了\r\n与她相同的景色，我在不断思考的过程中得出了一个答案。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "目白多伯",
-      "Text": "なるほど……！\r\nありがとうございます。やってみます……！",
+      "Text": "原来如此……！\r\n非常感谢。我试试看……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "无声铃鹿",
-      "Text": "ええ……！\u3000ありがとう、エアグルーヴ。",
+      "Text": "是……！\u3000谢谢你，气槽。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "後輩たちの明るい表情と、\r\nそして何より、それを優しく見守るエアグルーヴの眼差し。",
+      "Text": "后辈们明朗的表情，\r\n以及比任何人都温柔地注视着她们的气槽的眼神。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "きっと後輩への指導も、生徒会活動も、\r\nエアグルーヴにとってはとても大切にせねばならないことなのだ。",
+      "Text": "无论是对后辈的指导，还是学生会的活动，\r\n对气槽来说都是非常重要的吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "ならば――",
+      "Text": "那样的话――",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "马娘A",
-      "Text": "――えっ？\u3000私の自主トレメニュー、エアグルーヴ先輩の代わりに\r\nトレーナーさんが見てくださるんですか！？",
+      "Text": "――诶？\u3000我的自主训练项目，由训练员来代替\r\n气槽前辈去审视吗！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "马娘A",
-      "Text": "わぁっ、ありがとうございます！！\r\nじゃあまず、アクセル筋の鍛え方なんですけど……。",
+      "Text": "啊，非常感谢！！那么，首先是加速肌*的训练方法……\r\n（原文为「アクセル筋」，无标准中文译法，指股后肌群\r\n与髂腰肌）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "生徒会役員",
-      "Text": "あ～ん、資料をまとめるのって難しいよ～……。\r\n副会長に相談しに行こうかなぁ……。",
+      "Name": "学生会职员",
+      "Text": "啊～，整理资料好困难啊～……\r\n去找副会长请教一下吧……",
       "ChoiceDataList": [
-        "よかったら俺が代わりに聞くよ",
-        "よかったら私が代わりに聞くよ"
+        "可以的话，我来代替她帮你吧",
+        "可以的话，我来代替她帮你吧"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "生徒会役員",
-      "Text": "えっ、いいんですか！？\u3000じゃあお願いしますー！\r\nこの投票結果のまとめ方なんですが――",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "气槽",
-      "Text": "おい。貴様、何を考えている？",
-      "ChoiceDataList": [
-        "何のことだ？",
-        "何のこと？"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "气槽",
-      "Text": "とぼけるな。私が気付かんとでも思ったか？\r\n貴様、私の後輩指導や生徒会活動を肩代わりしているだろう。",
+      "Name": "学生会职员",
+      "Text": "诶，可以吗！？\u3000那就拜托了ー！\r\n关于这些投票结果的汇总――",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "气槽",
-      "Text": "なぜそのような事をする。\r\n……無駄な事は自分が肩代わりするから、とでも言いたいのか？",
+      "Text": "喂。你这家伙，脑子里想什么呢？",
+      "ChoiceDataList": [
+        "什么事？",
+        "什么事？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "气槽",
+      "Text": "别装傻。你以为我没注意到吗？\r\n你这家伙，在替代我进行后辈指导和学生会活动吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "气槽",
-      "Text": "どうなんだ、答えろ！\r\n返答次第では、即刻契約打ち切りだ！！",
+      "Text": "你为什么要做那种事。\r\n……难道你是想说，“无谓的事情由我来承担”吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "气槽",
+      "Text": "怎么回事，回答我！\r\n根据你的回答，我来决定是否要立刻终止合同！！",
       "ChoiceDataList": [
-        "君が大切にしている事を、俺も大切にしたい",
-        "貴方が大切にしている事を私も大切にしたい"
+        "你所珍惜的事，我也想去珍惜",
+        "你所珍惜的事，我也想去珍惜"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "气槽",
-      "Text": "……何？",
+      "Text": "……什么？",
       "ChoiceDataList": [
-        "トレーナーとして、君の手伝いをさせて",
-        "トレーナーとして、貴方の手伝いをさせて"
+        "让我作为训练员，来帮你的忙吧",
+        "让我作为训练员，来帮你的忙吧"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "气槽",
-      "Text": "手伝い、だと……？",
+      "Text": "帮忙，是吗……？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "後輩指導も生徒会活動もこれまで通り続けつつ、自分を頼りながら\r\nトレーニングの時間を確保してほしい、とエアグルーヴに伝えた。",
+      "Text": "我告诉气槽，希望她能一如既往地继续进行后辈指导和\r\n学生会活动，并通过依靠我来确保训练的时间。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "气槽",
-      "Text": "ふん、『自分を頼れ』ときたか。\r\nそういう事はもっと頼り甲斐を得てから口にしろ。",
+      "Text": "哼，竟然说『依靠我』吗。\r\n那种事等你有了可被依靠的价值再说吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "气槽",
-      "Text": "だが……。\r\n………………。",
+      "Text": "但是……\r\n………………",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "气槽",
-      "Text": "専属契約は続行する。以上だ。",
+      "Text": "专属合同继续履行。就这样。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "气槽",
-      "Text": "……大志へと続く道を共に歩む、信頼に足る杖。",
+      "Text": "……在迈向远大志向的道路上的，\r\n值得信赖的拐杖。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "气槽",
-      "Text": "『トレーナー』……か。",
+      "Text": "这就是『训练员』……吗。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "こうして、多忙なエアグルーヴを少しずつ手伝いながら、\r\nこれまで以上に気合いを入れたトレーニングを続けていった。",
+      "Text": "就这样，我一边帮助着忙碌的气槽，\r\n一边进行着比以往更有干劲的训练。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "そして迎えた未勝利戦にて、エアグルーヴは――",
+      "Text": "然后迎来了未冠赛，气槽她――",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "实况",
-      "Text": "好スタートから一気に先頭まで躍り出ましたのは、\r\n1番人気エアグルーヴ！\u3000デビュー戦の雪辱を果たせるか！",
+      "Text": "顺利起跑并一口气冲到最前面的，是第一人气气槽！\r\n她能否一雪出道战的前耻呢！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -189,199 +189,199 @@
     },
     {
       "Name": "实况",
-      "Text": "ここで更に加速っ！\u3000速い速い、エアグルーヴ！！\r\n格の違いを見せつけるかの如く、後続を突き放していく！！",
+      "Text": "在这里再次加速！\u3000好快好快，气槽！！\r\n仿佛要显示级别的不同一样，把后方远远拉开！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "实况",
-      "Text": "ゴォォォーーーールインッ！！\r\n圧勝！！\u3000圧倒！！\u3000驚異の5バ身差！！",
+      "Text": "冲ーーーー线！！\r\n压倒性胜利！！\u3000压倒性！！\u3000以惊人的5马身差！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "实况",
-      "Text": "比類無き“女帝”、エアグルーヴ！！\r\nその伝説が今、幕を開けましたっ！！",
+      "Text": "无与伦比的“女帝”，气槽！！\r\n属于她的传说，现在拉开帷幕！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "見事な勝利を飾ることができた翌日。\r\nエアグルーヴから『手伝ってほしいことがある』とメールが届いた。",
+      "Text": "漂亮地取胜后的第二天。\r\n气槽给我发来消息，说『有件事想请你帮忙』。",
       "ChoiceDataList": [
-        "（エアグルーヴの方から頼ってくれた！？）"
+        "（气槽有事拜托我！？）"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "急いで彼女の元へ向かおう……！！",
+      "Text": "赶紧去她那儿吧……！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "气槽",
-      "Text": "来たか。\r\n……む？\u3000貴様、なぜそんなに息を切らしている。",
+      "Text": "来了啊。\r\n……嗯？\u3000你这家伙，怎么这样气喘吁吁的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "气槽",
-      "Text": "まあいい……始めるぞ。\r\n注文していた種がようやく届いたのでな。",
+      "Text": "不过，算了……开始吧。\r\n我订购的种子终于送到了。",
       "ChoiceDataList": [
-        "種？何の？"
+        "种子？什么的？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "气槽",
-      "Text": "……花の種だ。",
+      "Text": "……花的种子。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "こうして、校舎裏の花壇に新たな花の種を植える作業を、\r\nエアグルーヴと一緒に行うことになった。",
+      "Text": "就这样，我开始和气槽一起在校舍后面的花坛里\r\n播种新花种。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "气槽",
-      "Text": "おい貴様、何度言ったらわかる！\r\n種を蒔いた後に土を被せ過ぎるんじゃない！！",
+      "Text": "喂你这家伙，我说多少遍你才能听懂！\r\n播种之后别盖太多土上去！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "气槽",
-      "Text": "そもそも、貴様は1つ1つの作業を雑に行い過ぎだ！\r\nいいか、種を扱う際にももっと気を配ってだな――",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "かなりの頻度で怒鳴られながらではあるが、\r\nなんとか無事に作業を終えることができた……。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "气槽",
-      "Text": "よし、なかなかの仕上がりだ。\r\n……芽吹きや開花が楽しみだな。",
-      "ChoiceDataList": [
-        "花、好きだったんだ",
-        "花、好きだったのね"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "气槽",
-      "Text": "なんだ、意外だとでも言いたいのか？\r\nふん、顔にそう書いてあるぞ。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "气槽",
-      "Text": "……丁寧に手をかけ心を砕いてやれば、\r\n新芽は逞しく成長し、やがては美しく咲き誇る。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "气槽",
-      "Text": "花は実をつけ種を残し、\r\nそこからまた、新たな希望を抱いた芽が顔を出すのだ。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "气槽",
-      "Text": "――私を芽吹かせてくれたのは、ターフを駆ける母の姿だった。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "气槽",
-      "Text": "制した者には“樫の女王”の称号が与えられることでも知られる、\r\nＧⅠレース『オークス』……。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "气槽",
-      "Text": "私の母は、激しい競り合いの末、“女王”の称号を掴み取った。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "气槽",
-      "Text": "物心付いた頃に記録を辿り、その走りを知った時は……震えたよ。\r\nそして、強く憧れた。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "气槽",
-      "Text": "己を極限まで磨き上げ、栄えある勝利を手にしたその姿に、\r\n私は夢を見た。レースの世界に、希望を抱いた。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "气槽",
-      "Text": "そして何より……母と同じく、\r\n後進の子らの憧れとなる存在でありたいと、焦がれたのだ。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "气槽",
-      "Text": "だから私は、“女帝”であることを選んだ。\r\nウマ娘としての理想を体現し、目指すべき指針となるため。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "气槽",
-      "Text": "かつて、母が私にそうしてくれたのと同じく……\r\n輝かしく咲ける未来もあるのだと、希望を示すために。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "气槽",
-      "Text": "……であれば、ただレースで勝つだけでは足らんのだ。\r\n学園という名の土壌を整える事も、後進を導く事も、全て我が使命。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "气槽",
-      "Text": "それを無駄と切って捨てるような人間ならば、\r\nトレーナーなど要らんと思っていたが……。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "气槽",
-      "Text": "その……なんだ。貴様には……\r\nまあ、あくまでも多少だが、信頼を置いてやっても、だな……。",
-      "ChoiceDataList": [
-        "これからもどんどん頼ってくれ！",
-        "これからもどんどん頼って！"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "气槽",
-      "Text": "～～～～っ、うるさい！！\r\nまず頼り甲斐を身につけてから口にしろと言っているだろうが！！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "气槽",
-      "Text": "全く、前途多難も甚だしい……！！",
-      "ChoiceDataList": [
-        "前途があって何より！"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "气槽",
-      "Text": "揚げ足を取るな、たわけがっ！！",
+      "Text": "再说，你的每一项工作都做得太草率了！\r\n听好了，处理种子的时候应该格外小心――",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "こうして、“女帝”エアグルーヴとの日々が幕を開けたのだった！",
+      "Text": "虽然我老是在被她骂，\r\n但总算是顺利完成了工作……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "气槽",
+      "Text": "好，完成得还挺好。\r\n……真期待它们发芽和开花啊。",
+      "ChoiceDataList": [
+        "你很喜欢花呢",
+        "你很喜欢花呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "气槽",
+      "Text": "怎么，你是想说感到意外吗？\r\n哼，都已经写脸上了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "气槽",
+      "Text": "……只要去用心呵护，新芽就会茁壮成长，\r\n最终美丽地绽放。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "气槽",
+      "Text": "花会结出果实、留下种子，\r\n然后，怀抱着希望的新芽再次从土里冒出来。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "气槽",
+      "Text": "――而让我发芽的，\r\n是母亲奔跑在草场上的身影、",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "气槽",
+      "Text": "以获胜者会被授予“橡树女王”称号而闻名的，\r\nＧⅠ比赛『日本橡树大赛』……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "气槽",
+      "Text": "我的母亲，经过激烈的竞争，\r\n最终获得了“女王”的称号。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "气槽",
+      "Text": "我自打懂事起开始追寻母亲的记录，知道了那场比赛后……\r\n我颤抖了。\u3000然后，就强烈地憧憬着。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "气槽",
+      "Text": "把自己磨练到极致，并光荣地取胜的样子，\r\n令我朝思暮想。我对赛跑的世界，充满了希望。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "气槽",
+      "Text": "最重要的是……我一心向往自己能够像母亲那样，\r\n成为后辈们所憧憬的存在。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "气槽",
+      "Text": "所以，我选择了做一名“女帝”。\r\n为了能够体现身为马娘的理想，成为众人的行动准则。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "气槽",
+      "Text": "就像母亲曾经为我所做的那样……\r\n向大家展示灿烂绽放的未来，以及希望。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "气槽",
+      "Text": "……这样的话，仅仅在比赛中取胜是不够的。\u3000整理名为学园的\r\n这片土壤的事，引导后辈的事，全部都是我的使命。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "气槽",
+      "Text": "如果一个人把这些都当作无谓的东西给扔掉的话，\r\n那我就不需要什么训练员了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "气槽",
+      "Text": "那个……怎么说。你这家伙啊……\r\n不管怎么说，还是对你多多少少，有点信任……",
+      "ChoiceDataList": [
+        "今后也请多多依靠我吧！",
+        "今后也请多多依靠我吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "气槽",
+      "Text": "～～～～吵死了！！\r\n不都说了等你有了可被依靠的价值再开口吗！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "气槽",
+      "Text": "真是的，前途多难到了这个份儿上……！！",
+      "ChoiceDataList": [
+        "有前途就比什么都强！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "气槽",
+      "Text": "别挑刺，杠精！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "就这样，我与“女帝”气槽在一起的日子\r\n拉开了帷幕！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }
