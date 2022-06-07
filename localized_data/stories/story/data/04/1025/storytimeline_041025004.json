@@ -1,0 +1,387 @@
+{
+  "Title": "コレデ\u3000アナタ\u3000モ\u3000オトモダチ",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "终于来到了选拔赛的日子。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "虽然我是想邀请曼城茶座和我签约来着……\r\n但不知不觉间，我完全错过了发出邀请的时机。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "同事A",
+      "Text": "<username>……我说你啊，\r\n难不成你真想签那个姑娘不成？",
+      "ChoiceDataList": [
+        "我就是这样想的哦。"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "同事B",
+      "Text": "虽然她跑得是很厉害啦……但我可因为看不见她的『朋友』而被甩了哦？\r\n你也一样看不见那个『朋友』吧？",
+      "ChoiceDataList": [
+        "不过我觉得『朋友』是确实存在的哦。"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "同事A",
+      "Text": "不……不会吧……怎么会啦……\r\n那个……虽然我明白你想要相信她的那种心情啦……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼城茶座",
+      "Text": "……早上……好……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "2人",
+      "Text": "呜哇啊啊啊啊啊？！\r\n噫呀啊啊啊啊啊？！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "（哒哒哒哒……！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼城茶座",
+      "Text": "…………\r\n……对不起……打扰您和她们谈话了……",
+      "ChoiceDataList": [
+        "没关系的哦。"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼城茶座",
+      "Text": "…………",
+      "ChoiceDataList": [
+        "那位『朋友』今天也在吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼城茶座",
+      "Text": "…………\r\n……是的……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "今天有很多赛马娘也会参加这场比赛，但也别太放在心上。\r\n除此之外，就算看见了『朋友』的背影——",
+      "ChoiceDataList": [
+        "不要焦躁，按照自己的节奏比赛吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼城茶座",
+      "Text": "…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼城茶座",
+      "Text": "……您……明明看不见的……\r\n但简直……就像能看见她一样……",
+      "ChoiceDataList": [
+        "诶？你刚刚说什——"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "选拔赛职员A",
+      "Text": "选拔赛即将开始！\r\n要参赛的选手们请抓紧时间——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼城茶座",
+      "Text": "……\r\n……晚上，我们在这里再见吧……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况",
+      "Text": "各位选手均已入闸！\r\n预备——开始！比赛正式开始了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼城茶座",
+      "Text": "（——奔跑。奔跑。奔跑。\r\n草地的香味……脚踏大地的感觉……很棒。）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼城茶座",
+      "Text": "（那个人……训练员的话语……似乎让我的脚更加轻盈，\r\n呼吸也更加安定……感觉能比平时跑更长的距离……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼城茶座",
+      "Text": "（……无数的赛马娘，都在我面前奔跑着……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼城茶座",
+      "Text": "（但是，她……我的『朋友』，一定就在更前方……\r\n她在等着我的到来……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼城茶座",
+      "Text": "（除了我以外……其他人都看不见的……\r\n我重要的『朋友』。）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼城茶座",
+      "Text": "（就算其他人都不相信我也无所谓……\r\n只是……希望其他人不要将她视为无足轻重的存在……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼城茶座",
+      "Text": "（——但是……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼城茶座",
+      "Text": "（那个人……那个人说，想要了解她的事情……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼城茶座",
+      "Text": "（因为看不见我的『朋友』，所以才希望通过我来了解她……\r\n而且……从未出言侮辱过我的『朋友』……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼城茶座",
+      "Text": "哈啊啊啊啊啊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼城茶座",
+      "Text": "（——即便遭遇无数次拒绝……遭受无情的否定……\r\n依旧没有任何东西能够证明我们的存在。）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼城茶座",
+      "Text": "（……所以，我才要超越一切。\r\n每天都能离你的背影更近一步的话，我——）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼城茶座",
+      "Text": "我今后……也要继续追逐那个背影……\r\n继续追逐……我的梦……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况",
+      "Text": "后方的选手瞬间加速了！多么凄厉的追击……！！\r\n漆黑的魅影宛如要吞噬前方的选手一般冲了上来！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "（——欢呼声——）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "——夜晚的操场，已经完全没了白天时的喧嚣。\r\n曼城茶座正静静地站在跑道上。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼城茶座",
+      "Text": "……请您……听我说几句……\r\n是关于……我『朋友』的事情……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼城茶座",
+      "Text": "我其实……看得见各种各样的东西。\r\n其他谁都看不见的……不可思议的存在……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼城茶座",
+      "Text": "不过……没人愿意相信我。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼城茶座",
+      "Text": "『没有那种存在』『真让人毛骨悚然』\r\n『那只是幻觉』『妄想』『你想多了』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼城茶座",
+      "Text": "大家……都在用这些话来伤害我所珍视的东西……\r\n我很伤心……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼城茶座",
+      "Text": "……所以……我从小时候开始……就一直闭门不出……\r\n只为了……不让其他人伤害我珍视的东西……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼城茶座",
+      "Text": "我本来就天生体弱……\r\n其他人……也就接受了我的行为……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼城茶座",
+      "Text": "……但是，有一天……\r\n我看见一个长得和我很像的女孩子……正在尽情奔跑。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼城茶座",
+      "Text": "虽然我看不清她的脸……但我还是能感受到她的快乐……\r\n我……非常……羡慕她……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼城茶座",
+      "Text": "……所以，我就从那个漆黑的房间中跑了出来。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼城茶座",
+      "Text": "外面的光线……异常耀眼……甚至有些炫目……\r\n但是……那位『朋友』，正在我眼前尽情地奔跑着……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼城茶座",
+      "Text": "那时……我就觉得，过去的我都在想些什么呢……\r\n就算谁都不相信她的存在……她依然能够那样开心地奔跑。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼城茶座",
+      "Text": "……自那以后，『朋友』就一直奔跑在我的面前了……",
+      "ChoiceDataList": [
+        "是你非常重要的『挚友』呢。",
+        "是你非常重要的『挚友』呢。"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼城茶座",
+      "Text": "是的……\r\n……但是……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼城茶座",
+      "Text": "其实……我还从来没见过她的脸……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼城茶座",
+      "Text": "因为……我一直追不上她……她也从来没有回过头……\r\n所以……我所看见的……一直都是她的背影……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼城茶座",
+      "Text": "我……想要追上她。\r\n……我想要站在她的身边，和她一起奔跑……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "虽然她的声音如呓语般微弱，\r\n但我依旧能从她的话语中感受到坚定的信念。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼城茶座",
+      "Text": "……您……现在还是看不见她吧……？\r\n所以……那个……",
+      "ChoiceDataList": [
+        "今后也请你继续告诉我更多『朋友』的事情啦。"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼城茶座",
+      "Text": "…………",
+      "ChoiceDataList": [
+        "也就是说……我想和你签约。",
+        "也就是说……我想和你签约。"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼城茶座",
+      "Text": "…………\r\n……我……能追得上她吗……？",
+      "ChoiceDataList": [
+        "一定能超越她的！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "曼城茶座",
+      "Text": "……——好的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "（咚！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "曼城茶座对我露出微笑。在我回以笑容的瞬间，\r\n好像有什么人用力地拍了一下我的后背——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "<color=#FF0000>交\u3000\u3000给\u3000\u3000你\u3000\u3000了</color>",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "——这并非是声音，也并非是语言。\r\n来自于『某人』的感情，传进了我的心里。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
