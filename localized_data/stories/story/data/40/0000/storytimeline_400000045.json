@@ -1,0 +1,45 @@
+{
+    "Title": "想赶快取得首次胜利！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "训练员，不好了！\n已经没时间了……！",
+            "ChoiceDataList": [
+                "这么说是什么意思！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "事实上，训练员的专任赛马娘\n至今为止连一胜都没取得，\n这件事已被视为问题并采取了行动……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "至今为止连一胜都没取得"
+            ]
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "如果你负责的赛马娘在九月前无法取得首胜，\n就有可能解除你的专任契约！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "九月前",
+                "首胜",
+                "解除你的专任契约"
+            ]
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "到九月为止的时间所剩不多……！\n还请务必要让她拿下胜利！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "九月"
+            ]
+        }
+    ]
+}

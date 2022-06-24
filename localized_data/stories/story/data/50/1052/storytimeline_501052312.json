@@ -1,0 +1,381 @@
+{
+    "Title": "二月S结束后．不甘心？",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "太好了──太好了太好了──！\n我是第一名──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "好棒喔好棒喔！\n我真的好棒──！",
+            "ChoiceDataList": [
+                "辛苦了！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "嘿嘿～我很厉害吧！\n我可是第一名喔，第一名！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街的各位",
+            "Text": "乌拉拉──！\n恭喜你──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "啊，是商店街的大家！\n我在这──我在这──♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街的人A",
+            "Text": "今天晚上来吃红豆饭吧，\n会先帮你煮好喔──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "好～耶！\n要麻烦把饭煮得QQ的喔──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "嘿嘿，大家都很为我开心呢！\n得到第一名真是太好了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "只要我继续奔跑，大家就会继续露出笑容吧？\n训练员，下次要参加什么比赛呢？",
+            "ChoiceDataList": [
+                "乌拉拉自己有想参加的比赛吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "唔──？\n只要能跑步的话，什么都好喔──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……预料之中的回答。\n虽然我觉得是时候让春丽\n自己决定想参加的比赛了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "但决定赛程时若考虑到最终目标为\n“有马纪念”，对现在的春丽来说，\n该参加的比赛其实选择有限。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "虽然那场竞赛只比今天的赛道多100米，\n但借机让她试试看能否跨越一哩的高墙\n似乎也不错。这样的话──",
+            "ChoiceDataList": [
+                "参加“榆树锦标赛”怎么样？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "好，我知道了──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "我要去跟商店街的大家说\n下一场是榆树锦标赛。",
+            "ChoiceDataList": [
+                "……在北海道喔",
+                "……在北海道喔"
+            ],
+            "ColorTextInfoList": [
+                "榆树锦标赛"
+            ]
+        },
+        {
+            "Name": "春丽",
+            "Text": "咦咦，是吗！？\n那太远了，大家可能没办法来吧──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "算了，没关系！\n反正我今天得了第一名！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "嘿嘿，演唱会时也可以站正中间！\n我会努力跳舞喔──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "那我去准备演唱会咯──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我目送春丽回到休息室后，\n便前往演唱会的后台。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "哇啊，好多人！\n那我也比平常多转几圈好了──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "毕竟我今天是主唱嘛！\n要比平常转更多圈喔──！",
+            "ChoiceDataList": [
+                "我很期待喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "嗯──咦？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在春丽的视线所在之处，\n有一位面色凝重的赛马娘。\n没记错的话，她今天也参加了同一场比赛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "欸欸，你还好吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "……啊，是乌拉拉……\n嗯，我没事啦……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "但是你的表情看起来好难过！\n你不开心吗？等一下就要开演唱会了喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "你看，大家都在期待喔！\n要跟平常一样笑咪咪的──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "怎么可能……笑得出来啊……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "咦？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "我好不容易能参加GⅠ的……！\n难得有这个机会，我却没有好好把握！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "GⅠ"
+            ]
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "我好想站在主唱的位置。\n却无法如愿，都怪我实力不足……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "所以我根本不可能笑。\n不甘心、好不甘心……笑不出来！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "……不甘心……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "……抱歉，没什么啦。我没事的，\n等演唱会一开始，我就会好好露出笑容的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "呼……\n下次我绝对……要站上正中间的位置！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "……她走掉了。",
+            "ChoiceDataList": [
+                "你跟那孩子是朋友吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "嗯。她总是笑咪咪的，\n是个非常温柔的好孩子……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "我第一次看到她那样子。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "春丽看起来很茫然。\n看到朋友新的一面，\n或许让她萌生了什么想法。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "不过……",
+            "ChoiceDataList": [
+                "演唱会差不多要开始了喔",
+                "演唱会差不多要开始了喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "啊！对喔！\n好──我会加油的──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "春丽又恢复平常的模样，\n走向了舞台。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "演唱会后半，我来到观众席时，\n发现了来为她加油的特别周。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "啊，是乌拉拉的训练员！\n晚安！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "乌拉拉很开心地跳着舞呢！\n只要看着她，就觉得好像连自己都涌现活力了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "所以我很喜欢乌拉拉的演唱会表演喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "特别周说得没错，\n春丽的魅力就在于她的活力。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "所以大家才会这么喜欢春丽。\n大家都喜欢就算跑输，就算跑不赢，\n仍充满活力地笑着的她。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街的人A",
+            "Text": "……乌拉拉她，\n真的很努力呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街的人A",
+            "Text": "我也想在“有马纪念”的舞台上\n看到那个笑容啊。真希望她能参赛……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "此时我听到熟悉的声音所以回头一看，\n商店街的各位一边看着演唱会\n一边不知道在说些什么。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街的人B",
+            "Text": "但目前这样看来，\n她应该无法参加“有马纪念”吧？\n真想让她参赛呢……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街的人C",
+            "Text": "有没有什么我们能帮忙的地方呢……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "啊，乌拉拉的训练员！\n演唱会好像快结束了喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "请你回去后帮我转告乌拉拉，\n说我看演唱会看得很开心！",
+            "ChoiceDataList": [
+                "谢、谢谢你……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "虽然很在意商店街的人们，\n但我还是照特别周说的，\n立刻就回到休息室了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

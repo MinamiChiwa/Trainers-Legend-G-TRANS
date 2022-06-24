@@ -1,0 +1,37 @@
+{
+    "Title": "迎向出道战",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "琵琶晨光终于要参加出道战了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "虽说是闪耀出道战，但这里聚集了\n与训练员签约、前途无量的赛马娘们。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "而且这里也是终于能够实战的地方。\n我们就绷紧神经来挑战吧。",
+            "ChoiceDataList": [
+                "我会替你加油的！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "呵呵，我保证会带着\n足以回应你期待的成果回来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

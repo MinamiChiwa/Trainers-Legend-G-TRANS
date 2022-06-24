@@ -1,0 +1,496 @@
+{
+    "Title": "粉丝感谢祭",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "今天是春季的粉丝感谢祭！\n学园会开放粉丝进入，\n并举办类似文化祭的大规模活动。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "由于许多赛马娘都会参加不同于比赛的活动，\n因此会有大批粉丝前来参观──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "学生会的赛马娘",
+            "Text": "──进场人数比原本预想得还多，\n大门口附近的动线开始混乱了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "从原本负责巡逻校舍的组别中，\n抽出C组和D组人员到大门口。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "学生会的赛马娘",
+            "Text": "有学生反应，\n会场上有粉丝未经同意就用闪光灯拍照……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "联络附近负责巡逻的组别，\n与警卫同行一起去提醒那些粉丝。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "而学生会在粉丝感谢祭中则担任营运方，\n她们忙得不可开交。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "这次我为了协助气槽，\n也加入营运方一起帮忙，但……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "学生会的赛马娘",
+            "Text": "副会长，不好了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "怎么了？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "学生会的赛马娘",
+            "Text": "有一名稍后要参加借物赛跑的同学突然发烧，\n没办法参赛了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "学生会的赛马娘",
+            "Text": "她好像有些状况所以晚通知了我们，\n现在可能来不及找其他人代替她……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "……刚好会长很快就要回来了。\n等她回来，就换我去参加借物赛跑吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "学生会的赛马娘",
+            "Text": "咦，真、真的吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "这不像马拉松，不会花上什么时间，\n活动一结束我就会回来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "你也跟我来。如果学生会办公室要联络我，\n我请她们先找你。",
+            "ChoiceDataList": [
+                "知道了！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "男性粉丝A",
+            "Text": "咦，真的假的！？\n那不是气槽吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女性粉丝A",
+            "Text": "不会吧！她要参加借物赛跑吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "广播",
+            "Text": "──大会广播，在此通知各位观众，\n参加借物赛跑的选手将有所变更。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "广播",
+            "Text": "由于五号闸的选手突然身体不适，\n因此将由气槽代为出赛。\n还请各位观众见谅。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "（喔喔喔喔喔喔────！！！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "那么──\n既然参加了，就要全力以赴。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "（喀当！！！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "担任播报的赛马娘",
+            "Text": "好，借物赛跑现在开始了！\n如果参赛的赛马娘来到了观众席，\n还请各位粉丝多多帮忙！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "担任播报的赛马娘",
+            "Text": "众所瞩目的气槽选手，好快、太快了！\n她抢先抵达了放有题目卡的桌子前！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "（好，题目是──）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "唔！？\n什么……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "担任播报的赛马娘",
+            "Text": "气槽选手似乎面有难色！\n但她随即以惊人的速度冲向观众席！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "各位观众当中，\n现在有没有哪位身上带着我的周边！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "气槽手上拿着题目纸，\n上面写着“自己的周边×3”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "粉丝们事先不知道气槽会参赛，\n这对她来说是相当不利的题目……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "如果有的话，\n希望能借给我……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女性粉丝A",
+            "Text": "有……有有有！我身上有！\n我带的是压克力钥匙圈！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女性粉丝B",
+            "Text": "我也有！！\n我有气槽的女帝运动腕带！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "男性粉丝A",
+            "Text": "那、那个，我也有……我有别针胸章……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "──非常谢谢你们。\n我“女帝”绝对不会辜负你们的支持。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "气槽从粉丝手上接过周边，\n然后往终点冲去。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女性粉丝B",
+            "Text": "啊────帅到我都要窒息了。\n能跟她生在同一个次元真是太好了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女性粉丝A",
+            "Text": "眼、眼、眼神跟我对、对上了，\n她的手指好细啊啊啊…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "男性粉丝A",
+            "Text": "……我要把那个别针胸章当作传家之宝。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "气槽就这样以第一名的成绩\n漂亮跑完了借物赛跑──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "而之后，粉丝感谢祭也没发生什么大状况，\n顺利地落幕……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "而又要负责营运，又要充当选手，\n忙得分身乏术的气槽──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "……真的觉得有点累了。",
+            "ChoiceDataList": [
+                "辛苦了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "来帮忙的你也辛苦了。\n真的帮了我不少。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "不管怎么说……\n粉丝感谢祭能顺利结束真是太好了。",
+            "ChoiceDataList": [
+                "借物赛跑也很辛苦吧",
+                "借物赛跑也很辛苦呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "是啊。虽然是代替其他人，\n但我是抱着既然要跑就要赢的想法上场的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "不过这次，真的是受粉丝们帮助了……",
+            "ChoiceDataList": [
+                "“宝冢纪念”时得回应他们才行啊",
+                "“宝冢纪念”时得回应他们才行呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "……说得也是。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是之后我跟气槽一起用胡萝卜汁干杯，\n庆祝粉丝感谢祭顺利结束。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我暗自在内心祈祷，希望今天她与粉丝的交流\n能替她在“宝冢纪念”上带来力量。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女性粉丝B",
+            "Text": "有有有！我是死忠粉丝，所以不管是明星照、\n压克力钥匙圈、别针胸章，还是手机壳，\n我通通都有────！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女性粉丝C",
+            "Text": "我这边有你的形象饰品喔！！\n全身上下都是气槽穿搭！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女性粉丝D",
+            "Text": "我有圆扇～～！！\n看我这边～～！气槽～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "男性粉丝B",
+            "Text": "女帝T恤！女帝毛巾！女帝运动腕带！\n女帝荧光棒！其他还有很多很多，\n我是女帝周边全包派的～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "许多粉丝",
+            "Text": "气槽！女帝！\n气槽！气槽！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "竟然有这么多粉丝──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "这样下去观众席会乱成一团的……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "────",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "────大家请安静。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "气槽一用嘹亮的嗓音这么说，\n粉丝们就像是受过训练似的\n同时闭上了嘴……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "那么就请这边这位……\n以及这边这位，还有这边这位男性观众，\n……对，就是你。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "这次就麻烦这三位将身上的周边借给我。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "……我“女帝”，\n会以胜利来回应各位的支持。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "气槽从粉丝手上接过周边，\n然后往终点冲去。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "（喔喔喔喔喔喔喔──────！！！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "许多粉丝",
+            "Text": "女帝！女帝！\n女帝！女帝！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "气槽就在一片“女帝”的呼喊声中\n以第一名的成绩漂亮跑完了借物赛跑──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "而之后，粉丝感谢祭也没发生什么大状况，\n顺利地落幕……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "而又要负责营运，又要充当选手，\n忙得分身乏术的气槽──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "……粉丝感谢祭能顺利结束真是太好了。",
+            "ChoiceDataList": [
+                "辛苦了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "你也是啊。\n今天你真的帮了我不少。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "……以我个人来说，\n这场感谢祭也让我再次打起了精神。",
+            "ChoiceDataList": [
+                "你是指借物赛跑？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "是啊。我再次明白了，\n原来有那么多粉丝跟随着我。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "为了那些粉丝们……\n今后我也必须有“女帝”的样子才行。",
+            "ChoiceDataList": [
+                "“宝冢纪念”得加油才行啊",
+                "“宝冢纪念”得加油才行呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "……是啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是之后我跟气槽一起用胡萝卜汁干杯，\n庆祝粉丝感谢祭顺利结束。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我暗自在内心祈祷，希望众多粉丝的支持\n能替她在“宝冢纪念”上带来力量。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

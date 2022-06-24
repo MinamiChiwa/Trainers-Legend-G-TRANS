@@ -1,0 +1,424 @@
+{
+    "Title": "才不会被抓呢！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "“地区交流．警察抓小偷游戏大会”当天。\n这是一场让特雷森学园的学生们，\n与梦想能入学的小学生赛马娘交流的活动。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大会主委",
+            "Text": "警察队只要在限制时间内，\n抓到所有小偷队的成员，就算获胜！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大会主委",
+            "Text": "小偷队只要有任何一人，\n过了限制时间还没被抓到，就算获胜！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "涡轮是小偷队，所以只要时间结束前\n都不被抓到就行了吧？这简单！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大会主委",
+            "Text": "训练员以及商店街的各位，\n还请跟着被分配到的队伍，确保大家的安全！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "嗯？你在这里就表示……\n你也是小偷队的！？",
+            "ChoiceDataList": [
+                "我是负责巡逻的就是了",
+                "我是负责巡逻的就是了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "别在意这种小事了！那你也是同伴！\n涡轮会远远甩掉对手的，你放心吧──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小学生赛马娘A",
+            "Text": "有好多特雷森学园的大姐姐喔……！\n好，警察队，我们要加油──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "米浴要加油，不拖累队伍才行……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "生野狄杜斯",
+            "Text": "为了让警察队的各位能取得胜利，\n请容我助各位一臂之力。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "生野狄杜斯",
+            "Text": "从有效的团队合作到体力管理，\n都请交给我吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "唔喔喔──\n对面那队也充满干劲啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "好，接受挑战！\n小偷队，要上咯！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大会主委",
+            "Text": "那么大家各就各位──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（砰！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "好，全速前进！\n逃啊──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "一开始两队人员相互交错，陷入一场混战。\n但一会之后，警察队渐渐没了动静。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "警察怎么都不像刚才那样追过来！\n为什么──？涡轮在等你们耶！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "生野狄杜斯",
+            "Text": "像无头苍蝇那样乱追只会消耗体力而已。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "生野狄杜斯",
+            "Text": "我们先冷静下来，观察对手的动向吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "避免消耗体力的同时，有效率地抓住对方──\n这应该是生野狄杜斯她们的作战计划吧……\n我将这件事告诉了双涡轮。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "咦──！！那是怎样！！\n好──无──聊──喔──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "涡轮想要跑来跑去！\n想和大家玩你追我跑！！",
+            "ChoiceDataList": [
+                "你冲出去就正中对手下怀了",
+                "你冲出去就正中对手下怀了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "涡轮跑得很快，所以不用担心。",
+            "ChoiceDataList": [
+                "你有什么作战计划吗？",
+                "你有什么作战计划吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "哼哼──！\n涡轮很强的！没问题！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……说不定双涡轮是打算自己一个人\n去引起对手阵营的注意。",
+            "ChoiceDataList": [
+                "好，上吧！",
+                "那就上吧！",
+                "先忍耐一下",
+                "先忍耐一下吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……说不定双涡轮是打算自己一个人\n去引起对手阵营的注意。",
+            "ChoiceDataList": [
+                "好，上吧！",
+                "那就上吧！",
+                "先忍耐一下",
+                "先忍耐一下吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "包在涡轮身上！\n涡轮要上咯──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "有了！\n找到米浴了──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "咦，涡轮……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "站住────！警察别想给我逃！\n快来跟涡轮一决胜负──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "咦咦！？\n慢著、慢著，你别冲过来！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "为、为什么你要追着米浴跑……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小学生赛马娘A",
+            "Text": "奇怪？\n这是怎么回事？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小学生赛马娘B",
+            "Text": "是有特殊规则吗……？\n我们是不是也该逃跑啊？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "生野狄杜斯",
+            "Text": "不，请按兵不动。\n麻烦大家就这样原地待命。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "生野狄杜斯",
+            "Text": "……其实应该快点阻止她们的，\n但那似乎会花上一番功夫。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "呀呼──！别跑别跑！！\n啊哈哈！你追我跑就是要这样嘛！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "双涡轮莫名地追起警察队，\n让场面陷入了一阵混乱，\n于是警察抓小偷游戏大会宣告暂停……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "啊哈哈哈哈哈！警察别想给我逃！\n快来跟涡轮一决胜……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "唔啊！！！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "呀啊！\n涡、涡轮！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "巡逻的大叔",
+            "Text": "喂、喂，你还好吧！？\n看你整张脸都撞到地上了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "一决胜负……跟涡轮一起，跑步……\n嘿嘿……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "咕呼。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "巡逻的训练员",
+            "Text": "咦，她怎么笑着昏过去了……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "……啊！\n说好的一决胜负呢！？",
+            "ChoiceDataList": [
+                "游戏结束，警察队赢了喔",
+                "游戏结束，警察队赢了喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "什么──！？结结、结束了！？\n涡轮都还没跑到耶！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "呜、呜呜……好不甘心──！\n下次涡轮绝对要赢啦────！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "双涡轮哇哇大哭地，\n对着夕阳发下了坚定的誓言……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "咦咦！？为什么为什么？\n不要不要不要不要！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "我要跑步！\n涡轮就是要跑步──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "生野狄杜斯",
+            "Text": "各位警察队成员，就是现在！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "唔喔，生野！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "生野狄杜斯",
+            "Text": "包围成功。这都要感谢你喊得那么大声，\n我才能悄悄地带领大家过来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小学生赛马娘A",
+            "Text": "你已经逃不掉了喔，双涡轮！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "…………好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "好耶────！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "大家愿意跟涡轮玩你追我跑了吗？\n好啊，快点来玩吧──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "一、二、三、四……有六个人耶！六对一！\n你们跟得上涡轮吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "嘿咻！\n涡轮火力全开──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "生野狄杜斯",
+            "Text": "不行！大家先别行动！\n要是跟着涡轮的步调──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小学生赛马娘们",
+            "Text": "不、不行了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "生野狄杜斯",
+            "Text": "……就会脱队的。\n我应该早点告诉大家的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "结果双涡轮跟警察队，\n两方都双双耗尽体力，\n大会最终以平手告终……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        null
+    ]
+}

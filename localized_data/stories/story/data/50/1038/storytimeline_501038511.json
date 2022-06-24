@@ -1,0 +1,302 @@
+{
+    "Title": "World is……？",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "某天走在街上时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "啊，哥哥！\n哥哥也一起来听吧！",
+            "ChoiceDataList": [
+                "听什么？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "啊，姐姐！\n姐姐也一起来听吧！",
+            "ChoiceDataList": [
+                "听什么？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "耶嘿嘿～\n其实真机伶一直想要尝试国外远征啊～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "我看她很认真地盯着旅游广告。\n我身为一流的赛马娘，\n看到后辈苦思的模样也只能出手相助了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "但是国外远征啊……\n……我能理解你对此感到憧憬的心情呢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "我记得提出申请后，\n就会由校方负责准备饭店之类的安排。\n呵呵，不然就以入住一流饭店为条件──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "哇啊，帝王懂真多耶～！\n一流的赛马娘就是无所不知呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "哎呀～\n真机伶还想要更仔细地听你讲更多呢～♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "哦──呵、呵、呵！你很懂嘛！\n没错，我就是一流的赛马娘！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "好吧，那我就取消接下来的行程，\n专心面对你们的提问好了！\n我们换个能好好详谈的地方再继续吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "哇啊，真的可以吗～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "当然，我可是一流的前辈啊！\n请后辈吃好吃的也是很应该的♪",
+            "ChoiceDataList": [
+                "呃，这部分还是由我……",
+                "呃，这部分还是由我……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "哎呀，你也别计较这些了。\n这是我送给可爱后辈的礼物嘛♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "店员！\n就麻烦你来为她点餐了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "那我就点个鲜奶油巧克力拿铁吧──♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "店员",
+            "Text": "──好的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "有具体想好要去的地方了吗？\n如果已经决定好了，\n我可以动用我的关系去帮你问问──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "嗯──应该是亚洲吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "这样啊，这是个不错的选择。\n毕竟环境差不多，也不用担心时差的问题。\n算是第一次出国的稳妥选择吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "虽然不是现在，\n但我也一直有打算要去香港呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "咦──好巧喔！\n真机伶现在也是超想去香港耶！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "因为之前有受邀去过那里，\n想说下次要自己去看看呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "……咦？“之前有受邀过”？\n所以就不是第一次出国咯？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "是啊，因为当地的粉丝们一直希望能见见我，\n所以就在那举办了一场小小的粉丝见面会。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "但其实都是当地的粉丝负责安排好一切的……\n啊，对了对了，就是这张照片！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "什么……！？粉丝人数也太多了吧！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……真机伶拿出来的照片，\n是和几百名粉丝一起拍下的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "是、是喔……还真厉害耶……\n竟、竟然还能做到这种程度……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "嗯～但还是想要尝试正式的远征嘛……",
+            "ChoiceDataList": [
+                "真机伶真强势！",
+                "真机伶真强势呢！",
+                "真是惊人的行动力……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "嗯～但还是想要尝试正式的远征嘛……",
+            "ChoiceDataList": [
+                "真机伶真强势！",
+                "真机伶真强势呢！",
+                "真是惊人的行动力……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "咦──不要说强势嘛，\n应该说我很积极才对──？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "要说强势的话，帝王才强势呢！\n之前她在比赛中的表现可厉害了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "帝王，你不只要告诉我外国的事情，\n也教教我练习的方法嘛♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "呃……好啊……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "店员",
+            "Text": "为您送上鲜奶油巧克力拿铁。\n我先帮您放在那边的桌子上。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "哇啊，看起来好好喝喔──！\n谢谢帝王请客♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "由于真机伶随口说出的爆炸性发言\n威力实在过于强大，\n让在座的人震撼了许久……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "耶嘿嘿，有吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "不过凡事最重要的就是时机跟爆发力。\n这在比赛中也是一样的，对吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "……那、那个……真机伶啊？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "啊，帝王也这么认为吧？\n耶嘿，同样是短距离选手果然很合拍呢♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "刚刚的事情，能不能再说得详细一点……？\n就是……我想作为以后的参考。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "哇，这当然没问题呀♪\n在巧克力拿铁送来之前，我们就尽情聊吧♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……不知不觉两边的立场对调过来，\n原本提问的人反而变成教学的人了。\n──重要的是爆发力啊……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

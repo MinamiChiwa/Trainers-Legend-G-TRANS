@@ -1,0 +1,301 @@
+{
+    "Title": "新年参拜",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "──新年。\n我和无声铃鹿一起来新年参拜。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "……好。",
+            "ChoiceDataList": [
+                "你许了什么愿望？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "这个嘛……\n希望今年也能多跑一点。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "……小特很仰慕我，\n我也想做点什么回报她。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "小特"
+            ]
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "所以，我今年要坚定地怀抱自信，\n尽情奔跑。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我原以为会和去年的抱负一样……\n但是过了一年，她的内在似乎已经有大幅成长。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "嗨嗨，今年也请多多指教，铃鹿！\n还有训练员！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "哎呀，福来。\n我才是，今年也请你多多指教。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "话说回来……\n你摆了很多东西，是在做什么？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "待兼福来的身边放了羽子板和笑福面，\n很像在摆路边摊的感觉。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "呵呵呵。其实我在新年的梦境中，\n学会了非常灵验的新春开运占卜！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "所以就如你们所见！\n有红豆汤占卜、抽签占卜、笑福面占卜\n总共三种！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "……什么是红豆汤占卜？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "红豆汤占卜就是喝完红豆汤后，\n看剩下的红豆形状进行占卜！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "笑福面则是玩完游戏后，\n以游戏的成果进行占卜！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "而抽签占卜，\n就是用铃鹿抽到的签来占卜！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "在抽签的时候，\n不就已经是占卜了吗……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "这可是过年期间限定的新春开运占卜喔！\n来来来，铃鹿也不用客气的～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "那个……\n你觉得要选哪个比较好，训练员？",
+            "ChoiceDataList": [
+                "用甜食获得活力！红豆汤占卜",
+                "将一切交给命运！抽签占卜",
+                "学会新的技能吧！笑福面占卜"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "红豆汤占卜啊。\n我知道了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "呵呵……其实我肚子也有点饿了。\n谢谢你，训练员。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "呼，感谢招待。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "那么就从剩下来的红豆形状，\n来占卜铃鹿的新年运势吧～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "呼呀～～哈呀～～\n那是～什么呢～剩下的红豆啊～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "出现了！看起来正是蹄铁！\n只要努力奔驰就能有成果～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "这样啊，代表运势不错呢，太好了。\n谢谢你，福来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "可能是她很难得在意起占卜的缘故，\n从隔天开始的训练中，\n她似乎变得更有干劲了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "抽签占卜吗……\n我知道了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "……我的确，多少有点在意，\n会是怎样的占卜方式。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "那么你就从这个箱子里，\n抽出一张签吧～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "呵呵，是大吉。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "竟然是大吉！？真是太赞了！\n你会有最棒的一年呢～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "嗯，果然就是这种感觉呢。\n呵呵。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "或许是因为待兼福来的占卜让人心境平和，\n当天在一片祥和的气氛中度过了新年。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "笑福面占卜吗？\n我知道了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "那么，来把眼睛遮住吧～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "呃──这是……嘴巴？\n不对，还是眼睛？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "呵呵……那个铃鹿竟然……\n呼呵呵呵呵……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "真、真是的！\n福来别太取笑我……！呵呵呵。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "骗人的吧……！\n鼻子以外的位置都不对……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "啊哈哈哈！手上拿的明明是眉毛，却犹豫\n是嘴巴还是眼睛的铃鹿实在太有趣了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "呵呵，那么喘口气，\n我们来进行笑福面占卜吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "呼呀～～哈呀～～\n笑福面啊，展现～展现～～今年的运势～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "出现了！\n简而言之，关键字就是“情谊”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "近日内由情谊引导的重大分歧点，\n就会出现在你身旁～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "……“由情谊引导的重大分歧点”……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "虽然有点半信半疑，\n但或许是因为占卜结果颇为具体，\n无声铃鹿难得看起来很在意的样子。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

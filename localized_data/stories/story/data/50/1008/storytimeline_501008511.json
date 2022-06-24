@@ -1,0 +1,327 @@
+{
+    "Title": "挑战“宿命”",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "某天，当我走在学园里的时候──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "哼……请别阻止我，大姐。\n还有事等着我去做。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "看来我是无法阻止你了呢……\n还有，我不是大姐，是公主……！",
+            "ChoiceDataList": [
+                "……你们在做什么？",
+                "……你们在做什么呀？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "唔！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "……原来是训练员啊。\n没什么大不了的事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "只是……为了去解决点“无聊的小事”，\n我正在解开内心的枷锁。",
+            "ChoiceDataList": [
+                "也就是说？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "因为伏特加说不想参加课后辅导，\n所以我在帮她提高上课意愿！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "川上前辈～～！你竟然说出来了！？",
+            "ChoiceDataList": [
+                "课后辅导…………"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "没、没办法啊！？\n这次考试范围太广了啦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "只用一个晚上临时抱佛脚也读不完……\n可以的话我也不想课后辅导啊！逊毙了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "但是总不能跷掉不去啊。所以我边走边想着\n有没有什么方法可以提高想去的心情──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "这时我搭话了，问她有没有需要帮忙的地方！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "听完她的话，我相当确定！\n这时──就该将课后辅导当作“宿敌”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "不顾我这个挚爱的公主阻止，坚持前往\n打倒宿敌的悲剧骑士……伏特加！\n怎么样？会变得很想去吧！？",
+            "ChoiceDataList": [
+                "是、是这样啊……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "啊──但是现在被打回现实了。\n这下要从头营造气氛了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "对了，既然你都来了就一起加入吧，训练员。",
+            "ChoiceDataList": [
+                "！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "唉呀，好棒的提议！\n这样一来，训练员的角色就是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "当然只有一个！就是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "两人",
+            "Text": "阻止我前往课后辅导的敌方干部！！\n互相争夺公主的劲敌骑士！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "什么？真的假的前辈！？\n这时登场的绝对是敌方干部吧～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "但是，从我看过的漫画判断，\n跟劲敌骑士间的三角关系才是既定发展！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "唔……既然这样，\n只能请训练员选择一个喜欢的角色了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "训练员！你想演哪个角色！？",
+            "ChoiceDataList": [
+                "互相争夺公主的劲敌骑士",
+                "阻止前往课后辅导的敌方干部"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "咦咦咦咦，真的假的！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "──啊啊，伏特加跟训练员，\n我该选哪位才好呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "竟然已经进入剧情了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "呜呜，既然是前辈的要求，那也没办法！\n──训练员～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "我不会让你抢走川上前辈的。因为那一天，\n我已经发誓要守护川上前辈了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "自从死党山姆失踪以来已经过了好几年。\n我代替山姆照顾他姐姐川上前辈，\n努力想让这堕落的城市复苏──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "等一下，暂停！暂停──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "什么？现在才正要精彩呢。\n正要进入我跟山姆在垃圾场邂逅……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "山姆是哪一位！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "而且伏特加是骑士才对吧！\n为什么故事开头活像不良少年漫画！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "因为，我觉得这样应该比较帅啊……\n要演三角关系又有点害羞……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "不可以，不可以这样！\n所谓的骑士，就是王子的同义词喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "这点我绝对不会妥协的！\n让我从头好好指导你！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "…………我、我啊，突然想去课后辅导了～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "不行！我还不能放你走！\n首先，所谓的骑士呢──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "……川上公主持续热情地讲解，\n最后伏特加发出惨叫，\n逃跑似地前往教室。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "哈，这样才对嘛！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "──让开，训练员！不准……阻止我前进！！",
+            "ChoiceDataList": [
+                "请过请过"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "咦咦咦咦咦！？你完全不阻止我！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "瞬间落幕了呢……",
+            "ChoiceDataList": [
+                "快点上完课后辅导，我会请你吃东西的",
+                "快点上完课后辅导，我会请你吃东西喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "什么？真的吗！？我可以吃福利社的\n“用肉排代替面包！全都是肉的汉堡”吗！？",
+            "ChoiceDataList": [
+                "可以喔",
+                "可以呀"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "太好啦～～！一言为定喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "等等我啊训练员，我很快就上完！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "啊，也非常感谢川上前辈！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "唉呀……真是动人。\n你们两人果然心灵相通呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我觉得只是因为伏特加很坦率而已……\n总之我决定先准备好\n“全都是肉的汉堡”再说。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

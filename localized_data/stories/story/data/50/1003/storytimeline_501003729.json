@@ -1,0 +1,37 @@
+{
+    "Title": "挑战夹娃娃机失败……",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "啊，好可惜～！\n就差一点点了！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "虽然表现不错，\n但想要跟我比的话还得多练练～♪",
+            "ChoiceDataList": [
+                "好不甘心……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "啊哈哈，但你认真起来的样子\n非常帅喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "留下令人遗憾的结果……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

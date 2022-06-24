@@ -1,0 +1,600 @@
+{
+    "Title": "新年参拜",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──我做了一个新年初梦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "哥哥……我也该跟你道别了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "姐姐……我也该跟你道别了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "真机伶在这个国家已经没有事情可做了。\n所以……真机伶要走了！",
+            "ChoiceDataList": [
+                "你要去哪……！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "去各个需要真机伶的可爱的国家。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "简单来说──就是迈向世界吧♪",
+            "ChoiceDataList": [
+                "等等啊，真机伶！！",
+                "等等啊，真机伶！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "真机伶的可爱会像甘露降临各地。\n……总有一天也会回到你这里的……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "我不会忘记和哥哥一起相处过的日子。\n哥哥也要好好记住真机伶哦♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "我不会忘记和姐姐一起相处过的日子。\n姐姐也要好好记住真机伶哦♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──梦到这里我就醒来了。\n我的初梦里全是真机伶……\n感觉今年会是不平凡的一年。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "新年。我受到真机伶的邀约，\n和她一起来新年参拜。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "新年快乐～\n新年一开始就可以见到哥哥，真机伶好开心♪",
+            "ChoiceDataList": [
+                "我懂……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "新年快乐～\n新年一开始就可以见到姐姐，真机伶好开心♪",
+            "ChoiceDataList": [
+                "我懂……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "……？\n哥哥的反应真奇怪！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "……？\n姐姐的反应真奇怪！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "话说，新年的心愿～真机伶愿意帮忙实现哦？",
+            "ChoiceDataList": [
+                "咦？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "因为真机伶知道。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "哥哥的心愿，\n全都是跟真机伶有关的……对吧♪",
+            "ChoiceDataList": [
+                "……你说对了！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "姐姐的心愿，\n全都是跟真机伶有关的……对吧♪",
+            "ChoiceDataList": [
+                "……你说对了！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "真机伶终于晋升到了古马级。\n我正想着要祈求她能顺利成长及成功。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "古马级"
+            ]
+        },
+        {
+            "Name": "真机伶",
+            "Text": "啊哈♪那真机伶就来帮你达成心愿吧。\n哥哥希望真机伶怎么做呢？",
+            "ChoiceDataList": [
+                "我希望你能健健康康的",
+                "我希望你成为很强的赛马娘",
+                "我希望你能有属于自己的各种武器"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "啊哈♪那真机伶就来帮你达成心愿吧。\n姐姐希望真机伶怎么做呢？",
+            "ChoiceDataList": [
+                "我希望你能健健康康的",
+                "我希望你成为很强的赛马娘",
+                "我希望你能有属于自己的各种武器"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "只要这样就好啦？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "希望你变得更强～希望你变得更快～\n真机伶还以为会是这种心愿呢。",
+            "ChoiceDataList": [
+                "那也都要先有健康才能做到"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "……呵呵♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "哥哥真是贪心鬼！\n但真机伶对这样的哥哥──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "姐姐真是贪心鬼！\n但真机伶对这样的姐姐──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "不会感到讨厌哦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "后来，真机伶一直愉悦悠哉地逛著神社。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "是哦……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "意思是希望真机伶──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "喝啊！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "……变成这种感觉吗？",
+            "ChoiceDataList": [
+                "才不是！？",
+                "才不是！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "啊哈，开玩笑的啦～♪\n就是希望真机伶整体的实力变强嘛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "毕竟重要的比赛也不远了，\n真机伶也是想要变强的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "我们齐心协力，一起努力吧，哥哥♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "我们齐心协力，一起努力吧，姐姐♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "意思是～除了可爱以外还需要别的武器吗？",
+            "ChoiceDataList": [
+                "……应、应该吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "嗯……\n啊，那真机伶好像已经有了耶？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "哥哥把眼睛闭上～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "姐姐把眼睛闭上～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "“你是我可爱的公主。\n总有一天我一定会去迎接你的……”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "结～束♪",
+            "ChoiceDataList": [
+                "！？刚刚那个低沉的声音是……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "呵呵呵，这是秘密～♪\n但感觉这满有趣的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "我会再想想有没有什么其他武器♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "为了拟定今年的计划，新年参拜结束后，\n回程在真机伶的提议下来到了卡拉OK。\n然后……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "──那么！\n“真机伶的可爱打比♪”计划正式开始～♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……看来她正打算展开什么麻烦的神秘计划。",
+            "ChoiceDataList": [
+                "那究竟是……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "好的，我现在就来说明吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "就是啊，年底的时候不是介绍了一群\n可能成为真机伶劲敌的人吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "全都是在社群平台上拥有顶尖人气，\n并且活跃于短距离路线的赛马娘们……\n当时好像是这么介绍的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "我觉得面对那么棒的对手，\n只是单纯跑步就太可惜了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "不如干脆来个短距离史上……不对，\n是竞赛史上最热闹的一次盛会，\n让大家觉得短距离才是最精彩的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "所以就想到了联合社群平台跟竞赛的企划，\n也就是“可爱打比♪”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "企划的宣传标语就像这样！\n“面对来自各社群平台的霸主！\n真机伶将赌上按赞数来迎战！”。",
+            "ChoiceDataList": [
+                "“按赞数”……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "就是“好赞”、“喜欢”、“开心”……\n这种各应用程序上都有的表示认同的方式嘛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "简单来说就是跟各社群平台顶尖人气的对手，\n来竞争“按赞数”的企划啦！\n详细内容就看手中的资料确认吧～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "规则很简单。统计在比赛期间，\n各账号上传贴文所获得的总“按赞数”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "不限制贴文数量及内容。\n直到发布赛后评语影片后才停止计分。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "接着在隔天早上十点前，\n统计各自贴文所获得的“按赞数”，\n由总按赞数最高的人获胜。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "……简单来说获得最多“按赞数”的人，\n就是最受瞩目、最受欢迎的赛马娘！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "这样不仅可以炒热短距离竞赛，\n又能选出第一名是谁。\n是个简单明了又一石二鸟的企划吧♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "用数字让人气可视化的确高下立判。\n但这么做还有个令人在意的部分……",
+            "ChoiceDataList": [
+                "持有很多账号的人不就比较有利吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "啊，这点真机伶也有想到。\n她们不像真机伶拥有所有社群平台的账号。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "所以会附加“各社群平台分开计分”\n这个条件！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "例如，Umatter的计分只跟Umatter比。\n这样就公平了吧？",
+            "ChoiceDataList": [
+                "的确……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "但这么一来，\n拥有很多账号的人感觉上传贴文会很辛苦……\n在我正要指出这一点时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "哥哥，你听我说！\n真机伶就赌这一次的企划了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "姐姐，你听我说！\n真机伶就赌这一次的企划了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "想要走在可爱这条路的最前端，\n就绝不能让出第一名的位置……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "真机伶要在最受瞩目的状况下向前迈进。\n──直到超越可爱的领域为止！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这一瞬间，我想起了初梦里的她……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "称霸了可爱领域的真机伶，\n看起来是那么地高雅……\n并且散发着无懈可击的可爱气场。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "……哥哥，\n你一定希望真机伶可以专注在比赛上吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "……姐姐，\n你一定希望真机伶可以专注在比赛上吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "但不用担心，我不会因为这样影响到比赛的。\n而且……办这个企划是真机伶任性的要求。\n我不会强迫你一定要帮忙。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "所以──",
+            "ChoiceDataList": [
+                "──不，我会和你一起努力！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "咦……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "从我和她签订训练员契约开始，\n就已经做好觉悟了。我要亲眼见证……\n她成为可爱霸主！",
+            "ChoiceDataList": [
+                "你一定能成为霸主",
+                "你一定能成为霸主"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "耶嘿嘿，谢谢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "嗯，我就知道……哥哥一定会这么说的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "嗯，我就知道……姐姐一定会这么说的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "于是，我也开始帮忙这项要统计“按赞数”的\n“可爱打比♪”企划。",
+            "ChoiceDataList": [
+                "那就得赶紧询问其他参赛者的意愿──"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "啊，这点不用担心。\n我早就已经跟大家和学园确认过了♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "也已经说明过细节的部分了，\n再来就只差向追踪者公布而已。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "哥哥也好好期待大家会有什么反应吧♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "姐姐也好好期待大家会有什么反应吧♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……虽然我们已经相处了很长的时间，\n但感觉她还是没有完全依赖我。\n那我至少也要为她做好准备才行。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "“真机伶的可爱打比♪”要开始了♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

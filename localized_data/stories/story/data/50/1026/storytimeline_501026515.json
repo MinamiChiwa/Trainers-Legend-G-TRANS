@@ -1,0 +1,323 @@
+{
+    "Title": "该倚靠的是",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我和美浦波旁要一起进行训练。\n平常她都会在约定时间前\n就先到场做好准备的──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "……训练开始时间1分钟前。\n让教练久等了。",
+            "ChoiceDataList": [
+                "难得你会差点迟到",
+                "难得你会差点迟到"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "是。其实──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "找到你了！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "波旁同学！\n我话还没有说完！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "是。但已经到了我该训练的时间。\n无法再继续和你议论下去。",
+            "ChoiceDataList": [
+                "议论？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "没错！\n议题是关于“为何要弄坏贩卖机”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "我身为班长，\n绝不能纵容破坏学校公物的人！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "我接触机器就必定会造成故障。\n原因不明。我并不是故意的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "我已经知道你不是故意的！\n但关于原因还有议论的空间──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "樱花进王张开双手，\n不让美浦波旁离开。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "不过接触机器就会导致机器故障，\n还真是不可思议的体质。\n虽然厘清原因也很重要──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "但目前的首要问题是，\n无法使用贩卖机这点令人困扰。\n必须要有什么对策才行。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "你有在听吗？波旁同学！\n波旁同学的训练员，\n你也要好好参与讨论──",
+            "ChoiceDataList": [
+                "无法使用贩卖机很伤脑筋啊"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "唔嗯？这么说来确实没错。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "是，教练。\n在我认知范围内也属于非常“不便”的状况。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "无法进行水壶的补给或是到贩卖部购买时──\n就需要贩卖机。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "但我却无法使用。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "继续这样放任不管也不行。\n我若刚好在她身边是无所谓，\n但她如果自己一个人──",
+            "ChoiceDataList": [
+                "拜托附近的朋友帮你吧",
+                "利用道具来购买之类的"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "朋友……\n我判断这是很困难的条件。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "第一，\n我几乎没有可以称为“朋友”的对象。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "第二，\n仅有的少数“朋友”不一定刚好在附近──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "那来找我就好了啊！\n无论何时何地\n我都会爆进地冲到你面前的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "因为我是班长，\n怎么能不帮助有困难的同学呢！\n而且我们又是朋友！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "……原来我们是朋友。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "没有错！！身为班长的我是你的朋友，\n你一定也感到很骄傲吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "不，并没有这种感觉。\n……但，原来……我们是朋友……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "呵呵呵……就算你很高兴，\n也不用一直说啦。我会不好意思的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "……我明白了。\n要使用贩卖机的时候，\n我会找进王帮忙的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "好，包在我身上！！\n交给身为全校模范的同时，\n也是班长的樱花进王来负责！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "……\n……朋友。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──在那之后。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "偶尔能看见美浦波旁在贩卖机旁，\n坐立难安地寻找她的朋友──樱花进王。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "道具……指的是类似夹子之类的吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "原来如此！！\n你还挺聪明的嘛！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "有夹子的话，\n投钱的时候也不会碰到机器了！\n以后就都用这个方法吧！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "了解。\n将依照教练的指示行动。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "之后，\n美浦波旁打算用夹子来使用贩卖机时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "咦，怎么了怎么了？\n小波为什么拿着夹子啊？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "难不成，是要买饮料吗？\n那飞飞来帮你按吧～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "呵呵，波旁。\n不需要用到夹子的。\n我来帮你按──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "啊……对、对不起。\n最上面的我按不到……\n所以，能麻烦你把我抱起来吗……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "──后来，\n所有在附近的人都出手帮忙了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "经历过这些经验，\n我判断寻求帮助比起使用夹子来得更有效率。",
+            "ChoiceDataList": [
+                "这样很好！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "……是。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "就算是交流等级不高的我……\n只要开口求救，也是会有人愿意帮忙的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "……这件事，\n我觉得需要纪录下来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看来只是美浦波旁没发现，\n其实愿意帮助她的朋友很多。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "美浦波旁似乎理解到──\n必要时，倚靠他人也是很重要的事情。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

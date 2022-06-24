@@ -1,0 +1,45 @@
+{
+    "Title": "参赛的疲劳",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "由于最近连续参加了许多比赛，\n所以我们出来散步喘口气……\n这时有粉丝来找我们攀谈。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "呵呵，谢谢你们的声援！请务必让我\n用一出感谢的歌剧……来回应你们的支持！",
+            "ChoiceDataList": [
+                "咦，现在吗！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "呼……呼……看、看到他们的笑容了吗？\n看来这次，我又用我的光辉做出回应了！",
+            "ChoiceDataList": [
+                "每次都要演歌剧作为谢礼，不累吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "这叫贵族义务……即使在阴天，\n太阳也会为了照耀世界而继续升起。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "不只参加比赛，\n粉丝服务也对她造成了疲劳。\n……也许我该重新调整今后的预定赛程。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

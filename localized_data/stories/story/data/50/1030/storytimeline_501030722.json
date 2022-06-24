@@ -1,0 +1,71 @@
+{
+    "Title": "因头痛而忧郁",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我在广场看到米浴一脸难受地按著头，\n于是开口叫她……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "大、大哥哥……\n米、米浴没什么事……",
+            "ChoiceDataList": [
+                "看起来不像没事",
+                "看起来不像没事"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "大、大姐姐……\n米、米浴没什么事……",
+            "ChoiceDataList": [
+                "看起来不像没事",
+                "看起来不像没事"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "呜呜……那个，就是……唉。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "其实米浴的头从早上开始就很痛……\n可是感觉跟感冒也不一样，那个……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "一定没多久就会好了，\n大哥哥不用担心……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "一定没多久就会好了，\n大姐姐不用担心……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "嗯，呜呜呜……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "米浴似乎为头痛所苦。\n真希望能为她做些什么……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

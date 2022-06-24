@@ -1,0 +1,61 @@
+{
+    "Title": "帝王的担心事",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我看到圣王光环在\n贩卖部买东西。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "……咦？打孔机？\n我记得我明明应该是在找布丁的……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "唉……连午餐也没吃，\n我到底在做什么啊……",
+            "ChoiceDataList": [
+                "有什么令你烦心的事吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "哎呀，训练员。\n……没有，并没有什么令我烦心的事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "我只是在想，\n该怎么训斥因为感冒而休息的后辈。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "真是的，身为帝王的后辈，\n竟然疏于健康管理，真是太丢脸了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "连我都因为这样，\n而提不起精神了不是吗……唉。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "感觉没什么活力的圣王光环\n叹了一口气。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

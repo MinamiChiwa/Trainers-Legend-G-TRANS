@@ -1,0 +1,384 @@
+{
+    "Title": "追赶你的背影",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "终于，“一哩冠军赛”的日子即将来临。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我想让大树快车发挥力量及速度来赢得胜利，\n并夺得年度代表赛马娘的宝座，但──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "复仇、再战、雪耻赛！\n下次我一定要赢过铃鹿前辈！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "呵……有这股气魄就对了，神鹰。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "不过，纵使你赢过了铃鹿，\n我也不会把顶点的位子让给你喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "你要搞清楚，“日本杯”的顶点，\n是属于我“女帝”的宝座──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "不对，那是我“怪鸟”的栖木！\n我绝对、绝对不会输给你的！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "怪鸟"
+            ]
+        },
+        {
+            "Name": "记者A",
+            "Text": "今年的闪耀系列赛真可说是热闹无比。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者B",
+            "Text": "是啊，有草上飞、神鹰，\n还有短距离王者大树快车。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者B",
+            "Text": "以及目前气势如虹的无声铃鹿。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "毕竟她从香港回来后就接连获得压倒性胜利！\n而且面对的都是一流的对手！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "只要她赢得接下来的“日本杯”，\n一定就能当选今年的年度代表赛马娘了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者B",
+            "Text": "假如是神鹰或气槽获胜的话呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "这个嘛……\n应该会是夺冠的赛马娘雀屏中选吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "目前为止的GⅠ竞赛，大树快车都履战履胜。\n一旦在下一场“一哩冠军赛”获得胜利，\n她就能在短距离GⅠ之中留下伟大的结果。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "即使如此，\n她也不可能挡下无声铃鹿的气势。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "为了掌握“年度代表赛马娘”的荣耀，\n还须要做些什么才好呢……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "呼……呼……\nHey，我绕完赛道了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "Oh，训练员？\n……你怎么皱着眉头，是unhappy吗？",
+            "ChoiceDataList": [
+                "不，不是那样。",
+                "没有，不是那样。"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我相信大树快车的可能性。\n我不会再怀疑她了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "正因如此……为了掌握一丝光明，\n我要设想到所有能够为她做的事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "Well……没事就好！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "──Oh，不好意思！\n训练员，我可以离开了吗？",
+            "ChoiceDataList": [
+                "你有事要办吗？",
+                "你有事要办吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "Yes，有人找我！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "──是铃鹿！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "铃鹿～！！Sorry，让你久等了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "啊，大树……不会，没关系。\n重要的是，谢谢你来见我。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "You're welcome♪\n所以──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "你有什么事要跟我说呢，铃鹿？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "…………嗯，怎么说呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "……你还记得去年的“一哩冠军赛”吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "Yes，of course！能和你一起出赛，\n我觉得非常exciting！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "嗯……我也忘不了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "我一直都忘不掉，\n有件事深深地烙印在我眼底。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "大树……就是你展现出来的速度。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "──铃鹿？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "我一直在追赶着你那天所展现的速度，\n以及那道背影。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "我不再放慢速度跑了。\n我一直维持着极速。\n这都是因为我想追上你的背影。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "可是，无论我再怎么全力奔驰都赶不上。\n赶不上你那挥之不去的背影……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "所以──大树。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "我要在接下来的“一哩冠军赛”向你挑战。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "“一哩冠军赛”！？铃鹿，\n你下一场不是预计参加“日本杯”吗──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "不行。我不要再继续追着你的背影\n跑下去了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "我想要……看到更远的事物。\n看到超越你的速度后，才能见到的景色……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "…………！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "我要说的就只有这件事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "……我们比赛再见吧，大树。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "从大树快车口中听到\n无声铃鹿对她下战帖的事情，\n让我吓了一大跳。但──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "唔唔，训练员。\n我考虑过了──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "This is──so big chance！！\n不是吗！？",
+            "ChoiceDataList": [
+                "的确……！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "目前的无声铃鹿，\n号称是现任赛马娘的头号人物。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "在GⅠ竞赛碰上她，\n是个相当大的威胁……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "不过，假如大树快车能够赢过这样的她──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "假如她那令人“深刻印象”的表现，\n能让大树快车以力量及速度将其压制……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "铃鹿，我现在前所未见地……burning。\n我的斗志熊熊燃烧起来了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "想追上并超越我的那颗heart……\n我强烈地感受到了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "But──我也不会认输的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "一哩的king是only one！\n年度代表赛马娘也是only one！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "我会凭这双脚赢得一切的！！",
+            "ChoiceDataList": [
+                "很好，就是这股气势！！",
+                "很好，就是这股气势喔！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "就这样，年度代表赛马娘的结果，\n就看这场“一哩冠军赛”的胜负了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

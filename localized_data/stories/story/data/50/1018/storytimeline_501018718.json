@@ -1,0 +1,43 @@
+{
+    "Title": "恢复精神",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "休假日过后，气槽来到训练员室，\n于是我开口问她……",
+            "ChoiceDataList": [
+                "休假过得如何？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "你追问我的休假要做什么……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "比起关心我的休假，\n你应该还有更多该做的事吧……真是。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "我的休假跟平常一样，没什么特别的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "托你的福，我尽情享受了休假时光。\n就是这样，满意了吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

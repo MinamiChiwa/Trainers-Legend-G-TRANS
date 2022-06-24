@@ -1,0 +1,72 @@
+{
+    "Title": "挑战夹娃娃机！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "某天，\n在我和小栗帽外出时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "嗯……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "小栗帽目不转睛地盯着\n夹娃娃机里的奖品\n──赛马娘的玩偶。",
+            "ChoiceDataList": [
+                "你想要玩偶吗？",
+                "你想要玩偶吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "……这让我想到\n阿昌给我的玩偶。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "只要我赢了比赛，他就会拿玩偶过来，\n叫我下次也要加油……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "虽然他亲手做的玩偶形状有点怪，\n但是我非常开心……",
+            "ChoiceDataList": [
+                "好，来夹那个玩偶吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "这、这样吗……\n好啊……不过为什么？",
+            "ChoiceDataList": [
+                "因为我希望你之后也能继续加油！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "原来如此……真令人开心。\n我很期待。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──这个挑战，不能失败！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

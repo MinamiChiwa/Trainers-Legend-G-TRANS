@@ -1,0 +1,479 @@
+{
+    "Title": "锁定目标",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "终于到了春季经典赛的季节了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "……三冠路线、三后冠路线。\n要如何度过这个赛马娘和训练员一生\n只会面临一次的时期可说是非常重要──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摩耶重炮",
+            "Text": "……训练员。\n又在看那个资料了～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摩耶重炮",
+            "Text": "差不多该陪陪人家了吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "只是我跟她已经约定好了，\n尤其在安排参赛的比赛上，\n我必须要审慎评估。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "得让她在她会有兴趣的比赛\n并且有对手的环境中，\n接触各式各样的机会才行──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "（叩叩）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摩耶重炮",
+            "Text": "嗯？会是谁啊……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "嗨！摩耶重炮！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "摩耶重炮"
+            ]
+        },
+        {
+            "Name": "摩耶重炮",
+            "Text": "啊！是小帝♪\n怎么了怎么了？你是来玩的吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "小帝"
+            ]
+        },
+        {
+            "Name": "",
+            "Text": "（她是东海帝王。是很崇拜学生会长\n鲁道夫象征的赛马娘，\n也是摩耶重炮的室友。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "东海帝王",
+                "鲁道夫象征"
+            ]
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "嗯，算是吧！\n其实是会长给我了一部影片。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "“帝王，如果你仰慕我，\n那就别只顾著看我，也看一下我的四周吧。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "“比如说──成田白仁的跑法”\n她是这么说的。不过一个人看也很无聊吧？",
+            "ChoiceDataList": [
+                "（……“成田白仁”）"
+            ],
+            "ColorTextInfoList": [
+                "成田白仁"
+            ]
+        },
+        {
+            "Name": "",
+            "Text": "成田白仁──\n她是有着压倒性实力的赛马娘。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "她是经典级中……以三冠路线全都获胜\n而闻名的“三冠赛马娘”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "她比摩耶重炮早一个世代，\n在正式竞赛遇到的可能性还很低，\n不过未来要挑战经典赛的话──",
+            "ChoiceDataList": [
+                "应该要先看一下",
+                "也许应该先看一下"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "哦，不错耶～！\n摩耶重炮的训练员好像也有兴趣嘛？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摩耶重炮",
+            "Text": "咦！？训练员！？\n我不是说不能外遇了吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "啊哈哈，没关系啦！\n摩耶重炮也好奇的话，就大家一起看吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是我便和她们一起观看\n成田白仁的比赛影片……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "播报员",
+            "Text": "领先的是成田白仁！\n完全拉开了距离！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "播报员",
+            "Text": "脚力果然强劲！宛如怪物！技压全场！！\n压制其他赛马娘，抵达终点──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "播报员",
+            "Text": "──过了第四弯道，果然又是她！\n一口气从外圈超越所有人！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "播报员",
+            "Text": "有其他人能追上白仁吗！？\n遥遥领先、遥遥领先，抵达终点！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "白仁"
+            ]
+        },
+        {
+            "Name": "播报员",
+            "Text": "她已经只剩下这条路了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "播报员",
+            "Text": "真是一场不愧于三冠赛马娘称号的比赛！\n成田白仁，表现太精彩了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "主播",
+            "Text": "转播席！转播席！\n现在要访问的是成田白仁选手！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "主播",
+            "Text": "这次也拿下了漂亮的胜利！是否在开跑之前，\n就已经确定自己会是赢家了呢──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "在你看来是那样的吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "主播",
+            "Text": "那、那当然！毕竟是成田白仁选手！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "……哼。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "就算知道了，\n又有差吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "我只是为了满足自己而跑的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "上场的尽是渴望赢得比赛的赛马娘。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "正因为这样，我才要击败她们。\n为了要满足我的饥渴。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "──下场比赛也是。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "2人",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "──在以三冠赛马娘为目标的路线当中，\n每个GⅠ赛事都有各自的格言。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "GⅠ"
+            ]
+        },
+        {
+            "Name": "",
+            "Text": "“皋月赏”──由最快的赛马娘获胜。\n“日本打比”──由运气最好的赛马娘获胜。\n“菊花赏”──由实力最强的赛马娘获胜。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "皋月赏",
+                "日本打比",
+                "菊花赏"
+            ]
+        },
+        {
+            "Name": "",
+            "Text": "但是这次见识到的成田白仁的表现，\n则以“破格的实力”凌驾了那些格言。\n……她就是如此的强。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摩耶重炮",
+            "Text": "…………\n……训练员。",
+            "ChoiceDataList": [
+                "怎么了？",
+                "怎么了吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摩耶重炮",
+            "Text": "没事，只是想叫你！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "摩耶重炮讲完这句话后，\n又继续看向了电视。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "──如果在今年的挑战经典赛上，\n成田白仁能棋逢敌手的话，\n到时候情况应该会有所不同吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "……接着到了隔天。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "电视",
+            "Text": "“怎么有如此强大的赛马娘！\n──成田白仁，先拿下了一冠！！”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摩耶重炮",
+            "Text": "……训练员，\n你还在看白仁的比赛吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摩耶重炮",
+            "Text": "已经跟小帝说好下周再还了，\n不用急着现在看吧？",
+            "ChoiceDataList": [
+                "说得也是",
+                "说得也是呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摩耶重炮",
+            "Text": "唔唔唔……！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "──但我就是无法把目光移开。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "如果摩耶重炮现在有\n像她一样那么强的对手的话……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "（──啪哧）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摩耶重炮",
+            "Text": "讨厌──！讨厌讨厌讨厌讨厌──！！\n训练员，快看我这里！",
+            "ChoiceDataList": [
+                "咦？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摩耶重炮",
+            "Text": "人家现在很不开心！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摩耶重炮",
+            "Text": "因为训练员现在感到很兴奋吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摩耶重炮",
+            "Text": "我讨厌你这样！\n因为你是人家的训练员！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摩耶重炮",
+            "Text": "比起白仁的表现，\n我更希望你是看到人家的表现而感到兴奋！",
+            "ChoiceDataList": [
+                "摩耶重炮……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摩耶重炮",
+            "Text": "白仁是真的很强！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摩耶重炮",
+            "Text": "和她同场奔跑会让人感到兴奋，\n也会闪闪发亮！这些我也知道！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摩耶重炮",
+            "Text": "我在出道前，\n也是同样的想法。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摩耶重炮",
+            "Text": "……但是人家已经出道了！\n懂了更多更多的事情！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摩耶重炮",
+            "Text": "现在的我！\n能够变得更强，\n强到能“咻──！”地超越白仁！",
+            "ChoiceDataList": [
+                "（……“超越”。）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "……没错，就算现在无法直接对决。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "把追上她当作一个目标，\n对摩耶重炮来说也许会是很好的刺激。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摩耶重炮",
+            "Text": "我说的是真的！\n我很快就会跑赢白仁的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摩耶重炮",
+            "Text": "跑赢之后，你会只注视着我，\n并且称赞我说“很令人兴奋！”吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摩耶重炮",
+            "Text": "你会跟我说“你非常耀眼”、\n“摩耶重炮是最棒的”吗？",
+            "ChoiceDataList": [
+                "当然会！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摩耶重炮",
+            "Text": "那就这么决定了！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摩耶重炮",
+            "Text": "我可是很认真的！一定要遵守喔！\n要做好觉悟！你收到了吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "……她莫名地充满了干劲，\n于是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "就在这天，她心中有了一个名为\n“成田白仁”的目标。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

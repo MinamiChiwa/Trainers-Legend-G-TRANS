@@ -1,0 +1,299 @@
+{
+    "Title": "嘿那边的小姐，一起玩玩吧♪",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "某天，当我绕到购物中心时……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "喂，手纲小姐～\n可以吧～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "嗯──虽然我很高兴你邀请我……",
+            "ChoiceDataList": [
+                "你们在做什么？",
+                "你们在做什么？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "啊，训练员！\n你来得正好！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "啊，训练员！\n你来得正好！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "拜托你！\n帮我说服手纲小姐吧～！",
+            "ChoiceDataList": [
+                "说服？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "对啊对啊！我们刚才碰巧遇到，\n她好像刚帮理事长办完事喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "所以我就邀她一起去玩一下，\n当作喘口气嘛……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "理事长还在等我，\n我得早点回去才行。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "真是的，你每次都这么说～！\n太正经了啦～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看来丸善斯基和手纲小姐\n虽然是学生与理事长秘书的关系，\n但两人感情挺不错的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "你最近好像工作过头了吧？\n大家都很担心喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "可是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "快点，快用那最夯最潮的\n智能手机速速联络一下吧♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "就说“我要跟丸善斯基一起去吃茶店喝柠茶”\n这样☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "去咖啡店喝柠檬茶……\n这听起来确实很吸引人……",
+            "ChoiceDataList": [
+                "（她竟然听得懂……）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "喂喂，\n训练员也觉得玩一下没关系吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "喂喂，\n训练员也觉得玩一下没关系吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "无论是丸善斯基强硬但体贴的心意\n还是手纲小姐老实认真的心态，\n我都能理解。所以这时应该……",
+            "ChoiceDataList": [
+                "慢慢走回学园也是一种选择",
+                "我觉得稍微玩一下也没关系"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "哎呀，出乎意料的答案。\n意思是？",
+            "ChoiceDataList": [
+                "聊天放松一下如何？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "嗯，的确……\n和朋友聊天确实有放松的效果。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "你看，连训练员都这么说了！\n我们一起回去吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "真是的，竟然一脸“得救了”的表情～\n森七七！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "呵呵……我明白丸善小姐的心意喔。\n真的很谢谢你。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "……讨厌啦，我也没做什么吧？\n不过，光是聊天有点无趣……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "不如把手纲小姐的大秘密告诉训练员吧♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "不如把手纲小姐的大秘密告诉训练员吧♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "咦咦！？\n你、你说的那是什么啊……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "上次我无预警突击她的房间时，\n把吱吱叫的柜子打开一看──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "丸善斯基小姐！！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "呵呵，开玩笑的啦！\n那我们回去吧♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "最后虽然没说到底是什么秘密，\n但从这一趟平静的回程中，\n可以感觉到两人感情有多好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "你看～！\n果然训练员也这么觉得！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "你看～！\n果然训练员也这么觉得！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "既然如此，你最好做好心理准备，\n陪我一下吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "……真是的，我知道了啦。\n只有十分钟喔？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "太好了，捕获手纲小姐～☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "顺带一提，训练员是强制参加喔！",
+            "ChoiceDataList": [
+                "我早就有心理准备了",
+                "我早就有心理准备了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "顺带一提，训练员是强制参加喔！",
+            "ChoiceDataList": [
+                "我早就有心理准备了",
+                "我早就有心理准备了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "哎呀，所以你早料到会这样了是吧！\n真不愧是我的训练员☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "哎呀，所以你早料到会这样了是吧！\n真不愧是我的训练员☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "那我们就先去买东西吧！\n逛大街咯gogo☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "啊，请等一下！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "呵呵……\n真是的，你就是爱管闲事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "后来我们三人一起逛了购物中心，\n虽然累得精疲力尽，\n但也好好地放松一下了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

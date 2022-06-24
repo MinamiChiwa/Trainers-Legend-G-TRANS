@@ -1,0 +1,50 @@
+{
+    "Title": "肤况不太好……",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "嗯……看来肌肤状况有点糟。\n恐怕是实验的关系吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "虽说处理药品的时候，我应该是满小心的。",
+            "ChoiceDataList": [
+                "你还好吗？",
+                "你还好吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "只是肌肤状况不太好，没什么大碍。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "既然你都没有察觉到，\n应该不算什么大问题。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "忘了它吧。\n如果变严重的话，我会做些药膏来用。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "虽然说要忘了它，但不知道是会痛还是会痒，\n爱丽速子看起来还是有些介意……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

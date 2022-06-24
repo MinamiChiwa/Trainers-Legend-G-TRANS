@@ -1,0 +1,32 @@
+{
+    "Title": "挑战夹娃娃机失败……",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "可恶──好可惜啊～\n这个机械爪子也太没力了吧……！",
+            "ChoiceDataList": [
+                "抱歉……",
+                "对不起呀……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "啊，没关系，真的不用在意啦！\n这种事也要看运气嘛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "留下令人遗憾的结果……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

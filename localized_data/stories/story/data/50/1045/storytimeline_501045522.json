@@ -1,0 +1,58 @@
+{
+    "Title": "肤况不太好……",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "因为有文件必须签名，\n于是我去找超级溪流帮忙签字……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "……抱歉，可以稍微看向另一边吗？",
+            "ChoiceDataList": [
+                "另一边？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "其实……我现在的皮肤状况很差。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "最近常有人拜托我做菜洗衣服……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "因为太忙，都疏于保养了……",
+            "ChoiceDataList": [
+                "没事吧？会痛──",
+                "没事吧？会痛──"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "真、真是的，就说不可以看了。\n这样我会生气气喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我才想确认就被她骂了。\n脸被她推开后，我只好暂时眺望着窗外……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

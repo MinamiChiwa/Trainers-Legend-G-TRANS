@@ -1,0 +1,59 @@
+{
+    "Title": "夏季集训（第2年）开始！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "从今天开始是“夏季集训”──\n为了提升实力的强化训练即将展开。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "这里就是集训宿舍……\n训练员，我有事情想问你。",
+            "ChoiceDataList": [
+                "是什么？",
+                "什么事？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "在这集训宿舍……\n有吃到饱吗？",
+            "ChoiceDataList": [
+                "……你没忘记我们是来集训的吧？",
+                "……你没忘记我们是来集训的吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "不，没有忘记。\n我也知道这场集训很重要。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "为了拿下每场比赛的胜利，\n我会认真锻炼。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "不用担心，我会加油的。\n……只是觉得饮食也很重要。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──于是，我与小栗帽的\n热血夏季集训开始了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

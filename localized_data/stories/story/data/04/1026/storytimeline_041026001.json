@@ -1,0 +1,337 @@
+{
+    "Title": "改造人的秘密",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我作为赛马娘训练员，\n开始在特雷森学园生活的几天后。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "发生错误。标记座标处，并无目标物。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我走在商店街时──\n看到一名赛马娘站在路上。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "装置的GPS功能，也发生错误。\n确认到了负面状态，“万事休矣”。",
+            "ChoiceDataList": [
+                "……怎么了吗？",
+                "……怎么了吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "……经由徽章确认是特雷森学园的训练员。\n你好，我叫做美浦波旁。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "目前，正处于负面状态“万事休矣”的状态。\n无法寻获新开在这附近的训练用品店。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "商店街的人告诉我，“往这条路大概走100米”处，\n所以我走过来了，却没有看到像是训练用品店的店家。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "加上我的装置突然出现错误，难以开启地图程式。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "虽然我也不知道那间店在哪里，\n但替她用程式搜寻位置还是可以的。",
+            "ChoiceDataList": [
+                "我帮你查一下吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "不好意思了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我立刻查到了店家的位置。就在距离大概42米的地方。\n仔细一看还真的能看见那间店。",
+            "ChoiceDataList": [
+                "从这里再走一小段路就是了",
+                "从这里再走一小段路就是了哦"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "……不好意思，请问何谓“一小段路”？",
+            "ChoiceDataList": [
+                "咦？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "所谓的“一小段路”化作数值来说的话，究竟是多远的距离呢？",
+            "ChoiceDataList": [
+                "40米出头吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "……“40米出头”……？",
+            "ChoiceDataList": [
+                "……再往前走42米"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "完成确认，谢谢你。从这里再走42米。\n已查明先前获得的情报有42米的误差。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "虽是预料之外的事情，但这也是我事前调查不足所导致的。\n我会记下这次的错误履历，防止这样的错误再发生。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "那么，感谢你的协助。\n真的是帮了我一个大忙。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "前进42米。作战行动开始。",
+            "ChoiceDataList": [
+                "（还真是个特别的人啊……）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……想说保险起见还是观望一下，\n她这次就有在寻找的店家前停下来，顺利地走进去。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就在遇到这位特别赛马娘的隔天。\n为了寻找可以签约的赛马娘，我来观看模拟赛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新人训练员",
+            "Text": "这场比赛美浦波旁也有参加呢。\n她是不是在入学前的比赛中就留下了不错的成绩？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中坚训练员",
+            "Text": "是很像改造人的赛马娘吧？\n我有在操场上看到过。但我记得她好像已经──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "观众席上有许多和我一样以签约为目的来观赛的训练员，\n气氛相当热闹。大家都为了能找到潜力股而认真观察著。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（喀咚）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "耳边传来闸门开启的声响。\n身穿运动服的赛马娘们一起飞奔出来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新人训练员",
+            "Text": "领先的人跑得还真快啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "领先的赛马娘──美浦波旁立刻就跑到最前端，\n瞬间拉开了和前列赛马娘们间的距离。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "呼、呼、呼、呼！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中坚训练员",
+            "Text": "跟传闻一样相当有魅力的速度。\n看来短距离路线杀出了一个不容小觑的有望新人呢……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "以速度技压全场的美浦波旁，\n一路领先冲入最后的直线──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "呼、呼、呼──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "其他赛马娘连她的影子都追不到，就这么轻松地拿下了第一名。",
+            "ChoiceDataList": [
+                "（好惊人的才能……！）",
+                "（好惊人的才能……！）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "昨天在路上遇到的她，让人难以想像会有如此强而有力的跑速。\n我完全被她那充满才能的跑姿给俘虏了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新人训练员",
+            "Text": "这是很惊人的潜力股耶……！\n得在被别人抢走之前跟她签约──",
+            "ChoiceDataList": [
+                "（对啊，我也要赶快──）",
+                "（对呀，我也要赶快──）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中坚训练员",
+            "Text": "啊──不行哦。\n那位赛马娘啊，她早就有训练员了……",
+            "ChoiceDataList": [
+                "咦──！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我将目光转移到美浦波旁身上，\n确实看见她正在和一名训练员说话。",
+            "ChoiceDataList": [
+                "（慢、慢了一步……！）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新人训练员",
+            "Text": "那个人不是很有实力的资深训练员吗？\n唉──被人家给抢先了──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中坚训练员",
+            "Text": "那名训练员说为了她，\n可是气势十足地在针对短距离路线设立计划呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "既然已经有专任训练员，那我也只能放弃了。\n决定以后要默默地为她加油……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "当天夜晚。\n回家路上顺便在校内闲晃散步时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "呼、呼、呼、呼！",
+            "ChoiceDataList": [
+                "（是美浦波旁……！）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "发现了似乎正在自主训练的美浦波旁。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "呼、呼、通过1800米处，剩下1200米。\n时间是2分04秒……大幅低于目标速度……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "是在计时吗？\n话说回来──",
+            "ChoiceDataList": [
+                "（……3000米！？）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "一般来说，是不会让身体尚未锻炼完全的出道前赛马娘\n跑这种长距离的训练。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "……唔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "呼、呼、呼……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "…………",
+            "ChoiceDataList": [
+                "！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我慌张地跑向突然倒下的美浦波旁──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

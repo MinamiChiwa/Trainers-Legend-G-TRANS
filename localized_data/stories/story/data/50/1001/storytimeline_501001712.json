@@ -1,0 +1,52 @@
+{
+    "Title": "缺席的理由……",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "特别周没有来训练，\n傍晚才好不容易联络到她──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "对不起，\n我没有去训练……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "其实是因为今天有铃鹿的比赛……\n无论如何我都想去看，忍不住就……！！",
+            "ChoiceDataList": [
+                "算了，观赛也是一种学习"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "训练员……！\n呜呜，谢谢你。",
+            "ChoiceDataList": [
+                "你从铃鹿的跑法有学到什么吗？",
+                "从铃鹿的跑法有学到什么吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "有的，非常有参考价值！\n那样的强势领头果然不是谁都学得会的──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "既然“不是谁都学得会”，\n那不就没有参考价值了吗……？\n虽然这么想，我还是听着特别周不断说下去。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

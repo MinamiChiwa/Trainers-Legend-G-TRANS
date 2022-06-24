@@ -1,0 +1,43 @@
+{
+    "Title": "令人在意的谣言",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "唔……最近肩膀跟头都好重喔……\n那个谣言该不会是真的吧。",
+            "ChoiceDataList": [
+                "什么谣言？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "就是……听说最近有东西出没……\n夜晚的赛道上会出现幽灵。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "先声明！我、我没有害怕喔。\n根本不可能会有什么幽灵！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "可是……我晚上就是在这里自主训练……\n最近状况又不好……当、当然会在意。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "大和赤骥或许是因为一直感到害怕，\n就这样弄坏了身体的样子……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,250 @@
+{
+    "Title": "舞蹈练习",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我和美浦波旁一起采买结束后，\n走在车站前时……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "嗯～～怎么办呢～～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "确认到熟悉的声音。\n搜寻记忆，判断是飞鹰的声音。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "飞鹰，怎么了吗？\n有什么困扰吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "啊～～！小波！欸欸，\n你要不要跟我一起办赛马娘偶像☆演唱会！？",
+            "ChoiceDataList": [
+                "赛、赛马娘偶像☆演唱会？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "以前听说过“赛马娘偶像演唱会”，\n是在车站前举办的个人演唱会。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "没错没错！然后我想改变一下演唱会的模式～\n做一些以前没做过的演出～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "小波！你来当嘉宾怎么样！\n还能当作胜利演唱会的练习呢♪",
+            "ChoiceDataList": [
+                "要挑战看看吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "是，剩余能量也还足够。\n是可实行的事项。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "教练，担任嘉宾时，\n有没有什么需要注意的事项呢？",
+            "ChoiceDataList": [
+                "偶像最重要的是特色！",
+                "偶像最重要的是体力！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在现在这个偶像战国时代中，\n最重要的，应该还是个人特色才对……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "啊！展现力道的表演好像不错！\n利用锻炼过的肌肉，跳出帅气舞蹈之类的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "已收到指示。\n将计算出能善用我肌力的舞蹈方式……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "……计算结束。\n将使用刚才购买的锻炼臂力用胡桃。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "……嗯？胡桃……咦，胡桃？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "车站前播放着充满流行感的偶像歌曲。\n美浦波旁伴随着音乐将胡桃──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "……喝！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（啪哩♪霹哩♪\n霹哩♪啪哩啪哩♪）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "不、不是吧……\n竟然能配合节奏压碎胡桃！？",
+            "ChoiceDataList": [
+                "竟、竟然来这招……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "常客们",
+            "Text": "她就是今天演唱会的嘉宾！？\n太惊人了吧！？我要赶快录下来！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "常客竟然大为赞赏！？\n……小波的潜力无穷……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "好～！飞飞也要努力！\n让你们见识一下正宗赛马娘偶像的实力☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "呼～谢谢小波！\n演唱会成功了！飞飞也受到了启发呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "不只是胜利演唱会的练习，还能锻炼臂力，\n赛马娘偶像☆演唱会……让我很感兴趣。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "充满特色的表演大获好评，\n成为一场受益良多的嘉宾演出！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在现在这个偶像战国时代中。\n最重要的应该是演唱会的……长度！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "说、说得对！既然身为偶像，\n就该唱得出足以在巨蛋演出的曲数才对吧！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "了解。\n我会全力去跳的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "好～！那新的演唱会模式\n就是“赛马娘偶像☆不间断演唱会”了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "常客大哥",
+            "Text": "已经是第10首，舞步都没有凌乱过！？\n太、太强了吧……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "呼……\n赛马娘……不，赛马娘偶像就该这样。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "没错没错！这才刚开始而已！\n接着进入第11首吧～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "我、我已经不行了～～但是……\n演唱会非常成功……谢谢你们两个哦！",
+            "ChoiceDataList": [
+                "长时间的演唱会辛苦了！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "加上观众的要求，总共35首。\n我都有全力完成舞蹈。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "是说小波还真厉害耶！\n竟然连喘都不喘……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "因为我有接受教练的锻炼。\n但……这演唱会也是一场很好的训练。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "不只是胜利演唱会的练习，还能锻炼体力，\n赛马娘偶像☆演唱会……让我很感兴趣。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这场需要庞大精力的演唱会非常成功，\n成为一场受益良多的嘉宾演出！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

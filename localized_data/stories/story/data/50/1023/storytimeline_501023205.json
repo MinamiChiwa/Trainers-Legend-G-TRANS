@@ -1,0 +1,50 @@
+{
+    "Title": "迎向天皇赏（春）",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "播报员",
+            "Text": "各位观众，\n今年的“天皇赏（春）”在阪神赛场举行。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "播报员",
+            "Text": "哪位赛马娘将会获得荣耀的春季天皇赏奖牌呢？\nBNW的成田大进，\n还有琵琶晨光的表现也值得瞩目！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "根据前一天公开的草地状态，\n场地软硬度数值也很标准。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "还有这种天气与场地状态……似乎也很接近\n上星期跑过的学园D赛道的状态。",
+            "ChoiceDataList": [
+                "……你可以吗？",
+                "……你觉得可以吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "当然。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "那么训练员，\n你就好好看着我的胜利方程式吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

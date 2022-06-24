@@ -1,0 +1,602 @@
+{
+    "Title": "两人三脚",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "某天，在我经过赛场前时，\n看到了一张熟悉的面孔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "终于要到正式竞赛了呢，米可。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "距离“URA决胜系列赛”的举行\n也越来越近了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "要确实地获胜，朝巨星赛马娘踏出\n稳健的第一步吧……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "快乐米可",
+            "Text": "……我知道了。\n……好，加油──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "……今天一定要让她获胜才行。\n今天一定……！",
+            "ChoiceDataList": [
+                "（闷闷不乐的表情……？）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "由于她的样子不知为何让我很在意，\n所以我便去观赏了快乐米可的竞赛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众A",
+            "Text": "喔，快乐米可有出赛耶！\n我有稍微关注她喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众B",
+            "Text": "不过……最近好像没什么亮点呢。\n明明刚出道那一阵子成绩还挺不错的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众A",
+            "Text": "唔──是成长停滞了吗？\n要加把劲啊～专任训练员……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就这样，竞赛开始了——",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "播报员",
+            "Text": "从内侧过来了，快乐米可！\n追得上吗，追得上吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "播报员",
+            "Text": "但是领先集团依旧保持领头！\n快乐米可追得过去吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "播报员",
+            "Text": "——领先保持领头冲到终～～～点！！\n快乐米可只差一步可惜还是没追上！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "很可惜，快乐米可只拿到了第三名。\n她的状况看起来的确不太好……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "……对不起，米可。\n这次……又没办法让你获胜。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "快乐米可",
+            "Text": "……不是。\n……都要怪我能力不足。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "不对！！\n……不是这样的，米可。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "你是个素质很好的赛马娘。\n不管是身体能力，还是思考能力都很强。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "所以这全都是……\n我这个专任训练员的责任……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "桐生院训练员看起来非常失落，\n甚至完全没留意到我的存在，\n就这样跟快乐米可一起回去了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "然后，到了当天傍晚──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "快乐米可",
+            "Text": "…………那个……",
+            "ChoiceDataList": [
+                "米可！？你怎么会一个人来？",
+                "米可！？你怎么会一个人来？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "快乐米可",
+            "Text": "…………找不到。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "快乐米可",
+            "Text": "……我的训练员。\n……到处都找不到她。",
+            "ChoiceDataList": [
+                "你知道她可能会去哪里吗！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "快乐米可",
+            "Text": "…………我不知道。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "快乐米可",
+            "Text": "……训练员总是以我为优先。\n……我们在一起的时候，也总是在聊我的事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "快乐米可",
+            "Text": "………………所以我不知道。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "快乐米可垂头丧气了起来。\n但这的确很像会认真为专任赛马娘\n着想的桐生院训练员的作风。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "对于她会去的地方，\n难道我也没有头绪吗……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "总是为专任赛马娘着想的\n桐生院训练员可能会去的地方……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "呵呵……米可好像很开心。\n原来她喜欢水族馆啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "快乐米可",
+            "Text": "……<username>？",
+            "ChoiceDataList": [
+                "难道说……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我抱着一丝希望，急忙跟快乐米可\n一起赶到水族馆。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "咦……米可！？\n还有<username>训练员！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "快乐米可",
+            "Text": "……训练员。\n……我一直在找你。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "米可……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "……对不起，让你担心了呢。\n居然成了赛马娘的压力来源。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "我还真是个……没用的训练员。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "快乐米可",
+            "Text": "…………！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "还有<username>训练员……\n给你添了很多麻烦，\n我真的很抱歉。",
+            "ChoiceDataList": [
+                "为什么一个人来这里？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "……我想要重新思考。\n身为一名训练员，自己究竟该做什么。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "但是越思考只会越为\n自己的不成熟感到惭愧……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "快乐米可",
+            "Text": "……唔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我丝毫不怀疑桐生院训练员的能力。\n透过家族秘传的《训练员心得集锦》，\n她获得的知识完全让其他人望尘莫及。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她对赛马娘也付出了十二万分的感情。\n不过，如果要说这样的她\n有欠缺什么部分的话──",
+            "ChoiceDataList": [
+                "你有找米可谈过自己的烦恼吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "咦……找、找她谈？\n训练员找赛马娘谈吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "我、我没找她谈过。\n怎么可以让她担心──",
+            "ChoiceDataList": [
+                "我倒是认为让她担心也无妨"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "咦……咦……？",
+            "ChoiceDataList": [
+                "难道竞赛光靠你一个人努力就够了吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "可是……可是……居然要让\n米可配合这么没用的我……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "快乐米可",
+            "Text": "……才不是。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "……米可？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "快乐米可",
+            "Text": "……我的训练员……\n才不是，没用的训练员！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "…………！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "快乐米可",
+            "Text": "……我想告诉训练员。\n……别只聊我的事情。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "快乐米可",
+            "Text": "……我也想了解训练员。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "快乐米可",
+            "Text": "……我也想为训练员着想。\n……想跟你一起努力。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "米可……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "……该怎么做？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "原本该支持你的，却自以为是，\n反而变得要靠你支持……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "该说什么才好……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "快乐米可",
+            "Text": "……该说什么……？\n……唔……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "快乐米可",
+            "Text": "……今天想吃的东西。\n……喜欢的水母……之类的？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "真、真是的……呵呵！\n不是那样啦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "快乐米可",
+            "Text": "……呵呵呵。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "快乐米可",
+            "Text": "……可是，我很想知道。\n因为我想一直……跟你一起努力下去。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "……好的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "……<username>训练员，\n你……又让我学到一课了呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "啊……对了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "米可，对不起。\n可以请你在那边再等一下吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "快乐米可",
+            "Text": "…………只等一下喔──？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "呵呵，好，再稍微等一下。\n我这就去找你。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "快乐米可",
+            "Text": "……好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "<username>训练员。\n我要再次……向你道谢，真的很谢谢你。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "然后……不介意的话，可以请你\n收下我的《训练员心得集锦》吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "虽然说……拿我用过的旧东西\n当作谢礼，很不好意思就是了。",
+            "ChoiceDataList": [
+                "真的可以吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "是的。\n……这次的事让我打从心底觉醒了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "我实在是太不成熟，还没办法\n正确驾驭《训练员心得集锦》。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "所以我要先改掉凡事照书来的习惯──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "直接面对，好好地关注她，\n从这里踏出第一步。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "……但是对于已经懂得用正确方式\n关注赛马娘的你来说，\n这本书一定会大有帮助。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "请你充分活用\n桐生院家代代相传的各种智慧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就这样，我从像是一扫迷惘的\n桐生院训练员手上，\n收下了《训练员心得集锦》。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "体积虽小却沉甸甸的这本书，\n让我从中感受到连绵不断传承下来的\n荣耀以及热情……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "那我就先失陪了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "……还得跟米可聊很多事情才行！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "于是，我就这样一直目送著\n两人并肩走远的背影……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "独白",
+            "Text": "桐生院家的训练员心得集锦当中\n所记载的赛马娘培育精髓，\n对<chrname>的成长提供了极大贡献！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "不好意思，\n我接下来要去跟米可聊聊了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "今后的事……还有我的事等等。\n……我要跟她聊很多很多的事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "……我们走吧，米可！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "快乐米可",
+            "Text": "……好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "于是，我目送两人紧紧相依的背影\n渐渐走远……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

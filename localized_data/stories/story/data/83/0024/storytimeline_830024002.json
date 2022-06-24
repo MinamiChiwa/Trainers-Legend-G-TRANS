@@ -1,0 +1,260 @@
+{
+    "Title": "真正该回应的是……",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──这一天，我为了<chrname>\n而来到赛场勘察场地……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者",
+            "Text": "哎呀，小栗帽选手，我都听说咯！\n为了纪念你的玩偶即将制作并发售，\n将会举办相关活动吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "……谢、谢谢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者",
+            "Text": "真不愧是巨星，想必你的家人也很开心吧！\n那你跟他们什么时候会见面呢？\n请务必要让我独家采访他们的感言！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "呃，我的父母人在故乡，所以──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者",
+            "Text": "哎呀，那用电话采访也没关系！\n我想想喔……可以的话想请你务必能先\n给我你老家的电话号码……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "电、电话吗？\n我想想，号码是……0──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……就算是要采访，\n也不该打听个人资料。\n身为学园相关人士，我无法继续袖手旁观。",
+            "ChoiceDataList": [
+                "接下来如果要提问，请经由学园"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者",
+            "Text": "你、你是哪位？啊……那个徽章！\n啊、啊哈哈，原来是学园的人啊！\n那我先告辞了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "……谢谢你帮了我。\n他果然不是一位好记者。",
+            "ChoiceDataList": [
+                "如果觉得可疑就要当场拒绝"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "这么说……是没错。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "……其实是因为那位记者刚才，\n对我说我是巨星赛马娘。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "还说……“是巨星就有义务回答问题，\n粉丝们也是这么期待的。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "那如果我拒绝回答问题──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "……不就等于是\n辜负了大家的期待吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……听起来她似乎是很重视粉丝的赛马娘。\n既然如此那就更该──",
+            "ChoiceDataList": [
+                "你要果断拒绝才行",
+                "你要果断拒绝才行"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "……可是……",
+            "ChoiceDataList": [
+                "粉丝一定也很重视你才对",
+                "粉丝一定也很重视你才对"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "……这样啊，也是。\n阿留跟阿茂也常这么说。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "“小栗是我们的宝物”。\n那我也该保护好他们……保护好那个宝物。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "嗯，我明白了。\n下次开始我会拒绝的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "……不过，不知道我有没有办法顺利拒绝。",
+            "ChoiceDataList": [
+                "到时就找大人搬救兵吧",
+                "我教你一句魔法咒语吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "……原来如此。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "那之后也拜托你了。",
+            "ChoiceDataList": [
+                "我？",
+                "我？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "是的，你刚才的应对非常出色，\n而且幸好你还是学园的相关人士。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "……所以我可以拜托你吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……虽然这回答实在有够直接，\n但她说得完全正确。不过──",
+            "ChoiceDataList": [
+                "你某些地方还真直接",
+                "你某些地方还真直接呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "嗯，好像是。\n妈妈以前也常这样夸奖我。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "之后，我目击到率直地\n向学园的大人们提问的小栗帽。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "……魔法的咒语？",
+            "ChoiceDataList": [
+                "“请经由学园”"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "这是……你刚才说过的话……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "原来如此，\n那名记者听到这句话后拔腿就跑了，嗯……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这时，有一名女性\n朝这里跑了过来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "工作人员",
+            "Text": "啊，找到你了，小栗帽小姐！\n我想跟你讨论玩偶的事──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "要发问请经由学园！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "工作人员",
+            "Text": "咦？咦咦咦！？我们有约好了\n今天要讨论制作玩偶的相关事宜……对吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "啊，这件事我有听说……\n对……对不起。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看来她要活用这句魔法咒语，\n似乎还需要一些练习……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,415 @@
+{
+    "Title": "商店街的偶像！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "某个假日。\n春丽站上了在常去的商店街\n所特别设置的舞台──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "呃～咳咳！\n大家好──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街的各位",
+            "Text": "你好──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "我是出任这条商店街“招牌赛马娘”？\n的春丽！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "所谓的招牌，\n是不是只要直挺挺站着就好呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街的人A",
+            "Text": "怎么可能啊！乌拉拉真是的！\n哇哈哈哈！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "嗯嗯？虽然不太清楚，\n但我会尽全力加油的！请多指教喔──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街的各位",
+            "Text": "请多指教──！\n拜托你咯──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "场景回到几天前──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "“招牌赛马娘”、“一日店长”、\n“宣传队长”……全都是我的工作吗？",
+            "ChoiceDataList": [
+                "没错！",
+                "是的！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "不断努力参加比赛的春丽，\n突然收到有如雪片般飞来，\n大量和宣传有关的工作邀约！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "唔哇，好棒好棒！\n太棒了──！好像很有趣──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "我想试试看──！\n要去哪里工作呢？",
+            "ChoiceDataList": [
+                "是我们常去的商店街喔！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "虽然委托者的公司名或店名都不一样，\n但工作邀约全都来自同个地址。\n没错，就是最疼爱春丽的那条商店街。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "这样啊！\n就是跟平常去帮忙的感觉一样吗？",
+            "ChoiceDataList": [
+                "有点不一样呢，因为是工作",
+                "有点不一样喔，因为是工作"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "得到宣传工作，也就代表春丽成了\n名副其实的商店街招牌。\n这工作有个明确的优点，就是能提高知名度。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "对现在的春丽来说，\n提高身为赛马娘的支持度的重要性\n不亚于训练。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "不过，就算我这样说明，她应该也听不懂吧。\n所以……",
+            "ChoiceDataList": [
+                "努力加油吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "好──！\n春丽，加油加油──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──因此，这次春丽来商店街\n不是为了玩耍，\n而是来工作的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街的人A",
+            "Text": "那么，乌拉拉，\n今天一整天就麻烦你了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "嗯！\n……不对，好的──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街的人A",
+            "Text": "哈哈，没关系啦，乌拉拉你保持平常那样就好！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "是这样吗？可是帝帝告诉我，\n“既然是工作，就要注意礼貌！”耶。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "不过，既然叔叔说没关系，\n那应该就没关系了吧！嘻嘻──♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街的人A",
+            "Text": "嗯嗯，这样才像乌拉拉嘛！\n那我可以立刻拜托你做事吗？\n想请你去商店街的店家绕一圈！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "嗯，我知道了！\n我去转啊转地绕一圈喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "转啊转──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "啊！卖鱼的叔叔！\n你好啊──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鱼贩大叔",
+            "Text": "喔，是乌拉拉啊！\n你今天也很有气势喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鱼贩大叔",
+            "Text": "怎么样，要买些什么吗？\n今天进了品质很好的鲣鱼喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "哼哼──你这样说没问题吗？\n我对鲣鱼可是很挑剔的喔──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鱼贩大叔",
+            "Text": "就是这样才要告诉你！\n来一决胜负吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "好啊！要是让我说出好吃，\n就是叔叔赢了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "好好吃～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鱼贩大叔",
+            "Text": "太好了！\n得到乌拉拉的认证了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "行人A",
+            "Text": "你看，那边好像很热闹耶。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "行人B",
+            "Text": "真的耶。是鱼货店？\n不然买点鱼回去煮晚餐好了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "啊，那边的大姐姐们！\n欢迎欢迎，请慢慢看──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──眼前景象令人倍感温馨。\n春丽所到之处都会聚集人群，\n展现有如花朵盛开般的热闹情景。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "哇哇，好大的白萝卜！\n这样才100圆吗～！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "蔬果店的阿姨",
+            "Text": "当然了，就是100圆喔！\n长得很扎实，很好吃喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "真的看起来好好吃～！\n可以直接咬吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "蔬果店的阿姨",
+            "Text": "当然可以，\n只要你买回去，要怎么咬都可以！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "唔……我买！\n请给我五根！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "蔬果店的阿姨",
+            "Text": "谢谢惠顾──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "行人们",
+            "Text": "很棒喔，春丽！\n啊哈哈哈……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "谢谢、谢谢──！\n大家也要来买喔──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小孩",
+            "Text": "我问你喔！\n大姐姐，你是赛马娘吗──？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "是啊！\n我会“哒哒哒──”地不断奔跑喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小孩",
+            "Text": "这样啊！\n那我下次要帮你加油！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "真的吗？\n太好了～谢谢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……春丽无论走到哪都很受欢迎。\n这样只要再提升实力，应该就可以赢得\n各种比赛了。就在这时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街的人B",
+            "Text": "那个，旁边的这位。\n你是乌拉拉的训练员吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "眼前的女性是商店街振兴组织的成员。\n听说她从春丽刚入学起\n就一直照看着她。",
+            "ChoiceDataList": [
+                "谢谢你委托春丽工作"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街的人B",
+            "Text": "该说谢谢的是我才对啦。\n多亏有乌拉拉，\n真的帮了我们很多忙。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街的人B",
+            "Text": "自从乌拉拉来了之后，\n这条商店街也变得更有活力了。\n之前真的很萧条呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街的人B",
+            "Text": "……乌拉拉她的实力\n不怎么强对吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街的人B",
+            "Text": "我之前就听说\n那孩子总是跑不赢……",
+            "ChoiceDataList": [
+                "不过，乌拉拉有在努力变强"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街的人B",
+            "Text": "嗯，我相信她一定很努力。但是……\n还是不可能突然就变得很强吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街的人B",
+            "Text": "没关系的。\n只要乌拉拉一直开心地奔跑……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街的人B",
+            "Text": "我们就会受到很大的鼓励了。\n只要这样我们就很高兴了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她一边说一边温柔地注视着春丽。\n那眼神充满着有如为人父母般，\n对孩子的关怀之情。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "以父母般的心态守护着她的人们，\n或许是真心认为\n“只要她能开心地奔跑就好”吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "但是──真的只要这样就好了吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

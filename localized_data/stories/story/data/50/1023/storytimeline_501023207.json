@@ -1,0 +1,51 @@
+{
+    "Title": "迎向天皇赏（秋）",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "……训练员。\n你昨天有睡饱吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "好了，再把脸靠近一点。",
+            "ChoiceDataList": [
+                "咦……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "……嗯。黑眼圈比前几天淡一些呢。\n太好了，这样我也放心了。",
+            "ChoiceDataList": [
+                "（话虽如此，但这样实在……）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "──担心过头了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "如果你这么想，就给我反省一下。\n真是的，是你让我这么担心的喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "……那么，\n我要上场去证明我与你的方程式了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

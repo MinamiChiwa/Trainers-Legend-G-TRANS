@@ -1,0 +1,56 @@
+{
+    "Title": "夏季集训（第三年）开始！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "今天起就是夏季集训了。\n说到春丽的情况……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "训练员、训练员！\n我放好行李了！我换好衣服了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "快点快点，快开始训练吧！",
+            "ChoiceDataList": [
+                "你真有干劲耶！",
+                "你真有干劲呢！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "因为我得好好加油才行啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "还有比赛在等我，训练也是！\n我要努力再努力，努力加油！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "这样一来一定没问题！\n所以呢，要严格地锻炼我喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "春丽的干劲是货真价实的。\n既然如此，我也要回应她的期待，\n得帮她排定适当的训练才行！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

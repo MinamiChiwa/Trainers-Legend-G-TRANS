@@ -1,0 +1,69 @@
+{
+    "Title": "缺席的理由……",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "目白麦昆没有来训练，\n于是我跑去找她……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "加油棒也准备好了！出发吧……去球场！",
+            "ChoiceDataList": [
+                "找到你了！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "呀！训练员！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "咳……突然找我是怎么了呢？\n我现在要去一个地方……",
+            "ChoiceDataList": [
+                "你忘了要训练吗？",
+                "你忘了要训练吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "…………啊！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "啊哇哇……我、我、我竟然忘记了！\n脑袋里只想着连续安打纪录……",
+            "ChoiceDataList": [
+                "连续安打纪录……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "啊……没、没什么！\n实在很抱歉……",
+            "ChoiceDataList": [
+                "下次可要注意啊",
+                "下次可要注意喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "好的……我会再好好管束自己的。\n然后我一定会……替这次的失态扳回一城！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

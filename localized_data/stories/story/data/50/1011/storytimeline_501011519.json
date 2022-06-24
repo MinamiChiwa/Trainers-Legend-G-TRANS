@@ -1,0 +1,56 @@
+{
+    "Title": "飞天车",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "某天傍晚，\n我看见草上飞一脸疲倦地回到学园。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "唔……头好晕……那边是天空，\n这边是地面，那是……训练员。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "训练员，你知道……\n双脚能够踩在地面上是多棒的事情吗？",
+            "ChoiceDataList": [
+                "发、发生什么事了……？",
+                "发、发生了什么事……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "……有台鲜红色的超跑时常停在学园停车场，\n你有印象吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "如果丸姐找你去兜风，\n你没想太多就上车的话……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "在车子飞向空中的那瞬间，你或许就能体验到\n相同的感觉喔……呵呵呵……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "草上飞看向远方笑着说道。\n听完之后我在内心发誓，绝对要小心超跑。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

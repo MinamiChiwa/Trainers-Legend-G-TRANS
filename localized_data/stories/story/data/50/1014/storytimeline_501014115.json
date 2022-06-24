@@ -1,0 +1,512 @@
+{
+    "Title": "被脱下的面具",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "训练员！！\n训练员，大事不好了！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "当我经过学生宿舍前时，\n草上飞脸色大变地冲了过来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "我……我到处都找不到小鹰。\n而且房间里还留下了这个东西……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她拿给我看的是\n神鹰平常一定会戴着的重要面罩。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "她平常根本不可能\n以真面目外出。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "这表示她应该非常苦恼……\n万一发生了什么事──",
+            "ChoiceDataList": [
+                "我们分头去找她吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我在分开时从草上飞手中收下面罩，\n开始到处找人。结果──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "……………………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "啊！？\n训练员……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她看起来像个好像曾见过，\n又好像没见过的少女。我默默来到她身旁。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "终于……被发现了呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "神鹰……是个“骗子”这件事。",
+            "ChoiceDataList": [
+                "骗子？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "没错……神鹰才不是世界最强。\n不只是这样……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "连我自己也不相信\n我是世界最强。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "我在与小特一起跑打比时已经快穿帮了。\n后来又和铃鹿前辈跑，结果就完全穿帮了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "训练员……你看！\n这就是神鹰真正的模样！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "神鹰总是叫我“别看”她的脸。\n现在她却要我“快看”……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "我就是个……普通的赛马娘……\n不只是这样……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "我既胆小、爱哭又懦弱……\n一点自信都没有……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "我一直努力掩饰这件事……\n希望能成为自己向往的模样！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "我觉得只要戴上面具并说服自己，\n就可以变强。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "但是大家才不会耍这种小手段。\n小特、铃鹿前辈和大家都是如此……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "她们都正大光明地用真面目战斗，逐渐变强！\n但我却……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "我……就是办不到……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "用面罩把懦弱的自己藏起来的赛马娘，\n根本不可能成为世界最强。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "那个面罩──\n是爸爸给我的重要面罩。但是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "那也是神鹰说谎的印记！\n是谎言的集合体！所以……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "谎言的──集合体。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我注视着草上飞交给我的面罩。\n神鹰总是戴着它──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "优胜、大胜、神鹰压倒性胜利！！\n这就是我的实力──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "啊，训练员！\n我以全力振翅飞过来了──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "潇洒！疾风！千钧一发！\n神秘的蒙面战士“阿兹提克兀鹰”\n正．式．登．场──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她用尽一切力量急驰奔跑，\n为许多人带来乐趣。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就算那是虚张声势创造出来的，\n但她一直以来所做的那些事……",
+            "ChoiceDataList": [
+                "──都不是谎言。"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "咦？训练员？",
+            "ChoiceDataList": [
+                "神鹰你做过的事情都是真的",
+                "神鹰你做过的事情都是真的喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "但是神鹰──！",
+            "ChoiceDataList": [
+                "蒙面摔角手全都是骗子吗？",
+                "蒙面摔角手全都是骗子吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "咦……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我如此询问神鹰。\n──蒙面摔角手总是隐藏自己的真面目。\n但是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "他们的技巧是假的吗？\n想带给人们欢乐的心情是假的吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "那……不是假的！\n蒙面摔角手……爸爸才不是骗子！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "站在擂台上的爸爸和待在家里的爸爸\n的确不一样。但是！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "擂台上的爸爸也是真正的爸爸！\n他会认真地打一场最棒的比赛，\n为大家带来欢乐！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "……啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看来她终于察觉到了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "原来是……这样啊……\n就算藏起真正的自己……\n就算用面罩盖住自己的懦弱……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "但是！神鹰想做的事情！\n神鹰想展现给大家看的跑法！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "就算现在……还是做不到……",
+            "ChoiceDataList": [
+                "神鹰，这个给你"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "我的面罩……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "只要戴上这个，就可以再一次……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "那个……训练员，帮我……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "你自己戴上吧，小鹰。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "……小草？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "不知从何时开始在旁边听的\n草上飞走了过来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "你必须自己戴上才行。\n因为──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "你是神鹰。\n是要成为世界最强的赛马娘。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "你可以依赖训练员。\n但是你的翅膀──必须自己展开才行。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "你不是已经发誓过了，\n将来要成为我最大的劲敌吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "连为了你心中的对手扮演好角色的\n气魄都没有──还算什么“朋友”呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "小草──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "神鹰态度坚定地收下面罩，\n紧紧拿住它，然后──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "其实我是个胆小、\n爱哭又懦弱的赛马娘……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "但是，我会把这副真面目藏在心里，\n开朗、愉快地以无人能比的最快速度\n在赛场上奔驰！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "有着出类拔萃的才能！小草的宿敌！\n而且是最强训练员的专任赛马娘！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "我……我……我就是！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "神鹰────！！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "怪鸟复活的呐喊在整片夜空中回荡。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "训练员、小草，今天很谢谢你们。\n我已经没事了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "神鹰只是在一开始的时候……\n有点太过向往高空了。就只是这样而已♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "我接下来会开始雪耻──！\n就算曾经坠落，只要再从大地跳起，\n重新飞上天就行了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "小鹰……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "好，既然如此，\n该选哪一场竞赛当作下个目标呢……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "首先是以国内最强的宝座为目标，\n所以需要可以专心训练的时间！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "而且还要聚集全日本的强者，\n能够吸引对神鹰抱持期待的粉丝目光，\n这样的竞赛是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──我开始思考。\n参加明年举办的比赛比较有时间训练。\n会聚集所有强者的是中距离竞赛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "而最能够吸引粉丝目光的则是\n有粉丝投票的大奖赛。既然如此──",
+            "ChoiceDataList": [
+                "“宝冢纪念”怎么样？",
+                "“宝冢纪念”怎么样？"
+            ],
+            "ColorTextInfoList": [
+                "大奖赛"
+            ]
+        },
+        {
+            "Name": "神鹰",
+            "Text": "喔喔喔！“宝冢纪念”！\n古马级的代表，春末的大决战！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "宝冢纪念"
+            ]
+        },
+        {
+            "Name": "神鹰",
+            "Text": "就参加那个吧！\n如果能在那里超越所有人，\n这次就真的可以挑战“日本杯”了──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "曾经跌落谷底的神鹰又再次复苏了，\n宛如不死鸟一般。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "训练员，谢谢你。\n这样子……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "这样子就能够继续前进了。\n小鹰和我们都是。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

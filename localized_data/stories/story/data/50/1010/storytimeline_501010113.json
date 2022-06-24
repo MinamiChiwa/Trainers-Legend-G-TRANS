@@ -1,0 +1,452 @@
+{
+    "Title": "在竞赛之中，找到dream",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "距离开始训练还有一点时间。\n就在我想先把资料重新做个整理的时候──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "训练员────！！！\nHowdy────────！！",
+            "ChoiceDataList": [
+                "大树！？你已经来啦！？",
+                "大树！？你已经来了吗！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "啊哈，你吓了一跳吗？\nSurprise大成功！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "还有一段时间才要开始训练。\n我想说你一定会疏忽大意──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "所以就──BANG！\n算准时机冲过来了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "呼～～～～好满足喔♪",
+            "ChoiceDataList": [
+                "这、这样啊",
+                "这、这样啊"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她特地早来只是为了吓我吗？\n是不是有什么事要找我呢？我一这么问──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "Oh，对了！\n其实呀──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "…………唔唔？",
+            "ChoiceDataList": [
+                "……跑太久，跑到忘记了？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "唔唔唔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "──算了，难免会有这种情况发生嘛！！\n等需要的时候再想起来就no problem了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "对了！难得我这么早到，\n要不要现在就开始训练呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "出道战就快到了！\nDon't stop me now啦────！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我就这样被大树快车拖了出去，\n比平常还要早就开始进行训练……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "啦啦啦，今天要和训练员一起做\n好久好久的训练……♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "喔，在那里的是！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "Howdy～气────槽！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "气────槽"
+            ]
+        },
+        {
+            "Name": "气槽",
+            "Text": "唔……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "……大树，又是你。\n我一直都有告诉你别擒抱我啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "大树"
+            ]
+        },
+        {
+            "Name": "大树快车",
+            "Text": "啊哈哈，sorry！\n因为你不会被撞飞，我就不禁扑过去了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "Next我可以更powerful一点吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "拜托住手！！\n你这个人真是……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "……唉，算了。\n不说那个，你和专任训练员谈完了吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "如果你已经获得允许，那我们就出发咯。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "……允许？\n……出发？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "…………你该不会忘了吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "我们不是接到指示，要把\n“年度代表赛马娘”的资料搬到图书室吗！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "年度代表赛马娘"
+            ]
+        },
+        {
+            "Name": "气槽",
+            "Text": "是你自己说现在去搬会赶不上训练，\n所以才冲去找训练员调整时间吧！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "Oh，that's那个！！\n我全都想起来了！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "全都是我跟你说明的啦！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──总觉得越来越过意不去，\n于是我决定帮她们搬资料。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "呼～！资料好多喔！\n明明有三个人在搬，却怎么也搬不完……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "毕竟这些是各年度的代表，\n也就是“年度代表赛马娘”们的资料啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "战绩自不用说，包含详细的训练内容\n和对手的纪录在内，资料包罗万象。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "It's fantastic……！！\n真不愧是“年度代表赛马娘”耶！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "……所以，\n“年度代表赛马娘”是指什么呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "居然要从这个开始解释喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "真是的……在闪耀系列赛中有个“URA奖”，\n可以说是颁发给活跃了一整年的赛马娘吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "URA奖"
+            ]
+        },
+        {
+            "Name": "气槽",
+            "Text": "URA奖分为几个项目，\n在经典级、短距离、沙地等比赛中，\n最为活跃的赛马娘会分别受到表扬。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "经典级"
+            ]
+        },
+        {
+            "Name": "气槽",
+            "Text": "而在这里头评价最好的人──\n将会获颁“年度代表赛马娘”的荣誉。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "Oh！！Well～换句话说……\n就是指最great的赛马娘吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "当然，每个获选者都拥有技压群雄的能力……\n但不仅仅是如此。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "咦？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "她们会像这样子留下资料，\n供后人永远流传下去……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "英杰们连绵不断的诸多传说，\n点缀著闪耀系列赛的舞台──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "因此众人才会深受赛场吸引，\n作著永不止息的梦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "为众人内心点燃狂热的火焰──\n这就是“年度代表赛马娘”的存在意义。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "………………！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就在我整理完资料，\n和大树快车一同前往训练的时候……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "嗳嗳，图书室里的年度代表赛马娘的\n相关资料好像都已经整理好了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘B",
+            "Text": "喔，真的假的？我们立刻去瞧瞧吧！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "好呀好呀，我一定要去！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "我第一个崇拜的对象……引导我踏入\n竞赛圈子的人，我会跟你说很多她的故事！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "So, so good smile.\n真是耀眼。",
+            "ChoiceDataList": [
+                "真是充满梦想呢",
+                "真是充满梦想呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "Yes！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "能够在竞赛之中，找到dream──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "不论是对赛马娘或粉丝来说，\n这都是最happy的事情。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "既然如此……OK！！\n我决定了！！",
+            "ChoiceDataList": [
+                "大树？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "训练员！！\n我──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "要成为年度代表赛马娘！！",
+            "ChoiceDataList": [
+                "……！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这番宣言实在太过唐突，\n会让人误以为是她一如往常的脱序发言。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "然而，大树快车的双眼散发出比平常还要\n严肃的光芒，那很明显是“认真的”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "Fantastic的竞赛！\nGreat的run！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "我要给大家见识一下──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "让赛马娘、粉丝、family和friends！\n还有往后将认识我的人！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "大家全都\n变得最happy────！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "大树快车这份热烈的情感……\n我一定要帮她实现才行！",
+            "ChoiceDataList": [
+                "好，就这么办！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "Yes────！“年度代表赛马娘”，\ntarget lock-on了！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "于是，大树快车开始朝着那份\n远大无比的梦想起步奔驰了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "那家伙的存在",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "跟伏特加大吵一架后，\n大和赤骥的状况不佳。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "她奔跑的样子宛如映照出自身的迷惘。\n看着她踌躇不前的模样，\n身为训练员的我决定──",
+            "ChoiceDataList": [
+                "选择参加“奥克斯”",
+                "选择参加“日本打比”"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "为了让大和赤骥跑完\n自己决定贯彻的后冠路线，\n我着手准备“奥克斯”的参赛事宜。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我决定准备让她参加“日本打比”，\n与伏特加正面对决。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "日本打比"
+            ]
+        }
+    ]
+}

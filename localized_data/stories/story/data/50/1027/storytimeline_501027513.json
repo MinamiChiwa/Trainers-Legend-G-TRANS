@@ -1,0 +1,324 @@
+{
+    "Title": "我在旁人眼中的决胜服打扮",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "某天，当我走在学园里的时候，\n发现走廊围了一群人。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "唔哇……真是太棒了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘B",
+            "Text": "嗯嗯，有一种难以形容的气势呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "她果然很厉害……",
+            "ChoiceDataList": [
+                "你们在做什么？",
+                "你们在做什么？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "啊，训练员。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "小栗同学的记者会正在举行。\n你看，就在那里。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我往房间里一看，\n发现小栗帽正穿着决胜服接受采访。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "你散发着一股仿佛立刻要出赛的气势呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "……只要换上决胜服，自然就会充满斗志。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者B",
+            "Text": "看来你在正式比赛时的表现也值得期待呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "是的……\n为了不辜负大家的期待，我会全力以赴。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "小栗同学穿上决胜服的样子，充满了威严呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "那默默燃烧的旺盛斗志，\n以及无所畏惧的自信……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "小栗同学的粉丝们一定也是\n被她的那副模样吸引。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "…………",
+            "ChoiceDataList": [
+                "怎么了吗？",
+                "怎么了？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "只是觉得自己跟小栗同学相比，\n真的是还差得远呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "就连穿上决胜服的感觉也一样，\n我觉得自己还无法驾驭这套衣服，啊哈哈……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看来她对自己穿上决胜服的样子\n似乎没什么自信……",
+            "ChoiceDataList": [
+                "我们现在就去训练吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "咦……？比平常还要早呢。\n我是没关系啦。",
+            "ChoiceDataList": [
+                "那就换上决胜服集合吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "我知道了……呃，咦！？\n要换上决胜服吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "那、那个……我换好衣服了……",
+            "ChoiceDataList": [
+                "那就先跑个一圈看看吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "咦咦！？\n穿着决胜服跑吗……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "我才刚说自己还无法驾驭这套衣服……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "目白赖恩难为情地跑了起来。\n然后──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘C",
+            "Text": "简直就像在看比赛一样！\n赖恩前辈，加油──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘D",
+            "Text": "我一直很支持你！\n我相信前辈下次比赛会是第一名──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "呼……呼……",
+            "ChoiceDataList": [
+                "好多人替你加油啊",
+                "好多人都在替你加油"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "是的，我吓了一跳呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "如果是小栗同学，就算有人替她加油也不奇怪，\n但像我这种人……",
+            "ChoiceDataList": [
+                "魅力其实是累积出来的",
+                "所谓的魅力其实是一种累积",
+                "你已经是个令人崇拜的存在了",
+                "你已经是个令人崇拜的存在了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "如果是小栗同学，就算有人替她加油也不奇怪，\n但像我这种人……",
+            "ChoiceDataList": [
+                "所谓的魅力其实是一种累积",
+                "所谓的魅力其实是一种累积",
+                "你已经是个令人崇拜的存在了",
+                "你已经是个令人崇拜的存在了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "魅力是累积出来的……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "原来如此……\n虽然还比不上小栗同学，\n但我也已经参加过许多比赛……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "累积了足以让人愿意替我加油的成果……",
+            "ChoiceDataList": [
+                "决胜服就是每天累积的结晶！",
+                "决胜服就是每天累积的结晶喔！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "耶嘿嘿，就跟肌肉一样呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "因为每天努力……加上许多人的支持，\n我才能变得有魅力！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "我接下来也会继续拼命奔跑！\n让肌肉和决胜服越来越耀眼！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "好！我要再跑一圈！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "明白累积成果才能营造魅力后，\n目白赖恩开始全力奔跑。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "我也是令人崇拜的存在……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘E",
+            "Text": "赖恩前辈！我看了你的训练！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘F",
+            "Text": "不介意的话，可以跟你一起并行练跑吗？\n我想在最近的地方看前辈跑步！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "哇哇！？大家……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘E",
+            "Text": "我一直很崇拜穿上决胜服的前辈！\n请让我也一起并行练跑！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "嗯、嗯！只要你们不嫌弃我……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "耶嘿嘿……训练员，我去和她们练跑喔。\n看来现在不是沮丧的时候！",
+            "ChoiceDataList": [
+                "尽全力去跑吧！",
+                "尽全力去跑吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "好的！\n我会努力让自己配得上这套决胜服的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "为了那些崇拜自己决胜服打扮的后辈，\n目白赖恩开始全力奔跑。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

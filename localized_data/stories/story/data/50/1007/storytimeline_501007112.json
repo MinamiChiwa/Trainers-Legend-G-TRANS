@@ -1,0 +1,334 @@
+{
+    "Title": "温泉旅行",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这是我与黄金船一起夺得无数次比赛胜利后，\n还在享受那段余韵时的事情──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "可恶啊啊啊啊啊啊啊啊────\n──────────！！！！",
+            "ChoiceDataList": [
+                "怎么了！？",
+                "怎么了！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "我学不会……怎么样就是做不到啊──\n没办法分身啊！！",
+            "ChoiceDataList": [
+                "说到分身……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "记得我们在商店街抽到温泉旅游券时，\n她有说过要学习分身术。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "对，就是抽奖的事情！我原本想学会分身，\n就可以享受两人份的悠闲旅行──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "结果还是学不会！\n温泉旅游券的有效期限都要过了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "事情就是这样，在过期之前，\n我们赶快去旅行了！你也一起来！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我跟黄金船的温泉旅行\n就这样非常突然地敲定了。\n然后──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我们搭著前往旅馆的电车，往目的地前进──\n到这里都还算顺利……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "一不注意，我发现原本坐在附近的黄金船\n已经不见人影了。",
+            "ChoiceDataList": [
+                "（她跑去哪里了……！？）",
+                "（她跑去哪里了……！？）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "用手机传了讯息也没有回应，\n于是我在下一个车站下车，打电话给她。\n结果──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "“唷，训练员。我就在等你的电话喔。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "“你从那站出来之后往南走500步，\n往东走700步，我在那边等你喔。掰。”",
+            "ChoiceDataList": [
+                "咦？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她就这样挂了电话，\n我不管打几次都没有再打通了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "到了她指定的地点后，电话突然响了起来──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "“唷。接下来往北700步，往西1200步。\n我在那边等你喔。掰。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "电话又被迅速挂断了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我照着她说的前进，结果──",
+            "ChoiceDataList": [
+                "（真的到了……！？）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "这位旅人，感谢您的大驾光临。\n如此长途跋涉，您一定精疲力尽了吧。",
+            "ChoiceDataList": [
+                "黄金船！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "附近实在有太多魔物，非常危险。\n今晚就请您在这栋旅馆歇息歇息。",
+            "ChoiceDataList": [
+                "……咦？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "来，请快进来，别被魔物吃掉了。\n快快快。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "不知道现在是什么状况──\n不过也不能放着黄金船不管，\n于是我进入了旅馆。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "让您久等了。这是为您准备的餐点～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "进来旅馆后，她还是这副德性──\n看来似乎只能配合她演出了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "这是由附近收采的山菜做成的天妇罗、\n山菜味噌汤、蒸煮山菜……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "生山菜、炙烧山菜、炖煮山菜\n以及现摘山菜。",
+            "ChoiceDataList": [
+                "（全都是山菜……！）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "享用完餐点，还请务必享受舒适的温泉～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……我吃完山菜料理全席后，\n来到了温泉的入口。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "于是我就先去泡温泉了──但是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（啾欸欸欸欸欸欸──！！！！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "突然响起一阵\n从来没有听过的动物叫声……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我还在感到惊讶，紧接着──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（咚！！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "又响起了很激烈的冲击声！\n我实在感到太害怕，慌忙爬出温泉！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "这位客人，真是有惊无险啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "不过还请您放心。\n啾欸欸鸟已经离开这里了。",
+            "ChoiceDataList": [
+                "（什么鸟啊……！？）",
+                "（什么鸟啊……！？）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "待在本旅馆保证安全。\n还请您度过悠闲的时光。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "我也会轻轻松松随意度过的。那么再会～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "泡温泉中……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……我顺利回到了自己的房间，\n但还是不知道现在是什么状况。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "情况实在太莫名其妙，反而让我更疲惫，\n就这样进入了梦乡……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我在这段时光中，\n深刻地感受到了\n与黄金船之间无可取代的情谊……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "接着，在我再次睁开眼睛时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "唷，训练员！\n今天也要打起精神，弄得关节嘎嘎响喔！",
+            "ChoiceDataList": [
+                "回到学园了……！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "啊？你在说什么啊？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "本来就在学园啊。不要说这种奇怪的话啦～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……这是怎么回事？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "难道那些事情──都是一场梦吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "然而几天后，我确认自己的信件时看到了──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "有一封陌生信箱寄来的信，上面写着：\n“感谢您光顾本旅馆”……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

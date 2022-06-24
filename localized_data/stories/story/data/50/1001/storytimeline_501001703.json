@@ -1,0 +1,86 @@
+{
+    "Title": "想和你一起去的地方",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "一起外出后，\n我和特别周一起返回学园。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "今天也非常谢谢你，\n训练员！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "耶嘿嘿，\n总觉得也越来越习惯像这样一起外出了呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "不过我还有很多地方想和训练员一起去喔！\n比方说……",
+            "ChoiceDataList": [
+                "游乐园之类的？",
+                "去登山之类的？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "啊，没错！去游乐园之类的地方！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "想到训练员可能不怕刺激的设施或是鬼屋，\n我就很想跟你一起去。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "顺带一提，我虽然会怕恐怖的东西，\n但那种刺激感又很让人欲罢不能……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "啊，不过在鬼屋的时候，\n绝对不可以从后面推我喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "喔喔……登山啊！\n我倒没有想过呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "感觉可以锻炼到很多地方，\n像是下盘或精神力之类的……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "啊，对了！\n我们去山上边看风景边吃便当怎么样？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "便当请交给我吧！别看我这样，\n我可是很会做章鱼造型香肠的喔，呵呵！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "Title": "挑战夹娃娃机失败……",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "好可惜呢──！\n差点就可以夹到了……！！",
+            "ChoiceDataList": [
+                "没能夹到真抱歉！",
+                "没能夹到真对不起！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "没关系没关系！\n我自己也完全夹不到嘛！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（咕噜……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "──啊，我好像饿了！\n吃个胡萝卜冰再回去吧──？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "留下令人遗憾的结果……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,403 @@
+{
+    "Title": "参加菊花赏！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "“日本打比”结束后隔天──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "昨天才刚比完赛，\n东海帝王却希望立即进行训练。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "嗳嗳，你知道吗？据说能赢得“菊花赏”的\n都是“最强的赛马娘”喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "如果要超越会长，\n就得夺下“最强赛马娘”的称号！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "所以今天也来进行并行练跑吧！",
+            "ChoiceDataList": [
+                "你的疲劳还没恢复吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "放心放心！\n我可是无敌的帝王大人耶！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "而且不管发生什么事，\n“菊花赏”是不会等人的。没时间休息了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "于是，我们决定继续进行并行练跑。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "呼……！呼……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "要继续继续往前冲！\n呀啊啊啊啊～～～～～！！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "呼……呼……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "呼……辛苦了，小帝。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "嗯，辛苦了！谢谢你陪我并行练跑！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "不过，你能跑得这么快……\n已经是经典级最厉害的了吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "嘿嘿嘿，但我的目标可是会长！\n必须跑得更～快才行！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "之后，东海帝王也与好几位赛马娘\n进行并行练跑训练──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "呼……呼……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘B",
+            "Text": "呼……呼……你跑得真棒，帝王。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘B",
+            "Text": "该说是气势汹汹吗……\n我有感觉到你非常拼命喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "是啊，不这么拼命的话，\n根本达不到我的目──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "……咿！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘B",
+            "Text": "帝王！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "啊！！好痛……！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "东海帝王一脸痛苦地\n倒在地上……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "保健室老师",
+            "Text": "这种伤势不是短短一两天的训练\n就能造成的……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "保健室老师",
+            "Text": "应该是很久以前就开始逐渐累积，\n到了今天才爆发出来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "保健室老师",
+            "Text": "帝王同学，你的双脚明明已经不堪负荷，\n你却还是一直在奔驰吧……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "…………嗯。",
+            "ChoiceDataList": [
+                "这是怎么回事……！？",
+                "这是怎么回事……！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "……其实在打比结束之后，\n我的脚就开始痛了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "可是，如果现在暂停训练，\n就无法在“菊花赏”拿下胜利……",
+            "ChoiceDataList": [
+                "竟然忍痛进行训练……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "保健室老师",
+            "Text": "……这么说虽然很残忍，但看你现在的状况，\n恐怕没办法参加“菊花赏”了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "……唔！？怎、怎么会这样！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "…………",
+            "ChoiceDataList": [
+                "暂时停止训练吧",
+                "暂时停止训练吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "我、我不要！！\n怎么可以休息！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "我的脚的确是很痛……\n但这点程度根本没问题！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "我要继续训练！\n我一定要参加“菊花赏”！",
+            "ChoiceDataList": [
+                "医生说恐怕没办法参加“菊花赏”了吧？",
+                "医生说恐怕没办法参加“菊花赏”了吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "唔……就、就算这样，我也要参加！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "我想拿出成果！我要证明自己是\n够资格挑战会长的赛马娘！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "训练员不同意的话，我就自己一个人跑！\n你不用再看着我了！！",
+            "ChoiceDataList": [
+                "帝王！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "呜呜，不管训练员摆出多严厉的表情，\n我都要跑！绝对要跑！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "会长跟我说过了，\n她说很高兴我能站上相同的舞台！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "会长还在等我！\n我才不想在这里止步！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "即使眼眶满是泪水，\n东海帝王依然用“绝不放弃”的\n坚定眼神看着我。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "会长一直都是我的憧憬！\n不管进入学园之前还是现在！甚至是未来！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "所以无论会长多么厉害，\n我都绝对不会放弃！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "即使面对眼前的苦难，\n她对梦想的强烈决心也丝毫没有动摇。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "负责的赛马娘如此坚强，训练员却轻易地\n向眼前的状况屈服真的好吗……",
+            "ChoiceDataList": [
+                "当然……不好啊！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "……训、训练员？\n你怎么突然看起书了？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "无论是“针灸”还是“按摩”，\n任何方法都好──",
+            "ChoiceDataList": [
+                "我要找出让你能全力奔驰的方法！",
+                "我要找出让你能全力奔驰的方法！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "…………！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "那么……我可以跑吗？\n可以挑战“菊花赏”吗！？",
+            "ChoiceDataList": [
+                "支持赛马娘是训练员的责任",
+                "支持赛马娘是训练员的责任"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "嗯……嗯！\n嘿嘿嘿……谢谢你，训练员！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "还有……对不起！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "我不应该隐瞒受伤的事情，\n刚刚还说了这么过分的话……\n说什么要自己一个人跑……",
+            "ChoiceDataList": [
+                "一起加油吧！",
+                "一起加油吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "嗯！我答应你会一起加油！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "嗳嗳，我也来找治疗伤势的方法！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "啊！？快看快看，有“汤疗”耶！\n我想去泡温泉～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我们后来努力调养脚伤，\n总算没有演变成大问题。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "迎向第三场经典赛“菊花赏”，\n我们两人的挑战就此展开！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}
