@@ -368,8 +368,8 @@
 | 100201 | 无声铃鹿   | 翻译中           | 毫毛                                                     |
 | 100301 | 东海帝王   | 完全翻译√        | @RikkaTakanaishi、@uss-enterprise1071（Gitee）、Chihyuen |
 | 100302 | 东海帝王   | 完全翻译√        | @RikkaTakanaishi、@uss-enterprise1071（Gitee）、Chihyuen |
-| 100401 | 丸善斯基   | 翻译中           | Chihyuen                                                |
-| 100402 | 丸善斯基   | 翻译中           | Chihyuen                                                |
+| 100401 | 丸善斯基   | 待发布           | Chihyuen、繁中服官方翻译                                 |
+| 100402 | 丸善斯基   | 待发布           | Chihyuen、繁中服官方翻译                                 |
 | 100501 | 富士奇石   |                  |                                                          |
 | 100502 | 富士奇石   |                  |                                                          |
 | 100601 | 小栗帽     |                  |                                                          |
