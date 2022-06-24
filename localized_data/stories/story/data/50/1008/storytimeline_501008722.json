@@ -1,0 +1,55 @@
+{
+    "Title": "因头痛而忧郁",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "今天的训练就快开始了，\n但伏特加看起来身体不太舒服……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "呜啊……好痛好痛……！",
+            "ChoiceDataList": [
+                "要不要先取消训练……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "不、不可以！我拒绝！\n我不能做出那么逊的事！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "忍受疼痛继续加强自己的实力──\n这样才是帅气的表现！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "快点开始训练吧！\n这点疼痛，我一定可以克服！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "～～～～～～呜！！！我、我的头……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "……虽然伏特加就这样照常开始训练，\n但仍为头痛所苦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

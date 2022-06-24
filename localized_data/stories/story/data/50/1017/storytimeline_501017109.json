@@ -1,0 +1,474 @@
+{
+    "Title": "圣诞节",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "圣诞节当晚，\n我受到鲁道夫象征的邀请，\n来到了学生餐厅──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "（吱吱喳喳……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "小草，你听我说！\n听说那边又摆出了新的蛋糕喔～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "小特，你吃太多咯～\n你不是已经吃了四块蛋糕吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "唔～可是这次是“严选抹茶蛋糕”喔！\n听起来很好吃吧～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "严选抹茶……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "……只能看一下喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "耶──！\n嘿嘿嘿，圣诞节最棒了呗──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "似乎是一大群赛马娘正在庆祝。\n就在这时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "训练员，欢迎你。\n欢迎来参加学生会主办的圣诞派对。",
+            "ChoiceDataList": [
+                "学生会主办的？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "没错。每年圣诞节，\n学生会都会负责举办派对。\n因为活动有助于提升全体士气呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "不过，撇除正经的理由不说，\n圣诞节什么都不做不是很寂寞吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "因此这活动开放所有人自由参加及随意进出。\n往年的出席率大概在50%左右，但是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "今年的出席人数，占全校学生的90%。\n也就是说几乎所有学生都参加了。",
+            "ChoiceDataList": [
+                "90%！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "身为主办方的我们相当感谢大家踊跃参加，\n不过我们没想到会来这么多人。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "学生会的所有成员都正为此东奔西走。\n可谓手忙脚乱呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "特地邀请你却不能陪你，真是不好意思，\n请你自由享受这场派对吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "原本我是想陪同参加的……\n不过看样子有些困难。",
+            "ChoiceDataList": [
+                "我明白了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "抱歉啊。\n不过，我想你一定也能玩得很开心。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "所以──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "会、会长……不好意思！\n不好意思打扰你们说话！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "嗯？\n怎么了吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘B",
+            "Text": "呃，那个，我们……\n能、能不能跟我们合照呢！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "喔喔，要拍照吗？\n没问题啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘们",
+            "Text": "太、太好了──！\n谢谢会长！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "训练员，不好意思打断你们！\n只是我觉得这是唯一的机会了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘B",
+            "Text": "因为会长跟你聊天的时候，\n表情看起来真的很温柔……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "糟糕，原来我连内心的想法都表现出来了。\n这样连威严都丧失殆尽了呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "我得小心别留下纪录。\n好了，那我们就来──",
+            "ChoiceDataList": [
+                "我帮你们拍吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "好啊，抱歉麻烦你了。\n拍得好看点喔。",
+            "ChoiceDataList": [
+                "那么预备……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "我有个请求，会长可以双手环抱在胸前，\n气势十足地踏开双脚站立吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "我是无所谓……可是为什么？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘B",
+            "Text": "因为我想要营造“皇帝”的感觉，\n然后拍下酷酷的会长……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "……原来如此。\n那么──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "这姿势怎么样？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘们",
+            "Text": "喔、喔喔喔喔喔～～！！\n好、好帅……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "还有这种样子喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘们",
+            "Text": "哇～～～～！\n是、是“皇帝”…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "呵呵……啊哈哈。\n这感觉真是愉快至极。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "能看鲁道夫象征各种兴致勃勃的模样，\n让我觉得这个圣诞节真是开心。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "……真是的。\n跟来看果然是对的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "嗯？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "会长，你从早上工作到现在都没休息，\n应该累了吧？\n要不要稍微呼吸些户外的新鲜空气呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "这点你也一样吧。\n你不也是一大早就和我一起待在学园吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "我午后接到会长的“圣旨”，\n已经休息过了。你忘了吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "不，这个……可是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "不行，这次我不会退让。\n我已经先告知学生会成员，会长正在休息了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "现在撤回告知可能会导致混乱。\n那也没关系吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "……你最近变得更不留情了呢。\n知道了，我就先谢过你的好意吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "训练员，\n如果我继续待在会场搞不好会被赶出去。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "可以的话，我想自己走出去……\n你能不能陪我一下呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "──训练员，你看。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "从屋顶往下看就能俯视整座学园。\n虽然大多数的灯都已经熄了，不过……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "你看那道光，是学生餐厅的灯光。\n……你不觉得那光芒在黑夜之中相当动人吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "我们学园的学生们各自散发着不同的光芒。\n大家聚在一起就能变得如此耀眼夺目……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "我得灌注所有心力，\n让这光芒变得更加璀璨。",
+            "ChoiceDataList": [
+                "那么，负责让你变得更加耀眼的人就是我了",
+                "那么，负责让你变得更加耀眼的人就是我了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "……咦？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "你也挺会耍帅的呢。\n呵呵，那就交给你咯。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "──喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "开始播音乐了呢。\n看来是跳舞的时间了。",
+            "ChoiceDataList": [
+                "咦，我什么都没听到耶……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "赛马娘的听力与人类有差异。\n你听不到也是正常的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "……真的什么都听不到。\n不过她都这么说了，应该不会有错。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "嗯……现在回去应该也赶不上了。\n既然如此──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "要不要，\n跟我在这里跳一曲呢？",
+            "ChoiceDataList": [
+                "要跳舞！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "你不放心吗？\n不过，你可别小看我的本事了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "──就由我“皇帝”，\n亲自带领你跳舞吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "怎么样？还是想婉拒吗？",
+            "ChoiceDataList": [
+                "那就麻烦你了……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "谢谢你。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "请把手借给我。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "（啪搭……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "在这里转圈……嗯，\n你有跳舞的天分啊，训练员。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "呵呵……嗯，\n看来我找到了不错的搭档呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "在那之后，我们享受了一场两人舞蹈会，\n直到鲁道夫象征心满意足为止……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

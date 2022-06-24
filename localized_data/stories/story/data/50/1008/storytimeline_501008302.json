@@ -1,0 +1,520 @@
+{
+    "Title": "抽奖试手气！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "某天傍晚。\n当我们采购完毕，走在商店街时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "嗯？你看，训练员。\n前面聚集了一堆人耶。怎么回事？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "看过来看过来，现正举办新春大抽奖～！\n特等奖可是“温泉旅游券”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "温泉旅游券"
+            ]
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "一奖是“特等胡萝卜汉堡排”，\n二奖是“一整堆胡萝卜”，\n三奖则是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "有兴趣的话，那边那位俊俏的赛马娘\n要不要试试手气～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "竟然有……抽奖！？\n不得了，抽奖很不得了啊……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "爸爸也沉迷过抽奖，结果惹得妈妈发飙。\n大骂：“不准沉迷这种赌博玩意！”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "但我一定要玩玩看！\n我感到热血沸腾！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "训练员，玩个一次没关系吧？\n可以吧？可以吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我们手边刚好有一张买东西时得到的抽奖券。\n我轻轻点头──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "谢啦！抽奖很令人兴奋呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "但要对我妈保密喔？\n千万不准告状喔？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "我要抽咯！机会只有一次！\n训练员，既然这样，我们一起抽吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "握住把手。提升档位，一口气转下去。\n目标是抽到特等奖，油门踩到底！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "喝啊啊啊啊啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "用尽全力转动摇奖机，\n转出集结浑身解数的珠子。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "结果──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "天啊！恭喜────！！\n抽到特等奖“温泉旅游券”了～～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "伏特加",
+            "Text": "什～～～～么！！\n竟然抽到特等奖！？太好啦────！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "看到没有，我抽到啦──！\n怎么样！太好啦！看啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "伏特加高兴得像是在比赛中获胜一样。\n看来她真的很开心。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "太棒了，心脏现在还在猛跳……\n这种兴奋的感觉……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "抽奖简直就是浪漫的结晶啊。\n这份感动……兴奋……我不会忘记的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "那……特等奖的奖品是什么来着？",
+            "ChoiceDataList": [
+                "说是温泉旅游券"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "温泉旅游！？\n也就是说我可以跟训练员一起去！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "这真是太棒了！\n所谓的温泉旅馆……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "应该在半山腰之类的对吧。\n骑机车攻顶途中顺道住一晚……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "泡温泉流流汗，吃吃美味的料理……\n呼──心灵一定会大满足。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "不过有一个问题。",
+            "ChoiceDataList": [
+                "什么问题？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "我还没买到机车。\n要是搭著摇摇晃晃的电车去泡温泉，\n不就只是一般的放松旅行了吗！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "嗯──有没有办法可以帅气地享受温泉呢……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "她想到的是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "这样吧，训练员！\n先暂时把这张旅行券保留起来吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "等闪耀系列赛告一段落时，\n我搞不好已经买到机车了啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "虽然训练员你可能会想立刻去旅行……",
+            "ChoiceDataList": [
+                "伏特加，你决定就好",
+                "伏特加，你决定就好喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "真的吗！？谢啦──！\n那这张旅行券就留到以后再用。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "我们一定要骑机车去温泉啊。\n然后再来热血地大聊骑车攻顶的回忆吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "就这样，我们决定之后再使用特等奖旅游券。\n又多了一个令人期待的约定。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "恭喜抽到一奖～！\n奖品是“特等胡萝卜汉堡排”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "伏特加",
+            "Text": "喔～一奖啊！\n这个奖品很不赖嘛！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "“特等胡萝卜汉堡排”。\n看起来大方地用了很多很棒的食材啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "该怎么煮才好呢……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "用红酒炖煮，做成欧式风味好像也不错……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "或搭配和式黄芥末酱，做成微辣的清爽风味。\n不，还是……",
+            "ChoiceDataList": [
+                "……伏特加？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "咦，没有！没有啦！没什么！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "说到汉堡排的吃法，当然只有这一种啦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "挂在树枝上！用营火去烤！\n最后狂野地大咬一口！就是要这样吃！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "回去后在学园中庭烤来吃吧。\n看来可以补充不少精力喔。哇哈哈哈哈！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "……虽然火力可能会有点难控制啦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "她很重视烧烤时的各种细节。\n不管怎么说，得到满不错的奖品，\n真是令人开心。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "二奖～！！\n奖品是“一整堆胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "伏特加",
+            "Text": "喔喔，二奖！还不错嘛！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "大量的胡萝卜啊。\n可以在正餐吃，也可以当训练时的点心。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "不过，该怎么说……好逊啊。",
+            "ChoiceDataList": [
+                "好逊是指……哪方面？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "我是说拿回去的时候啦。\n拿着塞满胡萝卜的大纸袋走在路上……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "简直就像采购完毕的家庭主妇嘛。\n不符合我的形象啦。",
+            "ChoiceDataList": [
+                "试着帅气地拿拿看？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "帅气地拿……原来如此。重点是呈现方式啊。\n那──这种感觉怎么样？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "呼，这些胡萝卜──\n就算双手并用也拿不动呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "啊啊啊啊，说到底胡萝卜还是胡萝卜啊！\n帅不起来啦～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "果然还是有点勉强。\n最后我们决定一人拿一半，\n一起感激地把胡萝卜带回去。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "三奖～！\n奖品是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "伏特加",
+            "Text": "可恶～是胡萝卜！而且只有一根～\n真没意思……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "抽奖前越兴奋，现在就越失落啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "训练员，你要吃胡萝卜吗？",
+            "ChoiceDataList": [
+                "不了，伏特加你吃吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "好吧，我是可以吃掉啦，\n但总觉得没那种心情──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "喔，对了。\n难得抽到胡萝卜，干脆两人一起吃吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "就算只有一根，但我们一起分著吃，\n至少可以分享友情啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "回去吧，训练员。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我们两人一起离开商店街。\n伏特加将胡萝卜抛上半空，\n又从背后反手接住。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "很可惜，没抽中！\n参加奖是“卫生纸”喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "伏特加",
+            "Text": "唔喔喔喔喔，有够背～！\n运气有够背啊啊啊啊！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "我早就有预感了……\n我跟爸爸一样，完全没有抽奖运啊……",
+            "ChoiceDataList": [
+                "好像反而也满舒畅的？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "……也对。比起抽到不上不下的奖，\n不如直接铭谢惠顾。这样比较像我。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "卫生纸我就收下了。\n流鼻血时搞不好可以派上用场。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "伏特加将卫生纸塞进口袋。\n看来今天抽奖运不佳。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "Title": "迎向函馆纪念",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "好，我们来到“函馆纪念”了喔，\n训练员！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "我们无论如何都要摘下胜利之星！\n毕竟说到函馆就会想到星星嘛。",
+            "ChoiceDataList": [
+                "为什么呢……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "函馆不是有那座建筑物吗？\n星形城堡“五棱郭”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "我想拿到不会输给五棱郭的\n璀灿星星，好好欣赏一番。\n感激不尽，感激不尽～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "那边是城池之星，这边是胜利之星。\n我们一起去攻下这两颗星星吧，\n上啊～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

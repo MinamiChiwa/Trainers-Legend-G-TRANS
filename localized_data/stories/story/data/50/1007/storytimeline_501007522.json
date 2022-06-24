@@ -1,0 +1,53 @@
+{
+    "Title": "肤况不太好……",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "训练员……看来我就到此为止了……！",
+            "ChoiceDataList": [
+                "到底发生什么事了？",
+                "到底发生什么事了？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "……算了，都到了这个地步了，\n我不想再给你添麻烦。\n你就忘了吧……！",
+            "ChoiceDataList": [
+                "别这么说，多依赖我一点吧",
+                "别这么说，多依赖我一点吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "……真是的，你也实在是个滥好人啊。\n那我就恭敬不如从命了……其实──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "我额头长痘痘了啦。超痛的耶。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "唉……可以帮我想想办法吗～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "还好不是什么大事，让我感到安心，\n但她似乎因为肤况变差而感到困扰。\n接下来帮她留意一下吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

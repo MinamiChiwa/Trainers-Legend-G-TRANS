@@ -1,0 +1,49 @@
+{
+    "Title": "临阵抖擞",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "啊啊……！\n这可是件不得了的大事喔，训练员！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "比赛前的高昂心情──\n我心中的激情不断膨胀，随时都有可能失控！",
+            "ChoiceDataList": [
+                "那、那怎么办！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "这还用说吗──当然是唱歌了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "啦啦啦～♪这场战役～将由霸王获胜～♪\n亦即我这“世纪末霸王”～♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "令万众臣服的压倒性力量～♪\n其名为好歌剧～♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "后来，彻底宣泄了内心冲动的好歌剧，\n就洋洋自得地上场比赛去了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

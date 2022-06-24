@@ -1,0 +1,226 @@
+{
+    "Title": "愉快！贴身采访！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "某天，当我正通过走廊时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "啊啊，真是太了不起了……\n居然为了赛马娘加倍添购器具……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "秋川理事长",
+            "Text": "感恩！是吧，没错吧！\n──但这样还不够！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "……我朝传来对话声的\n房间里面一看。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "秋川理事长",
+            "Text": "保证！我还要添置十倍，不，一百倍……\n让这间体育馆成为一座无与伦比的设施！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "一百倍……了不起，真是太了不起了！\n不愧是特雷森学园理事长……",
+            "ChoiceDataList": [
+                "哪来这么大的土地！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "秋川理事长",
+            "Text": "何人！说这种像是手纲的发言……\n原来是你啊，<username>训练员。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "秋川理事长",
+            "Text": "失敬！受访中忍不住得意忘形，\n完全忘了土地的问题……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "啊……抱歉，被理事长对赛马娘的爱所刺激，\n我也有点乱了方寸。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "但这份对赛马娘的稀世之爱──\n秋川理事长果然是个很优秀的人。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "做为采访的一环，请让我问个问题。\n在<username>训练员的眼中，\n理事长是个什么样的人呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "秋川理事长",
+            "Text": "期待！你提出的意见\n我也会真挚地听进去！",
+            "ChoiceDataList": [
+                "是值得尊敬的理事长",
+                "好像常常失控……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "秋川理事长",
+            "Text": "脸红！\n受到这么直接的夸奖，让人有点害臊呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "秋川理事长",
+            "Text": "但我也还有很多不成熟的地方，\n还有许多没为赛马娘做到的事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "秋川理事长",
+            "Text": "必定！像尊敬这样的赞美\n就先收在你那边，待“URA决胜系列赛”\n成功之后再交给我吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "──感动！\n多么杰出的人物啊……！",
+            "ChoiceDataList": [
+                "（说话方式被同化了……！）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "即使受到训练员赞赏，\n还是不对目前的自己加以妥协，这种态度──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "您会一直保持下去，直到为全世界的赛马娘\n打造出能发光发热的舞台对吧……\n太棒了，请务必让我写进报导里！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "秋川理事长",
+            "Text": "允许！请你往后也要继续报导\n将展翅飞向全世界的特雷森学园。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "秋川理事长",
+            "Text": "合作！<username>训练员！\n为了让所有赛马娘发光发热，一起竭尽全力吧！",
+            "ChoiceDataList": [
+                "同、同意！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "啊啊，这就是特雷森学园……\n看来能写成很棒的报导……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "……我在不知不觉间，\n被卷入世界规模的大事之中了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "虽说如此，她的热情还是让我大受感动，\n因此我带着焕然一新的心情，\n前去与<chrname>一起训练了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "秋川理事长",
+            "Text": "震撼！手纲的确也常提醒我，\n要我“别一时兴起乱发言”……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "秋川理事长",
+            "Text": "但我恳求！请原谅我这一点！\n这一切都是为了让赛马娘能参加出色的竞赛！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "原来如此，换句话说，理事长的失控\n都是由于对赛马娘的爱所造成的……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "也、也就是说只要是为了赛马娘，\n您会不惜提供所有的支援对吧！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "从赛马娘出生起到毕业为止就不用说了，\n甚至从引退到老年生活都提供完善照顾……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "秋川理事长",
+            "Text": "肯定！我就在此发誓，\n我会支援所有赛马娘的人生……！\n务必务必！要请你写成报导！",
+            "ChoiceDataList": [
+                "手、手纲小姐──！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "秋川理事长",
+            "Text": "抱、抱歉！\n刚才一时兴起说溜了嘴──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "理事长～～～～！\n您又做了什么好事吗～～～～～！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "秋川理事长",
+            "Text": "逃、逃难～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "秋川理事长曾被手纲小姐严正警告，\n要她“别一时兴起乱发言”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "虽说如此，她的热情还是让我大受感动，\n因此我带着焕然一新的心情，\n前去与<chrname>一起训练了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

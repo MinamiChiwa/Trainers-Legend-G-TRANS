@@ -1,0 +1,371 @@
+{
+    "Title": "抽奖试手气！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我跟大树快车出门一趟，\n回程时我们顺道绕去了商店街，结果──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "嗯嗯？那是什么？\n愁……愁……愁桨？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我一看，发现是商店街在举办抽奖大会。",
+            "ChoiceDataList": [
+                "是“抽奖”吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "看过来看过来，现正举办新春大抽奖～！\n特等奖可是“温泉旅游券”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "温泉旅游券"
+            ]
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "一奖是“特等胡萝卜汉堡排”，\n二奖是“一整堆胡萝卜”，\n三奖则是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "那边看起来感情很好的两位！\n有没有兴趣来试试手气～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "哇喔！原来那就是抽奖～！！\n我早就想试试看了！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "我们走，训练员！\n去get很big的宝物吧～！",
+            "ChoiceDataList": [
+                "得先买东西领取抽奖券才行"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "Oh，对耶！\n说到我现在想买的东西……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "Yeah！我好像想到了！\n我要买一大堆milk～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──于是，我们得到了一张抽奖券。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "Chance只有one time……！\n唔唔，还挺困难的呢……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "不过，我们的目标还是特等奖对吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "Fooooooo！！\nCome here、come here，特等奖────！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "抽奖机随着呼喊声气势汹汹地转动着。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "结果──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "天啊！恭喜────！！\n抽到特等奖“温泉旅游券”了～～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "大树快车",
+            "Text": "呀呼──────！！\nI am so happy～～～～！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "成功了～～～～！\n那我们立刻来安排计划吧，训练员！",
+            "ChoiceDataList": [
+                "你、你要和我去吗？",
+                "你、你要和我去吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "那还用说！\n我和训练员是同在一条船上的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "我们什么时候去！？明天！？还是后天！？\n现在立刻去！？OK，走吧！！",
+            "ChoiceDataList": [
+                "等、等等！我们改天再去吧！",
+                "等、等等！我们改天再去吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "呃？改天……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "嗯哼？看来是你精神十足，\n还没有累积想消除的疲劳对吧～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "不累却泡温泉太可惜了，\n这就是日本人soul呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "OK，我了解了！！\n我们选个好日子再去吧！说好咯～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "把它当成克服困难之后的奖励，\n才能让人更加期待──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我是这么想的……总之，\n她的温泉旅游券就变成由我代为保管了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "恭喜抽到一奖～！\n奖品是“特等胡萝卜汉堡排”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "大树快车",
+            "Text": "No──！\n只差one breath～～～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "可是可是，感觉这块巨大的汉堡排\n吃了会让人涌出活力呢～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "呵呵，大份的肉类料理会让我想起family～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "啊，机会难得，\n来告诉family我抽到了奖吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "好啦，训练员你也一起来！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "预备，笑一个！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "之后，特等汉堡排让她大快朵颐了一顿，\n获得了面对明天的活力。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "二奖～！！\n奖品是“一整堆胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "大树快车",
+            "Text": "嗯嗯～～好可惜喔～！\n真遗憾！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "不过，这些胡萝卜看起来很有光泽，\n感觉非常好吃！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "机会难得，我们也找宿舍的\n大家来开一场BBQ派对吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "一定会很好玩的～～！！\nFoo！我们赶快let' go！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "那天晚上的BBQ派对\n便以满满的胡萝卜为中心，\n让大家玩得非常尽兴。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "三奖～！\n奖品是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "大树快车",
+            "Text": "嗯嗯嗯！？三奖！？",
+            "ChoiceDataList": [
+                "这也是难免的"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "呜呜呜呜呜……！\n真是令人太不甘心了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "OK！！\n我再去买一次东西！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "虽然money有点吃紧，但是一奖……\n不，最起码要抽到二奖……！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我设法说服了燃起斗志要抽奖的她，\n半拉半哄地踏上了归途。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "很可惜，没抽中！\n参加奖是“卫生纸”喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "大树快车",
+            "Text": "Oh……好残酷……\n现实真是不sweet呢……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "这就是……抽奖的洗礼……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我和大树快车都变得非常失落……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

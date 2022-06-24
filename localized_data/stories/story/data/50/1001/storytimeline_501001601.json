@@ -1,0 +1,32 @@
+{
+    "Title": "这次一定要获胜！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "训练员！\n请仔细看我今天的表现！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "虽然上次的成果非常差……\n但这次一定要让大家吓一跳！",
+            "ChoiceDataList": [
+                "我很期待喔！",
+                "我很期待唷！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "嗯！\n我会把过去的努力全都展现出来！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

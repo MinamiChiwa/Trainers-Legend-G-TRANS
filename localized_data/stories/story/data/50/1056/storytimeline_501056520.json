@@ -1,0 +1,282 @@
+{
+    "Title": "Pretty Gunman",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "今天是假日。我和待兼福来\n约好要一起去买训练服，\n但是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "训练员。我临时多带了\n一位朋友来，可以吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "Howdy，训练员！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "我也要一起参加最爱的Shopping喔♪",
+            "ChoiceDataList": [
+                "是可以啦，但为什么突然带她来呢？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "关于这个嘛，其实是白兴大人给了谕示，\n说“今天去和同伴培养感情吧”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "Oh……White God很伟大对吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "那我们就服从祂的Judgement吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "虽然不知道她到底听不听得懂，\n但我们还是决定三人一起去了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "唔呵呵，我买到很帅气的训练服了。\n上面竟然画着50个幸运星星。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "Yes！\n这样福来也是USA跑者了呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "嗯……我们现在还有一点空闲时间……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "哎呀，训练员，请看那里！\n你看，是电影院的海报！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "竟然在演西部剧耶！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "Wow！Macaroni Western！\n会BANG BANG～对吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "训练员，let's go吧！\n这样肯定会是最exciting的喔！？",
+            "ChoiceDataList": [
+                "那就大家一起去看吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "这样才对嘛！\nThank you so much♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "咦？不过同样的电影\n好像要在两个影厅上映耶。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "分成普通的……还有加油场？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "啊──加油场！是最近很流行的那个吧。\n一边替角色加油一边观赏的意思。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "好，这里就是命运的岔路了喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "要认真地享受故事，\n还是让自己完全投入西部世界呢？",
+            "ChoiceDataList": [
+                "普通的",
+                "加油场"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "喔喔喔，果然还是应该严肃地\n体会内容吗？原来如此～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "OK！那么福来，我们走吧！\n我们一起吃MAX号的爆米花！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "这出西部剧的内容──是大家同心协力，\n一起让混乱的城市恢复和平的正统派故事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "哎呀～！实在是太刺激火热了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "我的心也开了个大洞呢！\n西部的风正咻咻～地穿梭而过！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "我也是！Oh，好想决斗喔～\n我想在充满泡泡的bath里刮胡子～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "既然如此，\n我们也来想个办法成为枪手……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "啊！那边的shop，\n有卖枪套耶！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "我们去买和电影中一样的款式吧！\n然后挂在腰间，一起去沙地走走！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "哦～听起来不错耶！今天开始我们就是\n特雷森学园的快枪射击双人组了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "不好意思──请给我们两组\n这个枪套──然后……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "那个，请给我看起来很吉利的注连绳。\n咦？那是粗牛绳？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "两人买了一样的商品，\n心情非常好！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "喔喔，要去吗？要选那个吗？\n虽然我有点害怕里面的激动气氛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "没事的，福来！\n一定会非常好玩喔！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是，在电影院内──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "上啊，就是那边──！\n砰砰──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "嘿──那边的胡子boy！\n数到三之后你就会睡着了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "加油场的气氛非常热烈！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "呼，真是过瘾～！\n我的心态也完全变成枪手了呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "嘿，福来。\n这个城市的gunman是谁啊？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "呵呵呵，那就是──我和你啊！\n只要两人同心协力，堡垒的坏人就大难临头了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "她们完全融入角色设定，玩得不亦乐乎。\n在这次的刺激下，两人似乎获得西部的韧性了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,565 @@
+{
+    "Title": "抽奖试手气！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "这是我陪丸善斯基去商店街\n买东西那天发生的事──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "嗯、嗯……这葱真是漂亮呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "阿姨，除了刚才的高丽菜，\n我还要这把葱♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "蔬果店的阿姨",
+            "Text": "哎呀，这位小姐真有眼光啊！\n那我也多送一张券给小姐你吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "你嘴上这么说～\n其实每个客人都会发吧～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "蔬果店的阿姨",
+            "Text": "哈哈哈，才没有这回事呢～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "缩哩缩哩～！\n训练员，让你久等了♪",
+            "ChoiceDataList": [
+                "你买好东西了？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "缩哩缩哩～！\n训练员，让你久等了♪",
+            "ChoiceDataList": [
+                "你买好东西了？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "对啊，完美无缺！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "不过我们再约会一下嘛！\n跟你说喔，刚才阿姨告诉我一件事──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "看过来看过来，现正举办新春大抽奖～！\n特等奖可是“温泉旅游券”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "温泉旅游券"
+            ]
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "一奖是“特等胡萝卜汉堡排”，\n二奖是“一整堆胡萝卜”，\n三奖则是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "来喔来喔，好玩的抽奖活动！\n欢迎大家来抽喔～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "锵锵──！\n要不要一起挑战看看？",
+            "ChoiceDataList": [
+                "是抽奖啊！",
+                "是抽奖啊！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "对！\n刚才我在蔬果店拿到抽奖券了喔！\n不抽白不抽对吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "而且难得今天训练员陪我一起来，\n如果抽到豪华奖品就干脆送你吧！",
+            "ChoiceDataList": [
+                "会抽到豪华奖品吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "而且难得今天训练员陪我一起来，\n如果抽到豪华奖品就干脆送你吧！",
+            "ChoiceDataList": [
+                "会抽到豪华奖品吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "哎呀！没想到你会这么说……\n真好奇你中奖时的反应♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "那么，就让你瞧瞧小丸我的幸运吧～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "会中吗～？还是不会中呢～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "丸善斯基一边哼著歌，\n一边握住握把转动了抽奖机。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "结果──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "天啊！恭喜────！！\n抽到特等奖“温泉旅游券”了～～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "呀啊──！好厉害！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "训练员，你听到了吗！？\n我中了特等奖耶！",
+            "ChoiceDataList": [
+                "好厉害！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "训练员，你听到了吗！？\n我中了特等奖耶！",
+            "ChoiceDataList": [
+                "好厉害！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "对吧对吧──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "所以啦！\n豪华奖品就能顺利地送给训练员了！",
+            "ChoiceDataList": [
+                "真的可以收下吗？",
+                "真的可以收下吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "所以啦！\n豪华奖品就能顺利地送给训练员了！",
+            "ChoiceDataList": [
+                "真的可以收下吗？",
+                "真的可以收下吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "可～以可～以！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "──但那本来就是丸善斯基拿到的抽奖券。\n只因为“陪她购物”就获得奖品，\n我其实也有些过意不去。",
+            "ChoiceDataList": [
+                "我还是不能收下",
+                "我还是不能收下"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "哎呀，你其实不用这么客气的。\n你就是太老实了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "嗯……那我知道了。\n不然就改成“陪我”怎么样？",
+            "ChoiceDataList": [
+                "陪你？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "对！就像今天陪我购物一样！\n你也陪我去温泉旅行！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "对！就像今天陪我购物一样！\n你也陪我去温泉旅行！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "因为我觉得今年会稍～微有点忙……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "就选在明年春天左右吧！怎么样？\n到时我们两人应该都有空才对。",
+            "ChoiceDataList": [
+                "这样的话可以！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "好，就这么说定了！\n那等我准备好就约你去喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "我一定会规划一趟超级开心的旅行，\n你就好好期待吧！知道了吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是我便和丸善斯基约好\n明年要陪她一起去“温泉旅行”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "恭喜抽到一奖～！\n奖品是“特等胡萝卜汉堡排”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "呵呵～♪怎么样啊！",
+            "ChoiceDataList": [
+                "真不愧是丸善斯基！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "耶嘿！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "……呵呵，开玩笑的啦。\n我是不是有点太得意忘形了呢？",
+            "ChoiceDataList": [
+                "都抽到了一奖，得意一下没差吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "竟然允许我这么做，你也太宠我了～♪\n这样我会更得意喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "竟然允许我这么做，你也太宠我了～♪\n这样我会更得意喔？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "……咳咳。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "训练员，\n要不要找一天午餐一起吃汉堡排？",
+            "ChoiceDataList": [
+                "我很乐意！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "训练员，\n要不要找一天午餐一起吃汉堡排？",
+            "ChoiceDataList": [
+                "我很乐意！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "呵呵，你也回得很积极嘛♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "呵呵，你也回得很积极嘛♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是“特等胡萝卜汉堡排”\n便成为我和丸善斯基的特别午餐主菜了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "二奖～！！\n奖品是“一整堆胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "哇喔～！拿到了好多胡萝卜──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "可是量这么多，训练员也会很伤脑筋吧。\n毕竟胡萝卜其实满不耐放。",
+            "ChoiceDataList": [
+                "那也分给大家吧",
+                "那也分给大家吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "可是量这么多，训练员也会很伤脑筋吧。\n毕竟胡萝卜其实满不耐放。",
+            "ChoiceDataList": [
+                "那也分给大家吧",
+                "那也分给大家吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "哎呀，真是个好主意♪\n收到！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "来来来～！肚子饿的人快过来──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "两人",
+            "Text": "来了────！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "呵呵，大家吃了点心后都充满活力呢。",
+            "ChoiceDataList": [
+                "丸善斯基也吃吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "哎呀，谢谢♪\n训练员也来一根吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "哎呀，谢谢♪\n训练员也来一根吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是我和丸善斯基\n分别拿起了一根削成条状的胡萝卜。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "──稍微带点盐味，\n身体疲倦时吃起来特别好吃。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "三奖～！\n奖品是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "哎呀呀──！",
+            "ChoiceDataList": [
+                "就当作是小小的幸运吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "呵呵，也对。\n有中奖就算赚到了吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "不过只送你一根胡萝卜也有点尴尬呢。\n嗯……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "对了！\n和刚才买的长葱一起做成炒胡萝卜给你吃吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "这是我妈妈亲自传授的食谱，\n好吃到不行喔！敬请期待吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "几天后，我津津有味地\n享用了她分给我的炒胡萝卜。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "很可惜，没抽中！\n参加奖是“卫生纸”喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "歪腰──！丸善我超级沮丧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "唔唔……训练员，对不起。\n今天的我好像很衰……",
+            "ChoiceDataList": [
+                "还好啦"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "唔唔……训练员，对不起。\n今天的我好像很衰……",
+            "ChoiceDataList": [
+                "还好啦"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "……唉──\n真想中个像样的奖品送给你呢～好沮丧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我和垂头丧气的丸善斯基\n一起离开了商店街。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

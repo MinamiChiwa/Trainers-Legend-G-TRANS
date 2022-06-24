@@ -1,0 +1,55 @@
+{
+    "Title": "名指导",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "训练的休息时间，\n小栗帽在和后辈赛马娘说话。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "小栗前辈，谢谢你。\n那我先走了！",
+            "ChoiceDataList": [
+                "刚才那是？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "她来问我跑法的事情。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "我不太擅长向别人表达，不过最近……\n嗯，说得比以前稍微好了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "可能是这个缘故，像刚才那样\n来问我意见的人也变多了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "这都要归功于训练员总是认真听我说话。\n……谢谢你。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "看见小栗帽有点害羞的笑容，\n我再次感受到能够当她的训练员\n真是太好了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

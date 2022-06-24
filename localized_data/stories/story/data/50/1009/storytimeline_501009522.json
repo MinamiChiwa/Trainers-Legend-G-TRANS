@@ -1,0 +1,49 @@
+{
+    "Title": "肤况不太好……",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "某个假日的早晨，我在药局前遇见大和赤骥。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "呃，训练员！？站住！不要再靠近我了！",
+            "ChoiceDataList": [
+                "为、为什么？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "还问为什么……那个……\n我、我额头上长了一颗……痘痘。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "就是不想遇到认识的人，\n才刻意一大早跑来这里的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "总、总之就是这样！\n再见！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "大和赤骥似乎为皮肤问题感到烦恼的样子……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

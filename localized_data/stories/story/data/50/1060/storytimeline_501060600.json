@@ -1,0 +1,44 @@
+{
+    "Title": "临阵抖擞",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "……该怎么说呢……\n今天啊，虽然还说不定啦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "或许可以\n拿到不赖的成绩喔……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "……我乱说的啦～\n我干嘛乱给自己立旗啊！",
+            "ChoiceDataList": [
+                "我很期待喔！",
+                "我很期待喔！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "等一下，不准再立更多旗！\n真是的，只是一种预感而已啦……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "好吧，要期待的话就多少期待一下吧。\n我就轻松～地去跑跑看咯──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

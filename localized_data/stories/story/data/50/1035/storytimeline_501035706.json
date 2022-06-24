@@ -1,0 +1,369 @@
+{
+    "Title": "很会哭的大姐姐",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "和胜利奖券出门后，在回去的路上──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "唔哇啊啊～～！？\n训练员，发生大危机了！",
+            "ChoiceDataList": [
+                "什么危机？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "这附近充满了令人食指大动的熟食香味！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "一旦在这接近晚餐时间的时刻，\n闻到这样的味道……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（咕噜噜～～）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "看吧～！我的肚子饿到不行了～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "欸欸，要不要去吃可乐饼！？\n我有一间很推的店～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女孩",
+            "Text": "呜呜……妈妈……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "啊！？训练员，等一下！\n有个小孩在哭……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "怎么了？跟妈妈走散了吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女孩",
+            "Text": "嗯……妈妈到哪里去了……\n呜呜，呜呜……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "你很害怕，很孤单吧……\n呜喔喔喔～～！真可怜～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "训练员～在她找到妈妈前，\n我们就陪在她身边吧～！！",
+            "ChoiceDataList": [
+                "当然没问题"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "呜呜呜～～！！谢谢你～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "呜～～！！大姐姐会陪你的，\n放心吧～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女孩",
+            "Text": "呜……我知道了，你先擤鼻涕吧……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "啊，你看！\n那个人是不是你妈妈！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女孩",
+            "Text": "不……不是。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "这样啊～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "呜……！就算不是妈妈……也没有哭……\n真是太坚强了～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女孩",
+            "Text": "大姐姐别哭了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "呜呜呜～！！嗯，我知道了！\n大姐姐我也不会哭，会加油的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（咕噜噜～～）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女孩",
+            "Text": "啊哈哈！你的肚子在哭喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "嘿、嘿嘿嘿……！\n肚子也得忍着别哭才行呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "……不过，怎么都找不到妈妈啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "训练员，你有什么好方法吗？",
+            "ChoiceDataList": [
+                "不要乱跑，继续等待",
+                "希望找到能环顾四周的地方"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "嗯，我知道了！\n就把自己当成是电线杆，待着别动吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "就跟大姐姐一起等著，直到妈妈过来吧！\n待着不动！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女孩",
+            "Text": "嗯！有大姐姐在身边，\n我会乖乖等的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "呜……呜呜～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "喔～～喔喔喔喔！！\n多么可爱的孩子啊～～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女孩的母亲",
+            "Text": "啊！？由纪！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女孩",
+            "Text": "啊！妈妈！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "妈妈！？呜喔喔喔～～太好了！\n太好了～～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女孩的母亲",
+            "Text": "因为听到了哭声，我就想说该不会是……\n真的很谢谢你！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女孩",
+            "Text": "大姐姐，谢谢你！\n别再一直哭咯！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "这么感动的一幕……\n我怎么可能不哭～～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（咕噜噜～～）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女孩",
+            "Text": "大姐姐，你的脸跟肚子都太会哭咯～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "虽然脸跟肚子都哭得很惨，\n胜利奖券还是细心照料了迷路的小孩。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "能环顾四周的地方……？\n你的意思是高处之类的？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "但这附近没有地方可以爬上去，\n要是爬上电线杆应该会被骂吧……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "啊，对了！\n我把这孩子扛在肩上吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "欸，大姐姐把你扛在肩上，\n你就从高处找找妈妈吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女孩",
+            "Text": "嗯，我知道了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女孩",
+            "Text": "哇～！好高好高～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "怎么样？找得到妈妈吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "……咦，好痛！\n别抓我的耳朵～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女孩的母亲",
+            "Text": "真的很谢谢你。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "不用客气！\n能找到妈妈真是太好了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女孩",
+            "Text": "嗯，大姐姐谢谢你～！\n再见～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "嗯，再见～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "……呼，太好了太好了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（咕噜噜～～）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "啊，对了，\n我们刚才正要去买可乐饼呢。",
+            "ChoiceDataList": [
+                "你那么努力，我请你",
+                "你那么努力，我请你"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "太棒了～！\n那我们赶紧去熟食店吧～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "胜利奖券忘记肚子饿的事，\n细心照顾了迷路的小孩。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

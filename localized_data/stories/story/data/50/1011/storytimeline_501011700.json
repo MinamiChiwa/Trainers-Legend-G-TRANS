@@ -1,0 +1,58 @@
+{
+    "Title": "睡眠不足……",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "假日的隔天。\n当我来到训练员室时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "呼……呼……",
+            "ChoiceDataList": [
+                "你在睡觉吗？",
+                "你睡着了吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "──啊！抱、抱歉。\n我本来只是想在沙发上休息一下……",
+            "ChoiceDataList": [
+                "昨天有睡饱吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "呃……昨晚欣赏苔藓盆景时看得太入迷，\n回过神来时间已经很晚了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "苔藓盆景是一种\n将苔藓栽种在玻璃容器里的园艺，\n看着苔藓一天天长大很有趣喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "话虽如此，我以后会小心\n睡眠不足的问题……呼啊……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "草上飞昨晚似乎熬夜了，\n看样子没能好好休息。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

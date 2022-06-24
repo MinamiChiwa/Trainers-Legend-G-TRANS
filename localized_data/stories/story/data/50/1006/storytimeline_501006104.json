@@ -1,0 +1,389 @@
+{
+    "Title": "夏季集训（第2年）",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "结束了和小栗帽\n一整天的训练后，\n我在集训宿舍走着──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "啊，找到了找到了！\n小栗的训练员，我有事要找你！",
+            "ChoiceDataList": [
+                "玉藻十字？怎么了吗？",
+                "玉藻十字？怎么了？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "小栗还在外面跑步，\n是你指示的吗？",
+            "ChoiceDataList": [
+                "咦！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "小栗帽已经做完今天的训练了。\n我明明有先交代她要好好休息，\n然后才离开的……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "看你这反应，应该不是吧。\n真受不了，小栗那家伙……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "自从和溪流跑过之后，\n就一直不太对劲。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "溪流"
+            ]
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "你最好还是去看一下比较好吧？\n她在沙滩那边！",
+            "ChoiceDataList": [
+                "谢谢你！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "……真是的，不管是溪流还是小栗，\n都那么青春。",
+            "ChoiceDataList": [
+                "……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "啊～没事没事！\n你快点到小栗那边去吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我向玉藻十字道谢后，\n赶紧跑去了沙滩……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "呼啊……呼啊……\n……再一趟……！",
+            "ChoiceDataList": [
+                "小栗帽！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "……！\n训练员……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "小栗帽像是在思考该如何表达，\n她缓缓地开口说出\n自己为什么擅自继续训练──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "……我之前不是和溪流在沙滩赛跑吗？\n那个时候……我还算有点自信。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "最近状况不错，以我的心脏跑2000米\n也不成问题……我当初是这么想的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "我没有输给溪流的理由。\n不过，实际比了之后……",
+            "ChoiceDataList": [
+                "是平手……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "……结果虽然是平手，但其实并不是。\n我……输给她了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "要是还有500米……\n她一定会追过我。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "──“有马纪念”总长是2500米。\n如果那是正式比赛的话……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "我必须增强体力，不然赢不过溪流。\n我这么想着，不知不觉就走来这里了……",
+            "ChoiceDataList": [
+                "原来是这样啊",
+                "原来是这样呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "……对不起。\n我应该先找你讨论的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "但不知道为什么，我就是坐立不安。\n我得多跑才行，我的脑中只有这个想法。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "我不想输给溪流……\n就只是这样而已。",
+            "ChoiceDataList": [
+                "毕竟是你的劲敌",
+                "毕竟是你的劲敌"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "劲敌……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "……是啊。\n我不想……输给劲敌！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在这次集训，\n小栗帽能和超级溪流较量到真是太好了。\n这让她燃起了斗志。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "不只如此。\n从这次的结果中，还能看出\n小栗帽一直以来的努力有确实发挥成效。",
+            "ChoiceDataList": [
+                "你已经变强很多了",
+                "你已经变强很多了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "咦……",
+            "ChoiceDataList": [
+                "被追上之后你并没有让她超越"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "双方在体力上确实有落差。\n但在被追上之后，\n小栗帽仍拼命地紧咬不放。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "那是因为……\n……我听见了声音。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "小玉、稻荷……还有你的声音。\n让我觉得必须要赢……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "小玉",
+                "稻荷"
+            ]
+        },
+        {
+            "Name": "独白",
+            "Text": "收到越多的加油打气，就能变得越强。\n这也是小栗帽的强大之处。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "而且，现在她已经跑出了许多好成绩……\n在“有马纪念”中为她呼喊的加油声，\n想必会是至今所无法比拟的！",
+            "ChoiceDataList": [
+                "小栗帽一定能赢的！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "……\n是吗……你愿意相信我啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "谢谢你。\n你的话果然能让我静下心来……",
+            "ChoiceDataList": [
+                "不要焦急，稳稳向前迈进吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "没错……\n我不会再乱来了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "所以训练员，请告诉我。\n我现在该做什么？",
+            "ChoiceDataList": [
+                "再加强力量吧！",
+                "别输在心理！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "力量吗……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "只要有了一定的力量，\n就算体力用光了，\n也能坚持下去。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "我明白了。\n我会努力做重量训练的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "心理吗……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "只要拥有奋战到底的意志力，\n一定能对比赛有所帮助。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "我明白了。\n我会带着坚强的意志力。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "啊，找到了找到了！\n真是的，你们到底在做什么！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "小玉……怎么了？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "还问怎么了，\n还不是你们一直都不回来！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "我想说那边那位训练员很快就会带你回来，\n还傻傻地在玄关等，你们是在搞什么啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "这样啊，是小玉叫训练员……\n谢谢你。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "我只是碰见他才顺口提了一下而已！\n……问题解决了吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "嗯，没事了。\n我会……加油的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "那就好。\n你还真会给人添麻烦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "……但是却跑这么快。\n各方面来说都很令人佩服。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "嗯？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "没事，没什么！\n我说，你要吃饭吧？快回去吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "……！\n饭……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "等等，怎么丢下我跑掉了！？\n喂，慢著～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──就这样，\n小栗帽在集训期间有了很大的成长。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

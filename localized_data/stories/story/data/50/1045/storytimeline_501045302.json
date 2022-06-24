@@ -1,0 +1,529 @@
+{
+    "Title": "抽奖试手气！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "陪超级溪流在商店街买完东西后\n在回程路上──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "把东西全都买齐后，\n时间就已经这么晚了呢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "……哎呀？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "看过来看过来，现正举办新春大抽奖～！\n特等奖可是“温泉旅游券”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "温泉旅游券"
+            ]
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "一奖是“特等胡萝卜汉堡排”，\n二奖是“一整堆胡萝卜”，\n三奖则是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "那边看起来感情很好的两位！\n有没有兴趣来试试手气啊～！",
+            "ChoiceDataList": [
+                "好像很有趣",
+                "好像很有趣"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "我有抽奖券，就来抽抽看吧～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "……那么，请加油喔，训练员♪",
+            "ChoiceDataList": [
+                "咦，我吗？",
+                "咦，我吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "我用看的就很开心了……\n加油♪加油♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我在超级溪流温暖的声援下，\n开始转动抽奖机。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "结果──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "天啊！恭喜────！！\n抽到特等奖“温泉旅游券”了～～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "天啊天啊天啊……！\n竟然抽到特等奖，实在太厉害了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "因为训练员平时就是个好孩子，\n所以才会得到这个奖励呢～♪",
+            "ChoiceDataList": [
+                "是你给了我抽奖券，所以是属于溪流的",
+                "是你给了我抽奖券，所以是属于溪流的"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "不，是训练员抽中的，\n所以是属于训练员的喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "请去泡个温泉好好消除疲劳吧♪",
+            "ChoiceDataList": [
+                "我也希望溪流能够好好休息",
+                "我也希望溪流能够好好休息"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "……你还是一样温柔呢，训练员。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "那么，我们一起去怎么样？",
+            "ChoiceDataList": [
+                "你能接受吗？",
+                "你能接受吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "当然，这样的旅行也才比较好玩♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "不过，现在还不是时候呢……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "现在对训练员来说是很重要的时期……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "啊，对了！\n等我们在闪耀系列赛完成梦想后如何？",
+            "ChoiceDataList": [
+                "好啊，那会是慰劳旅行呢",
+                "好啊，那会是慰劳旅行呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "呵呵。\n我会期待的♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "在与超级溪流约好后，\n温泉旅游券就先由我保管。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "恭喜抽到一奖～！\n奖品是“特等胡萝卜汉堡排”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "哎呀♪\n恭喜你！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "上面说“使用高级的肉与胡萝卜，\n那入口即化的风味就是温柔的滋味”。",
+            "ChoiceDataList": [
+                "好像很好吃",
+                "好像很好吃呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "呵呵。\n训练员真是的，一脸贪吃鬼的模样……♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "不过看到你这么开心，\n胡萝卜汉堡排也会很高兴吧。",
+            "ChoiceDataList": [
+                "嗯？不是溪流要吃的吗？",
+                "咦？不是溪流要吃的吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "中一奖的是训练员，\n奖品当然也是训练员的了～",
+            "ChoiceDataList": [
+                "那溪流也一起吃吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我告诉她是因为超级溪流给了抽奖券，\n才能抽中一奖后──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "可以吗？\n那我就接受你的好意……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "那么，也借到了厨房，开始做菜吧♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "不只是汉堡排，我会连沙拉跟汤\n都做成训练员喜欢的口味喔～",
+            "ChoiceDataList": [
+                "我很期待！",
+                "我很期待！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "好的～\n我们一起细细品尝温柔的滋味吧♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "就这样，\n我和超级溪流一起享受了一顿极致美味。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "二奖～！！\n奖品是“一整堆胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "哎呀，竟然有这么多胡萝卜……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "太好了呢，训练员♪",
+            "ChoiceDataList": [
+                "这应该是属于溪流的吧？",
+                "这应该是属于溪流的吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "不不不，抽中的人是训练员，\n所以奖品也是属于训练员的喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "虽说如此，但能中二奖\n都要感谢她给了我抽奖券。",
+            "ChoiceDataList": [
+                "那是你的抽奖券，你就收下吧！",
+                "那是你的抽奖券，你就收下吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "嗯──被这么一说，我也无法拒绝呢～\n……那我就接受你的好意。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "呵呵。\n训练员，我决定了♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "之后我就每天都用这些胡萝卜\n煮菜请训练员吃吧～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "做一些让不管喜不喜欢胡萝卜的人\n都能吃得津津有味的料理……♪",
+            "ChoiceDataList": [
+                "咦！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "啊，不用担心。\n我的拿手好菜可是非常多的喔～",
+            "ChoiceDataList": [
+                "……希望溪流也能一起吃",
+                "……希望溪流也能一起吃"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我告诉她这个量看起来实在吃不完，\n而且一个人吃也没什么滋味。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "哎呀哎呀，我也真是的……！\n那么吃饭的时候，我也跟你一起吃吧～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "呵呵，明天开始充满了期待呢～♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "在与超级溪流约好后，我们就此踏上归途。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "三奖～！\n奖品是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "哎呀，好可爱的胡萝卜～\n颜色也很鲜艳，应该很鲜嫩吧♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "听到她这么说，我看了一下奖品，\n确实从外观上来看品质还不错。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "标签上也写着\n“长于北方大地的有机栽培胡萝卜”。",
+            "ChoiceDataList": [
+                "那这奖品就给溪流吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "咦，可以吗？",
+            "ChoiceDataList": [
+                "毕竟那张抽奖券是你给我的",
+                "毕竟那张抽奖券是你给我的"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "那我就接受你的好意……\n谢谢♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "对了，既然这样，\n就把这根胡萝卜种到田里吧……♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "要是采收到了一大堆，\n就能让学园里的大家都吃得到了～",
+            "ChoiceDataList": [
+                "这是个好主意！",
+                "这是个好主意！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "呵呵。\n明天就赶快来种吧～♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "之后，种下的胡萝卜顺利发芽，\n看着那个嫩芽……\n就不可思议地有种得到活力的感觉！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "很可惜，没抽中！\n参加奖是“卫生纸”喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "哎呀呀……",
+            "ChoiceDataList": [
+                "抱歉辜负了你的期待"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "不不不，只要训练员开心，\n我就心满意足了……♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "她的温柔，反而让我更不甘心。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "至少要把奖品送给超级溪流──\n于是我去奖品兑换所拿了卫生纸后，\n递给了她。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "我可以收下吗？",
+            "ChoiceDataList": [
+                "毕竟那张抽奖券是你给我的",
+                "毕竟那张抽奖券是你给我的"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "谢谢，那我收下了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "那个，训练员……\n请不要太介意喔？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "因为要是训练员露出悲伤的表情，\n我也会跟着感到悲伤～",
+            "ChoiceDataList": [
+                "好……",
+                "嗯……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我与超级溪流就这样共同分担着\n这股遗憾的心情好一阵子。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "Title": "时常熬夜……",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我在跟气槽进行训练，\n而她始终一副昏沉沉的样子……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "……抱歉。\n刚刚的部分请你再说明一遍。",
+            "ChoiceDataList": [
+                "你没事吧？感觉状况不太好",
+                "你没事吧？感觉状况不太好啊"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "……最近我没什么睡，\n因为学生会那边累积了不少工作。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "我睡前稍微处理一下，\n结果不知不觉间天就亮了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "不管怎么说，那些都是我非做不可的事。\n所以你别在意。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "气槽虽然坚强地这么说，\n但她看起来状况依然不太好。\n我还是多留意她的状况吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

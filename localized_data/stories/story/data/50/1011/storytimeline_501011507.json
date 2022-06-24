@@ -1,0 +1,105 @@
+{
+    "Title": "粉丝信",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我将收到的粉丝信\n亲手交给了草上飞。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "哎呀，这位粉丝……\n又写信给我了呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "信里跟平常一样，以敬启开头，以敬上结尾。\n呵呵……",
+            "ChoiceDataList": [
+                "你很在意这封粉丝信吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "是的，以粉丝信来说有点过于正式，\n不过令我相当感动。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "这位粉丝的字\n一天比一天整齐好看……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "而且还不因此满足，\n最近甚至开始在信中穿插季语或是俳句。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "这位粉丝很清楚我的兴趣与嗜好，\n才一笔一笔地写下这些字句吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "这份心意让我的内心深处变得暖暖的……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我似乎也能感觉到\n这位粉丝希望\n草上飞开心的心情。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "不只这位粉丝，也有其他粉丝向我介绍\n日本文化或是各地的风俗民情……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "从全国各地寄来了很多信，\n我每次收到这种信都觉得──",
+            "ChoiceDataList": [
+                "会更有干劲吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "嗯嗯，没错～\n我会更加觉得不能输给其他人～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "草上飞的眼里燃起了\n平稳的斗志之火。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "即使要赴汤蹈火，我也会努力前进，\n往后还要请多指教了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "粉丝的鼓励\n似乎让草上飞更有干劲了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

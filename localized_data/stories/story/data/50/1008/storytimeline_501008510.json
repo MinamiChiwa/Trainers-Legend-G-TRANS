@@ -1,0 +1,438 @@
+{
+    "Title": "偶尔像小时候一样",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "某天，我跟伏特加经过公园附近时，\n听到大和赤骥的声音。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "等、等一下！要我说几次才懂，\n不能抓尾巴……真是的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "嗯……？赤骥那家伙在慌张什么啊？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小孩子们",
+            "Text": "哇！哇！毛毛的尾巴──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "我不是说不可以抓尾巴吗──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "呼……呼……真是的……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "嗨，赤骥！你陪臭小鬼们玩得很开心嘛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "什么！？等一下，伏特加，你在讽刺我吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "要是觉得看起来很开心，\n那我随时都可以跟你交换……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "嗯──我就不用了。\n看你们玩得那么开心，我不好意思打扰。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "训练员，我们走吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "等、等一下！你打算丢下我一个人！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "我也是可以帮你啦，但算你欠我一次喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "呜、呜呜……为什么我非得欠你人情不可啊！",
+            "ChoiceDataList": [
+                "还是帮她一把吧？",
+                "还是帮帮她吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "咦～？真是的……训练员你人太好了啦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "知道啦知道啦，我去帮她总可以了吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "小鬼们，听好！\n不要让那位大姐姐太困扰啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "既然这么想玩，就换我陪你们玩。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "男孩A",
+            "Text": "真的吗？太好了──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "终、终于得救了……我快累死了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "真是的，这点程度就不行了，\n你训练时该不会都在偷懒吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "什么？我怎么可能偷懒！！\n只是这些孩子们太有精神了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "小孩子就是这样。\n要用尽全力才有办法对付他们，\n要是持久力不够可是会──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "嗯？全力……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "对喔，训练员！\n这应该会是不错的训练喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "喂，训练员。\n有没有什么适合当作训练的游戏？",
+            "ChoiceDataList": [
+                "当然是鬼抓人！",
+                "当然就是鬼抓人了！",
+                "爬攀登架怎么样？",
+                "爬攀登架怎么样呢？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "喂，训练员。\n有没有什么适合当作训练的游戏？",
+            "ChoiceDataList": [
+                "当然是鬼抓人！",
+                "当然就是鬼抓人了！",
+                "爬攀登架怎么样？",
+                "爬攀登架怎么样呢？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "鬼抓人啊！\n不错耶！毕竟跑步是训练的基础！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "嘿嘿嘿，小鬼们有办法追上我的速度吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "我看看……那赤骥就先当鬼吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "等一下啦！为什么连我都要加入！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "因为只有赤骥抓得到我吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "是没错啦……不对！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "既然这样，你当鬼不就好了吗～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "好了，大家，\n赤骥当鬼，快逃啊──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小孩子们",
+            "Text": "哇──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "啊，可恶！给我等一下！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "就这样，大家以公园为舞台玩起了鬼抓人。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "呼……呼── ！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "这样不断跑来跑去……\n实在是……喘不过气啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "呼……呼……\n为什么我……得陪你们玩……鬼抓人……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "哈哈，你嘴上这么说，\n但还不是认真地追着大家跑？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "唔……那、那是因为……！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "哈哈！好啦好啦──不用嘴硬！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "不过，你不觉得偶尔这样也不错吗？\n像回到小时候一样尽情跑来跑去。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "伏特加如此问到。\n她的表情看起来前所未有地满足。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "攀登架？喔，不赖嘛！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "那我要第一个爬到最高──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "男孩A",
+            "Text": "哇──大姐姐好奸诈──！等等我啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "嘿嘿，要是不甘愿，就试着比我更快登顶吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "唉……你别跟小孩一般见识，\n这么认真地对付他们啦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "你说什么！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "我只是实话实说而已啊。\n你不管做什么都这么小孩子气！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "我问你，如果比赛上你的对手没拿出实力，\n你会怎么样？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "要是对手一脸“对付你，我不用认真跑\n也能轻松获胜”的表情。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "那等于是在侮辱我。\n我不会轻易放过对方的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "对吧？那些小鬼们也是一样啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "别看他们只是小孩子，\n要是被对手敷衍，他们一定也会不开心的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "唔……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "对手明明用上全力，我还放水就实在太逊了，\n我可办不到。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "──就是这样，我要上了！\n我一定要第一个爬上顶端！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "嘿嘿……这下子明天一定会肌肉酸痛。\n手臂跟脚都好累啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "……嗯？怎么了，赤骥？\n你又想嘲笑我孩子气了吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "……真不敢相信。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "你说什么！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "你最好把这股全力留到跟我比赛时再用──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "就算我这样说，你应该也听不进去吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "嘿嘿，那还用说吗──\n到时我当然也会使出全力打败你的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我想，往后伏特加无论面对什么对手，\n她一定都会用全力去挑战的吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

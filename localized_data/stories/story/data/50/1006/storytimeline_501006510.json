@@ -1,0 +1,319 @@
+{
+    "Title": "迷路的赛马娘",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我在假日去购物中心买东西时，\n看见小栗帽和玉藻十字走在路上。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "啊，训练员。",
+            "ChoiceDataList": [
+                "你们一起来逛街吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "呵呵呵～是啊。\n不过，可不是单纯来买东西而已。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "我们要买的是会让我们感到很怀念的东西。\n来，小栗你告诉他！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "（咕噜噜～～）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "……喂──！\n这样子别人只会知道你肚子饿了吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "唉……\n受不了，真拿你没办法。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "就是啊，好像有在办关西物产展的样子，\n所以我们正要一起过去。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "……就是这么一回事。\n对不起，大阪烧还在等我们。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "慢著慢著，别擅自结束话题啦！\n你当我是你的解说员吗！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "啊，等等……不要自己先走掉啦！\n你这样又会迷路的吧，小栗～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "她们就这样匆忙地走掉了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "和小栗帽她们道别后\n过了不久……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "嗯……物产展还真远。\n我觉得应该已经走很久了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "啊，训练员。又见面了。\n可以在这么大间的购物中心遇到好巧。",
+            "ChoiceDataList": [
+                "你跟玉藻十字走散了吗？",
+                "你跟玉藻十字走散了？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "小玉？小玉她……奇怪，小玉……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "难不成……\n──小玉迷路了吗……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "她现在说不定很孤单……\n得快点去找她……！",
+            "ChoiceDataList": [
+                "所有地方都去找一遍吧",
+                "去物产展看看吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "嗯……这样一定能找到她。\n我们快找吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "不好意思，你有看见一位\n讲著关西腔的赛马娘吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "店员A",
+            "Text": "嗯……没看见耶。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "……她是跑得跟我一样快的\n赛马娘……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "店员A",
+            "Text": "哎呀……跑得快不快，\n我是看不出来啦……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "这样啊，看到的话请告诉我。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "嗯……找不到人。\n小玉到底跑去哪了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "（咕噜噜噜噜噜～～～）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "唔……可能是到处找的关系，我的肚子……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "刚才的声音难道是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "……果然在这里！\n我就叫你不要自己一个人先走了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "小玉，找到你真是太好了……！\n你没事啊……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "……不过，亏你能找到我。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "这可要感谢小栗肚子叫得超大声。\n有那个声音，就算看不到人也能立刻认出来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "原来如此，肚子饿果然有好事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "不，就算你摆出自己做了一件好事的脸\n我也不懂啦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "好。找到小玉，肚子也饿了，\n赶快去吃大阪烧吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "训练员要不要也一起来？\n大家一起吃一定会很开心。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "你还是一样我行我素耶……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "不过，我走来走去肚子也饿了，\n我赞成你的提议！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "之后，我们三个\n一起去吃了大阪烧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "说得也是。她可能先过去了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "不过，我从刚才就打算去物产展，\n却一直走不到……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我认为让刚才迷路的小栗帽\n自己去很危险，\n所以决定带她去物产展。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "呼……太好了。\n你看，是小玉。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "啊，找到你了！\n……咦，怪了，你怎么也在……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我向她说明，因为小栗帽在馆内\n绕来绕去，所以我才带她来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "唉……没盯好你是我的错。\n想不到一下子就会迷路……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "别自责了。\n每个人都会迷路的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "……不过，你没事就好。\n已经不用担心了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "──迷路的人是你吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "这句道地的精准吐槽\n响彻了关西物产展的会场……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

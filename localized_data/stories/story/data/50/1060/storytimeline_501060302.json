@@ -1,0 +1,639 @@
+{
+    "Title": "抽奖试手气！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "某天傍晚，我们经过商店街的时候──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "唉呀……出现了呢。\n训练员，等一下喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "看过来看过来，现正举办新春大抽奖～！\n特等奖可是“温泉旅游券”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "温泉旅游券"
+            ]
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "一奖是“特等胡萝卜汉堡排”，\n二奖是“一整堆胡萝卜”，\n三奖则是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "唉呀，小质你来啦！\n今年……也要挑战吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "小质"
+            ]
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "这还用说！等我夺走特等奖，\n就算你哭哭啼啼我也不会安慰你喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "嘿嘿，看来这次你特别有干劲呢。\n我也不会放水的，彼此认真地决胜负吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "没问题……不对啦，大叔你努力做些什么，\n不就变成作弊了？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "总之今年的素质小姐不同以往咯！\n我甚至还去百次参拜了呢，绝对会赢！",
+            "ChoiceDataList": [
+                "真、真有干劲……"
+            ],
+            "ColorTextInfoList": [
+                "素质"
+            ]
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "当然要提起干劲咯。\n今年、今年我一定要……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "──要让他们把“三奖收集者”\n这个不名誉的称号收回去！",
+            "ChoiceDataList": [
+                "三奖收集者？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "小质跟我们感情很好，\n每年都会跑来玩抽奖。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "但不管挑战几次都抽到三奖，实在太夸张了，\n一时之间还成为镇上的话题呢。\n虽然现在我们已经没有这样叫她了啦……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "三、三、三……！我的人生\n到底要被这个数字纠缠到什么时候啊！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "但是也只到今天为止了。\n这张珍贵的抽奖券，我拿去神社疯狂净化过了，\n就靠这张──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "灌注我所有的运气，一定要夺下特等奖～～！！\n给我等著瞧！！",
+            "ChoiceDataList": [
+                "（素质发疯了……）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "来吧，开始咯，训练员！！\n来斩断这份宿命……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……优秀素质似乎累积了不少愤慨，\n甚至能感受到她的怨念。\n我与她一起握住把手转动抽奖机。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "结果──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "天啊！恭喜────！！\n抽到特等奖“温泉旅游券”了～～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "────！！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "大叔……你刚刚说什么……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "小质……是你赢了。\n带走特等奖“温泉旅游券”吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "训、训练、训练员……！\n特、特等奖……！抽到特等奖了！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "而且是我最喜欢的温泉！\n能去温泉喔！太厉害了吧！？",
+            "ChoiceDataList": [
+                "恭喜你！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "啊……呃，咳咳。\n抱歉，我都这把年纪了，还这么兴奋。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "唉呀～是不是神明这次\n终于愿意同情我了呢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "好啦，大叔，你可要告诉大家喔。\n让大家知道“素质夺走了特等奖”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "当然了！我还会在镇上的报纸上\n用巨大的标题刊登出来！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "就用“小质洗刷污名！将与训练员\n一同前往极乐温泉旅游”这个标题！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "嗯──嗯！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "咦？什、什、什么啦──！？\n跟训、训练员一起！？温泉──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "咦？不是吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "笨笨笨笨、笨蛋，你在说什么啦！\n我怎么可能跟这个人去啥温泉！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "啊──！",
+            "ChoiceDataList": [
+                "毕竟是素质抽到的……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "不是，训练员，不是啦！\n我、我刚刚不是那个意思……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "啊呜呜呜～～！算了啦！\n那张旅游券就送给训练员好了！",
+            "ChoiceDataList": [
+                "咦！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "我抽奖本来就不是为了去温泉，\n只是想摆脱不名誉的称号而已喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "既然已经摆脱称号了，\n那张旅游券就送给训练员吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "你再找个好时机去好好放松身体吧。\n我……就不去了，没关系啦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "好啦！为了庆祝，\n去肉店买块特等里肌肉回去吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……我决定当成是由我暂时\n帮忙保管这张温泉旅游券了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "恭喜抽到一奖～！\n奖品是“特等胡萝卜汉堡排”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "太好了！\n是一奖喔，训练员！",
+            "ChoiceDataList": [
+                "太棒了！",
+                "太棒了！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "真的是太好了～\n我绝对不想又被叫“三奖收集者”啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "大叔！\n怎么样啊，认输了吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "认输了认输了，小质真厉害啊！\n凭着这好运气，今年要狂得第一名喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "唔～～～～嗯！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "不，这两件事不一样吧……\n又不是运气好就能跑赢……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "对吧？训练员？",
+            "ChoiceDataList": [
+                "也对",
+                "也是"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "……咦？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "……不是啦，你干嘛这么失望啊──",
+            "ChoiceDataList": [
+                "因为素质会靠实力取胜的"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "啊哈哈！就是啊！\n唉呀，真是抱歉啦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "遇到这么棒的训练员\n真的是太好了呢，小质！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "……你们少说蠢话了，\n我要回去咯！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "难得拿到美味的汉堡排，\n回去赶快煎一煎吃下肚吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "……我会煎给你吃的啦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "之后我们依照优秀素质推荐的吃法，\n享用了极度美味的汉堡排。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "二奖～！！\n奖品是“一整堆胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "唔嗯～真可惜！\n不过也算是好结果吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "至少逃过三奖了。\n嗯，太好了太好了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "不过……还真是多得像座山啊。\n大叔你们也太慷慨了吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "毕竟抽奖可是商店街的一大卖点啊！\n必须在这些事情上创造话题性才行。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "这样才能爆红……？是这样说的吗？\n小质你也帮我们拍张照\n传到那个什么平台上嘛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "你是说社群平台吧。\n这大叔真是傻得令人想哭啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "……训练员啊，\n我有事想要拜托你。",
+            "ChoiceDataList": [
+                "什么事呢？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "可以帮我跟那堆多得夸张的胡萝卜，\n还有大叔……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "一起拍张照吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "……我是没有什么影响力啦。\n但至少……还能介绍给朋友知道。",
+            "ChoiceDataList": [
+                "我知道了！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "小质……你真的是个好孩子啊。\n以前明明那么小一只……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "你根本不知道我小时候长怎样吧──\n好啦，要拍咯，笑一个笑一个！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……于是我为抱着满满的胡萝卜，\n露出满脸笑容的优秀素质拍下了照片。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "三奖～！\n奖品是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "唉呀，你又更新了纪录呢。\n很遗憾，现实就是这样。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "…………唉呀～搞砸了。\n这下的确是素质小姐输了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "我该不会有这方面的超能力吧？\n干脆去研究所毛遂自荐？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "说笑的啦，反正抽奖只是好玩嘛。\n那我就收下一根胡萝卜啦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "一口咬下去，越嚼越甜！\n蔬果店的胡萝卜就是这么好吃！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "唉呀──感觉充满了活力呢。\n啊哈哈哈──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "……看那样子，她非常不甘心呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──就这样，优秀素质\n成功地保住了“三奖收集者”的称号。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "很可惜，没抽中！\n参加奖是“卫生纸”喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "怎么是卫生纸啊？\n这样我有点不知道该怎么反应耶。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "不过，卫生纸算是最实用的，\n也不是什么烂奖品啦……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "但你都特地去百次参拜了呢。\n不能看到小质引发奇迹，\n我也觉得有点可惜喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "……等一下，可不可以别这样？\n总觉得有点罪恶感，而且──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "光是回想起刚刚抽奖时的气势，\n就觉得有够丢脸的……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "难得你都灌注了所有的运气呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "呜啊！\n住、住手，给我忘掉～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "之后优秀素质持续遭到\n商店街的人毫无恶意的揶揄，\n感到筋疲力尽……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

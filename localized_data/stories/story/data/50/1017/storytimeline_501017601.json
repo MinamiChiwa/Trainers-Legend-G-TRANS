@@ -1,0 +1,37 @@
+{
+    "Title": "这次一定要获胜！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "自从先前吞下败仗后，\n我们为了这一天聚精会神地拟定对策。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "我相信你的指导，每天勤奋地练习。\n可以说是竭尽所能地尝试了\n我们所能想出的每种方法。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "既然如此就不必再多说。\n该做的只有展现成果！",
+            "ChoiceDataList": [
+                "要赢喔！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "好，往后的皇帝之道，我可不容许败北！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

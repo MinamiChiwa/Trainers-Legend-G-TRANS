@@ -1,0 +1,76 @@
+{
+    "Title": "挑战夹娃娃机！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "某天，\n我跟草上飞一起外出时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "咦？训练员，那里有赛马娘的玩偶呢。\n看起来好像是\n夹娃娃机的奖品。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "有谁的玩偶呢？真令人好奇～\n不过那里感觉有些吵杂呢……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "虽然草上飞很感兴趣，\n不过那热闹的气氛让她似乎有些犹豫。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "从这里看不太清楚呢。\n不知道有没有小特或小鹰的布偶。",
+            "ChoiceDataList": [
+                "我去帮你夹！",
+                "我去帮你夹吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "哎呀，可以吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "不过我只站在一旁看的话，感觉有些抱歉呢。\n如果能以其他方式\n和你一起努力就好了……",
+            "ChoiceDataList": [
+                "帮我加油吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "这个忙我应该帮得上呢。\n好，请放心交给我。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "我会用心加油的。\n请你加油～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──这个挑战，不能失败！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,383 @@
+{
+    "Title": "因意大利面而拓展的世界",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "小栗帽睁大眼睛看着某本杂志……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "好厉害……金黄色的奶油……这就是海胆吗？\n在意大利面上闪闪发光……简直就像是宝石……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "啊，这个是……热呼呼的松饼配上冰冰凉凉的冰淇淋……\n还放了很多新鲜的水果……实在太丰盛了……",
+            "ChoiceDataList": [
+                "杂志上有你在意的店吗？",
+                "杂志上有你在意的店吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "哦，是训练员。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "其实我打算找家店趁下次放假的时候去看看，\n不过这里的店比故乡还要多很多……花了我不少时间。",
+            "ChoiceDataList": [
+                "你决定好要去哪家了吗？",
+                "你决定好要去哪家了吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "嗯，是意大利面和松饼很有人气的店。\n这家店好像被称作“隐藏名店”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "不过……其实我前几天也有看到\n类似的拉面店广告而打算去吃……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "结果我明明照着地图搭上电车，\n却找不到那间店。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "不愧是隐藏的店。\n……没有那么容易找到。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "啊……\n难道那间店为了不被发现而进行伪装了吗……？",
+            "ChoiceDataList": [
+                "他们又不是忍者……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "嗯……既然这样，为什么我到不了呢？\n真是不可思议。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我看了杂志上刊登的店家地图，发现内容很简略，不太好懂。\n让小栗帽一个人过去可能会找不到……",
+            "ChoiceDataList": [
+                "我们一起去吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "……！可以吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "跟训练员一起去就安心多了。\n那就恭敬不如从命，麻烦你了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "之后的假日。我们搭了一会儿电车，\n来到小栗帽想去的咖啡厅。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "就是这里吗……完全没有迷路呢。\n训练员果然厉害。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "…………",
+            "ChoiceDataList": [
+                "怎么了？",
+                "怎么了吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "没事，我没想到是这么时尚的地方……\n所以觉得有点不自在。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "我这身衣服合适吗？都市里不是有些店家，\n会把没穿着规定服装的客人赶走吗？",
+            "ChoiceDataList": [
+                "这间店不用担心这个"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "是吗？那就好。\n只是……我还是觉得有点不自在。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "店员A",
+            "Text": "请问两位决定好要点什么了吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "啊……我要、那个什么……",
+            "ChoiceDataList": [
+                "意大利面和松饼？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "嗯。不过名字有点难念……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "感觉很像法文的……外来语……\n其中一个是海胆意大利面，叫什么来着……",
+            "ChoiceDataList": [
+                "请给我两份海胆意大利面"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "店员A",
+            "Text": "那么，客人要点的是Lumière doré的海胆奶油意大利面呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "哦哦……不用正式的名字也可以啊。\n……好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "不好意思，我还想要两份\n有放上满满水果的松饼。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "店员A",
+            "Text": "好的，客人要点的是fruit．crêpe呢。\n我明白了～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "好厉害……训练员，你有看到吗？\n我也成功点餐了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "小栗帽来到不熟悉的地方好像很紧张，\n不过用完餐之后就完全放松了──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "真好吃……我从来没吃过这种味道。\n就像在嘴里融化一样，一瞬间就吃完了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "……训练员。\n我有一个提议，要不要再点一份？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "实在是太快就吃完了，\n感觉还有点没吃够。而且难得都到这里来了──",
+            "ChoiceDataList": [
+                "再点一份也可以，但要不要试试看别的？",
+                "再点一份也可以，但要不要试试看别的？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "试试看别的……听你这么说，这确实是个好主意。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "意大利面和松饼的味道都十分美味，\n其他餐点一定也是一样好吃。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "这样的话该点什么才好……\n唔，这还真是难以选择。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "小栗帽盯着菜单看了数十分钟──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "……不行，决定不了！\n每个看起来都很好吃，我全都想点！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "嗯……就算全点也没关系吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "训练员，把菜单上的餐点全都点一遍，\n你觉得如何？",
+            "ChoiceDataList": [
+                "拜托不要……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "……不行啊。那你可以帮我决定要点哪个吗？\n你喜欢哪个餐点？",
+            "ChoiceDataList": [
+                "酥皮汉堡排"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "嗯……第一次听到这种料理。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "嗯，难得的机会，就吃吃看这个吧。\n让我来点。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "小栗帽开心得像小朋友一样举起手叫店员，\n点了“酥皮包着汉堡排的料理”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "酥脆的起酥皮配上酸甜比例恰到好处的莓果酱，\n酥皮里面则是肉汁满满的汉堡排──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "真是幸福的时光，简直就像在做梦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "原来如此，原本觉得汉堡排搭配果酱\n应该还好，结果的确很配。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "训练员，谢谢你。\n多亏有你，我对食物的眼界好像更开阔了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "除了自己喜欢的食物以外，试着去吃\n一起用餐的人喜欢的食物也很令人开心呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "训练员，今天谢谢你。\n料理也很好吃，真的很开心。",
+            "ChoiceDataList": [
+                "我才要谢谢你邀我来"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "呵呵，很高兴听到你这么说。\n今天真是美好的一天。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "那么，去下一家店吧。",
+            "ChoiceDataList": [
+                "……咦？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "我平常都是去学校附近的店，\n不过今天训练员有说好要帮忙带路。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "所以我还另外找了几家店。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "虽然午餐时间可能要过了，\n不过以我目前的饱足度来看，应该还能再吃个十家店。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "感觉今天会变成咖啡厅之旅。\n真令人期待呢，训练员。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "不知道是不是我的错觉，小栗帽的脚步似乎变快了，\n我们不断走访各家咖啡厅，直到宿舍门禁时间将近……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

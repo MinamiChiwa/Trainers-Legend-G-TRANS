@@ -1,0 +1,389 @@
+{
+    "Title": "新年参拜",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "波澜万丈的经典赛之年过去了，\n我们终于迎来了古马级首日。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "古马级"
+            ]
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "呼……不愧是元旦的神社。\n还真是聚集了不少人呢。",
+            "ChoiceDataList": [
+                "你这打扮不会冷吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "哼……你看我这样还不知道吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "当然是会冷好吗……！！",
+            "ChoiceDataList": [
+                "……我拿外套过来吧？",
+                "……我借你外套吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "……现、现在……还不需要……！\n但之后……你一定要给我……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "圣王光环的脚微微颤抖，\n在我担心她的身体状况时……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "来参拜的人",
+            "Text": "欸欸，你看了吗？\n新年的新闻！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "陪着来的人",
+            "Text": "啊──看了看了！\n特别周与青云天空，\n真的要参加“天皇赏（春）”对吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "天皇赏（春）"
+            ]
+        },
+        {
+            "Name": "来参拜的人",
+            "Text": "不对不对！不是那个～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "陪着来的人",
+            "Text": "那是神鹰要去国外的事？\n还是草上飞的──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "神鹰"
+            ]
+        },
+        {
+            "Name": "来参拜的人",
+            "Text": "我就说不是了！啊──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "……呵呵呵，\n看来大家可终于开始注意到了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "来参拜的人",
+            "Text": "就她就她！就是那个千金小姐啦！！\n在网络新闻排在热门第一名的那个！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "陪着来的人",
+            "Text": "……“突然转换跑道，千金失去方向！？”\n真的耶。不就是在那边的女生吗。\n是说她现在的服装也真夸张。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "来参拜的人",
+            "Text": "欸、欸！天啊！\n跟她一起拍照的话能拿一堆赞吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "欸，训练员，你知道吗？\n所谓有兴趣胜于无视。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "无论是何种形式，该成为主角的人都会是我。\n我会用尽所有为此而生的策略。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "会被讲成什么样子我已有心理准备，\n但即使如此我仍会朝向群众的中心持续前进。",
+            "ChoiceDataList": [
+                "……你真是坚强",
+                "……你真是坚强"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "呵呵。一流就是会一直抬着头，挺著胸，\n所以才如此吸引普罗大众喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "好了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "各位！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "我就是一流的赛马娘圣王光环！\n今年也请大家多多关照！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "今天特别开放让各位拍照也无妨！\n只不过，拍照时要遵守常识！\n注意不要给其他人添麻烦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "顺带一提，我现在要换地方了。\n想合照的人就跟我来吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "来参拜的人",
+            "Text": "咦！？真的吗！？\n我去跟她拍好了！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "陪着来的人",
+            "Text": "欸，喂！……算了。\n我也去拍照吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "呵呵。各位，要把我拍得可爱点喔？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "……呼。\n这样大致上就跟所有人都合照过了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "……惊人的是，她居然完成了\n与几百人拍照的摄影会。",
+            "ChoiceDataList": [
+                "辛苦了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "呼……真是累人。\n不过我算是种下了不错的种子吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "真期待开花结果的瞬间呢。\n没错，就在“高松宫纪念”──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "……哈啾！",
+            "ChoiceDataList": [
+                "递出热茶",
+                "借她外套",
+                "立刻拍照"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "哎呀，你挺机灵的嘛♪\n我正好想喝饮料呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "嗯……可是只有一瓶根本不够。\n帝王的喉咙跟身体都累坏了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "所以我赋予你，\n跟我去那边的自动贩卖机买饮料的权利。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "……好啦，你也买你自己的份吧。\n等了好一段时间，你的身体都冻僵了吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "啊！也要顺便买给那些人的茶。\n既然都买了，\n今晚来办新春茶派对吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是在喝下热茶并休息了一会儿之后，\n我们度过了剩下的新年。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "呵呵，你有好好地记住呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "所以说快点拿过来啦！\n真的是太冷了！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我的外套被圣王光环\n硬是脱了下来！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "喔～呵呵呵～\n想要我还给你的话，就追上我吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "啊，顺带一提，照惯例举办的\n新年派对是晚上七点开始！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "我赋予你准备派对的权利！\n喔～呵呵呵！喔～呵呵呵！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "然后她抢了我的外套不还，\n就这样全力地逃走了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "红著脸跑走的她，\n那速度感觉破了至今为止的最高纪录\n……的样子。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "啊──！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "训练员，现在就删了那张照片！\n立刻！现在！快点！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "打喷嚏的瞬间这种邋遢模样被公开的话，\n帝王的支持率会一口气下降的！",
+            "ChoiceDataList": [
+                "或许会因为很可爱而让支持度上升！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "才不会好吗！你这蠢蛋！！\n你是脑神经接错线了吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "真是，把手机给我！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "……然后那张照片就被删除了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "真是的！这么想拍照片的话，\n明天我就让你拍个够啦！",
+            "ChoiceDataList": [
+                "……明天？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "来，笑一个～！\n一流的赛马娘是～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "跟班们",
+            "Text": "帝王～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "……于是隔天，我就以专属摄影师身份，\n被迫参加她们的派对了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "真是！训练员，专心点！\n你现在是我的摄影师！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "而我是一流模特儿！\n来，这个角度再拍一次！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "就这样，感觉我们彼此的技术都得到了磨练\n……的样子。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

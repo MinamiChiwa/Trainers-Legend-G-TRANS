@@ -1,0 +1,306 @@
+{
+    "Title": "“绕路”一下吧",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我跟伏特加外出后──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "喂，已经要回去了？时间还早吧──？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "现在简直就是小鬼的回家时间啊。\n再去哪里绕绕吧──？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "我知道一个不错的地方喔。\n我们去兜风吧，顺便带你去看看！",
+            "ChoiceDataList": [
+                "……用走的能叫作兜风吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "没差吧！别问了，总之跟我走！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "就这样，我没问目的地就跟着伏特加前进……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "我想想，我记得沿着这条路……\n然后走右边这条。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "…………啊──吹风真的很舒服呢！\n在大自然里最棒了～",
+            "ChoiceDataList": [
+                "是啊",
+                "是呀"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "是吧！风吹的方式也跟城市里不同？\n我还满喜欢的呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "接着该怎么走来着……\n话说这里原本有这么多树吗？",
+            "ChoiceDataList": [
+                "……没问题吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "什么！？当然没问题咯！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "放、放心交给我，\n训练员你就悠闲地看看天空吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我带着不安跟伏特加继续前进，结果……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "…………这里是哪里！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "果然迷路了……",
+            "ChoiceDataList": [
+                "你本来打算去哪啊？",
+                "你本来打算去哪呢？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "……之前随意散步时，\n我找到一块气氛不错的岩石地。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "所以只要照着同样的路，应该就能走到……\n照理说是这样的。",
+            "ChoiceDataList": [
+                "用手机查查看吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "才不要！总觉得查了就输了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "可恶～～～～为什么找不到啊！？\n难道我的记忆出错了！？",
+            "ChoiceDataList": [
+                "今天干脆放弃吧！",
+                "让第六感觉醒吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "呜，判断下得真快……\n但是也对，再走下去也不一定找得到。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "可恶，下次再挑战吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "真是抱歉啦，训练员！浪费了你的时间。",
+            "ChoiceDataList": [
+                "我觉得很开心喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "咦？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我告诉她，光是边四处走来走去边聊天，\n我就觉得很开心了。",
+            "ChoiceDataList": [
+                "伏特加，你觉得呢？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "……我当然也觉得……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "但是啊！我本来想更帅气地带路的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "那个岩石地真的很有气氛，\n本来想在那边跟你好好聊聊的……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "啊～～真的好可惜～～！\n总有一天要让我雪耻喔！！",
+            "ChoiceDataList": [
+                "当然了！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "我们约好咯！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是我们同心协力回到原本的路上，\n继续一边聊天一边回家了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "第……六感……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "……唔喔喔喔！那是什么，好像很帅！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "我知道了，交给我吧！\n觉醒吧，我的第六感……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "嗯嗯嗯嗯嗯嗯嗯嗯…………！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "啊…………！？\n我好像看见……附近有个巨大废墟！？",
+            "ChoiceDataList": [
+                "继续看！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "好！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "嗯嗯嗯嗯嗯嗯…………！\n嗯嗯嗯嗯嗯嗯嗯嗯…………！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我趁伏特加集中精神时\n用手机里的地图搜寻附近的废墟，\n找到符合条件的岩石地。接着只要──",
+            "ChoiceDataList": [
+                "听着，200米后右转……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "…………！？！？\n刚刚我脑海里……直接出现声音！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "不得了，只能前进了……！\n训练员，跟我走！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "之后我也继续引导兴致勃勃的伏特加前进，\n最后──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "──唔喔喔喔喔喔喔喔喔！！\n真的走到了～～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "不得了了，训练员，\n我好像真的觉醒了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "哈哈哈……哈哈～～～！！\n本人正是觉醒的赛马娘，伏特加大人～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "之后我陪着兴致高涨的伏特加，\n在岩石地玩耍了好一阵子。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

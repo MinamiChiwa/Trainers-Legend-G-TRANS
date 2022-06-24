@@ -1,0 +1,334 @@
+{
+    "Title": "“打比训练员”",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "为了准备日本打比而不断进行\n激烈训练的某个假日中。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我正巧走过训练赛道时，\n看到特别周和她的朋友们在做自主训练……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "呼啊、呼啊……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "太、太棒了……自己的最佳成绩……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "呼啊……呼。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（青云天空──\n和特别周同年级，是个沉稳却又\n不时会露出锐利眼神的赛马娘）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "青云天空"
+            ]
+        },
+        {
+            "Name": "青云天空",
+            "Text": "……哎呀～输给你了。\n小特变得更有实力了呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "小特"
+            ]
+        },
+        {
+            "Name": "青云天空",
+            "Text": "不单单只是跑得更快，\n而是有种变得更会比赛的感觉。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "真的吗！？耶嘿嘿，被懂得运用\n策略的青酱这么说，我觉得很高兴……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "青酱"
+            ]
+        },
+        {
+            "Name": "特别周",
+            "Text": "之前参加“如月赏”\n好像也带给我很大的影响……\n总觉得最近比较知道该怎么跑了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "这样啊、这样啊～\n看来你针对打比的训练状况非常好呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "……那我可不能再漫不经心了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "嗯？青酱，怎么了吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "不不不，没什么。\n在想说我自己也得加油了～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "那么，谢谢你陪我并行练跑。\n先走咯～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "嗯，之后教室见！",
+            "ChoiceDataList": [
+                "辛苦了，特别周，跑得很不错喔",
+                "辛苦了，特别周，跑得很不错呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "咦……？啊！\n训练员！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "算是慰劳结束自主训练的特别周，\n我买了饮料给她。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "咕嘟、咕嘟……噗哈──！\n超级好喝的呗……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "谢谢你，训练员！！",
+            "ChoiceDataList": [
+                "这点小事不算什么",
+                "这点小事不算什么的"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "不，不光是这个饮料……\n还包含了每天的训练。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "在“如月赏”也留下好成绩，\n让我觉得自己变强了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "之前在乡下我一直都独自跑着，\n不但没什么经验，有时还会觉得不安……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "但因为有训练员每天教我许多事！\n让我有了自信！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "──嗯，你的样子十分意气轩昂。\n很有干劲呢，特别周。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（鲁道夫象征──\n她是特雷森学园的学生会会长，\n也有着压倒性的实力）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "鲁道夫象征",
+                "特雷森学园"
+            ]
+        },
+        {
+            "Name": "特别周",
+            "Text": "啊……！？会、会长！！\n那个，你、你好！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "可以不用那么紧张。\n抱歉在你们相谈甚欢时打扰。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "我只是想要夸赞你们，\n忍不住就开口搭话了。",
+            "ChoiceDataList": [
+                "夸赞我们……？",
+                "夸赞我们吗……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "是的……最近特别周的成长，\n实在相当了得。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "想必这是特别周每天努力不懈，\n以及……你这位专任训练员\n持续鼓励她的成果。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "……！\n是的，就、就是这样！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "每当被集团包围、前方遭到阻挡、\n或持久力耗尽而感到痛苦时……\n我脑海中都会浮现训练员的身影。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "然后，双脚就会又变得有力！\n想起自己不是一个人，就能继续坚持下去！",
+            "ChoiceDataList": [
+                "特别周……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "嗯，在赛场上不断奔向荣耀的赛马娘，\n以及支持着她的训练员……\n两位的关系真的非常理想。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "话说──你们的下一个目标，\n是“日本打比”吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "是的！我想成为日本第一的赛马娘，\n无论如何都要赢得那场比赛……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "原来如此，这样很好。\n特别周，希望对你来说──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "还有对你重要的训练员来说，\n都能留下足以夸耀的结果。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "……！\n对训练员来说……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "“要成为打比赛马娘的训练员，\n可是比当一国的宰相还难。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "如果你想报答他的付出和信赖──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "如果你想报答她的付出和信赖──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "应该没有比日本打比还要合适的舞台了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "…………！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "和鲁道夫象征告别后，\n我在黄昏时分送特别周回到了宿舍。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "…………",
+            "ChoiceDataList": [
+                "特别周？怎么了？",
+                "特别周？怎么了吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "啊……不！！\n那个，没什么事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "谢谢你送我回来！\n那么，明天见……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──我目送著特别周若有所思的背影离开。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,392 @@
+{
+    "Title": "可爱的未知",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "秋川理事长",
+            "Text": "因此！！举办！！\n“特雷森学园Pretty大奖赛”！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "秋川理事长一时兴起突然决定举办比赛。\n被召集到体育馆的学生们开始议论纷纷。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "秋川理事长",
+            "Text": "主旨！身为赛马娘，\n就必须培养出属于自己的各种武器！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "秋川理事长",
+            "Text": "概要！以表演、演讲、赛跑三项作为竞赛内容！\n在预赛中选出四名选手进入决赛！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "秋川理事长",
+            "Text": "报名！明天开始接受自荐或推荐的报名！\n我期待大家踊跃地挑战！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "好棒的活动喔～！我要推荐城市参加！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "喂，雪之！？你认真的吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "听到大奖赛就会感到热血沸腾啊～！\n感觉是有够耀眼的女子殿堂啊♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "（唉，理事长又打算做这种无聊的事情……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "（……好想看到气槽前辈在大奖赛耀眼的表现）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "………………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "Pretty大奖赛，感觉就是很有理事长风格的活动，\n正当我觉得这跟刚入学的真机伶应该无关时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "哥哥～！听我说听我说☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "姐姐～！听我说听我说☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "真机伶刚刚啊！去报名参加大奖赛了！",
+            "ChoiceDataList": [
+                "什么！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "耶嘿嘿♪毕竟是“Pretty”大奖赛嘛！\n感觉就是专门为真机伶举办的活动呀！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "哥哥也要好～好为我加油哦♪\n这样真机伶就会努力拿冠军！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "姐姐也要好～好为我加油哦♪\n这样真机伶就会努力拿冠军！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "虽说充满干劲是好事……\n但大奖赛的练习也可能影响到平常的训练。",
+            "ChoiceDataList": [
+                "我觉得现在是努力做基础训练的时期……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "基础训炼我也会努力的呀？虽然会努力锻炼～\n但大奖赛对真机伶来说也是很重要的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "因为因为～要让大家知道真机伶有多可爱嘛♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……她真的只是单纯想要受到瞩目而已吗？\n我想我真的对她一点也不了解。",
+            "ChoiceDataList": [
+                "你说什么都想要参加吗？",
+                "你说什么都想要参加吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "因为呀、因为呀！\n也想让哥哥看到真机伶耀眼的模样嘛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "因为呀、因为呀！\n也想让姐姐看到真机伶耀眼的模样嘛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "……不可以吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她恳求的方式虽可爱，却有着让人无法反驳的气势\n……感受到她的某种决心后，也只好答应她了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "不能就这样被她牵着鼻子走。为了理解真机伶\n的价值观，我在UG上追踪了她的账号。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "＠Curren",
+            "Text": "“今天吃了奇迹飞马圣代♪\n#非常彩虹  #真机伶好幸福  #可爱的真机伶”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这是张摆了可爱姿势拿着一口圣代的自拍照。\n“44906个赞”……我点开留言区看下去──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "@Curren_is_MyLife",
+            "Text": "“虽然Curren每天都会更新UG三次以上，\n但完全看不到私生活的样子呢。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "@cuteeeeeCurren",
+            "Text": "“我懂！照理说应该会从照片看出居家环境，\n或是人际关系才对。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "@Curren_is_MyLife",
+            "Text": "“真是充满谜团呢。拍照背景跟合照的人每次都\n不同，但让人无法捉摸也是她的魅力之一啦！”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "@UMA_hunter",
+            "Text": "“我可是知道Curren其实是外星人的哦。\n不然怎么可能这么仙气十足又完美。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "@UMA_hunter",
+            "Text": "“我身边也有人觉得她是未确认生物。\n说她会像卓柏卡布拉一样，靠吸血来维持美貌。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……留言内容看得我哑口无言。\n感觉自己越看越不了解她了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "接着来到了Pretty大奖赛的预赛当天。\n首先是透过走台步来审查表演力……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "大家──！要给真机伶满满的爱哦♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她散发着出众的巨星魅力，\n一如往常地用自己的一套掳获大家的心。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "到了演讲阶段也依旧如此──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "今天我要来介绍能让大家变得更可爱的东西♪\n真机伶推荐的是……Palomino的粉霜！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "接着，来到了预赛的最后一个项目──赛跑。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "好──真机伶会努力跑的♪\n要好好用眼睛和相机捕捉我耀眼的模样哦～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "粉丝们",
+            "Text": "呀～！加油～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "真机伶相当有实力，若发挥平常的水准应该就能\n跑出佳绩……按捺住我的一丝不安，比赛开始了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "嗯嗯，状态非常好～♪\n大家──！要看好真机伶跑步的样子哦──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "……奇怪？怎么感觉怪怪的……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "真机伶看起来跑得很吃力。\n但观众似乎只为她的可爱而疯狂，并没有察觉……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "……呀！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她的跑姿开始显得凌乱……！\n并没有跑出理想的成绩……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "唔……这样下去的话……！\n嗯嗯嗯嗯～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──虽然她努力跑完全程，但成绩却很一般。\n虽因其他审查项目的高分得以晋级决赛，但……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "认真的赛马娘",
+            "Text": "你听说了吗？好像是她鞋子上的蹄铁掉了呢。\n这就证明她根本没有做好准备。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "喜欢赛跑的赛马娘",
+            "Text": "果然她就是完全不重视比赛。\n想当偶像干嘛一定要来这里啊……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱跟风的赛马娘",
+            "Text": "Curren……我不想看到这样的Curren……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……这些失望的声音或许也传到了她的耳里，\n她冲过终点后，在地上瘫坐了许久。",
+            "ChoiceDataList": [
+                "……你还好吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "……不行，绝不能允许这种失败。\n像这样得意忘形，做出丢脸的表现……一点都不“可爱”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "现在的我──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "根本……配不上哥哥。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "根本……配不上姐姐。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我还来不及开口，她就已经不知道跑哪去了。\n看到她意外地沮丧，让我更搞不懂她的想法了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她如果像别人说的只想当偶像，应该不会因为\n没跑好而沮丧，究竟她是为什么才会这样呢……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "真机伶遗落在赛道上的蹄铁，\n孤零零地散发着幽光……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

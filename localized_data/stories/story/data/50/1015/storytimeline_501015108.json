@@ -1,0 +1,557 @@
+{
+    "Title": "粉丝感谢祭",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "“粉丝感谢祭”\n是为了赛马娘的粉丝们所举办的活动。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "在这场活动当中，\n好歌剧策划了一项表演。那就是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "当然是歌剧了！轻歌剧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "得由在场同年代的群星一起对外主张\n“我们的世代就在这里！”才行。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "而最重要的国王角色──\n当然由我来演！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "然后，国王的左右手骑士A这个角色──\n由名将怒涛演出！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "是、是的……我会……加油的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "可以演好歌剧的伙伴角色……\n我很高兴……可是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "其实……我有更想演的角色……\n啊呜呜……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "然后是另一名部下。\n饰演骑士B角色的是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "爱慕织姬，也就是织姬！\n自从经典赛之后就没看到你了呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱慕织姬",
+            "Text": "我是不得已……才会休息的。\n因为身体状况一直没恢复……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱慕织姬",
+            "Text": "可是，这样好吗……\n一直没办法参加比赛，却来演戏……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "织姬饰演的骑士，会在中途背叛我们，\n把我们打得落花流水。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱慕织姬",
+            "Text": "……那好，我演。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "就这样，三人的歌剧表演揭开序幕了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "当然了！只要有我好歌剧\n以及另外两人在，王国的未来可说一片光明！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "我们要扫除造成国家长期动荡的前世代\n带来的黑暗时代！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱慕织姬",
+            "Text": "扫除黑暗时代……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "前世代的黑暗时代……\n就是草上飞她们那一代……可是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "要跑在她们的前面……我……\n啊呜……啊呜呜呜呜～～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "好，织姬。\n就快进入背叛的场景了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "高声宣布与我断绝关系，成为我的敌人吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱慕织姬",
+            "Text": "知道了……那就……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱慕织姬",
+            "Text": "呵呵，你太天真了，好歌剧。\n竟然没察觉到身边的叛徒……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱慕织姬",
+            "Text": "你的对手不是前世代的那些人。\n而是……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "是我────！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱慕织姬",
+            "Text": "咦？怒涛？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "嗄……？有这句台词吗？\n难道是即兴演出……！？怒涛竟然会……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "面临意想不到的发展，\n就连好歌剧也当场愣住。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "我一直……一直都很想……\n跟好歌剧……一、一较高下！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "上次你向我伸出手，我却没能做出回应……\n就这样把对手的角色……让给了织姬……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "我好难过、好难过……\n希望能尽量获得你的青睐……所以……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "我做了好多练习，参加了好多比赛。\n然后……好不容易只差一点，\n就可以参加GⅠ……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "也许我来不及参加下次的“天皇赏（春）”。\n可是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "“宝冢纪念”！“宝冢纪念”的话一定可以！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "我想跟好歌剧一起奔跑！\n这次由我来当好歌剧的对手……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "所以……拜托你了────！！！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "怒涛，你……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "那是发自内心的呐喊。\n一直难以启齿的心意，化为声音迸发而出……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "喔喔喔，真不敢置信！\n我一直相信怒涛是自己人，谁知你竟背叛我！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "我们的钢铁情谊都到哪里去了！？\n结束了，我们的世代已经完了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "还没跟更高阶级的人较劲，结果早就已经\n四分五裂了嘛──！Oh My God！！！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "啊哇哇，好歌剧，\n对不起～！我，这个，我～～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "我真是太可怜了……！\n但是，我得说……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "呵、呵呵呵……这也是一种宿命……\n是王室受诅咒的血统令我注定如此！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "既然如此，你就尽管来挑战我吧，怒涛！\n我好歌剧既不会逃避也不会躲躲藏藏！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "哈──哈哈哈！就让我们开始吧，\n打一场将王国一分为二的内战！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "唔咦咦咦咦！？你究竟是在生气，\n还是在高兴？到底是哪个～～～！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱慕织姬",
+            "Text": "劝你还是别想太多比较好……\n对她来说，人生只是戏剧的中场休息。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱慕织姬",
+            "Text": "怒涛，我……会为你加油的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "织姬……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱慕织姬",
+            "Text": "你的这份努力……应该不会白费。\n因为……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱慕织姬",
+            "Text": "多亏有你，我才能获得解放。\n呼……总算能交棒了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "什、什么……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "怒涛啊，既然你已做出宣言，可就不能\n反悔了喔。没错，你也是我的敌手之一！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "虽然在我们的世代造成了裂痕……\n但莫可奈何。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "在与前世代进行对决之前，\n你就先向我挑战吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "好、好的……！好歌剧，\n要请你多多指教了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "（哇啊啊啊啊啊啊啊啊！！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "出乎意料的反派角色登场，\n大大炒热了歌剧表演的现场气氛。然后──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "想不到镇压同胞的叛乱，\n竟然成了她与前世代交手之前的一大任务。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "（人声嘈杂，议论纷纷……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "发生的一点小意外，\n让观众席也为之哗然。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "粉丝A",
+            "Text": "欸欸，这该不会不是演戏，\n而是真的闹翻了吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "粉丝B",
+            "Text": "不会吧！！竟然向人气正旺的歌歌宣战？\n不怕被所有歌粉大举出征吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "咦……总觉得会场观众的目光不太对劲……\n这是……怎么了？啊呜呜呜……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "一被看出来不是在演戏，\n名将怒涛立刻遭到观众怒目相视。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "好歌剧身边最近不断有狂热粉丝加入。\n高涨的人气却也带来了坏处……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "啊呜呜呜呜……对不起……\n对不……起……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "如、如果我这种小角色这样太嚣张的话，\n那就还是……回到以前的关系……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "不准打退堂鼓，怒涛！！！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "咦，好歌剧……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "你不是已经凭着自己的意志，\n走到了舞台的最前方吗？既然如此──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "就绝不能退缩！要有胆量！\n作为一位骑士，站上时代的舞台！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "还有我的粉丝们。\n──你们这样太可耻了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "好歌剧毅然决然地转向了观众们。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "我希望我的粉丝也能爱我的敌人。\n并拥有跟我同等──宽大的心胸。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "如果戏剧里没有令人意外的登场人物崛起，\n你们难道不会觉得枯燥无味吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "没错，名将怒涛与我是亦敌亦友的关系……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "如同成为我巨大障碍的前世代之人，\n希望你们也能接纳她为故事的角色之一！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "啊啊，祝美好时代的所有登台演员\n都能获得幸福──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "（哇啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊！！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "粉丝C",
+            "Text": "说得好，好歌剧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "粉丝D",
+            "Text": "好个名演员──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "好歌剧……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "怒涛啊，既然你已做出宣言，\n可就不能反悔了喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "在与前世代进行对决之前，\n你就先向我挑战吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "好、好的……！好歌剧，\n要请你多多指教了──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "好歌剧以王者的风范\n让舞台剧迎向了圆满的结局。然后──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "与表明立场的同期生一决胜负，\n成了她与前世代交手之前的一大任务。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

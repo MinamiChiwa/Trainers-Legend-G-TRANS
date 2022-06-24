@@ -1,0 +1,37 @@
+{
+    "Title": "恢复精神",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "谢谢你让我好好休息。",
+            "ChoiceDataList": [
+                "有好好放松了吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "是的，\n我去了喜爱的地方尽情奔跑。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "总觉得连双脚都变得轻盈起来了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "无声铃鹿似乎在身心上都恢复精神了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

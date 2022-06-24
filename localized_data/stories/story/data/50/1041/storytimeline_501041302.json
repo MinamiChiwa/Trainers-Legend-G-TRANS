@@ -1,0 +1,538 @@
+{
+    "Title": "抽奖试手气！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "某天傍晚，当我们经过商店街时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "唔唔唔唔！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "似乎有种吵闹的味道！！我嗅到了\n又称“班长要大显身手”的味道喔！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "看过来看过来，现正举办新春大抽奖～！\n特等奖可是“温泉旅游券”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "温泉旅游券"
+            ]
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "一奖是“特等胡萝卜汉堡排”，\n二奖是“一整堆胡萝卜”，\n三奖则是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "那边看起来感情很好的两位！\n有没有兴趣来试试手气～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "什么嘛，原来是抽奖活动──！\n既然这样那吵吵闹闹也没问题了！",
+            "ChoiceDataList": [
+                "……是这样吗？",
+                "……是这样吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "训练员！\n其实呢，我手上有一张抽奖券喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "是班上同学说“感觉小蓦应该会喜欢”，\n所以送给我的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "小蓦"
+            ]
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "对方还给了这样的评语……\n“可以想像你狂转抽奖机的模样”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "从这个小插曲就可以知道，\n大家从平常就很赞赏我这个班长呢！",
+            "ChoiceDataList": [
+                "……就是啊！",
+                "……就是呢！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "那就赶快来挑战抽奖吧！！\n机会只有一次！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "目标当然是！！\n所有的奖品！！",
+            "ChoiceDataList": [
+                "所有的奖品！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "好吧，最起码也要夺得特等奖吧。\n凭我的本事不可能抽不中的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "因为就如您所见，我是个好孩子！\n抽奖之神不可能不眷顾我的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "来吧！！正是现在！！！！\n深爱班长的老天爷！！\n请赐给这里这个模范班长──",
+            "ChoiceDataList": [
+                "快点抽奖吧！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "好的！！\n冲啊！！爆进！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我安抚差点失控想狂转把手的樱花进王，\n跟她一起握住把手，转动了抽奖机。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "结果是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "天啊！恭喜────！！\n抽到特等奖“温泉旅游券”了～～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "喔喔喔喔喔喔～！！\n特等奖！！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "然后呢然后呢！？\n其他的珠子有没有跟着滚出来！？",
+            "ChoiceDataList": [
+                "光是特等奖就已经很棒了喔！",
+                "光是特等奖就已经很棒了喔！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "呵、呵、呵──\n说得也是！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "我就说了嘛，\n抽奖也是班长的强项──！",
+            "ChoiceDataList": [
+                "你运气真好啊",
+                "你运气真好呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "是！！\n听说越优秀的人越走运！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "看来我果然很有领袖魅力，\n让珠子都想跟随我走呢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "这么一想，\n就觉得这颗珠子越看越可爱……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "训练员！我可以把这颗珠子带回房间养吗！？",
+            "ChoiceDataList": [
+                "不行啦！？",
+                "不行啦！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "哈哈～！开玩笑的啦！\n我也是很有幽默感的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "所以咯，训练员，\n这张旅游券就先交给您了！",
+            "ChoiceDataList": [
+                "咦？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "我现在身为班长，\n还有很多很多事情等着我去做！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "要我悠闲悠哉悠然自得泡在舒～服的热水里！\n我可没这种班长时间！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "等社会成为连班长都无用武之地的\n模范社会时，我们再去泡温泉吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "我信任训练员的好眼光！！那就拜托您了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "……虽然听不太懂，\n总之特等奖的旅游券就由我保管了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "恭喜抽到一奖～！\n奖品是“特等胡萝卜汉堡排”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "喔喔！好棒喔！\n是特等耶，特等！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "讲到特等，用鳗鱼店的说法就是最高级！\n这正是为班长设计的汉堡排！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "班长配上为班长设计的汉堡排，\n这两者都具备之后，再来就是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "吃就对了！！！！！！",
+            "ChoiceDataList": [
+                "恭喜你！",
+                "恭喜你！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "哦，我当然也会分给训练员吃的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "因为本月的班级标语是“不忘关怀别人”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "班长、为班长设计的汉堡排，\n然后是默默守护我的训练员！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "只要有了这些要素，就连特等汉堡排\n也毫无疑问能吃得非常模范！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是我接受了樱花进王的体贴，\n在那之后享受了特等的滋味。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "二奖～！！\n奖品是“一整堆胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "一整堆！！\n嗯～这词念起来真好听！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "毕竟数大便是美嘛！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "不过分量这么多，\n让人都不知道该怎么吃了～",
+            "ChoiceDataList": [
+                "试着做成料理怎么样？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "啊！？\n原来是这么回事啊～～～～！！！！",
+            "ChoiceDataList": [
+                "！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "做成料理，\n不就可以让食材变得更美味了吗！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "换言之，这一整堆的胡萝卜……\n正在等着我的美味引导！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "交给我吧！\n我樱花进王，将赌上班长的生涯！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "让你们顺利毕业！！\n成为美味的胡萝卜～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "……总觉得不太放心，\n于是我决定在她做料理时在旁边帮忙。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "三奖～！\n奖品是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "嗯──────就一根啊……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "啊！？该不会这一根胡萝卜里，\n隐藏着某种重大的秘密！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "仅仅一根的胡萝卜……\n不觉得非常具有象征意义吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "唔唔！仔细一看，\n这形状好像别具深意又好像没有！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "我就知道给予班长的东西，\n绝不可能只是普通的胡萝卜……！",
+            "ChoiceDataList": [
+                "……你昨天是不是看了侦探连续剧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "您怎么知道！？\n原来名侦探就在我身边！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "既然这样，就拿这一根胡萝卜，\n让班长侦探与训练员侦探一较高下吧！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是回去的路上，\n我跟樱花进王针对一根胡萝卜代表的意义\n热烈讨论了一番……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "很可惜，没抽中！\n参加奖是“卫生纸”喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "打击好大……！卫、卫生纸……！\n而且还只是参加奖！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "……不、不对！\n送给我的东西不可能只是普通的卫生纸！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "换言之，这个其实是──“努力奖”！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "小时候的社区猜谜大赛、马拉松大赛，\n以及其他我以班长身份挑战的各种大赛……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "我一路拿到了好多卫生纸！\n那些都是我引以为傲的“努力奖”的奖品！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "所以这包卫生纸也是好东西──\n好……东西……？",
+            "ChoiceDataList": [
+                "怎么了？",
+                "怎么了？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "没有……只是觉得以前我拿到那些卫生纸时，\n好像也有种大受打击的感觉？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "可是，“努力奖”是只属于我的……\n奇、奇怪，所以其他小朋友也有拿到……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "不、不、不……？\n怎么会……？嗯嗯……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "结果樱花进王陷入了一股\n无法言喻的烦闷……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "Title": "这次一定要获胜！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "喔～呵呵呵！\n来吧，比赛的时间到咯！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "这次会掌握这份荣耀的人，\n正是我，一流的赛马娘──",
+            "ChoiceDataList": [
+                "圣王光环！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "没错，就是这样！\n训练员你也很内行嘛！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "好，要出发咯！\n走向等着我的红毯！\n以及闪耀的帝王之道！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

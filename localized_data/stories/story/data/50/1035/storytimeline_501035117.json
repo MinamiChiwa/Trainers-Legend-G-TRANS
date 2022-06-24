@@ -1,0 +1,590 @@
+{
+    "Title": "BNW再次燃烧",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "宝冢纪念后，我与胜利奖券一起\n思考琵琶晨光那些话的意义。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "跑打比时的我跟现在的我，\n有什么不一样呢？",
+            "ChoiceDataList": [
+                "记得你在打比前做了可怕的梦……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "嗯嗯，没错没错！\n我还因为那样怕得要命！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "可是我有什么办法。\n那是我梦寐以求的打比嘛。\n我绝对不想输。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "……绝对不想输……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "……看来在最后的较劲输给我，\n带给她很大的打击。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "嗯～比起一个人训练，\n跑模拟赛绝对要好得多。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "刚才也是一场十分精彩的比赛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "……精彩的比赛？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "嗯。大进跟晨光最后的激烈对决，\n不是拼得火光四射吗！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "大家都说那是场热血的比赛喔～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "……你也这么想吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "你明明就输了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "正因为胜利奖券一直很“认真”，\n才没注意到，确实有很重要的东西改变了。",
+            "ChoiceDataList": [
+                "就是这种心情！",
+                "就是这种心情！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "咦……？怎、怎么突然这么说。\n“这种心情”是指什么？",
+            "ChoiceDataList": [
+                "绝对不想输的心情！",
+                "绝对不想输的心情！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "…………！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "绝对……不想输的心情……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "……原来如此。\n我之前可能都搞错了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "想和打比那时一样跑出最棒的比赛。\n竞争对手互相较劲，观众为之感动……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "我原本觉得能跑出这样的比赛就满足了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "或许我失去了跑打比时的那种……\n绝对不想输，想要获胜的心情吧……",
+            "ChoiceDataList": [
+                "但那种心情才是最重要的"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "嗯……这样啊，原来是这回事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "只抱着“跑出最棒的比赛就好”这种想法，\n是跑不出最棒的比赛的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "“绝对不会输！”“无论如何都要拿第一！”\n正因为大家都抱着这样的意念互相激荡，\n才能跑出那场打比般的比赛……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "大进跟晨光也为了获胜而全力以赴，\n所以她们的实力才会不断地提升。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "我之所以不再是她们的对手，\n就是因为我没能认真思考如何取胜……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "训练员！我……想赢！想赢过大进跟晨光！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "不对，不只是她们……而是任何人！！\n我不想输给任何人！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "我想在每场比赛中获胜，\n把真正的“最棒”展现给观众看！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "因为那就是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "我一直一直～想实现的梦想！！！！！！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "她强而有力的宣言打动了我的心。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "就跟她以前第一次对我诉说\n自己的梦想时一样──！",
+            "ChoiceDataList": [
+                "那就以最棒的舞台为目标吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "最棒的舞台？",
+            "ChoiceDataList": [
+                "年底的大奖赛“有马纪念”！",
+                "年底的大奖赛“有马纪念”！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "唔喔喔喔～！\n诞生了无数场著名对决的“有马纪念”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "好～！我要跑出足以成为传说的比赛，\n然后绝对要获胜！所以训练──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "在那之前，我得先做一件重要的事！\n等我一下喔～～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "胜利奖券跑了出去，\n我急忙追着她的背影。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "大进！！晨光！！\n跟我比赛跑────！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "PASS。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "不能PASS！\n输的话要请大家喝果汁！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "啥……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "……奖券。\n如果这训练只是为了好玩，那现在──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "也不可以推托！！\n你们今天都要跟我决胜负！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "拜托，算我求求你们！！\n我有件事无论如何都想告诉你们！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "……怎么办？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "呵……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "鉴于过往的经验，这情况我们只能妥协。\n你也很清楚吧，大进？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "唉～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "就这么决定了！！\n那么……预～～～备，开始！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "热风习习，天空晴朗。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "突然开始的比赛在跑到最后100米时，\n展开了一场激战。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "（她们的气势好强！好快！！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "──可是！！我怎么能输────！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "奖券……！\n哈……这是我要说的……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "……我会超越你们两个的！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "喝啊啊啊啊！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "胜利奖券率先进行最后冲刺。\n其他两人也紧接着开始加速。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "BNW",
+            "Text": "唔哦哦哦哦哦哦哦哦哦哦哦！！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "三人奋力使出全身的力量，\n冲到了终点──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "呼啊、呼啊、呼啊…………！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "我赢了──！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "三人仿佛虚脱般跪倒在地，\n一时之间没有任何人开口。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "欸，晨光，大进……\n我之前确实不是你们的对手。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "尤其是最近。\n因为我忘了──最重要的事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "奖券……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "所以今天就让我郑重发表──\n全力以赴的宣言吧！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "……说来听听吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "晨光！我最喜欢能预测整场比赛发展，\n冷静却又热血的你了！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "所以──我不想输给你！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "……这样啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "大进！你的尾段加速\n实在太强、太棒、太恐怖，我最喜欢你了！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "所以──我不想输给你！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "……是喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "我最最最喜欢，最最最尊敬你们了……\n所以你们是我最想赢的对手！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "我会参加下一场“有马纪念”。\n你们愿意在那个战场跟我战斗吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "我想以“竞争对手”的身份──\n与你们拿出真本事认真对决！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "看着胜利奖券认真的眼神，\n琵琶晨光笑得眯起了眼睛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "……“竞争对手”啊。\n你现在露出了我很熟悉的眼神。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "呵……我知道了。\n我就参加“有马纪念”吧，我们约好了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "……！晨、晨光～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "……我有其他必须做的事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "因此，我没时间玩什么友情游戏。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "唔……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "……可是，跟奖券与晨光竞争──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "我想，对我来说是有好处的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "……所以……所以……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "……“有马纪念”，\n如果你跑得有气无力，我真的会把你踢飞喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "大进────！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "胜利奖券朝成田大进与琵琶晨光猛扑了过去。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "哇！？喂，笨蛋，热死了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "唔喔喔喔喔喔────！\n以“有马纪念”为目标，加油吧────！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "胜利奖券充满活力的声音在蓝天下回荡著──\nBNW再次成了“竞争对手”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

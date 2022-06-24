@@ -1,0 +1,420 @@
+{
+    "Title": "爆进式的解谜！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "最近学园内正流行一款学生制作的解谜游戏，\n名叫“赛马娘解谜”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "据说玩法是要解开设置在学园内的谜题，\n樱花进王也在班上同学的推荐下试着挑战，\n然而──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "唔啊啊啊啊────！！\n完～～全解不开！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "我应该率先解开谜团，成为大家的榜样才对，\n这样没办法作为众人表率！",
+            "ChoiceDataList": [
+                "要不要帮忙？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "咦咦！？我很感谢您的好意，\n可是这样会不会无法成为大家的榜样？",
+            "ChoiceDataList": [
+                "与训练员合作的态度很值得大家参考喔",
+                "与训练员合作的态度很值得大家参考喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "嗯，那就没问题了！\n让大家好好见识我们的班长力量吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "嗯嗯！\n“提示可由中山获得”是吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "中山、中山……\n讲到中山就会想到──",
+            "ChoiceDataList": [
+                "去问中山庆典？",
+                "去中山赛场就会知道？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "原来如此！\n学园里最有名的“中山”就属她了！！",
+            "ChoiceDataList": [
+                "她会乖乖告诉我们吗？",
+                "她会乖乖告诉我们吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "达成课题的过程难免会碰到障碍！\n我会用干劲与意志力克服难关的！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "找到你了，中山同学！\n好，请给我“赛马娘解谜”第三题的提示！！",
+            "ChoiceDataList": [
+                "这样说人家听不懂吧……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "不会，你是指那句“提示可由中山获得”吧？\n我就是那个“中山”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……不过，我可不能白白告诉你们。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "什么！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "你现在必须以提示为赌注跟我比赛。\n如果你赢了，我就把你想知道的提示告诉你。",
+            "ChoiceDataList": [
+                "输了的话呢？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "这个嘛，进王的话……\n那就禁止当班长一天怎么样？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "我接受！！！！！",
+            "ChoiceDataList": [
+                "秒答！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "不用担心啦，训练员！\n我一定会用我的班长力量取得胜利的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "很好，你有着赌徒的眼神……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "那比赛内容就让你决定，\n我们来场最刺激的较劲吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……呃，抱歉。\n你可以再说一遍吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "可以！\n我们用班长力量一决胜负吧！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "你说的这个班长力量……\n是啥玩意啊？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "就是身为班长应有的心态，\n以及言行举止！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "中山同学！\n让我们来比比谁比较适合当班长吧！",
+            "ChoiceDataList": [
+                "……你可以拒绝没关系喔",
+                "……你可以拒绝没关系喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "不，赌徒一言九鼎。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "再说，对决条件对我越是压倒性不利，\n我就越热血沸腾……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就这样，两人的班长力量对决揭开序幕。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "比赛内容是借由各种不同情境，\n来比较谁的言行最符合班长应有的风范──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "对决一开始是由樱花进王占优势，\n但中山庆典也紧追不舍，\n两人之间的战况极其炽烈。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "呼、呼……\n这下就是我赢了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……呵，是我输了。\n班长力量这玩意可真深奥啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "按照约定，我就把提示告诉你。\n以后要继续加油喔，班长！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在那之后，多亏有她告诉我们的提示，\n我们顺利解完了“赛马娘解谜”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "再加上不用禁止当班长，\n樱花进王自始至终心情都非常好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "原来如此！讲到赛马娘就想到比赛！\n讲到比赛就想到赛场！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "呵呵，\n这推理真是一点都不拐弯抹角呢。",
+            "ChoiceDataList": [
+                "不过赛场在学园外面耶……",
+                "不过赛场在学园外面呢……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "不！只要把赛场同样当成学习地点，\n就可以说是学园的一部分！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "这周末就去中山赛场吧！\n谜题的提示就在中山赛场！！",
+            "ChoiceDataList": [
+                "我、我知道了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "虽然有点担心自己的推理是否正确，\n不过去一趟中山赛场不是坏事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "除了解谜之外，\n还能趁此机会到中山赛场观摩学习。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "然后到了周末──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "呵呵呵！\n中山赛场，我来了！",
+            "ChoiceDataList": [
+                "既然都来了那就参观一下吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "是！无论是“赛马娘解谜”还是赛场研究，\n我都会做到尽善尽美！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "训练员，\n请看那终点前的上坡路！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "要是能在那堪称最后难关的坡道上爆进，\n拔得头筹冲进终点──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "那感觉肯定是会爽快到不行对吧！",
+            "ChoiceDataList": [
+                "那你得好好锻练体力了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "当然了！\n我要锻炼得比以往更确实！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "然后让樱花进王的名字轰动整个中山赛场！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "既然已经决定了，那可不能继续在这打混！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "得回学园做训练才行！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "朝向荣耀的未来爆进────！！",
+            "ChoiceDataList": [
+                "解、解谜呢！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "樱花进王似乎没听到我的制止声，\n她的身影眨眼间就消失在前方远处。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "蓦！进！\n蓦！进！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "呼，今天就训练到这里为止吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "同学A",
+            "Text": "哦，是班长！\n辛苦了～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "多谢慰劳！\n大家也辛苦了！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "同学B",
+            "Text": "你不是说要去中山赛场吗？\n后来没去啦～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "同学C",
+            "Text": "没差，反正“赛马娘解谜”的“中山”，\n又不是中山赛场……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "“赛马娘解谜”……\n“中山”……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "啊啊啊啊啊啊啊啊！！\n我忘得一干二净啦────！！！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "结果这天，虽然樱花进王\n没能把“赛马娘解谜”全都解完──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "但是在中山赛场增广见闻，\n让她稍微获得了些成长。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

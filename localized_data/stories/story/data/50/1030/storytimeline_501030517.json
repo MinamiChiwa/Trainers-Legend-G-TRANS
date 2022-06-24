@@ -1,0 +1,65 @@
+{
+    "Title": "不幸打滑",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "今天下雨，我走在走廊上──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "不小心踩到湿滑的地方，\n失足跌了一下。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "大哥哥，没事吧！？\n啊啊啊……果然都是因为米浴……",
+            "ChoiceDataList": [
+                "怎么了？",
+                "怎么了？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "大姐姐，没事吧！？\n啊啊啊……果然都是因为米浴……",
+            "ChoiceDataList": [
+                "怎么了？",
+                "怎么了？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "今天是米浴负责打扫走廊……\n都是因为这样，害大哥哥遭遇危险……呜呜。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "今天是米浴负责打扫走廊……\n都是因为这样，害大姐姐遭遇危险……呜呜。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "对不起，都是米浴不好……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "米浴看起来很沮丧的样子。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

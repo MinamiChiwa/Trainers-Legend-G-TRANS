@@ -1,0 +1,377 @@
+{
+    "Title": "照映在镜中的是",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "跟好歌剧外出之后，\n在回程的路上──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "穿睡衣的小女孩",
+            "Text": "好、好歌剧……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "你是……之前遇见的那个……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "护士",
+            "Text": "……对不起。\n她说无论如何都想跟你说话。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "……嗯，没关系。\n小公主的邀约我随时欢迎。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "穿睡衣的小女孩",
+            "Text": "…………好、好歌、剧……\n……啊…………那个……呜呜……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "啊，是我的视线对小公主来说太强烈了吗！？\n我这双眼眸的光辉害你紧张──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "啊啊，我该如何是好……！\n都怪我生来有着一双迷人的眼眸……！",
+            "ChoiceDataList": [
+                "可以跟她边走边聊一下吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "护士",
+            "Text": "可、可以。不要太久的话。\n我也想请两位务必要帮她这个忙。\n……我就在这里等著。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "穿睡衣的小女孩",
+            "Text": "……这里就是，好歌剧的……学校？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "对啊。这里是让我每天能精益求精，\n和友人们一起磨练自身美丽程度的地方。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "穿睡衣的小女孩",
+            "Text": "好歌剧……好努力……喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "穿睡衣的小女孩",
+            "Text": "……我，还是……不行。\n……呜呜，噫呜……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "小公主！？你怎么了？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "穿睡衣的小女孩",
+            "Text": "我还是，没办法，变得像，\n好歌剧……一样……亮晶晶的。\n呜，呜欸……噫，呼……",
+            "ChoiceDataList": [
+                "……我去叫护士！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "不，交给我！\n就拜托你在这看照着小公主咯！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "穿睡衣的小女孩",
+            "Text": "……我，好想变得像……好歌剧一样。\n不想要，再生病……想变得亮……晶晶的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "穿睡衣的小女孩",
+            "Text": "可是……我还是，好怕，动手术。\n我，没办法变得……像好歌剧一样。\n好想……见到你……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "穿睡衣的小女孩",
+            "Text": "……呜呜。好歌剧……\n有没有，害怕的……东西？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "好歌剧害怕的东西……\n这个问题挺难的，我想想──",
+            "ChoiceDataList": [
+                "应该是自己的美貌吧……",
+                "也许没有"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "穿睡衣的小女孩",
+            "Text": "这样啊……\n因为……好歌剧，很漂亮嘛……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "哈哈哈！训练员，\n这种事情应该光明正大地当着我的面说啊！",
+            "ChoiceDataList": [
+                "呜哇，吓我一跳！",
+                "哇，吓我一跳！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "我感觉有人在呼唤我前往秘密花园呢。\n所以我一去叫护士后就立刻折返回来了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "──话说回来，小公主。\n你知道美丽的秘诀是什么吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "穿睡衣的小女孩",
+            "Text": "秘诀……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "答案是，接受我的光辉洗礼！\n接受我这赋予许多人希望的光辉！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "说完，好歌剧\n便把一面镜子塞进小女孩的手里。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "来，我的手镜借你。\n你仔细看看它。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "镜中的你很美。\n换句话说……你闪闪动人！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "穿睡衣的小女孩",
+            "Text": "……我……也是？\n我有……亮晶晶的吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "嗯，当然有！\n只是你似乎还没发现呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "在你对你的光辉产生自信前，\n这面手镜就给你吧。尽管欣赏到你满意就是！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "穿睡衣的小女孩",
+            "Text": "……我也，亮晶晶的……\n……嘿嘿。真的吗……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "后来小女孩就跟赶来的\n护士一起回医院去了。\n……带着手镜照映出的笑容。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "刚才护士跟我说，\n那小女孩就快要动手术了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "虽然似乎不会有生命危险，\n但当然还是会感到害怕。\n……我们当天去见她一面吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是我与好歌剧\n一起目送那小小的背影离去。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "穿睡衣的小女孩",
+            "Text": "……好歌剧，果然很厉害耶。\n可是，我却……这么胆小……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "有什么好沮丧的！",
+            "ChoiceDataList": [
+                "你怎么会在这里！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "嗯，我几秒前就降临到你们身边了。\n护士应该也随后就会到了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "好了，小公主。让我再告诉你一次。\n你不需要沮丧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "穿睡衣的小女孩",
+            "Text": "可是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "小公主。\n你的眼眸里，现在照映出的是谁？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "穿睡衣的小女孩",
+            "Text": "……咦……呃，好歌剧……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "没错！你的眼眸，\n正照映着比这世上任何一个人都美的我！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "既然如此！\n怎么还会有空间照映出可怕的事物！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "简直胡扯一通……虽然我心里这么想，\n但小女孩注视着好歌剧的眼中却充满了期待。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "穿睡衣的小女孩",
+            "Text": "这样啊……那只要我想着好歌剧，\n可怕的东西就一定会跑不见，对吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "穿睡衣的小女孩",
+            "Text": "啊……可是……我害怕的时候，\n不知道能不能想得起来……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "那么，这样如何啊？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "说完，好歌剧\n便把一面镜子塞进小女孩的手里。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "这可是每天都照映着我的美貌的手镜喔。\n反正我有两面，一面就借给你吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "这面蕴含了我的光辉的镜子，\n一定能让你想起我来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "而它也必定能让注视镜子的你散发光彩！\n如同月亮在阳光的照射下熠熠生辉！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "穿睡衣的小女孩",
+            "Text": "嗯……嗯！嘿嘿……\n好歌剧的镜子耶……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "后来小女孩就跟赶来的护士\n一起回医院去了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "刚才护士跟我说，\n那小女孩就快要动手术了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "虽然似乎不会有生命危险，\n但当然还是会感到害怕。\n……我们当天去见她一面吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是我与好歌剧\n一起目送那小小的背影离去。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

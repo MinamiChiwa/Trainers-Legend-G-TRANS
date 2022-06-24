@@ -1,0 +1,53 @@
+{
+    "Title": "夏季集训（第3年）结束",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "夏季集训终于也划下了句点……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "……今年过了个充实的集训。",
+            "ChoiceDataList": [
+                "不客气"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "唔，蠢蛋！\n我不是在谢你！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "……不过，那件事我很感谢你就是了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "秋季的天皇赏就要到了，千万别松懈──",
+            "ChoiceDataList": [
+                "我会好好跟上你的"
+            ],
+            "ColorTextInfoList": [
+                "天皇赏"
+            ]
+        },
+        {
+            "Name": "气槽",
+            "Text": "────呵，看来是我多担心了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "Title": "粉丝信",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "训练员～～～～！\nAmazing～～～～！",
+            "ChoiceDataList": [
+                "发生什么事了！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "我收到粉丝信了！\n上面说比赛跟演唱会让她很happy！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "Very very fantastic！\n有粉丝支持，让我非常开心！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "对了，我现在就去见她，\n给对方一个紧紧的hug吧～！",
+            "ChoiceDataList": [
+                "等一下、等一下！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "Oh！\n训练员你也要一起hug吗～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我拼命阻止了大树快车离开训练员室。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,393 @@
+{
+    "Title": "粉丝感谢祭",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "到了粉丝感谢祭当天。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "学园里已经挤满了热情的粉丝。\n但可以预料到，之后将会有更多观众到场……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "所以，那位赛马娘是一定会出动的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "来！大家好──！\n我就是人称超级模范生的班长！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "也就是樱花进王！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "今天有很多观众莅临现场，\n大家走动的时候都要小心喔！",
+            "ChoiceDataList": [
+                "你很卖力啊",
+                "你很卖力呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "训练员！\n您好！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "当然了，举办这种活动时，\n班长本来就该四处认真巡视。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "不过呢，今天更将成为我大放光彩的一天！",
+            "ChoiceDataList": [
+                "你的意思是？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "我报名参加了各种竞赛！\n差不多30种！",
+            "ChoiceDataList": [
+                "30种！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "因为我想尽可能让更多人见识到我的速度！",
+            "ChoiceDataList": [
+                "别、别太勉强自己喔",
+                "别、别太勉强自己喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "是！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "首先我会参加等会即将开始的“旋转冲刺”\n并且拿下第一名！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "樱花进王斗志旺盛地这么说，然而……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "唔唔！？\n有股骚动的气息！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "是谁在挑弄我的班长之魂啊──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "之后也是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "速子同学！你在哪里！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "未经同意，禁止调制可疑药剂！\n请先去取得同意──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "等一下等一下等一下等一下────！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "男性粉丝",
+            "Text": "唔喔！\n突然吹起一阵强风！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女性粉丝",
+            "Text": "啊啊，冰淇淋掉地上了……！\n啊啊……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "唔！禁止使用的教室里传来说话声！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "喂──！\n是谁在里面────！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "呀啊！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘B",
+            "Text": "风、风把海报吹破了～！\n劈哩啪啦地就……啊啊……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "就这样，到了最后……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "呼……总算没事了！\n好，差不多可以去参加竞赛……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "啊，根本都已经傍晚了嘛────！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "这样竞赛不就全都比完了吗！？\n怎么这样～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "进王，原来你在这里啊。\n我找你很久了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "颁奖典礼就快开始了。\n跟我来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "喔喔！？颁奖！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "可是我什么竞赛都没参加到！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "啊，该不会是模范生冠军吧！？\n那就可以理解了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "应该说我就算天天领奖都不为过！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "有够烦的……\n总之跟我来就对了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "主持人",
+            "Text": "──因此，今天的“最佳短途跑者”就颁给\n樱花进王！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "咦！？\n“最佳短途跑者”！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "主持人",
+            "Text": "获奖理由为“因为你是今天动作最快的人”，\n恭喜你！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "怎、怎么这样！\n虽然我比谁都快是事实！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "是最佳短途跑者喔……？\n不是模范生？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "什么嘛……\n好失望。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "虽然樱花进王的兴奋心情有点被浇熄，\n但以结果来说，粉丝感谢祭算是圆满落幕了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "主持人",
+            "Text": "──因此，由学生会提供的特别奖项\n“努力奖”就决定颁发给樱花进王了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "“努力奖”！！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "主持人",
+            "Text": "你一整天在学园里四处奔波的模样\n堪为大家的榜样，因此获得了嘉奖！\n恭喜你！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "喔喔……！\n喔喔喔喔喔～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "堪为榜样！\n而且这还是学生会给予的肯定！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "这下我就是名符其实的大模范生了！\n然后也可以称为大班长吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "学生会这边有礼物要送你。\n算是努力奖的奖品。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "太棒了──！\n一定是奖牌或奖杯吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "不，不是。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "礼物是──你要负责打扫\n你到处乱跑弄乱的地方！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "走廊！校门口！教室！赛道！\n一个都不准漏，全部给我整理干净！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "怎么这样──！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "不过，我接受！\n常言道“善蓦善进，不留痕迹”嘛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "我可是获颁“努力奖”的樱花进王！\n就让我优雅地打扫到你满意吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "爆进──！\n啪哒啪哒────！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "（乒砰乓──铿啷──！！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "才刚跟你讲完又给我弄乱！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "总而言之，粉丝感谢祭就这样圆满落幕了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "Title": "这次一定要获胜！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "──我从上次比赛的结果中，\n发现了许多必须反省的部分。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "我认为多亏如此，\n自己才能在有限的时间内付出一百分的努力。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "一切都是为了……\n不再尝到心有不甘的滋味。",
+            "ChoiceDataList": [
+                "这次一定要赢！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "呵呵，我这次一定会\n不留下任何遗憾，凯旋归来♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

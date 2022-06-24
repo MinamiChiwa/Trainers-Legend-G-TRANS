@@ -1,0 +1,68 @@
+{
+    "Title": "霸王，消沉于失意之中",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我跟好歌剧在外头做训练时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "请问……你是好歌剧对吧？\n我是你的粉丝！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "喔喔！\n看来你还满有审美眼光的嘛！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "那就让我送你一张前两天才刚拍的\n特别明星照──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "嗯？\n……嗯嗯！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "不见了！\n我的特制明星照不见了！？",
+            "ChoiceDataList": [
+                "刚才不是发了很多出去吗？",
+                "刚才不是发了很多出去吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "糟、糟了！\n我刚才全部发完了吗！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "……对不起了，这位小姐。\n这次请你收下亲笔签名将就一下。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "相较于拿到签名欢天喜地的粉丝，\n好歌剧却变得垂头丧气。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

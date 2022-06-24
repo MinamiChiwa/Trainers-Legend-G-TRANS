@@ -1,0 +1,347 @@
+{
+    "Title": "小小的邂逅",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "（呜……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "……嗯？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在回学园的路上，\n我们隐约听见一个微弱又可爱的声音──",
+            "ChoiceDataList": [
+                "你肚子饿了吗？",
+                "你肚子饿了吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "蠢蛋，那可不是我的肚子在叫！！\n你的耳朵是装饰用的吗？真是！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "刚刚那声音怎么听都是动物叫声吧！",
+            "ChoiceDataList": [
+                "动物叫声……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "于是我环顾四周，试着寻找声音来源。\n然后……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小狗",
+            "Text": "呜……呜～嗯……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "小狗……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "它受伤了啊，身上有伤痕……\n是被附近栖息的乌鸦攻击了吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "身上没有项圈……嗯……",
+            "ChoiceDataList": [
+                "总之先帮它包扎……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "等等，毫不犹豫地行善虽然是美德，\n但如果处置不当，善行可是会沦为愚行的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "这时应该先问问专业人士。\n我记得如果在附近发现野生动物的话──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "……您好，不好意思。\n我是特雷森学园的学生，名叫气槽。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "我在学园附近的河岸发现了一只小狗，\n它受伤了，而且身上没有项圈──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在气槽的联络下，\n动保团体的人很快就赶到现场，\n并帮小狗做了包扎。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "动保团体的女性",
+            "Text": "──嗯，这样就完成了！\n它的伤势本身并不严重，\n所以很快就会好起来，恢复精神了喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "这样啊……！那真是太好了。\n谢谢您迅速赶来协助处理。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "动保团体的女性",
+            "Text": "哪里，我才要谢谢您打电话来通知我们。\n来……你也跟人家说“谢谢”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小狗",
+            "Text": "汪、汪！呜～嗯。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "呜哇……你别乱动啊！\n要是一下就太有精神，伤口会裂开的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小狗",
+            "Text": "汪！汪！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "呵……哈哈。\n真拿你没办法啊，真是。",
+            "ChoiceDataList": [
+                "（啊，她笑了！）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "嗯……？喂，你干嘛？\n想对我说什么吗？",
+            "ChoiceDataList": [
+                "不，没事……",
+                "不，没事……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "骗人，你的态度一看就知道了！\n要说就说啊，你这──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "动保团体的女性",
+            "Text": "那、那个……抱歉在两位正忙的时候打扰，\n方便商量一下吗……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "……！我、我们没有在忙。\n请问是什么事？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "动保团体的女性",
+            "Text": "哈哈……就是关于它今后的去处──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "动保团体的女性",
+            "Text": "──就是这样，很遗憾，\n目前我们这里的笼子都已经满了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "动保团体的女性",
+            "Text": "在我们找到人愿意收养它之前，\n可以请您先照顾它吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "我吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "动保团体的女性",
+            "Text": "我知道这样很突然，但还是希望您能帮忙！\n而且它也跟您很亲近……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "可、可是……\n基本上学园内是严禁带宠物进出的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "而且……我也没有养狗的经验，\n不知道能不能妥善照顾它……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "气槽嘴上虽然含糊其辞，\n不过从她刚刚的笑容看来，\n我想她心中应该另有真正的想法，于是──",
+            "ChoiceDataList": [
+                "那让它住在我房间好了～",
+                "那让它住在我房间好了～",
+                "你一定没问题的",
+                "你一定没问题的喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "气槽嘴上虽然含糊其辞，\n不过从她刚刚的笑容看来，\n我想她心中应该另有真正的想法，于是──",
+            "ChoiceDataList": [
+                "那让它住在我房间好了～",
+                "那让它住在我房间好了～",
+                "你一定没问题的",
+                "你一定没问题的喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "什么！？你应该是考虑过所有状况后\n才说这种话的吧！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "饲养生物，\n可不能只是宠它、温柔待它而已喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "尤其如果饲养的是狗，会比想像中更辛苦！\n要每天散步，施以适当的训练，还要刷毛等等──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "而你竟然要独占这些事……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "……啊。",
+            "ChoiceDataList": [
+                "狗很可爱吧",
+                "狗很可爱吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "………………可恶，你闭嘴！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "怎么能把它托给你这么随便的人照顾！\n我会去请求特准，由我来照顾它！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……于是小狗在气槽脚边发出了叫声，\n听来它似乎很开心。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "你说……没问题？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "我告诉你……这可是攸关它性命的事，\n要是随便就把这种话说出口──",
+            "ChoiceDataList": [
+                "我不是随便说说"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "……那你凭什么说这句话？",
+            "ChoiceDataList": [
+                "就凭我是你的训练员！",
+                "就凭我是你的训练员！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "因为我是气槽的训练员，\n所以我知道这件事一定可以托付给她\n……我这么告诉她。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "…………哼。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "你这么乐观，看了实在让人生气。\n但──我就回应你的期待吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "……好，过来吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……于是小狗在气槽脚边发出了叫声，\n听来它似乎很开心。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

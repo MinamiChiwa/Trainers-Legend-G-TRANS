@@ -1,0 +1,325 @@
+{
+    "Title": "可爱的认真",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "某天，真机伶要接受宣传活动之一的\n网络媒体采访。就在我们要去赴约的路上──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "其实啊……\n今天要见的记者，之前也有采访过我。",
+            "ChoiceDataList": [
+                "是喔？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "嗯，那时候的采访主题是\n“受瞩目的UG网红”……",
+            "ChoiceDataList": [
+                "……真机伶？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "哥哥，我希望你答应我一件事。\n……等等不要阻止哦？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "姐姐，我希望你答应我一件事。\n……等等不要阻止哦？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "直到采访开始后，\n我才明白她这么说的意思──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "──私下问你一句……\n你为什么会决定要出道啊？",
+            "ChoiceDataList": [
+                "（嗯……？）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "虽然你本身在UG就已经有相当的名气了，\n但对真机伶来说还远远不够是吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "奇怪，我说错了吗？\n网络上不是都说你“参赛只是玩票性质～”嘛。",
+            "ChoiceDataList": [
+                "……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "说真的你其实就只是想红对吧？\n就算真的比赛表现不好，\n反正只要长得可爱就能炒热话题了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "该说你是真的很有心机呢，还是手段高明啊？\n训练什么的也都是“演”的吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "看你最近的贴文也跟之前一样光鲜亮丽的。\n难怪不会有人觉得你是认真要跑步呢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "不如就趁这次全部老实说了吧，\n我会帮你写一篇，让你再红一波的哦～？",
+            "ChoiceDataList": [
+                "喂……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "这样说话也未免太失礼了。\n正当我忍不住要开口制止时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "哥哥。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "姐姐。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "真机伶的笑容阻止了我……\n接着她终于开口说话──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "我就直接了当地告诉你，\n我参赛绝不是什么玩票性质！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "咦？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "真机伶会走上跑步这条路，\n是因为对赛马娘比赛时的模样感到憧憬。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "这故事说来话长～\n但看你似乎有什么误会，\n我就详细地说给你听吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "呃，喔、好……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "特雷森学园可不是个随便就能入学的地方。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "特雷森学园"
+            ]
+        },
+        {
+            "Name": "真机伶",
+            "Text": "真机伶转学前就曾亲眼目睹\n很多无法入学的赛马娘的眼泪。\n因为这是个只讲求实力的严苛世界。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "真机伶也只是刚出道而已。\n未来会怎么发展也还是未知数，\n到头来也有可能毫无成就……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "但我还是必须继续跑下去。\n不跑不行。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "这、这想法是来自……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "因为这是我自己决定要做的事情呀♪\n“我要在比赛中获胜，变成最可爱的人”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "所以我绝不会说“我不是认真的”来逃避。\n也不打算找其他任何借口。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "真机伶完全是认真的。\n这条路究竟会走向什么样的终点……\n我希望大家也能一起见证到最后♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "后来真机伶也真诚地谈到自己是如何\n透过比赛变得更耀眼，有了什么新的梦想\n以及现在的想法跟今后的展望──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "──那等稿子完成后会再寄给你确认的！\n可爱的真机伶！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "好的，我会耐心等待的～\n谢谢你了～♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "呼～算是顺利撑过了吧？",
+            "ChoiceDataList": [
+                "你态度坚定的模样很帅气哦"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "耶嘿……其实之前接受那位记者采访的时候，\n真机伶不小心搞砸了。",
+            "ChoiceDataList": [
+                "真机伶搞砸了？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "满丢脸的，所以……\n这是我们两个人的秘密哦？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "那个人不是给人很随性的感觉吗？\n所以真机伶接受采访时也配合他的调调，\n结果不小心就认同了我其实不认同的事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "我顺势说了“是啊，但是……”这样的话，\n然后就被他断章取义说我认同那个观点了。\n真机伶真是粗心鬼！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "但这也让我学到了一课。\n含糊的态度对自己、对他人都是不好的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "所以这次真机伶才会用满满的笑容\n和坚定明确的态度来应对♪\n这样就不会再被看扁了！",
+            "ChoiceDataList": [
+                "看扁……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "但这位记者已经算是比较好的了。\n还有很多是连采访都不做就随便乱写的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "而且，这样也算是给了我一个好机会♪",
+            "ChoiceDataList": [
+                "好机会？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "他提到的问题，确实是网络上在讨论的事情。\n说“Curren根本不把比赛当一回事”……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "等这次的采访内容发布之后，\n风向应该就会稍微改变了吧～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "不对，是一定会改变的。\n因为……真机伶说出了自己的真心话。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "正如真机伶所想的，当采访内容刊出之后，\n因为许多粉丝的分享，让大家都明白了\n她对比赛的想法。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "也因此让她受到了更多的瞩目……\n不只推翻了原本的负评，还获得了更多粉丝。\n这些都如她所料……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "“#新的追踪者　#大家好啊\n#我是　#可爱的真机伶\n#今后也要继续支持我哦♪”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

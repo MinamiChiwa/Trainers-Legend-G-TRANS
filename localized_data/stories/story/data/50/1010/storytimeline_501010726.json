@@ -1,0 +1,65 @@
+{
+    "Title": "挑战夹娃娃机！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "某天，\n我跟大树快车一起外出时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "哇喔！Amazing！\n训练员！",
+            "ChoiceDataList": [
+                "怎么了？",
+                "怎么了？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "请你看一下那台机械！\n里面放了好多赛马娘的toy！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我往大树快车指示的方向看去，\n那里有一台装有赛马娘主题玩偶的夹娃娃机。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "上面写着“哒哒玩偶”！\n呵呵呵，真是cute耶！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "当成伴手礼送给我在美国的littel sisters，\n她们一定会很开心的！",
+            "ChoiceDataList": [
+                "好，我来夹！",
+                "好，我来夹！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "哇喔！真的吗！？\nThank you！我很期待喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──这个挑战，不能失败！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

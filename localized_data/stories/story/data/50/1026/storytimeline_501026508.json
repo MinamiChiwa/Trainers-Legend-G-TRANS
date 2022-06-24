@@ -1,0 +1,49 @@
+{
+    "Title": "参赛的疲劳",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我和美浦波旁才刚开始进行训练……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "呼……呼……\n确认到……负面状态“倦怠感”……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "并未检测到……身体部分的损伤。\n推测这是……比赛导致的轻度疲劳。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "──问题轻微。可继续执行训练。\n将依照排程继续练跑。",
+            "ChoiceDataList": [
+                "不要勉强，今天就先这样吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "…………知道了。\n很抱歉没有完成指示。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "为了就算疲劳也想勉强进行训练的波旁着想，\n或许该重新审视一下参赛排程……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

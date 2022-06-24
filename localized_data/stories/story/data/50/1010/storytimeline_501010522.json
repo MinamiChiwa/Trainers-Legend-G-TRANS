@@ -1,0 +1,43 @@
+{
+    "Title": "肤况不太好……",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "昨天大树快车约我到\n购物中心去买化妆品──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "这里果然没卖吗？\n一定要那个才适合耶……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "呜呜……再这样下去，我的肌肤就要变成\nwild west的desert了……！",
+            "ChoiceDataList": [
+                "哪里有卖呢？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "Well……\n目前我在日本没看过。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "唉……只能等family帮我寄来了吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

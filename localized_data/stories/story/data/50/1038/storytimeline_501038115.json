@@ -1,0 +1,447 @@
+{
+    "Title": "可爱的计划……？",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "“致亲爱的哥哥。\n关于今后的发展，我有重要的事情要说。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "“致亲爱的姐姐。\n关于今后的发展，我有重要的事情要说。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "详情请看我下一封讯息。\n明天十一点，我等你。真机伶”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我在晚上突然收到了这样的讯息。\n字里行间透露着相当严肃的感觉……\n是要找我讨论有关古马级的事吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "古马级"
+            ]
+        },
+        {
+            "Name": "独白",
+            "Text": "不对，她可是真机伶啊。\n也有可能是跟比赛完全无关的事情。\n我在摸不着头绪的状态下迎来了隔天──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "──谢谢哥哥来赴约。\n事不宜迟，我所说的重要的事情……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "──谢谢姐姐来赴约。\n事不宜迟，我所说的重要的事情……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "因为就快要晋升古马级了，\n真机伶搜集了即将面临到的对手们的情报，\n想要跟你报告。",
+            "ChoiceDataList": [
+                "（结果真的是跟比赛有关的事情……！）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "真机伶一改常态地认真。\n我想着自己也该严谨面对，\n便打起精神调整了坐姿。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "那我现在就把搜集到的情报告诉你吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "哥哥如果有发现什么也要立刻告诉我哦。\n那就──开始吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "姐姐如果有发现什么也要立刻告诉我哦。\n那就──开始吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "真机伶把带来的平板放在桌上\n开始播放她自己剪辑的影片……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "微光飞驹",
+            "Text": "“呀啊！！！”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "微光飞驹",
+            "Text": "“燃烧真心的正义之火！\n在危机时及时出现打击罪恶！\n微光飞驹登场！”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "微光飞驹"
+            ]
+        },
+        {
+            "Name": "真机伶",
+            "Text": "──她叫做微光飞驹。根据我的调查，\n她似乎打算参加明年的“高松宫纪念”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "这也代表她是真机伶近期将碰上的对手。\n然后──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "微光飞驹",
+            "Text": "“那么大家！今天也要开心地！\nLet's──”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "微光飞驹",
+            "Text": "“Umatok！！”",
+            "ChoiceDataList": [
+                "（！？）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "没有错，小光的主战场是Umatok。\n专门拍摄一些跟特摄动画有关的短片，\n很受小朋友跟动画粉丝的欢迎。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "小光"
+            ]
+        },
+        {
+            "Name": "真机伶",
+            "Text": "算是“特摄系Umatok网红”吧……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "“……啊，已经开始了吗？”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "“每日菱曙！\n好吃又大分量的东西最棒了♪\n我是菱曙哦～♪”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "菱曙"
+            ]
+        },
+        {
+            "Name": "真机伶",
+            "Text": "──她叫做菱曙。\n是真机伶的朋友，很会做料理。\n她利用这个专长……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "“今天的UG直播要来做大家要求的\n可爱花朵造型蛋糕哦♪”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "她做的大分量可爱蛋糕有着细腻的装饰，\n也有做过火锅类的料理影片，人气很高。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "上次一起参赛的小花，主要做的是\n小巧精致的便当类，菱曙则是什么都做。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "菱曙"
+            ]
+        },
+        {
+            "Name": "真机伶",
+            "Text": "目前作为“料理系UG网红”\n开创了新领域。接着──",
+            "ChoiceDataList": [
+                "等、等一下等一下"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "好哦──先暂停～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "好了，请说吧。",
+            "ChoiceDataList": [
+                "这到底是……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "？\n我不是说了这是对手的情报吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她的确是有这么说没错……\n但感觉只是在跟我介绍特雷森学园里\n在社群平台拥有高人气的赛马娘而已。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "没什么问题的话我就继续播放了──♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "“Howdy！\n大家哈咯──！我是大树快车！”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "大树快车"
+            ]
+        },
+        {
+            "Name": "真机伶",
+            "Text": "──她叫做大树快车。\n是非常活泼开朗的“日常系Umatube网红”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "“今天要给大家看的是非常刺激的\n临时烤肉派对！”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "“我收到了很多my home送来\n很big的牛排！我要在blue sky下烤肉！”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "她上传了很多能够突显她潇洒爽朗个性的\n活力充沛又热闹的日常生活影片。\nUmatube上无论男女老少都很喜欢她。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "“大、树……！就说不准在学园里烤肉了，\n到底要讲几次你才明白啊！！”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "大、树"
+            ]
+        },
+        {
+            "Name": "大树快车",
+            "Text": "“哎呀，随即就出现了一位嘉宾！\n大家也对她很熟悉了吧。\n没错，她就是气槽！”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "“别擅自把我当成来宾！！”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "“呃……绝．对．不．可．以．\n违反！校规！哦……”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "“好了！！上传结束！\n啊──哈哈──！这样就完美了！”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "“我真是个优秀的班长啊！\n不仅平常就勤奋地做班长的工作……”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "“竟然每天都像这样在Umatter上宣导校规！\n真不愧是我！太了不起了！根本荣誉班长！”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "──这位做完自我介绍的，\n就是“学级系班长”樱花进王。",
+            "ChoiceDataList": [
+                "（学级系班长？）"
+            ],
+            "ColorTextInfoList": [
+                "樱花进王"
+            ]
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "“……哎呀，立刻就有通知了！\n是学生们被我的贴文感动到来称赞我吗！？”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "“呃！贴文内容打成\n‘绝对可以违反校规！’了～！？\n不小心没看清楚就上传了啦！！”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "进王惊人的错字、漏字，\n还有各种脱线的发言，\n是不容小觑的Umatter网红。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "进王"
+            ]
+        },
+        {
+            "Name": "真机伶",
+            "Text": "……大概就是这样了吧，\n这些就是我的对手了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "真机伶最在意的，\n应该还是同为UG网红的菱曙吧。",
+            "ChoiceDataList": [
+                "……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "哥哥？",
+            "ChoiceDataList": [
+                "跟比赛有关的部分呢！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "姐姐？",
+            "ChoiceDataList": [
+                "跟比赛有关的部分呢！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "奇怪，哥哥难道没有发现吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "奇怪，姐姐难道没有发现吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "把刚刚提到的这群人摆在一起……\n没有发现到什么吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……刚才提到的人有微光飞驹、菱曙、\n大树快车、樱花进王。\n她们的共通点是……",
+            "ChoiceDataList": [
+                "全都是跑短距离路线的！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "正确答案♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "这对真机伶来说很刚好，\n她们不只在UG、Umatter、\nUmatok很有人气……也是短距离的强者。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "再加上真机伶的话……\n感觉话题热度要超越打比、\n天皇赏和有马纪念也不是梦了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "天皇赏"
+            ]
+        },
+        {
+            "Name": "真机伶",
+            "Text": "不对，应该说，真机伶一定会实现这件事！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "在最有人气的舞台中获胜的人……\n一定就会成为“最可爱的赛马娘”吧♪",
+            "ChoiceDataList": [
+                "也就是说？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "──明年我要跟她们所有人竞争哦，哥哥！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "──明年我要跟她们所有人竞争哦，姐姐！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "细节我还在着手准备！\n晋升到古马级也会有很多好玩的事\n好～好期待吧♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "真机伶似乎正在盘算着什么……\n这一整天下来，让我觉得必须要有\n处变不惊的觉悟。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

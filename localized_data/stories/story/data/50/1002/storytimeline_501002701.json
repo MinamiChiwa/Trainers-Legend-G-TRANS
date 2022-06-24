@@ -1,0 +1,57 @@
+{
+    "Title": "充分休息！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "今天很早就醒来了，\n于是我享受着早上清爽的空气前往学园──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "啊，早安，训练员。\n是个很棒的早晨呢。",
+            "ChoiceDataList": [
+                "你的状况似乎不错呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "是的，或许是因为昨天有好好休息，\n还做了个好梦……",
+            "ChoiceDataList": [
+                "是怎样的梦呢？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "这个嘛，\n我在梦里化成一阵风，奔驰在大草原上……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "身体像空气一样轻盈，\n感觉自己能飞到任何地方。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "呵呵……今天似乎也能像风一样奔跑。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "无声铃鹿的身心都得到了充分的休息，\n整个人充满了干劲。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

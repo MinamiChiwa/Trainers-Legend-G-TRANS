@@ -1,0 +1,496 @@
+{
+    "Title": "万有一失",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "在我们下定决心\n参加“宝冢纪念”之后──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "呼……呼……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "行人A",
+            "Text": "啊，是米浴耶！\n加油～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "行人B",
+            "Text": "粉丝投票我有投给你！\n一定要拿下第一名喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "啊哇！？谢……谢谢大家！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "呼……差不多\n该休息一下了吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街的阿姨",
+            "Text": "哎呀，你是不是……米浴啊？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "是、是的！是米浴没错……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街的阿姨",
+            "Text": "哎呀！在这吃完可乐饼再走吧！\n我家孩子是你的粉丝呢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "呼、呼欸欸！？可以吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "嘿嘿……\n发生这么多让人高兴的事……真的可以吗？",
+            "ChoiceDataList": [
+                "你也付出了同等的努力嘛"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "是、是这样吗……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "啊啊，我刚刚在找你们两位呢！",
+            "ChoiceDataList": [
+                "怎么了吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "是这样的！\n刚才我收到来自阪神赛场的联络……！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "“粉丝支持度投票”的结果，\n米浴遥遥领先其他选手！\n所以赛场希望米浴务必能参加开幕典礼！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "……咦咦咦咦咦咦咦！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "明天立刻就要进行开幕典礼的彩排，\n所以──",
+            "ChoiceDataList": [
+                "请、请等一下！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "……啊哇哇。米浴是……\n支持度第一名？开幕典礼？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "大、大哥哥……\n可以捏一下米浴的脸吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "大、大姐姐……\n可以捏一下米浴的脸吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "这一定是在做梦……",
+            "ChoiceDataList": [
+                "不是在做梦喔",
+                "不是在做梦喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "啊、啊哈哈……不好意思。\n我似乎也有点太兴奋了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "详情都汇整在文件内，\n之后再请你们确认并讨论一下。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "那么我先失陪了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "…………天哪。\n大家竟然，支持米浴……",
+            "ChoiceDataList": [
+                "去参加典礼吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "……嗯！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是隔天──\n我和米浴一起来到了阪神赛场。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "工作人员A",
+            "Text": "米浴小姐！\n接下来要跟你确认献花时站的位置──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "好、好滴～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "工作人员B",
+            "Text": "啊，那边讨论完后，\n这边也要麻烦你确认一下──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "啊哇哇……知道了～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "……呼啊……",
+            "ChoiceDataList": [
+                "稍微休息一下吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "……嘿嘿，不要紧的。\n因为……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "工作人员C",
+            "Text": "不好意思，米浴小姐！\n这边想再麻烦你协助调整一次麦克风……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "好、好的！立刻过去！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "……如果能让大家露出笑容，\n米浴想努力到最后。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "所以，还请大家……多、\n多多支持了！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "工作人员A",
+            "Text": "好了，OK！！\n今天的彩排到此为止～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "……呼……总算，\n结束了……呢。",
+            "ChoiceDataList": [
+                "还好吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "唔、嗯……没事的。\n虽然有很多事情，都是第一次经历……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "但想到之后正式举办时，大家会聚在这里。\n……想到自己如果真的能够帮上忙。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "就一点都不觉得累了。\n反而变得想要……更加、更加努力。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "工作人员B",
+            "Text": "啊，米浴小姐～！\n你好像有东西忘在后台喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "哇啊！？对、对不起！\n米浴立刻去拿……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "呀！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "（啪叽……啪叽啪叽啪叽……喀……！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "工作人员C",
+            "Text": "咦，为什么！？门要倒了──\n米浴小姐，小心──",
+            "ChoiceDataList": [
+                "米浴……！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "（──啪当……！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "大、大哥哥！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "大、大姐姐！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "呜呜……呜呜……\n大、大哥哥……",
+            "ChoiceDataList": [
+                "这里是──"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "呜呜……呜呜……\n大、大姐姐……",
+            "ChoiceDataList": [
+                "这里是──"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "大、大哥哥！大哥哥！！\n还好吗！？有没有哪里会痛──！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "大、大姐姐！大姐姐！！\n还好吗！？有没有哪里会痛──！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "……看来我为了保护米浴，\n结果被东西打到头了。",
+            "ChoiceDataList": [
+                "应该不要紧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "真、真的吗！？\n可……可是要去医院──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "工作人员A",
+            "Text": "啊，太好了！！你终于醒来了！\n救护车很快就会到！",
+            "ChoiceDataList": [
+                "谢谢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "工作人员A",
+            "Text": "别这么说！我们才要向你道歉。\n没想到门居然会突然那样倒下……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "工作人员A",
+            "Text": "……真的非常抱歉。\n我们会陪你一起到医院去的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "之后我在医院接受检查──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "工作人员A",
+            "Text": "……原来如此。\n虽然还需要一段时间观察，\n但大致上没有大碍……",
+            "ChoiceDataList": [
+                "抱歉让你们担心了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "工作人员A",
+            "Text": "不，这件事情是我们不好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "工作人员A",
+            "Text": "另外就是……\n还有一件事必须向你们道歉。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "可……可是大家，\n都已经道歉很多次了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "工作人员A",
+            "Text": "──我们刚刚接到通知，\n这次的典礼还有宝冢纪念，\n都决定不在阪神举办了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "……！",
+            "ChoiceDataList": [
+                "……这是怎么回事？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "工作人员A",
+            "Text": "其实……这次在围场发生这种意外，\n目前我们还没有找到出事的原因。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "工作人员A",
+            "Text": "而且还有人因此受伤，\n我们有必要对整个赛场进行全面检查。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "工作人员A",
+            "Text": "包含检查和修缮作业，\n应该会需要三周以上的时间。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "这样的话，\n会赶不上“宝冢纪念”……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "工作人员A",
+            "Text": "是的。\n我们每天都致力于不让任何意外发生……\n但这样的状况真的是前所未有……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "工作人员A",
+            "Text": "……对两位、\n还有期待举办“宝冢纪念”的人们，\n我们真的非常过意不去……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "从来都没这样过，\n却因为米浴来了，就突然发生……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "……该不会是米浴……害的？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "她那细微的声音，\n不知为何回响得特别清晰──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

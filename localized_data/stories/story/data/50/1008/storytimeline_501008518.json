@@ -1,0 +1,64 @@
+{
+    "Title": "注意突如其来的大雨",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "天空突然乌云密布，下起了激烈的大雨。\n刚刚的晴朗天气就像是一场梦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "真是的，怎么回事啊！练跑到一半突然下雨。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "我本来还想多跑一阵子的，真是倒楣。",
+            "ChoiceDataList": [
+                "还是快点换掉衣服吧？",
+                "快点换掉衣服吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "嘿嘿，没问题的啦。\n这点程度放着不管自然会干。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "你真的很爱操心呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "……哈啾！",
+            "ChoiceDataList": [
+                "你看！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "只、只是凑巧打喷嚏啦！\n我才不会淋一点雨就感冒呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "虽然她嘴上逞强，但接下来好几天，\n伏特加的身体状况都不是很好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

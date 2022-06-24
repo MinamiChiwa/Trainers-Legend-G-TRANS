@@ -1,0 +1,46 @@
+{
+    "Title": "临阵抖擞",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "比赛前，我来到休息室，\n发现气槽正微微发抖。",
+            "ChoiceDataList": [
+                "你很紧张吗？",
+                "你很紧张吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "哼，紧张……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "蠢蛋，正好相反。\n我可是愉快得很啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "因为这样我就更加能证明……\n自己足以成为世上所有赛马娘的典范了。",
+            "ChoiceDataList": [
+                "绝对要跑赢！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "不用你说……我会让你看到“女帝”的表现，\n擦亮眼睛看着吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

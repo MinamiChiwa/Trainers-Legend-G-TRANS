@@ -1,0 +1,50 @@
+{
+    "Title": "家事很辛苦！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "唉……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "训练员……抱歉，\n我可以稍微在这里休息一下吗？",
+            "ChoiceDataList": [
+                "身体不舒服吗？",
+                "身体不舒服吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "不是的……昨天我朋友拜托我，\n帮忙做一直累积没做的家事……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "所以我从一大早就开始洗衣打扫……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "虽然做得很开心，但量比想像中还要多……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "呵呵……或许是我做得太起劲了吧……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

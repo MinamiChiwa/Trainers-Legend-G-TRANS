@@ -1,0 +1,55 @@
+{
+    "Title": "不服输",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "再过不久就要开始训练了。\n当我正在寻找草上飞时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "唔～没办法顺利投进去……\n是不是手腕的施力方式不对呢……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "啊……训练员，不好意思。\n训练的时间快到了吗？",
+            "ChoiceDataList": [
+                "你在做什么呢？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "我正在进行罚球特训。\n因为我答应要跟班上的同学们比篮球……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "无论是什么比赛，只要决定参加了，\n我就不想输。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "……不好意思，\n距离训练开始应该还有五分钟吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "由于直到训练开始的前一刻，\n草上飞都不断地在练习罚球，\n因此体力消耗得比平常还要多的样子。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

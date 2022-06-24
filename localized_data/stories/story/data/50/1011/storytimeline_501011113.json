@@ -1,0 +1,526 @@
+{
+    "Title": "“怪物二世”",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "这件事发生在我们正在准备出道战的某一天。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "为了做好准备，\n我比草上飞早了一步来到操场──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "呼……这样就好了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "嗯，暖身完毕♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "那就──出发吧！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "踩着轻盈的步伐飞奔出去的，\n是拥有许多别名的赛马娘──丸善斯基。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "丸善斯基"
+            ]
+        },
+        {
+            "Name": "",
+            "Text": "我在电视、杂志与网络报导\n看过好几次她的名字，她的表现果然……\n只能以“无人能敌”形容。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "呼、呼……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "呵呵，跑得好舒服～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "为了方便区分，\n大家将她的脚质分类在“领头”，\n不过她本人恐怕并不觉得自己是在“抢先”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "整场比赛从头到尾都没有一个人可以超越她。\n原因很单纯，就是她“速度太快”了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "我还可以……再冲得更快！！",
+            "ChoiceDataList": [
+                "（她的脚力真是太惊人了……！）",
+                "（她的脚力实在太惊人了……！）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "那惊人的跑步速度，\n确实与“怪物”之名十分相符呢。",
+            "ChoiceDataList": [
+                "草上飞！原来你到啦",
+                "草上飞！原来你到了呀"
+            ],
+            "ColorTextInfoList": [
+                "怪物"
+            ]
+        },
+        {
+            "Name": "草上飞",
+            "Text": "是的，我刚抵达不久。\n准备已经就绪，随时都可以开始训练喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "……没有时间赞叹她的表现了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "让我们审慎地深入研究该怎么做吧。",
+            "ChoiceDataList": [
+                "你说得对……！",
+                "你说得没错……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "草上飞熊熊燃起坚定的斗志，\n就连面对“怪物”也丝毫不退却。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我再次下定决心，\n一定要尽自己所能让她爬上顶点。\n而那一天我们也进行了训练……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "某一天──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "草上飞与同期出道的赛马娘一起\n参加了某场模拟赛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "呼啊、唔……！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "哇哇……\n小、小草的加速好惊人……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "哎唷～好吓人好吓人。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "小草露出“追上了！”的表情时，\n让人最不想与她为敌呢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "会吗？\n她那个样子会让我更有斗志唷！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "……小鹰有时还满M的呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "你说什么！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "剩下不到200米！\n小草领先了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "呼、呼、呼……！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "草上飞持续将其他人抛在后头，\n最后以第一名抵达终点。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "草地1600米，纪录为1分34秒……\n这么优异的成绩，\n实在让人难以相信她还只是新马级的赛马娘！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "新马级"
+            ]
+        },
+        {
+            "Name": "",
+            "Text": "来模拟赛取材的媒体们，\n也因为草上飞的耀眼表现而骚动不已。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "哦哦哦哦！太棒了……！！\n我记得她叫做……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "她叫草上飞。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "新锐赛马娘的模拟赛能让各位感到满意，\n这是我们的荣幸。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "喔喔，鲁道夫象征小姐！\n太好啦，我拍到了不少好照片！！\n尤其是最后的那女孩……！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "鲁道夫象征"
+            ]
+        },
+        {
+            "Name": "记者A",
+            "Text": "你是否也认为，\n这一代有不少值得期待的选手呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "是呢。当然，无论哪位赛马娘\n都是前途有望的，不过──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "以神鹰为例，\n她气势雄伟地以“世界最强”之名登场，\n不停追求名实相符的样子也充满了魅力。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "以青云天空为例，平常虽然不起眼，\n但是只要站上赛场，就会摇身一变，\n成为活用各种手法夺取胜利的高超奇术师。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "以特别周为例，\n纵使她似乎还不习惯新的环境，\n我却能从她的尾段加速感受到不凡之处。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "原来如此，原来如此！\n不管哪一位都是最近颇有名气的赛马娘呢～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "是啊。\n再来，以草上飞为例……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "啊！你说的是刚才那位赛马娘吧！？\n对了对了，你对她有什么看法呢……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "她在跟“朝日杯FS”相同的\n草地1600米竞赛中拿下了\n1分34秒的好成绩！这不是会让人──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "朝日杯FS"
+            ]
+        },
+        {
+            "Name": "记者A",
+            "Text": "直接联想到那位\n“怪物”丸善斯基的传说吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "是啊……没错，神奇的是她跑出的成绩\n也与丸善斯基创下的纪录相同。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "没错没错！所以……！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "说草上飞是丸善斯基的接班人……\n就算说她是“怪物二世”也不为过对吧！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "怪物二世"
+            ]
+        },
+        {
+            "Name": "草上飞",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "小草～！辛苦你了！！\n你的记录好厉害唷……！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "……小草？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "咦？嗯嗯……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "……小特，谢谢你。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "哦……“怪物二世”吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "是啊是啊！今天看她赛跑的模样，\n应该也有不少记者有相同的感觉喔！\n我想大家迟早会怀抱着期待这么称呼她！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "提起丸善斯基小姐，光是听到那名字，\n脑中就会浮现出她所创下的无数传说，\n简直就是无人能敌～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "偷偷跟你说，其实我也是\n被“超跑”的魅力吸引的赛马娘粉丝喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "超跑"
+            ]
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "让我想想……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "战无不胜，出道开始不过才比了八场比赛，\n与第二名的名次差就累积到61马身。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "她的表现可以说是“一枝独秀”，\n也让其他赛马娘对她感到深深敬畏……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "到了最后，\n多数的赛马娘只要在参赛名单看见她的名字，\n便会拒绝出赛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "没错没错！\n过去也曾因参加者太少，导致比赛差点办不成！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "哎呀，虽然比赛办不成会出问题……\n但是她参加的每场赛事选手数都在十人以下，\n就算说是传说也不为过！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "因为这样，我们才称她为“怪物”……\n而草上飞小姐也让我们感到格外惊艳！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "……嗯。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "她目前还没出道……\n不，她在接受签约前就有如此惊人的实力！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "而且她的沉稳甚至可以说是一种从容！\n比赛获胜时也展现出压倒性的实力差距！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "她确实是丸善斯基级的赛马娘！\n我认为她有资格被称作“怪物二世”！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "原来如此。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "……就像我刚才举的例子，\n我也对草上飞有所寄望。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "不过──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "小草，接下来你要回宿舍吗？\n不介意的话，我们一起──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "不……小特，抱歉。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "我打算去健身房～\n那我先告辞咯。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "咦……咦！？\n你现在要去健身房！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "不过──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "我对她会有所寄望，\n是因为她展现出“坚定不移”的意志，\n并且以顶点为目标前进。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "……“怪物二世”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "以前辈的实力来看，\n能够得到这个称号我应该觉得光荣。不过……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "“二世”并不是“顶点”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "……一点都不值得高兴。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

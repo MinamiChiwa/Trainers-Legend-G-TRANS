@@ -1,0 +1,513 @@
+{
+    "Title": "抽奖试手气！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "某天傍晚。当我们在商店街采购完毕，\n正走在路上时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "训练员，\n对面聚集了好多人喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "会不会是业余摔角手在比赛啊？\n我想临时加入他们──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "那当然是不可能的。\n我们靠近一看后──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "看过来看过来，现正举办新春大抽奖～！\n特等奖可是“温泉旅游券”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "温泉旅游券"
+            ]
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "一奖是“特等胡萝卜汉堡排”，\n二奖是“一整堆胡萝卜”，\n三奖则是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "那边那位戴着面罩的女孩子！\n要不要来试试手气啊～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "喔喔喔！\n我要、我要、我当然要！\n虽然我不知道要做什么！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我大致解释了抽奖的意思。抽奖指的就是\n“使用抽奖券参加的抽签活动”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "喔喔，抽奖券！这么说来\n我刚才的确拿到了一张！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "没想到那竟然是\n用在这里的参赛票券啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "既然如此，训练员，\n我们一起挑战吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "机会只有一次……！\n我们会以合体技取得胜利，还是自爆呢！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "预备──Olé！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我们两人一起握住握把，\n用力转动了抽奖机。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "结果──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "天啊！恭喜────！！\n抽到特等奖“温泉旅游券”了～～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "神鹰",
+            "Text": "嘎！？这难道……是大胜利吗！？\n温．泉．旅游券！！！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "也就是说，\n我可以和某个人一起去！？",
+            "ChoiceDataList": [
+                "太好了呢，你可以自由使用喔",
+                "太好了呢，你可以自由使用喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "Bueno──！\n那么，要和我一起去的人是……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "小草小草小草──！\n我们一起去温泉旅行……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "──不，不对不对不对！\n这时应该要好好思考才对……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "我想还是不要邀请小草\n会比较好呢……",
+            "ChoiceDataList": [
+                "为什么呢？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "那是因为！！\n神鹰可以预料到！预料得到！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "神鹰兴奋地在浴池里啪唰啪唰地游玩。\n但是小草不会配合，反而会责备神鹰！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "神鹰在房间里玩摔角游戏，\n然后被小草骂！\n神鹰玩枕头大战的时候也一样！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "小鹰鹰所追求的温泉旅行，\n和小草追求的情景，\n完全、彻底、一点都不吻合！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "因为小草是个文静温和，\n深爱日本文化的大和抚子。",
+            "ChoiceDataList": [
+                "那你打算怎么做？",
+                "那你打算怎么做？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "神鹰要找别人。要找一个就算神鹰大吵大闹\n也不会生气，可以一起吵闹的人……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "喔喔喔，这里就有个最适合的人选！\n训练员，我们一起去吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "如果和神鹰一起去，\n就可以泡温泉泡到爽、\n吃饭吃到肚子撑破、尽情决斗了喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "这几句话都跟安宁无缘。\n而且更让我在意的是……",
+            "ChoiceDataList": [
+                "在赛季时去泡温泉不会有问题吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "嘎？赛季时？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "啊，说得也是呢……\n如果吃得肚子鼓鼓地回来……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "就没办法在赛场上飞行了。\n会变成在赛道上滚来滚去的兀鹰……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "我知道了！\n那等闪耀系列赛告一段落，\n我们都闲下来时再去吧！",
+            "ChoiceDataList": [
+                "OK，那样就可以",
+                "嗯，那样就可以"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "喔喔喔！\n那我们约好了，一言为定，不准食言喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "我现在更有干劲了！\n为了当作奖励的温泉旅行，\n我会好好努力──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是温泉旅游券就这样暂时收起来了。\n神鹰又多了一个目标，\n士气更加高昂了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "恭喜抽到一奖～！\n奖品是“特等胡萝卜汉堡排”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "神鹰",
+            "Text": "喔喔喔，一奖！虽然不是特等奖，\n但我们也拿到了非常棒的奖品喔──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "“特等胡萝卜汉堡排”。\n而且还可以自由调理，这怎么可能不兴奋呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "我会用训练员喜欢的方式调味，\n和你一起享用！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "看来神鹰似乎打算\n自己动手调理。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "咳咳，欢迎来到Ristorante．小鹰鹰。\n您想选择哪种煎法呢？",
+            "ChoiceDataList": [
+                "有哪些煎法呢？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "您有两种可以选择──！\n“几乎是生的”和“超轻度炙烧”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "酱汁也有三种可以选择！",
+            "ChoiceDataList": [
+                "……有什么口味？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "“辣椒酱”、“芥末酱”和\n“哈瓦那辣酱”──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "……这间餐厅简直是地狱。",
+            "ChoiceDataList": [
+                "总、总之就不要浪费地吃下它吧……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "就是说啊！这样体力就会十分充足，\n今年也能好好加油了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "神鹰拿到了营养价值很高的奖品，\n十分满足。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "二奖～！！\n奖品是“一整堆胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "神鹰",
+            "Text": "喔喔，虽然不是特等奖！\n不过是大量、丰收，胡萝卜素之海呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "而且只要使用这堆胡萝卜，\n好像也可以进行最棒的训练！",
+            "ChoiceDataList": [
+                "你要怎么使用啊？",
+                "你要怎么使用呢？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "首先把这些胡萝卜全插在神鹰的面罩上！\n要一字排开！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "然后就这样去训练赛道奔跑，\n想吃胡萝卜的小特就会追上来了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "那我出发咯，chao！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "太扯了，哪有可能发生那种事。\n我跟在她后头前去查看后……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "啊啊啊！好多胡萝卜～！\n等等我啊──小鹰──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "……竟然跟她料想的一样。\n等到要吃的时候也分给特别周一根好了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "三奖～！\n奖品是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "神鹰",
+            "Text": "神鹰大受打击！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "这……实在太震惊了……\n我想要的是更特殊的东西啊……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "既然如此，就赌上一根胡萝卜\n来对决吧──！小鹰鹰vs抽奖大叔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "我们来猜拳，要是神鹰赢了，\n请把奖品换成温泉♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "那、那不管怎样都是不可能的……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "──交涉失败。结果神鹰只好沮丧地\n把抽到的那一根胡萝卜带回家。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "很可惜，没抽中！\n参加奖是“卫生纸”喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "神鹰",
+            "Text": "唔喔──！鼓起干劲抽签的结果\n竟然是这个──！？Goddamn！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "不过，训练员，\n这并不是普通的卫生纸！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "既然是世界最强的小鹰鹰抽到的，\n那就是“世界最强的卫生纸”了♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "不过，卫生纸还是卫生纸就是了啦──！！\nGoddamn！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "不管再怎么努力，商品都不会因此升级。\n待会再拿那个卫生纸来擤鼻子吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

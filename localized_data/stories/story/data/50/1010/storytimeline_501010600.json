@@ -1,0 +1,43 @@
+{
+    "Title": "临阵抖擞",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "开赛前，我来察看大树快车的状况……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "OK. On the 4th corner,\nI'll gear up……and──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "──Oh，训练员！\n真是的，进房来要打声招呼啦！",
+            "ChoiceDataList": [
+                "抱歉，因为我看你好像很专心"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "呵呵，of course！\nCowgirl就是会在决斗前集中精神的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "看我在赛场上也来露一手\n德州学到的quick draw吧！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

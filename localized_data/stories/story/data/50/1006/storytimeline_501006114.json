@@ -1,0 +1,422 @@
+{
+    "Title": "敬告各大媒体",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "小栗帽不断参加比赛。\n粉丝渐渐增加的她，\n收到了一项邀约……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "──原来如此，采访啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "小栗帽近期的活跃似乎也在记者之间\n成了话题。作为备受期待的赛马娘，\n她收到了许多采访邀请。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "这是一举提高小栗帽人气的大好机会。\n一定要接受采访。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "感觉好久没被采访了呢。\n在故乡的时候，每次出赛都会有采访。",
+            "ChoiceDataList": [
+                "那么你应该很拿手？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "不，完全不拿手。\n因为我不太会说话。",
+            "ChoiceDataList": [
+                "要拒绝也没关系"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "不擅长面对采访的话，用不着勉强接受。\n我这么认为并向她提议……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "……不，我想接受采访。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "如果能答得很好，\n说不定可以让大家认同我。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "我认为……现在正是该努力的时候。\n嗯，我要接受采访。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "看见她逞强的样子让我有点担心，\n不过毕竟是小栗帽的意愿，\n所以我接受了所有采访……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "──那么，请告诉我们\n你对比赛有什么期许！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "…………就是，\n我会努力……比赛的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "……那么，今天的采访到此为止。\n谢谢您。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "谢谢。\n……呼。",
+            "ChoiceDataList": [
+                "要休息吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "没关系。只是比平常说了更多话，\n所以有点累了而已。请下一位记者过来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "因为行程上的关系，\n小栗帽连续接受采访。\n即使她显露疲态，目前为止也很顺利。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "她果然是在逞强，\n不过照这状况，采访应该能顺利结束。\n我原本是这么想的……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者B",
+            "Text": "……你就是小栗帽选手吗？\n我是“热胜新闻”的记者。",
+            "ChoiceDataList": [
+                "啊，往这边请"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "请多多指教。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者B",
+            "Text": "──哦，原来如此啊。\n所以你是想为了故乡的大家而努力吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "没错……我想让故乡的大家\n看见我努力的样子……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者B",
+            "Text": "……那你最终目标是什么？\n想参加怎样的比赛？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "呃……那个……\n……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者B",
+            "Text": "……嗯，好。\n我明白了。嗯，这样就够了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "咦……？\n已、已经采访完了吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者B",
+            "Text": "嗯，已经差不多都知道了\n……真是让人提不起劲啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者B",
+            "Text": "我给你一个忠告吧，\n中央可没有简单到光靠努力就能拿下胜利。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "……唉。",
+            "ChoiceDataList": [
+                "你还好吗？",
+                "你还好吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "嗯，我没事。\n我没有在沮丧，只是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "哦哦，我看到咯～\n小栗，那是怎么回事啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "……小玉？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "出现在眼前的，是和小栗帽同寝室的玉藻十字。\n听说她很照顾小栗帽，是很棒的朋友。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "刚才的记者态度也太嚣张了吧～\n还说什么忠告，少在那边鸡婆！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "……在刚才那位记者眼里，\n我看起来一定很没用吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "我说啊～！你真的很傻耶！\n你就甘愿让人家这么说你吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "你不喜欢被人瞧不起吧！？\n很生气吧，很想给对方好看吧！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "啊～你到底在做什么！？\n当个乖小孩什么都拿不到的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "──拿出你的本性，不停赢下去！\n只有这么做才能让大家明白！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "我也是这么做\n才爬到现在这位置的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "玉藻十字比小栗帽还早出道。\n因此也经历了不少辛苦吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "小玉……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "话又说回来，你既然很不会讲话，\n就不要试着把话讲得很好听！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "知道的话就给我安静地去训练！\n我先走了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "玉藻十字宛如一阵暴风似地离开后……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "小玉说的没错。\n我刚才有下意识地想把话讲得很好听。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "但是，那样并没办法表达出我的心意。\n那位记者也是因为那样才受不了吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "……训练员，我有一个请求。\n你可以听我说吗？",
+            "ChoiceDataList": [
+                "当然可以！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "谢谢你。\n那么──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "小栗帽的请求就是，\n希望可以邀请所有申请过采访的记者\n来到记者会现场。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "──谢谢大家来到这边。\n我有一件事想告诉大家。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "…………呼。",
+            "ChoiceDataList": [
+                "（加油啊……小栗帽！）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "希望大家能够……看我奔跑。\n亲眼见识……我的实力。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "我一定不会辜负你们的期待，\n因为我很强。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "我比闪耀系列赛的任何选手……\n都还要强。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "……我说完了。谢谢大家拨空参加。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "记者会开场前跟现在相比，\n气氛明显有所不同。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者C",
+            "Text": "这是在宣战吧？\n小栗帽真不简单……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "得赶快回去写成报导！\n一定能引发话题的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "小栗帽真诚的模样，\n确实打动了人心。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者B",
+            "Text": "……看来那篇报导要重写了。\n真是的，标题就是这个了吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "隔天，各家报社的报纸\n都在标题大大写上了“我很强”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "即使赢得比赛也没引起多少人的注意，\n现在却一口气成为了瞩目焦点。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "小栗帽一定能在\n万众瞩目下大获全胜。\n──好期待下场比赛！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

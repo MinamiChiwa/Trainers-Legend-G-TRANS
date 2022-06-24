@@ -1,0 +1,58 @@
+{
+    "Title": "因头痛而忧郁",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "无声铃鹿从走廊另一头走来，\n看起来不太舒服的样子……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "唔……我的头……",
+            "ChoiceDataList": [
+                "你还好吗？",
+                "你没事吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "啊，训练员。\n我没事，只是有点头痛……",
+            "ChoiceDataList": [
+                "暂时休息一下？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "不，我、我没事……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "反而是跑一跑应该会比较好。\n所以，别让我休息──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "唔……！呜呜……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "无声铃鹿就这样为头痛所苦……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,476 @@
+{
+    "Title": "抽奖试手气！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "傍晚时分。我们采购完不足的训练用品，\n在回去的路上──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "嗯？那边好像很热闹……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "看过来看过来，现正举办新春大抽奖～！\n特等奖可是“温泉旅游券”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "一奖是“特等胡萝卜汉堡排”，\n二奖是“一整堆胡萝卜”，\n三奖则是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "来喔来喔，是好玩的抽奖活动喔！\n任何人都可以来抽喔～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "嗯嗯，抽奖活动吗？这么说来，\n刚才买东西时好像拿到了一张券吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "机会难得，来挑战看看吧？\n那么，训练员──",
+            "ChoiceDataList": [
+                "加油啊，晨光！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "……咦？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "我……我来抽吗？\n不是你抽？",
+            "ChoiceDataList": [
+                "你不愿意吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "不，不是不愿意！\n只是……没有想到这种情况。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "因为这种事情我基本上都是在一旁观看。",
+            "ChoiceDataList": [
+                "……在妹妹身后？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "唔……因为她抽中奖品时的模样，\n实在非常惹人怜爱啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "虽然是她还会怕生，很乖巧的时期啦。\n抽中大奖时，她难得地大声喊著\n“太棒了”……",
+            "ChoiceDataList": [
+                "今天轮到你说“太棒了”",
+                "今天轮到你说“太棒了”喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "唔……要回应你这份期待\n可能有点困难就是了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "琵琶晨光走向抽奖机，\n俐落地转动了把手。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "结果──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "天啊！恭喜你们────！！\n抽到特等奖“温泉旅游券”了～～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "…………咦？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "抽、抽中了……\n抽中特等奖了……！",
+            "ChoiceDataList": [
+                "很厉害嘛！",
+                "真厉害呢！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "嗯、嗯……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "…………\n……",
+            "ChoiceDataList": [
+                "……没事吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "我、我没事。\n只是还有点精神恍惚。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "但居然会抽中特等奖……假设一个抽奖机里\n有300颗珠子，特等奖的珠子──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "只有一颗呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "只用一张抽奖券挑战的我们，\n获得了300分之1的珠子……！？",
+            "ChoiceDataList": [
+                "这表示我们运气很好！",
+                "这表示我们运气很好喔！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "唔、嗯……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "不过，温泉旅游券吗……\n嗯，等过阵子稳定下来后，\n我是想用用看啦……",
+            "ChoiceDataList": [
+                "晨光想要吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "啊。抱、抱歉！你也有权收下它，\n拿去跟别人一起使用呢！\n我怎么会把跟自己去当成前提……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "唉……真糟糕呢。\n看来我的脑袋似乎还无法脱离震惊的情绪。",
+            "ChoiceDataList": [
+                "我都可以喔",
+                "我都可以喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "什么……你的意思是交给我决定吗！？\n唔、嗯……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "那么，等时机成熟再使用。\n等闪耀系列赛结束后，\n再来讨论“谁来如何使用它”吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "……假如彼此都有空的话，\n就到时再说吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "琵琶晨光感觉很宝贝地\n收起了温泉旅游券。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "恭喜抽到一奖～！\n奖品是“特等胡萝卜汉堡排”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "太棒了！训练员！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "呵呵，很厉害对吧，\n我也能抽中一奖──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "……咳咳。我现在明白抽到一奖\n的确会忍不住想跳起来欢呼了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "这份汉堡排是用购买训练用品\n得到的抽奖券抽中的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "那就应该我们两人一起平分才合理吧。",
+            "ChoiceDataList": [
+                "可以吗？",
+                "可以吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "可以喔。只不过，\n我刚才的模样拜托你别说出去。",
+            "ChoiceDataList": [
+                "封口费……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "不、不是！这是请求！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "都这把年纪了，姐姐还因为抽奖这么兴奋，\n要是这件事传入妹妹耳里……\n她也会很难为情吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "跟琵琶晨光约定好后，\n我们两人一起享用了\n胡萝卜汉堡排。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "二奖～！！\n奖品是“一整堆胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "喔喔……这分量真惊人。\n有这么多根的话，暂时不愁没胡萝卜了──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "……但机会难得，可以分享一些出去，\n当作平常的谢礼吗？",
+            "ChoiceDataList": [
+                "也分享给那两人？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "哎呀，我不用说你也知道了吗？\n没错，就是那两人。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "奖券──！！大进──！！\n我在这里──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "谢谢你──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "呵呵，训练员。\n首先是奖券会全速冲过来喔。\n你要小心别跟她撞上……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（砰咚────！！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "训练员！？奖券！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……就这样，\n我们将大量的胡萝卜\n也分享给胜利奖券与成田大进了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "三奖～！\n奖品是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "太棒了！",
+            "ChoiceDataList": [
+                "太棒了呢！",
+                "太棒了呢！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "……嗯、嗯嗯。说得也是，\n虽说是三奖，但能抽中奖品真是太好了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "琵琶晨光把三奖的胡萝卜分成两半，\n我们一人拿到了0.5根。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "很可惜，没抽中！\n参加奖是“卫生纸”喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "什么……卫生纸……！？",
+            "ChoiceDataList": [
+                "真可惜啊",
+                "真可惜呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "……唔、嗯……但是，\n也有挑战过才能理解的事情。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "妹妹没抽中奖品时会垂头丧气，\n虽然我觉得那样也很可爱……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "但原来没中奖的本人，\n心情会这么哀伤呢……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我一边安慰沮丧的琵琶晨光，\n一边离开了商店街……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

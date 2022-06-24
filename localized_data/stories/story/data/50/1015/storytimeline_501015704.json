@@ -1,0 +1,573 @@
+{
+    "Title": "将光辉献给你",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "外出之后在回去的路上，\n好歌剧无意间停下了脚步。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "训练员，\n还记得穿睡衣的小公主吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "穿睡衣的小公主……\n就是那个好歌剧的粉丝，\n从医院溜出来的小女孩吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "明天就是她动手术的日子了。",
+            "ChoiceDataList": [
+                "……不知道该说什么为她加油打气"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "不用想得太复杂。只要明天第一个过去，\n把我的笑容献给她就行了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "然后，到了第二天。\n我跟好歌剧一起去了医院，\n然而──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "医生",
+            "Text": "……不好意思。她现在──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "护士",
+            "Text": "……你还是怕动手术吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "穿睡衣的小女孩",
+            "Text": "噫呜……呜呜……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "……小公主，请你别哭。\n你的眼眸都快和眼泪一起流下来了。\n啊啊，就让我来承受你的悲叹吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "穿睡衣的小女孩",
+            "Text": "好、好歌剧……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "穿睡衣的小女孩",
+            "Text": "呜……呜呜，对、对不起……！\n我有努力，让自己变勇敢……\n可是……我还是……逃走了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "小公主……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "穿睡衣的小女孩",
+            "Text": "我……还是没办法，\n变得像……好歌剧一样……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "……啊啊，小公主。\n那是当然的了。",
+            "ChoiceDataList": [
+                "咦？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "再怎么说我毕竟都是独一无二的存在啊！\n──但是！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "正因为如此，我必须告诉你！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "我的名字是好歌剧！\n是即将成为“世纪末霸王”的人！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "美丽动人的睡衣小公主！不要害怕！\n我知道你很坚强！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "穿睡衣的小女孩",
+            "Text": "好歌剧……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "吾友啊！她的眼泪是否代表了脆弱！\n告诉我其中代表的意义！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "──眼泪的意义。\n虽然她问我问得突然，\n但我知道其中代表的重要意义。",
+            "ChoiceDataList": [
+                "是勇气的证明！",
+                "一定代表了不甘心！",
+                "我想应该是迷惘吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "穿睡衣的小女孩",
+            "Text": "勇气……？可是我哭了耶？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "没错！\n眼泪是用来挺身面对的勇气！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "而不是脆弱……\n是勇于突破现况的心灵象征！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "穿睡衣的小女孩",
+            "Text": "────",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "来吧，挺身面对吧，小公主！\n然后提出挑战！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "挑战那头魔龙！！！！！",
+            "ChoiceDataList": [
+                "咦，魔龙！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "好歌剧在看我……\n看来意思是\n“你得扮演魔龙”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "那头魔龙就是你的脆弱！\n来，亲手与它做个了断吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "穿睡衣的小女孩",
+            "Text": "嗯……好！可是，该怎么做？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "你手中应该有武器才对。\n蕴藏了最耀眼光辉的──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "穿睡衣的小女孩",
+            "Text": "对了！……手镜！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "没错！来，把那面镜子对着魔龙！\n神圣的意念能够击败所有怪物！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "穿睡衣的小女孩",
+            "Text": "好！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "…………\n……龙。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "……魔龙！换你了！",
+            "ChoiceDataList": [
+                "嘎、嘎喔喔喔喔～！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "就这样，\n魔龙被小女孩打倒了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "小公主，你不再需要我当护花使者了吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "穿睡衣的小女孩",
+            "Text": "嗯！我一个人……也可以！\n我不会再逃避了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "好，那么以后再会了。\n惹人怜爱又勇敢的小公主。",
+            "ChoiceDataList": [
+                "……还是好歌剧厉害",
+                "……还是好歌剧厉害"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "不用跟我比没关系。\n你魔龙演得也不错喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "几天后，小女孩寄了一封信来。\n说手术已经顺利结束，要把手镜还给好歌剧。\n然后──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "上面还写着\n“下次会先穿漂亮的洋装，再拿去给你喔”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "嗯，当然了！你的眼泪代表了不甘心与后悔！\n是希望向前迈进之人流下的眼泪！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "所以，你的眼泪才会如此闪闪动人！\n同时挣扎着想掌握希望！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "穿睡衣的小女孩",
+            "Text": "……好歌剧……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "挣扎就是试着迈向未来的坚强！\n来吧，小公主！提出挑战吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "消灭那个黑暗魔王！",
+            "ChoiceDataList": [
+                "黑暗魔王……！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "好歌剧在看我……\n看来意思是\n“你得扮演黑暗魔王”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "黑暗魔王就是你的恐惧！\n让那个试图阻止你前进的人，\n见识你尝试向前迈进的坚强吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "穿睡衣的小女孩",
+            "Text": "嗯……好！可是，该怎么做？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "你手中应该有武器才对。\n蕴藏了最耀眼光辉的──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "穿睡衣的小女孩",
+            "Text": "对了！……手镜！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "没错！来，把那面镜子对着黑暗魔王！\n神圣的意念能够击败所有怪物！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "穿睡衣的小女孩",
+            "Text": "好！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "黑暗魔王啊……看着公主高举的光芒吧！\n现在正是照亮你，为世界带来和平之时！",
+            "ChoiceDataList": [
+                "好、好刺眼啊～"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "呵呵，演得很好喔，\n训练员。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "就这样，\n黑暗魔王被小女孩打倒了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "小公主，你不再需要我当护花使者了吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "穿睡衣的小女孩",
+            "Text": "嗯！我一个人……也可以！\n我不会再逃避了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "呵呵，那么以后再会了。\n惹人怜爱又高尚的小公主。",
+            "ChoiceDataList": [
+                "我成了黑暗魔王啊……",
+                "我成了黑暗魔王啊……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "哎哟，别不高兴嘛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "魔王与霸王同样都是“王”。\n我们应该还满合得来的喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "几天后，小女孩寄了一封信来。\n说手术已经顺利结束，要把手镜还给好歌剧。\n然后──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "上面还写着\n“下次会先穿漂亮的洋装，再拿去给你喔”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "没错，迷惘正是所有生命都要面临的命运！\n小公主！正因为会迷惘、烦恼，\n你才会变得坚强！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "穿睡衣的小女孩",
+            "Text": "会烦恼……所以才会坚强……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "没错！而这会为你开创道路！\n所以跟我不一样也没关系！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "穿睡衣的小女孩",
+            "Text": "我的，道路……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "来吧，挺身面对吧，小公主！\n然后提出挑战！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "打倒那个遮蔽你道路的迷雾魔人！",
+            "ChoiceDataList": [
+                "迷雾……魔人……！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "好歌剧在看我……\n看来意思是\n“你就是迷雾魔人”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "那个迷雾魔人就是你至今的胆怯！\n亲手与他做个了断吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "穿睡衣的小女孩",
+            "Text": "嗯……好！可是，该怎么做？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "你手中应该有武器才对。\n蕴藏了最耀眼光辉的──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "穿睡衣的小女孩",
+            "Text": "对了！……手镜！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "没错！来，把那面镜子对着迷雾魔人！\n神圣的意念能够击败所有怪物！",
+            "ChoiceDataList": [
+                "竟然妄想击败我～？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "穿睡衣的小女孩",
+            "Text": "……呜呜……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "小公主！不要别开眼睛！\n别担心，你一定办得到！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "穿睡衣的小女孩",
+            "Text": "呜……呜呜呜……看我的～！",
+            "ChoiceDataList": [
+                "呜～哇～！这个力量是～！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "就这样，\n迷雾魔人被小女孩打倒了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "小公主，你不再需要我当护花使者了吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "穿睡衣的小女孩",
+            "Text": "嗯！我一个人……也可以！\n我不会再逃避了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "呵呵，那么以后再会了。\n惹人怜爱又诚实的小公主。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "──灿烂的光芒能照耀人们的道路。\n但那条路必须由人们自己去走。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "就像我们的胜利之道，\n也只能由我和你自己走啊……训练员。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "几天后，小女孩寄了一封信来。\n说手术已经顺利结束，要把手镜还给好歌剧。\n然后──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "上面还写着\n“下次会先穿漂亮的洋装，再拿去给你喔”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

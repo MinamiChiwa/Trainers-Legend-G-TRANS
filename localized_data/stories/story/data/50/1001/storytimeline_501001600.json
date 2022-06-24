@@ -1,0 +1,38 @@
+{
+    "Title": "临阵抖擞",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "吸……呼……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "……耶嘿嘿，果然参加比赛还是会紧张呢。\n早上开始，心脏就一直跳得很快。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "不过，只要获胜就能离日本第一的\n赛马娘这个目标更近一步。\n一这么想，就觉得也有点期待。",
+            "ChoiceDataList": [
+                "尽全力好好去跑！",
+                "尽全力好好跑吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "是！我出发了！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

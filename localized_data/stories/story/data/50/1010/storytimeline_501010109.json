@@ -1,0 +1,271 @@
+{
+    "Title": "圣诞节",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "今天是圣诞节。就在特雷森学园的\n赛马娘们开心地过节时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "特雷森学园"
+            ]
+        },
+        {
+            "Name": "大树快车",
+            "Text": "训练员，请你帮帮我！",
+            "ChoiceDataList": [
+                "怎么了？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "Later再解释！我们赶快过去！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "大树快车慌慌张张地\n带我来到美浦宿舍的餐厅。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "菱亚！\n我找来了一个非常可靠的帮手！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "原来帮手是指训练员吗！？\n宿舍禁止学生以外的人员出入耶！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "Oh，是这样吗？可是菱亚，\n你说“忙得不可开交，连猫都想找来帮忙”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "虽然他不是猫，\n但训练员愿意协助我们！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "唔唔唔……没办法了。\n好，我就准许他来帮忙吧！",
+            "ChoiceDataList": [
+                "什么意思……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "今天是圣诞节！所以我们想给宿舍的\n大家来一场surprise的派对！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "因为她说“想借用餐厅”，\n知道理由之后我也不能袖手旁观了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "只是，光我们两个似乎有点太拼，\n完全忙不过来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "就是这样，\n训练员也support please！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "看来她们是为了让赛马娘们开心，\n而想到了派对这个主意。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "想让大家都高兴，\n这个请求很有大树快车的风格。",
+            "ChoiceDataList": [
+                "我愿意帮忙"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "呀呼！Thank you啦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "那我们来准备派对吧！\n烤肉就包在我身上！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我就这样突然被卷入一场派对，\n但不枉费我们费心准备──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "大树前辈！谢谢你准备了这么棒的派对！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "大树"
+            ]
+        },
+        {
+            "Name": "大树快车",
+            "Text": "小草！你有很enjoy吗？\n请你要玩得开心点喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "这些东西都好delicious！\n大树前辈，你好厉害！了不起！Amiga！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "姑且不提调味，我对烤肉很有自信！\n每次办烧烤大会我都会被称赞！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "赛马娘们享受着派对的乐趣。\n她们脸上的笑容从未间断过。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "大树快车想让所有人都开心的这份心意，\n感觉我有稍稍体会到了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "这场派对真是太wonderful了！\n大家都happy，我也很happy！",
+            "ChoiceDataList": [
+                "大家都开心真是太好了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "Yes！这都是多亏了训练员你愿意帮忙！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "对了，你有没有好好enjoy呢？\n总觉得你好像一直在端菜上桌……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "（咕噜噜噜噜……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "哇喔！训练员的肚子在说“help me”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "这么说来，我忙着协助派对进行，\n什么东西都没有吃耶……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "OK！我们回餐厅去吧！\n我来下厨请你吃一顿！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "先不提调味，论烤肉的火候，\n我是不会输给任何人的，请你一定要吃喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "之后，我和大树快车两个人继续开着派对，\n享用有点偏咸的料理。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "对了对了，训练员。\n其实我有礼物要送给你！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "这是在准备的时候，\n我请菱亚教我调味而做出来的料理！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "这下子你也会变得happy了！\n请尽管享用吧！",
+            "ChoiceDataList": [
+                "谢谢你！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "Yes！看你那么开心，我也很happy！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "……还有，你能当我的训练员，\n我也觉得很happy……嘿嘿嘿。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "那么，good night！\n今天真的很thank you！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "请你好好休息！\n明天还要举办圣诞节的闭幕派对呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "感觉她最后说出了很不得了的事，\n但我过了一个人人都开心的快乐圣诞节。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

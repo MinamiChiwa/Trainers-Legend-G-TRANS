@@ -1,0 +1,452 @@
+{
+    "Title": "圣诞节",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在圣诞节即将到来的前几天，\n结束了一如往常的训练后……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "真机伶漂亮地在“短途跑者S”拿下了第一名。\n虽然晚了一点，但我还是有为她准备礼物，\n那就是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "“Visée Noir的圣诞节限定晚餐餐券”……？",
+            "ChoiceDataList": [
+                "是啊",
+                "嗯"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "好棒喔～！这间餐厅超级有名的吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "特别是圣诞节的时候，\n在UG上面的讨论度都很高耶。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "这可是超级高级的餐券！\n是怎么拿到的呀？",
+            "ChoiceDataList": [
+                "就用了一些办法啦……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这是我拼命调查UG上流行什么，\n最后拜托秋川理事长动用关系\n才到手的餐券……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "……你真的很为我着想耶。\n谢谢哥哥♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "……你真的很为我着想耶。\n谢谢姐姐♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看来真机伶很喜欢这个礼物。\n因为餐券有好几张，我便建议她邀请室友\n爱慕织姬或其他朋友一起去──",
+            "ChoiceDataList": [
+                "你就跟朋友好好去享受吧"
+            ],
+            "ColorTextInfoList": [
+                "爱慕织姬"
+            ]
+        },
+        {
+            "Name": "真机伶",
+            "Text": "跟朋友……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "……不是跟哥哥一起去吗？",
+            "ChoiceDataList": [
+                "这是因为……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "……不是跟姐姐一起去吗？",
+            "ChoiceDataList": [
+                "这是因为……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "不要！真机伶不去了。",
+            "ChoiceDataList": [
+                "咦？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "难得听到真机伶这么直接了当地说不。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "哥哥太狡猾了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "姐姐太狡猾了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "为真机伶着想所做的这些行为跟心意，\n我当然是觉得很感激。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "但是……这根本不是真机伶最想要的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "你也心知肚明，所以才故意不看我的眼睛吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "谁叫哥哥是大人了呢。",
+            "ChoiceDataList": [
+                "……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "谁叫姐姐是大人了呢。",
+            "ChoiceDataList": [
+                "……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "……所以这餐券我不收。\n现在暂时不收。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "看来使用期限也还很久，\n就等真机伶变得成熟一点，再一起去吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "但是呢──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──今天是圣诞节当天。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "哥哥，这边这边～♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "姐姐，这边这边～♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "那边有在卖圣诞节限定的蛋糕哦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "真机伶好想吃喔──♪",
+            "ChoiceDataList": [
+                "那就过去看看吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "嗯♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我应真机伶的要求，\n和她一起走在满是灯饰的街上。\n但……",
+            "ChoiceDataList": [
+                "真的只要这样就够了吗？",
+                "真的只要这样就够了吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "什么只要这样……\n我们在圣诞节当天约会耶？\n这应该不算是普通的小事吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "……算了，\n哥哥现在对这件事没有特别想法也没关系。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "……算了，\n姐姐现在对这件事没有特别想法也没关系。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "反正真机伶还打算继续当一阵子的小孩。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "所．以．呢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "还不要把我当大人看哦，\n要继～续宠爱我♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就这样在真机伶尽情撒娇的情况下，\n我们度过了圣诞节的夜晚……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "嗯～这里风景真好！看起来还满漂亮的吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我们完成了平时的训练后，\n应真机伶的要求，来到了可以看夜景的山上。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "……看着夜景，就会忍不住想很多耶。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "每一个明亮的灯火下都有着某个人……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "──在那些人之中，\n还有很多不认识真机伶的人。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "在全世界灯火下的人都明白可爱之前，\n真机伶是不能停下脚步的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "虽然我不懂她说的“明白可爱”的意思……\n但即便是圣诞节，她也不忘督促自己。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "而且……还会跟哥哥闹别扭，\n就证明真机伶也还不够成熟吧。",
+            "ChoiceDataList": [
+                "闹别扭……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "而且……还会跟姐姐闹别扭，\n就证明真机伶也还不够成熟吧。",
+            "ChoiceDataList": [
+                "闹别扭……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "“圣诞节餐券”的事情……\n对不起哦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "你那么用心为真机伶安排跟着想，\n我是真的感到很开心啦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "只是……还是觉得太狡猾了。",
+            "ChoiceDataList": [
+                "没关系"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "……没有生气吗？",
+            "ChoiceDataList": [
+                "可以看到你闹别扭，不也是我的特权嘛",
+                "可以看到你闹别扭，不也是我的特权嘛"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "……唉～看来真机伶真的是还不够成熟啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "竟然对哥哥说的话感到动心了。",
+            "ChoiceDataList": [
+                "咦？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "竟然对姐姐说的话感到动心了。",
+            "ChoiceDataList": [
+                "咦？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "耶嘿嘿……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "我要更努力钻研可爱，\n变成更出色的真机伶才行呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "嗯，今年还是先这样就够了。\n反正我也喜欢像这样和哥哥聊天。\n但是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "嗯，今年还是先这样就够了。\n反正我也喜欢像这样和姐姐聊天。\n但是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "你应该知道真机伶是一定会把\n想要的东西全部拿到手的人吧？明年……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "一定会让你自己说出\n圣诞节也想和我一起过这句话的。",
+            "ChoiceDataList": [
+                "……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "……呵。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "耶嘿，要好好期待哦？哥哥♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "耶嘿，要好好期待哦？姐姐♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "之后我们一边看着星星，\n一边无止境地谈天说地……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

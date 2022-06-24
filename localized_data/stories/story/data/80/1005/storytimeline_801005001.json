@@ -1,0 +1,118 @@
+{
+    "Title": "戏法",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "某天在公园里──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "──啊，那边那位。\n可以麻烦你当一下我的助手吗？",
+            "ChoiceDataList": [
+                "助手？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "不用这么紧张。\n好了，跟我来吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "富士奇石带我去的地方，\n有个膝盖擦伤的女孩正在大哭。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "──久等啦，爱哭的女孩。\n不可以眨眼喔，请看！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女孩",
+            "Text": "呜、呜……咦……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "我现在要对这枚硬币施展魔法喔。\n1、2、3──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "下一个瞬间──\n硬币就突然从富士奇石的手上消失了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "好了，该轮到助手出场咯！\n翻翻看你的口袋吧。",
+            "ChoiceDataList": [
+                "刚刚偷偷放在──",
+                "好神奇的魔力啊……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "嘘──能发现我偷放虽然很厉害，\n但千万不能说出来啦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "而且……比起说这么煞风景的话，\n现在重要的是让她停止哭泣吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女孩",
+            "Text": "哇啊，怎么会跑到那边……！？\n我还想看～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "呵呵，那就因应可爱的要求， \n我再变一次。助手，要再麻烦你咯！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "啊哈哈。\n魔力！说得真不错！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女孩",
+            "Text": "好棒好棒喔！\n姐姐是魔法师吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "呵呵，是呀。我还有证据喔。\n你看看另一侧的口袋吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──就在另一侧的口袋里，\n也多出现了另一枚硬币。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

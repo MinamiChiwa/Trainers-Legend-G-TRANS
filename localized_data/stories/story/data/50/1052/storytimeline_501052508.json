@@ -1,0 +1,44 @@
+{
+    "Title": "参赛的疲劳",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "虽然我们正在训练中，\n但春丽看起来似乎没什么精神。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "哇啊……\n那朵云长得好像训练员喔……",
+            "ChoiceDataList": [
+                "你在发呆啊",
+                "你在发呆呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "唔……总觉得我最近怪怪的。\n身体沉甸甸的，好重喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "到底是为什么呢……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "为了今后能有杰出表现，\n似乎有必要重新调整一下竞赛规划……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

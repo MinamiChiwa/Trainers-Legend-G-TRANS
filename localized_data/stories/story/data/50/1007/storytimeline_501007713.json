@@ -1,0 +1,139 @@
+{
+    "Title": "保重身体！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我把受伤的黄金船带到了保健室……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "嘎、嘎、嘎……确认受到损伤。\n阿船机器人开始执行扫描工作。",
+            "ChoiceDataList": [
+                "怎、怎么了！？",
+                "怎、怎么了！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "轻度损伤，可继续执行任务。\n请求司令官的判断……哔哔哔",
+            "ChoiceDataList": [
+                "应该先修理损伤的部位",
+                "现在即刻升级系统！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "再次扫描……哔～\n可继续执行任务。要求撤销提案。",
+            "ChoiceDataList": [
+                "否决，优先进行修复"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "喂～～！！我就说我不要紧了吧！",
+            "ChoiceDataList": [
+                "这是司令官的命令！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "司令官的命令啊……唔唔唔。\n这样阿船机器人就不能违背了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "唉……\n收到，现在开始优先进行修复……哔哔哔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "黄金船后来一脸不开心地休养身体，\n过了几天伤势便痊愈，又可以活蹦乱跳了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "确认提案。阿船机器人认可系统升级！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "立即开始进行系统升级……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "好痛！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "怎么会这样，到刚刚为止都没什么感觉啊……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "这样我不就成了废铁吗……唉。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "不知道是不是对自我诊断的结果失望，\n黄金船有一段时间都安分到不太对劲……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "嘎、嘎、嘎，确认司令官的提案。\n认可系统升级！",
+            "ChoiceDataList": [
+                "变得更强吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "嗯……审议中。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "OK。\n申请在条件许可之下，升级既定运动系统。",
+            "ChoiceDataList": [
+                "条件？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "哔哔哔……要求贩卖部的冰淇淋。\n若不接受此要求，\n阿船机器人将延迟系统升级作业。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "拒绝她也不是办法，\n我只好乖乖答应条件，\n后来两个人一起重新检讨训练内容。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

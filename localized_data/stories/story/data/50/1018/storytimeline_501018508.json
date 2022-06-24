@@ -1,0 +1,46 @@
+{
+    "Title": "参赛的疲劳",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "唉……",
+            "ChoiceDataList": [
+                "你是不是累了？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "你别小看我。\n才这点程度，我怎么可能觉得累？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "先不说那些，回到学园后，我要跟你讨论\n这次比赛遇到的问题……你先出发吧。",
+            "ChoiceDataList": [
+                "你不跟我一起回去吗？",
+                "你不跟我一起回去吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "我……等身体冷却下来后就回去。\n你别在意，先回学园，我很快会追上你。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "虽然她说自己不累，\n但看起来完全不是那样。\n或许我该调整一下她的参赛计划。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

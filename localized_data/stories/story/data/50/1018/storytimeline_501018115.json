@@ -1,0 +1,490 @@
+{
+    "Title": "前往彼方之人",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "挑战完三后冠后，\n气槽以“女帝”之姿获得好评，\n并且广受世人瞩目。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "不过在此同时……\n某位赛马娘的活跃表现也蔚为话题。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "电视播报员",
+            "Text": "“──无声铃鹿领先！\n无声铃鹿领先！”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "无声铃鹿"
+            ]
+        },
+        {
+            "Name": "电视播报员",
+            "Text": "“领先的是无声铃鹿！\n她果然持续领头！好强，太强了──！”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "被誉为“异次元逃亡者”的赛马娘──\n无声铃鹿。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "异次元逃亡者"
+            ]
+        },
+        {
+            "Name": "独白",
+            "Text": "考虑到气槽今后的挑战，\n绝不能忽视无声铃鹿……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "晋升古马级的时期将近，\n看来需要再次找气槽谈谈今后的计划。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "古马级"
+            ]
+        },
+        {
+            "Name": "独白",
+            "Text": "今天是学生会主办的大规模共同模拟赛，\n目的是为了提升赛马娘们的技术。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "气槽以营运方的身份参与这场赛事，\n而我为了协助她，也加入营运方一起帮忙──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观摩的赛马娘A",
+            "Text": "你看，那不是……无声铃鹿同学吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观摩的赛马娘B",
+            "Text": "咦──\n真的耶！原来她要参加模拟赛！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "────",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "参赛的赛马娘A",
+            "Text": "能跟无声铃鹿认真跑一场……\n这样的机会可不多……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……随着蔚为话题的无声铃鹿现身，\n观摩方跟参赛方都一下骚动起来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "那是──铃鹿吗……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "铃鹿"
+            ]
+        },
+        {
+            "Name": "独白",
+            "Text": "待在附近的气槽露出惊愕的眼神，\n眺望着无声铃鹿……",
+            "ChoiceDataList": [
+                "怎么了吗？",
+                "怎么了吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "……你可能没有印象，\n不过我跟铃鹿是不算陌生的旧识。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "我跟她并行练跑过不少次，\n我一直以为自己明白她的潜力。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "但──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "铃鹿到底发生了什么事……？\n现在她仿佛就像另一个人似的。",
+            "ChoiceDataList": [
+                "这究竟怎么回事……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "老实说──\n现在的她跟之前相比，气场完全不同。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "我们最近都各自忙于闪耀系列赛，\n就算曾在学园里擦身而过……\n却没有在赛场上碰过面。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "而我虽然在萤幕上看过她比赛……\n却没想到她实际上竟那么──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "正因为同是优秀的赛马娘，\n所以她才能凭直觉感受到一些蛛丝马迹吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "气槽远远地盯着无声铃鹿看了一阵子，\n最后她──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "……我得去确认才行。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "只见气槽突然转身离开，\n于是我急忙追了上去。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "……目前为止都顺利进行啊。\n那下一组──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "──会长！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "气槽？\n观众席那边发生什么事了吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "不，营运上没有任何问题，\n是我有个私人请求。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "……私人请求？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "冒昧提出这种请求，实在非常抱歉──\n不知道能否让我跟铃鹿跑一场？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "……你竟然会这样拜托我，真是难得。\n不是我不答应你这个请求，\n只是无声铃鹿的出赛分组早已──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "──我也想拜托你。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "……铃鹿！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "你也想拜托我让你跟气槽比一场吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "是的，我也有点想跟现在的气槽比比看……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观摩的赛马娘B",
+            "Text": "气槽前辈要跟无声铃鹿同学对决……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观摩的赛马娘A",
+            "Text": "好像是真的喔！？那绝对不能错过……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "周围的赛马娘们听到两人疑似要对决，\n纷纷鼓噪起来，消息渐渐传开。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "……哎呀，既然都这样了那也没办法。\n我允许你参加模拟赛。\n出赛分组会由我这边调整。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "──谢谢会长如此宽宏大量。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "于是气槽与无声铃鹿的模拟赛\n就这样临时定案──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "呼、呼、呼、呼──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "无声铃鹿奔驰，气槽在后追赶──\n这任谁都想像得到的\n比赛状况正在赛道上展开。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "（──唔，好快的速度！\n跟她过去的领头跑法完全不同等级……！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "（但是，还在追得上的范围内──\n我一定会超越你……！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她们来到了最后弯道，\n气槽急起直追开始进攻，然而──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "呼────",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "（什么！？）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "无声铃鹿开始加速。\n别说是超越了，气槽反倒被她拉开了距离。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "（怎、怎么可能──）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……气槽看着无声铃鹿的背影，却望尘莫及，\n于是比赛就此结束。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观摩的赛马娘A",
+            "Text": "出、出现了！原本已经领头却还在最后加速！\n亲眼看到真是惊人！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观摩的赛马娘B",
+            "Text": "就连对上气槽前辈也能一路领先到最后……\n太厉害了吧……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "…………",
+            "ChoiceDataList": [
+                "气槽……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "────",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "……辛苦了，气槽。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "啊，嗯……辛苦了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "…………你表现得很精彩，铃鹿。\n今天很高兴能跟你一起跑。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "嗯，我也觉得很高兴。\n希望下次能跑在正式比赛上。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "……你说得、没错。\n我也很期待。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "那我先走了，再见──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "…………唔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "当天晚上，我在训练员室回顾著\n今天气槽与无声铃鹿的比赛──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "……你在这里啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "我想跟你谈谈。不，应该说──\n我想拜托你。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "……找铃鹿可能参加的比赛，\n然后让我也参赛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "今天你也看到了……\n我完全输给了铃鹿。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "在我今后的比赛中，\n无可避免一定会碰上她，既然如此──",
+            "ChoiceDataList": [
+                "就先以“大阪杯”为目标吧",
+                "就先以“大阪杯”为目标吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "你──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我判断无声铃鹿最可能参加的就是这场比赛，\n将它当作眼前的目标应该最适合吧。",
+            "ChoiceDataList": [
+                "一起战胜无声铃鹿吧",
+                "一起战胜无声铃鹿吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "……抱歉，谢谢你。\n下次我一定会跑赢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就这样，\n我与气槽订下了“打倒无声铃鹿”这个目标。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "朝“大阪杯”迈进！\n绝不能一直输下去！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "大阪杯"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "Title": "充分休息！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "为了与伏特加进行训练，我来到训练赛道。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "你好啊，训练员！！",
+            "ChoiceDataList": [
+                "你好像很有精神啊！",
+                "你好像很有精神呢！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "是啊！\n因为我放假时有好好吃饭，还大睡了一场。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "不只如此，\n还把堆著没看的过去几期机车杂志都看完了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "体力满满，干劲充足！\n看来能活力全开地跑一场喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "我要从起跑冲刺就油门全开，\n让大家大吃一惊！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

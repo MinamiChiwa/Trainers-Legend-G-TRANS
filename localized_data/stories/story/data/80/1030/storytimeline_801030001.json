@@ -1,0 +1,94 @@
+{
+    "Title": "在花店的一页",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "出门采买途中，正当我走在商店街上时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "看到了正在花店里浇花的米浴。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "嘿咻、嘿咻……\n……呼，这样应该就可以了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "……哎、哎呀？你怎么会在这里……\n不对，欢迎光临……",
+            "ChoiceDataList": [
+                "为什么是米浴在顾店？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "因为店长被米浴弄倒的盆栽绊倒，\n结果扭伤脚了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "所以……今天是米浴来帮忙。\n希望可以胜任就是了……",
+            "ChoiceDataList": [
+                "我来帮你浇水吧？",
+                "我来帮你把花搬上架陈列吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "咦？真、真的吗……？\n……那就麻烦你帮忙好了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "店里的花……全都很漂亮对吧？\n尤其是蔷薇真的好美喔……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "浇了水之后，花瓣都看起来亮晶晶的。\n……米浴都会不小心看到入神呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是我一边开心地和米浴谈天，\n一边替店里的花浇了水。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "谢、谢谢……\n有些比较重，你要小心喔……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "把漂亮的花……摆满在店门口的话，\n就会有客人来了吧……嘿嘿！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我把花全都搬上架并陈列完毕。\n只能说是比我想像得还要消耗体力的工作。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

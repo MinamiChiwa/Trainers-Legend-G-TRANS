@@ -1,0 +1,374 @@
+{
+    "Title": "突击！饮食调查！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "住进临海设施，为提升实力而举办的夏季集训。\n在训练正准备要开始时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "不好意思，训练员。\n在开始训练前，我有东西要给你。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "小栗帽从包包里面摸来摸去，拿出了一张纸。\n──似乎是手写的调查问卷。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "希望你能帮我填写这份问卷，在我暖身时填就好。\n别担心，应该很快就能完成了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "问卷的内容是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "“喜欢吃甜的吗？”、“喜欢吃辣的吗？”、\n“是否有食物过敏？”，清一色都是和食物相关的问题。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "大部分问题都是设计成回答“是”或“否”就好了，\n所以不会花太多时间……才对。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "可以麻烦你吗？",
+            "ChoiceDataList": [
+                "是可以……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "谢谢你。\n那就麻烦了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我在小栗帽跑步热身的时候，\n把问卷填完了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "真是帮了大忙。\n我会在晚上前确认好，让它派上用场的。",
+            "ChoiceDataList": [
+                "派上用场？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "嗯，训练员回答得很确实，\n所以应该没什么问题。请你放心吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "接下来只要专心在训练上，\n认真进行今天的训练项目就行了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "半吊子的状态乐趣也会减半。\n尽量活动身子，为晚上做准备吧。",
+            "ChoiceDataList": [
+                "晚上有什么事情吗？",
+                "晚上有什么事情吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "你不知道吗？\n今天晚上开始……唔，这是那个。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "当作秘密不是比较有那种感觉吗？\n训练员，你觉得呢？",
+            "ChoiceDataList": [
+                "呃……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "……唔，真伤脑筋。\n总之，等训练结束后再来思考好了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "小栗帽看起来心神不宁。\n我决定先放弃追问，开始训练。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "呼啊、呼啊……呼──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "这组做完今天的训练就结束了吗？\n感觉我还能再进行一些训练……",
+            "ChoiceDataList": [
+                "这样的训练量很适当"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "这样啊……嗯，今天就练到这吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "毕竟还得确认训练员填写的问卷，\n我也想要有准备的时间。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "虽然事先勘查过……不过再怎么说都是第一次。\n时间抓得充分一点比较好。",
+            "ChoiceDataList": [
+                "要去哪里吗？",
+                "要去哪里？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "嗯，我想带你去一个地方。\n冲完澡后请到集训宿舍前等我。",
+            "ChoiceDataList": [
+                "这样干脆等用完餐后再集合……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "……不行。那可不行，训练员。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "我也觉得要忍受训练后的空腹感很难受。\n老实说我现在就想吃东西。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "在这个时间回到集训宿舍的话，走廊会充满晚餐的香味。\n今天的菜色好像还是油炸和炖煮的料理，一定会更加香气四溢吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "但是，必须克服这个难关才行。\n想要达成目的，就得战胜身边的诱惑。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "……希望你能谅解。",
+            "ChoiceDataList": [
+                "我、我知道了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "谢谢你。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "……不过，我还是去确认一下，\n看油炸和炖煮的料理能不能先打包好了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "那么训练员，我们晚点见。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "小栗帽快步离开了。\n──然后。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "训练员，我们到了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "怎么样？摊贩的数量非常多吧。",
+            "ChoiceDataList": [
+                "这是祭典吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "嗯。今天的晚餐我实在太想在这边吃了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "如你所见，这里有很多摊贩。\n也有很多训练员爱吃的食物。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "你不介意的话，今天就让我请客吧。\n当作是回报与感谢你平时的照顾。",
+            "ChoiceDataList": [
+                "难道说，你要我填问卷是为了这件事？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "嗯……因为我对你的了解，没有像你对我的了解那么深。\n所以才要调查你会因为什么东西而开心。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "总之，我想好好款待你。以这份\n在我能力范围内……为你量身规划的全餐。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "总是沉迷于吃东西的小栗帽，\n特地做问卷替我规划的全餐……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "而且……和你用餐时，食物都特别好吃。\n所以难得有机会，希望能一起开心吃饭……",
+            "ChoiceDataList": [
+                "我很开心！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "……是吗？那就好。我也很开心。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "那就立刻带你去吧。\n首先是“超特大巨无霸系列”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "这可厉害了，每道食物的分量都很大，\n不负“巨无霸”之名。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "刨冰有一个水桶那么多，大阪烧跟坐垫一样大。\n章鱼烧则是像棒球一样大……",
+            "ChoiceDataList": [
+                "太大了吧！？",
+                "太大了吧！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "话是这么说，但刨冰其实和饮料没两样，\n至于大阪烧……你看，几乎都是高丽菜。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "不……这样根本就是前菜吧？",
+            "ChoiceDataList": [
+                "前……菜……！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "呵呵。训练员也很兴奋呢。\n我懂……我也十分雀跃。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "不好意思，老板。我要两份刨冰和四份大阪烧。",
+            "ChoiceDataList": [
+                "四份！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "嗯。等一下还要去其他摊贩，所以先不要点太多。\n吃不够的话再回来就好了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "别客气，想吃多少尽量吃。",
+            "ChoiceDataList": [
+                "不，这量根本吃不──"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "训练员总是会在我不足的地方给予协助。\n这是我目前最能表达谢意的方式了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "我还是第一次做这种事，有点难为情……\n不过，希望你能收下。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "感谢的心意太过巨大，\n让我肚子撑到暂时走不动了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

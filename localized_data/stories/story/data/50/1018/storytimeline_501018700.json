@@ -1,0 +1,51 @@
+{
+    "Title": "睡眠不足……",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "进行训练时，我看气槽的步伐不太稳……",
+            "ChoiceDataList": [
+                "难道你睡眠不足？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "嗯，是有点睡眠不足。\n因为昨晚的月亮太漂亮了──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "不，没什么，当我没说。",
+            "ChoiceDataList": [
+                "说到一半我反而更好奇"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "怎么说……就是，我一时兴起，\n想在月光下看书……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "好了，反正只是我自作自受。\n我要做训练了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是之后她回去继续训练，\n不过她的状况依然不太好……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,202 @@
+{
+    "Title": "快乐地挑选鞋子",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我跟<chrname>进了一家鞋店买鞋，\n在那里碰到了桐生院训练员她们。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "啊，<username>训练员，\n你们也是来买鞋的？",
+            "ChoiceDataList": [
+                "你们也是吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "是啊！正因为是一流的赛马娘，\n才应该要为她们准备一流的用具对吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我们在干劲十足的桐生院训练员身旁，\n开始挑选合适的鞋款。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "米可，你看！那双鞋是\n曾被刊登在杂志上的最新款式喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "在运动科学方面的效果也经过验证，\n有创造过好成绩的赛马娘都很爱这双。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "快乐米可",
+            "Text": "…………原来是这样啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "不过以舒适度的观点来看，\n也无法舍弃旁边这双呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "这种鞋款具有优秀的避震性，\n可以减轻脚的负担。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "考量到你的跑步方式，\n或许选这双比较好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "快乐米可",
+            "Text": "…………原来如此。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "快乐米可点了点头之后，\n虽然张开了嘴似乎欲言又止的样子，\n但最后却还是闭上了嘴什么也没说。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我循着她的视线望去，看见了一双鞋。\n或许米可她──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "好，决定了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "那我去结账，\n米可请在这里等我喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "快乐米可",
+            "Text": "…………好。",
+            "ChoiceDataList": [
+                "你不跟她说自己想要那双吗？",
+                "你不跟她说自己想要那双吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "快乐米可",
+            "Text": "…………不，我已经……决定要买\n训练员帮我挑的那双了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "快乐米可",
+            "Text": "因为训练员总是为我着想……\n为了我而努力。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "快乐米可",
+            "Text": "……所以没关系……我只不过觉得\n那双鞋好像法国面包啊～而已。",
+            "ChoiceDataList": [
+                "说出自己的真实感受，她会比较开心喔",
+                "说出自己的真实感受，她会比较开心喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "快乐米可",
+            "Text": "是这样吗……？",
+            "ChoiceDataList": [
+                "我也是训练员，所以很清楚",
+                "我也是训练员，所以很清楚"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "快乐米可",
+            "Text": "…………谢谢你。\n我去告诉她……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "对不起，米可……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "太想为你挑出一双好鞋，\n反而把你晾在一边了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "是否为最棒的鞋取决于米可的喜好。\n……打从一开始我就该问问你的感受。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "快乐米可",
+            "Text": "…………训练员。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "我们重新来挑鞋子吧。\n……这次要两个人一起。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "<username>训练员，谢谢你\n顾虑到米可的心情。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "快乐米可",
+            "Text": "…………我也要谢谢你。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "快乐米可",
+            "Text": "……这次我会跟训练员一起讨论、\n一起挑选出运动鞋喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "目送桐生院训练员她们走开后，\n我跟<chrname>一边讨论，\n一边挑选了运动鞋。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

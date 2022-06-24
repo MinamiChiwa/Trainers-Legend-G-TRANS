@@ -1,0 +1,91 @@
+{
+    "Title": "挑战夹娃娃机！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "某天，我跟胜利奖券一起外出时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "啊哈哈，能一起出门真是开心呢，\n训练员！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "…………嗯嗯嗯？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "……唔哇啊啊啊啊！！训练员～！！",
+            "ChoiceDataList": [
+                "怎么了！？",
+                "怎么了！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "胜利奖券大叫出声，\n只见她紧盯着一台夹娃娃机，\n里头摆放的奖品是玩偶。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "我发现一件事……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "能跟训练员外出，我觉得很开心，\n可是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "那些玩偶，要是没有人去夹，\n它们就会永远待在那里面吧……？",
+            "ChoiceDataList": [
+                "应该……是这样吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "呜哇～～！\n那样太可怜了～！\n必须救那些孩子出来才行～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "胜利奖券似乎对玩偶产生了同理心。\n这样下去她或许会哭个不停……",
+            "ChoiceDataList": [
+                "知道了，我会救它们的",
+                "知道了，我会救它们的"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "训练员！！\n加油！我会为你打气的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──这个挑战，不能失败！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

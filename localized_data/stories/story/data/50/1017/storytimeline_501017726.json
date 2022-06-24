@@ -1,0 +1,77 @@
+{
+    "Title": "挑战夹娃娃机！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "某一天，我和鲁道夫象征在外出路上──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "喔……你看那个。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "鲁道夫象征指向的是夹娃娃机。\n奖品是赛马娘玩偶。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "正所谓春兰秋菊。\n这里有许多不同的赛马娘呢。\n你不觉得很有意思吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "我想用这些玩偶装饰学生会办公室……\n嗯，该怎么做呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "鲁道夫象征看着玩偶，不发一语。",
+            "ChoiceDataList": [
+                "你怎么了？",
+                "你怎么了吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "我对这类游戏设施不熟，\n连夹娃娃机都没碰过。",
+            "ChoiceDataList": [
+                "这件事能够交给我吗？",
+                "这件事能够交给我吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "这就是适材适所吧。\n现在的我没有理由拒绝你的提案呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "训练员，就交给你了。我会期待成果的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──这个挑战，不能失败！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

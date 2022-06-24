@@ -1,0 +1,167 @@
+{
+    "Title": "桐生院的假日",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "在假日的午后。我在露天咖啡厅\n碰到了一个稀客。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "咦，<username>训练员！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "辛、辛苦了。\n没想到会在这种地方碰到你！",
+            "ChoiceDataList": [
+                "你不进去吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "因为……我想点的套餐，\n好像限定要两人以上才能点。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我随着桐生院训练员的视线望去，\n有块招牌上写着“甜点＆面包吃到饱！\n与恋人或朋友共享”。",
+            "ChoiceDataList": [
+                "不介意的话，我陪你一起吃吧？",
+                "不介意的话，我陪你一起吃吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "真的可以吗？可是，如果让你陪我\n一起做我的工作──",
+            "ChoiceDataList": [
+                "吃到饱是工作……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "是的！我以前听米可提过。\n她好像喜欢这家店的菜色。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "我才想说既然如此，如果我能够亲手\n做给她吃，应该能作出贡献，\n让她更有动力训练！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "同为训练员，我深受感动，\n于是决定帮忙她的“工作”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "……唔，百汇的鲜奶油比起甜味，\n似乎更注重牛奶的浓郁呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "搭配上莓果酱，\n留在嘴里的味道意外地清爽。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "那么，这边的布蕾蛋糕……唔！\n……真是……强烈……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "托你的福，目标菜色\n全都确认过一次了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "<username>训练员，\n真的很谢谢你！",
+            "ChoiceDataList": [
+                "感觉可以顺利做出来了？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "是的！\n我一回去就赶快做做看。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "然后，过了几天──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "请听我说！米可她，在昨天\n刷新了自己的最快纪录！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "她说：“训练员做的甜点，\n让我充满了活力。”呢，呵呵。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "不过，成品还差得很远。\n我还要多加钻研，更完美地重现味道！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "因为我无论何时，\n都想提供米可一流的支援嘛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "为了这个目标，无论多努力都在所不辞！",
+            "ChoiceDataList": [
+                "我下次也可以陪你喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "<username>训练员……！\n好的，就务必麻烦你了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "之后，桐生院训练员分了我一点\n她亲手制作的点心，\n当作上次陪她的谢礼──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是我跟<chrname>一起享用了\n收到的点心。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        null
+    ]
+}

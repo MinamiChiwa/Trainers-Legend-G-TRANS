@@ -1,0 +1,63 @@
+{
+    "Title": "同期的桐生院训练员",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "在某个训练拖了有点长的夜晚，\n我送<chrname>回到宿舍门口之后──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "<username>训练员！\n辛苦了，现在才要回去吗？",
+            "ChoiceDataList": [
+                "是啊"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "这样啊！我也是刚送米可回去，\n正打算要回训练员宿舍──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "不介意的话，可以一起走吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "看在我们是同期的份上……\n这、这样说好像有点装熟的感觉。",
+            "ChoiceDataList": [
+                "不会的"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "<username>训练员……\n呵呵，你人真好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "那我们走吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是那天夜晚，我和桐生院训练员\n沿路边聊天边一起返回宿舍。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

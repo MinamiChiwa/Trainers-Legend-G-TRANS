@@ -1,0 +1,44 @@
+{
+    "Title": "充分休息！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "当我正在为早上的训练做准备时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "嗨，早啊。你果然已经到了。",
+            "ChoiceDataList": [
+                "早安，你今天也很早到呢",
+                "早安，你今天也很早到呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "我今天醒来时特别舒畅。\n因为比平常还早起，所以就来跟你打招呼了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "不过说实话，我本来是想向比我晚来的你\n打招呼，吓你一跳的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "结果，在比赛早起这事上，\n连我这个“皇帝”也赢不了你呢，呵呵。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}
