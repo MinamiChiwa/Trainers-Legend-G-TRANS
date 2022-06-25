@@ -487,9 +487,9 @@
 | 编号 |                 原标题                 |            中文标题            | 状态 | 译者 |
 | ---- | ------------------------------------- | ----------------------------- | ---- | ---- |
 | 0001 | キミの夢へと走り出せ！                 | 向着你的梦想奔跑吧！            | Komoe | Komoe |
-| 0002 | Brand-new Friend                      | Brand-new Friend              |      |      |
-| 0003 | 花咲く乙女のJunePride                  | 花开少女的JunePride            | Komoe | Komoe |
-| 0004 | 幻想世界ウマネスト                     | 幻想世界Umanest                |      |      |
+| 0002 | 幻想世界ウマネスト                     | 幻想世界Umanest                |      |      |
+| 0003 | Brand-new Friend                      | Brand-new Friend              | Komoe | Komoe |
+| 0004 | 花咲く乙女のJunePride                  | 花开少女的JunePride            |  |  |
 | 0005 | あの娘が水着に着替えたら　ウマ娘夏物語  | 如果她穿上泳装　赛马娘夏季物语   |      |      |
 | 0006 | Make up in Halloween！                | Make up in Halloween！         |      |      |
 | 0007 | 晩秋、囃子響きたる                     | 乐鸣晚秋正当时                  |      |      |
