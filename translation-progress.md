@@ -369,8 +369,8 @@
 | 100201 | 无声铃鹿   | 翻译中           | 毫毛                                                     |
 | 100301 | 东海帝王   | 完全翻译√        | @RikkaTakanaishi、@uss-enterprise1071（Gitee）、Chihyuen |
 | 100302 | 东海帝王   | 完全翻译√        | @RikkaTakanaishi、@uss-enterprise1071（Gitee）、Chihyuen |
-| 100401 | 丸善斯基   | 待发布           | Chihyuen、Komoe                           |
-| 100402 | 丸善斯基   | 待发布           | Chihyuen、Komoe                            |
+| 100401 | 丸善斯基   | 完全翻译√        | Chihyuen、Komoe                           |
+| 100402 | 丸善斯基   | 完全翻译√        | Chihyuen、Komoe                            |
 | 100501 | 富士奇石   |                  |                                                          |
 | 100502 | 富士奇石   |                  |                                                          |
 | 100601 | 小栗帽     | Komoe | Komoe |
@@ -441,8 +441,8 @@
 | 1053   | 青竹回忆   |                  |                                                          |
 | 1054   | 微光飞驹   |                  |                                                          |
 | 1055   | 美丽周日   |                  |                                                          |
-| 105601 | 待兼福来   | 完全翻译√         | Chihyuen、繁中服官方翻译                                 |
-| 105602 | 待兼福来   | 完全翻译√         | Chihyuen、繁中服官方翻译                                 |
+| 105601 | 待兼福来   | 完全翻译√         | Chihyuen、Komoe                                          |
+| 105602 | 待兼福来   | 完全翻译√         | Chihyuen、Komoe                                          |
 | 1057   | 千明代表   |                  |                                                          |
 | 105801 | 名将怒涛   | 完全翻译√        | Chihyuen                                                 |
 | 105901 | 目白多伯   |                  |                                                          |
@@ -487,9 +487,9 @@
 | 编号 |                 原标题                 |            中文标题            | 状态 | 译者 |
 | ---- | ------------------------------------- | ----------------------------- | ---- | ---- |
 | 0001 | キミの夢へと走り出せ！                 | 向着你的梦想奔跑吧！            | Komoe | Komoe |
-| 0002 | Brand-new Friend                      | Brand-new Friend              |      |      |
-| 0003 | 花咲く乙女のJunePride                  | 花开少女的JunePride            | Komoe | Komoe |
-| 0004 | 幻想世界ウマネスト                     | 幻想世界Umanest                |      |      |
+| 0002 | 幻想世界ウマネスト                     | 幻想世界Umanest                |      |      |
+| 0003 | Brand-new Friend                      | Brand-new Friend              | Komoe | Komoe |
+| 0004 | 花咲く乙女のJunePride                  | 花开少女的JunePride            |      |      | 
 | 0005 | あの娘が水着に着替えたら　ウマ娘夏物語  | 如果她穿上泳装　赛马娘夏季物语   |      |      |
 | 0006 | Make up in Halloween！                | Make up in Halloween！         |      |      |
 | 0007 | 晩秋、囃子響きたる                     | 乐鸣晚秋正当时                  |      |      |
