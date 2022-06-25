@@ -1,5 +1,5 @@
 {
-    "Title": "短途跑者S结束后．迈向一哩",
+    "Title": "短途跑者S结束后．迈向英里",
     "TextBlockList": [
         {
             "Name": "",
@@ -44,8 +44,8 @@
             "Name": "樱花进王",
             "Text": "所以，下一场赛事是──",
             "ChoiceDataList": [
-                "想不想跑“一哩冠军赛”？",
-                "想不想跑“一哩冠军赛”？"
+                "想不想跑“英里冠军赛”？",
+                "想不想跑“英里冠军赛”？"
             ],
             "ColorTextInfoList": []
         },
@@ -57,13 +57,13 @@
         },
         {
             "Name": "樱花进王",
-            "Text": "嗯！？请等一下！\n“一哩CS”，也就是说……！",
+            "Text": "嗯！？请等一下！\n“英里CS”，也就是说……！",
             "ChoiceDataList": [
                 "挑战1600米吧！",
                 "挑战1600米吧！"
             ],
             "ColorTextInfoList": [
-                "一哩CS"
+                "英里CS"
             ]
         },
         {
@@ -92,13 +92,13 @@
         },
         {
             "Name": "樱花进王",
-            "Text": "──在“一哩CS”夺冠吧！",
+            "Text": "──在“英里CS”夺冠吧！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "于是下一场目标竞赛\n就决定是“一哩CS”了！",
+            "Text": "于是下一场目标竞赛\n就决定是“英里CS”了！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         }
