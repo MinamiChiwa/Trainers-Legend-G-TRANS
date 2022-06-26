@@ -96,7 +96,7 @@
         },
         {
             "Name": "",
-            "Text": "她先是低垂著头……\n之后终于有点犹豫地开口。",
+            "Text": "她先是低垂着头……\n之后终于有点犹豫地开口。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -151,7 +151,7 @@
             "Text": "每次在竞赛中响起的欢呼、期许、喧嚷──\n这绝对不是安慰，而是“事实”。",
             "ChoiceDataList": [
                 "而是会带给人力量",
-                "而是会带给人力量的喔"
+                "而是会带给人力量的哦"
             ],
             "ColorTextInfoList": []
         },
@@ -160,7 +160,7 @@
             "Text": "……没这回事。",
             "ChoiceDataList": [
                 "至少对我来说是如此",
-                "至少对我来说是如此喔"
+                "至少对我来说是如此哦"
             ],
             "ColorTextInfoList": []
         },
@@ -353,13 +353,13 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "电视播报员",
+            "Name": "电视实况",
             "Text": "“──完全没有减速！\n无声铃鹿好快！好快！”",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "电视播报员",
+            "Name": "电视实况",
             "Text": "“根本无法追上！\n没有人能够追上她……！”",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
@@ -420,7 +420,7 @@
         },
         {
             "Name": "",
-            "Text": "“而是会带给人力量的喔。”",
+            "Text": "“而是会带给人力量的哦。”",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },

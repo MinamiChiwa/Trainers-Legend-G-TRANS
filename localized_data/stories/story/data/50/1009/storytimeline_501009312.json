@@ -1,5 +1,5 @@
 {
-    "Title": "“日本打比”",
+    "Title": "“日本德比”",
     "TextBlockList": [
         {
             "Name": "",
@@ -61,7 +61,7 @@
         },
         {
             "Name": "电视",
-            "Text": "“──今天是晴空万里的凉爽天气。\n参加日本打比的赛马娘们……”",
+            "Text": "“──今天是晴空万里的凉爽天气。\n参加日本德比的赛马娘们……”",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -107,7 +107,7 @@
             "Name": "大和赤骥",
             "Text": "但她却……",
             "ChoiceDataList": [
-                "她为什么会参加打比呢？"
+                "她为什么会参加德比呢？"
             ],
             "ColorTextInfoList": []
         },
@@ -151,7 +151,7 @@
         },
         {
             "Name": "观众B",
-            "Text": "不过我还是想看伏特加参加奥克斯呢。\n像赤骥一样进攻王道路线……\n然后获得女王宝座的荣耀。",
+            "Text": "不过我还是想看伏特加参加橡树大赛呢。\n像赤骥一样进攻王道路线……\n然后获得女王宝座的荣耀。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -163,7 +163,7 @@
         },
         {
             "Name": "观众B",
-            "Text": "我完全不这么认为。\n只觉得她像是逃离了后冠对决。",
+            "Text": "我完全不这么认为。\n只觉得她像是逃离了雌马三冠对决。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -174,13 +174,13 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "播报员",
+            "Name": "实况",
             "Text": "领先集团通过大榉树，来到最后的直线！\n究竟谁会脱颖而出呢！？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "播报员",
+            "Name": "实况",
             "Text": "伏特加此时从混战中冲了出来！\n──不过看起来很吃力？还冲不到前面！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
@@ -193,7 +193,7 @@
         },
         {
             "Name": "观众B",
-            "Text": "你看，伏特加果然不该参加打比，\n应该好好跑奥克斯才对。",
+            "Text": "你看，伏特加果然不该参加德比，\n应该好好跑橡树大赛才对。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -234,14 +234,14 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "播报员",
+            "Name": "实况",
             "Text": "……不对，伏特加冲上来！伏特加冲上来了！\n她以惊人的尾段加速冲上坡道！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "播报员",
-            "Text": "“日本打比”的第一名是伏特加！\n漂亮地超越所有赛马娘抵达终点！！",
+            "Name": "实况",
+            "Text": "“日本德比”的第一名是伏特加！\n漂亮地超越所有赛马娘抵达终点！！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -291,7 +291,7 @@
         },
         {
             "Name": "大和赤骥",
-            "Text": "她不过是参加了这场打比。\n不过是这样……明明不过是这样的。",
+            "Text": "她不过是参加了这场德比。\n不过是这样……明明不过是这样的。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -342,7 +342,7 @@
         },
         {
             "Name": "",
-            "Text": "大和赤骥的眼神，\n闪烁著炙热燃烧般的光芒。",
+            "Text": "大和赤骥的眼神，\n闪烁着炙热燃烧般的光芒。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -354,7 +354,7 @@
         },
         {
             "Name": "",
-            "Text": "我觉得已经发现了寻求答案所需的线索。\n下一个目标是“秋华赏”，\n三后冠的最后一场竞赛。",
+            "Text": "我觉得已经发现了寻求答案所需的线索。\n下一个目标是“秋华赏”，\n雌马三冠的最后一场竞赛。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         }

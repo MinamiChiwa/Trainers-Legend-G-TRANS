@@ -1,5 +1,5 @@
 {
-    "Title": "“打比训练员”",
+    "Title": "“德比训练员”",
     "TextBlockList": [
         {
             "Name": "",
@@ -9,7 +9,7 @@
         },
         {
             "Name": "独白",
-            "Text": "为了准备日本打比而不断进行\n激烈训练的某个假日中。",
+            "Text": "为了准备日本德比而不断进行\n激烈训练的某个假日中。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -75,7 +75,7 @@
         },
         {
             "Name": "青云天空",
-            "Text": "这样啊、这样啊～\n看来你针对打比的训练状况非常好呢。",
+            "Text": "这样啊、这样啊～\n看来你针对德比的训练状况非常好呢。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -99,7 +99,7 @@
         },
         {
             "Name": "青云天空",
-            "Text": "那么，谢谢你陪我并行练跑。\n先走咯～",
+            "Text": "那么，谢谢你陪我并跑练习。\n先走咯～",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -107,7 +107,7 @@
             "Name": "特别周",
             "Text": "嗯，之后教室见！",
             "ChoiceDataList": [
-                "辛苦了，特别周，跑得很不错喔",
+                "辛苦了，特别周，跑得很不错哦",
                 "辛苦了，特别周，跑得很不错呢"
             ],
             "ColorTextInfoList": []
@@ -207,7 +207,7 @@
         },
         {
             "Name": "鲁道夫象征",
-            "Text": "想必这是特别周每天努力不懈，\n以及……你这位专任训练员\n持续鼓励她的成果。",
+            "Text": "想必这是特别周每天努力不懈，\n以及……你这位签约训练员\n持续鼓励她的成果。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -239,7 +239,7 @@
         },
         {
             "Name": "鲁道夫象征",
-            "Text": "话说──你们的下一个目标，\n是“日本打比”吗？",
+            "Text": "话说──你们的下一个目标，\n是“日本德比”吗？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -269,7 +269,7 @@
         },
         {
             "Name": "鲁道夫象征",
-            "Text": "“要成为打比赛马娘的训练员，\n可是比当一国的宰相还难。”",
+            "Text": "“要成为德比赛马娘的训练员，\n可是比当一国的宰相还难。”",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -287,7 +287,7 @@
         },
         {
             "Name": "鲁道夫象征",
-            "Text": "应该没有比日本打比还要合适的舞台了。",
+            "Text": "应该没有比日本德比还要合适的舞台了。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -326,7 +326,7 @@
         },
         {
             "Name": "独白",
-            "Text": "──我目送著特别周若有所思的背影离开。",
+            "Text": "──我目送着特别周若有所思的背影离开。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         }
