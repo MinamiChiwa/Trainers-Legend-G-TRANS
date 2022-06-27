@@ -499,7 +499,7 @@
 | 0011 | 羽ばたきのRun-up！                     | 展翅Run-up！                   |      |      |
 | 0012 | 今宵、リーニュ・ドロワットで            | 今宵，Ligne・Droite             |      |      |
 | 0013 | 轟け、エール！トレセン学園応援団        | 回响吧，喝彩！特雷森学园应援团   |      |      |
-| 0014 |『刻限』～Silks&Three Riddles～         | 『刻限』～Silks&Three Riddles～ |      |      |
+| 0014 |『刻限』～Silks&Three Riddles～         | 『约定之时』～Silks&Three Riddles～ |      |      |
 
 
 
