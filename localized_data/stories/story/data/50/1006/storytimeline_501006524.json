@@ -34,7 +34,8 @@
             "ChoiceDataList": [
                 "全力以赴地上吧！",
                 "全力以赴地上吧！",
-                "希望你能有所保留"
+                "希望你能有所保留",
+                "尽情吃……全都吃掉吧！"
             ],
             "ColorTextInfoList": []
         },
@@ -44,7 +45,8 @@
             "ChoiceDataList": [
                 "全力以赴地上吧！",
                 "全力以赴地上吧！",
-                "希望你能有所保留"
+                "希望你能有所保留",
+                "尽情吃……全都吃掉吧！"
             ],
             "ColorTextInfoList": []
         },
@@ -132,6 +134,60 @@
         {
             "Name": "",
             "Text": "在小栗帽强烈的注视下，\n我下定决心要找到\n有卖健康拉面的店。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "嗯……是指把所有饭菜都\n一扫而光吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "嗯。那样给我做饭的人也会\n更开心吧。明白了。我努力吃完。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "主持人",
+            "Text": "――本次的菜品是日式炸鸡富士山！\n面对中盘战这沉重的菜品\n即便是以大胃王自居的人们也在不断退赛～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "不、不行啦～～……！\n已经吃不下啦……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "好。那剩下的给我吃吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "诶……为、为什么？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "呼……好了。\n貌似全都吃完了。\n多谢款待。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "主持人",
+            "Text": "胜、胜负已分～！　小栗帽选手不知为何\n连其他选手的饭菜都吃干净了\n真是不同次元的压倒性胜利呀～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "谁也无法匹敌的究极胜利。\n小栗帽做到了。\n……代价是摄入了巨量卡路里。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         }

@@ -155,9 +155,7 @@
         {
             "Name": "樱花进王",
             "Text": "可是，就这样认输有损班长的名誉！\n我该怎么办才好！",
-            "ChoiceDataList": [
-                "用诱饵引它过来吧"
-            ],
+            "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
@@ -199,6 +197,50 @@
         {
             "Name": "",
             "Text": "虽然她因为没能自己解决问题而感到不甘心，\n但在此同时，她似乎也有了新发现。",
+            "ChoiceDataList": [
+                "囮でおびき出そう"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "モノローグ",
+            "Text": "先ほどの『蹄鉄と携帯を見間違えた』\r\n……という発言をヒントに携帯を囮にして――",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "サクラバクシンオー",
+            "Text": "でやぁーーっ！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "クラスメイト",
+            "Text": "わぁ！　ありがとう、学級委員長！\r\n蹄鉄取り戻してくれて！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "ビコーペガサス",
+            "Text": "カラスもビックリしてたし、改心したはず！\r\nこれで学園の平和は守られたな！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "サクラバクシンオー",
+            "Text": "フフ、私こそお礼を伝えたいです！\r\nとてもいい学びとなりましたからッ！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "サクラバクシンオー",
+            "Text": "バクシンだけでなく……\r\n策を講じることもまた、必要であると！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "モノローグ",
+            "Text": "問題が解決できなかったことを悔やみつつ、\r\n新たな発見を得られたようだった。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         }

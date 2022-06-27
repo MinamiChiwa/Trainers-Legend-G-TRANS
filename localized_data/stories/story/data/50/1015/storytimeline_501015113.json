@@ -149,13 +149,19 @@
             "Name": "主持人",
             "Text": "首先是日前在“日本杯”\n表现亮眼的神鹰与特别周！",
             "ChoiceDataList": [],
-            "ColorTextInfoList": []
+            "ColorTextInfoList": [
+                "ジャパンカップ",
+                "エルコンドルパサー",
+                "スペシャルウィーク"
+            ]
         },
         {
             "Name": "神鹰",
             "Text": "大家好～！神鹰我精彩获胜的模样，\n大家都看见了吗～？",
             "ChoiceDataList": [],
-            "ColorTextInfoList": []
+            "ColorTextInfoList": [
+                "エル"
+            ]
         },
         {
             "Name": "特别周",
@@ -167,7 +173,11 @@
             "Name": "主持人",
             "Text": "接着是之后预定参加“有马纪念”的\n草上飞与青云天空！",
             "ChoiceDataList": [],
-            "ColorTextInfoList": []
+            "ColorTextInfoList": [
+                "有馬記念",
+                "グラスワンダー",
+                "セイウンスカイ"
+            ]
         },
         {
             "Name": "草上飞",
@@ -191,7 +201,9 @@
             "Name": "好歌剧",
             "Text": "我们的前一个世代被称作“黄金世代”。\n因为那四个人在这特别活动齐聚一堂！",
             "ChoiceDataList": [],
-            "ColorTextInfoList": []
+            "ColorTextInfoList": [
+                "黄金世代"
+            ]
         },
         {
             "Name": "好歌剧",
@@ -349,7 +361,9 @@
             "Name": "好歌剧",
             "Text": "嗯？你是……\n跟我同世代的爱慕织姬，对吧？",
             "ChoiceDataList": [],
-            "ColorTextInfoList": []
+            "ColorTextInfoList": [
+                "アドマイヤベガ"
+            ]
         },
         {
             "Name": "好歌剧",

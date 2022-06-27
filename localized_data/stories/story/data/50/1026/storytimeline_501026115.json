@@ -23,7 +23,9 @@
             "Name": "",
             "Text": "闸门开启──\n目白麦昆冲了出来。",
             "ChoiceDataList": [],
-            "ColorTextInfoList": []
+            "ColorTextInfoList": [
+                "メジロマックイーン"
+            ]
         },
         {
             "Name": "",
@@ -47,13 +49,18 @@
             "Name": "美浦波旁",
             "Text": "参加的都是在经典级、古马级\n主要竞赛中表现亮眼的赛马娘，\n是一场高水准的长距离模拟赛。",
             "ChoiceDataList": [],
-            "ColorTextInfoList": []
+            "ColorTextInfoList": [
+                "シニア級",
+                "重賞"
+            ]
         },
         {
             "Name": "美浦波旁",
             "Text": "明天的模拟赛还有“天皇赏（春）”\n最有望获胜选手之一的麦昆参赛。",
             "ChoiceDataList": [],
-            "ColorTextInfoList": []
+            "ColorTextInfoList": [
+                "マックイーン"
+            ]
         },
         {
             "Name": "",

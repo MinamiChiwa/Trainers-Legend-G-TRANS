@@ -17,13 +17,17 @@
             "Name": "胜利奖券",
             "Text": "新年快乐，晨光～～～！！\n今年也请多指教～！！",
             "ChoiceDataList": [],
-            "ColorTextInfoList": []
+            "ColorTextInfoList": [
+                "ハヤヒデ"
+            ]
         },
         {
             "Name": "琵琶晨光",
             "Text": "呵呵，新年快乐，奖券。\n从早上算起，这样的对话已经是第三次咯。",
             "ChoiceDataList": [],
-            "ColorTextInfoList": []
+            "ColorTextInfoList": [
+                "チケット"
+            ]
         },
         {
             "Name": "胜利奖券",
@@ -47,7 +51,9 @@
             "Name": "成田大进",
             "Text": "是经典三冠路线吧，因为有德比。",
             "ChoiceDataList": [],
-            "ColorTextInfoList": []
+            "ColorTextInfoList": [
+                "ダービー"
+            ]
         },
         {
             "Name": "胜利奖券",
@@ -143,7 +149,9 @@
             "Name": "琵琶晨光",
             "Text": "大进！？",
             "ChoiceDataList": [],
-            "ColorTextInfoList": []
+            "ColorTextInfoList": [
+                "タイシン"
+            ]
         },
         {
             "Name": "成田大进",
@@ -179,7 +187,9 @@
             "Name": "小学同学A",
             "Text": "咦？你真的打算去特雷森学园？\n你以为凭你那种娇小的身体\n有办法在闪耀系列赛中竞争吗？",
             "ChoiceDataList": [],
-            "ColorTextInfoList": []
+            "ColorTextInfoList": [
+                "トレセン学園"
+            ]
         },
         {
             "Name": "小学同学B",

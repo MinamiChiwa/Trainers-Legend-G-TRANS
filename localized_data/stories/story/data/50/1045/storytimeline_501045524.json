@@ -44,7 +44,8 @@
             "Text": "……稍微吃一点应该没关系吧？",
             "ChoiceDataList": [
                 "我觉得没关系哦",
-                "还是忍耐比较好……"
+                "还是忍耐比较好……",
+                "誰かにあげるというのは？"
             ],
             "ColorTextInfoList": []
         },
@@ -117,6 +118,30 @@
         {
             "Name": "",
             "Text": "超级溪流紧紧闭着眼睛，忍着不吃玛德莲。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "スーパークリーク",
+            "Text": "……あっ！　そういえば……\r\nオグリちゃんに配った時、\nもっと食べたそうにしてましたね。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "スーパークリーク",
+            "Text": "……ふふっ。じゃあ、\r\n私の分はオグリちゃんに\nいただいてもらいましょうか。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "スーパークリーク",
+            "Text": "美味しそうに頬張るオグリちゃん……\r\nああ、いまから楽しみになってきました……。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "モノローグ",
+            "Text": "そして……スーパークリークはマドレーヌを\r\n頬張るオグリキャップの姿を堪能した、\nとのことだった。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         }

@@ -81,13 +81,17 @@
             "Name": "成田白仁",
             "Text": "……亚马，你好吵。",
             "ChoiceDataList": [],
-            "ColorTextInfoList": []
+            "ColorTextInfoList": [
+                "アマ"
+            ]
         },
         {
             "Name": "",
             "Text": "在那里的是出道前的赛马娘，\n血气方刚的美浦宿舍长菱亚马逊──",
             "ChoiceDataList": [],
-            "ColorTextInfoList": []
+            "ColorTextInfoList": [
+                "ヒシアマゾン"
+            ]
         },
         {
             "Name": "",
@@ -147,7 +151,9 @@
             "Name": "观众们",
             "Text": "冲啊──菱亚前辈──！\n白仁前辈也要加油啊──！",
             "ChoiceDataList": [],
-            "ColorTextInfoList": []
+            "ColorTextInfoList": [
+                "ヒシアマ"
+            ]
         },
         {
             "Name": "",
@@ -283,7 +289,10 @@
             "Name": "琵琶晨光",
             "Text": "嗨，奖券。还有大进。",
             "ChoiceDataList": [],
-            "ColorTextInfoList": []
+            "ColorTextInfoList": [
+                "チケット",
+                "タイシン"
+            ]
         },
         {
             "Name": "成田大进",
@@ -295,7 +304,9 @@
             "Name": "",
             "Text": "（成田大进──是琵琶晨光的朋友，\n今年出道的赛马娘。据说能跑出\n从她娇小的体格难以想像的犀利跑法。）",
             "ChoiceDataList": [],
-            "ColorTextInfoList": []
+            "ColorTextInfoList": [
+                "ナリタタイシン"
+            ]
         },
         {
             "Name": "成田大进",
@@ -307,13 +318,17 @@
             "Name": "胜利奖券",
             "Text": "因为我看到晨光了嘛！！！",
             "ChoiceDataList": [],
-            "ColorTextInfoList": []
+            "ColorTextInfoList": [
+                "ハヤヒデ"
+            ]
         },
         {
             "Name": "",
             "Text": "（胜利奖券──活力充沛的她\n也是琵琶晨光的同期之一。听说包括\n刚才的成田大进在内，三人感情很好）",
             "ChoiceDataList": [],
-            "ColorTextInfoList": []
+            "ColorTextInfoList": [
+                "ウイニングチケット"
+            ]
         },
         {
             "Name": "胜利奖券",
@@ -365,7 +380,9 @@
             "ChoiceDataList": [
                 "（……“日本德比”）"
             ],
-            "ColorTextInfoList": []
+            "ColorTextInfoList": [
+                "ダービー"
+            ]
         },
         {
             "Name": "",
@@ -442,7 +459,9 @@
             "Name": "",
             "Text": "成田大进与胜利奖券似乎预定要参加\n新马级的GⅠ“希望锦标赛”。",
             "ChoiceDataList": [],
-            "ColorTextInfoList": []
+            "ColorTextInfoList": [
+                "ホープフルステークス"
+            ]
         },
         {
             "Name": "",

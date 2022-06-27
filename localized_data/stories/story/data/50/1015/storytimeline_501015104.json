@@ -47,7 +47,9 @@
             "Name": "草上飞",
             "Text": "打扰一下……训练员。\n还有好歌剧！",
             "ChoiceDataList": [],
-            "ColorTextInfoList": []
+            "ColorTextInfoList": [
+                "オペラオー"
+            ]
         },
         {
             "Name": "草上飞",
@@ -71,7 +73,10 @@
             "Name": "草上飞",
             "Text": "与我们同期的神鹰……\n小鹰将会参加比赛。而且是海外实况转播。",
             "ChoiceDataList": [],
-            "ColorTextInfoList": []
+            "ColorTextInfoList": [
+                "エルコンドルパサー",
+                "エル"
+            ]
         },
         {
             "Name": "草上飞",
@@ -179,7 +184,9 @@
             "Name": "特别周",
             "Text": "我也是！虽然我在去年的“日本杯”\n输给了小鹰，但这次一定要赢！",
             "ChoiceDataList": [],
-            "ColorTextInfoList": []
+            "ColorTextInfoList": [
+                "ジャパンカップ"
+            ]
         },
         {
             "Name": "好歌剧",
@@ -277,13 +284,17 @@
             "Name": "",
             "Text": "特别周具备透过强而有力的加速能力\n发挥一气呵成的瞬间爆发力。",
             "ChoiceDataList": [],
-            "ColorTextInfoList": []
+            "ColorTextInfoList": [
+                "スペシャルウィーク"
+            ]
         },
         {
             "Name": "",
             "Text": "至于草上飞则是隐藏着强烈的斗争心，\n听说很擅长争夺名次。",
             "ChoiceDataList": [],
-            "ColorTextInfoList": []
+            "ColorTextInfoList": [
+                "グラスワンダー"
+            ]
         },
         {
             "Name": "",

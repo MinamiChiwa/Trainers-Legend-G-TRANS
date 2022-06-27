@@ -65,7 +65,8 @@
             "Text": "目白麦昆如此提议。但无论是哪道食物，\n吃下去似乎都会发胖──",
             "ChoiceDataList": [
                 "我们一起吃吧",
-                "忍耐一下吧"
+                "忍耐一下吧",
+                "那干脆大吃特吃吧！"
             ],
             "ColorTextInfoList": []
         },
@@ -140,6 +141,144 @@
         {
             "Name": "",
             "Text": "不管怎么说，\n目白麦昆似乎勉强战胜了诱惑。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "诶……！？　为什么会这么说！\r\n你应该知道……我的体质吧？",
+            "ChoiceDataList": [
+                "半吊子的态度可有损目白之名！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "原……！？　原来如此……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "确实……你说的有点道理。\r\n不过，鲁莽地暴饮暴食还是有点……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "生野狄杜斯",
+            "Text": "哦呀……是你们两个。\r\n你们也是来观战的？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "啊……！　生野同学！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "其实，那个……――对、对了！\r\n方便的话能不能跟我们一起来？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "ちょうど今……ひと休みしてレース場\r\nグルメをいただこうと思っておりましたの。\n……ですわよねっ？　トレーナーさん！",
+            "ChoiceDataList": [
+                "そうそう……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "生野狄杜斯",
+            "Text": "いいですね。私もそろそろ\r\n休憩が必要だと思っていたところです。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "（よ、よし……！\r\nイクノさんの目があれば抑えが効きますわ。\nそれに彼女は栄養学にもお詳しい……！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "では、早速屋台を回りましょうか！\r\nわ、私は軽めのものを……。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "生野狄杜斯",
+            "Text": "軽め、ですか？　……意外ですね。\r\n今日はスイーツの屋台も多数あるので、\nてっきりそちらに惹かれたのかと。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "うぅっ……！　そ、それは……。",
+            "ChoiceDataList": [
+                "やっぱり気になる……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "生野狄杜斯",
+            "Text": "…………。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "生野狄杜斯",
+            "Text": "……私の注目は低糖質クレープですね。\r\n小麦粉不使用でタンパク質が豊富。\n低カロリーなのに甘さもしっかりと評判です。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "まあっ！　そんな素晴らしいものが……！？\r\nぜひいただきたいですわっ！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "こうして、目白麦昆は\r\n生野狄杜斯と共に、\nレース場グルメを堪能したのだった。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "盲点でしたわっ……！　仰る通りです。\r\n少しかじった程度で知った気になるのは\nメジロの名折れ……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "いいですわ！　これも後学のため。\r\n存分にいただくことにいたしましょう！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "はふはふ……よいあずきを使ってますわね。\r\n微かな塩味が甘さを引き立てて……\n生地もさくふわですわ……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "次はクリームたい焼き……！\r\nチョコも美味しそう……これは両方ですわね！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "はっ、チュロスも揚げたてのようですわ！\r\nよい香り……早く並びませんと……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "甘いものを堪能した目白麦昆。\r\nだが体重はしっかり増えたのだった……。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         }

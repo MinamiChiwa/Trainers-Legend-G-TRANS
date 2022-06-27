@@ -11,7 +11,9 @@
             "Name": "传说说书人",
             "Text": "我……赢了！大家都会这么想吧，\n这是一场名留德比史的传说级竞赛！",
             "ChoiceDataList": [],
-            "ColorTextInfoList": []
+            "ColorTextInfoList": [
+                "ダービー"
+            ]
         },
         {
             "Name": "传说说书人",
@@ -29,7 +31,9 @@
             "Name": "传说说书人",
             "Text": "既然如此，我就去敲响那个钟吧。\n前往“黄金世代”等着的──“有马纪念”！",
             "ChoiceDataList": [],
-            "ColorTextInfoList": []
+            "ColorTextInfoList": [
+                "有馬記念"
+            ]
         }
     ]
 }

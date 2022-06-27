@@ -71,7 +71,9 @@
             "Name": "年幼的晨光",
             "Text": "呼、呼……很好～！\n我要加快速度咯，白仁！",
             "ChoiceDataList": [],
-            "ColorTextInfoList": []
+            "ColorTextInfoList": [
+                "ブライアン"
+            ]
         },
         {
             "Name": "年幼的白仁",
@@ -155,7 +157,9 @@
             "Name": "独白",
             "Text": "走出保健室的琵琶晨光，\n用神清气爽的表情对我说话。",
             "ChoiceDataList": [],
-            "ColorTextInfoList": []
+            "ColorTextInfoList": [
+                "ビワハヤヒデ"
+            ]
         },
         {
             "Name": "独白",
@@ -163,13 +167,17 @@
             "ChoiceDataList": [
                 "一起加油吧！"
             ],
-            "ColorTextInfoList": []
+            "ColorTextInfoList": [
+                "トゥインクル・シリーズ"
+            ]
         },
         {
             "Name": "琵琶晨光",
             "Text": "嗯。既然闪耀出道战的日程已经确定，\n我们该采取的方针也决定好了。",
             "ChoiceDataList": [],
-            "ColorTextInfoList": []
+            "ColorTextInfoList": [
+                "メイクデビュー"
+            ]
         },
         {
             "Name": "琵琶晨光",
@@ -207,7 +215,9 @@
             "ChoiceDataList": [
                 "咦？"
             ],
-            "ColorTextInfoList": []
+            "ColorTextInfoList": [
+                "ナリタブライアン"
+            ]
         },
         {
             "Name": "同事训练员A",
