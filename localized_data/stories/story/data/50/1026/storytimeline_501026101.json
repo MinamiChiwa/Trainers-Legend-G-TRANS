@@ -32,8 +32,8 @@
             "Text": "（屏幕上出现的是东海帝王──\n她是个崇拜鲁道夫象征，\n充满自信又开朗活泼的赛马娘）",
             "ChoiceDataList": [],
             "ColorTextInfoList": [
-                "トウカイテイオー",
-                "シンボリルドルフ"
+                "东海帝王",
+                "鲁道夫象征"
             ]
         },
         {
@@ -47,8 +47,8 @@
             "Text": "“拥有柔软的身体及不屈的精神。\n在皋月赏和日本德比留下了非常好的成绩。”",
             "ChoiceDataList": [],
             "ColorTextInfoList": [
-                "皐月賞",
-                "日本ダービー"
+                "皋月赏",
+                "日本德比"
             ]
         },
         {
@@ -252,7 +252,7 @@
         },
         {
             "Name": "美浦波旁",
-            "Text": "教练要不要试试看？\n适当的运动量最能够抒压。",
+            "Text": "Master要不要试试看？\n适当的运动量最能够抒压。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -276,7 +276,7 @@
         },
         {
             "Name": "美浦波旁",
-            "Text": "……问题发生。\n电视打不开了，教练。",
+            "Text": "……问题发生。\n电视打不开了，Master。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -296,7 +296,7 @@
         },
         {
             "Name": "美浦波旁",
-            "Text": "……教练，刚才的笑话是什么意思？",
+            "Text": "……Master，刚才的笑话是什么意思？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
