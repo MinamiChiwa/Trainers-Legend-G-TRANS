@@ -39,7 +39,7 @@
         },
         {
             "Name": "美浦波旁",
-            "Text": "发生异常状况，向教练报告。",
+            "Text": "发生异常状况，向Master报告。",
             "ChoiceDataList": [
                 "咦！？"
             ],
@@ -59,7 +59,7 @@
         },
         {
             "Name": "美浦波旁",
-            "Text": "……也就是说，我深怕这会影响到比赛结果，\n还请教练给我建议。",
+            "Text": "……也就是说，我深怕这会影响到比赛结果，\n还请Master给我建议。",
             "ChoiceDataList": [
                 "不用担心"
             ],
@@ -113,7 +113,7 @@
         },
         {
             "Name": "美浦波旁",
-            "Text": "是，教练。\n我上场了。",
+            "Text": "是，Master。\n我上场了。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         }

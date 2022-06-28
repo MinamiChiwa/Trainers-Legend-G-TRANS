@@ -51,7 +51,7 @@
         },
         {
             "Name": "美浦波旁",
-            "Text": "我回来了，教练。",
+            "Text": "我回来了，Master。",
             "ChoiceDataList": [
                 "你表现得非常好！",
                 "你表现得非常好哦！"
@@ -95,7 +95,7 @@
             "Name": "",
             "Text": "明年就是期待已久的经典级竞赛了。\n这也就代表着──",
             "ChoiceDataList": [
-                "参加“春季锦标赛”吧"
+                "参加“春季锦标”吧"
             ],
             "ColorTextInfoList": []
         },
@@ -104,7 +104,7 @@
             "Text": "“春季S”的话，\n刚好能当作“皋月赏”的试金石。",
             "ChoiceDataList": [],
             "ColorTextInfoList": [
-                "スプリングS"
+                "春季S"
             ]
         },
         {

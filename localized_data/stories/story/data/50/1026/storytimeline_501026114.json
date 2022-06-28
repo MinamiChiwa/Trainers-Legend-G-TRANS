@@ -80,7 +80,7 @@
             "Text": "小花，你好。\n怎么了吗？",
             "ChoiceDataList": [],
             "ColorTextInfoList": [
-                "フラワー"
+                "小花"
             ]
         },
         {
@@ -497,13 +497,13 @@
         },
         {
             "Name": "美浦波旁",
-            "Text": "发生了一件必须要向教练报告的事情。",
+            "Text": "发生了一件必须要向Master报告的事情。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "美浦波旁",
-            "Text": "教练，我“想赢”。",
+            "Text": "Master，我“想赢”。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -518,7 +518,7 @@
         },
         {
             "Name": "美浦波旁",
-            "Text": "──播放音档。",
+            "Text": "──播放录音。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -574,7 +574,7 @@
         },
         {
             "Name": "美浦波旁",
-            "Text": "所以，教练。\n我想在“天皇赏（春）”中取得胜利。",
+            "Text": "所以，Master。\n我想在“天皇赏（春）”中取得胜利。",
             "ChoiceDataList": [
                 "……一起取得胜利吧！！"
             ],
