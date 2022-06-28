@@ -245,7 +245,9 @@
         {
             "Name": "爱丽速子",
             "Text": "……",
-            "ChoiceDataList": [],
+            "ChoiceDataList": [
+                "……速子？"
+            ],
             "ColorTextInfoList": []
         },
         {
@@ -259,9 +261,7 @@
         {
             "Name": "爱丽速子",
             "Text": "啊，原来如此！\n……你还真是没变呢。",
-            "ChoiceDataList": [
-                "诶？"
-            ],
+            "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
@@ -327,15 +327,15 @@
         {
             "Name": "爱丽速子",
             "Text": "现在的你依然是……“眼神十分疯狂”。",
-            "ChoiceDataList": [],
+            "ChoiceDataList": [
+                "……？"
+            ],
             "ColorTextInfoList": []
         },
         {
             "Name": "爱丽速子",
             "Text": "……看来我是会被奇妙的东西吸引的体质呢。",
-            "ChoiceDataList": [
-                "……？"
-            ],
+            "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
@@ -347,12 +347,6 @@
         {
             "Name": "爱丽速子",
             "Text": "真是的，我才刚下定决心的说。\n没有比这更窝囊的事情了。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "爱丽速子",
-            "Text": "我的意思是，如果可能性不是零的话，\n放弃还嫌太早了。",
             "ChoiceDataList": [
                 "……什么意思？"
             ],
@@ -360,8 +354,16 @@
         },
         {
             "Name": "爱丽速子",
-            "Text": "既然如此豚鼠，\n只好请你配合我进行更多实验了。",
+            "Text": "我的意思是，如果可能性不是零的话，\n放弃还嫌太早了。",
             "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "既然如此豚鼠，\n只好请你配合我进行更多实验了。",
+            "ChoiceDataList": [
+                "所以是什么意思啊！？"
+            ],
             "ColorTextInfoList": []
         },
         {
@@ -375,9 +377,7 @@
         {
             "Name": "",
             "Text": "那天是她这三周以来\n第一次翘掉训练。",
-            "ChoiceDataList": [
-                "！？"
-            ],
+            "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
@@ -395,15 +395,15 @@
         {
             "Name": "爱丽速子",
             "Text": "我决定取消参加“月桂杯”了。",
-            "ChoiceDataList": [],
+            "ChoiceDataList": [
+                "诶！？"
+            ],
             "ColorTextInfoList": []
         },
         {
             "Name": "",
             "Text": "她没有向我详细说明……\n就又把自己关进研究室了。",
-            "ChoiceDataList": [
-                "诶！？"
-            ],
+            "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
