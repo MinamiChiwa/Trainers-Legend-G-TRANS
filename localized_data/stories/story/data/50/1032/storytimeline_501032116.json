@@ -237,6 +237,12 @@
             "ColorTextInfoList": []
         },
         {
+            "Name": "",
+            "Text": "“为了和你一起前往超越极限的前方”，\n我这么说之后，她难得地沉默了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
             "Name": "爱丽速子",
             "Text": "……",
             "ChoiceDataList": [],
@@ -254,7 +260,7 @@
             "Name": "爱丽速子",
             "Text": "啊，原来如此！\n……你还真是没变呢。",
             "ChoiceDataList": [
-                "え？"
+                "诶？"
             ],
             "ColorTextInfoList": []
         },
@@ -348,7 +354,7 @@
             "Name": "爱丽速子",
             "Text": "我的意思是，如果可能性不是零的话，\n放弃还嫌太早了。",
             "ChoiceDataList": [
-                "……何の話？"
+                "……什么意思？"
             ],
             "ColorTextInfoList": []
         },
@@ -396,7 +402,7 @@
             "Name": "",
             "Text": "她没有向我详细说明……\n就又把自己关进研究室了。",
             "ChoiceDataList": [
-                "え！？"
+                "诶！？"
             ],
             "ColorTextInfoList": []
         },
@@ -409,12 +415,6 @@
         {
             "Name": "",
             "Text": "结果爱丽速子突如其来的单方面决定，\n被各大媒体大篇幅地报导。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "モノローグ",
-            "Text": "アグネスタキオンの急で一方的な判断は、\r\n各所に大きく報じられることとなった。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         }
