@@ -1,0 +1,376 @@
+{
+  "Title": "そして、ブラックアウト",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "医生",
+      "Text": "还好病情处理得及时，你现在没有生命危险。\r\n但考虑到你的年龄，还是别再继续从事训练员的工作比较好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "首席训练员",
+      "Text": "是吗……这一天终究还是来了呀。\r\n……对不起，小铃铛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "训、训练员您才不用道歉！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "该道歉的人是我……\r\n明明我自己也知道不能一直这样软弱下去的……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "最后，首席训练员就此退休了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "首席训练员",
+      "Text": "<username>训练员……\r\n之后的事情，就拜托你多上心了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "首席训练员",
+      "Text": "没事的哦……没事的。\r\n你的话……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她将会在两周后正式办理离职手续，\r\n届时将由身为副训练员的我接手这支队伍。\r\n要留在队伍中、还是另寻队伍——这是目白多伯的自由。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "为此，我决定先问问看她的意向。但是……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "不好意思，有什么事都晚点再说。\r\n现在……我只想赶紧训练……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "对不起……现在我没有考虑这种事情的余裕。\r\n我现在想全力集中在训练之上……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "明明她这么相信我……但我却从未回应她的信任。\r\n我甚至还没为她带来哪怕一次胜利……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "明明她这么相信我……但我却从未回应她的信任。\r\n我甚至还没为她带来哪怕一次胜利……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "现在只剩下两周了！\r\n在此之前，无论如何都一定要拿下一场胜利……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "之后的两天里，我都因为工作的交接而不可开交，\r\n几乎完全没有自由活动的时间。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "当我好不容易闲下来的时候，\r\n我脑中却不断浮现出目白多伯那副足以称得上悲痛的模样——",
+      "ChoiceDataList": [
+        "去见见她吧……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "哈……哈……",
+      "ChoiceDataList": [
+        "多伯！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "噫……？！你……",
+      "ChoiceDataList": [
+        "多伯，你太乱来了！",
+        "多伯，你太乱来了！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "噫……？！啊……副训练员……",
+      "ChoiceDataList": [
+        "多伯，你太乱来了！",
+        "多伯，你太乱来了！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "吵死了……你别管我！",
+      "ChoiceDataList": [
+        "但你现在这么着急的话——",
+        "但你现在这么着急的话——"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "……求你了，请别管我。\r\n我说过了，我现在只想训练……！",
+      "ChoiceDataList": [
+        "但你现在这么着急的话--",
+        "但你现在这么着急的话--"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "凭我现在的实力，我不着急不行了啊！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "凭我现在的实力，我不着急不行了啊！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "因为我一直……一直都这么弱，所以……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "一开始，我也以为自己一定能获胜的。\r\n一定能像光明那样凛然地奔跑、像赖恩那样让大家见证自己的强大——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "我也想让所有人见识我身为目白家赛马娘那优秀的一面，\r\n但是……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "解说",
+      "Text": "——第一名已经冲线！其他选手也陆陆续续冲过终点！\r\n各位，请为这些努力的孩子们献上掌声吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "解说",
+      "Text": "啊！八号选手目白多伯，现在已经转过最终弯道了！\r\n虽然出闸时因摔倒而起步太慢，但她依旧永不放弃地努力到了现在！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "年幼的多伯",
+      "Text": "哈、哈、哈……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "观众们",
+      "Text": "很棒哦很棒哦！已经很了不起了，加油哦——！！\r\n只差一点了～！大家都看着你的努力的哦～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "年幼的多伯",
+      "Text": "哈、哈……呜呜呜……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "年幼的多伯",
+      "Text": "很了不起……？努力过了……？没关系……？\r\n……赖恩她们可从没得到过这种评价……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "年幼的多伯",
+      "Text": "赖恩和光明她们，只会被说很快、很厉害……\r\n但我却……只有这种……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "——最后的结果一塌糊涂。刚出闸就摔倒在地，最后被甩开将近半圈。\r\n从那以后……我感觉，所有人看我的目光都像是在嘲笑我。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "感觉像是在说“这家伙真不像样啊”“明明就很弱”……\r\n一想到这儿，心跳就会加速、手足似乎都不受自己控制了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "就因为这样，我根本没法像训练那样奔跑……！\r\n对大家而言理所当然的事，我却无论如何都做不到！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "我本以为要是有了训练员，我能稍微变得坚强一点……\r\n但现在，我也不能再依赖她了……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "就算如此，我现在也必须要赢得比赛的胜利才行！\r\n就算太乱来、就算是把自己逼入了绝境，我也只能这样做了啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "因为我就是这样弱小的人！要是我不能一个人变强的话……！",
+      "ChoiceDataList": [
+        "……你不是一个人哦。"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "……哈？",
+      "ChoiceDataList": [
+        "我会继续支持你的。",
+        "我会继续支持你的。"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "……什么啊，你是想说，有你替代训练员让我变强，所以没关系？\r\n我怎么可能这么突然就接受——！",
+      "ChoiceDataList": [
+        "不是，你本身的实力就已经够强了！",
+        "不是，你本身的实力就已经够强了！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "……？！你、你听见我刚说的什么了吗？！\r\n我不是刚说过我很弱小吗！从以前开始，我就一直……！！",
+      "ChoiceDataList": [
+        "但是你从来没有放弃过，对吧？",
+        "但是你从来没有放弃过，对吧？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "还差一点、就差一点……！！\r\n——啊啊啊啊啊啊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "不过，我也不能一直这样下去……\r\n这样只会重蹈之前模拟赛的覆辙。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "不过，我也不能一直这样下去……\r\n这样只会重蹈之前模拟赛的覆辙。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "……所以，我决定来和你多说说话，就当作是锻炼自己的精神！\r\n身为副训练员，陪我训练也是理所当然对吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "所以……我觉得，多和一些和我不太熟的人说说话，\r\n也能锻炼自己的精神……能请你陪陪我吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "明明她这么相信我……但我却从未回应她的信任。\r\n我甚至还没为她带来哪怕一次胜利……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "明明她这么相信我……但我却从未回应她的信任。\r\n我甚至还没为她带来哪怕一次胜利……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "现在只剩下两周了！\r\n在此之前，无论如何都一定要拿下一场胜利……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "直到现在为止，目白多伯一直都孤身一人不断和自己的缺点抗争着，\r\n并且永远都朝着『在比赛中获胜』这个目标在前进。",
+      "ChoiceDataList": [
+        "为了获胜而从不言弃的赛马娘，怎么可能弱小！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "呜……！！",
+      "ChoiceDataList": [
+        "“目白多伯”，是强大的赛马娘！",
+        "“目白多伯”，是强大的赛马娘！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "啊……我……\r\n……～～～～～！！！",
+      "ChoiceDataList": [
+        "多伯！！我等你回来啊！！",
+        "多伯！！我等你回来啊！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "即便只是孤身一人，目白多伯依旧是一位足够强大的赛马娘。\r\n但是……如果她需要谁去支持她的话，我永远都欢迎她来找我。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "——所以，我朝着她渐行渐远的背影拼命地大吼道。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

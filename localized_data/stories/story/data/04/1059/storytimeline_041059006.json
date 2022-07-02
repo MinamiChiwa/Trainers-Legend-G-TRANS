@@ -1,0 +1,503 @@
+{
+  "Title": "たとえば、カラフルメモリー",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "休息日，我准备来电影院看看电影——\r\n却突然在前厅遇见了目白多伯。",
+      "ChoiceDataList": [
+        "多伯！好巧啊！",
+        "多伯！真巧呢！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "噫？！……你、你认错人了——",
+      "ChoiceDataList": [
+        "？不对，你就是多伯吧？是我啊！",
+        "？不对，你就是多伯吧？是我哦！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "……怎么是你啊。\r\n别突然从我背后叫我啦！很吓人的！",
+      "ChoiceDataList": [
+        "……但你也不至于直接跑路吧……",
+        "……但你也不至于直接跑路吧……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "原来是训练员呀……真是的，别吓我啦。\r\n突然从背后叫我，很吓人的。",
+      "ChoiceDataList": [
+        "……但你也不至于直接跑路吧……",
+        "……但你也不至于直接跑路吧……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "这个是……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "这个是……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "……说起来，你之前擅自看了我的画吧。\r\n那跟你说了也没关系。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "啊，训练员看过我的画的吧，那你应该知道的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "其实，我今天是打算来看这部电影。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "其实，我今天是打算来看这部电影。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "目白多伯说着，\r\n将她在手机上在线预约的电影票展示给我看了看。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她预定的电影是『蔬菜少女剧场版・无人岛上的暑假！』\r\n……这不就是她前段时间她练习画像的幼儿向动画吗。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "我本来是打算和赖恩一起来看的，\r\n但她突然有事来不了……我只能一个人来看了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "但好像小孩子比我预想中的还要多……\r\n我的年纪是不是太大了啊？总……总觉得好在意……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "川上说『公主战士』的电影是老少皆宜的作品，\r\n我原以为这部也一样……但小孩子多到离谱了啊……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "甚至都没几个学生……我在里面一定会显得很显眼的吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "……等以后赖恩有空的时候再一起来吧……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "……但是观影特典应该是数量有限……\r\n过几天可能就没了……",
+      "ChoiceDataList": [
+        "那我陪你看吧？",
+        "那我可以陪你一起看吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "诶……？你不是有想看的电影才来电影院的吗？\r\n你肯定不会对『蔬菜少女☆萝卜子』这种东西感兴趣的吧。",
+      "ChoiceDataList": [
+        "但我对多伯想看的电影很感兴趣！",
+        "但我对多伯想看的电影很感兴趣！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "诶……？但是训练员有自己想看的电影吧？\r\n不用勉强自己来陪我的哦。",
+      "ChoiceDataList": [
+        "但我对多伯想看的电影很感兴趣！",
+        "但我对多伯想看的电影很感兴趣！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "你在说什么啊…………要是你觉得很无聊的话我可不负责哦。\r\n反正是你自顾自要陪我的。",
+      "ChoiceDataList": [
+        "那就决定了呢！",
+        "那当然！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "这确实像是你会说的话呢……\r\n不过要是训练员愿意的话……我想和你一起看，可以吗？",
+      "ChoiceDataList": [
+        "那就决定了呢！",
+        "那当然！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "馆内广播",
+      "Text": "『在二号影厅上映的『蔬菜少女・无人岛上的暑假！』\r\n现在开始检票。』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "馆内广播",
+      "Text": "『在二号影厅上映的『蔬菜少女・无人岛上的暑假！』\r\n现在开始检票。』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "啊……开始检票了。那……走吧，训练员。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "啊……开始检票了。那……走吧，训练员。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "在检票口，我们每人都收到了一张作为特典的贴纸。\r\n在白色的背景纸上、画着各式各样的角色。",
+      "ChoiceDataList": [
+        "我的贴纸也送给你吧？",
+        "我的贴纸也送给你吧？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "在检票口，我们每人都收到了一张作为特典的贴纸。\r\n在白色的背景纸上、画着各式各样的角色。",
+      "ChoiceDataList": [
+        "我的贴纸也送给你吧？",
+        "我的贴纸也送给你吧？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "可以吗……？谢、谢谢。\r\n我本来打算再来看一次拿第二张贴纸的……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "可以吗……？其实我本来就想要两张贴纸，\r\n本来还想来看第二次的……谢谢你帮忙，训练员。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "训练员的贴纸也是白色背景的啊。\r\n……要是我的贴纸也不是他们喜欢的颜色的话，\r\n他们会很可怜的吧……",
+      "ChoiceDataList": [
+        "贴纸不都是一样的吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "训练员的贴纸也是白色背景的啊。\r\n……要是我的贴纸也不是他们喜欢的颜色的话，\r\n他们会很可怜的吧……",
+      "ChoiceDataList": [
+        "贴纸不都是一样的吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "贴纸上的图案全都一样，角色们也完全相同。\r\n不同的只有背景色。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "虽然其他方面都一样……\r\n但既然有各种不同颜色的话，肯定是拿到喜欢的颜色更好吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "特别是小孩子，他们不是特别喜欢在颜色的问题上钻牛角尖吗？\r\n我父母也说过小孩子常常因为颜色的问题和别人吵起来。",
+      "ChoiceDataList": [
+        "多伯也因为颜色的问题和别人吵起来过吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "我嘛……好像没怎么吵过。\r\n赖恩一直都很让着我。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "没有哦，我倒是没怎么吵过。\r\n这种时候赖恩都会主动把我喜欢的颜色让给我。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "……话说，我的事情怎么样都好吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "……好啦，我的事情待会再说啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "我的这张贴纸能不能换成绿色的呢……\r\n去问下负责人——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "电影院的工作人员",
+      "Text": "不好意思，我们不允许自己选择贴纸的颜色，\r\n也不能拿已有的贴纸与我们交换哦……非常抱歉。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女孩子的母亲",
+      "Text": "换不了呀……就将就一下吧，好吗？\r\n你看，这上面不还是有萝卜子的贴画嘛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "女孩子",
+      "Text": "我不要嘛～！！我就是不想要绿色～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "看来这个小女孩拿到了绿色的贴纸。\r\n……突然，我注意到她正穿着与萝卜子的服装一样的红色连衣裤。",
+      "ChoiceDataList": [
+        "……多伯，你的贴纸是什么颜色的？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "诶？是红色的……",
+      "ChoiceDataList": [
+        "要不你和这姑娘换一换？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "啊……这样呀，这孩子刚刚说自己的贴纸是绿色的呢。\r\n但是，也不能肯定她就是想要红色的吧？",
+      "ChoiceDataList": [
+        "大概就是红色吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "多伯半信半疑地将她红色的贴纸递给了我，\r\n我带着红色贴纸走向那个哭泣不已的少女——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "多伯半信半疑地将她红色的贴纸递给了我，\r\n我带着红色贴纸走向那个哭泣不已的少女——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "……没想到真的交换了啊……\r\n你怎么知道那姑娘想要的颜色就是红色？",
+      "ChoiceDataList": [
+        "她不是穿着红色的连衣裤嘛。",
+        "她不是穿着红色的连衣裤嘛。"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "没想到真的能和她交换啊……\r\n训练员，你怎么知道她想要的颜色就是红色的呢？",
+      "ChoiceDataList": [
+        "她不是穿着红色的连衣裤嘛。",
+        "她不是穿着红色的连衣裤嘛。"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "动画的主角萝卜子穿的也是红色连衣裤。\r\n既然穿着相同的衣服，那她想要的颜色应该也是红色。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "动画的主角萝卜子穿的也是红色连衣裤。\r\n既然穿着相同的衣服，那她想要的颜色应该也是红色。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "原来如此……\r\n……身为训练员，这点察言观色的本事也算是理所当然吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "身为训练员的观察能力真是名不虚传呢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "说到这个……刚看你和那孩子换贴纸的时候我就在想……\r\n你……不会被当成是『蔬菜少女☆萝卜子』的大龄发烧友吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "说起来……训练员，刚才看你和那个孩子交换贴纸的时候我就在想……\r\n你看上去很像是『蔬菜少女☆萝卜子』的发烧友呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "……这可比我显眼得多啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "……这比我显眼得多呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "——这电影意料之外地蛮有趣的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "虽然没想到现在在主角团里活跃的都是以前没有的角色就是了。\r\n原来那些孩子们在讨论的都是这些角色啊……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "…………我……其实有岁数差得很多的弟弟和妹妹。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "他们都很喜欢『蔬菜少女☆萝卜子』。\r\n我就是为了了解这部动画现在的内容，才来看电影的。",
+      "ChoiceDataList": [
+        "拿贴纸也是为了他们两个吧。",
+        "拿贴纸也是为了他们两个吧。"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "嗯。能拿到他们喜欢的颜色真是太好啦。\r\n要是只有我一个人的话，肯定不敢去和其他客人交换的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "那个……你愿意陪我一起来，帮大忙了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "训练员愿意陪我一起来，真的帮大忙了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "等我注意到的时候，我已经完全忘了其他人的视线了。\r\n明明我以前这么在意的……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "等我注意到的时候，我已经完全忘了其他人的视线了。\r\n明明我以前这么在意的……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "……该说是……稍微安心些了吗……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "有你在我身边，我感觉安心得多了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "……哎，总之就是这样！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "……谢谢您，训练员。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "说罢，目白多伯扭头快步走了起来。\r\n在她身后，映着夕阳的柔顺长发轻轻摇曳。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "说罢，目白多伯像是有些害羞似的挪开了视线。\r\n夕阳照在她的侧颜上，为她的脸颊染上一抹茜色。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
