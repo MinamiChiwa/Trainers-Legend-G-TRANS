@@ -64,6 +64,7 @@
 | 1007 | ENDLESS DREAM!!                   | 完全翻译√ | 南千和                       |
 | 1008 | NEXT FRONTIER                     | 完全翻译√ | 南千和                       |
 | 1009 | UNLIMITED IMPACT                  | 完全翻译√ | 南千和                       |
+| 1010 | Special Record!                  | 完全翻译√ | *雪村あおいaoi（Bilibili）     |
 | 1012 | グロウアップ・シャイン！          | 完全翻译√ | *雪村あおいaoi（Bilibili）   |
 | 1025 | はじまりのSignal                  | 完全翻译√ | 南千和                       |
 | 1026 | ささやかな祈り                    | 完全翻译√ | TV动画第二季                 |
