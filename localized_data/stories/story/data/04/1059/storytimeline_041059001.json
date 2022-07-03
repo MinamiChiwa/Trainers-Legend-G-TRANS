@@ -1,0 +1,328 @@
+{
+  "Title": "きらり、パーティクル",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "在我以新人训练员的身份进入特雷森学园以来，已经过去一段时间了。\r\n从今天开始，我的工作也将迈向崭新的阶段……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "首席训练员",
+      "Text": "初次见面，<username>训练员。\r\n你马上就要就任于我的队伍了呢，我是这支队伍的首席训练员。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "首席训练员",
+      "Text": "如你所见，虽然我也年事已高，能就任训练员的时间应该也不太长……\r\n但还是请你多多关照了，副训练员。",
+      "ChoiceDataList": [
+        "好的，请多关照！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "首席训练员",
+      "Text": "呵呵呵，答得不错呢。我很期待你的表现，你可要加油哦？\r\n其实我呀，就是想看看你以后的成长如何才选你入队的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "首席训练员",
+      "Text": "那就事不宜迟——\r\n来见见咱们最重要的赛马娘吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "学园的新人训练员们，往往都会以副训练员的身份加入一支队伍，\r\n一边辅助首席训练员的工作一边积累经验，直到能够独当一面。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "这次将我选作副训练员的是一位资历相当老的训练员。\r\n她的签约赛马娘是——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "哈……哈……训练内容都已经完成了，训练员。\r\n请给我接下来的指示！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "首席训练员",
+      "Text": "辛苦啦，小铃铛。接下来就是并跑训练了……在此之前，还有件事。\r\n——他就是之前我跟你提到过的副训练员。\r\n（小铃铛：多伯名为ドーベル，取后半做昵称即铃铛ベル）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "首席训练员",
+      "Text": "辛苦啦，小铃铛。接下来就是并跑训练了……在此之前，还有件事。\r\n——她就是之前我跟你提到过的副训练员。\r\n（小铃铛：多伯名为ドーベル，取后半做昵称即铃铛ベル）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "……您好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "啊……您好。呃……请您多多指教了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "首席训练员",
+      "Text": "副训练员，我再介绍一次吧。她是小铃铛……\r\n目白多伯哦。她可是我们队伍里最重要最重要的赛马娘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "首席训练员",
+      "Text": "副训练员，我再介绍一次吧。她是小铃铛……\r\n目白多伯哦。她可是我们队伍里最重要最重要的赛马娘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "首席训练员",
+      "Text": "她大概是我最后一位签约赛马娘了吧。\r\n如你所见，我也已经是个老太婆啦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "训练员……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "首席训练员",
+      "Text": "哎呀对不起，没事的啦小铃铛！\r\n我还精神得很呢，不用露出那么一副寂寞的表情啦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "气槽",
+      "Text": "——失礼了。\r\n我是这次并跑训练的对手，现在可以开始了吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "首席训练员",
+      "Text": "嗯嗯，当然可以啦！谢谢你愿意参与我们的训练啦，气槽同学。\r\n小铃铛，准备好了吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "嗯……！\r\n前辈，请您多多关照了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "就这样，目白多伯与气槽的并跑训练开始了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "这次并跑训练的对手，是享有“女帝”之美誉的气槽。\r\n是一位母女都曾称霸GⅠ『橡树大赛』的强者。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "另一方面，目白多伯则是尚未出道的赛马娘。\r\n我原以为她只要能不被气槽甩开太多就好了，然而——！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "哈、哈、哈…………哈啊啊啊啊啊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "气槽",
+      "Text": "……！哼，还挺强的嘛……！！",
+      "ChoiceDataList": [
+        "（刚才那样的加速……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她浑身的动作显出美妙的跃动感，而这也为她的速度带来极大提升。\r\n从她的奔跑中，我能感到所谓“天赐的才能”。而且不仅如此——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "还差一点、就差一点……！！\r\n——啊啊啊啊啊啊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "直到决出胜负之前，决不放弃的毅力。\r\n她的这份意志宛如耀眼的光芒，在我心中留下了深刻的印象……！",
+      "ChoiceDataList": [
+        "（目白多伯……好厉害的姑娘……！）",
+        "（目白多伯……好厉害的姑娘……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "哈、哈、哈……非常……感谢您……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "气槽",
+      "Text": "没事。不过……你还真厉害啊，多伯。\r\n刚才的那速度可真是了不得啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "不，您过奖了……不管是位置的争抢还是冲刺的时机，\r\n都还差得远呢。我直到最后都没能跑在前辈的前面呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "气槽",
+      "Text": "哈哈，毕竟我也不会这么轻易就让步。\r\n不过我还是能切实地感觉到你就在我身后一步之遥哦。\r\n……你真是遇到了一个好训练员啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "是的……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "我的水平还差得远呢……但要是稍微进步了一小点的话，\r\n那也一定全都是训练员的功劳。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "首席训练员",
+      "Text": "嗯嗯！小铃铛刚刚跑的很棒呢。",
+      "ChoiceDataList": [
+        "确实呢……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "首席训练员",
+      "Text": "哎呀真是的！呵呵，看看你自己那闪闪发光的眼神吧。\r\n……嗯，我就觉得你是会露出这种眼神的训练员呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "首席训练员",
+      "Text": "……小铃铛很厉害对吧。\r\n不管是她的心境还是身体能力，都能让人感到满满的可能性呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "首席训练员",
+      "Text": "虽然我也很想继续见证她这美好的未来，但——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "那个，训练员！现在我体力还有剩，\r\n可以在身子冷下来之前先和前辈一起去外面跑跑吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "首席训练员",
+      "Text": "哎呀哎呀，小铃铛你也真是的，最近总是这副干劲满满的样子！\r\n是呢……只跑一圈的话就行啦。记得放慢步调哦？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "好的，谢谢您。那我去啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "首席训练员",
+      "Text": "……那么，我们也差不多该收拾收拾了呢。",
+      "ChoiceDataList": [
+        "好的。"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "那天我一边帮着首席训练员的忙，\r\n一边在脑中不断地回想着目白多伯的奔跑。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "气槽",
+      "Text": "唔……等等，多伯。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "在……？\r\n啊——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "记者们",
+      "Text": "赖恩小姐！赖恩小姐！！\r\n目白赖恩小姐，请看这边～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "乙名史记者",
+      "Text": "目白赖恩小姐，您前段时间的表现非常活跃呢！\r\n有无数粉丝正期待着您的下次比赛，您现在心情如何？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白赖恩",
+      "Text": "这个嘛……嗯，非常感谢各位的声援！\r\n为了回应大家的期待，往后我一定会加倍努力锻炼的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "…………唔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "气槽",
+      "Text": "——去里面绕另一条路好了。过来吧，多伯。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "好的……前辈。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
