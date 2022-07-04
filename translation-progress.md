@@ -301,7 +301,7 @@
 | 1057   | 千明代表     |                  |                                                      |
 | 105801 | 名将怒涛     |                  |                                                      |
 | 105901 | 目白多伯     | 完全翻译√        | 毫毛                                                 |
-| 105902 | 目白多伯     | 绝大部分         | 毫毛                                                 |
+| 105902 | 目白多伯     | 完全翻译√        | 毫毛                                                 |
 | 106001 | 优秀素质     | 完全翻译√        | 晖轩                                                 |
 | 106002 | 优秀素质     | 完全翻译√        | 南千和                                               |
 | 106101 | 圣王光环     | 完全翻译√        | Komoe、Chihyuen                                      |
@@ -370,18 +370,18 @@
 
 | 编号   | 角色译名   | 状态             | 译者                                                     |
 | ------ | ---------- | ---------------- | -------------------------------------------------------- |
-| 100101 | 特别周     | 完全翻译√        | Chihyuen                                                 |
-| 100102 | 特别周     | 完全翻译√        | Chihyuen                                                 |
+| 100101 | 特别周     | 完全翻译√        | Chihyuen、Komoe                                          |
+| 100102 | 特别周     | 完全翻译√        | Chihyuen、Komoe                                          |
 | 100201 | 无声铃鹿   | 完全翻译√        | 毫毛、Komoe                                              |
-| 100301 | 东海帝王   | 完全翻译√        | @RikkaTakanaishi、@uss-enterprise1071（Gitee）、Chihyuen |
-| 100302 | 东海帝王   | 完全翻译√        | @RikkaTakanaishi、@uss-enterprise1071（Gitee）、Chihyuen |
+| 100301 | 东海帝王   | 完全翻译√        | @RikkaTakanaishi、@uss-enterprise1071（Gitee）、Chihyuen、Komoe|
+| 100302 | 东海帝王   | 完全翻译√        | @RikkaTakanaishi、@uss-enterprise1071（Gitee）、Chihyuen、Komoe|
 | 100401 | 丸善斯基   | 完全翻译√        | Chihyuen、Komoe                                          |
 | 100402 | 丸善斯基   | 完全翻译√        | Chihyuen、Komoe                                          |
-| 100501 | 富士奇石   |                  |                                                          |
-| 100502 | 富士奇石   |                  |                                                          |
+| 100501 | 富士奇石   | 翻译中           | Chihyuen                                                 |
+| 100502 | 富士奇石   | 翻译中           | Chihyuen                                                 |
 | 100601 | 小栗帽     | Komoe | Komoe |
 | 100602 | 小栗帽     | Komoe | Komoe |
-| 100701 | 黄金船     | 完全翻译√        | Chihyuen                                                 |
+| 100701 | 黄金船     | 完全翻译√        | Chihyuen、Komoe                                          |
 | 100801 | 伏特加     | 完全翻译√        | Chihyuen                                                 |
 | 100901 | 大和赤骥   | 完全翻译√        | Chihyuen                                                 |
 | 101001 | 大树快车   | Komoe | Komoe |
