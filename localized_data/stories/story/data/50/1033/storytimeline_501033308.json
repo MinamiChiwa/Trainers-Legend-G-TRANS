@@ -21,7 +21,7 @@
     },
     {
       "Name": "好歌剧",
-      "Text": "不、胜者是我！\n这场盛大歌剧的主角、只能是我！！",
+      "Text": "不！胜者是我！\r\n这场盛大歌剧的主角、只能是我！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -45,7 +45,7 @@
     },
     {
       "Name": "爱慕织姬",
-      "Text": "（……为什么，我会感受到这股热情呢。\n这般热情是——！！）",
+      "Text": "（……为什么，我会感受到这股热情呢。\r\n这般热情……到底是……！！）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -63,13 +63,13 @@
     },
     {
       "Name": "爱慕织姬",
-      "Text": "要更快——！！",
+      "Text": "更快——！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "爱慕织姬",
-      "Text": "……哈――",
+      "Text": "……呼——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -77,19 +77,19 @@
       "Name": "爱慕织姬",
       "Text": "哈啊啊啊啊啊啊啊！！",
       "ChoiceDataList": [
-        "（织姬……！？）"
+        "（爱织……？！）"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "独白",
-      "Text": "织姬，一直都是一副严肃而沉默的模样。\n为了达成她的使命、她一直克制着自己。\n而现在的她——",
+      "Text": "爱织，一直都是一副严肃而寡言的模样。\r\n为了达成她的使命、她一直克制着自己。\r\n而现在的她——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "独白",
-      "Text": "如流星一般、煌煌熊燃。",
+      "Text": "如流星一般，煌煌燃烧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -101,7 +101,7 @@
     },
     {
       "Name": "爱慕织姬",
-      "Text": "（——热情，还在燃烧。）",
+      "Text": "（——热情，仍未熄灭。）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -119,19 +119,19 @@
     },
     {
       "Name": "爱慕织姬",
-      "Text": "（……是这样吗――）",
+      "Text": "（……是这样吗——）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "独白",
-      "Text": "1着こそ逃してしまったものの、\r\nクラシック三冠『皐月賞』にて、\nアドマイヤベガは見事な結果を残せた。",
+      "Text": "虽然与冠军失之交臂，\r\n但爱慕织姬在皋月赏上依旧留下了不错的结果。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "独白",
-      "Text": "心配だった食欲も回復してきているようで、\r\nこのまま次なる大舞台『日本ダービー』に\n向け、順調に準備を進められそうだ。",
+      "Text": "她那令人担忧的食欲问题也已经恢复，\r\n接下来只要继续准备下一场比赛\r\n『日本德比』就好了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -145,20 +145,20 @@
       "Name": "爱慕织姬",
       "Text": "……………………",
       "ChoiceDataList": [
-        "……织姬，今天的训练已经结束了哦？",
-        "……アヤベ、今日のメニューは終わったよ？"
+        "……爱织，今天的训练已经结束了哦？",
+        "……爱织，今天的训练已经结束了哦？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "爱慕织姬",
-      "Text": "……欸？",
+      "Text": "……诶？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "爱慕织姬",
-      "Text": "啊……好。我明白了。",
+      "Text": "啊……嗯。我明白了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -182,7 +182,7 @@
     },
     {
       "Name": "成田路",
-      "Text": "…………不行。\n这样下去的话，\n根本追不上织姬和小歌剧……！！",
+      "Text": "…………不行。\n这样下去的话，\n根本追不上爱织和小歌剧……！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -200,7 +200,7 @@
     },
     {
       "Name": "爱慕织姬",
-      "Text": "……ダービー、までに。\r\nあの子、どこまで速くなるかしら？",
+      "Text": "……等到德比的时候……\r\n她究竟能成长到何种水平呢？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -220,7 +220,7 @@
     },
     {
       "Name": "独白",
-      "Text": "哪怕只有一丁点也好，\n在她的心中——",
+      "Text": "哪怕只有一丁点也好，\r\n在她的心中——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -228,7 +228,7 @@
       "Name": "独白",
       "Text": "也许有种名为『劲敌意识』的东西，\n悄悄萌芽了。",
       "ChoiceDataList": [
-        "（这一定是个好的影响吧。）"
+        "（这一定会是个好影响吧。）"
       ],
       "ColorTextInfoList": []
     },
@@ -240,10 +240,10 @@
     },
     {
       "Name": "独白",
-      "Text": "不过，在比赛之中，\n爱慕织姬自己也能发现自己的劲敌，\n然后自己也开始享受相互竞争的乐趣吧——",
+      "Text": "不过，在比赛之中，\r\n爱慕织姬也能发现自己的劲敌，\r\n然后自己也开始享受相互竞争的乐趣吧——",
       "ChoiceDataList": [
         "（那样的话可就再好不过啦。）",
-        "（それは、すごくいいことだよね）"
+        "（那样的话可就再好不过啦。）"
       ],
       "ColorTextInfoList": []
     },
@@ -252,22 +252,22 @@
       "Text": "在归途上，我不经意地抬头看了一眼天空。\n此时，一道思绪闪过脑海。",
       "ChoiceDataList": [
         "今天也是个大阴天……",
-        "今日もぱっとしない天気……"
+        "今天也是个大阴天……"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "独白",
-      "Text": "说起来，爱慕织姬——",
+      "Text": "说起来，爱慕织姬……",
       "ChoiceDataList": [
         "她最近有去看星星吗？",
-        "最近、星を観に行けているのかな？"
+        "她最近有去看星星吗？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "独白",
-      "Text": "それからもしばらく続いた春曇りの中、\r\n『日本ダービー』に向けたトレーニングが\n始まった――",
+      "Text": "在一片春阴之中，\r\n我们为『日本德比』而进行的训练开始了——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

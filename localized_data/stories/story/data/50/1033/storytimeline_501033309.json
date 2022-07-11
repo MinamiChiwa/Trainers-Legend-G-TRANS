@@ -15,7 +15,7 @@
     },
     {
       "Name": "独白",
-      "Text": "（唔哦哦哦哦哦哦哦！）",
+      "Text": "（--欢呼声--）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -33,13 +33,13 @@
     },
     {
       "Name": "爱慕织姬",
-      "Text": "（脚步也开始蹒跚……\n这股热情……好像我已经无法承受了。）",
+      "Text": "（脚步也开始蹒跚……\r\n这股仿佛要将我燃烧殆尽的热情……！）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "爱慕织姬",
-      "Text": "（这股在胸中熊熊燃烧的热情……！）",
+      "Text": "（这股……在胸中熊熊燃烧的热情……！）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -51,7 +51,7 @@
     },
     {
       "Name": "爱慕织姬",
-      "Text": "……它高呼着，要比歌剧王更快。",
+      "Text": "……它高呼着，要比好歌剧更快。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -63,7 +63,7 @@
     },
     {
       "Name": "爱慕织姬",
-      "Text": "我——我才应该在最前方！",
+      "Text": "最前方……身处最前方的人……\r\n——是我！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -80,44 +80,44 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "织姬的母亲",
+      "Name": "爱织的母亲",
       "Text": "……啊啊——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "织姬的母亲",
+      "Name": "爱织的母亲",
       "Text": "…………感觉怎么样？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "织姬的母亲",
-      "Text": "長い――永遠みたいに長い最後の直線で、\r\nそれでも最後の力を振り絞って、\n先頭に立てた気持ちは。",
+      "Name": "爱织的母亲",
+      "Text": "在这条仿佛无尽延申的最终直线上，\r\n绞尽身体的最后一丝力气，\r\n站立于最前方的感觉。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "织姬的母亲",
-      "Text": "府中に轟く大歓声を、一身に浴びる気持ちは。\r\nどうだった……？",
+      "Name": "爱织的母亲",
+      "Text": "沐浴在令全场轰鸣的大欢声之中的感觉……\r\n怎么样……？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "织姬的母亲",
+      "Name": "爱织的母亲",
       "Text": "果然……很开心吧……？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "织姬的母亲",
-      "Text": "你真的能感受到的话、就好了——",
+      "Name": "爱织的母亲",
+      "Text": "你真的能感受到此般愉悦的话……就好了——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田路",
-      "Text": "……织姬同学。",
+      "Text": "……爱织同学。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -147,7 +147,7 @@
     },
     {
       "Name": "成田路",
-      "Text": "正因如此，还不能在这里止步。\n我还想战胜你。",
+      "Text": "果然，还不能在这里止步。\r\n我还是想要战胜你。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -165,7 +165,7 @@
     },
     {
       "Name": "成田路",
-      "Text": "然后——\n再一决胜负吧，织姬同学。",
+      "Text": "然后——\n再一决胜负吧，爱织同学。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -189,9 +189,9 @@
     },
     {
       "Name": "独白",
-      "Text": "レースを終え、控え室へと戻って来た\r\nアドマイヤベガを迎え入れる。",
+      "Text": "比赛结束后，我出门迎接了凯旋的爱慕织姬。",
       "ChoiceDataList": [
-        "恭喜获胜。"
+        "恭喜获胜！"
       ],
       "ColorTextInfoList": []
     },
@@ -203,7 +203,7 @@
     },
     {
       "Name": "爱慕织姬",
-      "Text": "……看上去，你好像不吃惊啊。",
+      "Text": "……看上去，你好像不怎么吃惊啊。",
       "ChoiceDataList": [
         "为什么要吃惊？"
       ],
@@ -217,7 +217,7 @@
     },
     {
       "Name": "爱慕织姬",
-      "Text": "オペラオーもいたし……\r\nトップロードさんもいたし。",
+      "Text": "好歌剧也有参赛，\r\n成田路同学也是……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -226,7 +226,7 @@
       "Text": "而且、这可是德比——",
       "ChoiceDataList": [
         "不过，我一直相信赢的人是你哦。",
-        "でも、貴方が勝つって信じてたから"
+        "不过，我一直相信赢的人是你哦。"
       ],
       "ColorTextInfoList": []
     },
@@ -235,7 +235,7 @@
       "Text": "！",
       "ChoiceDataList": [
         "我一直相信着你的末脚、你的实力！",
-        "貴方の末脚を、強さを、信じてたから！"
+        "我一直相信着你的末脚、你的实力！"
       ],
       "ColorTextInfoList": []
     },
@@ -253,13 +253,13 @@
     },
     {
       "Name": "独白",
-      "Text": "それだけ返して、てきぱきとライブ準備を\r\n整え始めた彼女の背中を見つめ、\nこちらも思いを新たにする。",
+      "Text": "爱织只是简单地应了一句。\r\n看着开始麻利地准备胜者Live的她，\r\n我考虑了一下将来的事情。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "独白",
-      "Text": "次はクラシック三冠路線の最終戦『菊花賞』。\r\n再び彼女を最も高みで輝かせるため、\nこちらも全力を尽くしていこう――！",
+      "Text": "下次便是经典三冠路线的最终战，『菊花赏』。\r\n为了能让她再度散发出最为闪耀的光芒，\r\n我也必须努力才行——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

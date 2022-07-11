@@ -9,19 +9,19 @@
     },
     {
       "Name": "实况",
-      "Text": "クラシック三冠路線の最終戦！\n見事勝利したのは――",
+      "Text": "经典三冠路线的最终战！\r\n漂亮地将菊之荣冠紧握于手中的是——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "实况",
-      "Text": "テイエムオペラオー！\nテイエムオペラオーですっ！！\n歌劇王の頭上に、菊の栄冠が輝く！",
+      "Text": "好歌剧！好歌剧！\r\n菊之荣冠正闪耀在歌剧之王头上！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "（ワァアアアアア！！）",
+      "Text": "（——欢呼声——）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -57,7 +57,7 @@
     },
     {
       "Name": "成田路",
-      "Text": "织姬同学……",
+      "Text": "爱织同学……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -81,7 +81,7 @@
     },
     {
       "Name": "",
-      "Text": "『亡き妹に至上の栄光を捧げ続ける』という\r\n本人の目標を考えれば、次に見据えるべきは\nたとえば年末の『有馬記念』――",
+      "Text": "『为了已故的妹妹献上无二的荣光』——\r\n这是她的目标。要是以这个目标考虑的话，\r\n可选的比赛有年末的『有马纪念』……",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
         "有马纪念"
@@ -89,12 +89,12 @@
     },
     {
       "Name": "",
-      "Text": "あるいは春シニア三冠路線かと思い、\nそのための用意も進めていたのだが。",
+      "Text": "或者说，以春古马三冠为目标应该也不错……",
       "ChoiceDataList": [
         "……还是暂时放一放吧。"
       ],
       "ColorTextInfoList": [
-        "シニア"
+        "古马"
       ]
     },
     {
@@ -105,7 +105,7 @@
     },
     {
       "Name": "独白",
-      "Text": "次の目標は少し期間を置いた来年の夏前、\r\n『宝塚記念』に据えよう。\n本人ともそう話すため、用意を進めた。",
+      "Text": "最后我决定将目标定在稍远一些的『宝冢纪念』。\r\n为了告诉她这一消息，我开始着手准备资料。",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
         "宝冢纪念"
@@ -143,7 +143,7 @@
     },
     {
       "Name": "？？？",
-      "Text": "织姬同学！",
+      "Text": "爱织同学！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -155,13 +155,13 @@
     },
     {
       "Name": "成田路",
-      "Text": "……晚上好。\n已经快要到门禁时间了噢，你打算去哪儿？",
+      "Text": "……晚上好。\r\n已经快要到门禁时间了哦，你打算去哪儿？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "爱慕织姬",
-      "Text": "夜间训练。我已经交过申请了。",
+      "Text": "夜间训练。\r\n我已经交过申请了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -191,7 +191,7 @@
     },
     {
       "Name": "成田路",
-      "Text": "织姬同学。\n……请不要勉强自己。",
+      "Text": "爱织同学。\n……请不要勉强自己。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -209,7 +209,7 @@
     },
     {
       "Name": "爱慕织姬",
-      "Text": "……跟你没关系吧。",
+      "Text": "……跟你没关系。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -257,7 +257,7 @@
     },
     {
       "Name": "成田路",
-      "Text": "好好休息、打起精神之后再开始训练，\n然后……",
+      "Text": "好好休息、体力恢复之后再开始训练，\r\n然后……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -281,7 +281,7 @@
     },
     {
       "Name": "成田路",
-      "Text": "织姬同学……",
+      "Text": "爱织同学……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -341,13 +341,13 @@
     },
     {
       "Name": "独白",
-      "Text": "ひたすらに色濃い、全てを暗く暗く\r\n塗り潰してしまいそうな夜闇の中――",
+      "Text": "黑暗笼罩着天空。\r\n在这一片仿佛要将一切染为漆黑的夜晚中——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "独白",
-      "Text": "『宝塚記念』に向け用意しておいた資料が、\r\n薄らと星明りを浴びていた。",
+      "Text": "一丝微薄的星光照耀在『宝冢纪念』的资料上。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

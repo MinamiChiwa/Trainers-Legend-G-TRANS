@@ -9,33 +9,33 @@
     },
     {
       "Name": "观众们",
-      "Text": "（喧闹声）",
+      "Text": "（——喧闹声——）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "比赛粉丝A",
-      "Text": "没想到没想到，这一天终于到了！\n爱慕织姬、好歌剧、成田路、名将怒涛，\n她们私人聚首在同一场比赛之中！",
+      "Text": "没想到没想到，这一天终于到了！\r\n爱慕织姬、好歌剧、成田路、名将怒涛，\r\n她们四人聚首在同一场比赛之中！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "比赛粉丝B",
-      "Text": "去年のクラシックを思いっきり沸かせて\nくれた三強に本格化したドトウも加わって……\nくぅ～、私、この時代に生きててよかったー！",
+      "Text": "在去年的经典级闯出一片天地的三强，\r\n再加上终于迎来本格化的名将怒涛……\r\n呜呜，我生在这个时代真是太好了——！",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
-        "三強"
+        "三强"
       ]
     },
     {
-      "Name": "织姬粉丝A",
+      "Name": "爱织粉丝A",
       "Text": "不过，秋季之盾一定会由爱慕织姬拿下。\n现在的她不仅仅拥有那般迫力，看上去在春季的\n比赛中还解开了心结……现在的她，毫无破绽！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "歌剧王粉丝A",
-      "Text": "——不对，应该是歌剧王获胜！\n那股莫名其妙的迫力、那种意义不明的强大！\n要说本世代的代表的话，非歌剧王莫属！",
+      "Name": "好歌剧粉丝A",
+      "Text": "——不对，应该是好歌剧获胜！\r\n那股莫名其妙的霸气、那种意义不明的强大！\r\n要说本世代的代表的话，非好歌剧莫属！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -53,13 +53,13 @@
     },
     {
       "Name": "爱慕织姬",
-      "Text": "……――",
+      "Text": "……——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "出赛已经近在眼前。\n织姬已经做好准备，现在正在慢慢调整呼吸。\n看着这样的她，我突然想问她个问题。",
+      "Text": "出赛已经近在眼前。\n爱织已经做好准备，现在正在慢慢调整呼吸。\n看着这样的她，我突然想问她个问题。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -68,7 +68,7 @@
       "Text": "说起来，\n迄今为止好像我都从来没问过这个问题……",
       "ChoiceDataList": [
         "你在紧张吗？",
-        "緊張はしてる？"
+        "你在紧张吗？"
       ],
       "ColorTextInfoList": []
     },
@@ -88,7 +88,7 @@
     },
     {
       "Name": "爱慕织姬",
-      "Text": "大概是因为……\n我也思考了各种各样的事情吧。",
+      "Text": "大概是因为……\r\n最近要思考的事情变多了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -106,7 +106,7 @@
     },
     {
       "Name": "爱慕织姬",
-      "Text": "……现在的我，\n了解了歌剧王的胸怀、\n见证了怒涛的执念。",
+      "Text": "……现在的我，\n了解了好歌剧的胸怀、\n见证了怒涛的执念。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -138,7 +138,7 @@
       "Name": "爱慕织姬",
       "Text": "所以……是的。\n现在的我，也许真的在紧张。",
       "ChoiceDataList": [
-        "那就是――"
+        "这是——"
       ],
       "ColorTextInfoList": []
     },
@@ -150,13 +150,13 @@
     },
     {
       "Name": "",
-      "Text": "……もう少しだけ彼女に、\n今の心地を、噛み締めていてほしかったから。",
+      "Text": "……还是让她品味一番这前所未有的心情吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "工作人员",
-      "Text": "爱慕织姬！\n请过来参加赛前体检！",
+      "Text": "爱慕织姬选手！\r\n请过来参加赛前体检！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -170,7 +170,7 @@
       "Name": "爱慕织姬",
       "Text": "……那，我出发了。",
       "ChoiceDataList": [
-        "比个尽兴吧，织姬！"
+        "尽情地去跑吧，爱织！"
       ],
       "ColorTextInfoList": []
     },
