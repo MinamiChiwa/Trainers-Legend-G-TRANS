@@ -126,7 +126,21 @@
         },
         {
             "Name": "特别周",
-            "Text": "“如月赏”吗？我知道了！\n我会努力抓住比赛的感觉……！",
+            "Text": "哇，ＧⅢ吗……！！\r\n重赏比赛……有、有点紧张呢……",
+            "ChoiceDataList": [
+                "你肯定能学到经验的"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "经验……是呢。\r\n以德比为目标的经验……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "明白了！\u3000我会在『如月赏』，\r\n努力寻找感觉的！",
             "ChoiceDataList": [],
             "ColorTextInfoList": [
                 "如月赏"
@@ -134,7 +148,7 @@
         },
         {
             "Name": "特别周",
-            "Text": "好──朝着德比这个最后目标，\n首先努力挑战“如月赏”呗～！",
+            "Text": "好，朝着命运的德比，\r\n加油嘞～！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         }
