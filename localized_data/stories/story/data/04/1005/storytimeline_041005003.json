@@ -1,0 +1,356 @@
+{
+  "Title": "Never enough",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "――事情发生在选拔赛前一天。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "训练员！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "呼……抱歉突然叫住你。\r\n其实，我正在找一个孩子……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "我问了富士奇石她正在寻找的后辈的特征。\r\n然而，我也没什么想法……",
+      "ChoiceDataList": [
+        "抱歉，我没看到"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "是吗……我知道了，谢谢你。\r\n如果你看到了的话，可以联系我吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "我的联系方式，栗东宿舍的孩子们应该都是知道的。\r\n拜托你咯！！\u3000告辞。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "后辈马娘A",
+      "Text": "刚才的，是富士前辈对吧……？\r\n她看起来好像很着急，这是怎么了？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "后辈马娘B",
+      "Text": "栗东的一个孩子，从今早开始就一直没在。\r\n有传闻说她偷偷从学园里跑出去了哦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "后辈马娘A",
+      "Text": "啊ー，那样的孩子相当多呢。……呃，难道说前辈，\r\n从早上开始就一直在找吗！？\u3000明天就是选拔赛了来着！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "后辈马娘B",
+      "Text": "是啊，我也在想不去做训练真的好吗……\r\n不过富士前辈的话，这方面就不必担心了吧。",
+      "ChoiceDataList": [
+        "（我也帮忙找吧……！）",
+        "（我也帮忙找吧……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "然而，我根据富士奇石说的特征四处寻找，\r\n也还是没能找到那个后辈。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "找着找着，夜色降临――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "训练员……！？\u3000你怎么会在这种地方。\r\n而且还汗流浃背的……",
+      "ChoiceDataList": [
+        "我想要帮你找"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "是那样吗……！\r\n你……真是个温柔的人呢。谢谢，你帮了大忙了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "其实，我就只剩下这个公园没找过了――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "后辈马娘C",
+      "Text": "……呜。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "啊！\u3000刚才的声音，难道说……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "……晚上好，小马驹。躲在这么暗的地方，是怎么了？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "后辈马娘C",
+      "Text": "诶……富、富士前辈……！？\u3000怎么会，为什么……！！\r\n请别管我这种人了，去为明天做准备吧……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "『这种』，什么的……你为什么要说那么冷酷的话呢。\r\n你也是特雷森学园里重要的伙伴啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "后辈马娘C",
+      "Text": "不是这样的！\u3000我……已经，不行了。\r\n已经，不能再待在这所学园里了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "后辈马娘C",
+      "Text": "高强度的训练很辛苦，我又很想见家人……\r\n我对赛跑的憧憬，已经不知道去了哪里……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "对赛跑的憧憬……吗。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "……你想要找回那种感觉吗？\r\n还是说，你想要抛下一切回去呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "后辈马娘C",
+      "Text": "那、那个……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "后辈马娘C",
+      "Text": "如果能找回来的话，我想要找回来……\r\n因为跑比赛，从很久以前开始就是我的梦想。但是……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "好，我知道了！\r\n如果你还有这样的愿望，我就来帮你实现吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "我一定会让你回想起，对赛跑的憧憬这份心情。\r\n在明天的选拔赛上，我会让你看到那样的“奇迹”的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "后辈马娘C",
+      "Text": "“奇迹”……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "是的。……所以说，今天我们还是回去吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "就这样，我们成功地把后辈带回去了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亚马逊",
+      "Text": "真是……富士，我还以为你不回来了，\r\n提心吊胆的呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "啊哈哈哈哈，抱歉抱歉！\r\n我不在的时候，谢谢你帮我照看栗东宿舍，菱亚。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "还有，你也是。真的是鼓舞了我！",
+      "ChoiceDataList": [
+        "能平安找到真是太好了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亚马逊",
+      "Text": "……好，快到熄灯时间了。\r\n你也早点休息吧，富士。明天有选拔赛吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亚马逊",
+      "Text": "你的话，今天一天没能训练，也不会说状态\r\n调整不好吧？\u3000那就应该去专心休息了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "……说的对呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亚马逊",
+      "Text": "……别去想些有的没的的哦？\r\n那么，晚安。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "嗯，晚安。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "之后我跟两人道别，回到了自己的房间，\r\n但无论如何我还是很在意富士奇石的情况。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "总是能给大家带来快乐的表演家，“富士奇石”！\r\n那，就是我想成为的我自己呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "用“奇迹”般的跑法，让观者都能感到快乐……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "那就是我――疾驰于草地上的“富士奇石”啊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "我一定会让你回想起，对赛跑的憧憬这份心情。\r\n在明天的选拔赛上，我会让你看到那样的“奇迹”的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "……那么执着于吸引人、让人感到快乐的\r\n富士奇石，会就这样乖乖听话吗。",
+      "ChoiceDataList": [
+        "（……我有种不祥的预感）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "因为这种莫名其妙的预感，我去确认富士奇石\r\n有没有好好休息――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亚马逊",
+      "Text": "真是的，那家伙！\r\n一脸若无其事然后马上就去干这种事！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亚马逊",
+      "Text": "……啊啊，你是刚才跟富士在一块的\r\n那个训练员吧？",
+      "ChoiceDataList": [
+        "难道说富士奇石怎么了吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亚马逊",
+      "Text": "令我恼火的是你答对了！\u3000那家伙从房间里消失了。\r\n身为宿舍长，别说门禁时间了就连熄灯时间都违反了，\r\n真是不可原谅啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亚马逊",
+      "Text": "好，你跟我的目的是一样的。\r\n我们在这儿兵分两路吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱亚马逊",
+      "Text": "那家伙常去的自主训练场所，\r\n应该是河岸边还有神社还有――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "就这样，我去了从菱亚马逊那儿听来的那些\r\n自主训练场所寻找富士奇石。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "然后――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "……！\u3000呼、呼、呼……！！",
+      "ChoiceDataList": [
+        "富士奇石！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "诶……训、训练员……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

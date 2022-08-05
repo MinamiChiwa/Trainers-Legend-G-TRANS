@@ -1,0 +1,320 @@
+{
+  "Title": "It's show time",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "有一天，我完成了工作，\r\n刚回到自己的房间时――",
+      "ChoiceDataList": [
+        "（训练员徽章没了……！？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "按理来说，我应该一直是给它别在衣领上的……\r\n是给掉在哪儿了吗？\u3000得赶紧去找！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "我在学园内四处寻找我的训练员徽章。\r\n然而――",
+      "ChoiceDataList": [
+        "（完全找不到啊……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "再仔细找找，有没有掉在地面上某个角落里吧。\r\n这样想着，我紧盯着地面――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "――哎呀！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "对不起啊！\u3000你还好吧？\u3000有没有受伤？",
+      "ChoiceDataList": [
+        "我才该道歉，没好好看路……",
+        "我才该道歉，没好好看路……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "不，双方都没什么事就好！\r\n――不过，你看起来一副很困窘的样子呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "刚才也在一直盯着地板看……\r\n难道说，你是在找什么重要的东西吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "我告诉她，其实是我的训练员徽章掉了，\r\n正在这块找……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "训练员徽章！\u3000那可不得了啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "特雷森学园领地内，是禁止无关人员进入的呢。\r\n没有了徽章的话，可能会被误认为是可疑的人吧……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "说起来，你知道吗？\r\n以前，有个不讲规矩的人未经许可闯入了深夜的学园。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "他暗自窃喜着，一个人走在空无一人、\r\n一片漆黑的走廊上……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "就在这时，嘎吱嘎吱地，一阵不是自己的脚步声靠近了……\r\n下一个瞬间，他回头一看，是满脸笑容的手纲小姐――！",
+      "ChoiceDataList": [
+        "（吓人……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "呵呵……开ー玩笑的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "训练员，看看你的衣服口袋吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "突然这么一说，我感到不可思议地\r\n摸了摸口袋――",
+      "ChoiceDataList": [
+        "徽章在这儿！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "刚刚我在那儿捡到的。\r\n能马上就遇到失主，我真是太幸运了呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "看你慌慌张张的，以及衣领上没别徽章，\r\n我猜大概就是你的……猜中了真是太好了！",
+      "ChoiceDataList": [
+        "什么时候放进口袋里的……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "刚才撞到的时候我操作了一下。我很擅长变魔术的！\r\n呵呵呵，吓了一跳吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "不过，是不是有点太吓着你了。我不想就普通地还给你，\r\n而是想给你一个有意思的惊喜……对不起啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "啊，对了！\u3000作为道歉我请你吃顿饭怎么样？\r\n这次，一定会让训练员开心的！",
+      "ChoiceDataList": [
+        "倒不如说我该来答谢你……",
+        "倒不如说我该来答谢你……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "那么，就把『陪我吃饭』当作一份谢礼吧！\r\n来，我们去餐厅吧，训练员。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "对了训练员，你知道吗？\r\n今天是追加特别面包餐点的日子哦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "咸面包的种类也会比平时更丰富，\r\n我推荐比胡萝卜面包更美味的……胡萝卜面包EX哦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "训练员要吃什么呢。\r\n喜欢吃什么我都会给你拿的，尽管说哦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "为了找徽章，你在学园里头到处走吧？\r\n一定是累了吧。多吃点，打起精神来吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "――之后，多亏了富士奇石的各种照顾，\r\n我四处寻找徽章的疲劳感消散了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "――训练员，味道怎样啊？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "我综合了你刚才告诉我的喜好，\r\n挑选了合你口味的甜点。",
+      "ChoiceDataList": [
+        "非常好吃……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "真的！？\u3000好，成功了ー！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "……哎呀，对不起啊，我兴奋过头了。\r\n能看到训练员的好神情，我也非常满足哦！",
+      "ChoiceDataList": [
+        "你真温柔呢",
+        "你真温柔呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "啊哈哈，你那颗会这么想的心，\r\n才是温柔的哦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "我，只是想跟你一起度过一段\r\n最快乐的时光罢了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "总是能给大家带来快乐的表演家，“富士奇石”！\r\n那，就是我想成为的我自己呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飞驹",
+      "Text": "富士前辈ーーー！！\r\n不好了不好了，紧急事态啊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "哎呀，微光！\u3000怎么了吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "微光飞驹",
+      "Text": "不知道为什么，宿舍里的电视放不出东西来了！\r\n明明是想看晚上比赛的转播来着，大家都很为难的ー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "那可不得了啊！\u3000好，我马上就去。\r\n谢谢你来通知我，微光！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "摩耶重炮",
+      "Text": "啊！\u3000富士前辈，你在这儿啊～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "摩耶重炮",
+      "Text": "呐ー呐ー，前辈不在好无聊哦ー！\r\n再像以前一样，变个有趣的魔术看看吧～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "啊哈哈哈，伤人脑筋的小马酱啊。\r\n知道了知道了，我马上回去，在宿舍等着我！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "――训练员，我先回宿舍了哦。\r\n今天我度过了一段很快乐的时光哦。谢谢你！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇石",
+      "Text": "那么，我们有缘再会吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "带着爽朗的笑容，富士奇石离开了这里。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "富士奇石，应该是『栗东宿舍』的宿舍长吧。\r\n看刚才的样子，大家都相当依赖她。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "被众人所喜爱，并说『想给大家带来快乐』的富士奇石，\r\n会是怎样跑的呢――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "我一边想象着，一边踏上了归途。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
