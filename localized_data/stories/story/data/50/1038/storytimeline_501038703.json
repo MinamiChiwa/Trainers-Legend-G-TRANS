@@ -9,7 +9,7 @@
         },
         {
             "Name": "独白",
-            "Text": "在我外出回来，和真机伶说完话后，\n正打算去一趟贩卖部时──",
+            "Text": "在我外出回来，和真机伶说完话后，\n正打算去一趟小卖部时──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -32,7 +32,7 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "贩卖部阿姨",
+            "Name": "小卖部阿姨",
             "Text": "唉……真是对不起啊，富士。\n害富士伤脑筋了……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
@@ -70,7 +70,7 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "贩卖部阿姨",
+            "Name": "小卖部阿姨",
             "Text": "哎呀！富士真不愧是宿舍长，\n人面真广啊～",
             "ChoiceDataList": [
                 "发生了什么事吗？"
@@ -78,13 +78,13 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "贩卖部阿姨",
+            "Name": "小卖部阿姨",
             "Text": "啊哈哈……\n就是阿姨不小心搞错了订货量啦。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "贩卖部阿姨",
+            "Name": "小卖部阿姨",
             "Text": "本来应该是要订一百碗泡面，\n……结果不小心订成一百箱了。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
@@ -97,7 +97,7 @@
         },
         {
             "Name": "真机伶",
-            "Text": "啊──确实全都搬进贩卖部的话，\n贩卖部就要被塞满了。",
+            "Text": "啊──确实全都搬进小卖部的话，\n小卖部就要被塞满了。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -170,7 +170,7 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "贩卖部阿姨",
+            "Name": "小卖部阿姨",
             "Text": "好厉害啊！真机伶！\n已经快要全部卖光了呢！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
@@ -207,18 +207,18 @@
         },
         {
             "Name": "鲁道夫象征",
-            "Text": "我听闻有一位赛马娘宛如英雄豪杰般\n在贩卖部立了大功。\n所以就过来看看了。",
+            "Text": "我听闻有一位赛马娘宛如英雄豪杰般\n在小卖部立了大功。\n所以就过来看看了。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "贩卖部阿姨",
+            "Name": "小卖部阿姨",
             "Text": "哎呀～～！连会长都来了！\n给你给你，这是最后的泡面了！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "贩卖部阿姨",
+            "Name": "小卖部阿姨",
             "Text": "呼，真机伶的号召力真是惊人啊……！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
@@ -231,7 +231,7 @@
         },
         {
             "Name": "独白",
-            "Text": "于是真机伶顺利地解决了贩卖部的突发状况。\n……社交平台的粉丝也因此增加了。",
+            "Text": "于是真机伶顺利地解决了小卖部的突发状况。\n……社交平台的粉丝也因此增加了。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -272,7 +272,7 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "贩卖部阿姨",
+            "Name": "小卖部阿姨",
             "Text": "对啊，真的谢谢你们了。\n幸好有找你们来帮忙想办法！",
             "ChoiceDataList": [
                 "再来就是要想想该怎么卖才好"
@@ -280,13 +280,13 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "贩卖部阿姨",
+            "Name": "小卖部阿姨",
             "Text": "是啊，训练员要来的话，\n应该也是下班之后才能来吧。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "贩卖部阿姨",
+            "Name": "小卖部阿姨",
             "Text": "那就得向学园申请夜间营业的许可。\n再找人来帮忙结账──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
@@ -298,7 +298,7 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "贩卖部阿姨",
+            "Name": "小卖部阿姨",
             "Text": "咦，可是你有门禁吧？\n而且赛马娘需要好好休息才行啊。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
@@ -316,7 +316,7 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "贩卖部阿姨",
+            "Name": "小卖部阿姨",
             "Text": "哎呀……！",
             "ChoiceDataList": [
                 "只能帮忙到门禁时间前哦",
