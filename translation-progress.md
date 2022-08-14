@@ -78,7 +78,7 @@
 | 1037 | transforming                      | 完全翻译√ | *凉月crella（Bilibili）      |
 | 1048 | BLOW my GALE                      | 完全翻译√ | 南千和                       |
 | 1050 | We are DREAMERS!!                 | 完全翻译√ | 南千和                       |
-| 1051 | 笑顔の宝物 -Beyond The Future!-   |           |                              |
+| 1051 | 笑顔の宝物 -Beyond The Future!-   | 待发布    | 毫毛                         |
 
 
 ## 角色及皮肤名
@@ -366,9 +366,9 @@
 | 0002 | 小さながんばり屋 | 小小的努力家       | 完全翻译√              | *秋裤SE7EN（Bilibili）、南千和  |
 | 0003 | 夢を掴む特急券   | 通往梦想的特快车票 | 完全翻译√              | *秋裤SE7EN（Bilibili）、南千和  |
 | 0004 | 滾り、渇望す     | 沸腾，渴望         | 完全翻译√              | *凉月crella（Bilibili）、南千和 |
-| 0005 | scenery          | Scenery            | 完全翻译√              | *凉月crella（Bilibili）、南千和 |
-| 0006 | 夢の原石         | 梦之原石           | 完全翻译√ | *凉月crella（Bilibili）、毫毛   |
-| 0006 | 煌めきはどこまでも| 辉煌永存       |                       |                                |
+| 0005 | scenery         | Scenery            | 完全翻译√              | *凉月crella（Bilibili）、南千和 |
+| 0006 | 夢の原石         | 梦之原石           | 完全翻译√              | *凉月crella（Bilibili）、毫毛   |
+| 0006 | 煌めきはどこまでも| 辉煌永存           | 待发布                | 毫毛                            |
 
 
 
@@ -386,8 +386,8 @@
 | 100302 | 东海帝王   | 完全翻译√        | @RikkaTakanaishi、@uss-enterprise1071（Gitee）、Chihyuen、Komoe|
 | 100401 | 丸善斯基   | 完全翻译√        | Chihyuen、Komoe                                          |
 | 100402 | 丸善斯基   | 完全翻译√        | Chihyuen、Komoe                                          |
-| 100501 | 富士奇石   | 翻译中           | Chihyuen                                                 |
-| 100502 | 富士奇石   | 翻译中           | Chihyuen                                                 |
+| 100501 | 富士奇石   | 待发布           | Chihyuen                                                 |
+| 100502 | 富士奇石   | 待发布           | Chihyuen                                                 |
 | 100601 | 小栗帽     | 完全翻译√        | Komoe                                                    |
 | 100602 | 小栗帽     | 完全翻译√        | Komoe                                                    |
 | 100701 | 黄金船     | 完全翻译√        | Chihyuen、Komoe                                          |
