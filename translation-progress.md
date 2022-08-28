@@ -257,9 +257,9 @@
 | 101301 | 目白麦昆     | 完全翻译√           | Komoe、Chihyuen                                      |
 | 101302 | 目白麦昆     | 绝大部分         | Komoe、Chihyuen                                      |
 | 101303 | 目白麦昆     | 绝大部分         | Komoe、Chihyuen                                      |
-| 101401 | 神鹰         | 翻译中                 | Komoe、olderciyuan                                                  |
-| 101402 | 神鹰         | 翻译中                 | Komoe、olderciyuan                                                     |
-| 101501 | 好歌剧       | 完全翻译√           | Komoe、Chihyuen                                      |
+| 101401 | 神鹰         | 待发布           | Komoe、olderciyuan                                   |
+| 101402 | 神鹰         | 待发布           | Komoe、olderciyuan                                   |
+| 101501 | 好歌剧       | 完全翻译√        | Komoe、Chihyuen                                      |
 | 101502 | 好歌剧       | 绝大部分         | Komoe、Chihyuen                                      |
 | 101601 | 成田白仁     |                  |                                                      |
 | 101701 | 鲁道夫象征   | 完全翻译√           | Komoe、Chihyuen                                      |
