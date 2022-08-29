@@ -1,0 +1,63 @@
+{
+    "Title": "缺席的理由……",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就在训练时间早已过去的时候，\n我和到处奔波的富士奇石不期而遇──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "哇！抱歉，吓到你了！\n我在赶时间……！",
+            "ChoiceDataList": [
+                "赶时间？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "宿舍有学生发烧了……！\n我正在照顾她！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "我得赶快把退烧药送过去……！",
+            "ChoiceDataList": [
+                "既然是因为这种状况，那就没办法了……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "呃……咦……？\n今天是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "……今天是要训练的日子！\n呜呜……我忘掉了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "我满脑子都在想着照顾那名学生──\n真的很对不起……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "我必须更冷静一点才行。\n往后我会多注意的……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

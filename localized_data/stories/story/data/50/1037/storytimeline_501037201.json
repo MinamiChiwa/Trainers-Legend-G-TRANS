@@ -1,0 +1,77 @@
+{
+    "Title": "迎向京成杯",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众A",
+            "Text": "──我问你，今天的比赛，\n你最关注哪位选手？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众B",
+            "Text": "你在说什么啊？看这阵容，\n当然只有荣进闪耀了啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众B",
+            "Text": "就是说啊～“以这阵容”来说，\n应该就是荣进闪耀了吧～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "“京成杯”当天。\n参赛赛马娘之中，\n荣进闪耀算是颇受瞩目，但是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "这评价说不上很正面呢。\n算是种消极的选择吧。",
+            "ChoiceDataList": [
+                "不过那份期待是货真价实的",
+                "不过那份期待是货真价值的"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "说得也是。\n我想回应他们的心情。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "不对，应该说……\n我必须当一个不会辜负他们的人。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "这场比赛不过只是中途站。\n我可不能在此跌跤。",
+            "ChoiceDataList": [
+                "像平常一样奔跑就没问题了",
+                "只要像平常一样奔跑就没问题了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "……没错，只要像平常一样。\n做好我该做的事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "然后前进经典三冠首战\n“皋月赏”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

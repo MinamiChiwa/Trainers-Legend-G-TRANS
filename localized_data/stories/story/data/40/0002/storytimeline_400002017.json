@@ -1,0 +1,37 @@
+{
+    "Title": "青春杯第三战．一起获胜了！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "太棒了～！\n我就说吧！我们果然赢了！耶嘿嘿！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "嗳嗳！训练员，\n我发现一件很棒的事！",
+            "ChoiceDataList": [
+                "什么事？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "有队友在呀，就会变得\n唔哦哦～！斗志熊熊燃烧哦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "队伍真是厉害！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,398 @@
+{
+    "Title": "我是护身符！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "假日，我在学园内闲晃时，\n待兼福来以飞快的速度朝我狂奔过来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "总算找到你了！\n呜呜，还好你没事……！",
+            "ChoiceDataList": [
+                "……我没事？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "啊，不能再这样下去了！\n要赶快护送训练员才行！\n来吧，这边请这边请！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "于是，我便在摸不着头绪的情况下，\n被带着跑向车站并转搭了电车，\n最后来到的地方是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "好～来了来了来了！\n只需要再努力一下下就好！",
+            "ChoiceDataList": [
+                "什、什么来了？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "咦……？啊啊！抱歉！\n我忘了跟你说明了～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "你要冷静地听我说哦。\n根据今天的占卜，训练员你……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "运势是大大大凶啊！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "所以呢！\n为了把你从可怕～的灾难中救出来，\n我就穿了最强的开运装备来帮忙了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "我一定会用我的幸运能量来好好保护\n运势大凶的训练员的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "所以请一定要好好待在我身边哦！\n不然的话……说不定会立刻遭到天打雷劈，\n或是遭遇地裂而被吞噬哦～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "待兼福来一脸认真地这么说着。\n一路上她也的确像个保镖一样紧贴在我身旁。\n",
+            "ChoiceDataList": [
+                "……所以来这里的目的是？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "呵呵呵，那我就直说了。\n这里可是有全国知名的神社啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "也就是日本数一数二的能量景点！\n来这里一定能化解训练员的大凶运势的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "首先是要参拜……\n啊，买些开运道具防身也不错！",
+            "ChoiceDataList": [
+                "我比较想要参拜",
+                "我比较想要开运道具"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "说得也是！\n还是直接求神明是最快的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "那么任务就开始了！\n喝～门清自摸杠上开花……\n请保佑我们能顺利到达……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "但因为今天是假日，路上的人潮比预想的还多。\n……不知不觉间，我和待兼福来走散了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "呼～路上的人真多啊，\n但我们也已经快要到了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "……奇、奇怪？\n训、训练员～！你在哪里啊～！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我想着到处乱走可能会和她错过……\n便决定站在原地等待。\n这时，接到了待兼福来的电话。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "“训练员你没事吗！？\n真抱歉，明明说好我要保护你的……！”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "“……但我也没有打算要放弃这个约定！\n我一定会找到你的……请你等我！”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "从她的声音中听到了坚定与决心。\n这完全不像是平常的待兼福来……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "意图伤害训练员的大凶运势……\n我绝对是零容忍～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……我看到她在前方大约三十米处，\n对着手机大喊大叫的这件事，\n就先暂时当作没发生吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "喂！喂！？你还好吗？\n拜托你说句话啊，训练员～！",
+            "ChoiceDataList": [
+                "“……我相信你！”",
+                "“……我相信你！”"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "……是！我现在就去找你！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "于是……我就这样等她来找我，\n等了十五分钟。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "训练员～！\n太好了……真的是太好了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我顺利和待兼福来有了感人的……？重逢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "呼～原本我还担心会出什么大事，\n总算是顺利完成参拜了呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "这样就不用再担心了！\n我已经好好向神明祈求，\n请祂连训练员的子子孙孙都保佑了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "……啊！？",
+            "ChoiceDataList": [
+                "怎么了？",
+                "怎么了吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "我现在惊觉，祈求这么大的愿望，\n只参拜一次会不会不够啊……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "……应该要添更多香油钱才对！\n我现在就回去神社买更多的开运道具！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……最后 ，\n我们两人提着两袋满满的开运道具，\n踏上了归途。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "就从装备下手吧！\n好～那我们就赶快去吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "哦，这不是福来嘛！真巧耶！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "呀啊啊啊啊！？\n大树和铃鹿！？你们为什么会在这！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "为什么……我们只是来观光的……\n现在正打算要去逛逛名产店。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "啊，训练员也跟你一起来啊！\n我来去跟他打招呼～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "等等等，不行！\n现在不可以靠近训练员！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "Why？为什么不行呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "总、总之不行就是不行啦！\n现在训练员的身边必须要是我才行！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "待在他身边no problem啊！\n难得巧遇嘛，我们就四个人一起逛吧～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "不、不能一起啦！\n我今天一定要和训练员、要和训练员……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "我今天一定要和训练员单独相处才行啦～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "呼、呼……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "……那个，大树啊，虽然不知道是什么情况，\n但好像不要打扰他们比较好吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "总之她现在只想和训练员独处的样子。\n我想……\n这对他们来说是很重要的时光吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "嗯～想要两人独处……？\n很重要的时光……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "……Oh～！Understand！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "Sorry！是我太不识相了～♪\n你们两个好好去玩吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "虽然感觉她们似乎有什么误会……\n但她们离开后，\n待兼福来看起来像松了一口气。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "呼……她们差一点\n就要被训练员的大凶运势给牵连了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "这要是被传开的话，\n你就会因为死神训练员．衰神这个名号，\n被驱逐出赛马娘业界也说不一定……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "好了，为了不要再有更多突发状况发生，\n我们赶快去买开运道具吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "总之我会负责帮你选最强的开运道具的！\n就当作上了贼船……不对，\n当作搭上宝船放心交给我吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "待兼福来很有自信地这么说着，\n但实际抵达贩卖处时……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "哇啊啊啊！？好棒哦！\n满满都是超稀有的开运道具耶～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……结果只好全都买了一遍。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

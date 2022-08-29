@@ -1,0 +1,50 @@
+{
+    "Title": "肤况不太好……",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我走在走廊上时，\n看到名将怒涛叹了好大一口气。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "唉～～～～～～\n为什么我就是这么没用呢……",
+            "ChoiceDataList": [
+                "发生什么事了吗？",
+                "发生什么事了吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "啊，训、训练员……\n没什么事啦，只是我的肤况不太好……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "一定是我昨天不小心把芝麻油当成酱油，\n洒在冷拌青菜上的关系……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "而且我还整个手滑……那已经不是冷拌青菜，\n而是一碗芝麻油汤了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "即使如此，她还是没办法放着不吃吧。\n名将怒涛就这样为笨手笨脚和肤况不好\n而沮丧不已。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

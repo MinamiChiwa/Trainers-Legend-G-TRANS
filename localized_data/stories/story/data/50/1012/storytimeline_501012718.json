@@ -1,0 +1,51 @@
+{
+    "Title": "恢复精神",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "哦，训练员老大！\n谢谢你让我放假！",
+            "ChoiceDataList": [
+                "有好好休息吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "当然有啊。你都叫我休息了，\n我怎么能让你失望。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "……好了。\n接下来换你了，可别让我失望哦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "在我休息的时候，\n你有帮我安排超棒的特训计划对吧？",
+            "ChoiceDataList": [
+                "当然"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "就是要这样！\n那要拜托你严格执行咯，训练员老大！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "结束假期的菱亚马逊\n似乎迫不及待想展开锻炼了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

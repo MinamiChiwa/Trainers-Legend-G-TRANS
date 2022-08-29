@@ -1,0 +1,322 @@
+{
+    "Title": "是好友还是劲敌",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "菱亚马逊刚和成田白仁做完共同训练。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "呼、呼……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "哈哈！\n跟白仁的对决还是一样让人热血沸腾啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "呼……你那股不管几次\n都要正面对决的气魄真让人无言。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "……不过，偶尔也会感到佩服。",
+            "ChoiceDataList": [
+                "你们都辛苦了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "嗯！\n只不过，我和白仁的程度可不只这样。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "要怎么做才能更热血沸腾地对决──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "对了！\n来想看看之前在电视上看到的“那个”吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "那个……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "就是职业运动员在比赛前\n也会做的那个啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "呃……栗子……不对。\n柿子……也不是……",
+            "ChoiceDataList": [
+                "……你想说的该不会是“例行公事”？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "对！就是那个！\n啊啊～痛快多了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "话说回来，\n你平常有什么例行公事吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "我没特别注意过……让我想想。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "硬要说的话，\n大概是在练习或比赛前会集中精神吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "哦～听起来不错啊！\n也教教我诀窍嘛！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "这也是为了来场热血的对决啊。\n教我啦，白仁！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "……太麻烦了，我只说一次。集中时，要找个安静\n而且能专注的地方。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "就这样，\n我们为了学习集中精神的诀窍前往溪边……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "唔唔唔……专注……！\n想像认真对决的场景……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "亚马同学，你把心里想的事都说出来了。\n只要让心情平静下来就行了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "啊啊啊──！！\n感觉脑袋都要炸开了！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "……看样子不行啊。",
+            "ChoiceDataList": [
+                "或许做其他例行公事会比较好"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "这、这样的话，\n训练员老大，你觉得我适合怎么样的方法？",
+            "ChoiceDataList": [
+                "用大吼来鼓足干劲",
+                "参考相关的书"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "哦哦，这我很擅长。\n好……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "唔哦哦哦哦！！\n来场热血的对决吧──！！",
+            "ChoiceDataList": [
+                "好惊人的魄力……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "嗯嗯，这样就对了！\n就决定我的例行公事是这个了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "……呵。\n你打算每次比赛都要这样吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "对啊！\n你就等着下次对决吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "不过一下要集中精神，一下又大吼大叫，\n我的肚子都饿了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "我们回学园吃午餐吧。\n放心，白仁你的份我也有准备！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "亚马同学，\n这便当没放蔬菜吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "没有啦，我做的这个便当就算是你这\n偏食的家伙也能吃个开心！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "……那就好。",
+            "ChoiceDataList": [
+                "我开动了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "真不知道她们是好朋友还是劲敌。\n我与关系奇妙的这两人一起度过了午餐时光。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "嗯嗯？\n什么意思……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "……原来如此，书啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "你刚才不也说过吗？\n职业运动员也有自己的例行公事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "我猜训练员的意思是\n要你读读有类似内容的书。",
+            "ChoiceDataList": [
+                "没错"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "是、是哦……！\n那我们就去图书室吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "哦……\n摆出自创姿势，或是摸摸运动服……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "种类很多耶。\n这样会不知道要参考哪一种！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "……要是你考试的时候也能这么用心，\n就不会为了差几分能及格苦恼了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "要、要你管！我才不想被\n都不拿出真本事读书的人说这种话！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "明明没认真读书，\n每次却都考得还不错……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "分数够就好。要是成绩太难看，\n我姊和学生会的人会很咯唆。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "你可别搞到要上无聊的加强补习，\n结果没得参加下次比赛哦。",
+            "ChoiceDataList": [
+                "我同意……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "从考试分数也能窥见\n这两个人的竞争关系（？）呢……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,389 @@
+{
+    "Title": "大姐流的料理",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "某个假日。\n当我来到学园里的图书室时……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "我看看，《五星意大利料理大全》和\n《激烈中华料理三次对决定胜负》啊……嗯～这也不太对。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "哦！《活力满点家庭料理图鉴》，应该是这类型的。\n好，今天就借这本……",
+            "ChoiceDataList": [
+                "你在做什么？",
+                "你在做什么？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "唔哦，训练员老大！你怎么会在这里？\n你也来借书的吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看样子菱亚马逊是来借书的呢。\n她要借什么书呢……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "这个？这是做菜的书。\n因为要是只会自创料理，做得出来的拿手菜也就有那几样而已。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "所以我偶尔会借这类书，咻咻咻地多学几道料理。\n我可不是只会抱着书看，也会实际动手做哦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "事情就是这样，训练员老大，走啦！\n接下来去买这本书里写的食材吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "来，购物篮给你拿，我要把食材一样样塞进去！\n首先是南瓜，还有鱼露。哦～我还是第一次用这个哩。",
+            "ChoiceDataList": [
+                "你对做菜蛮熟悉的嘛",
+                "你对做菜蛮熟悉的呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "是啊！我每天都会做菜哦！试做出能提振精神的料理后，\n都会给后辈们吃。看她们大口吃饭的模样，心情也会很好。",
+            "ChoiceDataList": [
+                "这是你的兴趣吗？",
+                "这是你的兴趣吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "兴趣？可能算是吧。\n我的兴趣与其说是做菜……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "话说回来，训练员老大，你对这件事特别感兴趣的样子耶。\n你该不会也会做菜吧？",
+            "ChoiceDataList": [
+                "算是会吧……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "什么！？这么说，你……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "以前都摆出一副跟自己无关的模样，结果其实是我的劲敌啊！\n竟然假装自己没有威胁性……可恶！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "糟啦！我都没发现，所有本事都被你看光光了。\n天啊～～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "不过……算了。就算把一切摊在大太阳下，我还是会豪迈取胜！\n这样才像菱亚姐姐的作风！",
+            "ChoiceDataList": [
+                "什、什么意思？",
+                "什、什么意思？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "这还用我解释？既然我们都擅长料理，那要做的就只有一件事！\n来单挑吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "我们同为奔驰在厨艺之路的人，\n要是不分出个胜负，你应该也不服气吧？",
+            "ChoiceDataList": [
+                "不，我觉得不分出胜负也无所谓……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "什么嘛，真没骨气。总之，既然知道了\n你也会做菜，让我的斗志整个都燃烧起来啦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "赛马娘对训练员，我们偶尔在同个领域竞争不是也很好吗？\n来比吧，料理对决！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "评审赛马娘",
+            "Text": "那么接下来将在借用的食堂开始料理对决！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "评审赛马娘",
+            "Text": "这一边是我们的宿舍长，也是厨房铁人──菱亚姐姐！\n大姐的手艺，我们所有人都可以挂保证！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "好，来比一场吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "评审赛马娘",
+            "Text": "另一边是菱亚姐姐的训练员。\n如果不端出能打动女孩子的料理，可是赢不了的哟！做啦做啦♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "喂喂，别趁乱偷说自己的愿望啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "评审赛马娘",
+            "Text": "耶嘿嘿，不小心就说出了真心话……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "评审赛马娘",
+            "Text": "那么重新打起干劲……师徒对决，最好是吃到爆！\n厨艺对决，开始──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "唔哦哦哦哦，训练员老大，我要上啦！\n看我的～～～锅子，沸腾吧！滚啊滚啊！",
+            "ChoiceDataList": [
+                "不用把心里话全喊出来也没关系吧……",
+                "不用把心里话全喊出来也没关系吧……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "又、又不会怎么样！这是气氛，气氛。\n这样不是比较热血吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "好，你也尽管出招吧！\n让我看看你自豪的手艺吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──最后，\n我们各自将完成的料理摆上桌。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "评审赛马娘",
+            "Text": "接下来准备试吃！训练员做的料理是这一道！\n“铺满起司的焗烤胡萝卜淋蜂蜜”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "什么～～～！？训练员老大，你竟然走了旁门左道！\n把一堆受欢迎的食材都放上去讨好评审！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "你这个做垃圾食物的家伙～～～！\n啧，算了。喂，你快点吃看看。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "评审赛马娘",
+            "Text": "好，嚼嚼……\n好吃！感觉要变成这道料理的俘虏了～♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "唔，也分我一……\n不，不用了！我也是有自尊心的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "评审赛马娘",
+            "Text": "接下来是菱亚姐姐做的这道！\n“清炖南瓜绞肉”？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "没错！这是我这次看书学的新菜色哦。\n外观看起来是有点普通，总之你先吃看看。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "评审赛马娘",
+            "Text": "好，嚼嚼……\n唔！！这味道……！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "评审赛马娘",
+            "Text": "普通！！\n看起来很普通，吃起来也一样！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "喂，你也太老实了！\n可恶～～～跟训练员老大的垃圾食物比起来果然不够震撼啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "评审赛马娘",
+            "Text": "啊，可是……请等一下哦。\n这味道……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "评审赛马娘",
+            "Text": "虽然没有什么亮点，但是有种感觉渐渐地扩散到全身……\n该怎么说……好温暖……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "哦，看样子你注意到啦！\n这就是我的料理的秘密。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "训练员老大，你也吃看看吧。\n你吃了这道菜肯定也会有感觉，我保证。",
+            "ChoiceDataList": [
+                "好，我开动了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我把一口炖菜放进嘴里。\n接着有股温和的美味在体内扩散开来……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这道料理不只是好吃而已，同时还考量到吃的人。\n我这么跟菱亚马逊说，赞美了她……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "别、别这样！我可是你的对手哦！\n这样我会不知道该做出什么反应啦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "不过你说得没错。我的兴趣是做菜。\n不过我喜欢的不单是做菜本身。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "我喜欢做对身体好，能够让人变得充满干劲又有精神的料理。\n训练员老大，你也不例外！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "评审赛马娘",
+            "Text": "哔哔～接下来要评比咯。\n这次料理对决的结果是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "评审赛马娘",
+            "Text": "两边都很好吃，所以是平手──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "什么！？为什么会是平手啊？\n照这情况来说，一般应该是算我赢吧！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "评审赛马娘",
+            "Text": "可是～浓稠的起司也很好吃嘛～♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "可恶，竟然跳进这种明显的陷阱……\n去喝珍奶啦你！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "训练员老大～这下子要怎么办啊？\n我们难得比一场，平手也太没劲！要怎么样才能折衷解决……",
+            "ChoiceDataList": [
+                "之后再比吧！",
+                "之后再比吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "之后再比……？哦，对耶！说得也是！\n这次平手，下次再比就好啦。而且我们还要一起往前冲呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "哈哈，训练员老大，我可不会认输哦！\n虽然我们是彼此的同伴，不过在厨房里可是劲敌哟！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "菱亚马逊很高兴能够在自己感兴趣的领域里找到好劲敌。\n而她似乎比较喜欢味道温和的料理，正好与性格相反。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

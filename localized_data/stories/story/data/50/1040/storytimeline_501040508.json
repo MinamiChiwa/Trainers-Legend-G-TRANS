@@ -1,0 +1,43 @@
+{
+    "Title": "参赛的疲劳",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "黄金城市接下来还有模特儿的工作，\n差不多该离开了。\n当我趁她出发前跟她深入讨论时……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "抱歉，可以让我在长椅上坐一下吗？\n我会听你说话的。",
+            "ChoiceDataList": [
+                "你是不是累了？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "是啊。所以让我趁空档好好休息吧。\n要是让经纪人看到我累到走不稳，她会很咯唆的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "不用担心，我会好好工作的。\n唉……不过老实说，真想翘班……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "她似乎累积了不少疲劳……\n我是否该重新调整今后的参赛计划了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

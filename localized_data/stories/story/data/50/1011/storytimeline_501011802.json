@@ -1,0 +1,276 @@
+{
+    "Title": "永恒持续追击【永远是我的回合】",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "某天放学后，我走在校舍里──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "哎呀……又赢了。\n小青真厉害。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "落败的赛马娘",
+            "Text": "嗯～好不甘心～！\n本来还想要中断她的连胜纪录～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "哈哈哈～下一个对手是谁啊～？",
+            "ChoiceDataList": [
+                "连胜纪录？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "啊，训练员。\n小青玩卡牌游戏都不会输呢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "她还会穿插心理战术，打得非常精彩，\n连我都忍不住看入迷了。",
+            "ChoiceDataList": [
+                "哦，好像很有趣",
+                "哦，好像很有趣"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "那么，接下来要换你下场玩吗？\n就当作是吃晚餐前打发时间～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "被秒杀了……",
+            "ChoiceDataList": [
+                "好、好不甘心……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "嘻嘻，要再来一场吗？\n小青我随时欢迎哦～",
+            "ChoiceDataList": [
+                "……再挑战一次！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "那么，我也来支援吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "看小青连赢了这么多次，\n我大概知道她玩游戏的习惯了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "在我以前玩的一款游戏里，\n支援是获胜的关键。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "二对一啊，不错呢～\n感觉值得一战。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "那么，一决胜负吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "训练员，\n先用这张手牌刺探对手的状况──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "好好好，\n我就知道你们会这么做♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "虽然表现得比第一场好，\n但还是在只差一步的地方落败。",
+            "ChoiceDataList": [
+                "彻底输了！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "哎呀～我也捏了一把冷汗呢～\n你们还满厉害的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "那么，既然已经打发完时间，\n我差不多该去吃晚餐了──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "…………\n…………请再比一场～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "咦？",
+            "ChoiceDataList": [
+                "咦？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "在吃晚餐之前，\n应该还有时间再比一场吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "快点开始吧。\n现在可没时间松懈咯～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "这次手牌不错。\n赶紧动摇对手吧。",
+            "ChoiceDataList": [
+                "好、好的"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "咦，居然现在就出这张卡？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "没错。\n因为──你现在没有追击的手段吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "啊……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "对手没有防御的对策，用策划卡发动陷阱。\n封住对手的行动后攻击，不要给她机会。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "来吧，训练员，\n大胆地继续出卡吧～",
+            "ChoiceDataList": [
+                "不愧是最强的支援角色",
+                "不愧是最强的支援角色",
+                "与其说是支援，更像是攻击……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "来吧，训练员，\n大胆地继续出卡吧～",
+            "ChoiceDataList": [
+                "不愧是最强的支援角色",
+                "不愧是最强的支援角色",
+                "与其说是支援，更像是攻击……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "能被你这么说我感到很光荣。\n我会用自己的方式继续支援。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "朝着完美结局迈进♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "啊哈哈……看来引出了一个不得了的对手……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "之后我们两人也合作无间地展开攻防，\n漂亮地获得了胜利！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "哎呀，我只负责支援哦。\n换句话说就是参谋～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "对手已经无法反击了，\n只要继续进攻，就能一直掌握主导权。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "不妙。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "不断发起攻势，\n持续展开追击吧♪",
+            "ChoiceDataList": [
+                "收、收到！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "之后我们不断猛攻，\n最后漂亮地获得了胜利……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

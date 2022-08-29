@@ -1,0 +1,277 @@
+{
+    "Title": "order from client",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "某天，我在中央广场，\n看到黄金城市正和秋川理事长谈话。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "秋川理事长",
+            "Text": "拜托！麻烦你了！\n为了赶上交件日期只好临时拜托你，真是抱歉……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "我知道了。交给我吧。",
+            "ChoiceDataList": [
+                "怎么了？",
+                "怎么了？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "现在要拍新生欢迎手册用的照片。\n我要帮原本的摄影模特儿代班。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "电话另一头的赛马娘",
+            "Text": "“呜呜～对不起……！呜呜。\n我为什么会感冒了呢……！”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "秋川理事长",
+            "Text": "哇、哇哇。不要哭了啦！\n大家都会感冒的──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "……不好意思。可以把电话借我一下吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "别哭了。\n已经决定由我来代替你了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "电话另一头的赛马娘",
+            "Text": "“呜呜……对不起……\n还给城市你添了麻烦……”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "喂～不对吧。\n你现在该做的不是道歉，\n而是治好感冒！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "所以，快去吃有营养的东西，吃完快点睡觉！\n我说完了，明白了吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "电话另一头的赛马娘",
+            "Text": "“好、好的！”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "嗯，很好。能回答得这么有精神，\n应该很快就会有新工作找上门了吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "那我们也开始吧。\n除了制服外，也会用到决胜服吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摄影师",
+            "Text": "那我们先从上学情境开始！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摄影师",
+            "Text": "接下来拍校舍内的情境！\n这表情真棒！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摄影师",
+            "Text": "接下来是穿上决胜服的样子！哦，好帅！\n请让我再拍一张！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "好。最后是跑步的样子吗。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摄影工作人员A",
+            "Text": "好厉害……不愧是现役模特儿。\n很清楚需要什么画面……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摄影工作人员B",
+            "Text": "哎呀～真是太帅了。\n拍摄进度超快，看来可以早一小时结束哦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "正如他们所言，在拍摄的时候，\n黄金城市完全就是一个专业模特儿。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "与平时跑步的她不同，\n看起来闪闪发光，宛如遥远的存在──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摄影师",
+            "Text": "那么最后一张！城市，\n请把你最强的武器展现给我们看！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "……最强的武器……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "欸，训练员。\n可以打扰一下吗？",
+            "ChoiceDataList": [
+                "你叫我？",
+                "你叫我？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "没错。就是你。\n你觉得我的武器是什么？",
+            "ChoiceDataList": [
+                "想要前进的意志",
+                "努力不懈的固执之类……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "是哦～你看到我的跑姿时，\n会有这种感觉啊？",
+            "ChoiceDataList": [
+                "当然有！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "哈哈……谢谢你这有够热血的回答。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "……噗。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "哈哈，天啊。\n我有“努力不懈的固执”吗。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "呵呵呵。\n也只有你会这么说我了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "然后，\n黄金城市去进行最后的拍摄──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "辛苦了～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摄影工作人员B",
+            "Text": "哎呀，真是名不虚传。最后的跑姿，\n将“你的风格”表现得淋漓尽致呢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "工作人员说得没错。在拍摄上，\n她从头到尾都很完美。那么为什么……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "咦？怎么了，训练员？",
+            "ChoiceDataList": [
+                "你为什么要问我“自己的武器”是什么？",
+                "你为什么要问我“自己的武器”是什么？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……当时其实不需要特地问我，\n她自己也很清楚吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "我跟你说，所谓的模特儿，\n最重要的是达成客户要求。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "所以我才向\n比我自己更清楚\n“我最强的武器”是什么的人请教。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "……而你是我的训练员不是吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在夕阳照耀下，刚才的模特儿已不见踪影，\n她的脸上完全是\n特雷森学园学生的表情了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

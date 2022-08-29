@@ -1,0 +1,36 @@
+{
+    "Title": "出道战结束后．想击败的家伙",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "菱亚马逊漂亮地跑完“闪耀出道战”，\n她充满了干劲。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她有个想要在大舞台上对决的劲敌。\n那就是同年代选手中最有望获得经典三冠的赛马娘，\n成田白仁。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "经典",
+                "成田白仁"
+            ]
+        },
+        {
+            "Name": "独白",
+            "Text": "为了实现这个梦想，\n菱亚马逊希望能迈向更高的巅峰。\n接下来要挑战的是新马级GⅠ“阪神JF”……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "新马级",
+                "GⅠ",
+                "阪神JF"
+            ]
+        }
+    ]
+}
