@@ -1,0 +1,71 @@
+{
+    "Title": "因头痛而忧郁",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "醒目飞鹰不知为何按着额头\n在训练员室里找我说话……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "呜呜……那个啊……训练员。\n可以对飞鹰子说“你很可爱”吗……？",
+            "ChoiceDataList": [
+                "你突然这样是怎么了？",
+                "你突然这样是怎么了吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "飞鹰子的头突然痛了起来。\n虽然已经休息和吃药了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "但是一点都没有好转，只好使出最后手段！\n我想使用“可爱疗法”……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "只要有人能像“痛痛飞走吧～”那样\n对我说“你很可爱”──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "我应该就会高兴到连头痛都能痊愈！\n所以拜托你了……训练员！",
+            "ChoiceDataList": [
+                "……飞鹰子，你很可爱哦！",
+                "……飞鹰子，你很可爱哦！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "嘿嘿，太好了☆\n这样飞鹰子的头痛就……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "──还、还是没好啊～！！\n呜哇……！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "虽然我安慰了醒目飞鹰……\n但她的头痛还是一直没有痊愈。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

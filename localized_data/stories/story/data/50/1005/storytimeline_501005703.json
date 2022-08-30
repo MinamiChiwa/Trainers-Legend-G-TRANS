@@ -1,0 +1,465 @@
+{
+    "Title": "仅是为你",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "在我跟富士奇石外出后的回程路上──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "前阵子你陪我参观展览会，\n我想为此跟你道谢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "所以……训练员室桌上摆的这张活动传单，\n我们要不要现在去看看呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "说完，富士奇石所拿出的传单……\n记得原本放在训练员室里，上头是关于\n在购物中心内举办的实境体感活动。\n",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "只要在时间限制内不被工作人员扮演的\n僵尸抓到，就可以获得奖品。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "奖品清单里有赛马娘用的最新款运动鞋，\n看得我十分在意──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "方便的话我们一起去嘛。\n毕竟我对跑步可是很有信心的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "我会为你献上一场杰出的胜利！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是我和富士奇石就这样忽然决定\n要参加实境活动了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "活动工作人员",
+            "Text": "禁止违法行为和太过激烈的动作！\n但是要铆足全力享受这次的活动哦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "活动工作人员",
+            "Text": "那么，游戏开始～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "僵尸们",
+            "Text": "唔哦哦哦哦～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "哇，好特殊的化妆──不对，这些僵尸的外表\n好可怕哦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "大家的脚程都很快，工作人员──不对，\n他们生前该不会是赛马娘吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "哦，他们往这边过来了！\n我们悄悄移动吧……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "男性参加者",
+            "Text": "别这样，不要过来啊……！\n我只要再撑十分钟就好了的说……哇啊──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "唔。\n那个人也被抓到了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女性参加者",
+            "Text": "有一大群僵尸从那边袭来了！\n大家快逃啊──！",
+            "ChoiceDataList": [
+                "（大家玩得真起劲……！）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "僵尸们",
+            "Text": "唔哦哦哦哦～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "糟糕，我们得离开这里！\n训练员，到那边去！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "呼……呼……\n你没事吧，训练员？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "这里是……呃，从挑高处看出去可以看到一楼，\n所以这里是二楼吧？有没有哪里可以躲呢──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "僵尸们",
+            "Text": "唔哦哦哦哦～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "唔！来了！\n我们快点过去吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "僵尸们",
+            "Text": "唔哦哦哦哦～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "呃，被夹攻了！？\n不妙……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "两头各来了几只僵尸。如果只是富士奇石\n一个人还不要紧，但两个人应该很难突破！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我思索着有没有什么好办法可以逃离困境。\n能够让富士奇石安全获胜的方法是──",
+            "ChoiceDataList": [
+                "抱着她跳到一楼去",
+                "主动当诱饵引开僵尸"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "咦，跳下去！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "僵尸们",
+            "Text": "唔哦哦哦哦～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "僵尸已经来到我们面前了。\n实在没有闲工夫解释或是说服她。\n我瞬间抱起了富士奇石──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "训、训练员～！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "而后跳下一楼。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "活动工作人员",
+            "Text": "哇哦！真是一场充满戏剧性的逃脱戏码！\n你保护了伙伴，让她毫发无伤呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "活动工作人员",
+            "Text": "不过活动禁止太过激烈的行为！\n因此很遗憾，你们出局了！",
+            "ChoiceDataList": [
+                "（对哦！！）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是……我们未能获得奖品，\n活动就这么结束了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "来，把脚踝伸过来！\n我来帮你贴个贴布。会有点冰冰的哦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "真是吓死我了。\n你好歹也跟我商量一下，我就会自己──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "……啊……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "……我懂了。你是为了不让我弄伤脚，\n才会抱着我跳下楼的吧？",
+            "ChoiceDataList": [
+                "！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "原来如此，所以才会这样……\n难怪我觉得你一反常态地强硬。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "…………真是的。\n你这个训练员真叫人伤脑筋。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "富士奇石面带温柔的表情这么说。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "……我啊，虽然会去保护别人，\n可是很少被人家保护呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "即使真的受到人家保护，\n平常我也会觉得很过意不去。不过──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "不过，该怎么说……\n感觉你和其他人就是不太一样。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "我现在单纯觉得很开心。\n所以……谢谢你，训练员。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "话一说完，富士奇石就向我靠近──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "不过，这跟那是两回事。\n你伤到了脚，我要罚你被我背回家！",
+            "ChoiceDataList": [
+                "！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "喂喂喂，不可以下来哦！\n这是你乱来一通的惩罚。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我就这样在夕阳之下，被莫名开心的富士奇石\n一路背了回去。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "咦，诱饵！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "不不不，那样不行啦！我不能让你那么做！\n既然如此，干脆由我──",
+            "ChoiceDataList": [
+                "你一个人铁定逃得掉！",
+                "你一个人铁定逃得掉！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "……！",
+            "ChoiceDataList": [
+                "所以，我希望你一定要拿回胜利"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "训练员……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "我知道了！\n我一定会夺得胜利献给你的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "喝啊──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "被抓的女性参加者A",
+            "Text": "哇，留到最后的那女孩被所有僵尸追着跑……\n……咦！？那不是富士奇石吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "被抓的女性参加者B",
+            "Text": "咦！？真的假的！？是真的耶！！\n太神了！搞不好真的逃得掉耶！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "喝啊啊啊──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "──之后，富士奇石钻过了许多僵尸的追击，\n漂亮地获得了胜利！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "呼，太棒了！\n那些僵尸跑得很快，真是好险。",
+            "ChoiceDataList": [
+                "你跑得太精彩了！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "这个嘛……其实是托了你的福。\n是你对我施展了魔法。",
+            "ChoiceDataList": [
+                "？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "你不是对我说\n“你一个人铁定逃得掉”吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "你不是对我说\n“你一个人铁定逃得掉”吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "这句话让我萌生了一个念头，那就是“既然你\n这么信任我，那我非得成功逃脱不可”。",
+            "ChoiceDataList": [
+                "！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "呵呵。你所说的话拥有力量，\n能对我施魔法呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "而且效果还强得超乎想像。\n这真是厉害的武器耶，训练员！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "只要有你一句魔法般的话语鼓励，\n我就觉得自己能够无止尽地跑下去。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "……跟你闹着玩的啦♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "话说回来，这场活动真有趣！\n下次我们再一起去玩吧，训练员。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是，我们一边约好下次要再次出游，\n一起悠闲地踏上了归途。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

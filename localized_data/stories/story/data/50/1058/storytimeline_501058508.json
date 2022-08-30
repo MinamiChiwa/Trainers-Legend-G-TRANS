@@ -1,0 +1,46 @@
+{
+    "Title": "参赛的疲劳",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "午休时我跑到顶楼一看，\n发现名将怒涛在那里……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "嗝……只、只要喝下这么多，\n一定能够消除疲劳的……",
+            "ChoiceDataList": [
+                "怒涛……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "是──！？训训训训练员！？\n这罐营养补给饮料是那个──",
+            "ChoiceDataList": [
+                "那是运动饮料哦！",
+                "那是运动饮料哦！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "咦……咦咦咦咦！？\n我喝了这么多却完全没发现～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "大概是累到脑袋转不过来吧，\n只见她脚边满满都是空宝特瓶……\n或许应该要重新调整预定赛程。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,308 @@
+{
+    "Title": "A Quiet Moment",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "某天，当我在训练员室工作的时候──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "训练员……很抱歉，\n希望今天的训练可以让我休息。",
+            "ChoiceDataList": [
+                "发生什么事了吗？",
+                "发生什么事了吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "我在午休的时候救了一个\n差点摔下楼梯的女孩──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "结果却在那时稍微弄伤了脚。\n看来今天一整天都不要跑步比较妥当。",
+            "ChoiceDataList": [
+                "你还好吧？要不要送你回宿舍？",
+                "你还好吗？要不要送你回宿舍？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "倒也不是完全没办法走路，没事的。\n只是慎重起见想休息一天而已……我先走了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "站在她的立场来看，她八成是顾虑到那位\n害她受伤的赛马娘，而不愿让其他人操心吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "不过，她的症状有可能会恶化。于是我决定\n在尊重她这份心意的同时，前往贩卖部\n“不动声色地”买一份慰问品给她。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我买了贴布和她喜欢的东西，\n然后装得像是整袋放满了食物一样。\n接着──",
+            "ChoiceDataList": [
+                "可以耽误你一点时间吗？",
+                "可以耽误你一点时间吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "啊，是富士的训练员～！\n什么事～？",
+            "ChoiceDataList": [
+                "富士有东西忘了拿，你可以帮忙送回宿舍吗？",
+                "你可以帮我把富士忘掉的东西送到宿舍吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "哇，是满满的食物耶～！\n富士的肚子一定饿扁了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "好啊，交给我吧！\n我会咻──地送去给她！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "话刚说完，\n春丽就精神奕奕地跑走了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "如果由个性坦率又天真无邪的她送过去，\n想必富士奇石也不会太过警戒吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "虽然有慢慢在消肿了，\n不过宿舍的巡逻工作还是晚点再做好了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "隐瞒着伤势，自己一个人悄悄躲在房间里──\n总觉得让我想到小时候的事呢……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "（在公演前一天的练习中受伤那次……\n我也曾经想像个普通女孩一样说出丧气话）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "（但我不只是个小孩子，\n更是一名舞台剧演员──）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "找到了，富士──！\n乌拉拉宅急便送来咯──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "哎呀？这还真是一位\n惹人怜爱的快递小姐呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "嘿嘿嘿～♪来，这是你忘记拿的东西。\n是训练员托我转交的哦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "春丽",
+            "Text": "下次不可以忘东忘西哦～！\n再见！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "“忘记拿的东西”吗……\n里头有食物跟……这是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "然后过了几天──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "你好，训练员！",
+            "ChoiceDataList": [
+                "看你好像完全康复了呢",
+                "看你好像完全康复了呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "是啊，都是多亏了你交给乌拉拉的\n那份“忘记拿的东西”。",
+            "ChoiceDataList": [
+                "我希望你至少能够依赖我",
+                "我希望你至少能够依赖我",
+                "有困难的时候就是要互相帮助啊！",
+                "有困难的时候就是要互相帮助啊！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "是啊，都是多亏了你交给乌拉拉的\n那份“忘记拿的东西”。",
+            "ChoiceDataList": [
+                "我希望你至少能够依赖我",
+                "我希望你至少能够依赖我",
+                "有困难的时候就是要互相帮助啊！",
+                "有困难的时候就是要互相帮助啊！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "因为我是富士奇石的训练员，同时也是个\n成熟的大人。就在我这样告诉她之后──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "呵呵，谢谢你。\n训练员，你真的很可靠呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "……我在当童星时曾经受过一次伤。\n相隔许久的今天我想起了当时的事情。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "不过从前并没有你在身边……\n所以状况和现在不太一样就是了。",
+            "ChoiceDataList": [
+                "我是否有稍稍成为你的支柱了呢？",
+                "我是否有稍稍成为你的支柱了呢？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "当然，你给了我非常多支持。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "……真是的。\n训练员实在也是个罪孽深重的人耶。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "总是像那样宠我，试图卸下我的面具──\n假如以后我没有你就活不下去的话，\n那你打算怎么办？",
+            "ChoiceDataList": [
+                "这、这个……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "呵呵，我开玩笑的♪\n下次训练时间见咯！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "怎么想罪孽深重的是你吧……\n我目送着她的背影离去，不断想着这件事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "怎么想罪孽深重的是你吧……\n我目送着她的背影离去，不断想着这件事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "互相帮助是吗？\n有道理呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "那下次你受伤的时候，\n我也带慰问品来看你好了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "我会去借用宿舍餐厅，\n煮出许多营养满分的菜色哦。",
+            "ChoiceDataList": [
+                "我很开心……可是感觉会被你的粉丝嫉妒",
+                "我很开心……可是感觉会被你的粉丝嫉妒"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "既然如此，那我会避开其他人的目光\n偷偷去找你。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "就像是动身去见茱丽叶的罗密欧一样──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "你愿意等我吗，我的茱丽叶？\n……如何呢♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "感觉有点期待那一刻到来，\n又好像有点担心……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我怀抱复杂的心情，\n注视着乐不可支的富士奇石。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

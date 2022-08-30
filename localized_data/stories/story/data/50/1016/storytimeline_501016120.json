@@ -1,0 +1,433 @@
+{
+    "Title": "姐姐",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "（议论纷纷……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "欸欸，那是真的吗！？琵琶晨光她，\n因为去年秋季天皇赏的伤势迟迟没复原，\n可能会退出第一线……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "秋季天皇赏"
+            ]
+        },
+        {
+            "Name": "赛马娘B",
+            "Text": "好像是耶。唉……好可惜哦。\n我很喜欢看她赛跑的说。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "我懂～会想看她跟白仁正面对决对吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "对了。白仁。\n下次要不要跟我比一场模拟赛呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "真期待互相砥砺的我们同场竞争的那一天呢。\n虽然不能跑普通比赛的距离──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "白仁，你就不断向前迈进吧。\n一路奔驰下去，不要回头。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "……那个时候，\n为什么你要说自己不能跑？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "为什么要叫我别回头……！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "接下来最大的目标就是“日本杯”，\n成田白仁以骇人的气势进行着训练。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "呼……呼……\n呼……呼……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "呼……训练员……\n我要……再跑一趟……！",
+            "ChoiceDataList": [
+                "等你调整好呼吸后再说",
+                "等你调整好呼吸后再说"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "啧……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者",
+            "Text": "啊，成田白仁小姐！\n不好意思，请接受访问！\n只要一句话就好了！",
+            "ChoiceDataList": [
+                "现在正在训练中……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者",
+            "Text": "拜托通融一下！\n琵琶晨光小姐已无缘再跑闪耀系列赛，\n现在你才是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "……闭嘴。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者",
+            "Text": "咦？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "不要提大姐的事！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "现场的气氛瞬间降到冰点。\n她的声音带着异常的怒气。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "……可恶！",
+            "ChoiceDataList": [
+                "白仁！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我对脸色发白的记者低头致歉后，\n急忙追上了成田白仁。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "……！！\n向往虚无的幻影有什么用！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "说出那种丧气话的人，\n才不是我的大姐──",
+            "ChoiceDataList": [
+                "到底发生了什么事？",
+                "到底发生了什么事？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "……训练员。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "刚才真是抱歉。\n我等一下就回训练赛道。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "现在就先别管我。\n快点离开。",
+            "ChoiceDataList": [
+                "我做不到"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我想到前几天“天皇赏（秋）”之后看到的报导，\n还有刚才那个记者说的话。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "加上成田白仁只要\n一碰到她姐姐琵琶晨光的事，\n就会出现过度的反应。",
+            "ChoiceDataList": [
+                "难道是你姐姐的事？",
+                "难道是你姐姐的事？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "别说了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "……别说了。\n别再提……大姐的事了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "我的大姐──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "年幼的晨光",
+            "Text": "──追上来，白仁！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "永远都是跑在我的前头……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "她才不会轻易就放弃赛跑……！",
+            "ChoiceDataList": [
+                "……白仁"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "……你就不要再管我了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "我很清楚。\n就算大姐无法参赛，\n闪耀系列赛中还是有很多竞争对手。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "这里是只有强悍的勇者才能留下来的地方，\n就算有人被剔除出去也不奇怪。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "就连大姐也一样……",
+            "ChoiceDataList": [
+                "你真的是那样想的吗？",
+                "你真的是那样想的吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "……她没有重返赛场。\n这件事实就代表了一切吧。",
+            "ChoiceDataList": [
+                "事实与意志是两回事哦"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "自己的存在会伤害别人……\n这件事既恐怖又伤心，米浴很不愿意。但是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "但是米浴不想逃避赛跑……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼诗歌剧",
+            "Text": "你的背影一直在很远的地方，\n我连那个地方都到达不了就结束了。\n……我想这就是“普通”的结果吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼诗歌剧",
+            "Text": "不过，下一次！我一定会追上你的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "──不管是被称为“漆黑刺客”的她……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "还是被所有人认为“不会获胜”的她。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "两人都怀抱着，\n不同于他人眼中事实的“意志”。",
+            "ChoiceDataList": [
+                "闪耀系列赛中，全都是强者"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "……",
+            "ChoiceDataList": [
+                "我认为你的姐姐也是如此",
+                "我认为你的姐姐也是如此"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "…………",
+            "ChoiceDataList": [
+                "你觉得呢？",
+                "你觉得呢？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "…………\n那还用说……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "……她可是我的大姐，\n当然很强了……！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我不想打扰她，\n所以静静地闭上眼睛，转身背向她。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "从我的背后\n传来了溃堤似的啜泣声。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "…………啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "晨光？怎么了？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "……我刚刚在想，\n那孩子应该也正在努力着吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "呵呵，好，我们也不能输哦。\n奖券，准备好了吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "我OK咯！！治疗师～～～！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "物理治疗师",
+            "Text": "好～我等你们很久了！\n今天的复健也会严格地进行哦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "好的，拜托了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "物理治疗师",
+            "Text": "呵呵，从去年到现在都一样积极呢。\n晨光同学你们真是了不起。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "嗯，当然咯。\n毕竟我想早点重返赛场。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "……不需要操无谓的心。\n因为我是成田白仁的姐姐 。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

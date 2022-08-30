@@ -1,0 +1,43 @@
+{
+    "Title": "挑战夹娃娃机大成功！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "哦哦，真是出乎意料……！\n没想到居然能夹到这么多！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "这就是所谓真人不露相之类的吧……\n早知道就多观察手的动作……",
+            "ChoiceDataList": [
+                "手的动作……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "啊，没事，跟你没有关系。\n你真的做得很好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "我并没有在想\n要怎么偷走你的技术♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──成果令人心满意足！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

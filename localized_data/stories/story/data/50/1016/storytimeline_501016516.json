@@ -1,0 +1,200 @@
+{
+    "Title": "肉食",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "当我去拉面店时，凑巧看到\n成田白仁与琵琶晨光也在。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "……我吃饱了。\n真好吃。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "嗯，我吃饱了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "……那我先走了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "你要走了吗？\n吃完饭后稍微休息一下比较……",
+            "ChoiceDataList": [
+                "你们一起吃午餐？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "……是你啊。\n只是碰巧遇到而已。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "拉面店老板",
+            "Text": "哦，欢迎光临！\n决定好要点什么的话请再告诉我！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "拉面店老板",
+            "Text": "本店现正提供“讲究叉烧大增量”哦！",
+            "ChoiceDataList": [
+                "叉烧大增量……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "那个很好吃哦。\n不管怎么嚼都会感到富含肉汁。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "你是不是有点太爱吃肉了……？\n你这不是把面上的蔬菜都丢给我了吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "……是你的错觉吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "怎么可能是错觉，我都看到咯。\n你也要多吃点蔬菜……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "拉面店老板",
+            "Text": "啊哈哈！不过能让你这么喜欢吃，\n我很开心哦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "拉面店老板",
+            "Text": "既然你这么喜欢，\n我就招待你额外的叉烧吧，如何？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "可以吗？",
+            "ChoiceDataList": [
+                "吃太多了哦",
+                "恭敬不如从命吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "……也是。\n吃太多的话动作会变迟钝。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "嗯，这是很聪明的判断。\n你的建议也很正确。",
+            "ChoiceDataList": [
+                "谢谢……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "啧，大姐每件事都要管，\n也太爱摆大姐的架子了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "是吗？\n但我本来就是姐姐啊──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "喂，白仁！\n回去时别用跑的！慢慢来！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我莞尔地看着她们姊妹间的互动，\n并点了叉烧大增量面。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "……也是。\n要吃就是要全都吃光！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "你们这样也太胡来了……！\n还有，只吃叉烧可以吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "可以。\n大叔，帮我追加叉烧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "……真是的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "…………呼。\n还真是超乎想像的分量。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "你吃东西的样子感动了老板，\n所以他才不断地帮你追加……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "白仁，你没事吧？\n刚才那些明显已经超过适当的进食量了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "没问题……反正我很快就会靠跑步，\n把那些……都消耗掉了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "虽然尽情地享受了叉烧，\n但因为吃太多了，让成田白仁似乎有点难受……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

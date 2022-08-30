@@ -1,0 +1,37 @@
+{
+    "Title": "挑战夹娃娃机失败……",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "……哎呀？\n感觉你的状况不是很好呢。",
+            "ChoiceDataList": [
+                "我太没用了……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "算了啦，\n不用那么沮丧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "改天再来玩吧……\n我也很高兴能找到新的偷懒借口。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "留下令人遗憾的结果……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

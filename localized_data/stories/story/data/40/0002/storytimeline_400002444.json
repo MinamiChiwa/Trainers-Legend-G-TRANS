@@ -1,0 +1,45 @@
+{
+    "Title": "终于聚集的队伍成员！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "终于召集了成员，\n可以组成队伍参加“青春杯”了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在“青春杯”里依据队伍排行榜，\n训练等级也会提升。\n最好尽可能多取得胜利。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "首先必须决定队伍名称。\n自己想到的队伍＜小萝卜＞\n这个名字如何？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "队伍名称是──",
+            "ChoiceDataList": [
+                "队伍＜小萝卜＞"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "队伍名称决定是队伍＜小萝卜＞，\n填入登录参赛的表单后完成提交了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "小萝卜"
+            ]
+        }
+    ]
+}

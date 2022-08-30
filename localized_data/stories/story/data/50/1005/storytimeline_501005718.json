@@ -1,0 +1,53 @@
+{
+    "Title": "恢复精神",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "谢谢你昨天让我放假。\n多亏如此，我过了悠哉的一天。",
+            "ChoiceDataList": [
+                "你有好好休息吗？",
+                "你有好好休息吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "有！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "宿舍长的工作全都做完了，\n也倾听了女孩们的烦恼。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "其他还有和菱亚单挑，\n或是欣赏好歌剧的独角戏──",
+            "ChoiceDataList": [
+                "这样算是有休息到……吗？",
+                "这样算是有休息到……吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "那当然！取悦大家并和他们一块度过\n开心的时光，就是最棒的休息了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看来她用自己的方式\n好好放松休息到了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

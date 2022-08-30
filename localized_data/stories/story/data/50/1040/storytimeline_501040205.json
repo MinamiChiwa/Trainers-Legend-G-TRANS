@@ -1,0 +1,203 @@
+{
+    "Title": "迎向有马纪念",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众A",
+            "Text": "今天黄金城市要跑呢～\n对战古马级对手，她能跑到什么程度呢？\n真令人期待～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "古马级"
+            ]
+        },
+        {
+            "Name": "观众B",
+            "Text": "讲得这么好听，\n反正你就是来看脸的吧？",
+            "ChoiceDataList": [
+                "（……！）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众A",
+            "Text": "被你看穿啦？我的确也很期待她的表现，\n但能看到本人还是很开心的！\n而且你也是吧～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众B",
+            "Text": "不，我是来看玉藻十字的。\n你有看那场以大差获胜的比赛吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众A",
+            "Text": "我看到了！那场超震撼的！\n她今天会跑出怎样的表现呢～！",
+            "ChoiceDataList": [
+                "请你们也看看城市的表现！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众A",
+            "Text": "呜哇，你是谁！？\n……还有，黄金城市！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众B",
+            "Text": "超、超漂亮的……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "……谢谢支持。\n够了，我们走吧，训练员。",
+            "ChoiceDataList": [
+                "可是……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "好了啦……走吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "──看来玉藻前辈顺利克服难关了。\n太好了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "而我──“来看脸”吗。",
+            "ChoiceDataList": [
+                "城市……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "我明白的。不用担心。\n现在我会集中在跑步上的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "所以……\n你什么都别说了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "刚才那些仅仅只是一部分人的意见，\n另外也有人说很期待她的表现。\n但就算告诉她，也安慰不了她。既然如此──",
+            "ChoiceDataList": [
+                "抬头挺胸，以你的风格奔跑吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "──终于能跟你一起跑了。\n让你久等啦，城市！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "我一直以来都很期待哦？\n你之前好像跑得有声有色啊。\n不过也只到今天为止了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "我会打倒得意忘形的你！\n你可别边说：“玉藻前辈太强了～！”\n边在那边哭啊！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "谁会哭啊……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "……我是不知道你发生了啥事，\n不过怎么比赛前一点斗气也没？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "……这是怎样？\n只有我一个人在期待吗……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "喂！\n把你那心不在焉的表情收起来！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "我可不许你跑得乱七八糟。\n……别挡了我向前冲的路！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "与其跑得让人看笑话，\n那我不如不跑。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "……\n不过。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "既然机会在这里，我……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "──该上场了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,577 @@
+{
+    "Title": "抽奖试手气！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "某天傍晚，当我们结束街头演唱会，\n正漫步于商店街时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "啊，训练员，快看快看！\n好像有什么活动哦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "看过来看过来，现正举办新春大抽奖～！ \n特等奖可是“温泉旅游券”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "温泉旅游券"
+            ]
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "一奖是“特等胡萝卜汉堡排”，\n二奖是“一整堆胡萝卜”，\n三奖则是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "看过来看过来，是好玩的抽奖活动哦！\n任何人都可以来抽哦～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "……原来如此。\n飞鹰子懂了。",
+            "ChoiceDataList": [
+                "懂什么？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "这是在考验我。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "考验飞鹰子的──\n身为赛马娘偶像的巨星气质！！",
+            "ChoiceDataList": [
+                "！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "刚才我们买点心时\n有拿到抽奖券对吧？\n只有一张的抽奖券……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "换句话说，这是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "“你能在仅有一次的机会中\n抽到特等奖吗？”\n……完全就是在考验我……！",
+            "ChoiceDataList": [
+                "谁在考验你？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "就是巨星气质的神明啊！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "总而言之！身为赛马娘偶像，\n遇到考验就必须克服才行！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "飞鹰子会证明自己具有\n顶尖赛马娘偶像的资质！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "醒目飞鹰奋勇握住\n抽奖机的把手──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "飞鹰子气场，绽放光芒吧☆\n嘿♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──然后转动了把手！\n结果是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "天啊！恭喜────！！ \n抽到特等奖“温泉旅游券”了～～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "成功啦────☆☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "你看到了吗！？\n训练员！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "这就是最强☆赛马娘偶像！\n飞鹰子的实力！！",
+            "ChoiceDataList": [
+                "恭喜你！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "谢谢你☆\n赛马娘偶像的实力可不是浪得虚名的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "呼～好满足哦♪\n那我们回去吧──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "赛马娘小姐！\n你忘记最重要的奖品了哦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "咦？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "“温泉旅游券”啊～",
+            "ChoiceDataList": [
+                "太好了呢",
+                "太好了呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "嗯，我是很高兴啦……\n但要什么时候去呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "毕竟我们也才刚立下\n“全部第一名”的目标。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "果然还是要等全部比完后再说吗？",
+            "ChoiceDataList": [
+                "可以先留着当作奖励啊"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "嗯，说得也是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "呃，为什么讲得好像不关你的事啊？\n训练员你也要一起去哦？",
+            "ChoiceDataList": [
+                "咦！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "因为如果是给飞鹰子的奖励，\n那训练员也应该要收下啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "我们是共享同一个梦想的伙伴吧？\n类似“命运共同体”的感觉☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "而且等到全部都结束的话，\n飞鹰子肯定已经成为顶尖赛马娘偶像了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "顶尖赛马娘偶像的私生活\n当然是需要保镖保护的吧？",
+            "ChoiceDataList": [
+                "那才是你真正的想法？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "…………嘿嘿，被看穿了吗☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "……训练员真是迟钝。",
+            "ChoiceDataList": [
+                "嗯？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "没什么啦～☆\n我好期待温泉旅行这个奖励哦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "因此，“温泉旅游券”\n就暂时交由我保管了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "恭喜抽到一奖～！\n奖品是“特等胡萝卜汉堡排”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "太好了～！是一奖☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "虽然没有抽到特等奖……！\n不过～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "一奖就等于是第一名！\n而“特等汉堡排”则代表着特别！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "换句话说……飞鹰子的赛马娘偶像实力\n也是特别的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "我这样说没错吧！？",
+            "ChoiceDataList": [
+                "是啊！",
+                "嗯！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "好──♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "今晚的晚餐我会邀请你参加\n超级特别！飞鹰子．晚餐秀哦☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "于是在当晚，我便一边听着\n心情很好的醒目飞鹰唱歌，\n一边度过了一段豪华的时光。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "二奖～！！\n奖品是“一整堆胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "二……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "二！",
+            "ChoiceDataList": [
+                "二？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "──只要笑两次，双喜就会临门～♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "嗯。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "哇～好多胡萝卜哦☆\n该怎么吃掉它们呢～♪",
+            "ChoiceDataList": [
+                "（当作没发生了！？）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "对了！\n既然有这么多的话──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "各位～你们好～☆\n我是飞鹰子～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "今天的街头演唱会是特殊形式！\n只要是有来看的人……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "飞鹰子都会亲手送给你☆\n一根胡萝卜哦♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "加油呗赛马娘S",
+            "Text": "胡萝卜……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "灰发的赛马娘O",
+            "Text": "胡萝卜……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "请大家今天也要支持我到最后哦！\n一起炒热气氛吧～☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "总觉得……那天的街头演唱会，\n赛马娘观众似乎比平常还多。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "三奖～！\n奖品是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "……训练员。",
+            "ChoiceDataList": [
+                "是"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "飞鹰子啊，\n身为赛马娘偶像，有一件很重视的事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "那就是呢，只要是粉丝们的愿望，\n我随时都可以在任何地方唱歌跳舞！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "所以啊，这根胡萝卜……\n不对，是胡萝卜麦克风。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "既然飞鹰子拿到的是\n胡萝卜麦克风──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "飞鹰子觉得自己已经受到认可，\n是个出色的赛马娘偶像了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "巨星气质的神明，谢谢祢。\n飞鹰子会努力的……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（一闪……☆）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "不知道是不是在回应醒目飞鹰的话，\n我似乎看到有颗星星……在夕阳中闪了一下。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "很可惜，没抽中！\n参加奖是“卫生纸”哦～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "我没有输！！",
+            "ChoiceDataList": [
+                "咦？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "没抽中……不代表输了！！\n所以飞鹰子还是有发展性的！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "应该……有吧？\n一定有吧……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "……飞鹰子的气势\n该不会其实只有一张卫生纸的程度吧？",
+            "ChoiceDataList": [
+                "飞鹰子──"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "──开玩笑的啦☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "没问题！就算是卫生纸，\n只要多叠几张就有厚度了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "所以……\n啊哈、啊哈哈哈……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "虽然她故作镇定，\n但醒目飞鹰的笑脸\n看起来有些僵硬。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

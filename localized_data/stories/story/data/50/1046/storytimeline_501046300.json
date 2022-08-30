@@ -1,0 +1,55 @@
+{
+    "Title": "夏季集训（第二年）结束",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "夏季集训结束了，\n醒目飞鹰她──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "飞鹰子的力量增强了☆\n我变得非常强了对吧！",
+            "ChoiceDataList": [
+                "是啊！",
+                "嗯！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "飞鹰子已经变成在GⅠ\n也能尽情战斗的飞鹰子了对吧……！",
+            "ChoiceDataList": [
+                "那还用说！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "好～☆\n飞鹰子对自己有信心了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "等着吧，“JBC经典赛”！\n我现在就去参加～！",
+            "ChoiceDataList": [
+                "比赛是在两个月后哦！？",
+                "比赛是在两个月后哦！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──就这样，我与醒目飞鹰的\n热血夏季集训结束了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,287 @@
+{
+    "Title": "阿船大人建造城堡",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "午休时间，我走在走廊上时，\n听到了楼梯间传来喧闹声。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "我是世界的顶点，马王阿船！\n头抬太高了！！给我低下去！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "No！我可不是你的属下！",
+            "ChoiceDataList": [
+                "你、你们在做什么？",
+                "你、你在做什么？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "哦哦，问的很好！\n黄金船她现在变成马王了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "因为沉迷于现在很红的角色扮演游戏，\n她从早上就一直这样了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "马王……那是顶尖者的称谓！\n世界的顶点！！好，那边那个！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "顶点就是最强！最强就是顶点！\n想要登上顶点该怎么做，你说说看！",
+            "ChoiceDataList": [
+                "呃……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "顶、顶点就是最强……！？最强就是顶点！？\n我懂了！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "需要的是不屈服的心！\n热血的灵魂！还有燃烧的斗志！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "喂喂，你这么激动干嘛？\n又不是小孩子，冷静一点啦……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "欸！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "你们真是什么都不懂耶！\n我来教你们吧，跟我来！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "我要在这里建城堡！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "所谓的顶点就是指城堡！\n建了城堡后，站在最高处！这就是最强！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "这就是……最强……！\n原来如此，好像很有道理！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "咦？可是，如果只是要站在高处的话，\n学园的顶楼不就也可以吗……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "神鹰！\n难道你不想追求顶点吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "既然是兀鹰的话就要以蓝天为目标！\n蓝天的顶点……你应该想要最强的宝座吧！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "哦哦哦……最强的宝座！我想要！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "那就需要城堡！建一座城堡\n来跟我阿船大人争夺顶点看看！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "这是个弱肉强食的世界……\n只有克服一切的强者才能改变这个世界！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "唔唔！强者！克服一切！顶尖对决！！\n感觉好热血啊！！",
+            "ChoiceDataList": [
+                "呃……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "那我们立刻开始吧！\n但城堡到底要怎么建啊？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "神鹰似乎完全被黄金船的气势给牵着走……\n总之，如果要给她们建议的话──",
+            "ChoiceDataList": [
+                "先募集资金之类的……？",
+                "去找一些城堡能用到的东西之类的？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "那就是渔船了！上面还有大炮的那种！！\n打倒大王乌贼，成为渔夫王吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "不对，直接找宝藏好像比较快吧？\n那就成为海盗之王吧！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "不是要成为马王吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "好，一起来吧！\n让你搭阿船大人的船！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "咦？等……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "大海在等着我们呢！\n朝向传说之岛……航行──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "欸！？我、我不要去啦！！\n我的目标又不是海……啊啊啊──！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "……黄金船扛起抵抗的神鹰跑走了。\n这一切都是为了……\n开启海上的旅途……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "就是那个吧！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "黄金船冲向攀登架后，\n爬到了最高处，\n高高地举起手。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "哇哈哈哈！我是马王阿船！\n英雄神鹰，放马过来吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "……！英雄……！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "好！看最强的英雄神鹰\n怎么把你从宝座上扯下来！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "男孩A",
+            "Text": "姐姐们在做什么啊──？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女孩A",
+            "Text": "看起来好好玩哦──！也让我们加入嘛──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "哦，竟然还带了小弟过来！？\n没问题，试着抓住我看看啊！喝！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "喂，你是士兵A哦！\n知道自己的台词吧？",
+            "ChoiceDataList": [
+                "“这里是阿船城堡”"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "很好！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是我便在这里静静地看着\n黄金船和神鹰所上演的，\n马王和英雄们的战争。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

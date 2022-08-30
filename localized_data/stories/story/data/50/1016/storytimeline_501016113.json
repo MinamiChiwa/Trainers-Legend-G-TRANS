@@ -1,0 +1,530 @@
+{
+    "Title": "累积",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "出道战结束后，\n为了补强“多人比赛的经验”，\n这段期间都在进行模拟赛，但是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "呼……呼……\n……第三名吗……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "……可恶……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "本以为能拿第一，最后只拿第六，\n但下一场又跑了第一……名次一直起伏不定。",
+            "ChoiceDataList": [
+                "（这种状态会累积压力的……）",
+                "（这种状态会累积压力的……）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "可是经由这些模拟赛，\n我看出她有另一个要解决的问题，那就是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "喝啊啊啊啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "……！哼！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "当其他竞争对手向她发起挑战时，\n无论何时，\n她都会争到对方退下为止。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "而那么做的结果，\n导致她在多人比赛中……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘B",
+            "Text": "喝啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "我才不会让你超越！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──会变得无法以自己\n本来的步调奔跑。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "呼……呼……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "啧……",
+            "ChoiceDataList": [
+                "（虽然我很想替她做点什么……）",
+                "（虽然我很想替她做点什么……）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "喂！",
+            "ChoiceDataList": [
+                "是！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "你是白仁的训练员吧？\n那家伙最近状态不佳吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "真是，不过是出道而已，\n别因此得意忘形啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "她之前跑一对一时强得超乎常理，\n现在却完全判若两人不是吗？",
+            "ChoiceDataList": [
+                "毕竟一对一的话白仁是最强的啊",
+                "毕竟一对一的话白仁是最强的嘛"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "呜……这我也不得不承认呢。\n毕竟我之前也大败而归……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "呜～～～～真是的！\n别让我想起我输掉的单挑啦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "快把白仁的状态调整回来！\n赢过完美状态的她，\n我才称得上是“菱亚姐姐”啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "菱亚"
+            ]
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "我会在决胜负的时候，\n把我现在忍耐的份全都解放出来赢过她的！",
+            "ChoiceDataList": [
+                "（把忍耐的份解放出来……）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "怎么了，训练员。",
+            "ChoiceDataList": [
+                "你想赢吗？",
+                "你想赢吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "啧……这是当然。\n哪有赛马娘会特地想输啊。",
+            "ChoiceDataList": [
+                "那要不要试着改变决胜负的方式？",
+                "那要不要试着改变决胜负的方式？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "……那是什么意思？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "……你的意思是，即使中途有人向我挑战，\n我也不能跟她争高下，要压抑自己吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "你是叫我卷起尾巴，\n逃避眼前的对决吗？",
+            "ChoiceDataList": [
+                "我不是那个意思！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "……不然是什么意思？",
+            "ChoiceDataList": [
+                "不是压抑也不是逃避，而是要累积",
+                "不是压抑也不是逃避，而是要累积"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "……累积？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她的问题全都来自\n她所怀抱的那颗激烈的竞争心。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "既然这样，如果把她那竞争心累积起来，\n化为力量一口气爆发的话──",
+            "ChoiceDataList": [
+                "应该就能跑出“你专用的跑法”",
+                "应该就能跑出“你专用的跑法”"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "……我专用的跑法。",
+            "ChoiceDataList": [
+                "毕竟比赛是第一个抵达终点的人获胜",
+                "毕竟比赛是第一个抵达终点的人获胜"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "…………\n……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "……讲得更详细点吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "几天后举办的模拟赛，\n有多达七位赛马娘报名参加。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "现在白仁同学这个样子，\n感觉我也有机会跑赢她……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘B",
+            "Text": "我也是！\n我绝对绝对不会输的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "……训练员。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "是“累积起来，再让它爆发”对吧？",
+            "ChoiceDataList": [
+                "嗯",
+                "嗯"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "爆发的时机是？",
+            "ChoiceDataList": [
+                "交给你决定",
+                "交给你决定"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她在一对一中能完全发挥实力，\n代表她对比赛的直觉是很敏锐的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "……哼。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "成田白仁不再说话，\n并往闸门走去。然后──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（开闸！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "第一名我拿下了～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘B",
+            "Text": "什么，我才不会让给你！\n嘿嘿，先走咯！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "闸门打开的同时，有两位赛马娘\n积极争夺领先位置。而成田白仁──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "你旁边没人吧。\n也让我来观摩一下。",
+            "ChoiceDataList": [
+                "请便"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "哎呀。她比之前更游刃有余了呢。\n是找到什么新的解决方案了吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中坚训练员",
+            "Text": "不过领先选手们争得如火如荼呢～\n那成田白仁应该也会奉陪……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "资深训练员",
+            "Text": "她没有！？她还在中段！\n还保留着实力！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "哦，真稀奇。\n她居然不会主动去跟人竞争……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "（可恶……真令人焦急，\n快等不及了。我想跑在前面……！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "（好烦，烦死人了！\n对方都进攻了，我却没法追上去。\n明明猎物就在眼前了！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "(忍不住了，我现在就要超越那个背影……！！)",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "哈哈……这样啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "……这就是所谓的累积吗？\n竟然叫我做这么强人所难的事……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中坚训练员",
+            "Text": "哎呀，就要进入第四弯道了啊。\n领先选手依旧没变呢……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "资深训练员",
+            "Text": "虽然有些拖拖拉拉的，不过胜负已定了。\n看来白仁陷入低潮的传闻是真的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "……不对。这不符合我的计算结果。\n现在她的热情不只没有耗尽，反而……",
+            "ChoiceDataList": [
+                "（没错，还没有结束）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "成田白仁正在等待。\n等待只属于自己的时机，\n等待她认为最适合出招的时刻。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "而就在过了第四弯道后──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "（只要一瞬间就能拿下，一旦打开牢笼，\n接着就只剩夺取胜利的首级了）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "……啊，我等很久了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "咦？刚才那是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "喝啊啊啊啊啊啊啊！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A＆B",
+            "Text": "呀啊！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中坚训练员",
+            "Text": "怎、怎么回事！？\n成田白仁气势惊人地冲到最前面了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "资深训练员",
+            "Text": "好快！为什么能使出那种加速！\n这样根本没人追得上嘛！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "啊！……多么地犀利啊。\n这就是她现在的跑法……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "不，“跑法”二字还不足以形容！\n这简直就是……“狩猎”了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──成田白仁宛如飞箭一般，\n不，是宛如捕食猎物的猛禽类一般……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "把紧盯着她的观众抛在脑后，\n独自冲进了终点……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "呼……呼……\n……呼。",
+            "ChoiceDataList": [
+                "这就是你的跑法啊",
+                "这就是你的跑法啊"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "……呵，\n哈哈哈！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "别说傻话。\n这种感觉我至今可从没感受过。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "你怎么可以教我这种事？\n这下不就会害我上瘾了吗……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "赛后，成田白仁完全不见疲态，\n反而神清气爽地燃起了斗志。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──我感觉到，\n在一起走来的这条路上，我与她又前进一步了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

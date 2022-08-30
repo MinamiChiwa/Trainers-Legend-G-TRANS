@@ -1,0 +1,70 @@
+{
+    "Title": "挑战夹娃娃机！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "某天，\n在我跟黄金城市外出时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "啊，那是“哒哒玩偶”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "黄金城市的视线前方有台夹娃娃机。\n夹娃娃机里装有\n以赛马娘为主题的玩偶。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "能被做成哒哒玩偶的，\n只有备受期待的赛马娘对吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "所以……那个……\n可能没有我的吧。",
+            "ChoiceDataList": [
+                "或许也有城市的哒哒玩偶哦！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "……你对我的期待太高了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "不过要不要去看一下？\n以玩偶来说，品质好像还不错哦。",
+            "ChoiceDataList": [
+                "直接把玩偶拿在手上看比较好",
+                "直接把玩偶拿在手上看比较好"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "咦。你干嘛把钱包拿出来？\n难不成……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──这个挑战，不能失败！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}
