@@ -1,0 +1,519 @@
+{
+    "Title": "晴天的攻防",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "某天训练前，\n我准备前往赛道的时候──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "不妙。",
+            "ChoiceDataList": [
+                "天空？这里和赛道是反方向哦",
+                "天空？这里和赛道是反方向呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "啊～嗯。\n我正好想去买点饮料～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……总觉得她的话听起来很假──",
+            "ChoiceDataList": [
+                "你该不会是想要偷懒吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "哎呀～这种事当然！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "好像有可能～又好像不可能～\n果然还是有可能☆",
+            "ChoiceDataList": [
+                "有可能啊！！",
+                "有可能！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "嘿嘿☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "训练员，拜托你！\n今天让我休息吧～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "你抬头看看！\n今天天气这么好！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "今天的阳光确实很温暖，\n感觉很舒服……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "……虽然太阳光看起来都一样，\n但其实每天都不同。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "每天的阳光都是无可取代。无论有多少晴天，\n都只有现在能享受这道阳光。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "怎么样？\n你明白休息的重要性了吗？",
+            "ChoiceDataList": [
+                "我只明白你无论如何都想休息……",
+                "我只明白你无论如何都想休息……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "真是的，难得我向你讲述风情！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "但说到休息会不会发生好事～\n果然还是不会吧？",
+            "ChoiceDataList": [
+                "不会啊……",
+                "不会啊……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这样下去绝对无法训练，\n但硬把她带回去，\n或许也会让她失去干劲……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这时候还是──",
+            "ChoiceDataList": [
+                "硬带她回去",
+                "让她休息到满意为止",
+                "休息一下再训练"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "咦────────！",
+            "ChoiceDataList": [
+                "用跑的感受阳光吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "不要啦～！\n小青想在软软的草地上睡觉～！",
+            "ChoiceDataList": [
+                "全力躺在赛场上也很棒！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "……唔，看来再逼也没用了。\n既然如此──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "……喝啊啊～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "呼……呼……",
+            "ChoiceDataList": [
+                "跑得很棒呢！",
+                "跑得很棒呢！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "呼……\n因为训练员说了……",
+            "ChoiceDataList": [
+                "咦？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "你说“全力躺在赛场上很棒”，\n所以我才拼命跑──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（躺下！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "我要试着全力躺在地上！\n……啊～确实满舒服的～♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "偶尔听训练员的话\n似乎也不坏呢～",
+            "ChoiceDataList": [
+                "（偶尔？）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "训练员，你怎么还站着？\n你也过来吧！",
+            "ChoiceDataList": [
+                "我也要？",
+                "我也要？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "现在没有人在看。\n……偷偷过来吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……于是我陪努力训练过的青云天空，\n一起在赛场上吹风。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "我逃！",
+            "ChoiceDataList": [
+                "啊！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我连忙追了上去，\n青云天空逃到了──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘们",
+            "Text": "阿姨────！！\n我要一个“一斤炸肉饼面包”────！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "──现在刚好是总重量一公斤，\n大受欢迎的“一斤炸肉饼面包”出炉的时间。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "接着只要混进过来抢面包的人群里，\n训练员就无法拨开那些赛马娘。\n到时候……就是我赢了☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这样下去会被她逃掉……！\n此时，我突然想到一个方法。那就是──",
+            "ChoiceDataList": [
+                "天空说她不要“一斤炸肉饼面包”！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "什么……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘们",
+            "Text": "不要面包……！？\n那给我吧～～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "居然反过来利用赛马娘们……！？\n唔，我根本就无力抵挡她们……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "我现在该找的是退路。\n趁大家混乱的期间──",
+            "ChoiceDataList": [
+                "天空，我在这里！",
+                "天空，这里哦！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "什么！？原来我已经深陷敌阵了……！\n到底该怎么办──！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "呼……呼……\n呜呜，训练员这个策士……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "虽然我顺利逮到青云天空……\n但她已经失去干劲了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "可以吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "哎呀，我还以为\n自己找的理由很烂……",
+            "ChoiceDataList": [
+                "偶尔也要尽情休息"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "哦哦～！\n训练员真是大方！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "我就把珍藏的休息处告诉你，\n当作回礼吧♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "当啷♪\n这里就是小青珍藏的休息处～",
+            "ChoiceDataList": [
+                "根本就是训练员室",
+                "根本就是训练员室"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "毕竟在训练员来之前，\n我偶尔会来使用这里啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "这里不会吵闹，又能静下心，\n是最棒的睡觉场所！",
+            "ChoiceDataList": [
+                "原来如此……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "……你看起来好像不太能接受。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "我还以为自己说出了\n挺不得了的话。",
+            "ChoiceDataList": [
+                "不得了的话？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "……唉，就是这样。\n晚安啦～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "呼啊……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "之后，为了让青云天空舒服地在阳光下睡觉，\n我轻轻地移动沙发。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "这里～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "和这里～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "再来是这里和这里，\n这里、这里、这里──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "然后是这里──",
+            "ChoiceDataList": [
+                "已、已经够了吧！？",
+                "已、已经够了吧！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "真的吗？\n那今天就在这里休息吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "虽然不晓得……\n我之后会逃去哪里。",
+            "ChoiceDataList": [
+                "咦？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "除了我介绍给你的地方以外，\n我也可能会躲在其他地方～",
+            "ChoiceDataList": [
+                "咦！？该不会这是你的策略……！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "我怎么可能乖乖地\n把真正的休息地点告诉你呢？\n这样你以后立刻就会跑去那里找我。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "不过只要像这样介绍许多地点，\n你就不得不去这些地方找了吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "──你要努力找到我哦。\n我等你☆开玩笑的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……看来青云天空\n之后也打算继续偷懒。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "咦，那我可以先休息吗？",
+            "ChoiceDataList": [
+                "好啊",
+                "可以啊"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "我接下来可能会找借口骗你，\n一直偷懒下去哦。",
+            "ChoiceDataList": [
+                "你不会的"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "咦？",
+            "ChoiceDataList": [
+                "到了这时候，天空就不会再偷懒"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "……什么嘛，被你这么一说～\n我就会想做相反的事情。",
+            "ChoiceDataList": [
+                "咦！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "但背叛坦率相信自己的人也不太好～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "所以还是按照预定计划好了。\n走吧，训练员。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……于是，我们在训练中间安插休息时间，\n青云天空也适当地努力训练。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

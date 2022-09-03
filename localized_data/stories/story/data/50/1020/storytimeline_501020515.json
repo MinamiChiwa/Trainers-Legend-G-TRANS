@@ -1,0 +1,339 @@
+{
+    "Title": "你是为了谁奔跑",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我今天和青云天空\n一起讨论明天的模拟赛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "在弯道时装出重心不稳的样子，\n最后再故意输掉引诱对手大意──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "嗯，模拟得也很完美～\n感觉能成为不错的诱饵♪",
+            "ChoiceDataList": [
+                "是为了在正式比赛获胜的准备啊",
+                "为了在正式比赛获胜的准备啊"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "正是如此……既然已经有了结论，\n小青差不多该睡午觉了──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "前辈训练员",
+            "Text": "我进来咯。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "咦？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "前来的人是一位前辈训练员。\n他负责的赛马娘就是明天的竞赛对手。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "前辈训练员",
+            "Text": "……我是来找你讨论明天的事情，\n但好像有人说了“睡午觉”？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "咦～怎么可能！\n啊哈哈，大概是你听错了吧～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "前辈训练员",
+            "Text": "真是的……喂，赛马娘这么缺乏干劲，\n主要都是你指导力不够的关系吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "……啊──不不不，这个人啊～\n不管我怎么说都不愿意让我偷懒──",
+            "ChoiceDataList": [
+                "对不起，都是我能力不足",
+                "对不起，都是我能力不足"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "如果目的是要“诱人大意”，\n那最好能被对方瞧不起。\n我抱着这样的想法，用眼神制止青云天空。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "前辈训练员",
+            "Text": "我说啊，你根本就不懂怎么当训练员。\n你的签约赛马娘也真是不幸呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "前辈训练员",
+            "Text": "……视明天的结果而定，\n你最好重新考虑一下未来的出路。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "前辈训练员说完想说的话后就离开了。",
+            "ChoiceDataList": [
+                "我也有帮忙让对方“大意”了吧？",
+                "我有顺利让对方“大意”吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "……嗯，是啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "到了模拟赛当天，\n出现在赛场的青云天空她──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "久等了～",
+            "ChoiceDataList": [
+                "你怎么穿决胜服来！？",
+                "你怎么穿决胜服来！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "这样看起来干劲十足吧。\n这是为了让这次的策略更加完美。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "……这同时也是“开关”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "那么，晚点见啦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "前辈训练员",
+            "Text": "喂，准备好了吗？\n……开始咯。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "随着双方进入闸门……\n比赛开始了！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "……唔哇！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "青云天空按照策略，\n在弯道装出重心不稳的样子。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我们的计划是先在直线领先然后被追上，\n最后刻意输掉比赛引诱对手大意──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "唔……！！",
+            "ChoiceDataList": [
+                "（咦！？）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "青云天空直接漂亮地\n领先到底获胜。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "啊～累死了～真是一场激战。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "哎呀～好险好险。\n得多练习过弯才行～\n平常的“坏习惯”又跑出来了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "前辈训练员",
+            "Text": "……哎呀，今天是你们赢了。\n你们两个还算是有点实力呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "前辈训练员",
+            "Text": "不过实战不一定会是一样的结果。\n我们这边也算是“有收获”。\n呵呵……再见了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "呵呵呵……“有收获”啊～\n那真是太好了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "真不愧是小青，\n顺利让对方上钩了！",
+            "ChoiceDataList": [
+                "……按照计划不是应该输掉吗？",
+                "……按照计划不是应该输掉吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "……呃～嗯～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "不小心就赢了，嘿嘿☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "青云天空刻意装傻。\n但她之所以没按照计划，\n或许是因为──",
+            "ChoiceDataList": [
+                "谢谢你",
+                "我也得要再更努力才行！",
+                "我也得要再更努力才行呢！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "青云天空刻意装傻。\n但她之所以没按照计划，\n或许是因为──",
+            "ChoiceDataList": [
+                "谢谢你",
+                "我也得要再更努力才行！",
+                "我也得要再更努力才行呢！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "……咦？小青完全不懂\n你为什么要道谢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "比起这个！难得赢了比赛，\n我可以要奖励吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "“你努力过了！所以今天就休息吧～！”\n希望可以是这种令人开心的奖励～♪",
+            "ChoiceDataList": [
+                "选休息以外的吧",
+                "选休息以外的吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "唔，真是任性～\n你要多珍惜可爱的签约赛马娘啦！",
+            "ChoiceDataList": [
+                "是啊",
+                "是啊"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "……不对，这里应该要吐槽吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "话说训练员……\n你怎么看起来嘻皮笑脸的？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "青云天空是宛如云朵般捉摸不定的少女──\n即使如此，我还是想要更了解她。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "呃呃，为什么要在这时候\n变得热血啊？",
+            "ChoiceDataList": [
+                "我想让你赢更多比赛！",
+                "我想让你赢更多比赛！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "哎呀，训练员真是的……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "……算了，今天就奉陪你一次吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──我再次对着这片天空发誓，\n要和青云天空一起跑完闪耀系列赛，\n持续赢得胜利……！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

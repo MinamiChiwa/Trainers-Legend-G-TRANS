@@ -1,0 +1,211 @@
+{
+    "Title": "有一天要成为“故事”主角",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "放学后，为了查询训练的参考资料，\n我前往了图书室──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "……呵呵。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看到了正读着书，\n一反常态看起来十分开心的荒漠英雄。",
+            "ChoiceDataList": [
+                "你在看什么书？",
+                "你在看什么书？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "啊……\n是说这本书吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "《西洋英雄故事集．决定版》──\n其实，这是我最喜欢的一本书。",
+            "ChoiceDataList": [
+                "你喜欢英雄吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "是的……\n那个……你有兴趣吗？",
+            "ChoiceDataList": [
+                "有啊",
+                "嗯"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "哇……好开心！\n英雄故事真的很棒哦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "──没有人打从一开始就很了不起。\n其实有很多一开始默默无名的英雄。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "但是……从那之后一点一点地变强。\n跨越无数的试炼与苦难──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "而在最后……！成为了\n沐浴着众人目光的存在……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "……然后，在读到这些戏剧化的故事时，\n我也──想要变成那样。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "即使是现在还很内向、不起眼的我……\n总有一天也能成为像英雄一样的“主角”……！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "……所以我──",
+            "ChoiceDataList": [
+                "憧憬着英雄吧",
+                "憧憬着英雄呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "──啊。\n不、不好意思……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "不小心就太兴奋了……\n我自己一直在说个不停。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "那个……所以，\n你来图书室做什么呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我告诉荒漠英雄，\n是为了找训练的参考资料而来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "原来如此……\n如果不会给你添麻烦的话……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "就当作是答谢你听我说话，\n请让我帮你的忙……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "因为我是图书股长……\n我自认对这里藏书还算清楚……",
+            "ChoiceDataList": [
+                "谢谢你"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在那之后，我和荒漠英雄\n一起读了一阵子双方所选的书……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "对了……最后请让我\n介绍这个英雄故事的小插曲。",
+            "ChoiceDataList": [
+                "英雄故事也能当作参考吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "嗯，一定可以。\n这位英雄他啊！居然──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "会用绳子把自己和巨大的牛绑在一起，\n用拔河的方式锻炼身体哦。",
+            "ChoiceDataList": [
+                "好厉害……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "呵呵，真的很厉害。\n让人充分感觉到他的壮硕呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "我在训练的时候，\n也会效法那样的气概去练习。",
+            "ChoiceDataList": [
+                "你很努力啊",
+                "你很努力呢 "
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "……是的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "就算现在……我还默默无名，\n总有一天我也要像英雄们一样──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "让大家看见我像故事“主角”那样……\n精彩表现的竞赛……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "如此宣告着的荒漠英雄，\n我在她的眼神里看见了强烈的决心……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,303 @@
+{
+    "Title": "舞台侧边的一幕",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这是在外出回程的路上。我接受富士奇石的\n邀请，前来观看户外剧场上演的戏剧……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "真是了不起……无论是唱功或演技……！\n不，根本是所有层面都棒极了……！",
+            "ChoiceDataList": [
+                "你有朋友登台表演吗？",
+                "你有朋友登台表演吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "嗯。主演是我母亲的朋友，\n她在我小时候就十分照顾我。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "对了！我想去跟她\n打声招呼，可以吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "您好，好久不见了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "舞台剧演员",
+            "Text": "哎呀，小富士！你来看我演出啦～♪\n一阵子没看到，你变得好漂亮呀。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "谢谢您的称赞。但就从今天的舞台来看，\n我还远远比不上您呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "舞台剧演员",
+            "Text": "哎呀，你连恭维话都进步了呢！\n对了，你身边那位是？",
+            "ChoiceDataList": [
+                "我是富士奇石的训练员"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "舞台剧演员",
+            "Text": "哦，你就是小富士的……\n哦……原来就是你呀……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "舞台剧演员",
+            "Text": "……这孩子让你很伤脑筋吧？",
+            "ChoiceDataList": [
+                "咦？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "舞台剧演员",
+            "Text": "因为！这孩子在剧团里\n可是人称“捣蛋王子”呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "舞台剧演员",
+            "Text": "她会在练习的中场休息时间\n垂挂道具蜘蛛，吓唬演员哦～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "舞台剧演员",
+            "Text": "不过也多亏王子，练习中大家都笑开怀，\n心情也跟着放松了不少呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "哈哈，那都过去了。\n再怎么说，我现在也不会做那么幼稚的事了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "舞台剧演员",
+            "Text": "哎呀，是吗？一想到再也见不到那个\n讨人喜欢的王子，就觉得有点遗憾呢。",
+            "ChoiceDataList": [
+                "的确很遗憾"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "喂喂喂，怎么连训练员都这么说？\n放过我吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "舞台剧演员",
+            "Text": "你们感情真好♪很高兴能看到你们这么融洽。\n那我也差不多该换衣服了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "好的。那我们告辞了。下次您在附近\n举办公演时，我一定会来观赏的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "舞台剧演员",
+            "Text": "好。谢谢你……啊，对了。\n训练员，方便借一步说话吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "…………？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "舞台剧演员",
+            "Text": "……我呀，一直很希望\n那孩子当一个演员。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "舞台剧演员",
+            "Text": "我期盼有一天能和她同台演出──由她主演，\n而我当配角。由我们演出最棒的戏……这样。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "舞台剧演员",
+            "Text": "所以坦白说，我一直觉得难以释怀……\n但和她谈过后，我心里的阴霾也烟消云散了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "舞台剧演员",
+            "Text": "……她的表情非常棒。一定是找到比舞台\n更优秀的栖身之处与伙伴了吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "舞台剧演员",
+            "Text": "呵呵，那孩子就拜托你照顾了。\n我们疼爱的掌上明珠──就交给你咯。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "你回来啦。\n……所以你们聊了什么呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "……该不会听她说了更多\n我的……丢脸事迹？",
+            "ChoiceDataList": [
+                "她告诉了我许多你的弱点",
+                "她只是教我怎么样去享受公演而已"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "真是的，我就猜到是这样！\n那么，你听到了些什么呢？",
+            "ChoiceDataList": [
+                "这是秘密"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "秘密啊……\n可能成为我弱点的事情……啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "难道是我曾因为讨厌穿高跟鞋\n而闹过别扭的事之类？",
+            "ChoiceDataList": [
+                "这样啊？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "看你的反应，不是这件事呢……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "还是窗帘的事呢……\n又或是连续五次的那个……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "……算了。纵使只是儿时的无心之过，\n“依旧是我的罪孽”。况且──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "我不觉得你会去到处\n宣扬我的秘密嘛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她只是稍稍抛个媚眼，我的嘴就被堵住了……\n的确，就算以舞台剧演员来说，\n富士奇石仍然拥有绝佳的素质。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "原来如此！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "……你以为我会就这样接受吗？\n训练员，你不适合说谎啦。",
+            "ChoiceDataList": [
+                "你怎么会知道？",
+                "你怎么会知道？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "因为骗子总是很擅长拆穿谎言啊。\n再说，所谓最棒的表演家，\n同时也是最顶尖的骗子呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我想再也瞒不下去了……于是将她诉说的\n心底话和心愿都告诉了富士奇石。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "和我同台演出……是吗……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "的确，或许我曾经可能走向那样的未来。\n但是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "我已经选了其他道路。既然她愿意祝福我，\n并且对我抱持期待的话……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "那么我就必须让她看看\n更胜今天这场戏的娱乐表演呢──在赛场上！",
+            "ChoiceDataList": [
+                "导演的任务就交给我吧",
+                "导演的任务就交给我吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "嗯。我们一块创作出\n最棒的“富士奇石”吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就算不登台演出，仍可以在其他地方\n绽放魅力、吸引粉丝。之后，我和富士奇石\n聊着未来的规划，同时踏上归途。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

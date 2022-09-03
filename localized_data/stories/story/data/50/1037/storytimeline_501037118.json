@@ -1,0 +1,524 @@
+{
+    "Title": "Die Frage",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "天啊，是海耶～☆\n训练员，沙滩闪亮亮的，好美哦！",
+            "ChoiceDataList": [
+                "就是啊！",
+                "就是啊！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "莫名有种……奢华感呢！\n感觉就像身在迪拜☆！",
+            "ChoiceDataList": [
+                "虽然根本就在国内呢！",
+                "虽然根本还在国内啦！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "……那个，请说明。\n首先请说明状况。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "训练呢？行程呢？\n为什么飞鹰也在？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "训练员。\n请你……说明状况……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "说到放松，当然就是去旅行咯！\n像是去豪华的迪拜之类♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我采用醒目飞鹰的提议，计划了旅行，\n迪拜……虽然不可能，\n但还是到了国内的沙滩──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "飞鹰子使出赛马娘偶像力量☆，\n将闪耀带到这里来了♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "……赛马娘偶像力量？\n你是指你那不容拒绝的臂力吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "先别说那个了！\n难得来旅行，尽情玩耍吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "是要喝可爱的饮料呢～\n还是在沙滩上耍废呢～\n啊，不过我是赛马娘偶像，严禁晒黑──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "……谢谢你们为我着想。\n你们有这份心意，我感到很高兴。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "不过……现在的我\n不该在这里玩耍。\n我得快点回去训练──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "我不准你回去。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "飞鹰……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "因为最近这段时间，\n你看起来一直都好痛苦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "你平常都在固定时间回房间，\n最近却变得很不规则……\n就算回到房间，也一直忙到睡前。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "总觉得闪耀你\n根本没办法随心所欲过活。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "飞鹰子却老是做着喜欢的事情，\n并获得大家的支持……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "这让飞鹰子开始想，\n难道我无法为闪耀做任何事吗……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "飞鹰……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "──不过绝对没有这回事！\n毕竟飞鹰子我可是赛马娘偶像嘛！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "赛马娘偶像能让没精神的孩子露出笑容☆\n所以只要跟飞鹰子一起玩耍，\n你也能打起精神的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "……\n真是夸张的理由呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "但真的是这样啊☆\n所以今天就暂时忘掉一切！\n跟飞鹰子一起玩个痛快吧～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "只要往前走一定能发现些什么的！\n随便晃晃吧──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "随便？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "……请告诉我除了在沙滩上耍废以外，\n其他你想做的事情。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "我会调查附近的景点，\n订出一个完美的计划。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "闪耀……！\n嗯，交给你了☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "事情就这样顺势定了下来，\n我们开始了一场放松旅行。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "哇啊～！\n好大的教堂呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "好像正在展出历史悠久的彩绘玻璃呢。\n要去看看吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "当然要！\n……耶嘿嘿♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "……？\n为什么要笑呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "因为发现了闪耀喜欢的东西嘛☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "……那很值得开心吗？\n你真是个奇怪的人呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就这样，\n当荣进闪耀的心情也逐渐放松时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "──哈～呼……\n吃得太多……火烧心了～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "所以我才建议你别追加奶油了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "唔唔。\n闪耀你还不是最爱吃甜食了～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "我是喜欢。正因如此，我才会进行调整，\n以尽情享受美味。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "……可是其实你也很想\n加一～大堆奶油吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "……以前曾因此引发严重的胃食道逆流。\n所以我不会再犯了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "……闪耀你，\n果然很厉害呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "……？\n你的意思是？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "飞鹰子我呢，吃松饼都会追加奶油，\n多到能把松饼盖住，结果每次都会后悔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "我会无所事事～地看手机，导致睡过头。\n也会考不及格，甚至写不完作业。\n明明知道会这样，却老是失败……嘿嘿。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "不过闪耀跟我不一样对吧？\n立下目标，排好预定，脚踏实地去做。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "要是犯了错，你绝不会忘记。\n你不会重蹈覆辙，持续往前迈进。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "所以你就随心所欲地去做就好了♪\n因为不管是什么事，闪耀一定都做得到！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "“是否能坚守赛马娘的骄傲”──\n也就是顶尖的世界，GⅠ赛事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "我调整的行程，\n是我能想到的“最佳方案”了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "……不对，我……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "醒目飞鹰率直的言语\n让荣进闪耀十分动摇。\n现在的她或许──",
+            "ChoiceDataList": [
+                "闪耀，我有个提议"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "……什么提议？",
+            "ChoiceDataList": [
+                "要不要跟我赛跑？",
+                "要不要跟我赛跑？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "……什么？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "──我换好衣服了……但真的要比赛吗？",
+            "ChoiceDataList": [
+                "当然！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "……我无法理解。\n人类是不可能赢过赛马娘的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "这里不是草地，是沙土……搞不好有机会哦。\n训练员，加油哦♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "那么，各就各位──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "当然，瞬间就分出胜负了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "……你还好吗？训练员？",
+            "ChoiceDataList": [
+                "以100身距差跑输了……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "说得太夸张了。好了，\n差不多该请你说明理由了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "为什么要提出这么荒唐的提议呢？",
+            "ChoiceDataList": [
+                "你跑赢了，难道不开心吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "当然了。跑赢一定赢得了的对手，\n有什么值得开心的？",
+            "ChoiceDataList": [
+                "你的提议也是一样",
+                "你的提议也是一样"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "……！",
+            "ChoiceDataList": [
+                "逃往他处后获得的胜利并不值得骄傲"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "正因挑战的是完美的行程表──也就是理想，\n获得的胜利才有价值。\n只因“能赢”而“跑赢”，是没有意义的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "正确来说，是“对她而言”没有意义。\n对于一直以来，不断努力的她。\n既然这样，现在她需要的是──",
+            "ChoiceDataList": [
+                "坚持挑战你自己想去的比赛吧",
+                "坚持挑战你真正想去的比赛吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "……",
+            "ChoiceDataList": [
+                "闪耀你不想在GⅠ获胜吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "我想获胜。我想在高手云集的比赛中奔跑……\n获得胜利。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "我觉得那才是……\n最值得骄傲的一件事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "不过……可能跑输却还坚持挑战，\n这样有意义吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "既然要比，至少调整为能在父母面前\n获得胜利的行程……这样很奇怪吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "荣进闪耀终于说出真心话了。\n她害怕失败。\n而我想推她一把。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "这场比赛后要怎么发展……全看你了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "既然如此──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

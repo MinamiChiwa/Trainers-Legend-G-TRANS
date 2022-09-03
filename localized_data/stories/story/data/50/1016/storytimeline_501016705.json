@@ -1,0 +1,282 @@
+{
+    "Title": "孤傲的责任",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我与成田白仁在\n出门后的回程路上……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "……嗯。",
+            "ChoiceDataList": [
+                "怎么了？",
+                "怎么了吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "……没事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "嗯……找不到。",
+            "ChoiceDataList": [
+                "你从刚才就怪怪的，没事吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "……啊。没问题。别在意。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在返回学园的途中，\n成田白仁就像这样一直心神不宁。\n看来我得好好地询问她原因才是。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "唉……算了。",
+            "ChoiceDataList": [
+                "详细告诉我发生了什么事吧",
+                "详细告诉我发生了什么事吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "啧……你也真缠人。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "我的钱包掉了。就这样而已。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "那只是零钱包，\n没放重要的东西，所以没关系。",
+            "ChoiceDataList": [
+                "不可以放弃",
+                "不可以放弃"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "……干嘛突然这样。",
+            "ChoiceDataList": [
+                "这样你会习惯放弃的"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "啧，讲得头头是道……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "我也不是说要放弃。\n是打算等晚一点再去找。",
+            "ChoiceDataList": [
+                "两个人一起找比较有效率"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "唉……就是因为被你知道后，\n会发展成像这样麻烦的状况，我才会不想讲的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "是我弄丢的，该由我自己来找。\n所以你就回去吧。",
+            "ChoiceDataList": [
+                "不用担心，肯定很快就能找到的！",
+                "有困扰的时候就让别人帮你吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "你的乐观主义究竟从哪学来的啊……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "算了。你都那么说了就表示有想到什么办法吧？\n要从哪里开始找？",
+            "ChoiceDataList": [
+                "沿着来路走回去！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "也太没效率了吧……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "不过，不走回去的话，\n想找也找不到吗……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "我知道了。就尽量走吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "当我们沿着来路走到车站前时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "……啊。对了，我买车票的时候，\n有拿钱包出来……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "等我一下……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "我的钱包被送到车站的招领处了。\n好像是忘在售票机旁边的样子……",
+            "ChoiceDataList": [
+                "太好了！",
+                "太好了！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "是啊……那个……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "……谢了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "顺利找到钱包后，\n我与成田白仁踏上归途。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "所以到底要找谁帮忙？\n难道是要到处问路人吗？",
+            "ChoiceDataList": [
+                "好办法，就这么做吧",
+                "好办法，就这么做吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "我才不要，才不好。\n你是笨蛋吗。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "这时候应该要问\n派出所或车站的工作人员吧。",
+            "ChoiceDataList": [
+                "好，我们去问吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "啊，欸，等一下……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "当我回到车站，\n并询问遗失物中是否有钱包后──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "站员",
+            "Text": "零钱包……啊，有人送来了。\n听说是掉在售票机那里。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "于是，我顺利找到零钱包，\n并把它交给成田白仁。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "…………谢谢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "不过，真没想到会找到呢。",
+            "ChoiceDataList": [
+                "幸亏我们没有放弃",
+                "幸亏我们没有放弃"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "啧，别得意了。\n应该感谢捡到的陌生人。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "算了，虽然那也是\n能找到钱包的原因之一啦……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "好了吧，已经很晚了。\n快点回去吧……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "顺利找到钱包后，\n我与成田白仁踏上归途。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

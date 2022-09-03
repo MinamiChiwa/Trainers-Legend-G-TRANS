@@ -1,0 +1,245 @@
+{
+    "Title": "虽然不会直接表明",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我和黄金城市一起出门，在回程路上，\n经过了商店街的书店。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "啊，之前拍的杂志……\n这里也有整叠展示着啊。",
+            "ChoiceDataList": [
+                "由模特儿挑选的穿搭特辑？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "没错，\n之前拉你陪我去购物中心那次说的工作。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "多亏先在购物中心试过了，\n所以在工作现场也大受好评，谢啦。",
+            "ChoiceDataList": [
+                "能帮上忙真是太好了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "欸，我可以顺便看看书吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "这本、这本……\n啊，还有这本。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "地上的购物篮中，\n黄金城市选的书逐渐越叠越高……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "令人意外的是，除了杂志外，\n也混入了一些生硬的文库本。",
+            "ChoiceDataList": [
+                "（这些她都会读吗？）",
+                "（这些她都会读吗？）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "咦，\n这不是城市吗～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "唔哇～\n你要买这么多书啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "是啊。我会在保母车里，\n或是工作空档读书。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "原来如此～！\n这本难懂的书也是要在那时候读吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "嗯，工作的合作对象\n推荐我这本书。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "这样下次工作时不就能当话题了吗？\n所以我会尽可能全部读一读。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "工作能力超强的城市……\n越、越来越帅气了～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "没有啦，话说……\n雪之你要买那么多训练用书啊？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "黄金城市所指的购物篮中，\n放了大量的训练用书。\n似乎都是雪之美人选的……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "咦，啊……嘿嘿嘿。\n在我犹豫不决之中，书就越选越多了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "……可能是我多管闲事啦，不过……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "与其买大量的书，不如先把这本读透哦。\n我的训练员也在读。",
+            "ChoiceDataList": [
+                "你也读了我在读的书吗？",
+                "你也读了我在读的书吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "有了共识后，\n比较好进行训练吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "而且事实上……我觉得你选的书很棒，\n我也姑且拿那本书来当参考了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "黄金城市再忙也不会偷懒，\n对任何事都全力以赴。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "哪本书能助她一臂之力呢……",
+            "ChoiceDataList": [
+                "告诉她推荐的训练用书",
+                "买模特儿自传"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我推荐了一本书，\n配合黄金城市刚才推荐的书一起读，\n就能更加深入理解内容。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "哎呀～\n这本书比其他本轻薄多了～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "……不过应该不用担心吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "关于训练，\n他是很有眼光的……对吧？",
+            "ChoiceDataList": [
+                "……当然！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "听到黄金城市这句话令我不禁嘴角上扬。\n我买了两本我推荐的书，\n并送给她们当礼物。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "为了学习模特儿这个职业，\n我买了着名模特儿的自传。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "咦，为什么？\n模特儿工作不属于你的工作范围吧？",
+            "ChoiceDataList": [
+                "有共识比较好，不是吗？",
+                "有共识比较好不是吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我对黄金城市说，\n我也想全力回报她的认真努力。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "好、好棒！\n好像青春连续剧哦～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "欸，什么啦。\n才不是这样咧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "……算了，我很高兴你有这份心意哦。\n训练员。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

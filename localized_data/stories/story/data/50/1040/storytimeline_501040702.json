@@ -1,0 +1,262 @@
+
+{
+    "Title": "既然要做",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我跟黄金城市一起出门，\n事情办完后不知为何来到了购物中心……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "来，训练员站好。\n拿着衣服不要动。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "……不太对呢，这件只有一种搭法。\n换件上衣好了，等我一下。",
+            "ChoiceDataList": [
+                "呃……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "城市，我看到一件衣服还不赖耶～！\n那个假人身上那件应该很棒吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "哪个假人？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "啊～这个啊。\n品牌标签……找到了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "……嗯～这件是还不错，\n不过这边这件更好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "从刚才开始，\n黄金城市一直拿衣服在我身上比划，\n完全没有自己要买的意思。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "她与碰巧遇到的东瀛佐敦，\n你一言我一语地不断挑着衣服。",
+            "ChoiceDataList": [
+                "请问这是在……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "这次时尚杂志的特辑，\n好像是模特儿为读者挑选的日常穿搭。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "所以我在挑适合训练员的衣服。\n事先练习要提出的穿搭。\n毕竟只适合我穿的话就没意义了。",
+            "ChoiceDataList": [
+                "原来如此……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "能让城市帮你选衣服，\n这可是超级无敌难得的哦～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "啊，城市，那件呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "OK，去看一下好了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "就这样，一件又一件的衣服，\n被拿来压在我身上比划……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "……好，这样可以吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "天啊，训练员真棒！\n赞爆了！快看看镜子！",
+            "ChoiceDataList": [
+                "这是……我？",
+                "这是……我？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "嗯，很适合你哦。\n干脆把这一套买起来吧？",
+            "ChoiceDataList": [
+                "咦！？我带的钱不多……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "…………看看价格标签。",
+            "ChoiceDataList": [
+                "……咦，没想到这么平价？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "对吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "真的假的。\n咦，城市你连价格都注意到了吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "我不是说了主题是为读者挑选搭配吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "还是以百搭为大前提，\n加上价格亲民，\n又容易保养的衣服比较好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "刚才之所以不选我推荐的衣服，\n也是因为这样……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "佐敦，你没确认价格吗？\n顺带一提刚才那件衣服的价格是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "哇～真的假的！？\n买不起买不起！会花光我的打工薪水的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "不过，你思考穿搭时，\n居然把这些都考虑进去了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "专、专家～～～～！！",
+            "ChoiceDataList": [
+                "毫无妥协……！",
+                "真是煞费苦心",
+                "真是煞费苦心"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "专、专家～～～～！！",
+            "ChoiceDataList": [
+                "毫无妥协……！",
+                "真是煞费苦心",
+                "真是煞费苦心"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "训练员你不也是这样吗？",
+            "ChoiceDataList": [
+                "我吗？",
+                "我吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "你在工作时不都也会露出专家的神情吗？\n表情很认真……非常棒哦。",
+            "ChoiceDataList": [
+                "……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "……离题了。\n你喜欢的话，我下次再帮你选衣服吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "下次一定要再请她帮我选……\n拿着买下的衣服，\n我的心情小小地雀跃了起来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "呵，哈哈……\n干嘛一副“社会上的前辈”般的表情啊。",
+            "ChoiceDataList": [
+                "因为我明白你的心情"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "嗯～算了，感觉不坏。\n能得到训练员的肯定就好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "那么，谢谢你陪我一起工作。\n下次再拜托咯。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我们互相肯定对方\n对工作的认真用心，\n似乎令黄金城市的心情十分愉悦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

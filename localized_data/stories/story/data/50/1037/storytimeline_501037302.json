@@ -1,0 +1,564 @@
+{
+    "Title": "抽奖试手气！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "某天，训练结束后，\n我们到了商店街，在买完东西后──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "……抽奖会场好像是在这里。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "看过来看过来，现正举办新春大抽奖～！\n特等奖可是“温泉旅游券”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "温泉旅游券"
+            ]
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "一奖是“特等胡萝卜汉堡排”，\n二奖是“一整堆胡萝卜”，\n三奖则是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "来哦来哦，是好玩的抽奖活动哦！\n任何人都可以来抽哦～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "没想到购买笔记本\n还赠送抽奖券……",
+            "ChoiceDataList": [
+                "你接下来的行程没问题吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "只要缩短移动时间就好。\n更重要的是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "这次体验以后可以跟父母分享，\n我可不能放过这机会。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "日本特有的试手气方式，抽奖──\n我很期待会抽到什么。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "小姐想抽到哪个奖品？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "符合一本笔记本价值的奖品应该是……\n一根胡萝卜吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "什么？你的想法真是特别啊！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "因为我认为试手气的主要目的\n是享受体验。那我要转了哦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "荣进闪耀带着紧张的表情\n转动抽奖机的把手！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "结果──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "天啊！恭喜────！！\n抽到特等奖“温泉旅游券”了～～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "温泉……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "哇啊……！",
+            "ChoiceDataList": [
+                "恭喜！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "谢谢……不过真的可以吗？\n真的可以收下吗……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "一定是因为小姐太谦虚了，\n所以神明特别保佑你啦。\n不收下就亏大了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "……\n那我就感激地收下了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "──呵呵，温泉……",
+            "ChoiceDataList": [
+                "你喜欢温泉啊？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "是的。其实德国也跟日本一样，\n是个温泉大国。",
+            "ChoiceDataList": [
+                "这样啊～！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "而且泉水温度比日本还低，\n可以尽情泡一整天也不会昏头。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "不过来到日本后，\n一直都找不到机会去泡。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "所以……我真的很高兴。",
+            "ChoiceDataList": [
+                "那你一定很想悠闲地泡澡",
+                "那你一定很想悠闲地泡澡"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "悠闲地……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "……训练员，\n这张券可以先交给你保管吗？",
+            "ChoiceDataList": [
+                "为什么？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "想当然尔，\n此事已排不进最近的行程表了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "我想想……等一切都结束后，\n明年应该有时间去吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "话虽如此，现在的我仍无法\n用橘色笔在行程表中写上“温泉旅行”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "所以可以等达成所有预定后\n再请训练员将这张券交给我吗？",
+            "ChoiceDataList": [
+                "我知道了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是“温泉旅游券”\n就先由我保管了。",
+            "ChoiceDataList": [
+                "顺便问一下，橘色笔有什么含意？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "我都会用橘色笔\n写上自己期待的行程。",
+            "ChoiceDataList": [
+                "这也是德国文化吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "……不，只是我一直以来的习惯。",
+            "ChoiceDataList": [
+                "这样啊……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "……训练员，你在笑我对吧？\n橘色有什么好笑的吗？",
+            "ChoiceDataList": [
+                "我只是觉得以颜色区分很可爱"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "……训练员下次也可以试试看。\n到时你就会知道这是合理的判断了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "听好了，行程表的内容很详细，\n写着密密麻麻的文字与线条，\n因此以颜色区分──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "……就这样，\n这趟归途最后成了\n荣进闪耀的行程制作教学。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "恭喜抽到一奖～！\n奖品是“特等胡萝卜汉堡排”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "看起来真好吃……",
+            "ChoiceDataList": [
+                "你喜欢汉堡排吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "当然了。毕竟再怎么说，\n这可是发源自德国的料理！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "但相对地，我对味道也很挑剔哦。\n我就来品评这味道是否有资格称为特等吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "然后过了几天──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "……啊嗯。嚼……嚼……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "……！\n好吃！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "若满分是100分，\n日本的汉堡排漂亮地获得100分了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "二奖～！！\n奖品是“一整堆胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "……真的堆得跟山一样高呢。\n正确来说有几公斤呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "这……我们只是把箱子装满，\n不知道到底几公斤呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "……所以是毫不在意是否亏本呀。\n那我得好好报答你们的心意了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "我决定了。\n就来做Rüeblitorte吧。",
+            "ChoiceDataList": [
+                "Rüeblitorte？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "这是瑞士的一种胡萝卜蛋糕。\n胡萝卜的滋味很突出，很好吃哦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "以前父母曾教过我\n不加奶油的改编版食谱。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "光我们两个人应该吃不完，\n这时就该──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "──闪耀，\n烤箱准备好了哦～♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "我也准备好面糊了。\n那么开始分批烤吧，一次烤四个蛋糕。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "几天后我分到了一块胡萝卜蛋糕，\n听说是她跟宿舍同学一起烤的──\n我充分地享用了蛋糕的美味。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "三奖～！\n奖品是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "就跟我想的一样。\n很棒的结果呢",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "这位小姐果然很特别啊……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "请问，你知道什么食谱\n最能带出这根胡萝卜的美味吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "我目前想得到的作法，\n做出来的料理分量都不太够。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "哦！那来问问我家老妈吧！\n老妈──快过来！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "咦？没关系，\n不用这么麻烦──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街的女性",
+            "Text": "来了来了，我听到了啦！\n胡萝卜的食谱对吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街的女性",
+            "Text": "我刚刚正好做了一些呢，\n你就进来试吃看看嘛！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "咦？咦咦……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街的女性",
+            "Text": "人家不是说习惯比学习更重要吗？\n意思不太对？啊哈哈！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "训练员……",
+            "ChoiceDataList": [
+                "你就接受人家的好意吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "……那……请多多指教了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "荣进闪耀就这样上了一堂\n来自商店街店家的，心意满满的料理课。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "很可惜，没抽中！\n参加奖是“卫生纸”哦～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "我真是……Pechvogel呢。",
+            "ChoiceDataList": [
+                "Pe……什么？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "可怜的人的意思。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "……以几率来说，\n没抽中是很正常的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "虽然我理智上能理解……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "理解并不代表接受事实。\n荣进闪耀看起很消沉。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

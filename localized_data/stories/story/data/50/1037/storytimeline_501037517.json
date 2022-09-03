@@ -1,0 +1,59 @@
+{
+    "Title": "寻找黑色宝石",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我看到了一脸闷闷不乐的荣进闪耀。",
+            "ChoiceDataList": [
+                "发生什么事了吗？",
+                "发生什么事了吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "不，不是什么重要的事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "我想吃以前在故乡常吃的料理，\n于是试着寻找食材……",
+            "ChoiceDataList": [
+                "日本买不到吗？",
+                "日本买不到吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "买得到。但是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "鱼子酱……在日本卖得很贵呢。\n我的零用钱根本买不起。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣进闪耀",
+            "Text": "……唉。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我实在说不出“我买给你吧”……\n荣进闪耀就这样\n一脸消沉地离开了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "Title": "粉丝信",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "某天，名将怒涛收到了粉丝信──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "粉、粉丝信？\n怎么会……是、是寄给我的吗……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "该不会是搞错对象了？\n因为我根本就一无是处……",
+            "ChoiceDataList": [
+                "你先看看再说吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "说、说得也是哦，那我来看看！\n呃──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "呜呜……训练员……",
+            "ChoiceDataList": [
+                "信里写了什么？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "“我喜欢你努力的模样”……\n“我也很笨拙，所以你给了我勇气”这样。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "我好开心……这让我回想起从前的自己。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "我也是在竞赛后的胜利者访谈听到那个人说\n“连我这么没用的人都能改变”──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "才得到勇气来就读这所学园的……\n而我现在居然……",
+            "ChoiceDataList": [
+                "如今换你给别人勇气了啊",
+                "如今换你在给别人勇气了呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "呜呜……训练员。\n我会更加努力的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "因为我明白到，就算我很没用，\n还是能成为别人的勇气……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "这天起，名将怒涛就变得\n更投入在训练上了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

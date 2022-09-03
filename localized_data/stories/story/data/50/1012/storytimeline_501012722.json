@@ -1,0 +1,82 @@
+{
+    "Title": "因头痛而忧郁",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "当我经过走廊时，\n遇见了正抱着头呻吟的菱亚马逊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "唔啊～～～痛痛痛！\n脑袋嗡嗡响……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "可恶……\n我菱亚姐姐才不会输给区区头……痛痛痛痛！",
+            "ChoiceDataList": [
+                "你还好吗？",
+                "你还好吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "哦哦，是训练公啊……\n别担心，不是什么大事啦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "不知道是不是用脑过度，\n我的头有点痛……",
+            "ChoiceDataList": [
+                "太用功念书了？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "不，我只是读了食谱而已。\n那是老爸在美国生活时用过的食谱。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "我读了才发现美国的单位跟日本完全不一样。\n一磅是453公克到底是怎样！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "而且连温度都是写华氏温度。\n我就很不会算术啊……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "但是食谱上的照片看起来超美味的！所以我拼命\n把麻烦的数字都换算掉，成功做出料理哦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "呃，唔唔唔唔……\n说着说着就更痛了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "菱亚马逊就这样为头痛所苦……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}
