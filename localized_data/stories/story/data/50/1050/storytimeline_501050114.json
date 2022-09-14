@@ -9,16 +9,16 @@
     },
     {
       "Name": "独白",
-      "Text": "……『皐月賞』を終え『日本ダービー』を\r\n目前に控えた、ある日のこと。",
+      "Text": "在『皋月赏』结束后，\r\n『日本德比』临近的某一天——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大进",
-      "Text": "なに、これ……『BNW特集』？\r\nどういう意味？",
+      "Text": "这啥啊……『BNW特辑』？\r\n啥啊？",
       "ChoiceDataList": [
-        "这不是你们名字的大写嘛？",
-        "頭文字じゃないかな？"
+        "这不是你们名字的首字母组合吗？",
+        "这不是你们名字的首字母组合吗？"
       ],
       "ColorTextInfoList": [
         "BNW"
@@ -26,28 +26,28 @@
     },
     {
       "Name": "成田大进",
-      "Text": "ああ……ビワハヤヒデ、ナリタタイシン、\r\nウイニングチケットってこと？",
+      "Text": "啊啊……琵琶晨光（B）、成田大进（N），\r\n胜利奖券（W）啊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大进",
-      "Text": "……哈。这也轻松过头了。",
+      "Text": "……哈。没想到这么轻松啊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "独白",
-      "Text": "そう言うナリタタイシンだが、\r\n横顔はどこか嬉しそう……にも見えた。",
+      "Text": "虽然成田大进嘴巴上这么说，\r\n但看她的侧脸，好像还挺开心的……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "独白",
-      "Text": "皐月賞で見せた走りによって、世間の評判は\r\n一変。『二強』の時代は終わり、今や\n“BNW”の三強対決に注目が集まっていた！",
+      "Text": "她在皋月赏展现过自己的实力之后，众人对她\r\n的评价飞速提升。『二强』的时代已经结束，\r\n现在最为瞩目的应是“BNW”的三强对决！",
       "ChoiceDataList": [
         "『日本德比』也要加油了哦！",
-        "『日本ダービー』も頑張ろうね！"
+        "『日本德比』也要加油了哦！"
       ],
       "ColorTextInfoList": []
     },
@@ -59,10 +59,10 @@
     },
     {
       "Name": "成田大进",
-      "Text": "ミーティング、もう終わりでいい？\r\n……じゃ、アタシそろそろ上がるから。",
+      "Text": "讲评就到这里了吗？\r\n……那我就先走了。",
       "ChoiceDataList": [
-        "好。辛苦啦，大进――",
-        "うん。お疲れ様、タイシン――"
+        "好。辛苦你啦，大进——",
+        "好。辛苦你啦，大进--"
       ],
       "ColorTextInfoList": []
     },
@@ -74,13 +74,13 @@
     },
     {
       "Name": "成田大进",
-      "Text": "呜哇！？",
+      "Text": "唔哇？！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大进",
-      "Text": "あ、アンタ……チケット！！\r\n毎度毎度、その大声なんとかなんないわけ！？",
+      "Text": "我说……奖券啊！！\r\n你能不能别每次每次每次都发出这么大的声音！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -92,7 +92,7 @@
     },
     {
       "Name": "胜利奖券",
-      "Text": "どぉおおおおしてもっ！！\r\nキミと！\u3000模擬レースがしたいんだぁーっ！！",
+      "Text": "无呜呜呜呜呜论如何！！\r\n都想！立刻！马上！！和你跑一场模拟赛！！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -104,25 +104,25 @@
     },
     {
       "Name": "独白",
-      "Text": "……ウイニングチケットのあまりの勢いに、\r\n気づけばコースまで来てしまっていた。",
+      "Text": "胜利奖券的气势实在超乎寻常，\r\n我们不知不觉间也跟着她来到了赛道上。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "独白",
-      "Text": "今日のメニューはもう終わっていたので、\r\nナリタタイシンには無理せず\n休んでほしいとも思ったのだが――",
+      "Text": "今天的训练已经结束了，\r\n我告诉大进现在还是应该以休息为重——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大进",
-      "Text": "過保護。心配し過ぎ。\r\n模擬レース1戦分の体力くらいあるし。",
+      "Text": "你这叫过度保护、担心过头。\r\n跑一场模拟赛的体力我还是有的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大进",
-      "Text": "而且――",
+      "Text": "而且——",
       "ChoiceDataList": [
         "而且？"
       ],
@@ -130,25 +130,25 @@
     },
     {
       "Name": "成田大进",
-      "Text": "チケットは、バカだけど。\r\n……マジで、迸るほどバカだけど。",
+      "Text": "……奖券虽然是个笨蛋吧……\r\n……而且还是个纯度很高的笨蛋。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大进",
-      "Text": "でも、アイツのダービーに懸ける想いだけは、\r\n本物だから。",
+      "Text": "但是，她对德比的信念也是货真价实的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大进",
-      "Text": "……アイツの『今』の走りがどんなもんか、\r\n確かめておく意味はあるんじゃない？",
+      "Text": "……那家伙『现在』又能拿出怎样的实力——\r\n你不想确认一下吗？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "胜利奖券",
-      "Text": "タイシンっ！！\r\n準備できたよ――やろうっ！！",
+      "Text": "大进！！\r\n我准备好啦——来吧！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -166,25 +166,25 @@
     },
     {
       "Name": "独白",
-      "Text": "（――哒哒哒！！）",
+      "Text": "——开闸。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "独白",
-      "Text": "こうして、ナリタタイシンと\r\nウイニングチケットの模擬レースが\nスタートした……！",
+      "Text": "成田大进与胜利奖券的模拟赛开始了……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "独白",
-      "Text": "距離は『日本ダービー』と同じ、\r\n芝2400m。ウイニングチケットは、\n序盤から飛ばし気味だった。",
+      "Text": "模拟赛的赛程与『日本德比』相同，\r\n草地2400米。模拟赛刚一开始，\r\n胜利奖券便以极高的速度奔跑在了前方。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "独白",
-      "Text": "ともすれば掛かっているようにさえ見えた、\r\nそんな彼女の走りは――",
+      "Text": "她现在的速度，怎么看都是失速了才对。\r\n但是——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -196,7 +196,7 @@
     },
     {
       "Name": "独白",
-      "Text": "在最终直线上，『爆发』了。",
+      "Text": "在最终直线上，她『爆发』了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -208,7 +208,7 @@
     },
     {
       "Name": "独白",
-      "Text": "ナリタタイシンも懸命に追う。\r\n末脚のキレは相変わらず凄まじい――\nいや、皐月賞の時よりさらに鋭くなっている。",
+      "Text": "成田大进拼命地追赶着。\r\n她终盘的末脚依然如此强大——\r\n不，甚至可以说比皋月赏那时更强……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -220,19 +220,19 @@
     },
     {
       "Name": "独白",
-      "Text": "残り200m、1度はナリタタイシンに\r\nハナを譲ったウイニングチケット。\nだが――",
+      "Text": "剩余200米。虽然成田大进成功地反超了\r\n胜利奖券，但是——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "胜利奖券",
-      "Text": "ダービー……！\r\nダービー、ダービー、ダァァァビィィィッ！！",
+      "Text": "德比……！\r\n德比、德比、德————比！！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "胜利奖券",
-      "Text": "ダービーの、1着だけはっ！！\r\n渡すもんかぁあああああああっ！！",
+      "Text": "德比的第一名！！\r\n我绝不相让啊啊啊啊啊啊啊！！！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -244,43 +244,43 @@
     },
     {
       "Name": "独白",
-      "Text": "结果――",
+      "Text": "结果——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "独白",
-      "Text": "模擬レース、ハナ差で差し切り\r\nゴールしたのは、ウイニングチケットだった。",
+      "Text": "这场模拟赛中，以微弱的优势率先冲线的，\r\n是胜利奖券。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "2人",
+      "Name": "二人",
       "Text": "哈啊……哈啊……哈啊……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "胜利奖券",
-      "Text": "ぜぇ、はぁ、はひゅ～……。\r\nタイシィィン……ありがとぉぉ……！！",
+      "Text": "嘶……哈……呼～……\r\n大进……谢谢你……！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大进",
-      "Text": "はぁ……負かされた後で、お礼とか。\r\n……ムカつくん、だけど。",
+      "Text": "哈啊……输了比赛之后还被人道谢啊。\r\n……真让人火大。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "胜利奖券",
-      "Text": "うんっ……今日は、\r\nアタシが勝てた、けど……！",
+      "Text": "虽然今天的模拟赛是我赢了……！\r\n但我不是为了模拟赛道谢哦。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "胜利奖券",
-      "Text": "勝てるアタシになれたのは。\r\n『皐月賞』でのキミを、見たからだよっ。",
+      "Text": "是你在『皋月赏』之上的表现，\r\n才让我能不断成长到现在。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -292,49 +292,49 @@
     },
     {
       "Name": "胜利奖券",
-      "Text": "やっぱりタイシンはすごい！\r\nめちゃくちゃ強い！\u3000だけど、だから！！",
+      "Text": "你果然很强呀！\r\n真的超厉害的呀！——但是！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "胜利奖券",
-      "Text": "アタシの夢、ダービーウマ娘になるには！！\r\nキミに勝てるくらい強くならなきゃって\n思った！！",
+      "Text": "我的梦想，就是成为德比赛马娘！！\r\n为了这个梦想，我必须要比你更强才行！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "胜利奖券",
-      "Text": "『キミに勝つ』『絶対勝つ』！！\r\nその気持ちで、トレーニングしてるんだっ！！",
+      "Text": "我就是带着『要赢过你』『一定要赢』这些想法\r\n训练，才终于成长起来的！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大进",
-      "Text": "……ふん。\r\nなら、今日勝てて満足？",
+      "Text": "……哼。\r\n那今天你赢了，满足了吗？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "胜利奖券",
-      "Text": "ぜぇぇぇーーーんぜんっ！！\r\nダービー本番じゃないし、ギリギリだったし。",
+      "Text": "完全没有————！！\r\n这又不是真正的德比，\r\n而且咱们不是差距很小嘛！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "胜利奖券",
-      "Text": "それに、キミはこれからダービーまでにも\r\n絶対！\u3000今より強くなる！！\u3000だよねっ！！",
+      "Text": "而且……你在德比的时候，一定！！\r\n肯定！！会变得比现在更强吧！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大进",
-      "Text": "……当然。",
+      "Text": "……废话。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "胜利奖券",
-      "Text": "うぉおおおおっ！！\u3000だったらアタシも、\r\nまだまだまだまだトレーニングだぁあああ！！",
+      "Text": "唔噢噢噢噢噢！！那我还得继续继续继续继续\r\n继续继续训练才行啊啊啊啊啊！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -346,46 +346,46 @@
     },
     {
       "Name": "成田大进",
-      "Text": "アイツ、もうあんな走って……\r\nたく、体力無限なわけ？",
+      "Text": "那家伙还能接着跑啊……？\r\n笨蛋的体力都是无限的吗……？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大进",
-      "Text": "……あ。アンタ、しっかり見てた？\r\nチケットの今の実力。",
+      "Text": "你看见现在奖券的实力了吗？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大进",
-      "Text": "那明天也要继续训练会议。",
+      "Text": "那明天早点开始训练会议吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大进",
-      "Text": "アイツに勝てるだけのメニューを、\r\nこっちも組まなきゃ……！！",
+      "Text": "得准备好一套能赢过她的训练方案才行……！",
       "ChoiceDataList": [
-        "啊啊……！",
-        "うん……！"
+        "好……！",
+        "嗯……！"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "独白",
-      "Text": "追って追われて、磨き合って。\r\n真っ直ぐ夢を追うライバルの存在は、\nナリタタイシンへ良い影響を与えている――",
+      "Text": "不断追赶、不断钻研、然后相互磨砺。\r\n像奖券这样永远一心向着梦想前进的劲敌，\r\n一定能为大进带来好的影响吧——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "独白",
-      "Text": "我是这样认为的。",
+      "Text": "……至少，我是这样认为的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "胜利奖券",
-      "Text": "うぉおおおおおっ！！\r\nダァァァビィィィィィイイイ！！",
+      "Text": "唔哦哦哦哦哦哦！！\r\n德比————！！！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
