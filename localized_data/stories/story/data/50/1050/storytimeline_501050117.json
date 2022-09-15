@@ -9,7 +9,7 @@
     },
     {
       "Name": "",
-      "Text": "春の『天皇賞』を間近に控えた、\r\nある日のこと――",
+      "Text": "在春季『天皇赏』来临前的某一天——",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
         "天皇賞"
@@ -29,7 +29,7 @@
     },
     {
       "Name": "成田大进",
-      "Text": "……何、どしたの？\r\nちょっとやつれてない？",
+      "Text": "……怎么了？出什么事了吗？\r\n你看上去有点憔悴啊？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -41,19 +41,19 @@
     },
     {
       "Name": "琵琶晨光",
-      "Text": "大したことではないさ、少々寝不足気味でね。\r\n……だから、君おすすめ昼寝スポットに\nこうして来たというわけだ。",
+      "Text": "到也不是什么大事。最近有点没睡好而已。\r\n……所以才到你推荐的这个午睡地点来。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大进",
-      "Text": "哼……",
+      "Text": "是吗……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大进",
-      "Text": "ねえ。ここ最近の\r\nナリタブライアンの資料ってある？",
+      "Text": "那个啊。\r\n你有成田白仁最近的资料吗？",
       "ChoiceDataList": [
         "诶，成田白仁？"
       ],
@@ -67,10 +67,10 @@
     },
     {
       "Name": "成田大进",
-      "Text": "……アイツがぐらつくとしたら、\r\n多分、妹のことだろうし。",
+      "Text": "能让那家伙憔悴成这样的，\r\n也就只有她妹妹了吧。",
       "ChoiceDataList": [
         "那家伙，是说琵琶晨光吗？",
-        "アイツって、ハヤヒデのこと？"
+        "那家伙？是说琵琶晨光吗？"
       ],
       "ColorTextInfoList": []
     },
@@ -82,36 +82,36 @@
     },
     {
       "Name": "成田大进",
-      "Text": "……で、ブライアンの話。\r\n最近なんかデカいニュースでもあった？",
+      "Text": "……说回白仁的话题。\r\n那家伙最近有什么大新闻吗？",
       "ChoiceDataList": [
-        "我看看啊――"
+        "我看看啊——"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "言われて調べてみたところ、先日行われた\r\n『皐月賞』のニュースがヒットした。",
+      "Text": "这么说着，我稍微调查了一下。\r\n白仁似乎在前不久的『皋月赏』中大放异彩。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大进",
-      "Text": "『皐月賞』1着……ふぅん、\r\nしかもコースレコード更新したんだ。",
+      "Text": "『皋月赏』第一……哼，\r\n还更新了时间记录啊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大进",
-      "Text": "不负“怪物”之名啊……",
+      "Text": "不愧“怪物”之名啊……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大进",
-      "Text": "晨光那家伙，就是知道这件事后――",
+      "Text": "晨光那家伙，就是知道这件事后——",
       "ChoiceDataList": [
         "可能变得有些焦躁了吧",
-        "焦ってしまっているのかもね"
+        "可能变得有些焦躁了吧"
       ],
       "ColorTextInfoList": []
     },
@@ -135,7 +135,7 @@
     },
     {
       "Name": "成田大进",
-      "Text": "話をするとき、って……\r\nフツー、どうするもんなの？",
+      "Text": "要是有什么事情想谈的话……\r\n一般来说，会怎么做……？",
       "ChoiceDataList": [
         "（大进在为自己的朋友着想……！）"
       ],
@@ -143,7 +143,7 @@
     },
     {
       "Name": "成田大进",
-      "Text": "……ちょっと。\r\nなんか余計なこと考えてない？",
+      "Text": "……喂。\r\n你是不是在瞎想些怪事儿？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -151,7 +151,7 @@
       "Name": "成田大进",
       "Text": "好了！\u3000快告诉我啦！！",
       "ChoiceDataList": [
-        "要不一起去吃饭吧？"
+        "一般会一起去个吃饭吧？"
       ],
       "ColorTextInfoList": []
     },
@@ -163,7 +163,7 @@
     },
     {
       "Name": "拉面店店员",
-      "Text": "へい、らっしぇいっ！！\r\nお好きなお席にどうぞっ！！",
+      "Text": "欢迎光临！！\r\n请随便坐！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -175,19 +175,19 @@
     },
     {
       "Name": "琵琶晨光",
-      "Text": "……タイシン、君は……特にその、\r\nここの常連、というわけではないのだな？",
+      "Text": "……大进啊……你……\r\n呃……不是这儿的常客吧？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大进",
-      "Text": "は？\u3000んなわけないでしょ。\r\n外食なんか、めったにしないし……。",
+      "Text": "哈？怎么可能是啊。\r\n我很少在外面吃饭的……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "琵琶晨光",
-      "Text": "そ、そうだよな。君はそういう子だ。\r\nならばしかし……むむ……。",
+      "Text": "说、说得也是。你确实很少到外面吃饭啊……\r\n那你为什么……呃……呣……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -211,19 +211,19 @@
     },
     {
       "Name": "成田大进",
-      "Text": "呃、这个……嗯――",
+      "Text": "呃、这个……嗯——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大进",
-      "Text": "野菜ラーメン、にんじんマシ……\r\nあ、1つは麺少なめで……。",
+      "Text": "两碗蔬菜拉面，多加胡萝卜……\r\n啊，其中一碗少面少菜……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "琵琶晨光",
-      "Text": "……そういえば『日経賞』、動画で見たよ。\r\n見事な走りだったな、タイシン。",
+      "Text": "……说起来，我看了『日经赏』的回放。\r\n跑得很棒啊，大进。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -235,7 +235,7 @@
     },
     {
       "Name": "琵琶晨光",
-      "Text": "やはりラストスパートの追い上げぶりには\r\n背筋が寒くなる。……君の末脚については、\n何度式を修正させられたことかわからんよ。",
+      "Text": "看着你在终盘的冲刺，我都开始脊背发凉了。\r\n……我都不知道为你的末脚修正过多少此方\r\n程式了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -247,7 +247,7 @@
     },
     {
       "Name": "琵琶晨光",
-      "Text": "嗯？\n说实话……确实。你很强。",
+      "Text": "嗯？\r\n说实话……对。你很强。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -259,7 +259,7 @@
     },
     {
       "Name": "成田大进",
-      "Text": "……アタシはハヤヒデのこと、\r\nずっと厄介なヤツだって思ってる。",
+      "Text": "……我倒是……\r\n一直觉得你是个麻烦的家伙。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -283,7 +283,7 @@
     },
     {
       "Name": "琵琶晨光",
-      "Text": "你约我出来吃饭――\n是不是想来鼓励我？",
+      "Text": "你约我出来吃饭——\r\n是不是想来鼓励我？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -295,7 +295,7 @@
     },
     {
       "Name": "成田大进",
-      "Text": "ただ、っ……厄介なヤツのくせして、\r\n勝手に自信失うとか……ないでしょって話。",
+      "Text": "我是说……像你这种麻烦的家伙……\r\n才不会这么随随便便就丧失自信……吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -307,13 +307,13 @@
     },
     {
       "Name": "琵琶晨光",
-      "Text": "这样啊――",
+      "Text": "也是啊——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大进",
-      "Text": "唔……这份量也太多了……",
+      "Text": "唔……明明都说了少面少菜，\r\n还是这么多……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -325,7 +325,7 @@
     },
     {
       "Name": "成田大进",
-      "Text": "大丈夫じゃない……はぁ。\r\nあの店、もう2度と行かない……。",
+      "Text": "不可能没事吧……哈。\r\n再也不来这家店了……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -349,13 +349,13 @@
     },
     {
       "Name": "琵琶晨光",
-      "Text": "那，大进――",
+      "Text": "那，大进——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "琵琶晨光",
-      "Text": "君は、私の『厄介さ』なるものを\r\n信じてくれるか？",
+      "Text": "你……愿意相信我的『麻烦』吗？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -367,19 +367,19 @@
     },
     {
       "Name": "琵琶晨光",
-      "Text": "嗯。……如何？",
+      "Text": "嗯。\r\n……如何？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大进",
-      "Text": "这个嘛――",
+      "Text": "这个嘛……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大进",
-      "Text": "信じてる……よ。\r\n実際、アンタって厄介だし。",
+      "Text": "当然相信了。\r\n毕竟你确实是个麻烦的家伙。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -403,7 +403,7 @@
     },
     {
       "Name": "",
-      "Text": "春の夜風に吹かれながら、\r\nナリタタイシンは少し笑った。",
+      "Text": "独属于春季的温暖夜风拂过。\r\n想到这个词，大进轻轻地笑了起来。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }
