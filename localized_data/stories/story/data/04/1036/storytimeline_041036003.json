@@ -1,0 +1,383 @@
+{
+  "Title": "“Permission Denied”",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小学老师",
+      "Text": "『――神宫同学，是个非常聪明的孩子。但是，\n她好像不明白，并非只有完全正确的事才是事实……』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小学老师",
+      "Text": "『实话实说，即使是老师也很难应付她。\n她在班上被孤立，有的孩子还会跟她起冲突。』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小学老师",
+      "Text": "『尽管大家都在努力去理解那个孩子……\n但如果她不主动接近我们的话，就……』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神宫的母亲",
+      "Text": "『不好意思。那孩子一直就这样。她就是这种孩子……\r\n所以，不管她也没关系的。请不要刺激她……』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "（――从小，我就是个“无法被理解”的存在。\n不知何故，出错的、不正常的总是我。）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "（我能听到的，净是些噪音……尽管使用相同的语言，\n我却无法与任何人交流。最终，我放弃了与人对话。）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "（就在那时……我与个人计算机相遇了。我第一次，感觉听到了\n“声音”。编程语言，才是我唯一可以用来交流的语言。）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "（有伙伴在的话，就能消除那些噪音。然后为了寻找能最有效地\n证明自己的地方――我关注到了特雷森学园。）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "（入学后立刻做完的『Parcae』，是我最棒的伙伴。\n它获取的数据越多，所推导出的答案精度就越高――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "『――空中神宫，跑的时候到底在想些什么呢……\n她不听教官的话，没有合作协调能力，自以为是……但是』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "『不想跟神宫前辈一起跑啊……\n感觉她是来自不同世界的人，摸不透、很可怕……但是』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "『――她能“取胜”，很厉害……』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "（……感觉超棒。那些所有聒噪的人，在胜者的面前也\n只能闭嘴，噪音也就消失了。那么，如果我再进一步……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "（――继续继续赢下去的话。对，比方说……摘得只有真正的强者\n才能得到的称号……三冠的话……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "（那时……本应该“\u3000\u3000\u3000\u3000\u3000”的――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "当我追上刚训练完的空中神宫时，\r\n她正驻足于广场上。",
+      "ChoiceDataList": [
+        "神宫！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "！\r\n你……是那时候那个。有什么事么？",
+      "ChoiceDataList": [
+        "你白天时的跑法，真的很不错"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "啊？\r\n……啊……啊？",
+      "ChoiceDataList": [
+        "我感受到了你一直以来的努力",
+        "我感受到了你一直以来的努力"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "……\r\n说些什么呢，差不多得了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "再说ー，你特意来就是要讲这个么？\r\n那辛苦你了。行了，你走吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "不，不只是这样。我来跟她搭话是因为……我想要\r\n好好见识她的跑法，更多地了解她。对――",
+      "ChoiceDataList": [
+        "我想成为你的训练员！",
+        "我想成为你的训练员！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "……\r\n哈？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "也许我这话过于唐突了。但说出口的瞬间我意识到，\r\n第一次与她见面时，那个选项就在我的心头了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "……你完全不讲逻辑啊。啊哈，这是所谓的一见钟情吗？\n那很遗憾，恕我拒绝。我可不听没有根据的话语。",
+      "ChoiceDataList": [
+        "请你告诉我根据吧",
+        "请你告诉我根据吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "…………嗯？",
+      "ChoiceDataList": [
+        "告诉我你想要的是什么，为何要跑",
+        "告诉我你想要的是什么，为何要跑"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "你知道了又能怎样？\n我所说的根据，是指基于我的能力和目标的那些事。",
+      "ChoiceDataList": [
+        "知道了的话，我能助你一臂之力",
+        "知道了的话，我能助你一臂之力"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "……搞什么。你有什么……\n说起来，你有什么事能做得比我好么？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "营养学、运动工程学……我脑袋里有所有这些理论与数据。\n说说啊。你，能助我，什么一臂之力？",
+      "ChoiceDataList": [
+        "……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "看吧，回答不出来。你直说吧，其实……\n只是“你自己”想这么做吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "想帮助别人……想救人什么的，是你的自高自大罢了。\r\n你明明，不能对任何人做什么事。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "我面对的是她明确的拒绝――但在那些话里，\r\n似乎还隐藏着我想知道的事……我不能就此作罢。",
+      "ChoiceDataList": [
+        "我还什么都没做呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "啊？",
+      "ChoiceDataList": [
+        "但你为什么觉得，我什么都做不了呢？",
+        "但你为什么觉得，我什么都做不了呢？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "真缠人啊。\r\n所以说……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "……得了，跟我来。\r\n我用数字来告诉你。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "――那就是我的……『Parcae』，所推导出的答案。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "空中神宫让我看她一直抱着的那台笔记本电脑上\r\n所显示的画面。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "上面列着许多难懂的公式与数字，\r\n在等式最后的是……",
+      "ChoiceDataList": [
+        "“−7”……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "从我第一次试算，直到现在。\n那个答案一直保持不变。那数字显示的是……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "在『日本德比』上，我会以7cm之差输掉。\n然后，失去三冠头衔……这就是答案。",
+      "ChoiceDataList": [
+        "……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "她所说的三冠……是指在只能在经典级挑战的3场GⅠ比赛，\r\n『皋月赏』『日本德比』『菊花赏』中全部获胜。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "赢得这些比赛的马娘被称为三冠赛马娘，并会名垂青史。\r\n至今有数万马娘挑战，但获得这个称号的马娘屈指可数――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "我……绝对无法成为三冠赛马娘。迄今为止，\r\n无论我输入多少次数值，都只有这个答案无法被推翻。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "别跟我说什么程序本身是错误的。它一切都很完美。\r\n正因为它很完美……所以我，绝对赢不了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "明白了吧。你不可能做些什么。\r\n就算是我……也无法推翻这个答案。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "我不知道她绝望到什么程度。但是，至少从刚才的话中……\r\n我知道她还在挣扎。原因只有一个――",
+      "ChoiceDataList": [
+        "即便如此，你还是绝对想要赢啊",
+        "即便如此，你还是绝对想要赢啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "……嗯？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "我想知道的她的愿望――就是取胜。\r\n那是简单的，每人心中都有的，普遍但又唯一的愿望……",
+      "ChoiceDataList": [
+        "只要有那个想法，就一定能改变！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "如果有想法就能改变的话！\r\n我早就给它推翻了！！",
+      "ChoiceDataList": [
+        "……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "我拼命地挣扎、挣扎……明知道做不到，但还是\r\n不断地不断地不断地不断地不断地不断地！\u3000去计算！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "跑、跑……跑……！\u3000觉得总有一天、总有一天……\r\n但是，那是不可能的……你什么都不懂……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "你突然蹦出来！\u3000装成个救世主！！\n就凭你丫……能做些什么啊……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "她的愤怒和悲痛直接冲着我来了。她的主张，应该是深深植根于\r\n她所经历过的事吧。这点我无权去否认她。但是――",
+      "ChoiceDataList": [
+        "（“我”还什么都没做呢！）",
+        "（“我”还什么都没做呢！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "……总而言之，就是这么回事。\n明白了的话你就别再来缠着我。",
+      "ChoiceDataList": [
+        "（……首先我得去了解她）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "虽然被空中神宫拒绝了，\r\n但我还什么都没做，也不想就此作罢――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

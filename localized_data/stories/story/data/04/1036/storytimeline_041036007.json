@@ -1,0 +1,334 @@
+{
+  "Title": "“Change mode”",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "夏季集训的季节到了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "除训练之外，空闲时间里还可以参加许多活动。\n比如海水浴和烟花大会……还有学园主办的烧烤活动。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "我要跑了，你计时。\n……喂，发什么呆呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "……哎，你去阴凉处测。记得喝水。\n别让我再重测一次。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我觉得跟最初相比，自己和空中神宫之间的距离已经有所缩小。\n不过，要说已经到了可以来依赖我的程度的话――",
+      "ChoiceDataList": [
+        "（……有点微妙啊）",
+        "（……有点微妙啊）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……不管怎么说，『夏天』是个活动很多的季节。\n我要在这次夏季集训里，鼓起干劲跟她加深交流！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我本是这么想的――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "海水浴？\n那么热的地方，不训练谁去啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "烟花大会？\n累、吵、没逻辑。Pass。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "不去。",
+      "ChoiceDataList": [
+        "我还什么都没说呢……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "学园主办的烧烤活动是吧。我知道。然后接下来是？\n游泳池么？\u3000露营么？\u3000到夏天闹腾的跟个蠢货似的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "你好像很期待我去，放弃吧。\n我本就不是为了训练以外的目的而来的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "我可不要玩的吵吵嚷嚷的。净是噪音。\n你明白吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "确实，空中神宫不喜欢喧嚣。\n或许我不该邀请她去参加那些吵闹的活动。",
+      "ChoiceDataList": [
+        "……但是，我不能就此放弃！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "有没有什么夏天的活动，空中神宫也能喜欢呢。\n正当我想着的时候——看到远处闪烁着一片光芒。",
+      "ChoiceDataList": [
+        "……对了！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "观赏萤火虫是一项夏季传统，可以安静地享受。\n空中神宫会不会对此稍感兴趣呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "因此，我循着远处的光芒，夜夜寻找着萤火虫\r\n所栖息的河流。但是――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "没我想象中那么好找。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "难道我那天看到的萤火虫只是幻觉吗……别说是有萤火虫\n栖息的河流了，我根本连一只萤火虫都没找着。",
+      "ChoiceDataList": [
+        "（夏季集训就要结束了……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "也许今年我还是放弃比较好吧，\n正当我发愣的时候……有一只手搭在了我肩上。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "喂，那边那个可疑人员，停下来。让我看看身份证。\n……接到通报，你好像最近经常半夜在这附近游荡啊。",
+      "ChoiceDataList": [
+        "我、我不是可疑人员！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "逗你玩儿。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "白天你就一副坐立不安的样子。\n你以为我没注意到么？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "所以，你在干什么呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "似乎是瞒不过她了。\n我就把找萤火虫的事及其原因全都坦白了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "……观赏萤火虫么。\n我还以为能是什么事……真固执啊你这家伙。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "我一开始就讲过了吧？\u3000不需要跟我增进什么友谊。\n因为――",
+      "ChoiceDataList": [
+        "因为你有『Parcae』了",
+        "因为你有『Parcae』了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "真搞不懂啊。",
+      "ChoiceDataList": [
+        "诶？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "我理解不了你。\n明明已经知道那么多了你却还不收手。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "起初我以为你是出于怜悯，或者是有优越感，这之类的，\r\n但事实似乎并非如此啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "……是什么让你这样做。\n信条么？\u3000使命感么？\u3000还是最近流行这种手法？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "答案其实很简单，简单到连我自己\r\n都感到一丝困惑。",
+      "ChoiceDataList": [
+        "只是因为，你很重要",
+        "只是因为，你很重要"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "…………哈？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我与空中神宫相遇前，她就已经有一个万能的伙伴了。\n所以即便她现在没有『训练员』，也没什么大不了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "然而，如果满足于这种没有信任关系的现状，\r\n万一有一天她遇到了自己无法解决的事情――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我一定只会被拒绝，什么都做不了吧。\n……我这样跟她说。",
+      "ChoiceDataList": [
+        "所以，我不想放松这方面的努力"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "……哈，所以说你为了防那个都不知道会不会真有的万一，\r\n才来三不动约我出去么？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "勉强自己跟着我去网吧，买东西那点功夫也跟过来……\r\n现在又一夜接一夜地找着萤火虫。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "如果我真怒了你打算怎么办。\n那就不只是拒绝而是断绝关系了。",
+      "ChoiceDataList": [
+        "因为我知道你不会真生气的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "毕竟她不是那种心软的性格。\n如果她真讨厌我，我现在应该早就不是她的签约训练员了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "……真烦啊。",
+      "ChoiceDataList": [
+        "！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "别讲的像你什么都懂。\n再说万一又是什么，干嘛对那种不确定的东西感到害怕。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "……真没逻辑啊。你总是这样。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "…………再说，萤火虫是住在比较暗的地方。\n这块土太硬，草也太少。你还没去看看上游吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "空中神宫开始朝着和集训宿舍相反的方向走。\n她的背影渐渐远去，没有要止步的意思――",
+      "ChoiceDataList": [
+        "……神宫？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "不是要去看么。\r\n……萤火虫什么的，我没那么讨厌。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
