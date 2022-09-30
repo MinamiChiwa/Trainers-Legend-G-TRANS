@@ -1,0 +1,359 @@
+{
+  "Title": "脉动着的算法",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『Parcae』能去“理解”。它能够分析输入的数据，\n推导出正确的答案。它能够忠实、正确地理解我的意图并行动。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "只要输入值正确，答案就会是绝对的。那是无法被推翻的，\n唯一的、完美的，拒绝一切推测的well-defined的运算。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "所以――『Parcae』并不能够“理解”。\n在0和1构成的世界里，不存在能处理“绝望”的代码。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "某一天，为了物色签约赛马娘，我去观摩了\r\n还未出道的孩子们的训练。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名将怒涛",
+      "Text": "歌剧同学，还有路同学，都好厉害啊……\r\n……或许我追不上她们，但是……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "不愧是优秀马娘云集的特雷森学园。\n我感到振奋的同时，偶然间看了看旁边――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "――……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "有个孩子表情严肃地看着跑道上的马娘们，\n偶尔在笔记本电脑上输入着些什么。",
+      "ChoiceDataList": [
+        "（真用心啊……不过――）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "不仅如此……她那直勾勾的锐利视线，\r\n仿佛是穿透了马娘们和电脑，在寻找着什么――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "……嘁！",
+      "ChoiceDataList": [
+        "！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "…………",
+      "ChoiceDataList": [
+        "（我好像太不礼貌了……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "赛马娘A",
+      "Text": "呐，刚才你看到了吗？\u3000空中神宫前辈，果然很可怕啊。\r\n像那样瞪着大人……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "赛马娘B",
+      "Text": "但是她相当聪明吧？\u3000之前老师感叹说，\r\n『她明明又聪明跑步能力又强，但生活态度却……』之类的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "赛马娘B",
+      "Text": "她基本上都是紧踩门禁时间的。是属于不良少女吗？\r\n感觉她总是一副很烦躁的样子……是在想些什么呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "空中神宫――似乎其他孩子都惧怕她。\u3000她有着独特的\r\n个性……尤其是她那眼神，给我留下了深刻的印象。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "――所～以说，我不都说了我\r\n什么都没干么……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "那天晚上，我正从外面回学园里时……\r\n发现了一名被警察问话的马娘。",
+      "ChoiceDataList": [
+        "（那耳朵……难道说）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "每次每次，都这样缠着人啊。\n再说你这管教未成年的时间也太早……啊。",
+      "ChoiceDataList": [
+        "空中神宫……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "警察",
+      "Text": "嗯？\u3000你……认识这个孩子吗？",
+      "ChoiceDataList": [
+        "她是我们这儿的学生"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "警察",
+      "Text": "那，是学园的……太好了。也请老师关注一下她。\n最近她好像一直夜里闲逛……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "“关注一下”？\n只是你自己怀疑吧，我在做什么可疑的事～之类的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "警察",
+      "Text": "不是这样的！\u3000你老是窝在网吧里，我是担心你万一\n卷入什么麻烦……怎么总这么固执啊，你这个人！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "这样下去，他们俩还会是各执一词。\n那么……",
+      "ChoiceDataList": [
+        "是我指示她在那儿待命的",
+        "是我指示她在那儿待命的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "哈？",
+      "ChoiceDataList": [
+        "对不起，让您担心了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "警察",
+      "Text": "……那好吧。但是，请您不要再让未成年的孩子独身一人了。\r\n你也是，如果有老师陪着的话下次就直接说！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "被警察释放后，我将空中神宫安全地送回了宿舍。\r\n一路上，她一直保持沉默……",
+      "ChoiceDataList": [
+        "别回宿舍太晚了哦",
+        "别回宿舍太晚了哦"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "……你就想说这些吗？\u3000我一个风评不好的学生，\r\n紧卡门禁时间在外面闲逛哦。一般都会怀疑的吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "还是说，你不想再跟什么麻烦事扯上关系了？\n啊哈，那样的话我理解了。",
+      "ChoiceDataList": [
+        "你有很重要的事情吧？",
+        "你有很重要的事情吧？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "……啊？",
+      "ChoiceDataList": [
+        "因为你……应该，是个很认真的孩子吧",
+        "因为你……应该，是个很认真的孩子吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "白天看到的，那认真的眼神。我不认为如此专注地\r\n思考着什么的孩子，会去做坏事。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "不如说……她应该是把自己放在了一个，\r\n可以集中精力做她认为很重要的事的环境中。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "……所以说你才不深究么？\u3000靠着没根据的第一印象，\r\n做出自以为的判断……你跟刚才那警察一个德行啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "到最后，每个人都只看到自己想看到的。人们的\r\n判断中混入主观想法……然后就会失序。失去信誉。……这方面，还是\r\n我的“伙伴”优秀。",
+      "ChoiceDataList": [
+        "伙伴？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "……呃。……就是个人计算机啊。不过，它可不只是个箱子。\n它是一颗可以回答任何问题的大脑。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "它能基于海量的数据，推导出高效的训练项目，以及如何在\r\n模拟赛中稳胜的方法……它能推导出所有解决方案。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "只要输入了正确的数据，它就一定会返回正确的答案。\n那是完全不会模棱两可的，唯一的答案。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "如果那家伙不是万能的话，那只有可能是用的人缺乏经验。\n而我不。因此，它总是能推导出唯一的真理。",
+      "ChoiceDataList": [
+        "你很信赖你的伙伴呢",
+        "你很信赖你的伙伴呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "……那是当然。\n因为那就是我做的。",
+      "ChoiceDataList": [
+        "你……真厉害啊",
+        "你……真厉害啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "……恶心。",
+      "ChoiceDataList": [
+        "！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我好像又惹她不高兴了……\r\n那天，我一边回想着自己的言行，一边回到了自己的房间。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名将怒涛",
+      "Text": "啊！\u3000神宫同学，欢迎回来～！\n那、那个、就是……嗯……那个……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "……我只是去整理数据了。\r\n比起这儿，外面更能让我集中精力。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "而且我早就说过了，你先睡就行啊。\r\n我去外面也是因为你…………得了，睡吧。明天还要早起吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名将怒涛",
+      "Text": "好～……那个，说起来……神宫同学，\r\n你明天的训练，会有训练员跟着吧……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "说是什么想看看我的能力。嘛，就试试吧……\n反正也会是“老样子”吧。不用模拟我都知道。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "嘛，你不用在意这事。\n关灯咯。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "――……果然，答案还是不变的么。\n呐，『Parcae』……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "（『Parcae』――聚焦于闪耀系列赛的，\n从操作系统到应用程序，全部由我亲手制作的伙伴……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "（距离『Parcae』推导的，最适合出道战的日子还差一点。\n身体状况也按预想中的那样调整了……然而）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "（――“那个”数值，仍然没有变化。\r\n当然了，因为代码是正确的，所以那就是绝对的解）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "（但我为什么……还在探寻？\u3000还在挣扎？\u3000还在思考？\r\n为什么……――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

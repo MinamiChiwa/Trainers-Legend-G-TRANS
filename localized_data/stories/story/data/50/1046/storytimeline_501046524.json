@@ -169,7 +169,7 @@
         },
         {
             "Name": "女性粉丝A",
-            "Text": "啊……我失态了！是山形。\n你们能来福岛或新潟赛场吗……？",
+            "Text": "啊……我失态了！是山形。\n你们能来福岛、盛岡或者是新潟赛场吗……？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -201,13 +201,13 @@
         },
         {
             "Name": "独白",
-            "Text": "来拟定让醒目飞鹰在福岛或新潟的比赛中，\n能拿下第一名并获得C位的计划吧……！",
+            "Text": "来拟定让醒目飞鹰在福岛、盛岡或者是新潟的比赛中，\n能拿下第一名并获得C位的计划吧……！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "女性粉丝A",
-            "Text": "啊……我失态了！是千叶县。\n你们能来中山赛场吗……？",
+            "Text": "啊……我失态了！是千叶县。\n你们能来中山或船桥赛场吗……？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -239,7 +239,7 @@
         },
         {
             "Name": "独白",
-            "Text": "来拟定让醒目飞鹰在中山的比赛中，\n能拿下第一名并获得C位的计划吧……！",
+            "Text": "来拟定让醒目飞鹰在中山或船桥的比赛中，\n能拿下第一名并获得C位的计划吧……！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -318,6 +318,44 @@
             "Text": "来拟定让醒目飞鹰在小仓的比赛中，\n能拿下第一名并获得C位的计划吧……！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
+        },
+        {
+            "Name": "女性粉丝A",
+            "Text": "啊……我失态了！是神奈川县。\n你们能来川崎赛场吗……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "哇～～是神奈川耶♪\n那儿有音乐之街，\n感觉会很刺激☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "训练员，飞鹰子好想去哦～",
+            "ChoiceDataList": [
+                "我会试着调整行程的！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "太好了♪那么我会努力站上C位的，\n要继续支持我哦☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "醒目飞鹰答应粉丝\n要在其故乡举行胜者舞台。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "来拟定让醒目飞鹰在川崎的比赛中，\n能拿下第一名并获得C位的计划吧……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
         }
-    ]
-}
+      ]
+    }
