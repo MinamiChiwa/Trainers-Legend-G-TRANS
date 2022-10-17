@@ -70,18 +70,18 @@
 | 1026 | ささやかな祈り                    | 完全翻译√ | TV动画第二季、南千和           |
 | 1027 | 本能スピード                      | 完全翻译√ | 南千和                       |
 | 1028 | winning the soul                  | 完全翻译√ | 南千和                       |
-| 1029 | GIRLS' LEGEND U（特别Grand Live版）| 完全翻译√ | 毫毛                         |   
+| 1029 | GIRLS' LEGEND U（特别Grand Live版）| 完全翻译√ | 毫毛                         |
 | 1030 | 涙ひかって明日になれ！            | 完全翻译√ | *匿名萌娘百科用户 |
 | 1031 | BLAZE                             | 完全翻译√ | *雪村あおいaoi（Bilibili）    |
 | 1032 | ユメヲカケル！                    | 完全翻译√ | TV动画第二季、南千和         |
 | 1034 | ぴょいっと♪はれるや！             | 完全翻译√ | 南千和                       |
 | 1035 | WINnin’ 5 －ウイニング☆ファイヴ－ | 完全翻译√ | 南千和                       |
-| 1036 | GIRLS' LEGEND U                   | 完全翻译√ | 毫毛                         |  
+| 1036 | GIRLS' LEGEND U                   | 完全翻译√ | 毫毛                         |
 | 1037 | transforming                      | 完全翻译√ | *凉月crella（Bilibili）      |
 | 1048 | BLOW my GALE                      | 完全翻译√ | 南千和                       |
 | 1050 | We are DREAMERS!!                 | 完全翻译√ | 南千和                       |
 | 1051 | 笑顔の宝物 -Beyond The Future!-   | 完全翻译√ | *凉月crella（Bilibili）、毫毛 |
-| 1053 | Gaze on Me!                      |           |                              |
+| 1053 | Gaze on Me!                      | 待发布（待改进） | 南千和 |
 
 
 ## 角色及皮肤名
