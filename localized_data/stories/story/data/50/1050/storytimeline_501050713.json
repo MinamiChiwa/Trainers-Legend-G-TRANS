@@ -9,26 +9,26 @@
     },
     {
       "Name": "独白",
-      "Text": "トレーニング中にケガをした\r\nナリタタイシンを保健室に連れてきた。",
+      "Text": "因为大进在训练中受了伤，\r\n我连忙带她来了保健室。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大进",
-      "Text": "……だから、大げさすぎ。\r\nこのくらいのケガ、放っといても治る。",
+      "Text": "……就说你太小题大做了。\r\n这点儿小伤，放着不管就行。",
       "ChoiceDataList": [
         "但要是恶化了可就麻烦了。",
-        "それで悪化したら大変だよ",
+        "但要是恶化了可就麻烦了。",
         "好！那就训练再开吧！"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大进",
-      "Text": "……だから、大げさすぎ。\r\nこのくらいのケガ、放っといても治る。",
+      "Text": "……就说你太小题大做了。\r\n这点儿小伤，放着不管就行。",
       "ChoiceDataList": [
         "但要是恶化了可就麻烦了。",
-        "それで悪化したら大変だよ",
+        "但要是恶化了可就麻烦了。",
         "好！那就训练再开吧！"
       ],
       "ColorTextInfoList": []
@@ -41,16 +41,16 @@
     },
     {
       "Name": "成田大进",
-      "Text": "アンタ、\r\nそんなにアタシが貧弱に見えるワケ？",
+      "Text": "你觉得我就是那么软弱的家伙吗？！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大进",
-      "Text": "他のヤツより小さいから？\r\n細くてなよっちい体だから！？",
+      "Text": "难道就因为我个子比其他人小吗？！\r\n因为我的手脚比她们更脆弱吗！",
       "ChoiceDataList": [
         "是因为我担心你……",
-        "タイシンが心配なんだよ"
+        "是因为我担心你……"
       ],
       "ColorTextInfoList": []
     },
@@ -62,48 +62,48 @@
     },
     {
       "Name": "成田大进",
-      "Text": "心配する暇があるなら、\r\nトレーニングメニューの1つでも考えたら？",
+      "Text": "要是有空来担心我，\r\n还不如赶紧拟一份训练菜单出来！",
       "ChoiceDataList": [
-        "要是我准备新的菜单，你就会乖乖养伤吗？",
-        "考えたら治療してくれる？"
+        "这样的话你就会乖乖养伤吗？",
+        "这样的话你就会乖乖养伤吗？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "独白",
-      "Text": "それならば、\r\nいくらでも考えると意気込むと――",
+      "Text": "要是这样的话，\r\n哪怕是一千份训练菜单我都能写出来——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大进",
-      "Text": "いや、そういう意味じゃないし！\r\nちゃんと話聞いてた？",
+      "Text": "……不是！我不是这意思！\r\n你有在听我说话吗？！",
       "ChoiceDataList": [
-        "那当然！"
+        "有啊！"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大进",
-      "Text": "……はぁ。\r\n何かもうバカバカしくなってきた。",
+      "Text": "……哈……\r\n算了……老跟你争这个也挺蠢的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "独白",
-      "Text": "気抜けした様子のナリタタイシンは\r\nその後、ケガの治療を受けてくれたのだった。",
+      "Text": "大进一下子泄了气。\r\n之后，她也乖乖坐在床上养伤了……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "独白",
-      "Text": "自分の体を1番理解しているのは、\r\n自分自身だろう――そう思い、\nナリタタイシンの言葉を信じることにした。",
+      "Text": "俗话说，只有自己最清楚自己的身体状态。\r\n既然大进都这么说了，那我就相信她吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大进",
-      "Text": "ふん。\r\n最初からそう言えっての。",
+      "Text": "哼。我一开始不就这么说了吗。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -123,25 +123,25 @@
     },
     {
       "Name": "成田大进",
-      "Text": "うるさい……！\r\nまだ続けられる！",
+      "Text": "吵死了……！\r\n我还能继续跑！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大进",
-      "Text": "アタシはまだ走れる！\r\n走らなきゃ……ダメなんだ……！",
+      "Text": "我还能继续跑！\r\n我……还得继续跑下去才行……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "独白",
-      "Text": "ナリタタイシンの焦りも理解できるが、\r\nこのまま走らせ続けるのは危険だ。",
+      "Text": "虽然我理解大进此时的焦虑，\r\n但继续跑下去的话难免会遇上危险。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "独白",
-      "Text": "彼女をなんとかなだめ、\r\nトレーニングを早めに切り上げたのだった。",
+      "Text": "费劲口舌，\r\n我这才说服她提前结束了今天的训练。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -149,46 +149,46 @@
       "Name": "成田大进",
       "Text": "哈啊、哈啊……怎么样啊！",
       "ChoiceDataList": [
-        "ケガは本当に平気みたいだな",
-        "ケガは本当に平気みたいだね"
+        "看来这伤势真的不太影响呢……",
+        "看来这伤势真的不太影响呢……"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大进",
-      "Text": "当たり前。\r\nあんなので立ち止まってらんないし。",
+      "Text": "当然，\r\n我可不会因为这点小伤就驻足不前。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大进",
-      "Text": "他のヤツらに勝つためには、誰よりも多く\r\nトレーニングするしかないんだから。",
+      "Text": "为了能赢过其他人，\r\n我必须要比所有人都更刻苦地训练才行。",
       "ChoiceDataList": [
-        "でも自分の体は大事にしてほしい"
+        "不过我倒希望你能保护自己的身体啦。"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大进",
-      "Text": "はぁ……。\r\nアンタってホントおせっかい。",
+      "Text": "哈啊……\r\n你啊……真的是爱管闲事。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大进",
-      "Text": "いいから、\r\n四の五の言わずにトレーニングさせて。",
+      "Text": "好啦。\r\n与其说那些废话，快点继续训练吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大进",
-      "Text": "……強くなれば、\r\n余計な心配もしなくて済むでしょ。",
+      "Text": "……为了变强，\r\n就不该一直抱有这种多余的担心吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "独白",
-      "Text": "その後、ナリタタイシンに文句を言われつつ、\r\nトレーニングを最後まで行ったのだった。",
+      "Text": "之后，大进一边抱怨着，\r\n一边将训练进行到了最后。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

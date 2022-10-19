@@ -9,25 +9,25 @@
     },
     {
       "Name": "",
-      "Text": "ある朝。ナリタタイシンが、\r\n寮の前で誰かと話していた。",
+      "Text": "这天早上，\r\n我看见大进正在宿舍前和什么人交谈着。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "超级溪流",
-      "Text": "タイシンちゃん。それじゃあ気をつけてね。\r\nいってらっしゃい♪",
+      "Text": "那就路上小心哦，小进♪",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "超级溪流",
-      "Text": "それから～、脚少しひねったって\r\n言ってたけど、大丈夫？",
+      "Text": "对了～小进是不是说过自己不小心扭到脚了？\r\n现在没事了吧？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "超级溪流",
-      "Text": "お気に入りの医療用テープ、\r\nきらしてるって言ってたけど……。",
+      "Text": "我记得你还说自己的医用胶带已经用完了……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -53,16 +53,16 @@
     },
     {
       "Name": "成田大进",
-      "Text": "ルームメイトのスーパークリーク……さん。\r\n知ってたっけ？",
+      "Text": "我室友，超级溪流……同学。\r\n你认识的吧？",
       "ChoiceDataList": [
         "你们关系很好吗？",
-        "仲いいの？"
+        "你们关系很好吗？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大进",
-      "Text": "そう見える？\r\nまあ、前よりはそうかも。",
+      "Text": "看上去关系很好吗？\r\n……嘛，比起以前确实是好些了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -74,7 +74,7 @@
     },
     {
       "Name": "超级溪流",
-      "Text": "小进~乖孩子乖孩子~",
+      "Text": "小进～乖孩子乖孩子～",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -86,31 +86,31 @@
     },
     {
       "Name": "超级溪流",
-      "Text": "そういうわけじゃありませんよ～。\r\nほら、遠慮しないで……。",
+      "Text": "才不是啦～\r\n来吧，别客气……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大进",
-      "Text": "――！？\u3000近づくなっ！\r\n放っておいて、アタシを！",
+      "Text": "——？！别过来！\r\n你少来管我！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "超级溪流",
-      "Text": "欸？……那、那个~",
+      "Text": "诶？……那、那个……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大进",
-      "Text": "それから、しばらくはほとんど話さなくて、\r\nでも少しだけ話すようになって……。",
+      "Text": "之后有好长一段时间，我们都没和对方说过话。\r\n之后才稍微能说上些话……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大进",
-      "Text": "大概现在就是这种感觉吧。\n只是偶尔说说话。",
+      "Text": "大概现在就是这种感觉吧。\r\n只是偶尔说说话而已。",
       "ChoiceDataList": [
         "关系融洽些了？"
       ],
@@ -118,13 +118,13 @@
     },
     {
       "Name": "成田大进",
-      "Text": "別に。ただ我慢してるだけ。部屋で勝手に\r\nあれこれしてるけど、まあ迷惑じゃないし。",
+      "Text": "倒也不算，只是互相忍耐着对方罢了。\r\n虽然她还是会在房间里擅自跑来嘘寒问暖，\r\n但也算不上什么麻烦。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大进",
-      "Text": "こっちもケンカしたいわけじゃないから。\r\nほら、トレーニング行くんでしょ。",
+      "Text": "反正我也不想和她吵架，就随她了。\r\n好了，该去训练了吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -136,13 +136,13 @@
     },
     {
       "Name": "成田大进",
-      "Text": "あ、アンタ……。ちょっといい？\r\nクリークさん、まだ帰ってこなくて。",
+      "Text": "啊，是你啊……有空吗？\r\n溪流同学好像现在还没回宿舍。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大进",
-      "Text": "なんかあったのかな。他人だから\r\n放っておいてもいいけど、でも……。",
+      "Text": "是发生什么事情了吗……\r\n虽然不关我的事，但……",
       "ChoiceDataList": [
         "去找找看吧？",
         "多等一会吧。"
@@ -151,37 +151,37 @@
     },
     {
       "Name": "成田大进",
-      "Text": "……そだね。なんかに巻き込まれてると\r\n面倒だから、一応……。",
+      "Text": "……是呢。要她被卷进什么麻烦事就难办了。\r\n虽然很麻烦，但还是去找找吧……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大进",
-      "Text": "ん？\u3000誰か歩いてくる。\r\nあれは……。",
+      "Text": "嗯？好像有人过来了。\r\n是……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "玉藻十字",
-      "Text": "はあーあ……。クリーク、買いもん付き合う\r\n言うたのはウチやけど、辛抱たまらんわ。",
+      "Text": "嗨呀……虽然是咱让你来陪咱买东西啦，\r\n但咱可真得说说你了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "玉藻十字",
-      "Text": "なんで日用品買うのに、そんなこまごま\r\n選ぶんや？\u3000なんでもええやん。",
+      "Text": "为啥买个日用品都这么挑三拣四的啊？\r\n买啥都一样吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "超级溪流",
-      "Text": "そうはいきません。\r\nうちの子は繊細ですから。",
+      "Text": "这可不行呀。\r\n我们家那孩子可是相当纤细的哦～",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "超级溪流",
-      "Text": "1番合うのをこっそり。たまに『適当に\r\n選んでますよ～』って思わせるものも\n混ぜながら。",
+      "Text": "好好选出她最需要的东西，再在里面加一些\r\n像是『随便选出来的东西』……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -193,31 +193,31 @@
     },
     {
       "Name": "玉藻十字",
-      "Text": "なんちゅー面倒な。そんな付き合い方、\r\n疲れるだけやん。",
+      "Text": "听着都好麻烦啊。这种往来方式你不嫌累的？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "玉藻十字",
-      "Text": "早いとこ腹割って、さっさと打ち解けたら\r\nええんちゃうか？",
+      "Text": "你俩就不能早点互相说点儿掏心窝子的话，\r\n赶紧敞开心扉嘛？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "超级溪流",
-      "Text": "ううん、急がない方がいいって、\r\nわかってますから。",
+      "Text": "不行的哦～这种事情急不来的。\r\n我还是比较明白那孩子的哦。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "超级溪流",
-      "Text": "時間はかかるかもしれないけど、\r\nこのペースが1番。その分――",
+      "Text": "虽然可能会花点时间，但这样的节奏是最好的。\r\n这样一来——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "超级溪流",
-      "Text": "きっといつか、\r\n自然な笑顔、見せてくれるかなって。",
+      "Text": "总有一天，\r\n她一定会对我露出发自内心的笑容吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -229,7 +229,7 @@
     },
     {
       "Name": "玉藻十字",
-      "Text": "はあーあ、辛抱強いなクリークは。\r\n『ママは強し』ってヤツか？",
+      "Text": "唉……你真有耐心啊。\r\n这就是『为母则刚』嘛？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -241,7 +241,7 @@
     },
     {
       "Name": "成田大进",
-      "Text": "普通と思ってたもの、\r\n普通じゃなかったんだ……。",
+      "Text": "原以为不过是普普通通的行为，\r\n原来都是她深思熟虑后的……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -253,7 +253,7 @@
     },
     {
       "Name": "成田大进",
-      "Text": "……なんでもない。ただなんか……\r\n『自分、まだまだだな』って思った。\nそれだけ。",
+      "Text": "……没什么。只是……\r\n突然有种『我还早得很啊』的感觉。\r\n就这样。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -267,16 +267,16 @@
     },
     {
       "Name": "成田大进",
-      "Text": "いい。ここで待つ。\r\nアンタは部屋帰ったら？",
+      "Text": "不用。我就在这儿等她。\r\n你等不及的话可以先回去。",
       "ChoiceDataList": [
         "不，我陪你吧。",
-        "ううん、付き合う"
+        "不，我陪你吧。"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大进",
-      "Text": "……そう。\r\nならアタシと反対側、見てて。",
+      "Text": "……行吧。\r\n那你就站对面等吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -288,31 +288,31 @@
     },
     {
       "Name": "超级溪流",
-      "Text": "あら、タイシンちゃん。\r\nまさか帰りを待って……。",
+      "Text": "哎呀，小进……\r\n你在等我吗？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大进",
-      "Text": "そういうわけじゃない。\r\nただ、なんとなく……。",
+      "Text": "没有。\r\n只是……怎么说呢……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "超级溪流",
-      "Text": "ごめんなさい。医療用テープを探していたら、\r\nなかなか見つからなくて。",
+      "Text": "不好意思，我去找医用胶带了，\r\n稍微找得久了点儿……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "超级溪流",
-      "Text": "でもタイシンちゃんお気に入りの\r\n見つけたから♪",
+      "Text": "不过，我找到小进你喜欢的那款了哦♪",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大进",
-      "Text": "医療用……テープ……。\r\nアタシの……。",
+      "Text": "医用胶带……\r\n我喜欢的那款……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -324,13 +324,13 @@
     },
     {
       "Name": "超级溪流",
-      "Text": "欸？小进？",
+      "Text": "诶？小进？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大进",
-      "Text": "そんなので遅くなってたら、意味ないし。\r\nいらない、そんなの。",
+      "Text": "为了这种东西回来这么晚有什么意义？\r\n我又不需要。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -354,7 +354,7 @@
     },
     {
       "Name": "",
-      "Text": "――第二天。",
+      "Text": "——第二天。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -368,13 +368,13 @@
     },
     {
       "Name": "成田大进",
-      "Text": "テープ出して。\r\n使わないでしょ、アンタは。",
+      "Text": "……罢胶带给我吧，反正你也用不上。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大进",
-      "Text": "もらうもんは、もらっとく。\r\n昨夜、我慢して待った分。",
+      "Text": "……该收下的东西还是得收下。\r\n也算是……我等她这么久的报酬。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }
