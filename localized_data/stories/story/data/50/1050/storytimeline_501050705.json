@@ -17,16 +17,16 @@
       "Name": "成田大进",
       "Text": "我想去趟书店。",
       "ChoiceDataList": [
-        "可以呀，去吧！"
+        "可以呀，走吧！"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "ということで、書店のある\r\nショッピングモールまでやって来た。",
+      "Text": "就这样，我们一起来到了开有书店的商城。",
       "ChoiceDataList": [
         "你想买什么书啊？",
-        "何の本を買うの？"
+        "你想买什么书呢？"
       ],
       "ColorTextInfoList": []
     },
@@ -38,7 +38,7 @@
     },
     {
       "Name": "成田大进",
-      "Text": "……アンタには関係ない話。\r\nすぐ済ませるから、ここで待ってて。",
+      "Text": "……话说这跟你没关系吧。\r\n我马上就回来，在这儿等我一会儿。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -104,13 +104,13 @@
     },
     {
       "Name": "成田大进",
-      "Text": "その、さ。……そこの棚の本って、\r\nハヤヒデが集めてるシリーズで合ってる？",
+      "Text": "那个……那书架上的书，\r\n就是晨光正在收集的那系列的书对吧？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田白仁",
-      "Text": "む……ああ、そうだな。\r\n棚にずらずら並んでいたのを見た覚えがある。",
+      "Text": "呣……嗯，的确。\r\n我在她的书架里见过好几本。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -128,13 +128,13 @@
     },
     {
       "Name": "成田大进",
-      "Text": "ハヤヒデは……時々世話焼き過ぎでウザいし、\r\n話長いし、ややこしいヤツだなって思うけど。",
+      "Text": "晨光她……有时候是好管闲事，很啰嗦，\r\n是个唠叨又烦人的家伙……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大进",
-      "Text": "我也算受了她不少照顾……",
+      "Text": "但是……我也算受了她不少照顾……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -146,7 +146,7 @@
     },
     {
       "Name": "成田白仁",
-      "Text": "姉貴は、しばしば構ってき過ぎるし、\r\n言い回しが面倒だし、思考もややこしいが。",
+      "Text": "大姐她……有时候是太爱管闲事了。\r\n而且有时用的措辞很奇怪，思考方式也很跳脱。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -158,39 +158,39 @@
     },
     {
       "Name": "成田大进",
-      "Text": "……ねえ。アイツが好きそうな本、\r\n他にも見繕ってもらっていい？",
+      "Text": "……那……\r\n你能帮我再挑几本她可能喜欢的书吗？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田白仁",
-      "Text": "……倒也可以陪你一会。",
+      "Text": "……行吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "成田大进",
-      "Text": "就等。\n……我回来了。",
+      "Text": "久等。\r\n……我回来了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "……実は、ナリタブライアンとの会話は\r\nこちらにも聞こえていたのだが。",
+      "Text": "……实际上，\r\n我完完全全地听到了她和白仁的对话。",
       "ChoiceDataList": [
         "晨光会很高兴的哦。",
-        "……ああ、帰ろうか",
-        "……うん、帰ろっか"
+        "……嗯，走吧。",
+        "……嗯，走吧。"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "……実は、ナリタブライアンとの会話は\r\nこちらにも聞こえていたのだが。",
+      "Text": "……实际上，\r\n我完完全全地听到了她和白仁的对话。",
       "ChoiceDataList": [
         "晨光会很高兴的哦。",
-        "……ああ、帰ろうか",
-        "……うん、帰ろっか"
+        "……嗯，走吧。",
+        "……嗯，走吧。"
       ],
       "ColorTextInfoList": []
     },
@@ -202,13 +202,13 @@
     },
     {
       "Name": "成田大进",
-      "Text": "跟这一丁点关系都没有吧！\n我踹你哦！！",
+      "Text": "跟那家伙一丁点关系都没有吧！\r\n我踹你哦！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "……怒らせてしまったが、\r\nなんだかそれも含めて微笑ましいのだった。",
+      "Text": "虽然被大进骂了……\r\n就算如此，我也情不自禁地露出笑容。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -226,7 +226,7 @@
     },
     {
       "Name": "",
-      "Text": "その日の帰り道は、いつもより少しだけ\r\n話が弾んだような気がしたのだった。",
+      "Text": "这天的归途上，\r\n感觉大跟进的交流比平日里更顺畅了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }
