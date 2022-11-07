@@ -1,29 +1,29 @@
 {
-  "Title": "0",
-  "TextBlockList": [
-    {
-      "Name": "",
-      "Text": "",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "米浴",
-      "Text": "あの、もしお鼻がムズムズすることがあったら\r\nライスに言ってほしいな……。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "米浴",
-      "Text": "……福引すると、\r\nいつもティッシュもらう、から……\nたくさんあって……。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "米浴",
-      "Text": "だから、遠慮しないで使ってね？\r\n",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    }
-  ]
+    "Title": "0",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "那个，如果鼻子痒的话，\n希望可以跟米浴说……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "……每次参加抽奖，\n米浴总是会抽到面纸……\n所以累积了很多……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "所以不要客气，尽管用喔？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
 }

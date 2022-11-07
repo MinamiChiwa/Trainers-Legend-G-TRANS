@@ -1,35 +1,35 @@
 {
-  "Title": "0",
-  "TextBlockList": [
-    {
-      "Name": "",
-      "Text": "",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "超级溪流",
-      "Text": "あら、トレーナーさん。\nどちらに行かれるんですか～？",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "超级溪流",
-      "Text": "私はお友だちと待ち合わせを\r\nしているんですが……。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "超级溪流",
-      "Text": "約束を忘れて寝ていたらしくて。\nふふっ、うっかりさんですよね～。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "超级溪流",
-      "Text": "1時間くらいで来るそうなので、\nのんびり待つことにします～。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    }
-  ]
+    "Title": "0",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级小溪",
+            "Text": "哎呀，训练员。\n你要去哪里～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级小溪",
+            "Text": "我和朋友约好要见面……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级小溪",
+            "Text": "但对方好像忘了约定还睡到刚刚才醒。\n呵呵，很粗心对吧～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级小溪",
+            "Text": "好像要一个小时左右才会到，\n所以我要悠哉地等～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
 }

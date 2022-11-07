@@ -1,35 +1,35 @@
 {
-  "Title": "0",
-  "TextBlockList": [
-    {
-      "Name": "",
-      "Text": "",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "美浦波旁",
-      "Text": "はふはふっ……肉まんから……高温を、探知。\r\nバッドステータス『やけど』を、確認……。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "美浦波旁",
-      "Text": "しかし、トレーニングで消費したカロリーを\r\n補充するには、肉まん1個の完食が必須。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "美浦波旁",
-      "Text": "次のトレーニングまで……残り3分。\r\n食べきるため、『冷却』モードに移行します。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "美浦波旁",
-      "Text": "ふー……ふー……ふぅーーーーっ。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    }
-  ]
+    "Title": "0",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "呼呼……从肉包侦测到了……高温。\n确认负面状态“烫伤”……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "但训练消耗的热量\n必须靠吃完一整颗肉包来补充。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "距离下次训练……大概还有三分钟。\n为了能吃完肉包，将转换为“冷却”模式。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "呼……呼……呼────",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
 }
