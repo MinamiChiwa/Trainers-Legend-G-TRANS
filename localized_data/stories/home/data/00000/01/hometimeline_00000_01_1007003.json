@@ -1,35 +1,35 @@
 {
-  "Title": "0",
-  "TextBlockList": [
-    {
-      "Name": "",
-      "Text": "",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "黄金船",
-      "Text": "へいらっしゃい！\r\nキンキンに冷えたお湯がオススメだよ～！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "黄金船",
-      "Text": "グッツグツに沸騰させたお湯を\r\nガンッガンに冷やしたヤツ――",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "黄金船",
-      "Text": "――すなわち、ぬるい水ッ！！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "黄金船",
-      "Text": "常温、適温、低刺激！\r\n体に優しい冷たくもあったかくもねえ水っ！\n今が買いだよ～～っ！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    }
-  ]
+    "Title": "0",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "欢迎！\n现在很推荐透心凉的热水喔～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "将咕噜咕噜地沸腾的滚水，\n像有如结冰般迅速冷却──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "──简单来说，就是温水！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "常温、适温、不刺激！\n对身体有益，不冷也不热的水！\n现在就买得到喔～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
 }
