@@ -1003,5 +1003,6 @@
 | [Danke schön] | [Danke schön]荣进闪耀 |
 | [GLAD TIDINGS] | [GLAD TIDINGS]成田白仁 |
 | [Are you merry?] | [Are you merry?]气槽 |
+| [ここからはDon't stop!] | [从这里开始Don't stop!]樱花桂冠 |
 | [Welcome to Umayuru] | [Welcome to Umayuru]谷野美酒 |
 | [駆けよ、駆けよ、駆けよ！！] | [疾驰啊、疾驰啊、疾驰啊！！]小栗帽 |
