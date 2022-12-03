@@ -580,7 +580,7 @@
 | 0017 | 鉄翼蒸気奇譚                          | 铁翼蒸汽奇谭                     |      |      |
 | 0018 | デイズ・イン・ア・フラッシュ           | Days in a Flash                 |      |      |
 | 0019 | おもいより、おもいかけ                 | 同心而聚，同心而驰              |      |      |
-| 0020 | Illuminate the Heart                 | Illuminate the Heart           |      |      |
+| 0020 | Illuminate the Heart                 | Illuminate the Heart           | 完全翻译√ | 双枪(Bilibili)、シイー(Bilibili) |
 
 
 ### 周年庆剧情
