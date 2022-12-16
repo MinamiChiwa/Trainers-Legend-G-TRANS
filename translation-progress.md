@@ -580,7 +580,7 @@
 | 0017 | 鉄翼蒸気奇譚                          | 铁翼蒸汽奇谭                     |      |      |
 | 0018 | デイズ・イン・ア・フラッシュ           | Days in a Flash                 |      |      |
 | 0019 | おもいより、おもいかけ                 | 同心而聚，同心而驰              |      |      |
-| 0020 | Illuminate the Heart                 | Illuminate the Heart           | 完全翻译√ | 双枪(Bilibili)、シイー(Bilibili) |
+| 0020 | Illuminate the Heart                 | Illuminate the Heart           | 完全翻译√ | *双枪狙击twoguns（Bilibili）、 *シイー(Bilibili) |
 
 
 ### 周年庆剧情
@@ -618,7 +618,7 @@
 | ------ | ---------- | --------- | ----- |
 | 100101 | 特别周     | Komoe     | Komoe |
 | 100102 | 特别周     | Komoe     | Komoe |
-| 100103 | 特别周     |           |       |
+| 100103 | 特别周     | Komoe     | Komoe、*双枪狙击twoguns（Bilibili） |
 | 100201 | 无声铃鹿   | Komoe     | Komoe |
 | 100301 | 东海帝王   | Komoe     | Komoe |
 | 100302 | 东海帝王   |           |       |
