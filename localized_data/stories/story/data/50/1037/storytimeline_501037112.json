@@ -18,19 +18,19 @@
             "Text": "──你是说温泉旅行？",
             "ChoiceDataList": [
                 "是啊",
-                "嗯"
+                "对啊"
             ],
             "ColorTextInfoList": []
         },
         {
             "Name": "",
-            "Text": "之前抽到大奖后，旅游券由我保管。\n我告诉她既然比赛暂时告一段落，\n差不多该用掉了。",
+            "Text": "之前抽到旅游券后由我保管。\n我告诉她既然比赛暂时告一段落，\n差不多该用掉了。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "荣进闪耀",
-            "Text": "……说得也是。\n可以把它安排到预定中了吧。",
+            "Text": "……说得也是。\n可以把它安排到计划中了吧。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -46,8 +46,8 @@
             "Name": "荣进闪耀",
             "Text": "可是……\n那天预定要研究比赛影片。",
             "ChoiceDataList": [
-                "但没写着要在哪研究吧？",
-                "但没写着要在哪研究吧？"
+                "但没写说要在哪研究吧？",
+                "但没写说要在哪研究吧？"
             ],
             "ColorTextInfoList": []
         },
@@ -59,19 +59,19 @@
         },
         {
             "Name": "荣进闪耀",
-            "Text": "是的。行程表没有写到\n“从事活动的场所”。",
+            "Text": "是的。行程表没有写到\n“要在哪研究”。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "荣进闪耀",
-            "Text": "我知道了。\n我们就那天去温泉吧！",
+            "Text": "我知道了。\n我们就那天去泡温泉吧！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "",
-            "Text": "因此──",
+            "Text": "就这样──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -97,7 +97,7 @@
         },
         {
             "Name": "荣进闪耀",
-            "Text": "我本来预定重复入浴，一次泡100秒……\n但似乎泡太久了。",
+            "Text": "我本来预定反复入浴，一次泡100秒……\n但似乎泡太久了。",
             "ChoiceDataList": [
                 "你很享受温泉呢",
                 "你很享受温泉呢"
@@ -106,7 +106,7 @@
         },
         {
             "Name": "荣进闪耀",
-            "Text": "是的。\n我都忘记日本的温泉非常地热了……",
+            "Text": "是的。\n我都忘记日本的温泉温度非常高了……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -126,7 +126,7 @@
         },
         {
             "Name": "荣进闪耀",
-            "Text": "不冷，我没事。\n甚至觉得这样比较舒服……",
+            "Text": "不冷，我没事。\n我反而觉得这样比较舒服……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -169,13 +169,13 @@
         },
         {
             "Name": "荣进闪耀",
-            "Text": "……那请再听我多说几句话。",
+            "Text": "……那请再听我说几句话。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "荣进闪耀",
-            "Text": "今后，\n我会彻底追求正确又完美的自己。",
+            "Text": "今后，我还是会\n彻底追求正确又完美的自己。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -187,7 +187,7 @@
         },
         {
             "Name": "荣进闪耀",
-            "Text": "我不能认同，还在追求过程中的，\n不够成熟的自己。",
+            "Text": "我不能认同，这个过程中\n不够成熟的自己。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -207,8 +207,8 @@
             "Name": "荣进闪耀",
             "Text": "我……就能继续前进。",
             "ChoiceDataList": [
-                "我一直都很认同你哦",
-                "我一直都很认同你哦"
+                "我一直都很认同你喔",
+                "我一直都很认同你喔"
             ],
             "ColorTextInfoList": []
         },
@@ -220,7 +220,7 @@
         },
         {
             "Name": "荣进闪耀",
-            "Text": "第一次相遇的那天……\n我想逞强，结果失败了。",
+            "Text": "第一次相遇的那天……\n我想逞强，结果却失败了。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -238,7 +238,7 @@
         },
         {
             "Name": "荣进闪耀",
-            "Text": "现在这段时间，是我们日积月累后建造的……\n天堂呢。",
+            "Text": "现在的时光，是我们日积月累打造而成的……\n天堂呢。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
