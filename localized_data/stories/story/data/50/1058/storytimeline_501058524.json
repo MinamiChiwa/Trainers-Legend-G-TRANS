@@ -9,7 +9,7 @@
         },
         {
             "Name": "独白",
-            "Text": "某天，我像平常一样前往训练的时候──",
+            "Text": "某天，\n当我像平常一样要去协助训练时──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -21,25 +21,25 @@
         },
         {
             "Name": "独白",
-            "Text": "看到名将怒涛在笑。",
+            "Text": "看到名将怒涛笑个不停。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "名将怒涛",
-            "Text": "不、不是那样的！\n这是因为──",
+            "Text": "不、不是那样的！\n这是，该怎么说──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "听她解释我才知道……原来是她衣服\n都洗坏了，内里起了不少毛球。",
+            "Text": "我一问之下……才知道她似乎是因为\n衣服都洗坏了，导致内里起了不少毛球。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "名将怒涛",
-            "Text": "所、所以我总觉得粗粗的又好痒……！",
+            "Text": "所、所以穿上衣服后，\n才会莫名地感到刺刺的又好痒……！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -51,7 +51,7 @@
         },
         {
             "Name": "独白",
-            "Text": "话是这么说，但无法专心的话，\n恐怕很难进行训练。",
+            "Text": "话是这么说，但要是无法专心的话，\n恐怕会很难进行训练。",
             "ChoiceDataList": [
                 "我今天放你一天假，你去买衣服吧"
             ],
@@ -59,7 +59,7 @@
         },
         {
             "Name": "名将怒涛",
-            "Text": "咦咦！？不、不，可是……\n我可以跑步没问题，你放心──",
+            "Text": "咦咦！？真、真的吗，可是……\n我可以跑步没问题的，你放心──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -92,7 +92,7 @@
         },
         {
             "Name": "名将怒涛",
-            "Text": "不、不行不行！这表示我分心了……！\n干劲……我得拿出干劲才行……！",
+            "Text": "不、不行不行！我这样就是分心了……！\n干劲……我得拿出干劲才行……！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -104,7 +104,7 @@
         },
         {
             "Name": "好歌剧",
-            "Text": "哎呀，怒涛感觉很开心的样子！\n那我也不能输给她！好──",
+            "Text": "哎呀，怒涛感觉很开心的样子嘛！\n那我也不能输给她！好──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -134,7 +134,7 @@
         },
         {
             "Name": "独白",
-            "Text": "──虽然状况一大堆，\n名将怒涛还是顺利完成了训练！",
+            "Text": "──就这样，尽管发生一堆状况，\n但名将怒涛依然顺利地完成了训练！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -155,19 +155,19 @@
         },
         {
             "Name": "名将怒涛",
-            "Text": "再说，我觉得自己比平常\n受到了更多锻炼……！",
+            "Text": "再说，我总觉得自己跟平常相比，\n好像受到了更多的锻炼……！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "名将怒涛",
-            "Text": "或许算是因祸得福吧……\n嘿嘿嘿……",
+            "Text": "或许，这就是因祸得福吧……\n欸嘿嘿……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "总之，这件事似乎替名将怒涛\n带来了成长！",
+            "Text": "无论如何，这件事似乎给\n名将怒涛带来了成长！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -187,7 +187,7 @@
         },
         {
             "Name": "名将怒涛",
-            "Text": "我、我不要紧。只要我专心一点，\n想必就不会发痒了……！",
+            "Text": "我、我不要紧。只要我专心一点，\n想必就不会发痒了才是……！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -201,7 +201,7 @@
         },
         {
             "Name": "名将怒涛",
-            "Text": "呜呜，好痛哦──",
+            "Text": "呜呜，好痛喔──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -227,7 +227,7 @@
         },
         {
             "Name": "名将怒涛",
-            "Text": "！\n这、这样啊。说得……也是哦……！",
+            "Text": "！\n这、这样啊。说得……也是喔……！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
