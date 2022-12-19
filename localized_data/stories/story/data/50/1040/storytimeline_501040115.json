@@ -1,5 +1,5 @@
 {
-    "Title": "愤怒与压抑",
+    "Title": "愤怒与停滞",
     "TextBlockList": [
         {
             "Name": "",
@@ -17,7 +17,7 @@
             "Name": "黄金城市",
             "Text": "呼……呼……呼……",
             "ChoiceDataList": [
-                "辛苦了，来休息吧！"
+                "辛苦了，休息一下吧！"
             ],
             "ColorTextInfoList": []
         },
@@ -29,16 +29,16 @@
         },
         {
             "Name": "黄金城市",
-            "Text": "我还一点都不累耶，\n是不是太轻松啦？",
+            "Text": "我还一点都不累耶，\n是不是太轻松了？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "黄金城市",
-            "Text": "给我更多负荷啦，\n我必须变得比现在强很多才行……！",
+            "Text": "加大训练强度吧。\n我必须成长得比现在更强才行……！",
             "ChoiceDataList": [
-                "别焦急",
-                "别焦急"
+                "别心急",
+                "别心急"
             ],
             "ColorTextInfoList": []
         },
@@ -50,7 +50,7 @@
         },
         {
             "Name": "黄金城市",
-            "Text": "我才没在焦急。",
+            "Text": "我才没心急。",
             "ChoiceDataList": [
                 "你要去哪里！？",
                 "你要去哪里！？"
@@ -59,13 +59,13 @@
         },
         {
             "Name": "黄金城市",
-            "Text": "去做一下缓和运动而已！\n我立刻回来！",
+            "Text": "去做一下缓和运动而已！\n我很快就回来！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "黄金城市",
-            "Text": "……唉。\n把气出在别人身上，逊爆了……",
+            "Text": "……唉。\n竟然把气出在别人身上，逊爆了……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -77,7 +77,7 @@
         },
         {
             "Name": "玉藻十字",
-            "Text": "别傻傻地晃进赛道好吗！\n这样很危险吧！？",
+            "Text": "别傻傻地闯进赛道好吗！\n这样很危险耶！？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -89,7 +89,7 @@
         },
         {
             "Name": "玉藻十字",
-            "Text": "真是的，小心点！",
+            "Text": "真是的，小心点啊！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -119,19 +119,19 @@
         },
         {
             "Name": "黄金城市",
-            "Text": "好强的气魄……",
+            "Text": "好惊人的魄力……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "黄金城市",
-            "Text": "……不好意思！\n玉藻前辈，我也……！",
+            "Text": "……那个！\n玉藻前辈，我也……！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "黄金城市没有回来，\n当我前去查看时──",
+            "Text": "因为黄金城市迟迟没有回来，\n所以我前去看看情况，却发现──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -161,13 +161,13 @@
         },
         {
             "Name": "玉藻十字",
-            "Text": "不过跑得很棒呢。\n果然有对手比较能激发斗志！",
+            "Text": "不过你跑得很棒呢。\n果然有对手比较能激发斗志啊！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "黄金城市",
-            "Text": "……看来你还有余力嘛。\n既然这样就再来一趟──",
+            "Text": "……看来你还挺从容嘛。\n既然这样再来一趟──",
             "ChoiceDataList": [
                 "城市！"
             ],
@@ -175,19 +175,19 @@
         },
         {
             "Name": "黄金城市",
-            "Text": "……\n训练员。",
+            "Text": "……唔。\n训练员。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "玉藻十字",
-            "Text": "──咦，所以才在休息中逃跑，\n最后误入我的赛道了啊。",
+            "Text": "──喔～所以才在休息中逃跑，\n然后误闯进我的赛道啊。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "玉藻十字",
-            "Text": "难怪那个训练员\n会摆出一脸小狗不吃饭时的表情了。",
+            "Text": "这也难怪那个训练员\n会摆出一副像小狗不肯吃饭时的表情了。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -199,7 +199,7 @@
         },
         {
             "Name": "黄金城市",
-            "Text": "但现在没时间休息了吧。\n必须要逼得更紧，让我变得更强才行……！",
+            "Text": "但现在，我根本没时间休息啊。\n必须把自己逼得更紧，好变得更强才行……！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -211,7 +211,7 @@
         },
         {
             "Name": "玉藻十字",
-            "Text": "不过，因为这样就不休息的话实在有点～\n亏你长得这么漂亮，你还挺倔强的呢",
+            "Text": "不过，因为这样就不休息实在有点～\n亏你长得这么漂亮，没想到还挺倔强的呢",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -247,7 +247,7 @@
         },
         {
             "Name": "玉藻十字",
-            "Text": "大家都有不想听到的话语。\n就算是赞美也一样。",
+            "Text": "大家都有不想听到的话。\n就算是赞美也一样。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -259,19 +259,19 @@
         },
         {
             "Name": "玉藻十字",
-            "Text": "不过这也不代表什么就是了。\n要是让你不舒服，我向你道歉。",
+            "Text": "虽然这也不代表什么就是了。\n要是让你不舒服，我向你道歉。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "黄金城市",
-            "Text": "……我也要说抱歉，\n我刚才反应过度了。",
+            "Text": "……我也要说抱歉，\n是我反应过度了。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "黄金城市",
-            "Text": "我很清楚，\n玉藻前辈你看的是我的跑姿。",
+            "Text": "玉藻前辈你看的是我的跑姿，\n我很清楚。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -283,7 +283,7 @@
         },
         {
             "Name": "黄金城市",
-            "Text": "抱歉占用你的时间。\n可以的话下次也──",
+            "Text": "抱歉占用你的时间。\n可以的话下次再──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -295,7 +295,7 @@
         },
         {
             "Name": "玉藻十字",
-            "Text": "你是为何而跑？",
+            "Text": "你是为了什么而跑的？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -307,31 +307,31 @@
         },
         {
             "Name": "黄金城市",
-            "Text": "为了让大家肯定我。\n我要让四周所有的人，见识真正的我！",
+            "Text": "为了让大家肯定我。\n我要让身边所有的人见识真正的我！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "冰蓝色的眼瞳火热地燃烧着。\n玉藻十字看到后……",
+            "Text": "冰蓝色的眼中，正燃烧着激昂的意志。\n而玉藻十字看到后……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "玉藻十字",
-            "Text": "哈哈！！\n挺不错的嘛，你果然很有趣！",
+            "Text": "哈哈！！\n不错嘛，你果然很有趣！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "玉藻十字",
-            "Text": "我之所以要跑，就是为了获胜。\n我要赢一堆比赛，让家人过好日子，\n这件事我绝对不会让步！！",
+            "Text": "我之所以跑步，是为了赢。\n我要赢一堆比赛，让家人过好日子，\n这点我绝不退让！！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "玉藻十字",
-            "Text": "不过我现在还完全没有得到认同。\n我得先让大家知道我的存在。\n这点我也跟你一样……！",
+            "Text": "但因为现在还完全没有得到认同，\n所以我得先让大家知道我的存在。\n跟你是一样的……！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -343,7 +343,7 @@
         },
         {
             "Name": "独白",
-            "Text": "两人默默地看着对方，\n然后……微微地笑了出来。",
+            "Text": "两人默默地看着对方，\n然后……露出了微笑。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -367,7 +367,7 @@
         },
         {
             "Name": "玉藻十字",
-            "Text": "……因为我太晚出道了。\n还在调整中。",
+            "Text": "……因为我太晚出道了。\n现在还在调整呢。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -379,13 +379,13 @@
         },
         {
             "Name": "黄金城市",
-            "Text": "……哈。\n这是我要说的。",
+            "Text": "……哈。\n那是我要说的。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "玉藻十字的存在，\n或许能令黄金城市有所成长……\n眼前的一幕令我有了如此预感。",
+            "Text": "玉藻十字的存在，\n或许能令黄金城市有所成长……\n眼前的一幕令我涌出如此预感。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         }

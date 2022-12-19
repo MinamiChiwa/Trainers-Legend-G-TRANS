@@ -9,13 +9,13 @@
         },
         {
             "Name": "荣进闪耀",
-            "Text": "谢谢你陪我外出。\n今天过得很充实，我恢复精神了。",
+            "Text": "谢谢你陪我外出。\n今天过得很充实，感觉恢复精神了。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "荣进闪耀",
-            "Text": "那么我就先走了，\n我接下来还有预定行程──",
+            "Text": "那么我就先走了，\n我接下来还有其他计划──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -27,21 +27,21 @@
         },
         {
             "Name": "荣进闪耀",
-            "Text": "距离集合时间还有5分10秒。\n你早到了，真是稀奇呢，佐敦。",
+            "Text": "距离集合时间还有5分10秒。\n你早到了，真是稀奇呢，乔登。",
             "ChoiceDataList": [
-                "你的预定行程该不会是……"
+                "你说的计划该不会是……"
             ],
             "ColorTextInfoList": []
         },
         {
             "Name": "荣进闪耀",
-            "Text": "是的。我预定要跟佐敦一起玩。\n不过……",
+            "Text": "是的。我计划跟乔登一起玩。\n不过……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "荣进闪耀",
-            "Text": "佐敦。\n你还没告诉我今天打算去哪里呢？",
+            "Text": "乔登，\n你还没告诉我今天打算去哪里呢？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -65,13 +65,13 @@
         },
         {
             "Name": "荣进闪耀",
-            "Text": "竟然这么随便……佐敦，\n所谓的预定就是该于事前好好规划──",
+            "Text": "竟然这么随便……乔登，\n所谓的计划就是该事先好好规划──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "东瀛佐敦",
-            "Text": "不，才不随便呢！我跟你说，\n“总之卡拉OK”是一种日本文化哦。",
+            "Text": "不，才不随便呢！我跟你说，\n“总之去卡拉OK”是一种日本文化喔。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -83,7 +83,7 @@
         },
         {
             "Name": "东瀛佐敦",
-            "Text": "对对对！顺便告诉你，这可是常识哦。\n就是这样啦，快走吧。",
+            "Text": "对对对！顺便告诉你，这可是常识喔。\n就是这样啦，快走吧。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -95,7 +95,7 @@
         },
         {
             "Name": "东瀛佐敦",
-            "Text": "啊～唱得好痛快。\n下一首换闪耀哦～",
+            "Text": "啊～唱得好痛快。\n下一首换闪耀喔～",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -118,7 +118,7 @@
         },
         {
             "Name": "荣进闪耀",
-            "Text": "……抱歉。\n我一直在思考\n“总之卡拉OK”这种文化。",
+            "Text": "……抱歉。\n我一直在思考\n“总之去卡拉OK”这种文化。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -130,13 +130,13 @@
         },
         {
             "Name": "荣进闪耀",
-            "Text": "我来留学前已先学习了最新潮的日本文化。\n……不，我原本是这么以为的。",
+            "Text": "我在留学前，就已经学了最新潮的日本文化。\n……不，我原本是这么以为的。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "荣进闪耀",
-            "Text": "可是日本的进步速度\n似乎比我想像中还快。",
+            "Text": "可是日本进步的速度太快，\n超乎了我的想像。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -150,14 +150,14 @@
             "Name": "东瀛佐敦",
             "Text": "……糟、糟糕……她真的消沉下去啦。\n欸……怎么办呢？",
             "ChoiceDataList": [
-                "只要从现在起开始学习就好",
-                "只要从现在起开始学习就好"
+                "从现在开始学习就好",
+                "从现在开始学习就好啦"
             ],
             "ColorTextInfoList": []
         },
         {
             "Name": "东瀛佐敦",
-            "Text": "对，没错没错～！潮流什么的，\n大家都是去试试之后才学会的啊。",
+            "Text": "对，没错没错～！潮流什么的，\n大家都是试过才学会的啊。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -169,7 +169,7 @@
         },
         {
             "Name": "荣进闪耀",
-            "Text": "那么……就唱这首排行第一的J-POP曲，\n恋……“恋爱的上升坡道”吧！",
+            "Text": "那么……就唱这首排行第一的J-POP歌曲，\n恋……《恋爱的上升坡道》吧！",
             "ChoiceDataList": [
                 "我来帮你打拍子！",
                 "还是唱熟悉的歌比较好吧"
@@ -202,13 +202,13 @@
         },
         {
             "Name": "东瀛佐敦",
-            "Text": "好啦，第一次的“总之卡拉OK”\n有什么感想？",
+            "Text": "好啦，第一次的“总之去卡拉OK”\n有什么感想？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "荣进闪耀",
-            "Text": "这个嘛……\n我好像稍微能理解“总之卡拉OK”\n为何能在日本蔚为文化了。",
+            "Text": "这个嘛……\n我好像稍微能理解“总之去卡拉OK”\n为何能在日本蔚为文化了。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -229,19 +229,19 @@
         },
         {
             "Name": "荣进闪耀",
-            "Text": "…………随口说……的吗？",
+            "Text": "…………随口说说……的吗？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "东瀛佐敦",
-            "Text": "啊……与其说随口……\n“总之卡拉OK”是随兴想到的。",
+            "Text": "啊……与其说是随口……\n“总之去卡拉OK”是随兴想到的。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "东瀛佐敦",
-            "Text": "……所以算是种玩笑话？",
+            "Text": "……算是一种乔登玩笑？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -253,7 +253,7 @@
         },
         {
             "Name": "东瀛佐敦",
-            "Text": "就是嘛～不要逞强，\n唱自己常唱的歌比较开心哦！",
+            "Text": "就是嘛～不要逞强，\n唱自己常唱的歌比较开心喔！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -261,7 +261,7 @@
             "Name": "荣进闪耀",
             "Text": "那……我可以唱德国童谣吗？\n我最常唱的歌也只有童谣了。",
             "ChoiceDataList": [
-                "机台里点得到吗？"
+                "点得到吗？"
             ],
             "ColorTextInfoList": []
         },
@@ -273,13 +273,13 @@
         },
         {
             "Name": "荣进闪耀",
-            "Text": "其中最有名的是“青蛙之歌”。",
+            "Text": "其中最有名的是《青蛙之歌》。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "东瀛佐敦",
-            "Text": "真假？那首歌是德国歌？\n我也会唱耶。",
+            "Text": "真假？那首是德国歌？\n我也会唱耶。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -299,7 +299,7 @@
         },
         {
             "Name": "东瀛佐敦",
-            "Text": "好啦，第一次的“总之卡拉OK”\n有什么感想？",
+            "Text": "好啦，第一次的“总之去卡拉OK”\n觉得怎么样？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },

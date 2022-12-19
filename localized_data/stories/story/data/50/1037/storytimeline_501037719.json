@@ -1,5 +1,5 @@
 {
-    "Title": "认真确认行程",
+    "Title": "仔细确认行程",
     "TextBlockList": [
         {
             "Name": "",
@@ -9,7 +9,7 @@
         },
         {
             "Name": "荣进闪耀",
-            "Text": "到训练前还有些时间……\n稍微确认一下行程吧。",
+            "Text": "距离训练还有些时间……\n稍微确认一下行程吧。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -33,7 +33,7 @@
         },
         {
             "Name": "荣进闪耀",
-            "Text": "不对，增加其他天的自主训练时间，\n时数就不会减少了吧。前一周的预定是……",
+            "Text": "不对，如果增加其他天的自主训练时间，\n时数就不会减少了吧。前一周的计划是……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -45,7 +45,7 @@
         },
         {
             "Name": "荣进闪耀",
-            "Text": "看来还是全部重来，\n从零开始安排行程比较好。",
+            "Text": "看来干脆全部重来，\n从零开始安排行程比较好。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },

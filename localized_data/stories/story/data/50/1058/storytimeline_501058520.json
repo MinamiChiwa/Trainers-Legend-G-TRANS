@@ -9,13 +9,13 @@
         },
         {
             "Name": "",
-            "Text": "当我来到图书室要查资料的时候，\n看到名将怒涛她们在这里。",
+            "Text": "当我因为想查点资料而顺道前往图书馆时，\n发现了名将怒涛她们也在这里。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "名将怒涛",
-            "Text": "难道没有解套的办法吗～～？",
+            "Text": "难道没有解套的方法吗～～？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -23,8 +23,8 @@
             "Name": "待兼福来",
             "Text": "唔唔唔……Shiraoki大人的谕示不容置疑！\n结果是无法改变的……！",
             "ChoiceDataList": [
-                "你怎么一脸凝重？",
-                "你怎么一脸凝重？"
+                "你们看起来一脸凝重啊",
+                "你们看起来一脸凝重呢"
             ],
             "ColorTextInfoList": []
         },
@@ -54,13 +54,13 @@
         },
         {
             "Name": "待兼福来",
-            "Text": "……不过，这次的占卜结果\n应该会指引出一条未来的明路……！",
+            "Text": "……不过，这个占卜的结果，\n应该会指引出通往未来的明路……！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "待兼福来",
-            "Text": "好了，翻译谕示内容吧！\n怒涛，轮到你发挥语言专长了！",
+            "Text": "好了，翻译谕示内容吧！\n轮到怒涛发挥你的语言专长咯！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -72,7 +72,7 @@
         },
         {
             "Name": "名将怒涛",
-            "Text": "我不晓得该怎么表达才好……\n我想不出怎么写才不会伤到对方。",
+            "Text": "因为，我不晓得该怎么表达才好……\n我想不出该怎么写才不会伤害到对方。",
             "ChoiceDataList": [
                 "我认为坦白告诉对方就好"
             ],
@@ -86,7 +86,7 @@
         },
         {
             "Name": "名将怒涛",
-            "Text": "说说、说得也是哦。不好意思、不好意思！\n我居然说出这种话，怀疑你的占卜……\n啊呜呜……",
+            "Text": "说说、说得也是喔。不好意思、不好意思！\n我居然说得像是在怀疑福来的占卜似地……\n啊呜呜……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -110,13 +110,13 @@
         },
         {
             "Name": "名将怒涛",
-            "Text": "呜呜……那个…………\n这、这是我的愿望，没有非得做到不可……",
+            "Text": "呜呜……那个…………\n没、没有非得做到不可，但如果可以……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "名将怒涛",
-            "Text": "其、其实是我想加上\n这句“谚语”……这样……",
+            "Text": "我、我想要像这样，\n加上……这一句……“谚语”……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -148,47 +148,47 @@
             "Name": "名将怒涛",
             "Text": "如、如果还能再加上一句\n“我会为你的挑战加油打气”就好了……",
             "ChoiceDataList": [
-                "这句话会带给人勇气啊",
-                "这句话会带给人勇气呢"
+                "是能带给人勇气的一句话语啊",
+                "是能带给人勇气的一句话语呢"
             ],
             "ColorTextInfoList": []
         },
         {
             "Name": "名将怒涛",
-            "Text": "是、是的！……当我因为失败而沮丧的时候，\n爸妈都会讲这句话鼓励我。",
+            "Text": "是、是的！……当我因失败而沮丧时，\n我爸妈都会讲这句话来鼓励我。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "名将怒涛",
-            "Text": "现在也一样，只要我感到泄气，就会在脑中\n复诵。如此一来，我就会觉得许许多多的\n失败有了一点回报……！",
+            "Text": "现在也一样，当我感到泄气时，就会在脑中\n复诵。如此一来，我就会觉得在许许多多的\n失败当中也像是有、有了一点回报……！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "名将怒涛",
-            "Text": "啊！但、但不用勉强加进去哦！\n或许会因为我的突发奇想……\n而而、而导致对方误会了占卜结果……！？",
+            "Text": "啊！但、但请不用勉强加进去喔！\n搞不好会因为我的突发奇想……\n而而、而导致对方误会了占卜结果……！？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "待兼福来",
-            "Text": "不会不会！你这段话可以感受到开运能量！\n就加上英文版的“失败为成功之母”吧！",
+            "Text": "不会不会！那是能感受到开运能量的话语！\n就加上英文版的“失败为成功之母”吧！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "名将怒涛",
-            "Text": "这、这样不要紧吗？\n……我开始觉得好像在教训人家了。",
+            "Text": "这、这样不要紧吗？\n……我开始觉得好像是对人家说教了。",
             "ChoiceDataList": [
                 "就直说无妨！",
-                "可能再婉转一点比较好……"
+                "可能再婉转一点会比较好……"
             ],
             "ColorTextInfoList": []
         },
         {
             "Name": "名将怒涛",
-            "Text": "既然连你都这么说的话……\n那、那就加上去吧～",
+            "Text": "既然连训练员都这么说的话……\n那、那就请容我加上去吧～",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -200,19 +200,19 @@
         },
         {
             "Name": "待兼福来",
-            "Text": "啊，收到回信了！\n麻烦你翻译！",
+            "Text": "啊，收到回信了！\n要麻烦你翻译咯！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "名将怒涛",
-            "Text": "我看看……\n上面写“谢谢你，我会勇敢\n挑战，不怕失败的！”这样……！",
+            "Text": "呃，我看看……\n上面写“谢谢你。我会勇敢挑战，\n不会怕失败的！”这样……！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "待兼福来",
-            "Text": "哦哦！谚语的能量\n也确实传达给对方了！",
+            "Text": "喔喔！看来谚语的能量也有\n确实地传达给对方了呢！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -224,43 +224,43 @@
         },
         {
             "Name": "",
-            "Text": "看到委托人态度积极的回应，\n名将怒涛显得很开心。",
+            "Text": "看到委托人那态度积极的回应，\n让名将怒涛似乎显得十分开心。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "名将怒涛",
-            "Text": "说、说得也是哦……\n呃，既然这样的话……",
+            "Text": "说、说得也是喔……\n呃，既然这样的话……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "待兼福来",
-            "Text": "多加几句解释怎么样！\n比方像是介绍Shiraoki大人过去的谕示！",
+            "Text": "再多加几句解释怎么样！\n比方说像是介绍Shiraoki大人过去的谕示！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "名将怒涛",
-            "Text": "说得……也是。或许再加上开场白或注释\n会比较理想……！",
+            "Text": "说得……也是。再加上开场白，\n还有注解等内容可能会比较理想……！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "",
-            "Text": "于是改良过后所完成的──\n是一叠媲美短篇小说的报告纸。",
+            "Text": "于是在改良过后所完成的──\n是一叠媲美短篇小说的报告用纸。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "名将怒涛",
-            "Text": "要要、要请对方读这叠东西吗？",
+            "Text": "要要、要请对方读这一叠东西吗？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "待兼福来",
-            "Text": "感觉他就算看了，\n也没办法完整理解占卜结果……",
+            "Text": "感觉他就算读了，大概也没办法\n完整理解占卜的结果……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -272,7 +272,7 @@
         },
         {
             "Name": "",
-            "Text": "之后名将怒涛修改了无数次，\n才终于完成了一段可以接受的文章。",
+            "Text": "之后名将怒涛在经过无数次的修改，\n才终于完成了一段可以接受的文章。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         }

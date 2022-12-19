@@ -9,13 +9,13 @@
         },
         {
             "Name": "独白",
-            "Text": "某天我来到速食店，\n在这里巧遇了名将怒涛。",
+            "Text": "某天当我顺路前往速食店时，\n在那里巧遇了名将怒涛。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "名将怒涛",
-            "Text": "训练员，你来用餐吗？\n我是被大树约来的～",
+            "Text": "训练员是来用餐吗？\n我是接受大树的邀约才来的～",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -27,19 +27,19 @@
         },
         {
             "Name": "大树快车",
-            "Text": "让你久等了～☆\nOh，你的训练员也来啦！",
+            "Text": "让你久等了～☆\nOh，怒涛的训练员也来啦！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "大树快车",
-            "Text": "正好！\nLet's eat togeter！",
+            "Text": "那正好！\nLet's eat togeter！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "大树快车一说完，\n就把汉堡堆到桌上。",
+            "Text": "大树快车一说完，\n就把汉堡全都堆到了桌上。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -57,7 +57,7 @@
         },
         {
             "Name": "大树快车",
-            "Text": "这份蕴含了感谢的礼物……\n我命名为“汉堡TOWER”，请用！",
+            "Text": "这份灌注了感谢的礼物……\n我命名为“Hamburger Tower”，请用！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -69,7 +69,7 @@
         },
         {
             "Name": "大树快车",
-            "Text": "太好了！但你别勉强，\n吃不完的份还请你外带哦！",
+            "Text": "太好了！但你别太勉强，\n吃不完的份还请你要To go喔！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -81,34 +81,34 @@
         },
         {
             "Name": "名将怒涛",
-            "Text": "回应你的心意！！",
+            "Text": "来回应大树的心意！！",
             "ChoiceDataList": [
-                "控制在可以吃得开心的量吧！",
-                "心怀感谢地全部吃掉吧"
+                "控制在可以好好品尝的量吧！",
+                "心怀感激地全部吃掉吧"
             ],
             "ColorTextInfoList": []
         },
         {
             "Name": "名将怒涛",
-            "Text": "啊呜……说、说得也是哦。\n我会仔细品尝这份难得的礼物！",
+            "Text": "啊呜……说、说得也是喔。\n我会仔细品尝这份难得的礼物！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "大树快车",
-            "Text": "Yes！\n吃得delicious才happy！",
+            "Text": "Yes！\n吃得delicious才happy嘛！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "名将怒涛",
-            "Text": "好、好的。我要开动了！\n……嘿嘿嘿。",
+            "Text": "好、好的。我要开动了！\n……欸嘿嘿。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "名将怒涛似乎好好享用了一顿汉堡大餐\n而没有吃得太撑！",
+            "Text": "名将怒涛似乎好好地享用了一顿汉堡大餐，\n而且还没有吃得太撑！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -132,7 +132,7 @@
         },
         {
             "Name": "独白",
-            "Text": "名将怒涛以吃到垮的气势，\n把汉堡通通吃光光了。",
+            "Text": "名将怒涛以吃到垮的气势，\n把汉堡全都吃光了。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         }

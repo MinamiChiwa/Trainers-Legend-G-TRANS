@@ -15,7 +15,7 @@
         },
         {
             "Name": "",
-            "Text": "我听到一声大叫，立刻冲往电子游乐场。\n大叫的人似乎是胜利奖券。",
+            "Text": "我听到一声大叫，便是立刻冲往游戏厅。\n大叫的人似乎是胜利奖券。",
             "ChoiceDataList": [
                 "发生什么事了？",
                 "发生什么事了吗？"
@@ -24,7 +24,7 @@
         },
         {
             "Name": "胜利奖券",
-            "Text": "这款体感游戏我没办法破关啦！\n明明我身体就很灵活的说～～！！",
+            "Text": "这款体感游戏我没办法破关！\n我运动神经明明很好的说～～！！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -36,7 +36,7 @@
         },
         {
             "Name": "特别周",
-            "Text": "但我们差不多该回去了吧？\n已经玩很久了！",
+            "Text": "但我们差不多该回去了吧？\n已经玩满久了的！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -48,19 +48,19 @@
         },
         {
             "Name": "特别周",
-            "Text": "嗯──不能下次再挑战吗？",
+            "Text": "嗯～不能下次再挑战吗？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "胜利奖券",
-            "Text": "可是！我们今天一起吃好吃的圣代、\n一起买很多东西，还在公园一起搭小船！\n今天不是玩得超开心吗！！",
+            "Text": "因为！我们今天一起吃了好吃的圣代、\n买了很多东西，还在公园搭了小船！\n今天不是玩得超开心吗！！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "胜利奖券",
-            "Text": "所以我想要带着笑容来结束这一天！\n把今天变成完美的一天！！",
+            "Text": "所以我想要带着笑容结束这天！\n大家一起为今天留下完美的回忆嘛！！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -72,13 +72,13 @@
         },
         {
             "Name": "大和赤骥",
-            "Text": "呵呵呵，\n那就三个人再一起挑战一次吧！",
+            "Text": "呵呵呵，\n那我们三个就再挑战一次吧！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "",
-            "Text": "三个人站在大屏幕的前面。\n屏幕上出现巨龙后，\n便开始了激烈的攻防战！",
+            "Text": "三个人站到了大屏幕前。\n之后屏幕上出现巨龙，\n激烈的攻防战便就此展开！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -114,25 +114,25 @@
         },
         {
             "Name": "看起来很强的龙",
-            "Text": "咿咿咿咿咿咿咿！！",
+            "Text": "呜嘎啊啊啊啊啊啊啊啊！！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "大和赤骥",
-            "Text": "……你、你干嘛跑过来救我啊！\n我继续当诱饵就能赢的说！",
+            "Text": "……你、你干嘛跑过来救我啊！\n我继续当诱饵就能破关的说！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "胜利奖券",
-            "Text": "我才不要牺牲赤骥！\n一定要三个人都存活过关，\n才能成为回忆啊！！",
+            "Text": "我不想牺牲赤骥！\n要是我们当中少了一个人，\n就没办法留下完美的回忆了啊！！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "胜利奖券",
-            "Text": "回想起今天的时候，三个人都要觉得很开心！\n这样才算完美的回忆啦────！！",
+            "Text": "回想起今天时，三个人都会露出笑容！\n这样才算完美的回忆啊────！！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -150,7 +150,7 @@
         },
         {
             "Name": "特别周",
-            "Text": "我也希望今天能成为完美的回忆！\n一起努力到最后吧！",
+            "Text": "我也想让今天成为完美的回忆！\n一起战斗到最后吧！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -162,7 +162,7 @@
         },
         {
             "Name": "特别周",
-            "Text": "太、太棒了──！成功咯！\n我们只要联手就是无敌的！！",
+            "Text": "太、太棒了──！成功啦～！\n只要我们联手就是无敌的！！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -176,32 +176,32 @@
             "Name": "胜利奖券",
             "Text": "呜哇啊啊啊！\n大家都超棒的啦──！！",
             "ChoiceDataList": [
-                "真是太好了",
+                "真是太好了呢",
                 "真是太好了呢"
             ],
             "ColorTextInfoList": []
         },
         {
             "Name": "胜利奖券",
-            "Text": "谢谢──！\n我一辈子都不会忘记这一天！\n这是我最棒的回忆────！！",
+            "Text": "谢谢──！\n我一辈子都不会忘记这天！\n这是最完美的回忆了────！！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "大和赤骥",
-            "Text": "对了！要不要大家\n一起拍拍贴来当作纪念？",
+            "Text": "对了！要不要干脆一起拍拍贴\n来纪念我们成功破关？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "胜利奖券",
-            "Text": "呜呜呜呜呜！\n可以看着照片回想今天也太棒了吧──！！",
+            "Text": "呜喔喔喔喔喔──！\n可以看着照片回想今天也太棒了吧──！！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "大和赤骥",
-            "Text": "呵呵呵，你再这样下去，\n就只会记得你今天的哭哭脸了哦？",
+            "Text": "呵呵呵，你再这样下去，\n就得用哭脸留下回忆了哦？",
             "ChoiceDataList": [
                 "笑容、笑容！",
                 "先冷静一下好了？"
@@ -210,37 +210,37 @@
         },
         {
             "Name": "胜利奖券",
-            "Text": "呜呜，我也想冷静下来啊，\n可是眼泪就一直不停地流出来嘛──！！",
+            "Text": "呜呜，我也想啊，\n可是眼泪就一直不停地流出来嘛──！！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "特别周",
-            "Text": "哭哭脸也没关系！\n喜极而泣也是最棒的回忆呀！",
+            "Text": "哭脸也没关系啊！\n我觉得喜极而泣也是最棒的回忆！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "胜利奖券",
-            "Text": "呜哇啊啊啊──！\n小特的温柔体贴也好棒──！！",
+            "Text": "呜哇啊啊啊──！\n小特的温柔也是最棒的了──！！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "",
-            "Text": "于是，胜利奖券就这样红着眼眶拍贴。\n拍出充满感动氛围的照片！",
+            "Text": "于是，胜利奖券就这样红着眼眶\n跟大家一起拍贴。\n听说她们拍出了充满感动氛围的照片！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "特别周",
-            "Text": "啊，要不要去吃点什么？\n我肚子快要饿扁了！",
+            "Text": "啊，接下来要不要去吃点什么？\n我肚子快要饿扁了！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "特别周",
-            "Text": "呃，要两个汉堡套餐，\n还有特大鸡块……然后还要──",
+            "Text": "嗯～要两个汉堡套餐，\n还有特大份鸡块……然后还要──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -252,7 +252,7 @@
         },
         {
             "Name": "大和赤骥",
-            "Text": "因为特别周的胃根本就是异度空间……\n若跟着她一起吃，我可不管会变成怎样哦？",
+            "Text": "不，那只是因为特别周的胃根本就是异次元……\n我可不管会变成怎样哦？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },

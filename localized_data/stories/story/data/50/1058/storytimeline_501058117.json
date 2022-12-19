@@ -9,7 +9,7 @@
         },
         {
             "Name": "独白",
-            "Text": "名将怒涛来来回回跑了许多趟坡道。",
+            "Text": "名将怒涛来来回回地，\n跑了一趟又一趟的坡道。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -39,13 +39,13 @@
         },
         {
             "Name": "独白",
-            "Text": "我和爱慕织姬使了个眼色。\n我必须把该告诉怒涛的事情讲清楚。",
+            "Text": "我和爱慕织姬用眼神互相示意。\n我们必须把该告诉怒涛的事情讲清楚。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "名将怒涛",
-            "Text": "织姬，我该怎么做才好呢？\n好歌剧认同我了，\n但我跑得好像不怎么好……",
+            "Text": "织姬，我该怎么做才好呢？\n好歌剧认同了我之后，\n我好像反而跑得不怎么好……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -63,7 +63,7 @@
         },
         {
             "Name": "爱慕织姬",
-            "Text": "因为你一直在撒娇。你搞错了应该打败的对象。",
+            "Text": "因为你一直在撒娇。你搞错了要打败的对手。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -75,7 +75,7 @@
         },
         {
             "Name": "名将怒涛",
-            "Text": "咦……\n织姬……你说应该打败的对象是……",
+            "Text": "咦……\n织姬……你说应该打败的对手是……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -99,7 +99,7 @@
         },
         {
             "Name": "爱慕织姬",
-            "Text": "训练员，你来说是谁。",
+            "Text": "训练员，你说是谁？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -111,10 +111,10 @@
         },
         {
             "Name": "名将怒涛",
-            "Text": "训练员，\n那个……我该打败的人是……",
+            "Text": "训练员，\n那个……我该打败的对手是……",
             "ChoiceDataList": [
                 "就是好歌剧",
-                "就是好歌剧哦"
+                "就是好歌剧喔"
             ],
             "ColorTextInfoList": []
         },
@@ -126,7 +126,7 @@
         },
         {
             "Name": "独白",
-            "Text": "风──不再吹拂了。",
+            "Text": "风──停下了。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -138,24 +138,24 @@
         },
         {
             "Name": "名将怒涛",
-            "Text": "这样……不对吧？\n我的确偶尔会赢过她没错啦。",
+            "Text": "那个……是不是搞错了啊？\n我偶尔是有可能会赢过她没错啦。",
             "ChoiceDataList": [
-                "没有错"
+                "没有搞错"
             ],
             "ColorTextInfoList": []
         },
         {
             "Name": "名将怒涛",
-            "Text": "不对……啦……\n好歌剧她可是……",
+            "Text": "不对……啦……\n毕竟好歌剧她是……",
             "ChoiceDataList": [
-                "可是你应该超越的劲敌",
-                "可是你应该超越的劲敌哦"
+                "她是你应该超越的劲敌",
+                "她是你应该超越的劲敌对吧"
             ],
             "ColorTextInfoList": []
         },
         {
             "Name": "名将怒涛",
-            "Text": "好歌剧不是我的劲敌。\n她是我憧憬的目标……",
+            "Text": "好歌剧不是我的劲敌。\n她是……我憧憬的目标～",
             "ChoiceDataList": [
                 "就是劲敌",
                 "是劲敌！"
@@ -176,31 +176,31 @@
         },
         {
             "Name": "名将怒涛",
-            "Text": "好歌剧她……她和训练员\n都是我永远不变的伙伴……",
+            "Text": "好歌剧她……\n就只有她和训练员，\n是我永远不变的伙伴……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "名将怒涛",
-            "Text": "我一直一直……\n都很崇拜她……\n想变得像她一样……",
+            "Text": "我一直一直……\n都很崇拜她……\n想变得像她那样……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "名将怒涛",
-            "Text": "好歌剧她说我相当耀眼，\n给了我信心啊……",
+            "Text": "明明好歌剧她不但说我相当耀眼，\n还给了我信心啊……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "爱慕织姬",
-            "Text": "既然如此，你那份信心──",
+            "Text": "既然如此，怒涛，你的那份信心──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "爱慕织姬",
-            "Text": "一旦好歌剧不在就会消失了，对吧？\n这样你可以接受吗？",
+            "Text": "一旦好歌剧不在的话就会消失对吧？\n这样你可以接受吗？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -218,7 +218,7 @@
         },
         {
             "Name": "爱慕织姬",
-            "Text": "就是──让人恨得牙痒痒的自信。\n好歌剧绝对不会把希望寄托在别人身上。",
+            "Text": "就是──那让人恨得牙痒痒的自信。\n好歌剧绝对不会把希望寄托在别人身上。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -230,7 +230,7 @@
         },
         {
             "Name": "爱慕织姬",
-            "Text": "刚开始……或许那样也无妨。\n不过──我们的季节已经变了。",
+            "Text": "刚开始……或许即使那样也无妨。\n不过──我们四周的季节已经变了。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -242,7 +242,7 @@
         },
         {
             "Name": "爱慕织姬",
-            "Text": "再说，若你不做点改变，\n好歌剧也同样会被逼上绝境。",
+            "Text": "况且，你若是不做点改变，\n好歌剧也同样会被逼上绝境。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -254,7 +254,7 @@
         },
         {
             "Name": "爱慕织姬",
-            "Text": "记得那个遥远的夏天……\n好歌剧曾经说过。",
+            "Text": "记得那个遥远的夏天……\n好歌剧曾经说过吧。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -266,7 +266,7 @@
         },
         {
             "Name": "爱慕织姬",
-            "Text": "你不振作，大家就会随着这个梦想一起沉沦，\n永远没有实现它的一天。",
+            "Text": "那梦想会无论如何都无法实现，\n最后跟着她一同殒落。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -278,31 +278,31 @@
         },
         {
             "Name": "名将怒涛",
-            "Text": "怎么会……照这样下去……\n只会回到过去那个样子……",
+            "Text": "怎么会……这样下去的话……\n只会走上回头路……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "名将怒涛",
-            "Text": "我得拿出不惜打败好歌剧的气魄……\n才能避免那种状况发生……",
+            "Text": "我得拿出不惜打败好歌剧的气魄……\n才能避免那种情况发生……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "名将怒涛",
-            "Text": "啊呜呜，这我根本办不到啊。\n这点……再怎么说……也太……",
+            "Text": "啊呜呜，可是，就只有这点我根本办不到啊。\n就只有这点……再怎么说……也太……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "名将怒涛",
-            "Text": "我怎么可能用这种态度面对她呢────\n训练员────",
+            "Text": "我怎么可能建立得起那种心态呢────\n训练员────",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "我必须一步步、谨慎地卸下\n名将怒涛的心防……",
+            "Text": "我得一步一步、谨慎地，\n去卸下名将怒涛的心防才行……",
             "ChoiceDataList": [
                 "你不想变回原本的自己，对吧？"
             ],
@@ -312,7 +312,7 @@
             "Name": "名将怒涛",
             "Text": "呜……这个……",
             "ChoiceDataList": [
-                "你想变得耀眼动人，对吧？"
+                "你想变得十分耀眼，对吧？"
             ],
             "ColorTextInfoList": []
         },
@@ -320,88 +320,88 @@
             "Name": "名将怒涛",
             "Text": "呜呜呜，是的……可是，可是可是……",
             "ChoiceDataList": [
-                "这也算是在对好歌剧报恩"
+                "这也能当成是在报答好歌剧"
             ],
             "ColorTextInfoList": []
         },
         {
             "Name": "名将怒涛",
-            "Text": "对好歌剧报恩……\n我……",
+            "Text": "报答好歌剧……\n我……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "名将怒涛",
-            "Text": "但是……但是……！",
+            "Text": "可是……可是……！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "就差一步了。尽管名将怒涛\n过去都躲在好歌剧背后，\n却也有稳定地在前进。",
+            "Text": "就差最后一步了。尽管名将怒涛\n过去都躲在好歌剧的背后，\n但她也有稳定地在进步。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "名将怒涛或许确实不会“主动觉醒”。\n可是……",
+            "Text": "名将怒涛或许确实没有\n“靠自己主动觉醒”的经验。\n可是……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "名将怒涛",
-            "Text": "咦咦咦，我的身体还没进入\n成长期吗？呜……呜呜呜……",
+            "Text": "咦咦咦，我的身体还没\n进入成长期吗？呜……呜呜呜……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "名将怒涛",
-            "Text": "那我会一点一点地努力～！\n虽然可能办不到，但我会慢慢地……",
+            "Text": "那我会一点一滴地努力～！\n虽然可能办不到，但我会慢慢地……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "名将怒涛",
-            "Text": "不光是身体，连内心都还不到成长期……\n呜……呜呜呜……",
+            "Text": "不光是身体，连心灵都还不到成长期……\n呜……呜呜呜……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "名将怒涛",
-            "Text": "但我想做一些能帮助自己\n成长的事情。",
+            "Text": "但从现在起我想持续去做一些\n能帮助自己成长的事情。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "名将怒涛",
-            "Text": "呜呜呜，这是怎么了～？\n冲刺的时间并没有如我所想的变短～",
+            "Text": "呜呜呜，这是怎么了～？\n冲刺的时间并没有如我所想地变短～",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "名将怒涛",
-            "Text": "再一趟！拜托再一趟就好！\n我得设法解决这个问题……！",
+            "Text": "再一趟！拜托再让我一趟就好！\n我得设法解决这个问题才行……！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "不管是多么不成熟的时候，\n或是碰上多大的阻碍，名将怒涛她──",
+            "Text": "不管是面对还多么不成熟的自己，\n还是碰上多么大的阻碍，名将怒涛她──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "从来不曾“主动放弃过”。",
+            "Text": "从来都不曾“主动放弃过”。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "所以，这次也──",
+            "Text": "所以她这次也──",
             "ChoiceDataList": [
-                "你很强悍，应该不会放弃吧？",
-                "你很强悍，应该不会放弃吧？"
+                "你很强悍，所以才不能放弃对吧？",
+                "你很强悍，所以才不能放弃对吧？"
             ],
             "ColorTextInfoList": []
         },
@@ -431,13 +431,13 @@
         },
         {
             "Name": "独白",
-            "Text": "长久以来──埋藏在自卑感里的想法。\n“其实我想赢”。",
+            "Text": "在她心里──有个一直被埋在自卑感里的念头。\n就是“其实我想赢”。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "只要这个想法根深柢固，\n名将怒涛就不会裹足不前。\n就算走得再慢，她都能持续前进。",
+            "Text": "只要那个念头依然根深柢固，\n名将怒涛就不会裹足不前。\n就算走得再慢，她都能持续前进。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -449,13 +449,13 @@
         },
         {
             "Name": "名将怒涛",
-            "Text": "我、我很怕我们的关系产生变化……\n但是……",
+            "Text": "虽、虽然我很怕我们一直以来的关系\n会发生变化……但是……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "名将怒涛",
-            "Text": "我还是会说！我要挑战……好歌剧！\n为了我跟她，我……我……我！\n非改变不可。",
+            "Text": "我会说的！我要向好歌剧……宣战！\n为了我自己，也为了好歌剧，我……\n我……我！非改变不可。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         }
