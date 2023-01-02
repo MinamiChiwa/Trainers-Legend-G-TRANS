@@ -8,7 +8,7 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "播报员",
+            "Name": "实况",
             "Text": "第一名是菱曙──！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
@@ -39,7 +39,7 @@
         },
         {
             "Name": "菱曙",
-            "Text": "耶嘿嘿！太棒了太棒了～！\n我赢啰～训练员～！",
+            "Text": "耶嘿嘿！太棒了太棒了～！\n我赢咯～训练员～！",
             "ChoiceDataList": [
                 "恭喜！"
             ],
@@ -77,15 +77,15 @@
         },
         {
             "Name": "",
-            "Text": "既然如此，下一场……\n我想让她在一哩赛事中获得GⅠ胜利！",
+            "Text": "既然如此，下一场……\n我想让她在英里赛事中获得GⅠ胜利！",
             "ChoiceDataList": [
-                "以“一哩冠军赛”为目标吧！"
+                "以“英里冠军赛”为目标吧！"
             ],
             "ColorTextInfoList": []
         },
         {
             "Name": "菱曙",
-            "Text": "咦！\n那是……一哩赛事中的大型比赛对吧！",
+            "Text": "咦！\n那是……英里赛事中的大型比赛对吧！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -103,7 +103,7 @@
         },
         {
             "Name": "",
-            "Text": "虽说如此，要从短距离直冲一哩的GⅠ\n仍旧令人有点不安。",
+            "Text": "虽说如此，要从短距离直冲英里的GⅠ\n仍旧令人有点不安。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -111,7 +111,7 @@
             "Name": "",
             "Text": "我打算先让她跑一场\n1400米左右的大型比赛。",
             "ChoiceDataList": [
-                "中间先跑一场“天鹅锦标赛”吧"
+                "中间先跑一场“天鹅锦标”吧"
             ],
             "ColorTextInfoList": []
         },

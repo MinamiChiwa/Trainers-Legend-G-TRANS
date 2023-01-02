@@ -1,5 +1,5 @@
 {
-    "Title": "迎向日本打比",
+    "Title": "迎向日本德比",
     "TextBlockList": [
         {
             "Name": "",
@@ -8,14 +8,14 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "播报员",
+            "Name": "实况",
             "Text": "──热爱闪耀系列赛的\n各位观众！！\n这个时刻终于来临了！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "播报员",
-            "Text": "今天的主赛事！\n是赛马娘的祭典！“日本打比”！！",
+            "Name": "实况",
+            "Text": "今天的主赛事！\n是赛马娘的祭典！“日本德比”！！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -27,7 +27,7 @@
         },
         {
             "Name": "丸善斯基",
-            "Text": "呵呵……看来今年的比赛也会很精采。\n光是这股气氛就让人忍不住兴奋起来！",
+            "Text": "呵呵……看来今年的比赛也会很精彩。\n光是这股气氛就让人忍不住兴奋起来！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -74,7 +74,7 @@
         },
         {
             "Name": "目白阿尔丹",
-            "Text": "我希望能把打比训练员\n这个称号送给你。",
+            "Text": "我希望能把德比训练员\n这个称号送给你。",
             "ChoiceDataList": [
                 "阿尔丹──"
             ],

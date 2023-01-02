@@ -36,7 +36,7 @@
         },
         {
             "Name": "同事训练员",
-            "Text": "<username>训练员。她们都是\n新手级的赛马娘，还是别继续增加负担比较好……",
+            "Text": "<username>训练员。她们都是\n新马级的赛马娘，还是别继续增加负担比较好……",
             "ChoiceDataList": [
                 "的确，谢谢你们今天愿意参加模拟赛"
             ],
@@ -200,7 +200,7 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "播报员",
+            "Name": "实况",
             "Text": "究竟会是哪一名赛马娘抢下女王的光环呢！\n18名赛马娘即将正式进入赛场！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
@@ -212,7 +212,7 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "播报员",
+            "Name": "实况",
             "Text": "接下来是在“宝冢纪念”成功战胜\n各个强敌的选手！\n东商变革也走进了赛场。",
             "ChoiceDataList": [],
             "ColorTextInfoList": [
@@ -267,19 +267,19 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "播报员",
+            "Name": "实况",
             "Text": "最前头在尝试甩开其他选手。\n她是否会就这么拿下女王宝座呢！但是外侧──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "播报员",
+            "Name": "实况",
             "Text": "……东商变革！\n东商变革从外侧追上来了！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "播报员",
+            "Name": "实况",
             "Text": "并排了！并排了！\n东商变革从外侧展开猛攻！\n东商变革拿下了第一名……第一名！！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
