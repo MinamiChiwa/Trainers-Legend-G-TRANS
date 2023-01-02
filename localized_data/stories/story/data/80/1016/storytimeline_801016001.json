@@ -1,5 +1,5 @@
 {
-    "Title": "学生会成员！",
+    "Title": "学生会干部！",
     "TextBlockList": [
         {
             "Name": "",
@@ -15,19 +15,19 @@
         },
         {
             "Name": "成田白仁",
-            "Text": "唉……这样差不多\n贴了三分之一左右吧。",
+            "Text": "唉……这样差不多才\n贴了三分之一左右吧。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "赛马娘A",
-            "Text": "副会长一个人\n要贴这么多海报……",
+            "Text": "副会长一个人\n要到处贴这么多海报……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "赛马娘B",
-            "Text": "真的耶……\n去告诉她想要帮忙好了。",
+            "Text": "真的耶……\n去跟她说想要帮忙好了。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -51,7 +51,7 @@
         },
         {
             "Name": "赛马娘A",
-            "Text": "好可怕的视线……\n就像在叫人不要靠近……",
+            "Text": "好锐利的眼神……\n就像在叫人不要靠近……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -78,7 +78,7 @@
         },
         {
             "Name": "成田白仁",
-            "Text": "我是学生会的成员，\n这也只是在工作而已。",
+            "Text": "我是学生会的成员，\n这也只是分内工作而已。",
             "ChoiceDataList": [
                 "没想到你是学生会成员……"
             ],
@@ -92,13 +92,13 @@
         },
         {
             "Name": "成田白仁",
-            "Text": "……话说回来，今天之内\n得把海报贴完才行。",
+            "Text": "……话说回来，\n今天得把海报贴完才行。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "成田白仁",
-            "Text": "听懂的话就让开。\n我没时间理你。",
+            "Text": "听懂的话就让开。\n我没空理你。",
             "ChoiceDataList": [
                 "要不要帮忙？",
                 "好像能增强体力",
@@ -108,7 +108,7 @@
         },
         {
             "Name": "成田白仁",
-            "Text": "听懂的话就让开。\n我没时间理你。",
+            "Text": "听懂的话就让开。\n我没空理你。",
             "ChoiceDataList": [
                 "要不要帮忙？",
                 "好像能增强体力",
@@ -118,7 +118,7 @@
         },
         {
             "Name": "成田白仁",
-            "Text": "不用了。我自己来。",
+            "Text": "不用了，我自己来。",
             "ChoiceDataList": [
                 "两个人一起做的话很快就结束了不是吗？",
                 "两个人一起做的话很快就结束了对吧？"
@@ -139,25 +139,25 @@
         },
         {
             "Name": "成田白仁",
-            "Text": "我顺时针、你逆时针绕着学园贴吧。\n懂了就动作快点。",
+            "Text": "我顺时针、你逆时针绕着学园贴吧。\n听懂了就动作快点。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "虽然态度很生硬，\n不过成田白仁还是\n利落地做着学生会的工作。",
+            "Text": "虽然态度很生硬，\n不过成田白仁还是\n俐落地做着学生会的工作。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "成田白仁",
-            "Text": "……或许是吧。",
+            "Text": "……或许吧。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "成田白仁",
-            "Text": "当作训练的话，\n就有点值得这么做了……",
+            "Text": "当作训练的话，\n做起来也挺有意义的……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -169,7 +169,7 @@
         },
         {
             "Name": "独白",
-            "Text": "即使是辛苦的劳动，成田白仁似乎也\n好好地做着学生会的工作。",
+            "Text": "即使是体力活，成田白仁似乎也\n认真地做着学生会的工作。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         }

@@ -1,0 +1,336 @@
+{
+    "Title": "我要试试看",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我跟目白多伯一起出门，在回程路上──\n购物中心前面不知为何有些吵杂。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "那是……气槽前辈？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "粉丝A",
+            "Text": "居然能跟你握手，太荣幸了……！\n真的很感谢你！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "粉丝B",
+            "Text": "我在最前排看了你之前的比赛……！\n你的表现就是名副其实的“女帝”……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "谢谢大家的支持。\n给我很大的鼓励。\n接下来不会辜负大家的期望，也会好好努力的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "粉丝C",
+            "Text": "太、太棒了……！\n接下来也可以跟我握手吗……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "气槽前辈，辛苦了。\n好惊人的粉丝人数呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "……喔，是多伯啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "有人愿意评价我很值得感激。\n为了报答粉丝的支持，我得抬头挺胸，\n持续往更高的目标迈进才行。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "……前辈果然很厉害呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "如果是我──一定没办法\n在粉丝面前表现得那么落落大方。",
+            "ChoiceDataList": [
+                "不需要那么妄自菲薄"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "毕竟你有自己的苦衷，那也没办法。\n而且我也能体会在一大群人面前紧张的心情。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "不过，别迷失了自己的本性。\n重要的是你自己想做的事──\n就这么简单。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "我想做的事……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "粉丝D",
+            "Text": "啊！是目白多伯！\n本人也好迷人～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "粉丝E",
+            "Text": "最近大家都在讨论！\n我也变成你的粉丝了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "我、我吗……！？\n确定不是气槽前辈……！？",
+            "ChoiceDataList": [
+                "你也是很有魅力的赛马娘啊",
+                "你也是很有魅力的赛马娘啊"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "吵、吵死了！\n别说这种话，只会让我心里更乱……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "不要连训练员都夸奖我……！\n只会让我更迷惘……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "……多伯，\n对于认可你的努力，支持着你的粉丝，\n你有什么想法？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "……多伯，\n对于认可你的努力，支持着你的粉丝，\n你有什么想法？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "……那个，我很开心有他们的支持。\n想好好向他们道谢……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "但即使如此，我还是没办法像前辈──",
+            "ChoiceDataList": [
+                "只要用自己现在能负荷的方式道谢就好",
+                "只要用自己现在能负荷的方式道谢就好",
+                "我会用尽全力替你加油的！",
+                "我会用尽全力替你加油的！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "但即使如此，我还是没办法像前辈──",
+            "ChoiceDataList": [
+                "只要用自己现在能负荷的方式道谢就好",
+                "只要用自己现在能负荷的方式道谢就好",
+                "我会用尽全力替你加油的！",
+                "我会用尽全力替你加油的！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "现在能负荷的……？",
+            "ChoiceDataList": [
+                "不需要一步登天，达到完美"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "没错。他们想要的是\n多伯以自己的方式表达出肺腑之言吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "训练员……气槽前辈……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "只要一步一步前进，总有一天你也能接近我……\n或你心中的理想形象吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "……我……会努力的。\n因为我已经下定决心……要有所成长……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "那、那个……各位粉丝……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "就、就算有你的加油……",
+            "ChoiceDataList": [
+                "再试着前进一步看看吧",
+                "不是要让爸爸为你感到骄傲吗"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "你的心意我很开心",
+            "ChoiceDataList": [
+                "再试着前进一步看看吧",
+                "不是要让爸爸为你感到骄傲吗"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "前进……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "啊……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "……哼。\n不、不用你说我也打算这样做。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "……嗯。这是能让我成长的机会，\n我不想后悔……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "我也会帮你加油喔，多伯。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "我也会帮你加油喔，多伯。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "只要一步一步前进，总有一天你也能接近我……\n或你心中的理想形象吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "那、那个……各位粉丝……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "……虽然我跟其他赛马娘相比，\n还有很多不足的地方──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "但我接下来也会继续加油……！\n然后，那个……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "感谢你们的支持……！\n我非常开心……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "粉丝E",
+            "Text": "……我、我也要感谢你！\n接下来也请继续加油！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "呵。\n看来不需要担心呢。",
+            "ChoiceDataList": [
+                "讲得太棒了喔！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "…………是喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "有、有吗……谢谢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "我正在改变对吧。\n虽然只有一点点……但一定有。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "虽然目白多伯表现出冷淡的态度，\n但她的表情却隐隐\n流露出开朗的样子。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "目白多伯道谢时，\n表情隐隐流露出开朗的样子。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

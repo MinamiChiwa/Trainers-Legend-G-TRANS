@@ -1,0 +1,50 @@
+{
+    "Title": "肤况不太好……",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我走在走廊上的时候，\n发现川上公主正在唉声叹气。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "啊啊！我一个公主的脸！竟然如此不堪入目！\n这怎么行呢～～！",
+            "ChoiceDataList": [
+                "怎么了吗？",
+                "怎么了？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "训练员，我跟你说！\n我昨天想要保养皮肤，就用了小黄瓜面膜──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "还同时试了泥巴面膜、茶面膜\n跟蜂蜜面膜……结果！皮肤就变得好粗糙！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "明明身为一个公主，就应该保持健康的容貌……\n我这样太丢人了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "川上公主\n很沮丧自己的肤况变差。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

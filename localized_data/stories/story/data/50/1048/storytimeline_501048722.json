@@ -1,0 +1,70 @@
+{
+    "Title": "因头痛而忧郁",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "当我有事去图书室时，\n刚好看到了岛川乔登。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "啊～～～好难受……又头痛了～",
+            "ChoiceDataList": [
+                "头痛？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "嗯～？什么嘛，是你啊～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "刚才请朋友教我功课后，\n头就开始痛起来了～",
+            "ChoiceDataList": [
+                "你刚刚在念书吗！？真了不起！",
+                "你刚刚在念书吗！？真了不起！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "你这是什么反应……真让人不爽……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "我朋友可是空出时间来教我的，\n这种时候我都会很认真！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "所以才会觉得累～\n没时间理会你。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "呜……！头又开始痛了～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "之后她的头痛拖了很久都没痊愈，\n成为烦恼的源头了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -8,14 +8,14 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "独白",
+            "Name": "",
             "Text": "和美浦波旁外出后踏上归途时──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "美浦波旁",
-            "Text": "Master，你还记得上次\n我们一起制造“重要的回忆”的事吗？",
+            "Text": "教练，你还记得上次\n我们一起制造“重要的回忆”的事吗？",
             "ChoiceDataList": [
                 "鬼抓人……"
             ],
@@ -23,13 +23,13 @@
         },
         {
             "Name": "美浦波旁",
-            "Text": "是。作战行动并未成功。\n只是徒增了Master的疲劳。",
+            "Text": "是。作战行动并未成功。\n只是徒增了教练的疲劳。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "美浦波旁",
-            "Text": "可以的话，\n下次我想要听听看Master的指示。",
+            "Text": "可以的话，\n下次我想要听听看教练的指示。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -40,19 +40,19 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "独白",
+            "Name": "",
             "Text": "虽说我本来就打算由我来提出其他方法──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "独白",
+            "Name": "",
             "Text": "……这么一说，\n我想起美浦波旁只要接触机器，\n就有很高几率导致机器故障。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "独白",
+            "Name": "",
             "Text": "如果能让她接触后不造成故障，\n就算是一起克服了难关，\n或许就能成为“重要的回忆”。",
             "ChoiceDataList": [
                 "像是可以正常接触机器的特训之类的"
@@ -67,31 +67,31 @@
         },
         {
             "Name": "美浦波旁",
-            "Text": "我至今还是无法理解“重要的回忆”\n要以什么作为依据去评断。\n但既然是Master的指示，我愿意尝试。",
+            "Text": "我至今还是无法理解“重要的回忆”\n要以什么作为依据去评断。\n但既然是教练的指示，我愿意尝试。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "美浦波旁",
-            "Text": "麻烦你了，Master。",
+            "Text": "麻烦你了，教练。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "独白",
+            "Name": "",
             "Text": "那天之后，\n我和美浦波旁很快便开始了这项特训。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "美浦波旁",
-            "Text": "只能煮出温水的电热水壶、\n破掉的电视屏幕、\n只会缓慢旋转的电风扇……",
+            "Text": "只能煮出温水的电热水壶、\n破掉的电视萤幕、\n只会缓慢旋转的电风扇……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "美浦波旁",
-            "Text": "谢谢Master。\n如果是本来就计划要淘汰的电器，\n我也能毫不犹豫地碰触了。",
+            "Text": "谢谢教练。\n如果是本来就计划要淘汰的电器，\n我也能毫不犹豫地碰触了。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -121,7 +121,7 @@
         },
         {
             "Name": "美浦波旁",
-            "Text": "屏幕──",
+            "Text": "萤幕──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -150,7 +150,7 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "独白",
+            "Name": "",
             "Text": "我们一台接一台尝试。\n每一台机器似乎都是在\n开启电源的瞬间就坏掉了。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
@@ -162,13 +162,13 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "独白",
+            "Name": "",
             "Text": "美浦波旁伸手要碰的那个目标──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "独白",
+            "Name": "",
             "Text": "……是我工作用的智能手机！\n不小心摆在特训用的机器旁了……！",
             "ChoiceDataList": [
                 "等一下！！！！！",
@@ -178,7 +178,7 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "独白",
+            "Name": "",
             "Text": "……是我工作用的智能手机！\n不小心摆在特训用的机器旁了……！",
             "ChoiceDataList": [
                 "等一下！！！！！",
@@ -189,7 +189,7 @@
         },
         {
             "Name": "美浦波旁",
-            "Text": "──判断那台智能手机是Master的私人物品，\n中断训练。",
+            "Text": "──判断那台智能手机是教练的私人物品，\n中断训练。",
             "ChoiceDataList": [
                 "好险啊……"
             ],
@@ -197,7 +197,7 @@
         },
         {
             "Name": "美浦波旁",
-            "Text": "Master，已经没有可以测试的机器了。\n要结束训练了吗？",
+            "Text": "教练，已经没有可以测试的机器了。\n要结束训练了吗？",
             "ChoiceDataList": [
                 "虽然很遗憾……"
             ],
@@ -225,7 +225,7 @@
         },
         {
             "Name": "美浦波旁",
-            "Text": "……没事。\nMaster的脸上有脏污。",
+            "Text": "……没事。\n教练的脸上有脏污。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -243,7 +243,7 @@
         },
         {
             "Name": "美浦波旁",
-            "Text": "却因为Master的行为，\n从回忆中确认到有力的情报。",
+            "Text": "却因为教练的行为，\n从回忆中确认到有力的情报。",
             "ChoiceDataList": [
                 "咦？"
             ],
@@ -256,7 +256,7 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "独白",
+            "Name": "",
             "Text": "美浦波旁没有再多说什么，\n只是静静地替我擦去脸上的脏污。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
@@ -269,31 +269,31 @@
         },
         {
             "Name": "美浦波旁",
-            "Text": "Master，\n那台智能手机是Master的私人物品吧？",
+            "Text": "教练，\n那台智能手机是教练的私人物品吧？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "美浦波旁",
-            "Text": "很抱歉，\n我太晚才察觉，指尖不小心碰到了。\n麻烦Master确认是否还正常。",
+            "Text": "很抱歉，\n我太晚才察觉，指尖不小心碰到了。\n麻烦教练确认是否还正常。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "独白",
+            "Name": "",
             "Text": "我小心地拿起，\n本该是开机状态的智能手机\n却是黑画面的状态。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "独白",
+            "Name": "",
             "Text": "……看来，\n好像是无法开机了。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "美浦波旁",
-            "Text": "我判断这会对Master的工作造成影响。\n请尽早修理。",
+            "Text": "我判断这会对教练的工作造成影响。\n请尽早修理。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -306,7 +306,7 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "独白",
+            "Name": "",
             "Text": "是我自己没有及时阻止。\n我这么安慰美浦波旁后，\n她静静地看着我。",
             "ChoiceDataList": [
                 "波旁？"
@@ -315,7 +315,7 @@
         },
         {
             "Name": "美浦波旁",
-            "Text": "……没事。\nMaster的脸上有脏污。",
+            "Text": "……没事。\n教练的脸上有脏污。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -333,7 +333,7 @@
         },
         {
             "Name": "美浦波旁",
-            "Text": "却因为Master的行为，\n从回忆中确认到有力的情报。",
+            "Text": "却因为教练的行为，\n从回忆中确认到有力的情报。",
             "ChoiceDataList": [
                 "咦？"
             ],
@@ -346,7 +346,7 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "独白",
+            "Name": "",
             "Text": "美浦波旁没有再多说什么，\n只是静静地替我擦去脸上的脏污。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []

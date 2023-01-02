@@ -1,0 +1,450 @@
+{
+    "Title": "新年参拜",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "新年。\n当我去神社参拜时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "好了，请用☆\n暖呼呼非常Buono喔～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "菱曙正与商店街人员\n一起发放甜酒。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "啊！是训练员～！\n新年快乐～！",
+            "ChoiceDataList": [
+                "新年快乐。那些甜酒是？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "这个啊，因为商店街在招募义工，\n所以我就来参加了～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "我们做了一大堆甜酒，\n正在分发给大家喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员A",
+            "Text": "小曙帮了我们很大的忙呢。\n因为她力气很大。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员B",
+            "Text": "之所以会准备甜酒以外的东西，\n也是小曙的点子喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员B",
+            "Text": "愿意拿甜酒的人比往年更多，\n真的让人很开心呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "耶嘿嘿。\n被称赞了～",
+            "ChoiceDataList": [
+                "甜酒以外？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "的确，仔细一看除了甜酒，\n还准备了咖啡与热巧克力。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "因为有的人不爱喝甜酒，\n所以我就想为那些人\n准备其他能温暖身体的东西～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "对了！\n我想请训练员喝想喝的饮料～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "你想喝哪一种？\n甜酒富含维他命很营养──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "咖啡的咖啡豆则是在商店街的咖啡厅买的。\n喝了以后会对一切充满干劲喔～♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "热巧克力也很推荐喔～\n让人感觉有一股特别的美味～",
+            "ChoiceDataList": [
+                "喝甜酒，补充丰富营养！",
+                "喝咖啡，对一切充满干劲！",
+                "喝热巧克力，获得特别的力量！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "我知道了～！\n喝了会从肚子暖到全身喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "说完，她把甜酒递给了我。\n有深度的甜味加上浓稠的口感，\n是一杯非常美味的甜酒！",
+            "ChoiceDataList": [
+                "好喝！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "太棒了～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "这是昨天大家一起准备的。\n超好玩的呢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "啊，对了！还有啊，那时候\n我们谈到了训练员的事喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员B",
+            "Text": "没错没错！她说你对她很重要，\n既温柔又可靠，还有──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员B",
+            "Text": "你吃她做的饭时，\n总是吃得津津有味的，对吧～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员C",
+            "Text": "就是啊～！小曙也说，\n做饭给训练员吃\n是件非常开心的事……对吧～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员B",
+            "Text": "好久没听到这么令人心跳加速的事，\n所以不小心聊得太起劲！真是抱歉喔～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "啊哈哈，大家一起热热闹闹的，\n超有趣的喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "不管怎样，看来她跟商店街的各位，\n共同度过了愉快的一天。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "了解～♪\n需要砂糖跟奶精吗～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "告诉她砂糖与奶精的量后，\n我拿到了一杯热呼呼的咖啡。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "那有深度的香气与风味十分独特，\n是一杯非常美味的咖啡。",
+            "ChoiceDataList": [
+                "好喝……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "太好了～\n我也很喜欢这种咖啡呢～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "我还买了一些咖啡豆，\n下次吃蛋糕时一起喝吧～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "参拜者",
+            "Text": "不好意思，\n可以给我一杯甜酒吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "啊，来了～♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "参拜者",
+            "Text": "……咦？\n你是小曙？没错吧！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "嗯，没错喔～\n啊，难不成你是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "参拜者",
+            "Text": "我是你的粉丝～！想说以为只是长得很像，\n没想到竟然是本人～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "参拜者",
+            "Text": "看过你的比赛后，我被那股强劲与魄力震撼到，\n很惊讶竟然有这样的选手，\n之后就完全迷上你了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "参拜者",
+            "Text": "我非常期待你跟微光在之后的\n“高松宫纪念”对决喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "耶嘿嘿，感觉好高兴又好难为情喔～\n谢谢你，我会加油的～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "之后，拿到甜酒的参拜者用力挥着手，\n满脸笑容地离开了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "热巧克力？\n训练员真是的，你也太有眼光了～♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "喝了可别美味到晕倒喔～呵呵。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "说完，她把热巧克力递给了我。\n那独特的浓厚风味非常地美味。",
+            "ChoiceDataList": [
+                "Buono！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "对吧～！\n我也超喜欢的～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "这时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "微光飞驹",
+            "Text": "咦！？\n是曙曙跟曙曙的训练员！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "哇啊！小光！\n新年快乐～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "微光飞驹",
+            "Text": "新年快乐！\n你们在做什么？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "这个嘛，我们正在发热饮喔～\n小光你也要来一杯吗～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "微光飞驹",
+            "Text": "是喔～！\n啊，那我要喝热巧克力──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "微光飞驹",
+            "Text": "呃，不行！我正在赶时间！\n今天的新年特别节目有英雄特辑！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "哎呀哎呀！\n这可不能错过呢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "微光飞驹",
+            "Text": "就是啊！\n所以我只是赶快来参拜一下而已！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "微光飞驹",
+            "Text": "所以不好意思，谢啦！\n你要加油喔，曙曙！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "嗯！\n晚点见～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "……小光她，许了什么愿呢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "希望她是为\n“高松宫纪念”而许愿～",
+            "ChoiceDataList": [
+                "就是啊",
+                "就是啊"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "啊，对了。\n训练员，你已经参拜过了吗～？",
+            "ChoiceDataList": [
+                "还没喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "真的吗？\n那我可以一起去吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "我想跟训练员一起许愿说\n“要继续努力”～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员A",
+            "Text": "嗯，反正现在很闲，\n没关系的，你去吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "谢谢～！\n我立刻回来！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "之后，我们稍稍赶路，\n并排进了参拜的队伍中──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "（啪啪）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "要许的愿当然就是那个了对吧～\n训练员☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "希望在“高松宫纪念”……以及之后的比赛，\n都能两个人一起拼命努力～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "耶嘿嘿，参拜完之后，\n总觉得力量都哗～～地涌出来了呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "今年也要继续努力喔～！\n加油吧～训练员！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "──从元旦就充满如此欢快的气氛。\n看来今年也会是很棒的一年！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

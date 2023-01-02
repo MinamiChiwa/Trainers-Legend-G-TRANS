@@ -1,0 +1,382 @@
+{
+    "Title": "新年参拜",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "恭贺新年。我和顺利晋升资深级的\n爱丽数码一起去新年参拜，但她却──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "神啊，我今年不需要周边。\n相对地请赐给我“劲敌”吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……在新年一开始就许下意想不到的愿望。",
+            "ChoiceDataList": [
+                "你怎么了吗？",
+                "你怎么了？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "啊，是这样的，我今年\n无论如何都想追上好歌剧和怒涛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "因此我想在秋天来场决定一切的较量，\n所以就去向她们打了声招呼，只是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "哈──哈哈！要一决胜负我当然十分欢迎！\n只不过，数码你身上有个重大的弱点！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "你究竟能不能自行发现那个弱点呢？\n如果办不到的话，那你说要挑战我们，\n就只会是个白日梦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "咦咦咦咦，你说的弱点是指什么？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "那就是“没有劲敌”这一点啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "咦咦咦咦咦，竟然说出来了！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "被她点醒后我才发现自己确实没注意到耶！\n我的身边没有那种在少年漫画里\n一定会登场的劲敌。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "如果无法跟劲敌互相切磋砥砺的话，\n说什么要追上好歌剧和怒涛的脚步，\n我根本就办不到。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "事情就是这样，训练员，你一定要推荐人选！\n有没有会让我觉得“就是她了！”的赛马娘？",
+            "ChoiceDataList": [
+                "你自己选比较好吧……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "我做不到啊。我是DD，每个赛马娘\n我都喜欢得不得了，给我选的话就只会\n迷失在无限回廊里。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "怎么样？有没有适合的赛马娘？",
+            "ChoiceDataList": [
+                "应该要先问看看有没有赛马娘愿意吧？",
+                "应该要先问看看有没有赛马娘愿意吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "愿意的人……？啊，说得也是。\n要是对方不OK的话，\n那就称不上是念作强敌的劲敌了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "那我们去问看看有可能答应的赛马娘吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "啥！？\n叫我当你的劲敌？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "是的！自我中心又重视逻辑的\n空中神宫，你就算在同期当中也是\n相当强悍的赛马娘！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "虽然我们没什么交集，但希望你能答应！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "要说梦话等睡着再说。\n我没兴趣。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "哦，劲敌啊。我只是单方面地把你当成\n研究对象，像那种双边关系我敬谢不敏……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "呜呜呜，这样啊……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "数码，你不需要那么沮丧。\n关于能进一步激发出你特性的\n催化剂……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "我认为──\n明确的解答早已存在。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "咦？是谁？你是指谁？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "这我不能说。不能由我告诉你。\n不，不只是我而已……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "是“所有人”都不能说。\n数码的训练员，我说得对吧？",
+            "ChoiceDataList": [
+                "咦？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她突然丢过来的话题让我不知该怎么回答。\n所有人都不能说出口的劲敌是指什么呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "没关系，你们慢慢想就好。\n反正到头来你们终究会明白的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "前提是你有仔细观察自己的专任赛马娘。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "训练员，速子刚才提到的解答，\n也就是我的劲敌究竟是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我决定好好思考一番。只要仔细思考\n和专任赛马娘有关的事应该就能发现……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "爱丽数码的优点是什么？然后，\n能突显她那项优点的赛马娘又是谁……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "答案是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "你想到了吗？",
+            "ChoiceDataList": [
+                "对",
+                "嗯"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "那适合我的劲敌是谁？",
+            "ChoiceDataList": [
+                "你的劲敌是──“所有人”！",
+                "你的劲敌是──“所有人”喔！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "咦～～～～？所有人！？\n意思是我可以继续当DD箱推吗？",
+            "ChoiceDataList": [
+                "没错！",
+                "嗯！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "爱丽数码她最大的优点，\n就是不会受限于草地或沙地。\n如果把特定人选设为劲敌的话……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她为了跟那名劲敌赛跑，就得配合对方\n选择特定的路线。这样做完全没有好处。\n所以──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "总觉得……我好像懂了……\n小数为了要做小数自己，\n就只能走上DD一途……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "我就只能选择跟霸王大人还有怒涛\n走不同的路对吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "而且一定只有这样做──才有胜算。\n不管是好歌剧或名将怒涛，\n她们都是目前最强等级的赛马娘。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "如果想要同时超越她们，就不能正面进攻。\n要累积异次元的经验，找出一般的赛马娘\n无法发现的小路才行。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "对了……帝王也说过\n一样的话呢……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "帝王光辉",
+            "Text": "数码，去和许多赛马娘较量吧。\n吸收所有经验，然后──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "帝王光辉",
+            "Text": "去成为真正的全能少女吧。\n因为在你深爱的赛马娘当中，\n你自己也是里面的一员。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "训练员，我明白了！\n小数要保持现状，\n跟所有的赛马娘一同迈进！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "大家就是我的劲敌！\n正因如此，我才能得到──",
+            "ChoiceDataList": [
+                "养分",
+                "友情的力量",
+                "多元性"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "养分！没错！对每个赛马娘来说，\n大家都各有各的风味，\n每次都会让我充满活力！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "我的推们每天都会发新鲜的粮！\n这就是最棒的燃料！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "相信无数的赛马娘们，\n在今后也一定会将许多活力\n带给爱丽数码。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "友情的力量！没错，我会从大家的身上\n分别得到一点力量──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "然后在决战的时候一口气发挥出来！\n总觉得这样就变得很有我的作风了喔──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "与陌生的赛马娘相互交流，\n这似乎能成为爱丽数码往后的优势。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "多元性！没错，说到赛马娘的跑法，\n每个人都不一样，都各有优点！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "我要赞扬并接纳所有的跑法！\n我想成为赛马娘图鉴！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "坦率地接纳自己的所见。\n相信这样的态度肯定能替爱丽数码的未来\n奠定基础。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

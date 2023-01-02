@@ -20,7 +20,7 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "快乐米可",
+            "Name": "快乐温顺",
             "Text": "…………把重心放在右脚。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
@@ -38,14 +38,14 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "快乐米可",
+            "Name": "快乐温顺",
             "Text": "…………我会想想的。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "快乐米可回答后，\n便直接走向窗边。",
+            "Text": "快乐温顺回答后，\n便直接走向窗边。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -79,7 +79,7 @@
             "Name": "桐生院训练员",
             "Text": "啊，<username>训练员。\n你好，辛苦了。",
             "ChoiceDataList": [
-                "米可这是在做什么？"
+                "温顺这是在做什么？"
             ],
             "ColorTextInfoList": []
         },
@@ -115,7 +115,7 @@
         },
         {
             "Name": "独白",
-            "Text": "从窗边回来的快乐米可，\n完美地达成了舞步。",
+            "Text": "从窗边回来的快乐温顺，\n完美地达成了舞步。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -179,7 +179,7 @@
         },
         {
             "Name": "桐生院训练员",
-            "Text": "不过……我还有其他\n令我敬佩的人哦。就在我的身旁。",
+            "Text": "不过……我还有其他\n令我敬佩的人喔。就在我的身旁。",
             "ChoiceDataList": [
                 "是谁啊？"
             ],

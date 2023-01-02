@@ -1,0 +1,44 @@
+{
+    "Title": "因头痛而忧郁",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "啊──这是怎么了，真的好痛喔。",
+            "ChoiceDataList": [
+                "怎么了……？",
+                "怎么了吗……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "我从今天早上就一直觉得头痛。\n是不是有什么人在讨论我啊……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "──完全搞错了吧！\n那是打喷嚏的时候吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "……好痛啊。大声说话感觉变更痛了。\n这样就没办法随意吐槽了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "玉藻十字因为头痛的关系，\n暂时要克制自己吐槽的欲望了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

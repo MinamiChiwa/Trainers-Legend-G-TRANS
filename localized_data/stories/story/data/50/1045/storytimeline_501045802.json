@@ -1,0 +1,295 @@
+{
+    "Title": "Curse or Wrap",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "今晚会有一群恐怖鬼怪\n悄悄逼近你的身边……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级小溪",
+            "Text": "来～……我要……\n诅咒你～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "导演",
+            "Text": "……卡！！彩排很完美！\n哎呀～有找你来演这个角色真是太好了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级小溪",
+            "Text": "谢谢夸奖～\n我会努力尽到责任，\n好好宣传《心惊胆跳☆惊魂夜》的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "今天是拍摄游乐园活动宣传片的日子。\n听说宣传片的内容是超级小溪他们会扮成怪物，\n攻击游乐园的游客……的样子。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "……所以，为什么连来观摩的我\n跟训练员都要当临时演员啊？",
+            "ChoiceDataList": [
+                "我们一起加油吧！",
+                "我们一起加油吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "算了，小溪当上宣传片的演员的确是好事。\n……好吧，那我就加把劲来演一下吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级小溪",
+            "Text": "谢谢你们～\n我们一起努力把它拍成有趣的宣传片吧♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "导演",
+            "Text": "那么，接下来准备开拍临时演员逃跑的画面！\n4……3……2……开始！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "狼人",
+            "Text": "嗷────────────！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "僵尸群",
+            "Text": "呜呜呜～～……呜喔喔～～……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级小溪",
+            "Text": "……来，跟我一起……\n陷入永眠吧～……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "噫～！虽然不是真的，但还是好有震撼力啊！\n好，那我也要演好被吓惨的人！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "僵尸群",
+            "Text": "呜啊啊啊……啊啊啊啊啊～～……！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "呀啊啊啊～～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级小溪",
+            "Text": "咦……！？小玉……她还好吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "导演",
+            "Text": "接下来是森林里的场景！\n这里的狼人要大口咬住学园的训练员！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "狼人",
+            "Text": "嘎吼吼吼吼……嘎────！",
+            "ChoiceDataList": [
+                "哇啊啊啊～～！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级小溪",
+            "Text": "训练员！我……我……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级小溪",
+            "Text": "我忍不住了！\n狼人，请你离他们两个远一点！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "狼人",
+            "Text": "嘎……嘎呜？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "你怎么突然说这种话啊！？\n你是负责攻击游客的木乃伊吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级小溪",
+            "Text": "不……我不是木乃伊，是妈咪～\n你会不会怕？有没有受伤？\n我来用绷带帮你把痛痛的地方包紧紧喔♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "你……！我们又不是真的被吓到，\n也没有被咬到好不好！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级小溪",
+            "Text": "没关系，一切都包在妈咪身上～\n我等一下也会帮你摸摸头♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "狼人",
+            "Text": "唔、唔吼吼吼吼……嘎啊啊～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级小溪",
+            "Text": "……哎呀呀，不乖的孩子……\n小心被我下变成乖孩子的诅咒喔～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "导演",
+            "Text": "……卡！卡──────！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级小溪",
+            "Text": "……咦？啊，对不起！\n我完全忘记现在是在拍片──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "导演",
+            "Text": "你们…………真是太棒了！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "等等，为什么是被夸奖啊！\n小溪的即兴演出也太强了吧！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "导演",
+            "Text": "OK！突然涌现母爱的木乃伊带来的感动巨作！\n你的演技太棒了！\n这部影片一定会造成轰动～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级小溪",
+            "Text": "是吗？可是我只是\n不忍心看他们两个受伤害怕……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "导演",
+            "Text": "我就喜欢你这种展现真性情的感觉！\n学园的训练员，你也这么认为吧？",
+            "ChoiceDataList": [
+                "这样很有小溪的风格，很棒！",
+                "这样好像没有宣传活动的效果……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级小溪",
+            "Text": "真的吗？那真是太好了～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "导演",
+            "Text": "嗯，我们就照这个样子拍下去吧！\n就从木乃伊涌现母爱的地方开始，\n麻烦你们了！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级小溪",
+            "Text": "我想想……这样可以吗──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级小溪",
+            "Text": "小玉……你好乖喔……\n我来……帮你摸摸头～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "这已经不是演技了吧！\n你比每一种怪物都还要可怕啦！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "后来，听说充满母爱的宣传片造成了轰动，\n让活动从第一天就好评如潮！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级小溪",
+            "Text": "宣、宣传片果然不应该这样吧……！\n对不起，我竟然擅自脱稿演出。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "导演",
+            "Text": "我的确也蛮想拍一下原本说好的版本！\n……就从狼人攻击游客的地方开始吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "狼人",
+            "Text": "呜嘎────！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "哇呀～～！别过来～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级小溪",
+            "Text": "不、不行！\n请你不要伤害他们两个～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我们之后又重新拍了好几次，\n才终于顺利拍好宣传片……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

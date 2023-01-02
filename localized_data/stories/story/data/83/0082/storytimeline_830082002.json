@@ -1,0 +1,348 @@
+{
+    "Title": "我来当妈妈！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "某天，我经过宿舍前时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级小溪",
+            "Text": "咳咳！没事的，小花，\n我不能因为这点小病就休息……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "怎么可以……\n生病还继续勉强自己的话，\n迟早身体是会承受不住的……！",
+            "ChoiceDataList": [
+                "怎么了？",
+                "怎么了吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "小溪她明明都已经感冒了，\n却还是坚持有事情要去做……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级小溪",
+            "Text": "洗衣服、打扫、哄睡……\n孩子们都在等着我去照顾呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级小溪",
+            "Text": "我必须要去大家的身边帮忙，\n给大家鼓励才行……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "小溪……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "那就我来代替小溪去做！\n大家的事情就都交给我处理吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级小溪",
+            "Text": "咦……可是这样就不能算是我宠爱大家……\n不，这么做的话，\n不会太麻烦小花吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "你不要担心会麻烦到我……！\n比起麻烦，我更希望能够帮助到大家！",
+            "ChoiceDataList": [
+                "就交给她去做吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级小溪",
+            "Text": "嗯……虽然不能亲自去照顾大家很可惜……\n但，好吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级小溪",
+            "Text": "如果是小花的话，\n一定能成为一个称职的妈妈的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "嗯，我会努力的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "小栗同学！\n我替小溪把你的便当拿来啰。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "这个……是我的脸呢。\n这就是所谓的造型便当吧……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "没错，为了让小栗同学能吃得开心……\n里面的所有菜色，\n全都是小栗同学喜欢吃的喔♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "这样啊……我很感激。\n……呵呵，真可爱。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "大进～\n已经到了约定好的训练时间啰！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "你说约好……\n可是我听说小溪不是已经请假休息了吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "是呀，所以由我代替她来跟你并行练跑！\n中距离我还能勉强跑得动！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "唔……好、好啦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "这种事情，\n你根本不用特地做的……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "不行！我可是代替小溪在做的！\n我会好好帮你按摩的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "呼，谢谢你喔。\n你也真够老实的……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "我被交待要在玉藻训练结束后，\n好好帮你按摩的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……然后，按完之后好像……\n还要“摸摸头”吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "不需要好吗！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是，\n西野花对大家的照顾就这样告一段落。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "呼……\n比想像中来得辛苦呢。",
+            "ChoiceDataList": [
+                "辛苦你了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "小溪真是厉害，\n一个人竟然可以帮助到这么多的人──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "这么说起来，\n我刚来到学园的时候也受到她的照顾。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "她对因为刚来而感到不安的我说──\n“你就把我当成是妈妈，依靠我吧”。\n她是那么地温柔……当时我真的好开心也好放心。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "那时候我就想，\n希望自己可以像小溪一样……\n帮助到别人。",
+            "ChoiceDataList": [
+                "今天的你已经完全做到了！",
+                "今天的你已经完全做到了喔！",
+                "她一定能感受到你的心意的",
+                "希望将来能够实现",
+                "希望将来能够实现呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "那时候我就想，\n希望自己可以像小溪一样……\n帮助到别人。",
+            "ChoiceDataList": [
+                "今天的你已经完全做到了！",
+                "今天的你已经完全做到了喔！",
+                "她一定能感受到你的心意的",
+                "希望将来能够实现",
+                "希望将来能够实现呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "谢、谢谢你。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "虽然作法可能跟她不太一样……\n但要是我自己的方式也有帮助到别人的话，\n那我就很满足了♪",
+            "ChoiceDataList": [
+                "你已经做得很好了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "好的……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "然后，那个……\n如果你不嫌弃的话──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "这个是香氛干燥花。\n里面塞的都是能够消除疲劳的花，\n不嫌弃的话……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "后来──我因为她送我的香氛干燥花，\n在心情很放松的状态下专心工作。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "嗯……\n希望会是这样♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "啊，等一下你有空吗？\n我有用自己种的花做成的茶叶。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "不嫌弃的话，\n我想让你喝喝看──",
+            "ChoiceDataList": [
+                "那我就不客气了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "嘿嘿嘿，好的♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "西野花为我泡的这杯茶，\n让我感受到她对我陪她这一整天的\n感谢之意。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "嗯！经过今天的事情后，\n我也觉得稍微离目标近一点了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "总有一天要像小溪一样\n成为一个温柔又可靠的人……\n我希望自己可以变成那样了不起的大人♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级小溪",
+            "Text": "乖乖～\n妈妈一直都在你身边喔～♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "我、我也会一直都在的！\n所以……就放心地尽管向我撒娇吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……呃，怎么了吗？",
+            "ChoiceDataList": [
+                "没有……就是希望你不要太勉强自己"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "好的！\n谢谢你关心。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "刚才眼前突然出现的幻觉……\n那是看到了未来吗？\n还是说──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

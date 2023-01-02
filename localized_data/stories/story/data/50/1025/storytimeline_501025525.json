@@ -1,0 +1,386 @@
+{
+    "Title": "恶魔的细语",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "某天午休。我走在走廊上时，\n听见曼哈顿咖啡和爱丽速子的争吵声\n从她们的私人空间里传出来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "拜托啦，没有比你更适合这次实验的\n白老……赛马娘了啦，咖啡。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼哈顿咖啡",
+            "Text": "……我已经清楚地说过了……\n无论如何我都不会协助你做实验……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼哈顿咖啡",
+            "Text": "而且……昨天……\n不，我已经讲过无数次了……\n你做事情每次都缺乏说明……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼哈顿咖啡",
+            "Text": "我连实验的详细内容是什么都不知道……\n怎么可能会帮你──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "所以我不是说了！\n有准备说明书跟操作守则了嘛！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "你看看这个分量，这么详细的说明！\n常用词语我还特别用粗体字──\n我做了这么多的努力耶，真是的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼哈顿咖啡",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼哈顿咖啡",
+            "Text": "……唉……\n好吧，给我看看吧……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼哈顿咖啡",
+            "Text": "我会好好评估的……\n如果我最后还是决定不帮忙，你也要放弃……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "那是当然的啰！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "看完说明书的曼哈顿咖啡\n露出难以言喻的表情。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼哈顿咖啡",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "这是要测试刺激梦境\n究竟能对奔跑能力带来多大影响的实验。\n可以控制清醒梦的革命性发明。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "虽然操作方式都写在上面了，\n但简单来说呢，\n就是让我打扰一下你的梦境再观察你的反应。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "当然的确是会伴随一些风险，\n但也有得到好结果的可能性！\n──上面就是这么写的吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼哈顿咖啡",
+            "Text": "…………是没错……\n顺利的话，的确会有好的结果也不一定。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "哎唷，这么说的话，\n你是答应啰？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼哈顿咖啡",
+            "Text": "…………\n我现在的实力还有很大的进步空间……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼哈顿咖啡",
+            "Text": "……这是……\n我实际参加了多场比赛后意识到的……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼哈顿咖啡",
+            "Text": "只是……训练员……\n……我想听听看你的看法……",
+            "ChoiceDataList": [
+                "咦"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼哈顿咖啡",
+            "Text": "我……是和你一起面对比赛……\n不想……只凭自己的判断来做决定……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼哈顿咖啡",
+            "Text": "高风险高报酬……\n你觉得……我应该接受这个实验吗……？",
+            "ChoiceDataList": [
+                "接受吧！",
+                "……我拒绝！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼哈顿咖啡",
+            "Text": "谢谢你……\n训练员……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "哈──哈哈！就该是这样才对！\n那么我们就立刻开始实验吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼哈顿咖啡",
+            "Text": "……这里是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "当然是你的梦境里！哎呀，虽然我早有预料，\n但没想到会有这么大量奇形怪状的东西呢！\n那个一圈一圈圆圆的是什么啊！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼哈顿咖啡",
+            "Text": "……请你不要一直看……\n所以，你说的刺激是要怎么做……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "本来梦境是属于很私人的空间。\n光是有别人闯入就已经是很大的刺激了。\n也就是说，不用做什么就应该有影响──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "（啪沙……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "──你看，才刚说而已……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼哈顿咖啡",
+            "Text": "……那是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼哈顿咖啡",
+            "Text": "……巨大的……蝴蝶……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼哈顿咖啡",
+            "Text": "──好漂亮……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "实验结束的几天后。\n在操场上奔跑的她，看似脚步特别轻盈──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "喔……顺利得到好结果了嘛。\n这个数据相当有用！感谢你们的帮忙啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼哈顿咖啡",
+            "Text": "……不，我才要感谢你……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "看来实验为她带来好的影响。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼哈顿咖啡",
+            "Text": "──不对……\n那个是、那个是……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "（唔喔喔喔……！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "实验结束的几天后。\n在操场上奔跑的她，看似脚步特别沉重──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼哈顿咖啡",
+            "Text": "呼、呼……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼哈顿咖啡",
+            "Text": "……不好意思，训练员……\n我一直会回想起梦里看见的生物……\n没办法专心跑步──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼哈顿咖啡",
+            "Text": "……爱丽速子……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "……嗨，上次多亏你帮忙了，\n但是怎么说呢，就是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "算是赔礼吧。\n我给你带了营养补给饮料来了。\n你就收下吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼哈顿咖啡",
+            "Text": "……不，不用……\n……我不要……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "看来这次的实验，\n为曼哈顿咖啡带来不太好的影响……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼哈顿咖啡",
+            "Text": "……我知道了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "咦──！怎么这样！",
+            "ChoiceDataList": [
+                "我不能让她遇到任何危险"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "……唉，知道了啦。这次我就放弃吧。\n……你的存在还真是麻烦耶。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "──对了，算是顺便吧，\n把这份用我自己做实验的资料给你们，\n可以随便看没关系。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "然后……要是看完觉得有兴趣\n想要尝试的话，可以随时来找我。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "那我就先走了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼哈顿咖啡",
+            "Text": "……我没有想要尝试的打算……\n……但内容是挺有意思的……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼哈顿咖啡",
+            "Text": "……如果是她的话……说不定有一天\n真的能看到“超越极限”的世界……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼哈顿咖啡",
+            "Text": "…………\n……？",
+            "ChoiceDataList": [
+                "怎么了？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼哈顿咖啡",
+            "Text": "……没事，只是内容比我想的还要难懂……\n…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼哈顿咖啡",
+            "Text": "……唉……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼哈顿咖啡",
+            "Text": "虽然很不甘心……\n但看来她的头脑是真的特别聪明吧……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "Title": "挑战夹娃娃机！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "某天，\n我和曼哈顿咖啡一起外出时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼哈顿咖啡",
+            "Text": "……那……那个夹娃娃机……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我往曼哈顿咖啡指示的方向看去，\n那里有一台装有赛马娘主题玩偶的夹娃娃机。",
+            "ChoiceDataList": [
+                "我来帮你夹吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼哈顿咖啡",
+            "Text": "可以吗……谢谢你。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼哈顿咖啡",
+            "Text": "而且……如果是这么可爱的玩偶……\n感觉……就不会有头发变长的问题……",
+            "ChoiceDataList": [
+                "咦……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼哈顿咖啡",
+            "Text": "没什么……是以前的事了……\n话说回来……还请加油喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──这个挑战，不能失败！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

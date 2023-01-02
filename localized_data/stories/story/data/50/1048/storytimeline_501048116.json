@@ -1,0 +1,614 @@
+{
+    "Title": "谁叫我是傻瓜嘛",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "──我说啊，一直以来，\n就我的程度而言，已经算表现不错了吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "我跑了“皋月赏”。治好脚趾甲。\n在GⅡ也跑出了好成绩。\n说真的，已经很了不起了吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "所以大家的脑袋里，\n只要留下去年为止的我就好了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "今后──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "──拜托别再看变得很逊的我了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "辣妹赛马娘B",
+            "Text": "我妈咪的车来了～！\n今天大家一起去海边吧～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "辣妹赛马娘A",
+            "Text": "耶～☆庆功庆功～☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "辣妹赛马娘C",
+            "Text": "……乔登？没事吧？\n话说今天也不用去训练吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "咦？啊，嗯！\n我一点事都没有！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "他叫我让脚休息一阵子。\n……所以不用联络训练员\n也没关系的样子。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "辣妹赛马娘D",
+            "Text": "………………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "辣妹赛马娘E",
+            "Text": "喔，你怎么在玩手机～？\n是在传LANE给喜欢的人吗～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "辣妹赛马娘D",
+            "Text": "……才不是咧，真是的！\n好啦，走吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "新年假期结束，学园开学后已过了数天。\n我还没收到岛川乔登的联络。",
+            "ChoiceDataList": [
+                "（虽然都有显示已读……）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "不管是用通讯软件“LANE”来联络，\n还是直接去她班上，\n她都一直躲着我，我完全联络不到她。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（喀啦啦……）",
+            "ChoiceDataList": [
+                "难不成是……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "老师",
+            "Text": "打扰了。\n乔登的训练员，\n可以跟你谈谈吗？",
+            "ChoiceDataList": [
+                "……要跟我谈谈？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "老师",
+            "Text": "是的。\n我班上的学生传了这个讯息……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "辣妹赛马娘A",
+            "Text": "还我青春时光～～～！\n我又在选拔赛上输了～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "辣妹赛马娘B",
+            "Text": "呜哇，脚好冰喔～\n冬天的大海不可小觑～超乎想像～☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "辣妹赛马娘们",
+            "Text": "啊哈哈哈哈！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "（……啊，真好啊。大海吗。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "（要是脚泡到海水，指甲油会剥落吗。\n我又没带保湿用指缘油。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "辣妹赛马娘C",
+            "Text": "……乔登？\n你要下水吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "啊……是啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "（……嗯。不过脚趾甲什么的，\n干脆再也别管了。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "──不用继续烦恼了吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "辣妹赛马娘D",
+            "Text": "……？乔登……？",
+            "ChoiceDataList": [
+                "等一下！！",
+                "等一下！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "……！？\n为什么训练员你会在这里……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "辣妹赛马娘D",
+            "Text": "……抱歉。乔登！\n你最近的状况让我很担心──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "辣妹赛马娘D",
+            "Text": "“老师，请帮我个忙！！\n你知道怎么联络乔登的训练员吗！？”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "辣妹赛马娘D",
+            "Text": "“乔登无精打采的。\n就算我们鼓励她也没用。\n我们等一下要去海边──”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "可是，为什么……\n竟然还联络了老师……",
+            "ChoiceDataList": [
+                "因为她就是那么担心你",
+                "因为她就是那么担心你"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "太、太夸张了啦！\n我们只是心情一来\n就会一起玩闹的关系……",
+            "ChoiceDataList": [
+                "你真的觉得你们只是酒肉朋友？",
+                "你真的觉得你们只是酒肉朋友？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "辣妹赛马娘A",
+            "Text": "欸欸欸，这是怎么回事！？\n话说训练员你为什么会在这里！？\n而且还很生气！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "辣妹赛马娘B",
+            "Text": "等、等等不可以骂她啦！\n乔登去年很努力了不是吗！？\n我们想让她至少今天开心一点嘛！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "辣妹赛马娘A",
+            "Text": "我们希望她能继续努力，\n继续当我们的希望之星！对吧！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "辣妹赛马娘A",
+            "Text": "真的……感觉就像……辣妹的希望之星……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "“大家都很仰慕你的样子呢。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "“大家都很仰慕你的样子呢。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "……可是、可是……\n我又不是值得仰慕的赛马娘……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "如果是辣妹的希望之星，还有其他人不是吗？\n比如城市、太阳跟善信之类！\n比我更厉害的赛马娘！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "而且我是个傻瓜！\n我不行了！在资深级是赢不了的！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "我会一直输一直输一直输的！\n应该说我连挑战资深级都没资格！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "我只会在比赛中被狠狠击垮，\n跑出很逊的成果……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "辣妹赛马娘C",
+            "Text": "……可是我们也是傻瓜。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "辣妹赛马娘C",
+            "Text": "所以我们非常仰慕你。\n因为你是第一个\n带给了我们伟大梦想的人。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "辣妹赛马娘C",
+            "Text": "不管你输了一次还是好几次，\n我想你一定能展现出，\n非常帅气的模样的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "……！！",
+            "ChoiceDataList": [
+                "……没错，你是个傻瓜！",
+                "……没错，你是个傻瓜！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "啥……？",
+            "ChoiceDataList": [
+                "是个超级大傻瓜！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "只拿“想成为伟大选手”\n这个模模糊糊的目标当方针，\n无畏地宣布要挑战三冠路线。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在“皋月赏”的时候，\n明明是关乎自己选手生涯的选择，\n却只凭着“想跑”的心，想克服自己的伤势。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "嗨～我做了五个贴片喔。\n我很厉害吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "所以是15秒对吧！我现在就跑！\n你要好好计时喔！？预备……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──即使什么都不懂，\n也老老实实地面对训练。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "不顾一切地持续挑战。\n像个傻瓜一般努力至今。",
+            "ChoiceDataList": [
+                "所以你才能变强"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "……这……\n算什么嘛……",
+            "ChoiceDataList": [
+                "所以才能一直战斗至今"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "无论面对怎样的困难，她仍持续战斗到现在。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "如果岛川乔登是个聪明的选手。\n她会立下稳健的目标，\n脚趾甲出问题时，就不会跑“皋月赏”了吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "甚至有可能\n在看到“有马纪念”的出赛选手后，\n主动取消参赛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她应该会凭“常识”知道自己做不到，\n每次遇到阻碍，就会将放弃放入选项吧。",
+            "ChoiceDataList": [
+                "但因为你是傻瓜，所以总是想要挑战",
+                "但因为你是傻瓜，所以总是想要挑战"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "不管四周怎么说，\n不管碰到多困难的阻碍，\n都觉得“或许能克服”，去傻呼呼地挑战。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "而事实上──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "反正一路走来都是船到桥头自然直。\n既然这样，也只有努力一条路了吧？",
+            "ChoiceDataList": [
+                "不畏挑战的你帅翻了",
+                "不畏挑战的你帅翻了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "……别开玩笑了。",
+            "ChoiceDataList": [
+                "这不是玩笑，你真的很帅"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "岛川乔登的朋友们\n也跟着点头。",
+            "ChoiceDataList": [
+                "所以试着变得更像个傻瓜吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "既然这次又出现了“常识”这个阻碍，\n就当个傻瓜试着挑战看看吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "因为她就是一个，\n一路以来都在克服阻碍的赛马娘。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "呜……这种事……",
+            "ChoiceDataList": [
+                "不过，最强的傻瓜很帅对吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "…………\n……你是笨蛋吗。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "……呜……你真是个大笨蛋！\n笨蛋笨蛋笨蛋笨──蛋！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "什么最强的傻瓜……\n我从没听过这种的。这种存在……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "……只有我这种傻瓜，\n才当得上对吧……！",
+            "ChoiceDataList": [
+                "没错！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "……啰嗦……笨蛋……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──岛川乔登积在眼角的泪水，\n终于流了下来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "酱油面、酱、料！！\n三者合一后──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "追加橄榄油！！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "……所以，你叫我拿那家伙当目标？\n你在开玩笑吧？",
+            "ChoiceDataList": [
+                "我觉得要当最强傻瓜，就要先超越她吧……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "唉～～～……不是吧……\n怎么说都不该是那家伙吧。啊～……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "虽说黄金船是个无法以常识理解的赛马娘，\n但她是已宣告要跑“大阪杯”等，\n春季资深三冠的强者──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "黄金船"
+            ]
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "虽然真～～的很蠢……\n也只能这么做了吧？是跑“大阪杯”吗？",
+            "ChoiceDataList": [
+                "没错，先从“大阪杯”开始",
+                "没错，先从“大阪杯”开始"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "……唉～……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "……追加橄榄油。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "啊……乔登！\n欢迎回来！你正在训练吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "！？善信！？\n呃……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "……找到目标了吗？\n要练跑的话我可以陪你喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "……谢谢。\n晚点我可以拜托你吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "──我接下来的目标是成为“最强”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

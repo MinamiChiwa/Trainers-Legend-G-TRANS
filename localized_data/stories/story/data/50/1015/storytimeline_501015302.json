@@ -33,7 +33,7 @@
         },
         {
             "Name": "商店街人员",
-            "Text": "看过来看过来，现正举办新春大抽奖～！\n特等奖可是“温泉旅游券”！",
+            "Text": "看过来看过来，现正举办新春大抽奖～！\n特奖可是“温泉旅游券”！",
             "ChoiceDataList": [],
             "ColorTextInfoList": [
                 "温泉旅游券"
@@ -41,7 +41,7 @@
         },
         {
             "Name": "商店街人员",
-            "Text": "一等奖是“上等胡萝卜肉排汉堡”，\n二等奖是“一筐胡萝卜”，\n三等奖则是“一根胡萝卜”！",
+            "Text": "一奖是“特等胡萝卜汉堡排”，\n二奖是“一整堆胡萝卜”，\n三奖则是“一根胡萝卜”！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -65,7 +65,7 @@
         },
         {
             "Name": "好歌剧",
-            "Text": "来吧，训练员，从怀里利落地抽出抽奖券吧。\n要用食指与中指夹住哦。",
+            "Text": "来吧，训练员，从怀里俐落地抽出抽奖券吧。\n要用食指与中指夹住喔。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -101,7 +101,7 @@
         },
         {
             "Name": "商店街人员",
-            "Text": "天啊！恭喜────！！\n抽到特等奖“温泉旅游券”了～～～～！！",
+            "Text": "天啊！恭喜────！！\n抽到特奖“温泉旅游券”了～～～～！！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -109,17 +109,19 @@
             "Name": "",
             "Text": "获得了“<itemname>”。",
             "ChoiceDataList": [],
-            "ColorTextInfoList": []
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
         },
         {
             "Name": "好歌剧",
-            "Text": "哦哦哦，一道光芒……从天而降！！",
+            "Text": "喔喔喔，一道光芒……从天而降！！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "好歌剧",
-            "Text": "特等奖！！当然了！即使是幸运女神，\n也敌不过我这巨星的魅力。",
+            "Text": "特奖！！当然了！即使是幸运女神，\n也敌不过我这巨星的魅力。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -166,7 +168,7 @@
         },
         {
             "Name": "好歌剧",
-            "Text": "那就没办法了。\n这张旅游券就由你收着吧。",
+            "Text": "那就没办法了。\n这张旅游券就由你收著吧。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -202,7 +204,7 @@
         },
         {
             "Name": "商店街人员",
-            "Text": "恭喜抽到一等奖～！\n奖品是“上等胡萝卜肉排汉堡”！",
+            "Text": "恭喜抽到一奖～！\n奖品是“特等胡萝卜汉堡排”！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -210,11 +212,13 @@
             "Name": "",
             "Text": "获得了“<itemname>”。",
             "ChoiceDataList": [],
-            "ColorTextInfoList": []
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
         },
         {
             "Name": "好歌剧",
-            "Text": "哦，一等奖！这不挺有收获的嘛！\n不愧是受到命运眷顾的我！",
+            "Text": "哦，一奖！这不挺有收获的嘛！\n不愧是受到命运眷顾的我！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -228,7 +232,7 @@
         },
         {
             "Name": "好歌剧",
-            "Text": "你看！在绞肉山丘上，\n气势万千地插着一根胡萝卜！",
+            "Text": "你看！在绞肉山丘上，\n气势万千地插著一根胡萝卜！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -252,7 +256,7 @@
         },
         {
             "Name": "好歌剧",
-            "Text": "我把它拔出来之后，\n你就要惊叹地说出台词哦？",
+            "Text": "我把它拔出来之后，\n你就要惊叹地说出台词喔？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -260,7 +264,7 @@
             "Name": "好歌剧",
             "Text": "一～二！我拔！！",
             "ChoiceDataList": [
-                "哦哦，您才是真正的王！"
+                "喔喔，您才是真正的王！"
             ],
             "ColorTextInfoList": []
         },
@@ -284,7 +288,7 @@
         },
         {
             "Name": "商店街人员",
-            "Text": "二等奖～！！\n奖品是“一筐胡萝卜”！",
+            "Text": "二奖～！！\n奖品是“一整堆胡萝卜”！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -292,11 +296,13 @@
             "Name": "",
             "Text": "获得了“<itemname>”。",
             "ChoiceDataList": [],
-            "ColorTextInfoList": []
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
         },
         {
             "Name": "好歌剧",
-            "Text": "嗯……二等奖啊。我是觉得不甚满意，\n不，可是……",
+            "Text": "嗯……二奖啊。我是觉得不甚满意，\n不，可是……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -320,7 +326,7 @@
         },
         {
             "Name": "好歌剧",
-            "Text": "哈──哈哈哈，说这什么话？\n这可不是普通的胡萝卜，\n里面还加了我的爱哦。",
+            "Text": "哈──哈哈哈，说这什么话？\n这可不是普通的胡萝卜，\n里面还加了我的爱喔。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -362,7 +368,7 @@
         },
         {
             "Name": "商店街人员",
-            "Text": "三等奖～！\n奖品是“一根胡萝卜”！",
+            "Text": "三奖～！\n奖品是“一根胡萝卜”！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -370,7 +376,9 @@
             "Name": "",
             "Text": "获得了“<itemname>”。",
             "ChoiceDataList": [],
-            "ColorTextInfoList": []
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
         },
         {
             "Name": "好歌剧",
@@ -422,7 +430,7 @@
         },
         {
             "Name": "商店街人员",
-            "Text": "很可惜，没抽中！\n参加奖是“卫生纸”哦～",
+            "Text": "很可惜，没抽中！\n参加奖是“卫生纸”喔～",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -430,11 +438,13 @@
             "Name": "",
             "Text": "获得了“<itemname>”。",
             "ChoiceDataList": [],
-            "ColorTextInfoList": []
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
         },
         {
             "Name": "好歌剧",
-            "Text": "哦哦哦……再也没比这更糟的奖品了……\n伟大的我……竟然会抽到安慰奖！？",
+            "Text": "喔喔喔……再也没比这更糟的奖品了……\n伟大的我……竟然会抽到安慰奖！？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -446,9 +456,9 @@
         },
         {
             "Name": "好歌剧",
-            "Text": "啊，不是卫生纸哦，是面纸、面纸。\n不觉得正确的名称很美吗。",
+            "Text": "啊，不是卫生纸喔，是面纸、面纸。\n不觉得正确的名称很美吗。",
             "ChoiceDataList": [
-                "哦，好……",
+                "喔，好……",
                 "呃，嗯……"
             ],
             "ColorTextInfoList": []

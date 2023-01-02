@@ -1,0 +1,312 @@
+{
+    "Title": "太空餐桌",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "跟菱曙出门后，\n我们在车站前拿到了天文馆的传单。\n今天的解说员听说是太空相关产业的专家。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "能听到星星与太空的故事耶！\n啊，传单上还附有折价券～",
+            "ChoiceDataList": [
+                "要去看看吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "嗯！好像很有趣～♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "喔喔喔～！？\n菱曙，哈啰～美丽☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "哈啰～！真巧呢！\n小美也是来看星星的吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "是啊☆\n我在寻找闪亮亮的美丽★",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "希望你能找到美丽呢。\n啊，好像要开始了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "圆弧形天花板上展开了一片星空。\n而解说内容除了映照在上面的星座，\n也详细讲解了恒星与银河的构造等等。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "太空中有数不尽的星星呢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "话说，外星人都是吃什么啊？\n他们会愿意吃地球的料理吗～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女性A",
+            "Text": "呵呵……居然有人相信外星人的存在耶。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "男性A",
+            "Text": "把科幻电影当真了吧。\n真是超单纯的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "说得也是……又没亲眼见过，\n不相信也是没办法的事～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "银河系里，\n有好几颗类地行星位于适居带喔！\n那些行星有可能存在水分。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "在那样的环境中，就算存在生命体也不意外！\n宇宙仍充满谜团，有未知的可能性！\n真是美丽☆宇宙超美丽★☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "男性A",
+            "Text": "呃、喂……我们快走吧……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "星星与太空的解说员",
+            "Text": "呵呵。我很高兴你们对太空有兴趣。\n不嫌弃的话，由我回答刚才的问题吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "星星与太空的解说员",
+            "Text": "虽然不知道外星人吃什么……\n但他们或许会愿意吃地球的料理喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "真的吗！？\n那我真想跟他们一起吃相扑火锅呢～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "星星与太空的解说员",
+            "Text": "火锅……可能有点困难。\n在无重力空间中，\n火锅料跟汤汁会四散开来的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "咦！？\n料跟汤汁会四散开来……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "星星与太空的解说员",
+            "Text": "所以，太空食物的汤类都会刻意勾芡。\n利用表面张力让它不会飞散。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "太空食物是什么样子啊？好吃吗？\n美丽吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "星星与太空的解说员",
+            "Text": "现在已经变得好吃多啰。\n为了让太空人吃到美味的食物，\n有许多的人在进行研究。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "美丽☆跟菱曙一样呢！\n用美味让大家变得美丽！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "真的耶。原来太空食物也是抱着\n想让人吃到美味食物的心愿制作的吗～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "我开始想学习更多\n关于太空食物的知识了！",
+            "ChoiceDataList": [
+                "要做做看吗？",
+                "买太空食物来吃吃看吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "哇！我想做看看“太空相扑火锅”！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "星星与太空的解说员",
+            "Text": "这样的话，看看太空人吃太空食物的影片，\n应该能当作参考喔，\n因为他们也会说出吃完之后的感想。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在休息时，我们立刻观赏起太空人的影片。\n因为上了字幕，在这种地方也能看，\n太令人感谢了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "呜哇哇，水居然会这样分裂吗！？\n原来汤汁会四散开来是这么回事啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "喔喔～？罐头就算倒过来也不会洒出来！\n美丽！！不过东西都拌不匀呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "因为无重力，东西都会浮起来，\n所以才会拌不匀吧～\n看来在太空做菜很不容易呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "啊……太空人说，\n能吃到日式料理很开心呢……\n还说吃是他们最期待的事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "……如果也能吃到火锅的话，会很开心吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "我决定要构思看看太空相扑火锅的食谱！\n然后再把料理过程放上UG，\n说不定能作为开发太空食物的参考呢！",
+            "ChoiceDataList": [
+                "这是个好主意！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "美丽☆来做吧来做吧──★\n把相扑火锅送上太空☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "嗯！真希望有一天，\n太空人能跟外星人一起吃相扑火锅呢～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "啊，真的耶！\n纪念品店里也有在卖太空食物！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我们买了太空食物中的咖喱、白饭，\n以及味噌炖鸡后，回到学园进行试吃。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "那么，我开动啰──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "咖喱饭，美丽☆\n味道好辣★",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "味噌炖肉味道也很重呢。\n高汤还有勾芡～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "好像是因为味觉在无重力空间中会起变化，\n所以太空食物的调味都比较重。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "另外顾虑到太空人的健康，\n还下过工夫降低盐分、提高营养价值等等。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "原来太空食物，\n花了这么多心思啊。\n一切都是为了太空人着想……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "在做出这个口味前，\n一定非常非常地努力吧……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "美味实在是太美丽了呢☆★☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "嗯。“好吃”不只是味道而已……\n这次经验又提醒了我，\n绝对不能忘记这件事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

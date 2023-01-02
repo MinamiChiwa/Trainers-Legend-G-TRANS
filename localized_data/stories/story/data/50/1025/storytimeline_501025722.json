@@ -1,0 +1,57 @@
+{
+    "Title": "因头痛而忧郁",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "某天，\n我在走廊上看见揉着头的曼哈顿咖啡。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼哈顿咖啡",
+            "Text": "……唉…………",
+            "ChoiceDataList": [
+                "没事吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼哈顿咖啡",
+            "Text": "……没事，就只是头痛……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼哈顿咖啡",
+            "Text": "……那个…………训练员……\n你能暂时陪我一下吗……？",
+            "ChoiceDataList": [
+                "当然可以……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼哈顿咖啡",
+            "Text": "每次头痛的时候……我身边的……\n“他们”……就会开始躁动……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼哈顿咖啡",
+            "Text": "……我不希望……\n训练员因为这样……出什么事情……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "虽然她这样关心我让我很开心，\n但我更担心她头痛的问题……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

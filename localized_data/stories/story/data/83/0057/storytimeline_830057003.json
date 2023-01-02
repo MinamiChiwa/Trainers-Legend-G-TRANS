@@ -9,19 +9,19 @@
         },
         {
             "Name": "",
-            "Text": "我为了吹吹风而来到顶楼，\n在那里看见了黄金船和草上飞两人。",
+            "Text": "我为了吹吹风而来到顶楼，\n结果在那里看见了\n黄金船和草上飞两人。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "黄金船",
-            "Text": "还不够……身为马王还缺少什么！\n为了找出不足之处，我必须踏上旅途……！",
+            "Text": "还不够……身为UMA王，我还缺少些什么！\n为了找出不足之处，我必须踏上旅途……！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "草上飞",
-            "Text": "旅行很不错呢。\n但今天不能去哦～",
+            "Text": "旅行很不错呢。\n但今天不能去喔～",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -59,13 +59,13 @@
         },
         {
             "Name": "草上飞",
-            "Text": "那就麻烦你找到她后，带她回到这里。\n拜托咯。",
+            "Text": "那如果你找到她的话，请将她再带回到这里。\n万事拜托啰。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "神鹰",
-            "Text": "黄金船去旅行了！？\nNo──！那今天的对决呢！？",
+            "Text": "黄金船去旅行了！？\nNo！那今天的对决呢！？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -76,14 +76,14 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "圣王光环",
+            "Name": "帝王光辉",
             "Text": "你说黄金船去旅行了！？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "圣王光环",
-            "Text": "想逃避跟本圣王一决高下是吗！？\n我一定会把她找出来的！！",
+            "Name": "帝王光辉",
+            "Text": "想逃避跟本帝王一决高下是吗！？\n我一定会把她找出来的！！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -95,21 +95,21 @@
         },
         {
             "Name": "青云天空",
-            "Text": "好哦──了解。\n那我回学园的路上顺便找找看吧──",
+            "Text": "好喔～了解。\n那我回学园的路上顺便找找看吧～",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "",
-            "Text": "后来我还是没有找到黄金船，\n决定先回到顶楼看看──",
+            "Text": "后来我还是没有找到黄金船，\n于是便决定先回到顶楼看看──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "黄金船",
-            "Text": "呵呵呵……这个世界不久后，\n就会变成马王阿船的东西了……！",
+            "Text": "呵呵呵……这个世界在不久之后，\n就会变成UMA王阿船的囊中物了……！",
             "ChoiceDataList": [
-                "找到了──！"
+                "找到了！"
             ],
             "ColorTextInfoList": []
         },
@@ -120,14 +120,14 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "圣王光环",
+            "Name": "帝王光辉",
             "Text": "真是的！\n你知不知道我们找了多久啊！？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "青云天空",
-            "Text": "啊哈哈，原来在这里啊──\n难怪怎么找也找不到──",
+            "Text": "啊哈哈，原来在这里啊～\n难怪怎么找都找不到呢～",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -151,25 +151,25 @@
         },
         {
             "Name": "黄金船",
-            "Text": "多亏有你们才让我知道马王阿船\n所欠缺的……所需要的是什么。",
+            "Text": "多亏有你们才让我想到，UMA王阿船\n所欠缺的……或是说不可或缺的是什么。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "黄金船",
-            "Text": "因为需要我而聚在一起的四个赛马娘……\n这样说，你们应该就懂了吧？",
+            "Text": "因为需要我而聚集在一起的四名赛马娘……\n这样说的话，你们应该就懂了吧？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "",
-            "Text": "我一脸认真地，\n等待黄金船公布答案。",
+            "Text": "黄金船摆出一脸认真的表情，\n等待着我们说出答案。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "",
-            "Text": "马王和四名赛马娘。\n从这些可以联想到的是──",
+            "Text": "UMA王和四名赛马娘。\n从这些可以联想到的是──",
             "ChoiceDataList": [
                 "四、四大天王？",
                 "完全想不到……"
@@ -178,13 +178,13 @@
         },
         {
             "Name": "黄金船",
-            "Text": "哦？很聪明嘛！你也加入四大天王……\n不对，毕竟四大天王只能四个人嘛～",
+            "Text": "哦？很聪明嘛！你也加入四大天王……\n不对，毕竟四大天王就只能四个人嘛～",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "黄金船",
-            "Text": "好，那你就当勇者好了，勇者！\n只要你能赢我，就把世界的一半分给你！",
+            "Text": "好，那你就当勇者吧，勇者！\n只要你能胜过我，就把世界的一半分给你！",
             "ChoiceDataList": [
                 "不用，我又不需……"
             ],
@@ -198,25 +198,25 @@
         },
         {
             "Name": "神鹰",
-            "Text": "在那之前要先跟我们决胜负！！\n捕获──！！",
+            "Text": "在那之前要先跟我们一决胜负！！\n捕获！！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "",
-            "Text": "神鹰和圣王光环两人架着黄金船，\n强行把她给拖走……",
+            "Text": "神鹰和帝王光辉两人架著黄金船，\n强行把她给拖走……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "青云天空",
-            "Text": "啊哈哈哈──与其说是“马王”，\n还比较像是“外星人”吧～",
+            "Text": "啊哈哈哈～与其说是“UMA王”，\n还比较像是“外星人”吧～",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "黄金船",
-            "Text": "好，四大天王的城堡要盖在宇宙是吗！？\n那就设置一堆陷阱好了！",
+            "Text": "好，四大天王的城堡要盖在宇宙是吗！\n在里面布满陷阱吧！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -227,44 +227,44 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "圣王光环",
-            "Text": "唉……\n不要惹出什么麻烦就好。",
+            "Name": "帝王光辉",
+            "Text": "唉……\n只要别惹出什么麻烦就好。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "神鹰",
-            "Text": "神鹰希望城堡里面有擂台！\n门铃就用擂台的钟声吧！！",
+            "Text": "神鹰希望能在自己的城堡里建一座擂台！\n门铃就用擂台的钟声吧！！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "",
-            "Text": "虽然马王的行事作风很乱来，\n但似乎和四大天王的感情很好。",
+            "Text": "虽然UMA王的行事作风很乱来，\n但似乎和四大天王的感情很好。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "黄金船",
-            "Text": "对了！马王阿船的属下，\n最强的四大天王！！",
+            "Text": "对了！UMA王阿船的属下，\n最强的四大天王！！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "黄金船",
-            "Text": "“哈瓦那辣椒”神鹰！“钓者”天空！\n“怪物”草上飞！及其他一名！",
+            "Text": "“哈瓦那辣椒”神鹰！“钓客”天空！\n“怪物”草上飞！及其他一名！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "圣王光环",
+            "Name": "帝王光辉",
             "Text": "为什么我是“其他”啊！？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "神鹰",
-            "Text": "可以的话，\n我也想要换一个更帅气的擂台名耶！！",
+            "Text": "既然都要取名的话，\n神鹰想要换一个更帅气的擂台名耶！！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -276,51 +276,51 @@
         },
         {
             "Name": "草上飞",
-            "Text": "嗯……名字听起来很会战斗的，\n好像就只有我一个呢～",
+            "Text": "哎呀……名字听起来很会战斗的，\n好像就只有我一个呢～",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "黄金船",
-            "Text": "有了马王和四大天王之后，\n再来就该有一个勇者才行。",
+            "Text": "有了UMA王和四大天王之后，\n再来就该有一个勇者才行。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "黄金船",
-            "Text": "啊，还需要一个哭着背叛勇者的叛徒，\n还有想要篡位的邪恶大臣！",
+            "Text": "啊，还必须有一个会哭着背叛勇者们的叛徒，\n以及想要篡位的邪恶大臣！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "黄金船",
-            "Text": "真是的，马王没有空闲的时间呢！",
+            "Text": "真是的，UMA王完全没有空闲的时间呢！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "",
-            "Text": "──于是，获得四大天王的马王的旅途，\n还会继续下去。",
+            "Text": "──就这样，获得了四大天王的UMA王大人，\n其旅途仍会继续下去。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "黄金船",
-            "Text": "笨蛋，超过四个人就该吃火锅啊，火锅！\n弄一个黑暗火锅来召唤蒟蒻面恶魔吧！",
+            "Text": "笨蛋，超过四个人的话就该吃火锅啊，火锅！\n弄一个黑暗火锅来召唤蒟蒻面恶魔吧！",
             "ChoiceDataList": [
                 "什么意思……？"
             ],
             "ColorTextInfoList": []
         },
         {
-            "Name": "圣王光环",
+            "Name": "帝王光辉",
             "Text": "对她这种人啊，\n你不能想要追究理由跟道理的啦……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "黄金船",
-            "Text": "今天感觉特别想要吃火锅耶──\n有砂锅吗？用砂锅煮火锅吧！",
+            "Text": "今天感觉特别想要吃火锅耶～\n有砂锅吗？用砂锅来煮火锅吧！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -332,19 +332,19 @@
         },
         {
             "Name": "黄金船",
-            "Text": "我会去找一些土来制作砂锅！",
+            "Text": "我会去收集一些土来制作砂锅！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "青云天空",
-            "Text": "那么我就去钓个鱼……",
+            "Text": "那么我这就去钓个鱼……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "草上飞",
-            "Text": "停。现在就想吃晚餐还太早了哦～\n还是先做好跑步的准备吧～",
+            "Text": "停。现在就想吃晚餐还太早了喔～\n还是先做好跑步的准备吧～",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -362,7 +362,7 @@
         },
         {
             "Name": "黄金船",
-            "Text": "火锅～！喂，那边的！\n你去负责把东西都准备好～！所有人的份哦！",
+            "Text": "火锅～！喂，那边的！\n你去负责把东西都准备好～！所有人的份喔！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -374,7 +374,7 @@
         },
         {
             "Name": "",
-            "Text": "我想，这就是\n黄金船的魅力所在吧。",
+            "Text": "我想，这正是\n黄金船的魅力所在吧。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         }

@@ -1,0 +1,329 @@
+{
+    "Title": "远雷",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "和玉藻十字签下暂时契约后的过几天──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "──呼，成绩怎么样？",
+            "ChoiceDataList": [
+                "又创下新纪录了！",
+                "又创下新纪录了喔！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "好耶！！\n跑完也都觉得还有体力……感觉很不错喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "经过最近拼命的特训后，她似乎也实际感受到了自己的成长。\n以现在的状态来说，我希望在正式比赛前能有一场实战练习……",
+            "ChoiceDataList": [
+                "要不要跑一次模拟赛看看？",
+                "要不要跑一次模拟赛看看呢？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "在选拔赛前先测试一下实力吗？好啊！\n我也想知道现在的自己能跑得怎么样！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "现在的玉藻十字一定能跑赢，\n并以最佳的状态迎接选拔赛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我原本是这么想的，但──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "我要赢……我要赢……我要赢……！\n我一定要拿下这场胜利……！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "播报员",
+            "Text": "即将要进入最后的直线了！领先的选手不变！\n会有其他赛马娘在这里突围吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "可恶……怎么会这样……！脚感觉好沉重……！\n我明明……不能输在这里的……！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "播报员",
+            "Text": "玉藻十字持续在加速却无法突围！是已经到达极限了吗！？\n领头的赛马娘依旧保持领先的差距！胜负决定了──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "玉藻十字在前哨战的模拟赛中，\n以勉强上榜的成绩结束了比赛──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "为什么……为什么我还是跑得这么差劲……！！",
+            "ChoiceDataList": [
+                "玉藻十字……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "……抱歉。\n今天先这样吧，我去让自己冷静一下……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "玉藻十字无法发挥实力的原因究竟是什么？\n正当我一个人边走边思考这个问题时────",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "不知不觉走到了和玉藻十字初遇的公园。\n虽然和之前来的时段不同，却还是听得见小朋友玩耍的声音。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女孩A",
+            "Text": "──小玉姐姐！来这里、来这里！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "男孩A",
+            "Text": "快点快点～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "真是的，我今天不是来这里玩的耶！\n每次你们看见我就都这样黏着──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "啊……",
+            "ChoiceDataList": [
+                "……你常来这里啊？",
+                "……你常来这里吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "……这里很像我老家附近的公园。\n然后……我心情不好的时候……通常都会去散步……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "男孩A",
+            "Text": "小玉姐姐～？你在干嘛啊？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "啊──好啦好啦！我和这个人有话要说啦！\n你们先自己玩一下！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "……他们也和我老家的小鬼们──\n和我的弟弟、妹妹差不多年纪。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "……不知道小鬼们过得好不好。\n老爸和老妈……希望也都好好的……",
+            "ChoiceDataList": [
+                "你很重视亲情呢",
+                "你很重视亲情呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "……他们对我来说很重要。\n比任何一切都重要──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "我们家的状况，坦白说……是很穷的，\n但我们一家人都还是开心地过每一天。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "只是……老爸和老妈为了让我们小孩子们能吃饱，\n每天都付出汗水在努力……我希望可以改善家里的状况。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字的弟弟",
+            "Text": "姐姐──玉藻姐姐──！我们去买点零食吧～\n我肚子好饿喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "喂，我们可不能这么浪费喔～而且今天的晚餐可是……\n特制鳕宝排喔！要空着肚子等待才对呀！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字的妹妹",
+            "Text": "哇啊！玉藻姐姐做的鳕宝排──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字的弟弟",
+            "Text": "太棒了！姐姐！我会乖乖忍到晚上的──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "喔喔，真乖耶～！\n老爸、老妈都在家里等我们了，赶快回去吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "（……你们等着我，不管是零食还是真正的牛排吃到饱……\n总有一天我一定会全都实现的！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "──我认真想了很多，要做什么才能让家人的生活好过一点。\n然后我就想到了一个办法……那就是闪耀系列赛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "我要一直在比赛赢得胜利，让自己成为日本最有名的赛马娘。\n这样的话，将来我的家人也就能过上好日子了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "为了省吃俭用让我来就读特雷森学园的家人们，我绝不能输！\n我必须要赢才行！但是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "现在的我却只能跑出差劲的成绩，从来没赢过。\n这样的现实……对我来说还是打击很大的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女孩A",
+            "Text": "──小玉姐姐不开心吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "啊，什么啊，你们什么时候又跑来这里的？\n不是叫你们先自己去玩了吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "男孩A",
+            "Text": "因为我们都想要看小玉姐姐跑步嘛。\n你再跑给我们看一次嘛！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "真是的，你们真的很会使唤赛马娘耶！\n拿你们没办法，那我就只跑一下给你们看，散开一点！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "要开始啰～\n──呼！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "她瞬间的爆发力像是能划破夕阳般。\n那迅捷的模样让我想起了初遇时的“闪电”……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "男孩A",
+            "Text": "太厉害了～！！小玉姐姐好像比原本又更快了吧！？\n气势超强的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女孩A",
+            "Text": "而且小玉姐姐看起来好开心的样子～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "很快吧！这就是──“白色闪电”啦！",
+            "ChoiceDataList": [
+                "……“白色闪电”？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "……以前，老爸看到我跑步的时候说的。\n他说──“比谁都跑得更快、更开心的小玉就像是‘白色闪电’”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "我的家人都相信“白色闪电”会成为日本第一的赛马娘。\n我……不想辜负他们。",
+            "ChoiceDataList": [
+                "（跑得比谁都更开心……更快──）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "这时，玉藻十字没办法发挥实力的原因，\n在我的心中出现了某个答案……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

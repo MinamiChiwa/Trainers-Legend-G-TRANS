@@ -1,0 +1,270 @@
+{
+    "Title": "加油吧，便当！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "在我跟菱曙出门后的回程路上，\n谈到了之前一起去的陶艺教室。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "我预约到第二堂课啰──！\n虽然上次光设计就结束了，\n这次我一定要做出理想的陶锅。",
+            "ChoiceDataList": [
+                "加油！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "嗯！耶嘿嘿。完成之后，\n要做怎样的相扑火锅呢──♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "第二堂陶艺课。在老师的指导下\n菱曙开始操作辘轳，\n但她却不断地失败。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "唉……休息一下吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "原来不是只要转就好了啊。\n看起来很简单，\n可是力道跟动作却要非常精细呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "不过不过，已经比之前有个样子了。\n只要再多练一下，\n或许能更接近理想的设计。",
+            "ChoiceDataList": [
+                "菱曙你真的不会气馁呢",
+                "菱曙你真的不会气馁呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "咦？为什么要气馁？\n做越多次就会越上手啊？\n才没有时间气馁呢～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "好，休息结束！\n我要继续拼命努力啰～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "而那天也没有进展到可以拿去烧的阶段，\n于是只能留待下次。\n到了隔天──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "微光飞驹",
+            "Text": "请助我一臂之力！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "哎呀，怎么这么突然──？\n如果有我能帮忙的事，你尽管说！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "微光飞驹",
+            "Text": "真的吗！？谢谢！！\n这件事非常紧急──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "微光飞驹",
+            "Text": "我必须在明天前……在明天远足前，\n准备好便当才行！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "远足？明天有远足的行程吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "微光飞驹",
+            "Text": "嗯，有喔！\n其实是我认识的小朋友──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "原来如此，因为小朋友的爸妈太忙，\n没办法准备便当……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "微光飞驹",
+            "Text": "身为正义的伙伴，我不能视而不见！！\n可是我别说便当了，连做菜都……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "OK～！包在我身上！！\n我会好好指导你的！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "微光飞驹",
+            "Text": "喔喔喔喔，谢谢你，曙曙！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "微光飞驹",
+            "Text": "啊啊啊啊！蛋又焦了！！\n鲑鱼也碎成一片……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "只要把焦掉的地方拿掉就好！\n鲑鱼就拌进饭里吧！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "微光飞驹",
+            "Text": "呜哇！？手一滑，\n把砂糖倒到肉上了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "在备料时使用砂糖，\n肉就会变得柔软，很好吃喔☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "菱曙在一旁协助微光飞驹，\n并细心指导她。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "虽然东西并不是不能吃，\n但失败次数实在太多，\n让微光飞驹似乎有些沮丧了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "微光飞驹",
+            "Text": "呜，好强的敌人……！\n抱歉，都是因为我太笨手笨脚了……！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "我觉得没问题啊☆\n虽然跟预想的菜色不同，\n但都做得很好吃喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "微光飞驹",
+            "Text": "但是失败成这样，\n明天我实在没自信做得出来。\n凭我现在的能力，哪有办法做便当……！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "别担心别担心！我们还有时间，\n而且很少有人能一开始\n就样样顺利的啊！",
+            "ChoiceDataList": [
+                "菱曙你以前也是这样吗？",
+                "菱曙你也做了很多练习对吧",
+                "菱曙你也做了很多练习对吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "别担心别担心！我们还有时间，\n而且很少有人能一开始\n就样样顺利的啊！",
+            "ChoiceDataList": [
+                "菱曙你以前也是这样吗？",
+                "菱曙你也做了很多练习对吧",
+                "菱曙你也做了很多练习对吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "当然！我是在历经了无数次失败后，\n才终于学会的喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "但正因为我没有放弃坚持练习，\n才有了现在的我！！\n所以小光也要加油☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "微光飞驹",
+            "Text": "唔！对、对喔……！\n正义的伙伴也是一样的……不会放弃！\n呜喔喔喔，我会继续练习的！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "嗯！上吧，fight──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "──第二天早上，听说便当顺利完成了。\n也在这一天让我发现，\n菱曙那绝不放弃的强悍心灵从何而来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "我做了很～多练习喔～！\n甚至连次数都已经数不清了。\n而且在我小时候，失败的比例还比较多呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "但是，因为我想吃好吃的东西，\n所以我非常努力──！\n毕竟努力的前方有美食在等着我嘛☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "微光飞驹",
+            "Text": "唔！没错……有些敌人是无法轻易打倒的。\n不断挑战、克服困难，\n才算得上英雄！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "嗯嗯，一起加油吧！！\n不管几次我都会陪你的♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "在菱曙的帮忙下，便当似乎顺利完成了。\n也在这一天让我发现，\n不放弃的力量原来这么强大。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

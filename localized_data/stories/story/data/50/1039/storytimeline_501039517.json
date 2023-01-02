@@ -1,0 +1,43 @@
+{
+    "Title": "早上五点惊醒",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "早上。我打算早点前往训练员室，\n处理昨天剩下的工作──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "训练员，你还活着吗！？\n你肚子有没有被开一个大洞！？",
+            "ChoiceDataList": [
+                "是没有洞……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "太、太好了……！\n代表那真的只是在做梦……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "所以训练员没有被黑暗组织洗脑，\n也没有因为替我挡下敌人的集中攻击\n而被炸成灰……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "结果，\n我一大早就在安慰\n哭哭啼啼的川上公主……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -9,7 +9,7 @@
         },
         {
             "Name": "自产自销的人",
-            "Text": "来，这是您的新鲜鲜奶油50升。\n谢谢惠顾！",
+            "Text": "来，这是您的新鲜鲜奶油五十升。\n谢谢惠顾！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -21,13 +21,13 @@
         },
         {
             "Name": "独白",
-            "Text": "因为刚好有空闲时间，\n我被交待负责带领学生外出的工作。\n我们来到牧场的自产自销贩卖处。",
+            "Text": "因为刚好有时间，\n我被指派负责带领外出的学生，\n来到了牧场的直销站。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "菱曙",
-            "Text": "用这里的鲜奶油做的蛋糕\n都非～常Buono哦☆",
+            "Text": "用这里的鲜奶油做的蛋糕\n都非～常buono喔☆",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -39,22 +39,22 @@
         },
         {
             "Name": "川上公主",
-            "Text": "要让王子在结婚典礼当天，\n吃到我亲手做的结婚蛋糕后，\n又惊又喜彻底迷恋我～～！！！",
+            "Text": "要让王子在结婚典礼当天，\n吃到我亲手做的结婚蛋糕后，\n又惊又喜地彻底为我神魂颠倒～～！！！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "菱曙",
-            "Text": "嗯嗯，这样真的很Buono哦☆\n我也要更卖力地教你～！",
+            "Text": "嗯嗯，听起来很buono呢☆\n我也要更卖力地教你～！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "但50升的鲜奶油未免太多了……\n很难得一次看到这么多鲜奶油。",
+            "Text": "但五十升的鲜奶油未免太多了……\n很难得一次看到这么多鲜奶油。",
             "ChoiceDataList": [
                 "这么多鲜奶油要用来做什么？",
-                "这么多的鲜奶油要用来做什么呢？"
+                "这么多鲜奶油要用来做什么呢？"
             ],
             "ColorTextInfoList": []
         },
@@ -66,7 +66,7 @@
         },
         {
             "Name": "独白",
-            "Text": "正当我在脑中想像，\n用这么多鲜奶油做出来的蛋糕会多大时──",
+            "Text": "正当我在脑中想像，\n用这么多鲜奶油做出来的蛋糕有多大时──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -90,7 +90,7 @@
         },
         {
             "Name": "川上公主",
-            "Text": "啊啊啊！是牛！\n牛往这里冲过来了～！！",
+            "Text": "啊啊啊！是乳牛！\n乳牛往这里冲过来了～！！",
             "ChoiceDataList": [
                 "危险！"
             ],
@@ -98,25 +98,25 @@
         },
         {
             "Name": "独白",
-            "Text": "眼睛布满血丝的牛正在逼近。\n没有犹豫的时间，我死命地\n想让她们逃走，就在这时……！",
+            "Text": "眼睛布满血丝的乳牛正在逼近。\n没有犹豫的时间，我死命地\n想让她们逃走，就在这时……！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "菱曙",
-            "Text": "哎呀～真是有活力耶～！",
+            "Text": "哎呀～真有活力耶～！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "川上公主",
-            "Text": "菱曙！？\n站在那边会被牛撞飞的！！",
+            "Text": "菱曙！？\n站在那边会被乳牛撞飞的！！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "菱曙",
-            "Text": "没事～没事～！\n来吧，全力过来！",
+            "Text": "没事～没事～！\n来吧，全力过来──！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -128,19 +128,19 @@
         },
         {
             "Name": "独白",
-            "Text": "牛正面冲撞上菱曙。\n牛的巨大身体离开了地面……！",
+            "Text": "乳牛正面撞上菱曙，\n巨大的身躯离开了地面……！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "失控的牛",
-            "Text": "哞！？哞哞哞！？",
+            "Text": "哞！？哞哞哞～！？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "川上公主",
-            "Text": "多、多么惊人的力气！？\n牛都被吓傻了！",
+            "Text": "多、多么惊人的臂力！？\n乳牛都被吓傻了！",
             "ChoiceDataList": [
                 "那个动作难道是相扑！？"
             ],
@@ -148,7 +148,7 @@
         },
         {
             "Name": "菱曙",
-            "Text": "Buono♪\n乖孩子～要冷静下来哦～",
+            "Text": "Buono♪\n牛牛真是乖孩子～要冷静下来喔～",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -160,13 +160,13 @@
         },
         {
             "Name": "川上公主",
-            "Text": "竟、竟然抱着牛安抚……！",
+            "Text": "竟、竟然抱着乳牛安抚……！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "菱曙",
-            "Text": "久等啦～☆\n我把牛顺利送回家了～！",
+            "Text": "久等啦～☆\n我把乳牛顺利送回家了～！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -178,7 +178,7 @@
         },
         {
             "Name": "川上公主",
-            "Text": "有那样的力气的话，\n就算王子的车失控，我也能挡得下来吧！",
+            "Text": "有那样的力气的话，\n就算哪天王子的车失控，也挡得下来吧！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -199,19 +199,19 @@
             "Text": "等我们把说好的蛋糕完成，就用蛋糕\n和相扑火锅来庆祝你成为我的徒弟～！",
             "ChoiceDataList": [
                 "那也未免太多了……！",
-                "干脆认真学习相扑的招式算了？"
+                "正宗的相扑招式也学起来如何？"
             ],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "我告诉她们那些量两个人吃太多了。",
+            "Text": "我告诉她们，那些量两个人吃太多了。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "菱曙",
-            "Text": "对耶～虽然我的食量很大，\n但对小川来说可能太多……",
+            "Text": "对耶～虽然我的食量很大，\n但对小川来说可能会太多……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -235,13 +235,13 @@
         },
         {
             "Name": "独白",
-            "Text": "我就这样跟在准备大显身手的菱曙后面，\n陪着她们采购大量的食材。",
+            "Text": "我就这样跟着准备大显身手的菱曙，\n陪着她们采购大量的食材。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "隔天，栗东宿舍的人都看起来\n肚子很难受的模样。看到这一幕，\n不难想像前一天菱曙的派对有多成功……",
+            "Text": "隔天，栗东宿舍的人都一脸\n肚子很难受的模样。看到这一幕，\n不难想像前一天菱曙的派对有多成功……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -283,7 +283,7 @@
         },
         {
             "Name": "独白",
-            "Text": "从牧场回学园的路上，\n她们两个都用相扑的蹲步前进……",
+            "Text": "从牧场回学园的路上，\n她们两个都用相扑的四股踏步前进……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         }

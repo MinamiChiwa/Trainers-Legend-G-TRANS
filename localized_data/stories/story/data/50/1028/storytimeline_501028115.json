@@ -1,0 +1,426 @@
+{
+    "Title": "今晚就细火慢炖吧",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在“安田纪念”结束后不久的某一天。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "早安，训练员。",
+            "ChoiceDataList": [
+                "怎么了？",
+                "怎么了？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "平时开朗的菱曙，\n露出了有些不知所措的神情。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "嗯，那个……\n我本来想说，或许是我的错觉。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "但总觉得我的脚不太对劲。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "医生",
+            "Text": "关于检查结果……虽然不到受伤的程度，\n但有轻微的发炎。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "医生",
+            "Text": "或许是比赛跟训练为脚带来的负担，\n以及持续性疲劳，\n造成脚部发生了些许不适的症状吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "持续性疲劳……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "医生",
+            "Text": "没错。你的体格十分高大，\n相对的体重也颇有重量。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "医生",
+            "Text": "当体重越重，推进的力量越强时，\n对脚，尤其是膝盖跟脚踝等等，\n这些肌肉难以弥补的地方，负担就会越大。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "医生",
+            "Text": "一直以来，你都是多亏有天生强韧的体格，\n才能进行激烈的奔跑到现在。\n但是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "医生",
+            "Text": "现在这状况或许可以说是\n身体开始发出警讯了吧。",
+            "ChoiceDataList": [
+                "原来如此……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "医生",
+            "Text": "活用菱曙独特体型展现的\n强而有力的比赛确实很有魅力。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "医生",
+            "Text": "但是负荷越大，不管怎么努力，\n损耗都只会随之加剧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "医生",
+            "Text": "甚至有可能会\n对剩下的赛跑生涯造成影响。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "“关于今后的活动方针，\n请好好讨论”……吗～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "嗯～怎么办啊，训练员？",
+            "ChoiceDataList": [
+                "（她的身体，无疑是她最大的武器）",
+                "（她的身体，无疑是她最大的武器）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我早就知道，\n这个武器有可能成为双面刃。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "然而，我们也确实活用这个武器取得了胜利。\n至今的方向应该没有错才是。",
+            "ChoiceDataList": [
+                "（……话虽如此）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "对身体造成了影响，\n表示她承受了超出原先想像的负担。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这关系到菱曙的选手生涯。\n不能让事情发展到无法挽回的地步。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "……训练员？",
+            "ChoiceDataList": [
+                "要不要从头开始？",
+                "要不要从头开始？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "从头、开始……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "先暂时脱离比赛并减轻体重。\n然后重新摸索、建立\n能减少脚部负担的新跑步风格。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我缓缓说出提议，\n菱曙则默默地听到了最后。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "…………这样啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "……\n我、我啊──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "我想继续这样跑下去。因为大家都在等着我，\n而且现在跑步真的很开心。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "不过，可是──说得也是喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "训练员你是为了我好，\n才说出那么难过的事对吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "…………可以让我，\n稍微思考一下吗～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "菱曙所注视的方向，\n贴著可能是在收拾时被忘记撕掉的\n“安田纪念”海报──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "那张菱曙与大树快车相互对峙的大型海报\n正贴在那里。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "要做什么好呢～\n总之，先把水煮开吧～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "嗯嗯～\n跟现在体格不同的我吗～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "播报员",
+            "Text": "好，最受瞩目的是相较上一场比赛，\n大幅减重后的菱曙。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "播报员",
+            "Text": "天生的强大力道看来似乎有些微减弱，\n但相对使她的脚步变得轻盈。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "播报员",
+            "Text": "她的位置逐渐向前，\n正在伺机而动！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "嗯～感觉的确能一直跑下去呢～\n或许还能变强很多～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "…………可是。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众A",
+            "Text": "那就是菱曙！？\n跟其他选手站在一起，果然很高大呢～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众B",
+            "Text": "就是啊～！真期待她的比赛！\n应该会很有魄力吧～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众A",
+            "Text": "好、好高大啊～！\n而且跑起来也太有魄力了吧！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "为我的高大而惊讶的声音、笑脸，\n以及声援，都让我非常开心。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "“高大的小曙跟娇小的小光，\n各自拼命努力、\n全力对战的姿态让我好感动”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "──耶嘿嘿，看到留言真令人开心～\n大家都在为我们加油～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "有越来越多人支持我，\n对我说充满魄力的比赛很精彩──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众A",
+            "Text": "菱曙与大树快车……\n重量级的对战看起来真过瘾～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众B",
+            "Text": "其他选手的比赛也很有趣，\n但小曙果然是特别的……\n因为实在太让人震憾了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众B",
+            "Text": "就是啊，看得人精神都来了～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "…………嗯。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "我还是想保持现在的体格～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "可是、可是……要是不能跑步，\n就没法让大家看到我的比赛了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "怎么办呢～\n怎么办呢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "……今天还是煮杂烩粥吧～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在跟菱曙谈过今后的事后，过了几天。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "训练员、训练员，\n我想跟你谈长期休养的事。",
+            "ChoiceDataList": [
+                "……你想好了吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "呃嗯，那个……可不可以，\n再等我一下下呢。再等……三──",
+            "ChoiceDataList": [
+                "三天？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "三个月左右。",
+            "ChoiceDataList": [
+                "三个月左右！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "那个……我想在“短途跑者S”上，\n看过大家的表情再决定～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "可以吗……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──不管怎么说，我也不能逼她接受\n她自己无法同意的事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "于是我决定，\n先改用对脚负担较轻的训练项目一边看情况，\n一边等菱曙思考出答案。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

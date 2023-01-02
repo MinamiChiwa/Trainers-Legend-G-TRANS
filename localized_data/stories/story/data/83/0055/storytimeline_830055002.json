@@ -1,5 +1,5 @@
 {
-    "Title": "突然开始谋杀之谜！　其二",
+    "Title": "突然开始的谋杀之谜！　其二",
     "TextBlockList": [
         {
             "Name": "",
@@ -15,25 +15,25 @@
         },
         {
             "Name": "独白",
-            "Text": "傍晚时分，我走在学园里时，\n突然被青云天空叫住，\n似乎是要继续上次的谋杀之谜。",
+            "Text": "傍晚时分，正当我走在学园里时，\n突然被青云天空给叫住了。\n她们似乎是要继续上次的谋杀之谜。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "青云天空",
-            "Text": "我来说明一下上次的前情提要──",
+            "Text": "那么，就赶紧来说明一下前情提要──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "青云天空",
-            "Text": "上次我们发现……\n造成被害人死亡的茶碗蒸，\n容器的颜色从黄色变成了蓝色。",
+            "Text": "上次我们确定了一件事……\n就是盛装造成被害人死亡的茶碗蒸其容器，\n在送餐过后从黄色变成了蓝色对吧。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "青云天空",
-            "Text": "然后我们都认为，\n在送餐过后造访圣王房间的小鹰很可疑……",
+            "Text": "然后我们都认为，\n在送餐过后造访帝王房间的神神很可疑……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -65,31 +65,31 @@
         },
         {
             "Name": "特别周",
-            "Text": "秘密……？\n原本有这个东西吗？",
+            "Text": "秘密……？\n有那种东西吗？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "青云天空",
-            "Text": "啊──就是剧本上写的这个啦。\n“只能在第二阶段时公开的秘密”。",
+            "Text": "啊～就是剧本上写的这个啦。\n“只能在第二阶段时公开的秘密”。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "青云天空",
-            "Text": "有了新的资讯之后，可疑的人可能就不一样了。\n……各位决定如何？",
+            "Text": "只要提出新的情报，嫌犯就会换人当也说不定。\n……各位决定如何？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "草上飞",
-            "Text": "嗯～\n那不然由我先说可以吗？",
+            "Text": "说的也是～\n那不然由我先说可以吗？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "草上飞",
-            "Text": "其实……在我送过晚餐后，\n小圣王她又回去了澡堂。\n好像是有东西没拿吧。",
+            "Text": "其实……在我送过晚餐后，\n帝帝她又回去了澡堂。\n好像是有东西没拿吧。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -101,37 +101,37 @@
         },
         {
             "Name": "青云天空",
-            "Text": "哦哦？意思是送餐后，\n圣王并不在房间里面……",
+            "Text": "哦哦？意思是送餐后，\n帝王并不在房间里面……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "草上飞",
-            "Text": "不觉得很有意思吗～？\n如果送餐后小圣王离开了自己的房间，\n就代表谁都可以偷偷进她的房间。",
+            "Text": "不觉得很有意思吗～？\n如果送餐后帝帝离开了她自己的房间\n且没有目击者，任谁都可以潜入她的房间。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "草上飞",
-            "Text": "也代表所有人都有机会调包茶碗蒸的容器──\n所有人都有可能是凶手。",
+            "Text": "这代表所有人都有机会调包茶碗蒸的容器──\n所有人都有可能是凶手。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "神鹰",
-            "Text": "Bueno！\n这么一来就只有小鹰我不可能是凶手！",
+            "Text": "Bueno！\n这么一来就只有神鹰我不可能是凶手！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "神鹰",
-            "Text": "就说出我的重大秘密吧！\n其实当我去找圣王的时候──",
+            "Text": "那么我也来说出自己的重大秘密吧！\n其实当神鹰我去找帝王的时候──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "神鹰",
-            "Text": "茶碗蒸的容器已经是蓝色的了！\n也就是说，凶手比我还要早进入过房间！",
+            "Text": "茶碗蒸的容器就已经是蓝色的了！\n也就是说，凶手比神鹰我还要早进入过房间！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -143,7 +143,7 @@
         },
         {
             "Name": "草上飞",
-            "Text": "知道的资讯越多，就越能缩小凶手的范围。\n小特跟小青，你们愿意说出秘密\n来帮忙找凶手吗？",
+            "Text": "知道越多情报，就越能锁定可能是凶手的对象。\n小特跟小青，你们愿意说出秘密\n来帮忙找出凶手吗？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -155,13 +155,13 @@
         },
         {
             "Name": "特别周",
-            "Text": "那时候我刚好有看到，\n手里不知道拿着什么的小青……",
+            "Text": "虽然只有一眼，但我有看见\n手里不知道拿着什么的小青正在走动……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "青云天空",
-            "Text": "哎哟，看到我吗？",
+            "Text": "哦？看到我吗？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -173,22 +173,22 @@
         },
         {
             "Name": "青云天空",
-            "Text": "哦──真是可怕。\n这次换我被大家怀疑了是吗？",
+            "Text": "喔～真是可怕。\n这次换我被大家怀疑了是吗？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "青云天空",
-            "Text": "伤脑筋耶……\n训练员，你能不能帮我说说话啊？",
+            "Text": "伤脑筋耶……欸，训练员，\n请你帮我辩护一下嘛。",
             "ChoiceDataList": [
-                "手里拿的会不会是清洁用具之类的？",
-                "是说，你真的只是单纯的清洁人员吗……？"
+                "她可能是拿着清洁用具之类的东西",
+                "是说，你真的只是一般的清洁人员吗……？"
             ],
             "ColorTextInfoList": []
         },
         {
             "Name": "青云天空",
-            "Text": "哦，神救援。没错，毕竟我是清洁人员嘛。\n手上当然有各种清洁用具咯。",
+            "Text": "喔，神救援。没错，我毕竟是清洁人员嘛。\n那自然会带着各种清洁用具啰。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -200,7 +200,7 @@
         },
         {
             "Name": "青云天空",
-            "Text": "咦咦？好过分哦。\n你把我想成什么样的人啊──",
+            "Text": "咦咦？好过分喔。\n你把我想成什么样的人啊～",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -212,13 +212,13 @@
         },
         {
             "Name": "独白",
-            "Text": "大家都绷紧神经，\n准备听被逼到绝境的她有什么说词……",
+            "Text": "大家都绷紧神经，\n准备听被逼到绝境的她会有什么说词……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "青云天空",
-            "Text": "……小特说的话是真的。\n我那时候的确手拿东西在旅馆内走动。",
+            "Text": "……小特说的话是真的。\n我那时候的确是手拿东西在旅馆内走动。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -230,13 +230,13 @@
         },
         {
             "Name": "青云天空",
-            "Text": "你们说呢？我不是单纯的清洁人员，\n说不定是世界最强的清洁人员也不一定哦？\n呀哈哈。",
+            "Text": "你们说呢？搞不好我不是单纯的清洁人员，\n而是世界最强的清洁人员也不一定喔？\n呀哈哈。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "青云天空",
-            "Text": "……呃，你这样说哪有帮到我啊？\n真是的，可靠一点好不好～",
+            "Text": "……呃，你这样算不上是辩护吧？\n真是的，请你可靠一点好吗～",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -254,7 +254,7 @@
         },
         {
             "Name": "青云天空",
-            "Text": "……小特说的话是真的。\n我那时候的确手拿东西在旅馆内走动。",
+            "Text": "……小特说的话是真的。\n我那时候的确是手拿东西在旅馆内走动。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },

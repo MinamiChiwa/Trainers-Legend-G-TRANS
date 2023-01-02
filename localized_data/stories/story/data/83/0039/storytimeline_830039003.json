@@ -9,37 +9,37 @@
         },
         {
             "Name": "独白",
-            "Text": "我为了协助学园在今天举办的摄影活动，\n而来到某个教堂。",
+            "Text": "今天是学园主办的摄影活动，\n我为了帮忙而来到某间教堂。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "川上公主",
-            "Text": "啊啊，好棒的小圣堂啊！\n要是能在这种地方遇到王子的话……！",
+            "Text": "啊啊，好棒的结婚教堂啊！\n要是能在这种地方遇到王子的话……！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "圣王光环",
-            "Text": "你老是说这种话。\n……不过，这个地方的确是挺不错的。",
+            "Name": "帝王光辉",
+            "Text": "你老是说这种话。\n……不过，这个地点确实是挺不错的。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "圣王光环",
-            "Text": "总之，我们今天是负责来帮忙的，\n可不能因为其他事情分心。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "川上公主",
-            "Text": "是的，那当然！\n我会努力表现，万一遇到王子也才不会丢脸！",
+            "Name": "帝王光辉",
+            "Text": "总之，我们今天是来帮忙的，\n可不能因为其他事情分心。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "川上公主",
-            "Text": "在那边的训练员也是来帮忙的吗？\n那就请多指教了♪",
+            "Text": "是的，那当然！\n我会努力表现，无论何时遇到王子也不会丢脸！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "那边那位训练员也是来帮忙的吗？\n那就请多指教了♪",
             "ChoiceDataList": [
                 "请多指教"
             ],
@@ -53,7 +53,7 @@
         },
         {
             "Name": "男性摄影师",
-            "Text": "──我有预感能拍出很棒的照片！\n拜托，请稍微摆个姿势让我拍！",
+            "Text": "──我有预感能拍出很棒的照片！\n拜托，稍微摆个姿势让我拍！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -65,30 +65,30 @@
         },
         {
             "Name": "男性摄影师",
-            "Text": "请你通融一下……！对象一定要是你\n才会有我要的效果！拜托！",
+            "Text": "请你通融一下……！只有你\n才能拍出我要的效果！拜托！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "川上公主",
-            "Text": "……哎呀，\n好像被我听见缺乏礼仪的对话呢。",
+            "Text": "……哎呀，\n好像听到了缺乏礼仪的对话呢。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "圣王光环",
+            "Name": "帝王光辉",
             "Text": "是啊，那个摄影师\n完全没把规则放在眼里。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "川上公主",
-            "Text": "我过去吧。\n──多伯，现在就来救你！！",
+            "Text": "我过去吧。\n──多伯，我现在就来救你！！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "圣王光环",
+            "Name": "帝王光辉",
             "Text": "……咦？喂，川上！？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
@@ -113,7 +113,7 @@
         },
         {
             "Name": "川上公主",
-            "Text": "──那边那位先生！\n你再继续纠缠多伯，我就要对你下手咯！！",
+            "Text": "──那边那位先生！\n你再继续纠缠多伯，我就要对你下手啰！！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -125,7 +125,7 @@
         },
         {
             "Name": "川上公主",
-            "Text": "给我住口！！\n让少女感到不快的罪过可是很重的！！",
+            "Text": "给我住口！！\n让少女感到不适可是罪大恶极！！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -143,19 +143,19 @@
         },
         {
             "Name": "男性摄影师",
-            "Text": "咿！！对、对不起……！！\n我先走了～～～～！！",
+            "Text": "呃！！对、对不起……！！\n我先走了～～～～！！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "川上公主强势又充满正义感的模样，\n让摄影师落荒而逃。",
+            "Text": "川上公主强势且正义感十足的模样，\n让摄影师落荒而逃。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "目白多伯",
-            "Text": "……谢谢你，川上。\n我自己就是没办法好好拒绝。",
+            "Text": "……谢谢你，川上。\n我就是没办法好好拒绝。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -167,12 +167,12 @@
         },
         {
             "Name": "川上公主",
-            "Text": "──那就回去继续工作吧。\n为了能遇到我梦寐以求的王子！",
+            "Text": "──那我就回去继续工作了。\n为了能遇到我梦寐以求的王子！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "圣王光环",
+            "Name": "帝王光辉",
             "Text": "“梦寐以求的王子”……你这个样子，\n会用什么方式遇到王子根本不是重点了吧。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
@@ -184,8 +184,8 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "圣王光环",
-            "Text": "谁知道，\n不然你就问问看那边的训练员啊？",
+            "Name": "帝王光辉",
+            "Text": "这个嘛，如果你想知道\n不然就问问那边的训练员啊？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -194,8 +194,8 @@
             "Text": "若以我所认识的川上公主来说，\n那应该是──",
             "ChoiceDataList": [
                 "王子一定会主动现身",
-                "也有可能你自己本身才是王子",
-                "也有可能你自己本身才是王子呢"
+                "也有可能你本身就是王子",
+                "也有可能你本身就是王子呢"
             ],
             "ColorTextInfoList": []
         },
@@ -204,14 +204,14 @@
             "Text": "若以我所认识的川上公主来说，\n那应该是──",
             "ChoiceDataList": [
                 "王子一定会主动现身",
-                "也有可能你自己本身才是王子",
-                "也有可能你自己本身才是王子呢"
+                "也有可能你本身就是王子",
+                "也有可能你本身就是王子呢"
             ],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "我告诉她：“川上公主拥有许多自己独特的魅力。\n一定会有王子被你的魅力吸引，\n主动来找你的。”",
+            "Text": "我告诉川上公主：“你拥有许多独特的魅力。\n一定会有王子被你的魅力吸引，\n主动来找你的。”",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -223,25 +223,25 @@
         },
         {
             "Name": "川上公主",
-            "Text": "但我的魅力究竟是什么呢？\n详细地解释给我听吧，圣王！",
+            "Text": "但我的魅力究竟是什么呢？\n详细地告诉我吧，帝王！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "圣王光环",
+            "Name": "帝王光辉",
             "Text": "咦，什么……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "川上公主",
-            "Text": "来吧，告诉我吧！\n你是！觉得！我的哪里让你感受到魅力！！",
+            "Text": "来吧，告诉我吧！\n我的！什么地方！让你感受到魅力！！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "圣王光环",
-            "Text": "真是的，我哪有这样说啊！？\n不会自己去问那边的训练员哦～！",
+            "Name": "帝王光辉",
+            "Text": "真是的，我哪有这样说啊！？\n不会自己去问那边的训练员喔～！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -259,24 +259,24 @@
         },
         {
             "Name": "川上公主",
-            "Text": "虽然自己想像不太到会是怎么样，\n但身为公主可不能无知。",
+            "Text": "虽然还想像不太到会是怎么样，\n但身为公主可不能无知。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "川上公主",
-            "Text": "那我想要好好体验一下\n王子的心情跟感受呢！",
+            "Text": "我想要好好体验一下\n王子的心境！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "川上公主",
-            "Text": "所以，圣王就和我\n一起走小圣堂吧！！",
+            "Text": "所以，帝王就和我\n一起走结婚教堂吧！！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "圣王光环",
+            "Name": "帝王光辉",
             "Text": "……咦？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
@@ -288,19 +288,19 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "圣王光环",
+            "Name": "帝王光辉",
             "Text": "好、好啦！\n你先把你的拳头给松开啦！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "川上公主",
-            "Text": "呵呵，总有一天，\n我会以公主的身份和王子走在一起……♪",
+            "Text": "呵呵，总有一天我会以公主的身份，\n像这样和王子走在一起……♪",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "圣王光环",
+            "Name": "帝王光辉",
             "Text": "……结果还是选择当公主吗？\n也是啦，这样才像你。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []

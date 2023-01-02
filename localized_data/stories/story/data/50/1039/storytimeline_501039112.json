@@ -1,0 +1,408 @@
+{
+    "Title": "温泉旅行",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "我们到了！\n温泉旅馆！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我跟川上公主打算用掉之前\n在商店街抽中的“温泉旅游券”，\n一起来到旅馆。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "温泉里的设施全部都可以无限使用！\n高级料理也可以吃到饱！",
+            "ChoiceDataList": [
+                "看来应该可以好好放松一整天",
+                "看来应该可以好好放松一整天"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "是啊！我们就尽情在温泉里\n泡到整个人都要融化吧♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "然后等泡好温泉，\n我们就在\n训练员的房间集合！",
+            "ChoiceDataList": [
+                "我的房间？",
+                "我的房间？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "记得吃饭不是在房间吃，\n是在专用的大厅里吃……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "……真是的，你好迟钝。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "其实这种事情\n不应该大声说出口……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "不过我会从我的房间带枕头\n过去你那边玩枕头大战的♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "到时候就来打个够吧☆\n我已经等不及大打一场了～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "泡温泉中……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "呼～好舒服啊……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "在吃饭之前……应该还有很多时间……\n可以……玩丢枕头……",
+            "ChoiceDataList": [
+                "你看起来很困呢",
+                "你看起来很困呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "哪、哪有！我……\n要好好跟训练员一起在旅馆玩个过瘾……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "……",
+            "ChoiceDataList": [
+                "要玩个过瘾也需要充足的睡眠"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "……好……\n知道了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "……？哎呀，训练员呢？\n你在哪里……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "妖精",
+            "Text": "公主，你总算醒了fight。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "噫耶耶耶～～！？\n松、松鼠讲话了～～！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "妖精",
+            "Text": "公、公主！你冷静点fight！\n我发现你心里存在斗志之花──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "──咦？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "你……该不会是\nPrinfight的……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "妖精",
+            "Text": "对fight！我是光之赛场的使者！\n也是引导你成为Prinfight的妖精fight！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "妖精",
+            "Text": "嗯、嗯……这里应该不会有其他人fight。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "妖精",
+            "Text": "公主！\n请你穿上这双玻璃鞋fight！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "妖精",
+            "Text": "你是很适合担任下一代Prinfight的赛马娘！\n今天就是你命运的起点fight！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "我的……命运？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "妖精",
+            "Text": "嗯！你的命定之人──\n王子也在等你fight！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "…………我的王子。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "妖精，对不起。\n我不能穿上那双玻璃鞋。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "妖精",
+            "Text": "咦？为什么！？\n你应该一直很希望……\n自己有这种命运fight！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "不，我要自己选择我的命运。\n我要用自己这双脚继续走下去。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "而且我的王子──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "妖精",
+            "Text": "哇！？好晃！？\n梦、梦境就要……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "……这果然是一场梦。\n我要快点醒来才行。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "妖精",
+            "Text": "等一下fight！\n我有清楚听见你的心愿！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "妖精",
+            "Text": "这场梦是你跟我们连系的最后机会！\n你要是离开这场梦，\n就再也不可能成为Prinfight了fight！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "妖精",
+            "Text": "引导你的王子──\n不对，传说级的训练员……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "不，我已经知道自己该穿上哪双鞋，\n又该跟谁一起前进了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "因为我可是公主。\n是个追寻自己理想的公主！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "……唔唔……\n再见了，妖精……",
+            "ChoiceDataList": [
+                "早安，公主"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "……训练员，\n早安……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "呼啊……还来得及吃晚餐吗……",
+            "ChoiceDataList": [
+                "还来得及"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "这样啊……",
+            "ChoiceDataList": [
+                "你可以再多睡一下"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "……没关系。\n我也已经想起床了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "…………那个，训练员。",
+            "ChoiceDataList": [
+                "怎么了？",
+                "怎么了？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "三年真的过得很快呢。\n我们两个一起走过很多道路。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "那些路一点也不平坦。\n路面不只凹凸不平，\n有时候还可能有些荆棘挡路。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "但你一直没有放弃我。\n一直用心引导我。而我们──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "……也选择了彼此。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "训练员。\n你以后也愿意牵着我的手，\n跟我一起追寻理想吗？",
+            "ChoiceDataList": [
+                "那当然",
+                "那当然"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "呵呵……麻烦你了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "那我们现在就来玩枕头战吧！\n我超有精神的！",
+            "ChoiceDataList": [
+                "咦！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "毕竟我就是要跟你一起玩，\n才会特地休息啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "就算对手是训练员，\n我也不会手下留情喔♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "（……对，我已经做了选择。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "（即使有哪个陌生男子……\n有其他自称传说级的训练员王子\n出现在我面前──）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "（即使有哪个陌生女子……\n有其他自称传说级的训练员王子\n出现在我面前──）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "（我还是一样希望──你来当我的王子。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我在这段时光中，\n深刻地感受到了\n与川上公主之间无可取代的情谊……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}
