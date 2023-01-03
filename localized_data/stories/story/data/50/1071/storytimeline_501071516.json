@@ -1,0 +1,90 @@
+{
+    "Title": "良药苦口",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我去食堂吃饭时，\n发现目白阿尔丹面前摆满了陌生的料理。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "训练员，你好。\n你看，这是很稀奇的料理呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "这叫药膳料理，\n是一种能够改善内脏功能的餐点。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "听说这里尝试引进这种料理，\n但因为味道过于独特，所以都没有人点。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "我不希望食材因此被浪费掉，\n加上我很习惯吃这类料理，\n所以就多点了一些。",
+            "ChoiceDataList": [
+                "会不会有点太多了？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "虽然可能点得有点太多了，\n但我想多摄取营养。",
+            "ChoiceDataList": [
+                "会摄取过多喔",
+                "多吃点让身体变强壮吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "……这分量果然还是太多了。\n但又不能浪费……",
+            "ChoiceDataList": [
+                "我来帮忙吃吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "……谢谢你。\n那我就接受你的好意吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "请稍等一下，\n我来计算吃多少能补充适量的营养。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "之后，我帮目白阿尔丹吃掉了\n她觉得点太多的分量。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "好的。我会打造出能跑赢比赛的身体，\n敬请期待吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "后来目白阿尔丹吃完了药膳料理，\n补充了许多营养。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

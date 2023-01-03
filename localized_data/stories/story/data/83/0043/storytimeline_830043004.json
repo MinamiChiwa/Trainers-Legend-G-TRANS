@@ -1,0 +1,289 @@
+{
+    "Title": "融入黑暗的傍晚",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "某天我走在街上时……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黑衣男子A",
+            "Text": "……往这边走。\n快点跟上来。",
+            "ChoiceDataList": [
+                "那道身影是……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "晚礼服打扮的女性",
+            "Text": "欢迎大家来到本公司主办的赌场游戏大赛！\n各位的赌注只有自己的尊严。\n请尽情享受这场为期一天的对决♪",
+            "ChoiceDataList": [
+                "这、这里是……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "真是的。我还在想怎么有个家伙看起来\n像是走错了地方。原来又是你啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "我话先说在前头，这可是正常的比赛。\n没报名的家伙就算想插手──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众",
+            "Text": "喂、喂。那个人……\n是传说的荷官“天使大人”……！\n没想到能亲眼见到她……！！",
+            "ChoiceDataList": [
+                "那位天使大人，是之前在河岸边的人……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "深夜的天使",
+            "Text": "你们是……呵呵。\n好久不见了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……真不得了。\n看来天使大人很受欢迎呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "深夜的天使",
+            "Text": "而你被那个受欢迎的人选上了。\n那么──来赌上彼此的尊严吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众",
+            "Text": "天使大人亲自指定的对手……！？\n那个赛马娘是谁啊……？\n呵呵，她怎么可能赢得了天使大人……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "深夜的天使",
+            "Text": "比赛项目是轮盘。\n你下注，我来转。\n简单易懂，一次决胜负。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……可以不押数字，\n单押颜色吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "深夜的天使",
+            "Text": "可以。你可以只选黑色或红色。\n那么……开始转咯。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "天使将白球扔进旋转的轮盘里。\n球在轮盘上发出流畅的声响。\n周围的人都紧张地盯着轮盘──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "…………",
+            "ChoiceDataList": [
+                "你不看吗？",
+                "你不看吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……你还记得之前提过的习惯吗？",
+            "ChoiceDataList": [
+                "是指特别周的那个动作……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "没错。不管对决的对手是谁，\n人都会忍不住感到紧张。\n所以自然就会养成习惯，例如──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "天使大人在瞄准特定格子时，\n球会按照一定的节奏弹跳……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "深夜的天使",
+            "Text": "！？",
+            "ChoiceDataList": [
+                "真的可以听得出来吗？",
+                "真的可以听得出来吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "天使大人是位有名的荷官，\n所以多的是资料可以拿来研究呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "而且参加竞赛的选手，在测量跑速时\n都会一并锻炼自己的“时钟”。\n只要有那个时钟和调查过的节奏──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "深夜的天使",
+            "Text": "──暂停！\n之后再重新开始。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "天使大人突然喊了暂停。比赛进入休息时间，\n等休息完才会重新开始。",
+            "ChoiceDataList": [
+                "要是我当时没跟你搭话……",
+                "要是我当时没跟你搭话……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "我的作战就不会失败吗？\n哈哈……不用放在心上啦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "因为刚才那些话都只是在虚张声势。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "从她慌张成那样来看，应该是奏效了……\n这样就能阻止她耍花招。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "我们走吧。\n──去挑战没动任何手脚，纯粹的运气对决。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……那我押黑。\n赌天使大人输吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "听见中山庆典这么说后，\n“天使大人”喊出“下好离手”。\n然后白球开始旋转──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "会场一片哗然。\n白球进了黑色格子。\n赢家是……中山庆典。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "不过真正掀起骚动的是接下来的事。\n她获胜后没有理会其他赌徒，\n立刻就离开了会场──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──几天后。\n我在学园看到了中山庆典。",
+            "ChoiceDataList": [
+                "你是……",
+                "你是……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "是你啊。之前受你照顾了。\n发生那么大的骚动，\n不管是谁都会想离开吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "毕竟我去那里是为了找人一决胜负，\n而不是想要变得受欢迎啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她前方停着一辆巴士。\n……这么说来，早上的新闻\n好像有提到她的出赛信息。",
+            "ChoiceDataList": [
+                "我记得支持度是第八……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "呵呵，你知道啊？\n不过……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……如果是你，\n会赌赢还是输？",
+            "ChoiceDataList": [
+                "……赢吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "哈哈……嗯，我也一样。\n再见啦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……感觉她不管面对什么样的对手，\n都会超越对方赢得胜利。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……如果是你，\n会赌赢还是输？",
+            "ChoiceDataList": [
+                "这个嘛……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……不用勉强回答。\n会犹豫是正常的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "但我赌会赢。无论对手是谁，\n都要彻底击败对方……再见啦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

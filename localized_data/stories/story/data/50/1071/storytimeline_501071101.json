@@ -1,0 +1,637 @@
+{
+    "Title": "新年抱负",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "跑完新马级后，新的一年到来。\n经典级将在今年揭开序幕，\n而目白阿尔丹──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "新马级",
+                "经典级"
+            ]
+        },
+        {
+            "Name": "主播A",
+            "Text": "“──闪耀系列赛趋势快报，\n接下来要介绍的是这位！”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "主播A",
+            "Text": "“最近开始崭露头角的目白家大小姐，\n目白阿尔丹～！”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "主播A",
+            "Text": "“去年出道的目白阿尔丹，\n不只是目白家的赛马娘，\n还是那位目白高峰的妹妹！”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "目白高峰"
+            ]
+        },
+        {
+            "Name": "主播B",
+            "Text": "“哎呀～有个成为活传说的姐姐，\n参赛时压力会很大吧。应该也有许多粉丝\n期待你能跑出像姐姐那样优异的表现吧？”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "主播A",
+            "Text": "“是啊。社群平台上\n也都在关注你能跑出多接近\n目白高峰的战绩──”",
+            "ChoiceDataList": [
+                "（“多接近”啊……）",
+                "（“多接近”呢……）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "────打扰了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "训练员。\n新年快乐。",
+            "ChoiceDataList": [
+                "新年快乐"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "今年也请多指教。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "……你在看电视啊。\n这是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "电视的声音",
+            "Text": "“──不过应该很难吧。\n毕竟是史上第一次的雌马三冠。\n想追上可不是件容易的事──”",
+            "ChoiceDataList": [
+                "抱歉。我立刻关掉",
+                "抱歉。我立刻关掉"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "呵呵，不用在意我。\n我已经习惯被拿来和姐姐比较，\n那些话也都在预料之内。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "……我的光迹还远远不及姐姐，\n这点也是事实。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "话虽如此……\n我并不打算乖乖接受这个事实。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "接下来的道路，\n我会以能将自身光迹烙印在大家心里的\n方式向前迈进。",
+            "ChoiceDataList": [
+                "阿尔丹……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "……托训练员的福，我在新马级\n踏实地累积了“现在”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "不管别人怎么说，\n我都对之前走过的路途感到骄傲。\n所以──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "请训练员也不要太在意。",
+            "ChoiceDataList": [
+                "……我知道了，谢谢你"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "……那个，虽然有点离题，\n但我还有一些话想说。",
+            "ChoiceDataList": [
+                "怎么了？",
+                "怎么了吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "关于我──不对，\n关于我们在经典级要走的路途，\n我有件事想告诉你。",
+            "ChoiceDataList": [
+                "……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "……我在经典级有想挑战的事情。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "不过……这是更之后的事情。\n现在就提起有点过于狂妄。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "因此等接近春季的经典赛战线……\n等我完成“武者修行”，累积了足以在GⅠ\n战斗的体能和经验，又还没倒下时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "GⅠ"
+            ]
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "可以再请你陪我商量吗？",
+            "ChoiceDataList": [
+                "……不是“现在”啊",
+                "……不是“现在”呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "……是的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "果然……很奇怪吧？\n明明总是将“现在”这两个字挂在嘴边，\n却突然提起更之后的事情──",
+            "ChoiceDataList": [
+                "不，正好相反"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "目白阿尔丹对每个瞬间投入的沉重决心，\n是她的优点与强大之处。\n这点我也很清楚。不过──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "看到她将眼光放在更之后的“未来”，\n并实际将其化为言语，\n还是让我感到有些开心。",
+            "ChoiceDataList": [
+                "期待你之后来找我商量",
+                "期待你之后来找我商量"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "……很高兴能听到你这么说。\n往后也请多多指教。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "之后，我和目白阿尔丹确认完\n今后的训练内容，\n稍微放松下来时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "训练员。\n你等一下有空吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "可以的话，\n我有点事情想拜托你……",
+            "ChoiceDataList": [
+                "我有空，怎么了吗？",
+                "我有空，怎么了吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "难得像这样在新年时见面。\n要不要一起做有节庆气氛的事情？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "我平常都是和目白家的人一起过年，\n今年想稍微转换一下心情──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "如果训练员不介意的话……\n可以陪我一起尝试吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "虽然这个提议让人有点意外，\n但或许正好适合让她放松一下。\n说到有节庆气氛的事情──",
+            "ChoiceDataList": [
+                "笑福面",
+                "去吃年糕汤",
+                "放风筝"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "哇……！笑福面！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "听起来很棒，一起玩吧！\n训练员室里有一组吗？",
+            "ChoiceDataList": [
+                "你、你看起来很开心啊",
+                "你、你看起来很开心呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "……说来惭愧，\n我大部分的时间都是独自度过，\n不太习惯和别人一起玩。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "因此……只要有人像这样邀我一起玩，\n我就会忍不住开心起来……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "呵呵，这样有很失态吗？",
+            "ChoiceDataList": [
+                "我觉得很好"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "感觉好像看见总是沉着冷静的\n目白阿尔丹令人意外的一面，\n让我也跟着开心起来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "之后，我从训练员室里\n拿出娱乐用的笑福面组合──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "这是鼻子吧……？\n所以要放这里……\n呃，眼睛是放在……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "…………好。完成了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "目白阿尔丹拼出来的脸，\n和原本的脸相比……\n显得相当有独创性。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "噗，呵呵……！\n完全不一样呢……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "这游戏还真是困难。\n接下来轮到训练员了。",
+            "ChoiceDataList": [
+                "我不会输的",
+                "我不会输的"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "让我看看你的实力吧……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我和目白阿尔丹像这样不时欢笑，\n一起过了一个开心的新年──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "虽然元旦已经过了，\n但这样很有新年的感觉呢。\n我也喜欢年糕汤。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "学园的食堂只有在新年期间\n会推出各式各样的年糕汤。\n我本来打算去那里吃──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "──那个。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "不介意的话……\n可以让我来煮年糕汤吗？",
+            "ChoiceDataList": [
+                "咦"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "这也算是感谢你平时的照顾，\n我想用我家的作法煮年糕汤，\n给训练员享用……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "我有跟婆婆请教过作法，\n应该是不至于做出难以下咽的料理。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "……不知你意下如何？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "这个突如其来的提议让我有点惊讶，\n不过身为目白阿尔丹的训练员，\n我不能忽视她“现在”想做的事情……",
+            "ChoiceDataList": [
+                "那我就不客气地接受你的好意了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "……！谢谢你。\n那就来准备材料吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "之后，目白阿尔丹跟食堂\n借了材料和厨房──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "──久等了。\n请你品尝看看吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "──最后完成的年糕汤里有许多配料，\n并散发令人食指大动的高汤和酱油的香味。",
+            "ChoiceDataList": [
+                "我开动了！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "配料都被整齐切成方便入口的大小，\n年糕也烤得很漂亮，能够隐约窥见\n目白阿尔丹细心的厨艺。不过──",
+            "ChoiceDataList": [
+                "（……味道好像有点淡？）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "虽然因为味道纤细又温和，\n所以还是非常美味，\n但与此同时……也让人觉得清淡。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "……是不是味道太淡了？",
+            "ChoiceDataList": [
+                "不，没这回事──"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "呵呵──\n不用太顾虑我的心情。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "非常抱歉。\n看来我的坏习惯又跑出来了。",
+            "ChoiceDataList": [
+                "坏习惯？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "我做的料理……味道不知为何常变得很清淡。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "大概是长期待在医院，\n已经习惯了能让身体好吸收的味道。\n所以自己做料理时也会变成那个味道──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "姐姐以前也曾经取笑我，\n说“你做的菜很像我以前\n在医院吃的病人餐”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "……难得有机会做料理给训练员吃，\n结果还是被我搞砸了。",
+            "ChoiceDataList": [
+                "没这回事"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "这碗年糕汤让我看见了目白阿尔丹\n全新的一面，光是这样就让我非常满足──",
+            "ChoiceDataList": [
+                "真的很好吃"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "这个味道也是她累积的“现在”之一。\n怎么可能会不好吃。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "……你真的很温柔呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "之后，我们吃着年糕汤，\n一起热烈地聊着无关紧要的话题，\n悠闲地度过新年──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "放风筝……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "真是个好提议，一起放吧！",
+            "ChoiceDataList": [
+                "你、你还真是兴致勃勃",
+                "你、你还真是兴致勃勃"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "其实……\n我从来没放过风筝。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "我小时候几乎没有机会到外面玩耍，\n所以曾对偶尔会出现在远方天空的\n风筝心怀憧憬。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "即使之后年岁增长，直到今天依然\n没有机会从事这项娱乐──",
+            "ChoiceDataList": [
+                "那就全力放风筝吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "……！嗯。来放吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我们拿出娱乐用的风筝，\n来到学园附近的公园──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "呵呵，感觉开始兴奋起来了。\n不晓得能不能放得好？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "男孩",
+            "Text": "──欸欸！\n姐姐你们也是来放风筝的吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女孩",
+            "Text": "一起放吧！\n我们很会放风筝呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "哎呀……！\n感谢你们的邀请。\n我是第一次放风筝──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "男孩",
+            "Text": "咦，真的假的！？\n那我教你怎么放吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女孩",
+            "Text": "呃，首先要决定负责拿风筝和\n放风筝的人──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "──成功了！训练员，\n我们的风筝升上天空了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "男孩",
+            "Text": "好耶！我们也来放吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女孩",
+            "Text": "来比赛谁的风筝放得比较高吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "好啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我看着目白阿尔丹天真无邪地和\n孩子们一起开心地放风筝，\n度过一个温馨的新年──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

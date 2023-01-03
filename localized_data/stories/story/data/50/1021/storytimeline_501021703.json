@@ -1,0 +1,281 @@
+{
+    "Title": "去吧！体验牧场！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我和玉藻十字一起出门，\n买好了想要的东西后──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "喔！\n看来溪流和小栗都有来嘛！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "那就赶快开始我们的牧场之旅吧！\n训练员，就靠你带路咯！",
+            "ChoiceDataList": [
+                "交给我吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "呵呵♪\n我要去给可爱的动物们摸摸头～♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "牛奶、起司、优酪乳……\n一定有很多好吃的东西吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "好，看来溪流和小栗都各自去自己想去的地方了，\n我们也该出发了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "“体验用羊毛毡做杯垫”……\n是在那边！",
+            "ChoiceDataList": [
+                "你是要做给家人的吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "对啊！\n我要做非常帅气的给他们──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "牧场的牛群",
+            "Text": "哞～～～～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "饲养员",
+            "Text": "等等我啊啊啊啊！！\n牛舍不是往那个方向啊～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "糟糕，我们快点过去！\n动物们正往溪流的方向冲去……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "大家～过来这边喔～♪\n牛牛、绵羊羊、山羊羊都过来这边，\n让我帮你们摸摸头喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "喂，结果是你把它们给叫来的喔！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "唉……我刚刚看饲养员一副很伤脑筋的样子，\n我要把它们都带回去了喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "动物们总算是都回去了……\n我也可以去做杯垫──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "嗯？\n小玉和小玉的训练员……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "你们是来约我去哪玩的吗？\n……真的很不好意思，我还要忙着搬牛奶。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "那不是工作人员的工作吗？\n为什么是小栗在做啊？？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "因为这里的冰淇淋非常好吃，\n来这里的其他游客也打算要吃的，\n却全都被我吃光光了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "所以，为了赔罪，\n我在这帮忙搬要用来做冰淇淋的牛奶。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "原来是这样喔。\n那我也来帮忙吧！\n这样才能比较快做完！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就这样，天色越来越晚，\n不知不觉来到了牧场结束营业的时间……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "抱歉耶，小玉……\n因为帮我的关系，害你错过做杯垫的时间了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "我也对不起……\n为了帮忙把动物们带回去，\n花掉了你很多时间吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "啊──真是的！没关系、没关系啦！\n反正我也玩得很开心，没有留下遗憾啦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "（而且──）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字的妹妹",
+            "Text": "哇啊～！\n它长得比我还要大耶！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字的弟弟",
+            "Text": "好多店家喔～！\n嗳──嗳──玉藻姐姐，我想去那里看看～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "喂喂喂，不要用跑的啦！\n有什么想去的地方，\n姐姐都会带你们去的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字的弟弟＆妹妹",
+            "Text": "好──♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "（呼──走了好多路喔！\n两条腿都硬梆梆的了。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "（不过，看到他们都很开心的样子，\n就有种……这样也很不错的感觉。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "虽然过程乱糟糟的，但大家都玩得很开心吧？\n那这样就没有问题了！",
+            "ChoiceDataList": [
+                "回程就好好休息一下吧",
+                "还想再跟大家一起出游呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "是啊，反正到公交车站之前还有一段时间。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "因为做了很多劳动的关系，\n就连我都觉得自己好像……要没电了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "哎呀哎呀，\n小玉好像睡着了呢。",
+            "ChoiceDataList": [
+                "辛苦了，玉藻"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "呼呼……\n谢谢……你们……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看着玉藻十字睡着的模样，\n让我有一种身心被疗愈的感觉。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "对啊！不管是去山上还是海边……\n我们这群人一起去一定会很好玩的！",
+            "ChoiceDataList": [
+                "到时候就去玉藻想去的地方吧",
+                "到时候就去玉藻想去的地方吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "有什么想做的事情也要告诉我喔？\n像是想玩“真是好孩子呢”的游戏之类的……\n我很乐意当你的妈妈喔～♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "溪流是妈妈的话……那我就是爸爸了吧。\n小玉，尽管跟爸爸提出要求，没问题的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "啊～你们一个个都这样！！\n上次鲷鱼烧的大叔这样，这次连你们也这样，\n我明明就已经是个大人了吼～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "于是，这场牧场之旅，\n就在和乐的气氛下落幕了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

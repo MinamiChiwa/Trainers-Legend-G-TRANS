@@ -1,0 +1,316 @@
+{
+    "Title": "阿尔丹的绕路讲座．变化篇",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……和目白阿尔丹一起外出后，\n我不经意地看了一眼手表。\n虽然现在回去还有点早……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "训练员……不介意的话，\n要不要再来绕路呢？",
+            "ChoiceDataList": [
+                "好啊",
+                "可以啊"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "呵呵，太好了。那么，\n今天该去哪里好呢──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "……啊！阿尔丹和训练员！\n你们好！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "特别周和小栗同学。\n你们今天一起出门吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "嗯。我今天要和特别周一起去\n一间叫“极粗面锤头”的\n拉面店。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "锤头……真是独特的店名呢。",
+            "ChoiceDataList": [
+                "机会难得，要跟去看看吗？",
+                "机会难得，要跟去看看吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "说得也是。挑战未知也是\n绕路的乐趣所在。身为绕路高手，\n怎么能错过这个机会呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "那么……\n请让我们和两位同行♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "于是我们一同前往\n名叫“极粗面锤头”的拉面店──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "客人A",
+            "Text": "蔬菜增量\n背脂增量\n加酱油和大蒜！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "客人B",
+            "Text": "大猪三倍，\n背脂多一点大蒜少一点！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "怎……怎么回事？\n从刚才开始，就一直听到\n一些像咒语的话……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "我要蔬菜增量再增量，\n大蒜增量背脂增量，\n酱油，大猪四倍！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "我要大猪五倍，\n全部增量增量再增量，\n马里亚纳海沟奥林帕斯山大喷火。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "咦！？连你们两位也这样……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "唔……阿尔丹该不会\n是第一次来这种店吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "啊，那我简单教你一些用语吧。这里的卖点\n是叉烧，点餐不是用餐券而是用喊的──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "──不用了。感谢你的好意，\n但这也是绕路的一环……身为绕路高手，\n至少必须靠自己的力量点餐。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "没问题……即使听起来像咒语，\n仔细听的话，\n应该还是能找出规则。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "客人C",
+            "Text": "蔬菜增量\n大猪四倍！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘客人",
+            "Text": "蔬菜圣母峰，\n背脂增量再增量！\n大猪四倍！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "……原来如此。我懂了。\n蔬菜和大蒜是配料。\n增量则是用来指定分量。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "……然后四倍和五倍，\n则是用来指定汤头的复杂度和浓度。\n就像四重奏和五重奏那样──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "至于为什么要喊出山的名字……\n是因为味道的广度能让人\n联想到那些壮阔的风景！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "我听懂大家在说什么了……！\n我也有办法……点我自己专属的餐点！\n──我上了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "拉面店老板",
+            "Text": "久等了，蔬菜华山，\n大蒜少一点，\n大猪六倍。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "阿……阿尔丹，你真的没问题吗！？\n蔬菜和叉烧叠得像遗迹一样……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "……不需要勉强。\n我们可以帮忙吃。\n而且我对那个组合也有兴趣。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "──这是我召唤出来的怪物。\n我该怎么办才好──？",
+            "ChoiceDataList": [
+                "大家一起融洽地分掉吧！",
+                "先挑战再说！",
+                "先挑战再说！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "──这是我召唤出来的怪物。\n我该怎么办才好──？",
+            "ChoiceDataList": [
+                "大家一起融洽地分掉吧！",
+                "先挑战再说！",
+                "先挑战再说！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "是啊！不勉强自己，\n开心地吃最重要！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "嗯。而且即使点的是增量，\n只吃一碗还是让我觉得有点不够。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "不过……这样等于是麻烦两位\n替我收拾残局……",
+            "ChoiceDataList": [
+                "绕路的目的是要开心吧？",
+                "绕路的目的是要开心吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "……的确。你说的没错。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "那么，不好意思……\n请你们帮忙一起吃吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "呼……多亏有两位帮忙，\n我才能开心地享用。\n谢谢你们♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "我才要说谢谢，真的很好吃呢！\n大猪六倍果然很有魄力！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "是啊，从来没体验过这种满足感。\n下次我也来点一样的试试看。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "虽然中途还有点担心──\n不过看来这次的绕路\n最后也是圆满收场。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "……说得也是。这个怪物，\n必须由点餐的我亲自葬送才行。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "坦白讲，我不晓得我的胃\n何时会到达极限……不过。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "正因为如此，我才能专心应付眼前的\n这碗面。将我的一切……都投入“现在”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "我要上了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "目白阿尔丹勇敢地发起挑战──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "……吃、吃不下了～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……但还是败给了自己创造出来的怪物，\n让这件事以悲剧收场──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,537 @@
+{
+    "Title": "两人的约定",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "目白多伯的出道战顺利结束，\n需要决定下一个目标。\n一般来说，赛马娘参赛的标准路线是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "皋月赏、日本德比、菊花赏\n这条经典三冠路线──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "皋月赏",
+                "日本德比",
+                "菊花赏",
+                "经典"
+            ]
+        },
+        {
+            "Name": "独白",
+            "Text": "不然就是樱花赏、橡树大赛、秋华赏\n这条雌马三冠路线。",
+            "ChoiceDataList": [
+                "（想先问问多伯本人的想法呢）"
+            ],
+            "ColorTextInfoList": [
+                "樱花赏",
+                "橡树大赛",
+                "秋华赏"
+            ]
+        },
+        {
+            "Name": "独白",
+            "Text": "而此时有两个身影，\n正在夕阳之下奔驰──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "呀啊啊啊啊～～～！！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "唔……喝啊啊啊啊！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "呼……呼……呼……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "……呵呵，成功了～！\n我跑得比较快呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "嗯，真是厉害……！\n完全被你辗压了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "真是太好了♪\n算是稍微展现了训练的成果吧～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "训练……对了，光明，\n听说你最近的训练项目改变了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "跟之前相比，把自己逼得更紧……\n让赖恩又是担心，\n又为你的成长开心，心情很复杂喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "哎呀♪呵呵呵，赖恩姐姐也真是的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "……但不是只有我有改变啊。\n自从闪耀出道之后，你也变了很多。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "咦……是、是这样吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "哎呀，你自己都没感觉吗～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "……我从很～久以前就一路看着你，\n所以很清楚。多伯的眼神变得不一样了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "对耶，如果是跟现在的你──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "嗯？……怎么了，光明？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "呵呵……多伯，\n等一下可以抽出一点点时间给我吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "呼，好棒的景色～\n一眼望去能看到好远的地方呢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "……光明，\n怎么会想要带我来这里？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "呵呵……多伯，我问你，\n目白家是在那个方位吗～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "让我不禁回想起来～\n在那边跟你一起度过的日子──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "小时候，我们两个曾偷偷跑进书房呢。\n我记得那时候多伯总是\n牵着我的手到处跑～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "那是因为……一被发现就会被骂，\n可是光明走路时还是一派悠闲的样子。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "那时候真是受你照顾了～♪\n……而且还大饱眼福了喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "书架上摆放的无数荣耀的证明……\n那些目白家的人谱写出来的伟大历史。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "麦昆和赖恩姐姐、\n善信……除了她们之外，\n还有许许多多的前辈将目白的荣耀传承下来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "麦昆",
+                "善信"
+            ]
+        },
+        {
+            "Name": "目白光明",
+            "Text": "继承、琢磨，并加以升华……\n多亏了大家的努力，目白的名声\n才能至今仍在赛场上继续发光发热。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "那么，我们呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "难道要一直以“目白家的老幺”身份……\n受到过去荣耀的羽翼庇护，\n憧憬着前人光荣的足迹吗～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "我可不想这样喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "光明……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "多伯，我一定会接下你的棒子，\n完成令人印象深刻的出道──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "将来取得经典三冠。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "就连敬爱的赖恩姐姐都可能\n相形失色的威猛光芒，\n一定要由我本人献给目白家。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "而我也一定要──让自己成为\n“目白的全新荣耀”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "唔……！\n全新荣耀……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "没错～\n──那么，多伯……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "你有何打算呢～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "我……我……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "（一直以为……只有我一个人\n活在阴影当中。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "（以为靠自己的双脚走向阳光的\n光明、赖恩和麦昆都……\n“跟我不一样”。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "（但是──！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "我刚刚拿出了……全力……！\n就在这里……比赛时！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（哇啊啊啊啊啊啊啊！！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "（多亏了大家我才能跑完全程。\n知道原来自己也做得到，\n变得比较有自信……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "（既然现在还能感受到当时的胸口高涨之情，\n那一定……！！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "………………我也一样。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "我也一定要……！\n跟光明迈向相同的目标！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "我也会以摘下后冠为目标。\n在“樱花赏”、“橡树大赛”、“秋华赏”\n这三个赛事中获胜──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "继承目白家至宝……\n获得雌马三冠的那位\n高峰的成就！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "高峰"
+            ]
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "所以──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "你不要自己走那么快，\n跟我一起谱写吧，光明。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "我们一起谱写出“目白的全新荣耀”……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "呵呵呵……果然如此♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "我就知道现在的多伯\n一定会这么说喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "……咦，难道你在测试我？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "没有啦，怎么会测试你～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "只是想要听你用自己的话，\n把自己的心情好好表达出来而已。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "唉……你老是这样，真的是败给你。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "呵呵。那么～我就重新问你一次──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "你愿意跟我携手同行吗，多伯？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "──嗯。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "多伯＆光明",
+            "Text": "我们两个要一起夺得三冠跟后冠，\n将全新荣耀献给目白家──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "两人朝着夕阳高喊，誓言响彻天际──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "那天晚上，目白多伯\n来将发生的这一切都告诉我。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她要与同期的目白光明\n一起谱写“目白的全新荣耀”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "以及她为了达成这个目标，\n需要夺下雌马三冠──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "高峰曾经写下的荣耀……\n我也想跟随她的脚步。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "……我自己很清楚喔。现在的我\n还有很多不足的地方，\n没资格说这种话。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "可是──！",
+            "ChoiceDataList": [
+                "不足的地方，我们接下来一起补足吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "……！！",
+            "ChoiceDataList": [
+                "我的存在就是为了让你变得更强！",
+                "我的存在就是为了让你变得更强！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "什么更强嘛……真是的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "训练员……\n你真的是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "……那么，为了在经典赛中\n往雌马三冠路线前进，\n先让我参加“阪神新马锦标”吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "阪神新马锦标"
+            ]
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "……那么，为了在经典赛中\n往雌马三冠路线前进，\n先让我参加“阪神新马锦标”吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "阪神新马锦标"
+            ]
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "要先在前哨战“阪神JF”留下漂亮的成果……\n提升能力之后，朝正式的后冠战场迈进！",
+            "ChoiceDataList": [
+                "好，就这么做！",
+                "嗯，就这么做！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "目标是“阪神JF”，\n接着是雌马三冠。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "目白多伯也以高贵的目白家成员身份，\n迈开华丽的步伐了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

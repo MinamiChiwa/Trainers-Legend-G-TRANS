@@ -1,0 +1,310 @@
+{
+    "Title": "情人节",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "今天川上公主\n约我到顶楼见面。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "……吸气……吐气……\n等一下训练员\n来了之后……",
+            "ChoiceDataList": [
+                "公主？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "训练员！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "请、请等一下！\n你比约好的时间早来太多了！\n这、这样的话……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "TAKE 2～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──TAKE 2。",
+            "ChoiceDataList": [
+                "（……TAKE 2？）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "……你来了啊，\n训练员。",
+            "ChoiceDataList": [
+                "怎么了吗，公主？",
+                "怎么了吗，公主？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "呃…………那个……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "今……今今今、今天！\n呃……我想想……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "……我接下来要说什么？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "TAKE 3～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "……咳咳！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "“……你来了啊，\n训练员。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "“你知道今天是什么日子吗？\n是二月里最浓纯香甜的大日子……”",
+            "ChoiceDataList": [
+                "……情人节？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "嗯！对，情人节！\n所以请你──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "收下这个吧！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "川上公主满脸通红，\n把一个包装得很可爱的盒子递给我。",
+            "ChoiceDataList": [
+                "谢谢你！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "不、不客气！\n然、然后……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "那个……我刚才给巧克力的时候……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "有符合\n情人节的正确礼仪吗？",
+            "ChoiceDataList": [
+                "礼仪？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "我、我有查过很多资料！\n让自己别搞砸情人节的气氛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "情人节送人的点心\n好像有不同的意义，\n而且还要在正确的时机送人？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "毕竟做事符合礼仪才能磨练出优雅的气质。\n所以我想先从送给身边人的礼物\n开始训练自己……",
+            "ChoiceDataList": [
+                "你用不着注重这种礼节"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "可、可是，不遵守情人节的礼仪，\n收礼物的那一方也没办法发自内心感到开心……",
+            "ChoiceDataList": [
+                "你有这份心意就够让我高兴了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "……",
+            "ChoiceDataList": [
+                "我可以吃吗？",
+                "我可以吃吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "唔！当、当然可以！\n请吃！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我打开川上公主给我的礼物，\n就看见里面装着常在网络上受到热烈讨论的\n知名店家卖的巧克力。",
+            "ChoiceDataList": [
+                "……你准备得很用心嘛",
+                "……你准备得很用心嘛"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "嘿嘿嘿……\n因为我希望能让训练员开心啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "之后，我就在川上公主的注视下，\n吃起巧克力。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "……啊！？先等一下！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "我希望你能……\n呃……再让我做一件事前准备。",
+            "ChoiceDataList": [
+                "也是你说的礼仪吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "不是……我查出来的礼仪\n没有写到这一点……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "就、就是……手工巧克力好像加一点\n自己的心意就会变好吃。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "我在途中也有尝试在巧克力里灌注自己的心意，\n可是我不确定……有没有变好吃。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "……我可以在你吃之前，\n再多加一点心意进去吗？\n只是情人节礼仪没有提到，或许不应该这么做……",
+            "ChoiceDataList": [
+                "当然了，可以麻烦你吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "谢、谢谢你！\n呼……巧克力！拜托你！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "……你要变得很好吃～\n变得很好吃……！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "好了……请你吃吃看。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在莫名紧张的川上公主催促下，\n我拿起放在盒子里的杯子蛋糕，\n吃了一口。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "（吞口水……！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她大概没有常做料理。\n我感觉到嘴巴里出现焦掉的苦味，\n以及砂糖没有彻底融入进去的甜味。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "不过──",
+            "ChoiceDataList": [
+                "这里面满满都是你的心意，很好吃喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "唔！真、真的吗！？\n呵呵呵……我也很高兴你吃得开心♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──几天后。\n我也准备了回礼送给她。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

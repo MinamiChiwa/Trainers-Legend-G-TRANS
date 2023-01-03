@@ -1,0 +1,531 @@
+{
+    "Title": "安～心的练习对象？",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（铃铃铃铃铃！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "闹钟声揭开了一天的序幕。",
+            "ChoiceDataList": [
+                "今天也和赛马娘一起切磋砥砺吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我迅速着手进行工作准备，\n然后前往训练赛道。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "今天是举行模拟赛的日子。\n准备参赛的赛马娘们正在赛道上练跑。",
+            "ChoiceDataList": [
+                "大家都为了梦想努力着啊",
+                "大家都为了梦想努力着呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "真的，我有同感～♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "这里果然是才能的宝库呢！\n到处都有值得我下针的赛马娘～♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "呵呵呵♪\n我要先从谁开口问起呢～？",
+            "ChoiceDataList": [
+                "手纲小姐～！这里有可疑人士！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "咦？喂！？等一下等一下！！\n我是这些赛马娘的同伴啦！\n我要这样刺下笹针，让她们能力大爆发──",
+            "ChoiceDataList": [
+                "果然很危险啊！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "真是的～一点都不危险喔！\n我都修行出成果了，\n连卷湿纸巾的手速都更上一层楼了！",
+            "ChoiceDataList": [
+                "……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "唔唔唔……那不然，你来让我下针嘛～！\n只要你亲身体验过，就会明白\n“我下针，你安心～”了吧？？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "在你觉得我合格之前，\n我都不会对她们扎针的～！好不好？？",
+            "ChoiceDataList": [
+                "知道了，那我奉陪！",
+                "那、那我一边看看状况……",
+                "不用了！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "太好了～♪那事不宜迟，\n请你让自己变得近似赛马娘吧☆",
+            "ChoiceDataList": [
+                "……变得近似……赛马娘……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "嗯？你怎么了？\n为什么一副被笹针定住的惊吓模样？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "如果下针对象跟赛马娘差太多，\n也没办法证明什么吧？",
+            "ChoiceDataList": [
+                "是很有道理……但那怎么可能？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "没这回事喔～！\n只要你持续做赛马娘式的训练，\n听说就会逐渐近似她们了！应该吧♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "那要开始咯，训练员……不，\n<username>！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "要锻炼速度就是踩室内脚踏车吧！\nGo、go、go！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "不错喔，再快一点！\n继续提高踏频吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "再来是游仰式！\n持续游吧，挑战持久力的极限♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "嗯嗯！\n你连姿势也很～稳呢☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "最后一项，用仰卧起坐来锻炼力量～！\n1、2，安心！\n3、4，安心！",
+            "ChoiceDataList": [
+                "（果、果然还是越来越吃力了……）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "别放弃！\n你并不是自己孤单一个人训练──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "你要相信……我们之间的友情！！",
+            "ChoiceDataList": [
+                "友、友情……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我实在不懂这话是什么意思，\n但不是自己孤单一人这点，的确很重要。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "没错，就像我跟<chrname>\n一路以来的训练──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "Wow、wow、wow，大成功☆\n这正是属于我们的友情训练吧♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "辛苦了☆\n看样子，你好像充分锻炼过了呢♪",
+            "ChoiceDataList": [
+                "那个……我们为什么要来保健室？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "真是的～你还装傻！\n我们的重头戏都还没开始吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "训练告一段落了，\n你可要让我扎一针喔～♪",
+            "ChoiceDataList": [
+                "我、我还没做好心理准备……！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "没事没事！\n很快就会结束的，你安心吧～☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "我扎！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "扎针大成功！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "没想到……我的疲劳一扫而空，\n身体状况变好了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "看你那样子……\n咦，成功了？真的假的！？咦！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "太好了～～～！！\n我真厉害，果然是天才～☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "我可要照这样，继续成功下去喔～！\n你也要以赛马娘为目标，好好加油☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "怎么样！？\n是不是有麻麻的效果了！？",
+            "ChoiceDataList": [
+                "是麻麻的……我的身体麻痹了……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "咦咦？怎么会～\n难道是效果太强了吗～！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "嗯……不过，我们下次还有机会嘛！\n别放在心上☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "我想你短时间内应该动不了，\n那你保重喔～再见！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "没办法了，在身体能动之前，\n我决定来重新构思\n<chrname>的训练项目。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "嗯嗯，我明白♪那事不宜迟，\n请你让自己变得近似赛马娘吧☆",
+            "ChoiceDataList": [
+                "……变得近似……赛马娘……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "嗯？你怎么了？\n为什么一副被笹针定住的惊吓模样？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "如果下针对象跟赛马娘差太多，\n也没办法证明什么吧？",
+            "ChoiceDataList": [
+                "是很有道理……但那怎么可能？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "没这回事喔～！\n只要你持续做赛马娘式的训练，\n听说就会逐渐近似她们了！应该吧♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "那就照你说的，一边看看状况，\n一边让自己变得近似赛马娘吧♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "那要开始咯，训练员……不，\n<username>！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "开始咯～！\n首先，在草地上稍～微冲刺！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "很好很好，没想到你速度还挺快的♪\n虽然还比不上我逃跑的速度就是了☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "再来是游蛙式！\n只要持久力够就安心～♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "……你游起来，很像我把笹针掉进水池、\n拼命到处找的时候呢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "那么，最后当然要锻炼力量♪\n只要在沙土上跑一下就会有力量了！应该吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "去吧～\n……啊啊！我的高跟鞋里怎么有土！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "辛苦了☆\n你看起来尽情挥洒了汗水呢♪",
+            "ChoiceDataList": [
+                "那个……我们为什么要来保健室？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "真是的～你还装傻！\n我们的重头戏还还没开始吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "训练告一段落了，\n你可要让我扎一针喔～♪",
+            "ChoiceDataList": [
+                "我、我还没做好心理准备……！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "没事没事！\n很快就会结束的，你安心吧～☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "我扎！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "总觉得……\n有股力量涌现出来了！\n但──",
+            "ChoiceDataList": [
+                "手指好像麻痹了……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "唔唔，这反应真是让人无法安心呢！\n也就是说，还大有改善空间吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "可能是我下针的力道太轻──\n但更可能的，是你训练得还不够！",
+            "ChoiceDataList": [
+                "我觉得我已经充分锻炼了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "不！为了让你变得近似赛马娘，\n必须做等级更高的训练才行！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "假设这次的训练是等级一的话──\n感觉至少需要做到等级三吧？",
+            "ChoiceDataList": [
+                "我、我尽量……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "呵呵♪为了我的未……不，\n是为了笹针与赛马娘的未来，\n你要多多锻炼，变得更加近似赛马娘喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "加油，\n<username>☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "嗯嗯～？我有点听不清楚！\n麻烦你再说一次？",
+            "ChoiceDataList": [
+                "我的责任也太重了吧！",
+                "我的责任也太重了吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "说完后，我没等她开口回答，\n立刻掉头就走，但──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "给我站～住！\n练习对象，你别想逃！！",
+            "ChoiceDataList": [
+                "竟然追过来了！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "我可是人称“穷追不舍的刺刺美”，\n你别以为逃得出我的手掌心喔～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "安心～！！！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "呵呵呵♪\n你再也逃不掉了～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "干脆一点，把身体交给我这个传说笹针师，\n安心泽刺刺美吧☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "我扎！！",
+            "ChoiceDataList": [
+                "啊啊～～～～～！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "呵呵呵！\n如何？有股力量涌现出来了吧！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "……咦？哎呀，哎呀哎呀哎呀！？",
+            "ChoiceDataList": [
+                "头……好晕……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "啊……这个，该怎么说呢……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "安心泽刺刺美",
+            "Text": "……Wow，再见啦～☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "真不该答应这种诡异的提议……\n于是我将这件事铭记在心，\n准备当作今后的训练教材。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

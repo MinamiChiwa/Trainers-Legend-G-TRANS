@@ -1,0 +1,362 @@
+{
+    "Title": "迎向出道战",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──我一边在房间里观看川上公主训练的影片，\n一边思考。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我该让她用什么方式跑完这次的出道战……\n不对，是以后的每一场比赛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──那是我又安排\n另一次模拟赛时的事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "嗯、嗯嗯……？哎呀？\n唔唔唔……！？",
+            "ChoiceDataList": [
+                "（……她的跑法又出状况了）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她的起跑冲刺跟姿势在练习的时候\n还很完美。不过……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "一到模拟赛之类的“比赛”赛场上，\n就会问题不断。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她的身体会突然变得像没有加润滑油的机器\n一样僵硬。而且只有蹬步的力道变强，\n导致整体动作显得很沉重。会这样恐怕是因为……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "……她太用力了。",
+            "ChoiceDataList": [
+                "手纲小姐！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "哇！？对不起！\n我有先问过你可不可以进来，\n也听到你答应了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……看来我太专心看影片，\n回答得很心不在焉。",
+            "ChoiceDataList": [
+                "我才应该向你道歉"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "你别放在心上。我能理解你对川上公主这种情形\n感到不安的心情。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "而且太过用力成习惯的话，\n也有可能成为受伤的原因。",
+            "ChoiceDataList": [
+                "……是啊"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "而且我不只担心她可能受伤。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "如果身体跟不上她的斗志，\n让她下意识绷紧神经，动作自然会变得僵硬。\n要是她一直用这种跑法──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──很可能会让这种太过用力的跑法\n变成她的“坏习惯”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "以这种状态参加大型比赛的话，\n她……一定会更紧张吧。",
+            "ChoiceDataList": [
+                "……我也这么认为"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "“参加比赛”\n本来就是川上公主\n已经期待许久的梦想。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "不过，现在的她\n要以大舞台为目标还太早了。\n考虑到她的将来……",
+            "ChoiceDataList": [
+                "（如果要为了她好──）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──终于来到了出道战当天。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "闪耀出道"
+            ]
+        },
+        {
+            "Name": "川上公主",
+            "Text": "唔喔喔喔喔！我好有干劲，也锻炼得很充分！\n看我现在就来打倒赛场上的所有人！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "毕竟公主战士的公主超强的！\n我也要变成最强的赛马娘才行！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "至少新马级要参加\n全名阪神新马锦标的阪神JF，\n还要在GⅠ大道上大肆奔驰……！",
+            "ChoiceDataList": [
+                "（GⅠ对她来说……）"
+            ],
+            "ColorTextInfoList": [
+                "新马级",
+                "阪神新马锦标",
+                "阪神JF"
+            ]
+        },
+        {
+            "Name": "独白",
+            "Text": "她想变得像公主战士一样强、要变得像自己\n理想中一样强，跟实力坚强的赛马娘对决……\n就需要这种特别的舞台。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "而新马级跟经典级的GⅠ有很多\n都只能在特定时期内参加。",
+            "ChoiceDataList": [
+                "（──就算这样……）"
+            ],
+            "ColorTextInfoList": [
+                "经典级"
+            ]
+        },
+        {
+            "Name": "川上公主",
+            "Text": "好了，训练员，我们来开作战会议！\n我会实行所有你想出的主意！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "川上公主用充满期待的眼神看着我。\n我接下来要告诉她的这段话，\n或许会背叛她这份期待。",
+            "ChoiceDataList": [
+                "我想跟你讨论出道以后的事情",
+                "我想跟你讨论出道以后的事情"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "哎呀！看来训练员也很积极呢，太好了！\n请继续说吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她闪闪发亮的眼神让我感到愧疚。\n但我是跟她背负同个梦想的训练员……",
+            "ChoiceDataList": [
+                "我在思考我们的“未来”",
+                "我在思考我们的“未来”"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "未来……（吞口水）\n也就是说……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……如果要让她未来更能大放异彩，\n我就应该把这个想法告诉她。",
+            "ChoiceDataList": [
+                "我希望现在不要把GⅠ当目标",
+                "我希望现在不要把GⅠ当目标"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "…………咦？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "不要把GⅠ当目标吗？\n所以……你的意思是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "我……\n没有成为GⅠ赛马娘的潜力吗？",
+            "ChoiceDataList": [
+                "不是！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "！",
+            "ChoiceDataList": [
+                "你现在还处于成长阶段",
+                "你现在还处于成长阶段"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我开始说明她现在该做的功课，\n也希望她不要一下子就以GⅠ为目标，\n而是先从习惯上场比赛开始。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "虽然要尝试参赛看看也是无妨……\n可是我不希望因为以GⅠ为目标，\n反而让她背负“一定要赢”的压力。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "……这样啊，原来如此。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "我知道了！！",
+            "ChoiceDataList": [
+                "！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "身为一个公主，当然会梦想拿到后冠。\n那是在GⅠ这种最高级的舞台\n才能拿到手的……公主皇冠。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "而且，如果在雌马三冠路线跟其他人竞争\n让我沉睡的力量得以绽放……\n也很像公主战士会有的桥段。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "……不过！我并不是公主战士！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "就算很向往公主战士，\n我的目标依然是我理想中的公主！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "所以只要训练员认为对我有帮助，\n就算是再小的目标，我都会照你说的达成它。",
+            "ChoiceDataList": [
+                "……你真的不介意吗？",
+                "……你真的不介意吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "嗯。所以，训练员，\n请你在观众席上见证我的出道战吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "见证一个公主\n在这场出道战里踏出崭新一步的样貌。",
+            "ChoiceDataList": [
+                "……我一定会的！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "嗯！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "（训练员，我真心觉得太好了。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "（你跟我小时候遇到的每一个人都不一样。\n你想要成为“传说级的训练员”。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "（你由衷相信\n我可以成为理想中的公主……！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

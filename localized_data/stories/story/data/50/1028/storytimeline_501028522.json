@@ -1,0 +1,37 @@
+{
+    "Title": "肤况不太好……",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "嗯～……果然还是\n多少注意一下比较好吗？",
+            "ChoiceDataList": [
+                "什么事？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "刚才啊，小光她啊～\n跟我说“你的皮肤粗糙得\n就跟战队节目里的敌人一样耶！？”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "虽然我没有很太在意，但既然她这么说了，\n我是不是该保养皮肤……了呢～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "不禁开始介意肤况不好的菱曙，\n看起来似乎有点烦恼……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,35 +1,35 @@
 {
-  "Title": "0",
-  "TextBlockList": [
-    {
-      "Name": "",
-      "Text": "",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "樱花千代王",
-      "Text": "トレーナーさん、聞いてください！\r\n今すごい格言を思いついたんです。\nずばり――",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "樱花千代王",
-      "Text": "――『早起きの麗らかな朝日は\r\nにんじんを甘くする』！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "樱花千代王",
-      "Text": "……むむっ、ちょっと回りくどいかな。\r\nもっと端的に、もっと格言らしく……。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "樱花千代王",
-      "Text": "――『早起きは、にんじん3本』！\r\nうん、これでバッチリですっ！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    }
-  ]
+    "Title": "0",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "训练员，请听我说！\n今天想到了很棒的格言。\n就是——",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "——“早起的晴朗早晨\n胡萝卜也宽裕”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "……唔，好像太长了。\n要更精简，更像格言……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "——“早起胡萝卜三根”！\n嗯！这样就对了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
 }

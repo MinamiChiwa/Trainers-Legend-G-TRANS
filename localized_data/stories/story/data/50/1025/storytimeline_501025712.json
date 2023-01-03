@@ -1,0 +1,63 @@
+{
+    "Title": "缺席的理由……",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我担心没来训练的曼城茶座\n四处找她时，\n看见她正在对着空气挥手……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼城茶座",
+            "Text": "…………再见。\n……要直接回去，不要再乱跑了……",
+            "ChoiceDataList": [
+                "……你在跟谁说话？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼城茶座",
+            "Text": "……啊啊，训练员……\n我在帮一个迷路的孩子指路…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼城茶座",
+            "Text": "……那么，\n我们回去训练吧……",
+            "ChoiceDataList": [
+                "已经超过训练的时间了……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼城茶座",
+            "Text": "…………快要天黑了……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼城茶座",
+            "Text": "…………我明明只跟他说了没有几秒的话……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼城茶座",
+            "Text": "…………不，这不算借口。\n抱歉……以后我会注意的……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "看来她真的很认真在反省。\n既然已经答应以后会注意了，\n我就也不要再追问了吧……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

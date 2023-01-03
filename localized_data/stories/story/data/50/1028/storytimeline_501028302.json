@@ -1,0 +1,443 @@
+{
+    "Title": "抽奖试手气！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在我们外出后的回程途中，\n发现商店街人山人海。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "嗯～？那边超级热闹的耶。\n是怎么了呢～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "看过来看过来，现正举办新春大抽奖～！\n特等奖可是“温泉旅游券”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "一等奖是“上等胡萝卜肉排汉堡”，\n二等奖是“一筐胡萝卜”，\n三等奖则是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "来喔来喔，好玩的抽奖活动！\n欢迎大家来抽喔～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "上等胡萝卜肉排汉堡！？\n哇，来抽奖吧，训练员！",
+            "ChoiceDataList": [
+                "你有抽奖券吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "啊，对喔！呃嗯～\n那我去买点东西！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "耶嘿嘿，一不小心买太多食材了。\n要是抽中胡萝卜，\n我有很多菜想做呢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "好～那我要抽咯～☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "菱曙斗志昂扬地\n转动了抽奖机的把手！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "结果──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "天啊！恭喜────！！\n抽到特等奖“温泉旅游券”了～～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "菱曙",
+            "Text": "咦咦咦咦咦～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "怎怎怎、怎么办～\n是“温泉旅游券”耶～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "啊，而且这家旅馆！\n还是料理超级buono而闻名的那间～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "好棒好棒！\n我们一起去吧，训练员！",
+            "ChoiceDataList": [
+                "我可以一起去吗？",
+                "我可以一起去吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "当然咯～☆两个人一起吃超美味的饭菜，\n一定会幸福到不行的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "啊……不过，这阵子还满忙的吧？\n毕竟还有很多比赛～",
+            "ChoiceDataList": [
+                "不然等告一段落之后再去？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "嗯，也是～\n那样一定比较能好好休息！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "那就等到时候再拿出来用吧。\n我会好好保管的。",
+            "ChoiceDataList": [
+                "嗯，拜托了",
+                "嗯，拜托了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "……耶嘿嘿，那边会提供怎样的菜色呢～\n会是生鱼片吗？还是牛排？或者是火锅呢～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "一定很值得学习，\n我得把味道记牢之后带回来才行～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "去之前要先把肚子空出来喔，\n训练员♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "于是，我与菱曙之间，\n订下了一个新的约定。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "恭喜抽到一等奖～！\n奖品是“上等胡萝卜肉排汉堡”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "菱曙",
+            "Text": "哇啊啊！\n看起来超～～～级好吃的……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "呃、咦？这是……哇～\n是超级名店做的汉堡排耶～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "我一直很想找时间去吃的说。\n好棒喔～根本是奇迹～！",
+            "ChoiceDataList": [
+                "太好了呢！",
+                "太好了呢！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "嗯♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "啊，不过，\n训练员也一起吃吧～？",
+            "ChoiceDataList": [
+                "可以吗？",
+                "可以吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "当然！好吃的东西只要跟别人一起吃，\n就会变得双倍好吃喔～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "如果是跟最喜欢的人一起吃，就会四倍好吃！\n很厉害吧～！",
+            "ChoiceDataList": [
+                "那就恭敬不如从命了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "嗯！\n好～既然决定了，那我们立刻回去吧～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "我还买了很多食材，\n配上汤跟沙拉一起吃吧～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "之后，我尽情享受了\n非常美味的\n“上等胡萝卜肉排汉堡”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "过了几天，精通那道菜做法的菱曙\n完美重现那个滋味并拿给我，\n则又是另一个故事了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "二等奖～！！\n奖品是“一筐胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "菱曙",
+            "Text": "哇啊啊！太棒了、太棒了、太棒了～！\n这样就能做很多料理了～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "像马铃薯炖肉跟咖喱对吧，还能做炖菜、\n胡萝卜汉堡排、香煎胡萝卜、\n胡萝卜沙拉，还有蛋糕跟果冻！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "今晚你要吃得肚子饱饱、幸福满满喔，\n训练员！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看到她充满干劲虽然让我很高兴……\n但那些量要靠两个人吃完似乎不太容易。",
+            "ChoiceDataList": [
+                "两个人可能会吃不完喔？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "啊，也是！可能会剩下呢。\n好险有注意到～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "嗯～不然这样，\n我来问问大家要不要吃吧～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "──啊，Maya吗？\n今天我打算邀大家来一场胡萝卜派对，\n你要来吗～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "嗯，嗯♪\n我知道了～那么晚点见咯～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "耶嘿嘿，她说要来！\n太棒了～☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "好～再来还有真机伶、\n小光跟小川了吧。\n不晓得富士跟菱亚会不会来喔～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "──啊哈哈，如果能大家热闹一下就好了。\n真期待～♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "那一天的晚餐时光，\n变得比平时更加热闹了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "三等奖～！\n奖品是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "菱曙",
+            "Text": "好可惜～！不过不过，\n这胡萝卜看起来超好吃的呢～☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "又重、又细，须根分布也很平均！\n想必口感一定香甜柔软吧～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "于是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "机会难得，做成红烧萝卜吧！\n一定会非常buono的喔♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "之后菱曙请我享用了她做的\nbuono红烧萝卜。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "还有很多喔～☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "很可惜，没抽中！\n参加奖是“卫生纸”喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "菱曙",
+            "Text": "哎呀哎呀，没抽中吗～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "嗯～本来想请你吃\n非常buono的晚餐的说～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "不过，这也没办法！\n改用我刚才买的蔬菜做给你吃吧～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "也是会有这种时候的嘛！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "嘴上这么说，但她似乎有点遗憾。\n之后我便与她一起离开了商店街。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

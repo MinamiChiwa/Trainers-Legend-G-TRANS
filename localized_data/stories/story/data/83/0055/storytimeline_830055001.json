@@ -1,5 +1,5 @@
 {
-    "Title": "突然开始谋杀之谜！　其一",
+    "Title": "突然开始的谋杀之谜！　其一",
     "TextBlockList": [
         {
             "Name": "",
@@ -15,13 +15,13 @@
         },
         {
             "Name": "独白",
-            "Text": "我走在走廊时，\n突然听到赛马娘们的叫声……！\n于是我慌张地前去查看──",
+            "Text": "正当我路过走廊时，\n突然听见了赛马娘们的叫声……！\n于是我慌张地前去查看──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "青云天空",
-            "Text": "没想到圣王竟然会因为吃到有毒的茶碗蒸\n而死掉……",
+            "Text": "没想到帝王竟然会因为吃到有毒的茶碗蒸\n而死掉……",
             "ChoiceDataList": [
                 "什么！？"
             ],
@@ -29,13 +29,13 @@
         },
         {
             "Name": "草上飞",
-            "Text": "呵呵，不用紧张哦。\n路过的训练员。",
+            "Text": "呵呵，你用不着担心喔。\n正好路过的训练员。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "神鹰",
-            "Text": "我们正在玩一个叫做“谋杀之谜”的游戏！\n所以圣王其实还活着啦！",
+            "Text": "我们正在玩一个叫做“谋杀之谜”的游戏！\n所以帝王其实还活着啦！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -47,7 +47,7 @@
         },
         {
             "Name": "青云天空",
-            "Text": "对了，其实我们还缺一个GM──\n也就是“主持人”，你愿意当一下吗？",
+            "Text": "对了，其实我们还缺一个GM【游戏主持人】。\n你要是方便的话能当一下吗？",
             "ChoiceDataList": [
                 "是可以啦……"
             ],
@@ -61,73 +61,73 @@
         },
         {
             "Name": "青云天空",
-            "Text": "……首先从被害人的状况开始说起，\n傍晚时间，圣王被发现倒在旅馆的房间里。",
+            "Text": "……首先从被害人的状况开始说起。\n帝王于傍晚被发现倒在旅馆的房间里。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "青云天空",
-            "Text": "死因是吃了有毒的茶碗蒸。\n而被害人在死前，\n附近还传出“哐当！”的声音。",
+            "Text": "死因是吃了有毒的茶碗蒸。\n而就在被害人死亡之前，案发现场附近\n似乎还传出了“哐当！”的声音。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "如同游戏的名称“谋杀之谜”，\n开局就是一个充满悬疑的局面……",
+            "Text": "如同游戏的名称“谋杀之谜”，\n开局就是一个充满悬疑的场面……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "特别周",
-            "Text": "呜呜，好过分……到底是谁会做这种事情……",
+            "Text": "呜呜，好过分……到底是谁做了那种事情……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "草上飞",
-            "Text": "以现阶段的线索要找出凶手太困难了。\n我们彼此都还互不认识呢。",
+            "Text": "以现阶段的线索要特定出凶手太困难了。\n毕竟我们彼此都还互不认识呢。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "神鹰",
-            "Text": "那就先从认识彼此开始吧！\n请各自做自我介绍！",
+            "Text": "那就从认识彼此开始吧！\n首先是自我介绍！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "草上飞",
-            "Text": "各位说明一下自己的身份，\n还有今天所做过的事情吧。",
+            "Text": "各位就说明一下自己扮演的角色，\n还有今天所做过的事情吧。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "特别周",
-            "Text": "呃，我是厨师特别周。\n今天一直在努力为小圣王准备料理……！",
+            "Text": "呃，我是厨师特别周。\n今天为了帝王而努力地准备了\n要给她吃的料理……！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "草上飞",
-            "Text": "我是这个旅馆的服务生～\n是我负责送餐给小圣王的。",
+            "Text": "我是同一间旅馆的服务生～\n是我负责送餐给帝王的。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "神鹰",
-            "Text": "我是住在这间旅馆的旅行诗人！\n今天才与圣王成为好友，送过晚餐的时间后，\n我去她的房间找她。",
+            "Text": "我是住在这间旅馆的旅行诗人！\n今天因为和帝王成为了好朋友，\n所以等晚餐都送到后，去了她的房间找她。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "青云天空",
-            "Text": "大家好，我是旅馆的清洁人员。\n一直在旅馆里做打扫工作。",
+            "Text": "大家好，我是旅馆的清洁人员。\n今天一直在旅馆里做打扫工作。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "所有人都做完了自我介绍，\n稍微了解了故事整体的感觉。",
+            "Text": "所有人都做完了自我介绍，\n感觉有稍微了解了点故事的全貌。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -141,7 +141,7 @@
             "Name": "青云天空",
             "Text": "嗯嗯，没错。",
             "ChoiceDataList": [
-                "为什么这么说？"
+                "什么意思？"
             ],
             "ColorTextInfoList": []
         },
@@ -159,22 +159,22 @@
         },
         {
             "Name": "特别周",
-            "Text": "怎么这样说！\n我才没有下毒呢……！",
+            "Text": "怎么会！\n我才没有下毒呢……！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "青云天空",
-            "Text": "哎呀哎呀，这是在玩游戏嘛。",
+            "Text": "没事没事，这是在玩游戏嘛。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "青云天空",
-            "Text": "对了，训练员有没有什么在意的事情？\n暂时撇开主持人的身份没关系。",
+            "Text": "对了，训练员有没有什么在意的事情？\n暂时抛开主持人的身份来表达意见也无妨。",
             "ChoiceDataList": [
-                "青云天空在晚餐时间也在打扫吗？",
-                "茶碗蒸看起来那么好吃的说……"
+                "青云天空就连晚餐时间也在打扫吗？",
+                "茶碗蒸看起来很好吃的说……"
             ],
             "ColorTextInfoList": []
         },
@@ -186,25 +186,25 @@
         },
         {
             "Name": "青云天空",
-            "Text": "我明明是离客人最远的人，\n没想到竟然还会受到怀疑～",
+            "Text": "只不过，我明明是离客人最远的人，\n没想到竟然还会受到怀疑～",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "青云天空耸耸肩，看向圣王光环。\n就在这一瞬间──",
+            "Text": "青云天空耸耸肩，并看向倒下的圣王光环。\n就在那个瞬间──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "特别周",
-            "Text": "……奇怪？\n我发现装茶碗蒸的容器颜色不对耶！\n我做好的时候明明是黄色的！",
+            "Text": "……奇怪？\n是说我发现装茶碗蒸的容器颜色不对耶！\n我做好的时候明明是黄色的！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "草上飞",
-            "Text": "哎呀，真的耶。\n我送餐的时候容器也是黄色的。",
+            "Text": "哎呀，真的耶。\n我送餐的时候容器明明也是黄色的。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -216,7 +216,7 @@
         },
         {
             "Name": "独白",
-            "Text": "根据先前各自的叙述来看，\n送餐过后才进房间的只有神鹰一人……",
+            "Text": "根据先前各自的叙述来看，\n送餐过后才进房间的应该只有神鹰一人……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -234,7 +234,7 @@
         },
         {
             "Name": "特别周",
-            "Text": "是啊，没想到里面竟然会有毒……\n人家小青带来的蔬菜也很好吃的说……\n",
+            "Text": "是啊，没想到里面竟然会有毒……\n人家小青带来的蔬菜也很好吃的说……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -246,19 +246,19 @@
         },
         {
             "Name": "独白",
-            "Text": "大家都垂头丧气地看向圣王光环。\n就在这一瞬间──",
+            "Text": "大家都垂头丧气地看向倒下的圣王光环。\n就在那个瞬间──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "特别周",
-            "Text": "……奇怪？\n我发现装茶碗蒸的容器颜色不对耶！\n我做好的时候明明是黄色的！！",
+            "Text": "……奇怪？\n是说我发现装茶碗蒸的容器颜色不对耶！\n我做好的时候明明是黄色的！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "草上飞",
-            "Text": "哎呀……真的耶。\n我送餐的时候容器也是黄色的。",
+            "Text": "哎呀，真的耶。\n我送餐的时候容器明明也是黄色的。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -270,7 +270,7 @@
         },
         {
             "Name": "独白",
-            "Text": "根据先前各自的叙述来看，\n送餐过后才进房间的只有神鹰一人……",
+            "Text": "根据先前各自的叙述来看，\n送餐过后才进房间的应该只有神鹰一人……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },

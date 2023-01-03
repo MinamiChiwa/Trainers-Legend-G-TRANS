@@ -1,0 +1,516 @@
+{
+    "Title": "抽奖试手气！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "在训练结束后的回程途中，\n我们顺路来到了商店街……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "嗯……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "看过来看过来，现正举办新春大抽奖～！\n特等奖可是“温泉旅游券”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "温泉旅游券"
+            ]
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "一等奖是“上等胡萝卜肉排汉堡”，\n二等奖是“一筐胡萝卜”，\n三等奖则是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "来喔来喔，是好玩的抽奖活动喔！\n任何人都可以来抽喔～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "喔～是抽奖吗～\n……嗯？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "我记得口袋里……咦，\n是包包里吗……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "东瀛佐敦东摸摸西摸摸，\n开始翻找着裙子的口袋。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "啊！在手机壳内侧啦！\n新年期间买了新的！\n然后夹到手机壳跟手机之间……呜哇！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "（滑落……咚！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "啊啊啊啊啊！？\n手机～～～～！？",
+            "ChoiceDataList": [
+                "屏幕没破吧！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "破了一点点～",
+            "ChoiceDataList": [
+                "节哀顺变……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "呜哇～……啊啊啊……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "呃，那个……\n你要抽奖吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "……训练员……",
+            "ChoiceDataList": [
+                "我替她抽！",
+                "我替她抽！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "喔，好。这样啊！\n加油喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我代替东瀛佐敦，\n斗志昂扬地转动抽奖机的把手！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "结果──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "天啊！恭喜────！！\n抽到特等奖“温泉旅游券”了～～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "超强！训练员！\n你很厉害嘛！！特等奖！？",
+            "ChoiceDataList": [
+                "你把抽奖券掏出来是值得的呢！",
+                "你把抽奖券掏出来是值得的呢！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "对吧！对吧！！\n这是我摔破手机换来的好运！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "摔破手机换来的……",
+            "ChoiceDataList": [
+                "这是特等奖！都抽到特等奖了，你别哭！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "……嗯。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "不过温泉旅游券吗～\n嘿嘿，要跟谁一起去呢～",
+            "ChoiceDataList": [
+                "毕竟你朋友很多呢",
+                "毕竟你朋友很多呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "就是啊～！这是要选谁才好？\n我怎么选得出来？\n虽然想大家一起，但又没钱！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "干脆卖了这张券，\n大家一起去卡拉OK～……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "……",
+            "ChoiceDataList": [
+                "怎么了？",
+                "怎么了？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "不是啦，只是想说，\n这个特等奖是你抽到的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "……仔细一看离到期日还有一段时间。\n让我再考虑一下要跟谁去吧。",
+            "ChoiceDataList": [
+                "去的时候要好好享受喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "……你也是个大傻瓜呢。\n这种时候要抗议一下吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "……“抽中这奖品的是我”之类的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "恭喜抽到一等奖～！\n奖品是“上等胡萝卜肉排汉堡”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "！！那个超好吃的！",
+            "ChoiceDataList": [
+                "你也喜欢吗？",
+                "你也喜欢吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "嗯，我很喜欢！\n超喜欢！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "这样啊这样啊！太好了呢～！\n小姐，商品在这里！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "……嘿嘿。太棒了，\n是胡萝卜汉堡排呢。",
+            "ChoiceDataList": [
+                "你的心情转好了呢",
+                "你的心情转好了呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "……！\n…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "那个表情……真气人。\n你把我当小孩子了吧。讨厌……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "可是东瀛佐敦的尾巴，\n抬得高高地在摇来摇去。\n看来一等奖让她很高兴。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "二等奖～！！\n奖品是“一筐胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "喔喔～！太好了呢！\n快看，训练员抽了二等奖喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "你挺厉害的嘛。训练员！",
+            "ChoiceDataList": [
+                "是一整箱的胡萝卜喔！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "真的假了！？太厉害了吧！？\n简直能吃到爆！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "咦，要叫谁来啊！先叫城市，\n还有善信与太阳，以及姐妹淘们！\n啊，偶尔也给奖券藏一些～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "噗哈，超开心的～",
+            "ChoiceDataList": [
+                "看来你恢复精神了，我很高兴"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "……唉，\n你就是这种人呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "好啦，把手伸出来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "她在我伸出的手掌上，\n放了一根橘色的胡萝卜。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "……这是你的份。\n你要吃光光喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "难得收到了胡萝卜，\n我在当天\n就把它煮成料理吃掉了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "三等奖～！\n奖品是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "一根胡萝卜……",
+            "ChoiceDataList": [
+                "我本来想抽到更好的商品的……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "……没关系，说真的如果是现在的我，\n八成会抽到铭谢惠顾。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "咦！？小姐！\n你忘了拿奖品咯，小姐！！",
+            "ChoiceDataList": [
+                "她更沮丧了……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "咦？这袋子是啥？\n里面是……胡萝卜脆片？",
+            "ChoiceDataList": [
+                "是用之前那根胡萝卜做的"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "……你做的吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "哈哈，超爆笑。\n脆片大小都不一样不是吗。\n大小一致一点吧～做得真烂～",
+            "ChoiceDataList": [
+                "……我已经很努力了",
+                "……我已经很努力了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "……是～喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "那我就收下吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "很可惜，没抽中！\n参加奖是“卫生纸”喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "…………",
+            "ChoiceDataList": [
+                "抱歉……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "……比起这个。\n是不是能申请\n手机维修啊……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "好像有这种保险……",
+            "ChoiceDataList": [
+                "……我陪你"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "谢谢……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "东瀛佐敦就这样沮丧地\n离开了商店街。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,199 @@
+{
+    "Title": "在神社祈求！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我带着最近状态不佳的东瀛佐敦，\n来到神社参拜时……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "咦，这不是中山吗。你来参拜啦？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "怎么可能，我只是在散步。\n我在找有没有赌博的对手。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "你才是，居然来参拜，还真稀奇。",
+            "ChoiceDataList": [
+                "她最近状态不太好的样子……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "是喔，那真是太巧了。\n其实我最近也莫名地一直输呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "这种时候比什么都可以，就是要赢一次才行。\n……如何？佐敦，要不要跟我赌一场？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "咦？赌博？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "没错，赌赢后可以提升运气！\n但是！要是输了，会陷入更严重的负面循环！\n掉到地狱的深渊……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "咦～麻烦。什么运不运气啊～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "喔……你怕输吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "啊……？我又没这么说。",
+            "ChoiceDataList": [
+                "不用勉强自己去跟她赌",
+                "不用勉强自己去跟她赌"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "一点都不勉强好吗～！\n好啊～！就来赌一场～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "呵呵！这才像话！\n至于要怎么赌……就猜下个来到神社境内的，\n是人还是赛马娘怎么样？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "嗯～……那么～\n我赌是赛马娘！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "那我就赌人了。\n好，赌局开始──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "呜喔喔喔喔喔────！！\n到底在哪里～～～～～～！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "来了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "这不是奖券藏吗～！\n太棒了！我赢了～☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "啊！找到佐敦了～～～～！\n我找你找好久！\n我想快点告诉你──！",
+            "ChoiceDataList": [
+                "发生什么事了吗？",
+                "发生什么事了吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "听我说！有个送给佐敦的礼物，\n寄来宿舍房间咯──！\n箱子包装得超华丽的────！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "真的假的！？那可能是我抽中的！\n我在网络上参加了抽奖活动！\n呜哇！好事成双呢～～♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "是这样吗！？太好了呢！！\n看到你开心我也很开心！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……哈。我彻底输了……\n看来好运完全站在你那边。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "……对了，你没事吧？\n那个……什么深渊来着……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "我可不用你们来担心。\n呵呵，我反而更有斗志了。\n好，接下来该如何向上爬呢……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "中山庆典满足地离去了。\n在那之后，东瀛佐敦的状态不佳，\n像是一开始就不存在似地消失了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──可是，没有任何人或赛马娘来到境内。\n宿舍的门禁时间就要到了──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "好没劲～……\n为何一个影子都见不到～？真受不了～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……没办法，今天就算平手吧。\n我一定会找一天分出输赢的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就这样，赌局暂时搁置了。\n运气也没有改变，\n东瀛佐敦的状态依旧不佳。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

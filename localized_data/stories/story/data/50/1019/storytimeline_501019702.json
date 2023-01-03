@@ -1,0 +1,369 @@
+{
+    "Title": "探访推活～入门篇～",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "爱丽数码在外出之后说要去领预购的商品，\n于是我便和她一起绕道去了商店。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "我期待好久的赛马娘写真集……\n呵呵呵，回去后要立刻进行开封仪式！",
+            "ChoiceDataList": [
+                "这蛮厚的耶？",
+                "这蛮厚的耶？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "因为我买了三本，\n鉴赏用、保存用和随身携带用！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "这次每买一本就会附一张只有买写真集的人\n才拿得到的发行活动报名券喔。\n所以买三本的话中奖率也会变成三倍──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女性A",
+            "Text": "──啊，数码？\n不会吧～好巧喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "呃……啊，你好～！！\n上次碰面是在见面会的时候呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "有位女性在店里向爱丽数码打了招呼。\n大概是她的赛马娘粉丝同伴吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女性A",
+            "Text": "欸，数码，你等一下有空吗？\n不好意思问得这么突然。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "我吗？我想想……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女性A",
+            "Text": "我等一下要去参加演唱会，\n但是原本要一起去的朋友不能来了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女性A",
+            "Text": "我想说让位子空在那里也不好，\n所以正在找可以去的人喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "说到今天接下来的演唱会……该、该不会是\n那个要买光碟才能抽门票的秘密演唱会！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "就是我明明也买了一堆光碟但都没抽中，\n被称为“梦幻机密”的那场演唱会吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "而眼前的神明大人竟然说要招待我去！？\n去那场我拼命催眠自己现实中从未举办过，\n才让自己放弃了的超超超顶级演唱会！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女性A",
+            "Text": "呵呵！我有多两张票，\n所以也请你的同伴一起来吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "训……训练员……",
+            "ChoiceDataList": [
+                "一起去吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "我很荣幸能有这个机会！\n太太太太感谢你了～～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女性A",
+            "Text": "啊哈哈，太好了！\n因为数码一定会帮我们炒热气氛嘛！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "好的！我会尽全力炒热气氛！！\n我可是连荧光棒都随身带着的喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女性A",
+            "Text": "跟你一起的人也有带吗？\n这次开放粉丝携带加油用具喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我告诉她们自己手边没有加油用具，\n于是她们便说要借给我。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "荧光棒跟加油扇，你想要哪一种？",
+            "ChoiceDataList": [
+                "荧光棒",
+                "加油扇"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "那我等一下把自己的荧光棒借你！\n现在就让我们前往位在游乐园的专用场地吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "啊啊啊抛媚眼！刚才那个让我死而无憾了！\n粉丝服务爆击毫无节制啊！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "……呃，等等，这是！？\n该不会是新歌！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "其他人手上的荧光棒都随着歌曲一起变色。\n虽然我慌张地想要换成跟四周一样的颜色，\n但因为找不到想要的颜色而焦急了起来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "啊，训练员！\n有种模式可以按照顺序自动切换颜色喔。\n长按右边的按钮！",
+            "ChoiceDataList": [
+                "但这样会跟大家不同色……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "享受演唱会的方式没有一定喔！\n只要有注意规则和礼仪的话就没问题。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "所以选你喜欢的颜色跟着音乐挥就好了！",
+            "ChoiceDataList": [
+                "那我就随便挥咯",
+                "那我就随便挥咯"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "好的！请尽情地享受吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "哈啊啊啊啊～～～～～～\n超赞……真的赞到不行……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "你看了吗！？第一首歌那个轻抚的手势！！\n啊～我超想变成麦克风架～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "新歌那种偏激烈的舞蹈也很棒！！\n脚步强劲的地方很有赛马娘的风格，\n编舞师真的很懂～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "大家对要一起踏响鞋跟的时机都抓得超准！\n我感觉到了！她们的心是相连的！！",
+            "ChoiceDataList": [
+                "跟大家一起挥荧光棒也很有趣"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "就是说啊！！\n那个像阶梯一样大家分段挥的感觉很棒吧！",
+            "ChoiceDataList": [
+                "感觉整个会场都合为一体了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "对！真的就是那样！\n粉丝呼应台上或荧光棒整齐划一时的团结感！\n正是演唱会的乐趣所在！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "啊～可以像这样一起聊感想的感觉真好！\n因为我平常都一个人去，所以结束后就只能\n在Umatter发自言自语的感想文呢～",
+            "ChoiceDataList": [
+                "这段时光也很有趣耶",
+                "这段时光也很有趣呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "训练员也这样想吗！？那下次……\n对了！今天买的写真集的发行活动，\n我去报名抽双人票！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "要是中奖的话我们就一起去吧！\n然后再来畅谈彼此的感想！──好吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女性A",
+            "Text": "这是我朋友原本要用的扇子，请用！\n那我们就出发去在游乐园里的会场吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "再多一点！小鹿乱撞！\n传达出去！耶！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "台上与台下的互动轰动整个演唱会专用会场。\n演唱会的气氛在这样的情况下达到了最高潮。\n就连爱丽数码也为之疯狂。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……而在此时，舞台上的赛马娘一边唱着歌，\n一边走向我们这里。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "训练员，扇子！！\n请快把扇子亮给赛马娘看！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我听到她这么说之后，便重新举起了扇子，\n让赛马娘从舞台上也能看见扇子上的字。",
+            "ChoiceDataList": [
+                "“让我看蹄铁”"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "咿呀啊啊啊啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "看到……蹄铁了，转了一圈……\n哈啊哈啊，脚……抬起脚的方式好可爱……\n裙摆飞起的感觉超赞……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "哈啊啊啊啊啊啊啊～～～～！\n天使降临了啦～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "训练员！感谢你让我接到\n粉丝服务的流弹啦────！！",
+            "ChoiceDataList": [
+                "流弹……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "扇子啊，扇子！\n多亏有训练员帮我举起扇子，\n我才能一起享受到了粉丝服务！",
+            "ChoiceDataList": [
+                "刚才的粉丝服务确实很令人开心"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "舞台上的推看见我举起的信息后做出反应。\n虽然只有短短一瞬间，\n不过感觉我们之间真的有了交流。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "对吧？不只是粉丝服务，\n只能在演唱会上感受到的特殊氛围也会\n让人上瘾，变得想要一来再来喔！",
+            "ChoiceDataList": [
+                "我好像能明白了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "嘻嘻嘻，看样子训练员也\n沦陷在演唱会的魔力里了吧？\n欢迎来到泥沼☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "──对了，今天买的写真集的发行活动，\n我就报名抽双人票咯！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "我们下次再一起去看演唱会吧！\n然后一起沉入泥沼里吧！──好吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

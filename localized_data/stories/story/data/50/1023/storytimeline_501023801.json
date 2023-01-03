@@ -1,0 +1,294 @@
+{
+    "Title": "拜托你了，大姐姐！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "某天假日，我在购物中心里走着走着，\n就在美妆店前面看到一个熟面孔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "这只戒指怎么样？\n颜色跟质感都很好，还不赖。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "晨光。\n……上面写它是耳夹。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "──什么！？\n我怎么看都只觉得是戒指，原来不是吗……",
+            "ChoiceDataList": [
+                "你还好吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "哎呀，训练员。\n抱歉，我只是有点混乱……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "至于我们来这里，是因为美丽拜托我们\n帮忙挑要送给重炮的礼物。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "怎么办、怎么办～～！\n一直想不到好的美丽啦～～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "美丽，怎么了吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "那个啊那个啊，重炮她跑赢比赛了☆\n所以我想送美丽的礼物给她★",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "可是重炮说她想要\n“可以变成成熟女人的小道具”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "那到底是什么样的东西？是甜的，还是辣的？\n是热的，还是冷的！？我完全没头绪啦～～☆\n啊哈哈哈哈！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "──所以我才会来帮忙选礼物。\n大进当时也在场，\n就一起来了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "还不是因为晨光动不动就想插手帮忙……\n而且美丽还不知道跑去哪里了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "毕竟她本来就很随心所欲。大概是注意力\n转到其他事情上了吧。晚点再联络她就好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "总之，先回到正题吧──\n我们必须挑个重炮想要的\n“可以变成成熟女人的小道具”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "不过，她说的“成熟女人”是什么意思……？\n是什么样的定义？是指年龄吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "听着听着，\n我就感觉她们太执着在\n“成熟女人”这个词上了。",
+            "ChoiceDataList": [
+                "你们不要想得那么复杂试试看？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "哦……不复杂是指？",
+            "ChoiceDataList": [
+                "选你们觉得不错的东西就好"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "原来如此，说的也是。要是我们自己\n都不觉得好，那收礼的人更不可能喜欢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "──好。大进，\n我们先去各挑一个吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "两人在一段时间过后，\n各自带着她们认为可以送的礼物回来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "琵琶晨光挑了红色的指甲油，\n成田大进则是挑了银色的耳饰。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "那么，现在来问问训练员来自第三者的意见吧。\n你觉得指甲油跟耳饰哪一个比较好？",
+            "ChoiceDataList": [
+                "晨光选的娇艳指甲油",
+                "大进选的帅气耳饰"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "哦，你比较中意我挑的啊。",
+            "ChoiceDataList": [
+                "不过，你怎么会想挑这个？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "其实我会选指甲油，是因为突然想起\n之前在圣诞派对的那身打扮。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "我那时候抹了跟衣服颜色\n比较搭调的指甲油──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "就觉得明明只是指甲变成其他颜色\n却会给人不同印象，还蛮有趣的。\n我想让重炮也体会一下这种有趣的现象。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "……哦，我还是第一次听说。\n原来你还有考虑到这种事情啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "成田大进也赞成送指甲油，\n于是要送给重炮的礼物就这么决定了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "重炮！祝你美丽快乐！！\n恭喜你赢了比赛～～～☆★",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摩耶重炮",
+            "Text": "咦，礼物！？而且还是指甲油！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摩耶重炮",
+            "Text": "好有成熟的韵味！感觉用了会很有\n成熟女人的魅力♪谢谢你们的礼物～☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "呵呵，看来是挑对礼物了。\n烦恼那么久也是值得了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "……哦，这样啊。",
+            "ChoiceDataList": [
+                "不过，你怎么会想挑这个？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "其实是因为之前的圣诞派对。\n我只是想起那时候送给晨光的礼物而已。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "只是觉得那时候送的银色耳饰……\n还不错。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "哦，\n原来你还讲究这么细节的部分啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "我也没多讲究──\n……是说，还是快点决定送什么礼物吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "琵琶晨光也赞成送耳饰，\n于是要送的礼物就这么决定了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "重炮！祝你美丽快乐！！\n恭喜你赢了比赛～～～☆★",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摩耶重炮",
+            "Text": "咦，礼物！？而且还是耳饰！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摩耶重炮",
+            "Text": "好有成熟的韵味！\n感觉挂在耳朵上会很帅气利落♪\n谢谢你们的礼物～☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摩耶重炮",
+            "Text": "……啊，可是这个耳饰要穿什么衣服才好看？\n可以告诉人家吗～☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "……咦？\n该不会还要继续帮忙吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "哈哈，我们还真受后辈依赖啊。\n知道自己是值得依赖的前辈，真是再高兴不过了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

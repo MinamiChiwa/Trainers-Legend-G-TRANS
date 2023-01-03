@@ -1,0 +1,284 @@
+{
+    "Title": "和别人一起看的电影",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "原来如此，\n无法决定该看哪一部电影啊……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "某天回程途中，我们碰巧遇到\n目白善信和大拓太阳神，\n然后就被带来了电影院。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "不好意思突然把你们拉来！\n因为阿尔丹对舞台剧和电影非常熟悉，\n感觉很可靠！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "真的是神相遇！\n阿尔丹前辈挑的电影，\n绝对会特别猛☆",
+            "ChoiceDataList": [
+                "你们来之前没先想好要看哪部电影吗？",
+                "你们来之前没先想好要看哪部电影吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "呃～\n其实原本是决定好了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "进了电影院后，我们对电影的热情就暴增！\n变得每一部都想看，\n不小心嗨过头了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "既然有这么多电影可以选择，\n确实是会让人看得目不暇给呢。\n如果是你们两个要看的话──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "这部作品怎么样？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "目白阿尔丹毫不犹豫地\n指向一张海报。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "不、不、不──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "两人",
+            "Text": "不得了啊～～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "目白阿尔丹选的电影是一部音乐剧，\n内容主要是在讲述一位坚持自我的\n孤傲音乐家的人生经历。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这部电影让两人看得非常兴奋。\n所以我们来到一间咖啡厅，\n讨论电影的感想──",
+            "ChoiceDataList": [
+                "确实非常有趣……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "真的是部很神的电影呢！\n在剧情进入高潮时，音乐突然响起，\n让我感动到差点流泪了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "我懂！！主角真的从头到尾\n都太帅了……阿尔丹，\n你该不会以前有看过这部电影吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "不，我今天是第一次看。\n幸好大家都看得很开心，\n让我松了口气呢♪",
+            "ChoiceDataList": [
+                "但你立刻就决定好了……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "就是啊！！你到底是怎么选的！？\n我刚好想看这种类型的电影，\n完全正中我的好球带反而让我有点害怕啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "嗯……这个嘛。\n海报上有许多资讯对吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "例如导演。这部作品的导演\n擅长用音响营造气氛，\n所以我想太阳神应该会喜欢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "再来是关键字。\n“坚持自我的不法英雄”……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "嗯……的确。\n我确实喜欢这种风格。好厉害！\n居然只靠海报就能挑得这么准！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "那我还想继续问！\n你可以再推荐我其他感觉不错，\n可以让我看到很嗨的电影吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "没问题。\n如果你喜欢今天的电影，\n我可以介绍你看同一个导演拍的其他作品……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "我也要我也要！\n我想知道更多有像今天\n这种帅气主角的电影！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "当然没问题。\n呵呵，没想到平常独自躺在床上看电影\n累积的知识，会在这时候派上用场──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "该怎么说才好……呵呵。\n有点赚到了的感觉呢。\n希望以后还有这样的机会……♪",
+            "ChoiceDataList": [
+                "那也推荐电影给我吧",
+                "那也推荐电影给我吧",
+                "下次或许可以再多找一些人",
+                "下次或许可以再多找一些人"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "该怎么说才好……呵呵。\n有点赚到了的感觉呢。\n希望以后还有这样的机会……♪",
+            "ChoiceDataList": [
+                "那也推荐电影给我吧",
+                "那也推荐电影给我吧",
+                "下次或许可以再多找一些人",
+                "下次或许可以再多找一些人"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "当然没问题。\n我想想，训练员的话，\n果然还是和竞赛有关的作品……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "咦，那我也想看！\n话说虽然很感谢你帮我挑电影，\n但我也想知道阿尔丹前辈喜欢什么电影呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "确实呢！阿尔丹平常都是\n看什么样的电影啊？\n果然是和历史有关吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "我吗？说得也是……\n我的确常看历史片，\n但我也喜欢看动作片和奇幻片。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "咦，喜欢看奇幻片这点让人有点意外呢！\n那你有看过这部吗？\n是从绘本翻拍成电影……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "结果那天大家聊电影聊得太热烈，\n直到门禁时间将近，\n才急忙赶回学园。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在这宝贵的一天，\n我对目白阿尔丹的兴趣和知识\n又多了一点了解……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "这是个好主意呢……\n两位觉得怎么样？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "这样当然要办得盛大一点啊～！\n绝对要办！！\n我会把常一起玩的朋友也找来☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "唔哇～我现在就开始期待要看什么了！\n要在哪里办？如果办在宿舍大厅……\n训练员就不能进来了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "嗯……这么说来，\n训练员室里有个大电视吧。",
+            "ChoiceDataList": [
+                "确实有呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "不如就借用那里，\n这样训练员也能一起参加。\n……不晓得你意下如何？",
+            "ChoiceDataList": [
+                "当然好啊！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "呵呵，谢谢♪\n那就来决定……日期和要看的电影吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──几天后，电影观赏会大受欢迎！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "参加者们都十分满足，\n让目白阿尔丹也感到很开心。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

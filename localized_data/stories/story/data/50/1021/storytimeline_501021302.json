@@ -1,0 +1,454 @@
+{
+    "Title": "抽奖试手气！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "黄昏。我和玉藻十字一边吃着可乐饼，\n一边走在商店街时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "嗯？这是怎么了？\n前面有好多人……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "看过来看过来，现正举办新春大抽奖～！\n特等奖可是“温泉旅游券”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "温泉旅游券"
+            ]
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "一等奖是“上等胡萝卜肉排汉堡”，\n二等奖是“一筐胡萝卜”，\n三等奖则是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "来喔来喔，是好玩的抽奖活动喔！\n那边那位小小赛马娘，要不要来抽抽看啊？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "你说谁是小小赛马娘啊！\n当我是幼稚园喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "不过，大叔你很有种嘛。\n看我把你的奖品给全部抽走，让你不敢再嚣张。",
+            "ChoiceDataList": [
+                "但我们只有一张抽奖券……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "天啊！也太少了吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "算了，那我就把最大奖抽走，\n让大叔不甘心到哭出来吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "训练员，我要抽咯！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我们一起握住了握把，\n用快如闪电的速度转动抽奖器！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "结果是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "天啊！恭喜────！！\n抽到特等奖“温泉旅游券”了～～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "什么嘛，居然是温泉券，这又不能吃……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "什么～～～～～～～～！？温泉～！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "温、温、温……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "温泉～～～！？",
+            "ChoiceDataList": [
+                "你重复讲了温泉吧？",
+                "你重复讲了温泉吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "大笨蛋！为什么是你在吐槽我！？\n反了啦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "不过……这、这、这、这下该怎么办？\n我竟然抽到了特等奖……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "拿到这种东西我也不知道该怎么处理啊……\n我真的不知道啊……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "说要让大叔哭出来的玉藻十字正眼眶泛泪。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "出游旅行这种事，\n是我小时候无论怎么哀求都没能实现的……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "现在这该怎么处理……\n我真的不知道该怎么办……",
+            "ChoiceDataList": [
+                "不然还给人家？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "谁要还啊！难得抽中的耶。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "对了！\n不然，这个温泉旅游券能不能放你那啊？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "就当作这个旅行是奖品好了。\n双簧什么的比赛，\n冠军不是也都会拿到奖品吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "这个温泉旅行就当做是我称霸闪耀系列赛的奖品，\n如何？",
+            "ChoiceDataList": [
+                "我觉得可以"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "好耶！那就交给你保管咯！\n温泉啊，是不是我也开始走运啦……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "哎哟，我不能高兴得这么早耶。\n还要为了奖品好好努力才行！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "士气跟干劲都因此大大提升了。\n因为抽到了温泉旅游券，\n玉藻十字的干劲像是达到了沸点般。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "恭喜抽到一等奖～！\n奖品是“上等胡萝卜肉排汉堡”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "喔喔喔，抽到了熟食之王了──！\n看样子是能饱餐一顿了──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "不过，这外观还真是有趣。\n汉堡排上面竟然插着一根胡萝卜……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "我问你喔，\n你知道为什么胡萝卜被插在汉堡排上吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "插着胡萝卜的原因……\n我想了许久后，想到的是……",
+            "ChoiceDataList": [
+                "因为汉堡排装傻的关系？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "你说汉堡排……装傻了？\n所以胡萝卜为了吐槽才……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "哇──哈哈哈！\n怎么可能会有这种事嘛！\n你才是比这个汉堡排更会装傻嘞。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "呼～笑一个害我更饿了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "那我们就带着这个回去吧。\n然后一起吃晚餐！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "后来，\n我们一起吃着上等胡萝卜肉排汉堡，\n度过了一个开心的晚餐时间。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "二等奖～！！\n奖品是“一筐胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "喔喔喔，这些胡萝卜……全部都是吗？\n太棒啦──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "堆满满……堆满满的啊！！\n这可是我最喜欢的词之一啊！",
+            "ChoiceDataList": [
+                "那你其他还喜欢什么词？",
+                "那你其他还喜欢什么词呢？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "其他还有“半价”跟\n“清仓大拍卖”之类的吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "那么，\n就把这些胡萝卜分一半寄回老家好了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "顺便在信上写“我抽奖抽中的！”。\n他们一定会很开心的。",
+            "ChoiceDataList": [
+                "这么难得，干脆再寄一张纪念照，如何？",
+                "这么难得，干脆再寄一张纪念照，如何呢？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "喔喔，纪念照啊！这个主意好！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "那我要拍笑开怀的样子！\n训练员，你过来我旁边！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在堆满满的胡萝卜前比胜利手势的玉藻十字。\n据说她的弟弟和妹妹看到这张照片后，\n都兴奋地直说“好厉害、好厉害！”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "三等奖～！\n奖品是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "一根！？太扫兴了吧！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "不过也好啦。\n只要是食物都不嫌多。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "毕竟我还有抽过更让人失望的奖品。\n那个最让人失望的奖品就是……",
+            "ChoiceDataList": [
+                "是什么东西啊？",
+                "是什么东西呀？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "我小时候在肚子很饿的时候抽奖，\n然后──“你抽到的是安慰奖的首饰～”，\n当时听到的时候有够失望。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "我当下努力想说要怎么把它变成吃的，也没成功。\n至少安慰奖也该给个小点心之类的才对。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "那我们就边走边吃地回去吧。\n我把叶子分给你。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "玉藻十字把胡萝卜的叶子分给我。\n虽然只是一根胡萝卜，\n却也还是稍微增添了一点饱足感。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "很可惜，没抽中！\n参加奖是“卫生纸”喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "怎么这样！喂！\n结果怎么是我被搞得快哭啦！",
+            "ChoiceDataList": [
+                "你现在哭就不怕没东西擦眼泪了",
+                "你现在哭就不怕没东西擦眼泪了呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "哈哈哈，你说得对耶！\n卫生纸也算是抽对了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "啊你以为这样哄有用喔！\n我要是抽中别的奖，根本就也不会哭好不好！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "唉──运气真差耶……\n反正我的人生就是一直在谷底……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "小试手气的结果，\n让玉藻十字的心情沮丧了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

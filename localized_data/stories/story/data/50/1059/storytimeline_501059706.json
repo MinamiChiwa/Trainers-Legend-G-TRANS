@@ -1,0 +1,479 @@
+{
+    "Title": "夕阳下怦然心动",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "少女漫画的主角",
+            "Text": "（我得回去了……可是，\n我非得说出现在的心情……现在就想说出口……！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "少女漫画的主角",
+            "Text": "（现在还扭扭捏捏的做什么！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "少女漫画的主角",
+            "Text": "我问你，最后要不要一起坐摩天轮……？\n感觉能好好欣赏夕阳──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我跟目白多伯一起出门，\n在搭电车回去的路上……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "唉…………游乐园啊……",
+            "ChoiceDataList": [
+                "游乐园？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "啊？欸，没有，没什么……？\n只是我在看的漫画里出现的剧情……",
+            "ChoiceDataList": [
+                "反正游乐园很近，要去吗？",
+                "反正游乐园很近，要去吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "啊，没有……\n有点太投入在漫画里了。",
+            "ChoiceDataList": [
+                "反正游乐园很近，要去吗？",
+                "反正游乐园很近，要去吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "……啊？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "咦……可、可以吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "欸，你的脚步未免太轻快了吧！？",
+            "ChoiceDataList": [
+                "因为离车站很近，不小心就……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "就、就这样突然跑来了……\n真的好吗？",
+            "ChoiceDataList": [
+                "因为离车站很近，不小心就……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "还说什么不小心……\n你有时候真的很强势……",
+            "ChoiceDataList": [
+                "抱歉，我请客作为赔礼吧",
+                "我请你吃东西，当作赔礼怎么样？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "啊，没有，可以一起来，我很开心喔。\n只是太过突然……",
+            "ChoiceDataList": [
+                "抱歉，我请客作为赔礼吧",
+                "我请你吃东西，当作赔礼怎么样？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "（唔？请客当作赔礼……\n这个发展好像在哪里……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "（唔？请客当作赔礼……\n这个发展好像在哪里……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "……你刚刚该不会\n看到我的手机屏幕了吧？",
+            "ChoiceDataList": [
+                "手机屏幕……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "……没、没事。\n没什么啦……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "没事，没看的话就算了……嗯。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "之后，因为这样硬把目白多伯带来，\n作为赔礼，\n我买了果汁……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "之后，因为这样硬把目白多伯带来，\n作为赔礼，\n我买了果汁……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女孩A",
+            "Text": "呜呜呜～～！\n我的果汁────！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "那、那孩子……\n是不是打翻果汁了……？",
+            "ChoiceDataList": [
+                "怎么了？没事吧？",
+                "怎么了呀？没事吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女孩A",
+            "Text": "呜、呜呜……果汁打翻了……\n明明是刚刚才买的……",
+            "ChoiceDataList": [
+                "反正我的还没喝过，给你喝吧。",
+                "反正我的还没喝过，给你喝吧。"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女孩A",
+            "Text": "咦，真的吗！？\n谢谢你──哥哥！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女孩A",
+            "Text": "咦，真的吗！？\n谢谢你──大姐姐！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "（不会吧……又是跟漫画一样的发展…………？\n我、我记得下一页是──）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "（不会吧……又是跟漫画一样的发展…………？\n我、我记得下一页是──）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "一起喝……果汁！？",
+            "ChoiceDataList": [
+                "怎么了？",
+                "怎么了？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "没有……！真的没事……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "（该怎么办……毕竟只是漫画内容，\n我不需要真的照做……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "（但老实说，不能喝果汁……\n也太可怜了……一口的话……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "（不行不行不行……再怎么样都没办法。\n毕竟我都喝过了……）",
+            "ChoiceDataList": [
+                "你不喝果汁吗？",
+                "你不喝果汁吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "知、知道了啦……！\n我这就喝……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "唔、嗯……谢谢。\n我没事……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "后来，我们玩了几项游乐设施，\n但目白多伯却一直\n有点闷闷不乐的样子……",
+            "ChoiceDataList": [
+                "今天真是抱歉",
+                "今天真是抱歉"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "……你为什么要道歉？",
+            "ChoiceDataList": [
+                "因为我看你好像不是很开心……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "咦？\n为、为什么训练员要道歉……？",
+            "ChoiceDataList": [
+                "因为我看你好像不是很开心……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "啊，没有，那是因为……\n该说是我自己的问题，那个……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "啊，没有，那是因为……\n该说是我自己的问题，那个……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "（他都对我这么体贴了……\n我到底……在干什么！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "（现在还扭扭捏捏的……做什么！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "……那么……\n最后再去陪我玩一项吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "我、我问你……！最后我想搭个\n摩天轮之类的……可以吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就这样，我们两人搭上摩天轮，\n车厢到达了顶点……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就这样，我们两人搭上摩天轮，\n车厢到达了顶点……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "今天……那个，\n该怎么说……谢谢你。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "今天谢谢你。\n虽然很突然，但我真的很开心。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "我很开心……\n所以希望能让你知道……就这样。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "大概是因为跟训练员一起来，\n我才能玩得这么开心。\n我想让你知道这件事……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "那么，差不多该回去了。\n不然会赶不上门禁时间。",
+            "ChoiceDataList": [
+                "下次再一起去吧",
+                "下次再一起去吧",
+                "你下次想去哪里？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "那么，差不多该回去了。\n不然会赶不上门禁时间。",
+            "ChoiceDataList": [
+                "下次再一起去吧",
+                "下次再一起去吧",
+                "你下次想去哪里？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "嗯，我会考虑的……",
+            "ChoiceDataList": [
+                "既然要去玩，也找你朋友一起吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "下次等排好计划再去吧。",
+            "ChoiceDataList": [
+                "既然要去玩，也找你朋友一起吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "好像不错喔……\n啊，不过那边的传单上面说，\n两人一起来比较优惠……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "好像不错喔……\n啊，不过那边的传单上面说，\n两人一起来比较优惠……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "听她这么一说，\n我仔细一看手上的票券……",
+            "ChoiceDataList": [
+                "这是情侣优惠价！？",
+                "这是情侣优惠价！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "啊！？我们拿这种票进来！？\n不会吧……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "所以说，工作人员的脸上\n都露出微妙的笑容，也是因为……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "所以说，拿这种票搭摩天轮什么的……\n啊啊啊……！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "啊啊啊……！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "目白多伯看起来满脸通红，\n这一定是夕阳惹的祸吧……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "目白多伯看起来满脸通红，\n这一定是夕阳惹的祸吧……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "下次？好、好啊，\n要去哪里好呢……",
+            "ChoiceDataList": [
+                "今天会来是因为你看了漫画吧？",
+                "今天会来是因为你看了漫画吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "嗯……是没错。",
+            "ChoiceDataList": [
+                "漫画里还有去什么其他的地方吗？",
+                "漫画里还有去什么其他的地方吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "其他……这次只是碰巧以地球为背景，\n所以才能套用……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "平常都是在火山星球或是小行星碎片。\n有时候还会飞到异世界……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "就算在地球，基本上也只会去\n马里亚纳海沟或百慕大三角洲，\n我想应该没办法当作参考喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她在读的到底是\n什么样的漫画……？\n这下我忍不住在意起来了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

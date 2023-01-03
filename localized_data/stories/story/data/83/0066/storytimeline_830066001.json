@@ -1,0 +1,293 @@
+{
+    "Title": "状态“觉得无趣？”",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "穿连身裙的赛马娘",
+            "Text": "呼～！买了好多东西。\n波旁，谢谢你陪我来买东西！\n特卖会人很多，你应该累了吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "体力和活力都非常良好。\n没有受到特卖会影响，\n目的已经顺利完成。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "穿连身裙的赛马娘",
+            "Text": "啊哈哈……总觉得对你有点抱歉。\n波旁，你从头到尾都没笑，\n应该是逛得不开心吧……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "那是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "穿连身裙的赛马娘",
+            "Text": "没关系啦！总之，谢谢你陪我来！\n对不起，再见啦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "…………",
+            "ChoiceDataList": [
+                "你是不是被误会了？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "啊……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "是的。分析我的表情后，\n对方判断我“觉得无聊”……\n但那并不正确。",
+            "ChoiceDataList": [
+                "你觉得很开心吧",
+                "你觉得很开心吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "难度C任务，“获得特卖品”顺利完成。\n看见了她的笑容……因此，\n判断这个问题的答案是“正确”。",
+            "ChoiceDataList": [
+                "误会一定很快就会解开"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "是这样吗？根据过往的经验，\n可预测今后再次陷入相同状况的几率，\n超过80％。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "下次应该会是在──\n变装派对会场。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "──那个影片真的好可爱！\n下次大家一起办一场\n跟那个影片一样的变装派对吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "这样啊。\n米浴看起来很开心，真是太好了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "嘿嘿嘿……光是思考要穿什么衣服，\n就让人觉得很开心呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "……所以啊。\n无论是准备过程或活动当天，\n一定都会非常有趣……所以……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "波、波旁要不要也一起参加！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "……虽然我当时点头答应了，\n但我判断自己出席后，\n很可能破坏现场的气氛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "我果然还是应该拒绝比较好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "美浦波旁说完轻轻鞠躬，\n走向校舍。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "哎呀，你的表情看起来好严肃，\n发生什么事了吗～？\n该不会是有什么烦恼吧？",
+            "ChoiceDataList": [
+                "只是在想些事情……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "呵呵，不介意的话，可以找我商量喔♪\n两个人烦恼总比一个人烦恼好，\n我应该能帮上你的忙。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "哎呀……小波说了那样的话啊。\n其实我也会参加那场变装派对……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "我明白了，交给我吧。\n我也会去找小波谈谈。既然要办派对，\n还是希望大家都能玩得开心呢♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "呼、呼……呼……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "小波～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "训练辛苦了。\n我听说变装派对的事情了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "……这么说来，\n溪流也会参加吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "是啊，派对名称是\n“大家一起开心度过的变装派对”♪\n小波也一起开心地参加吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "可是，我……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "米米是因为把小波当成重要的朋友，\n才会邀请你参加。\n当然我也是这么想。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "所以不可能会觉得你无趣。\n反倒是如果你不来，\n或许会令人寂寞到哭出来呢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "……了解。\n参加派对时，我会采取最佳的行动。\n时刻提醒自己露出笑容──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "你只要保持原样就行了。\n不可以勉强自己笑喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "……可是，这样的话。",
+            "ChoiceDataList": [
+                "我觉得现在这样就很好了！",
+                "或是变装成不用改变表情的人物"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "不改变自己，维持现状吗……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "既然要“大家一起开心度过”，\n当然是自然最好。跟平常的美浦波旁\n在一起，大家也会觉得比较自在吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "没错。不需要想得太复杂。\n因为大家是想跟平常的小波\n一起享受派对啊♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "…………\n维持现状，跟平常一样。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "……了解。\n我会搜寻适合的变装，\n立刻开始制作。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我还来不及问有没有自己\n能帮上忙的地方，美浦波旁就立刻\n以惊人的气势跑走了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "这主意也不错呢～不需要彻底变成\n不同的人。思考适合自己的\n变装也很开心呢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "也就是说……\n变成“赛博格”吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "呵呵，那样也不错呢。\n你一定会变成又强又帅气的赛博格♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "……我明白了。任务，\n“摸索适合自己的服装”开始。\n我一定会达成任务。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "虽然目的是玩得开心……\n但美浦波旁为了达成任务，\n用力握紧拳头。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

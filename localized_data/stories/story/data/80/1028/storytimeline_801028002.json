@@ -9,7 +9,7 @@
         },
         {
             "Name": "独白",
-            "Text": "清晨，当我因为有事而来到\n正在维护中的训练赛道后──",
+            "Text": "清晨，当我因为有事而来到\n维护中的训练赛道时──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -21,7 +21,7 @@
         },
         {
             "Name": "维护人员A",
-            "Text": "唔哇！故障了吗？\n整地机突然不动了……！",
+            "Text": "唔哇！故障了吗？\n整地车突然不动了……！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -36,7 +36,7 @@
         },
         {
             "Name": "维护人员A",
-            "Text": "哎呀～非常抱歉！\n整地机突然故障了……\n我现在就修理！",
+            "Text": "哎呀～非常抱歉！\n整地车突然故障了……\n我现在就修理！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -72,13 +72,13 @@
         },
         {
             "Name": "菱曙",
-            "Text": "冷静下来，一件事一件事处理吧～？",
+            "Text": "冷静下来，事情一件一件处理吧～？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "维护人员B",
-            "Text": "……没、没错。\n先把整地机移开，\n再继续进行维护……",
+            "Text": "……没、没错。\n先把整地车移开，\n再继续进行维护……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -90,13 +90,13 @@
         },
         {
             "Name": "菱曙",
-            "Text": "还是我帮忙\n维护赛道比较好呢～？",
+            "Text": "还是我帮忙\n整地比较好呢～？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "维护人员A",
-            "Text": "呃！虽然很感谢你的心意，\n但是让学生来做这种事……",
+            "Text": "呃！虽然很感谢你的好意，\n但是让学生来做这种事……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -104,8 +104,8 @@
             "Name": "菱曙",
             "Text": "欸欸，可以帮忙他们吧？\n你觉得要怎么帮比较好呢～？",
             "ChoiceDataList": [
-                "你可以把整地机推开吗？",
-                "麻烦你跑在赛道上整地！"
+                "你可以把整地车推开吗？",
+                "麻烦你在赛道上跑步整地！"
             ],
             "ColorTextInfoList": []
         },
@@ -123,13 +123,13 @@
         },
         {
             "Name": "独白",
-            "Text": "为了不要把路面弄乱，\n我们在整地机下面放了铁板。\n她用力推动整地机……！",
+            "Text": "为了不要把地面弄乱，\n我们在整地车下面放了铁板。\n她用力推动整地车……！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "菱曙",
-            "Text": "唔咿咿咿……！好重……！\n可是、只要再、一点点……！",
+            "Text": "唔伊伊伊……！好重……！\n可是、只要再、一下下……！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -141,31 +141,31 @@
         },
         {
             "Name": "独白",
-            "Text": "菱曙将整地机推到赛道外，\n让维护得以及时结束。",
+            "Text": "菱曙将整地车推到赛道外，\n让维护得以及时结束。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "菱曙",
-            "Text": "好～！\n马上就好了，交给我吧～☆",
+            "Text": "好～！\n用不着多少时间的，交给我吧～☆",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "菱曙",
-            "Text": "哦哦哦哦哦哦～～～！！",
+            "Text": "喔喔喔喔喔喔～～～！！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "菱曙拖着从整地机上拿下来的大型旋转耙，\n在沙土赛道上跑了起来。",
+            "Text": "菱曙拖着从整地车拆下来的大型旋转耙，\n在沙土上跑了起来。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "维护人员B",
-            "Text": "哦哦！这速度……！\n简直比用整地机还快……！！",
+            "Text": "喔喔！这什么速度……！\n简直比用整地车还快……！！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -177,7 +177,7 @@
         },
         {
             "Name": "独白",
-            "Text": "在菱曙整地的时候，\n整地机也修理完毕，开回车库了。\n维护工作就这样顺利结束。",
+            "Text": "在菱曙整地的时候，\n整地车也修理完毕，开回车库了。\n维护工作就这样顺利结束。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         }

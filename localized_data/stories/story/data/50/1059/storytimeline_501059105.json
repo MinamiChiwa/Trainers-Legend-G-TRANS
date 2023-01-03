@@ -1,0 +1,32 @@
+{
+    "Title": "夏季集训（第三年）开始！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "古马级的夏季集训终于展开！\n为了朝“伊丽莎白女王杯”迈进，\n希望能在此增加更多的实力。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "一起打造很棒的集训吧，训练员。",
+            "ChoiceDataList": [
+                "嗯！",
+                "嗯！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "为了秋天的决战，让这个夏天火热起来吧──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

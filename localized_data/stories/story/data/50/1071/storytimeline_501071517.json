@@ -1,0 +1,59 @@
+{
+    "Title": "觉得不畅快……",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我一进训练员室，\n就发现目白阿尔丹\n一脸忧郁地看着窗外。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "啊……训练员，\n你好。",
+            "ChoiceDataList": [
+                "你没什么精神啊",
+                "你没什么精神呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "……非常抱歉。\n只是有一件……真的非常琐碎的事情。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "我前阵子上网订了之前就想看的书，\n而且是一次订上下集──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "等到货后打开一看……\n才发现上集是旧版，下集是新版。\n摆在书柜上显得非常不自然……",
+            "ChoiceDataList": [
+                "……这样会让人很不畅快呢",
+                "……这样会让人很不畅快啊"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "是的……果然不该偷懒，\n应该亲自去书店买。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "目白阿尔丹用非常不畅快的\n表情叹了口气……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

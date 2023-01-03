@@ -1,0 +1,282 @@
+{
+    "Title": "Search or Mommy",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "某天，\n我在图书馆看到了超级溪流。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "哎呀，真巧耶～\n训练员也来找书吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "我也正在找参考书。\n因为老师出了世界史跟古文的作业。",
+            "ChoiceDataList": [
+                "你找到适合的参考书了吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "其实……因为实在太多种参考书了，\n弄得我眼花撩乱的～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "那、那个……不介意的话，\n请让我帮你一起找……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "哎呀～是英雄啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "抱歉突然来打扰你们。\n我刚刚听到你们在谈参考书……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "你不需要道歉～！\n我也很高兴你愿意帮忙♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "好、好的！那个，我一定会尽图书股长的责任，\n找出最适合你的参考书……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "对了，溪流。\n我认为这本参考书很值得推荐！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "这本参考书有很多相关用语的注释，\n也有很多图片说明，我觉得特别好懂……！\n而且还有一些很幽默的小知识──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "哎呀，听起来很不错呢～\n我能充分感受到这本书的魅力所在♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "……啊，对、对不起！\n我自顾自地一次说这么多……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "呵呵，你不用放在心上。\n喜欢一件事情到会忘我是件好事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "你要对自己的喜好怀抱自信，\n还要让它变成会让你引以为傲的优点喔♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "谢、谢谢你……我好高兴。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "我也想用英雄推荐的参考书来学习。\n来，我们继续找参考书吧♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "好……！我还有其他想推荐的参考书，\n等等再来比较一下哪种比较适合你吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "两人就这么继续寻找参考书──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "……哎呀？这是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "呵呵……\n“即便如此，还是拔不起巨大的胡萝卜。\n来，大家一起合力把它拔出来吧”。",
+            "ChoiceDataList": [
+                "胡萝卜……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "呃，那个是……绘本吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "啊，对不起！我觉得小孩子应该会\n很喜欢这本绘本，不小心看起来了～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "这本绘本看起来的确很有趣。\n我也可以想像……孩子们会笑得多开心。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "……不过，现在要先忍着不看它！\n我今天是来找参考书的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "我看看，世界史……世界史……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "……哎呀？哎呀呀～♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "看～\n我找到一本很适合英雄的绘本了～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "咦？适合我的……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "这好像是英雄打倒邪恶巨龙的故事♪\n感觉很～好看喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "那是刚进图书馆的新书……！？\n我还没看过，但应该……\n不，绝对会是我喜欢的故事！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "呵呵呵，你果然会喜欢。\n我可以念一整本给你听喔～♪",
+            "ChoiceDataList": [
+                "要赶快找参考书才行！",
+                "我也好想……听你念绘本……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "说、说的也是……！\n对不起，我一直分心去看绘本～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "我、我也不小心就太激动了……\n要努力找找适合的参考书才行……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "我看看，古文……古文……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "哎呀……是《猪大哥跟狼“顾问”》。\n这本应该也很适合念给大家听……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "那是听起来像“古文”而已……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "啊，对不起～！\n我也真是的～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "超级溪流就这么一边跟涌上心头的母爱对抗，\n一边寻找需要的参考书……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "我当然也会念给训练员听。\n我要开始念了～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "“好久、好久以前……\n有一只住在山上的坏坏龙跑来村子大闹，\n让大家好困扰……”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "溪流的声音……让人听得好安心。\n整个人都放松下来了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "呵呵呵，不小心听到睡着也没关系的～\n乖～♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "超级溪流念完绘本以后，\n便神清气爽地继续寻找\n需要的参考书。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,392 @@
+{
+    "Title": "圣诞节",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──时间来到了圣诞节。\n学生会在特雷森学园内举办了\n一场圣诞节派对。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "太阳&佐敦",
+            "Text": "圣诞圣诞、圣诞快乐～☆\n大家一起来嗨翻天吧～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "所有人",
+            "Text": "喔──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "这这这、这场派对本身，\n就已经能当作圣诞节礼物了吧！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "学园里最具代表性的赛马娘们齐聚一堂！\n挤到不行！哈啊～感觉光是在这里呼吸，\n就会受到神圣的制裁～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "好，让大家久等了！\n接下来就是交换礼物时间咯！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "大家把带来的礼物混在一起，\n互相交换吧！\n希望大家都能抽到喜欢的礼物！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "啊啊啊，我想要那个，也想要这个，\n还想要那个。我全都想要！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "我苦恼到差点升天，最后选了这个。\n欸嘿嘿……不管抽中谁的都是传家之宝。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "哎呀～不过这里真的宛如天国呢。\n因为能像这样收到赛马娘准备的礼物……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "而且还能跟最最最喜欢赛马娘的训练员，\n一起待在这里。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "爱丽数码对此感动不已。\n然后，终于到了打开礼物的时间。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "那么等我喊预备之后，\n大家就各自打开自己的礼物喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "预备──开！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "这这这、这个是──！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "爱丽数码也打开了桌上的礼物。\n放在盒子里的东西是？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "计算机……\n是桌上型计算机！！！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "没想到会抽中这样的礼物！\n喔喔喔喔喔！",
+            "ChoiceDataList": [
+                "你原本就想要计算机吗？",
+                "你原本就想要计算机？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "不，没有特别想要。但如果是赛马娘\n送的礼物就不一样了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "每天睡觉前用这个来算CP的攻受好了。\n但不晓得这是谁送的？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "──是我。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "啊，神宫！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "说得也是～讲到计算就会想到神宫。\n那数码碳就感恩戴德地收下了～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "没想到会被同期抽中。要论我的礼物\n被你抽中的几率，只比1%高了一些……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "或许这也是某种偶然吧。那么我就顺便\n再送你一个别的东西当作礼物吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "咦咦咦？还附免费赠品？你是神吗？\n那你要送我什么呢！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "呵，这个嘛……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "是“战帖”！跟我对决吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "神、神宫！？\n可是你之前不是说\n对我没兴趣……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "那是之前。但看了你这一年的表现，\n我改变了想法。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "你那不受场地限制的脚质……\n我很好奇那是怎么构成的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "呵，我之前都没注意到。\n同期里竟然有个这么有趣的家伙。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "你就暂时陪我一段时间吧。\n一起并跑练习，然后让我收集数据。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "唔喔喔喔喔，我这是在做梦吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "至今毫无反应的天岩户\n终于打开了！！而且──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "哎呀，给我等等，神宫。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "数码可是我重要的实验材料。\n你擅自借走会让我很困扰的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "你……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "与爱丽数码同寝室的爱丽速子介入了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "啧，啰嗦啦。\n废话少说，把她交出来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "我拒绝。她可是属于我的喔。\n跟她同寝室的我拥有优先使用权。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "不要以为认识得久就能自以为是。\n这家伙我收下了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "怎怎怎、怎么会变成这样～！？？\n两位不会是有什么误会吧！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "简直就是……禁忌……我这种人……\n竟然会被夹在这两个人之间……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "啊啊，数码碳要化为……一阵风了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "吸引到许多赛马娘的兴趣，\n让爱丽数码看起来很幸福的样子。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "是……签名纸啊……\n上面有好多赛马娘的签名……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "咦咦咦咦咦咦！？\n这上面是所有人的签名吧！？\n咦、咦、咦咦咦咦！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "怎怎怎、怎么会有这么珍贵的宝物！？\n这已经不是传家宝而是国宝级的逸品了耶？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "要是拿去拍卖的话，\n肯定能卖到超过一百万赛马娘币。\n为什么这么好的礼物会被我抽中？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "看来你很中意呢，爱丽数码。\n那是我们大家准备的礼物。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "会会会、会长大人～！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "爱丽数码，你那不拘泥于特定赛道\n所展露出的表现，令许多赛马娘粉丝\n为之着迷。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "也让更多人深刻地感受到了赛马娘的魅力。\n你对整个特雷森学园可说是贡献良多。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "我想要表扬你，不过──\n你的兴趣还挺独特的不是吗？\n所以……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "我想这样做，你或许会更开心。\n这是我们准备的小小谢礼。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "哦、哦、哦、哦哦哦哦哦哦哦哦哦哦哦！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士&好歌剧",
+            "Text": "爱丽数码！圣诞快乐！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "努涛＆乌拉拉",
+            "Text": "爱丽数码！圣诞快乐！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "噫呀啊啊啊啊啊啊啊，\n训练员，训……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "哈啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽数码",
+            "Text": "（看见了……我也看得见了……\n极乐世界的彼端……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "幸福的呐喊回荡在圣诞节的夜空当中。\n对爱丽数码而言，这成了她所度过最幸福的\n一次圣诞节。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

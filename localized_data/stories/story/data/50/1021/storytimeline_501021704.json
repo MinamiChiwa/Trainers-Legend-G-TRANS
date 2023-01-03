@@ -1,0 +1,376 @@
+{
+    "Title": "帮助人、受人帮助",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我和玉藻十字一起外出，\n并一起回到特雷森学园时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "嗯？电话响了……\n抱歉，先等我一下！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "啊啊，是我订购东西的商家啊！\n……咦！？这话是什么意思！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "商品有问题……没办法解决吗……！？\n你们的库存应该有类似的东西吧！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "那是我要送给弟弟的重要礼物啊！\n拜托你了，再帮我确认一次吧……！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "唉～～～～～",
+            "ChoiceDataList": [
+                "怎么了？",
+                "怎么了吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "……不久前，我弟在赛跑拿到第一名。\n我本来打算要买他一直想要的大阪烧抱枕，\n当作礼物送给他的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "结果，刚才店家的人打来……\n说那个东西因为有点问题，停卖了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "我已经告诉他很快就会送到家里了，\n要想办法解决才行……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "老师",
+            "Text": "啊，找到你了！玉藻十字同学！\n你忘记交作业了喔～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "不是吧！？居然在这个时间点……！\n唔，我先过去一趟！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "玉藻十字心事重重地离开。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "正当我绞尽脑汁，\n想着有没有什么办法能帮她时──\n突然想起了她曾经说过的话。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "“没有，就动手做！”\n这是我家的规矩！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就是这个──\n于是我前去找擅长缝纫的超级溪流。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "嗯嗯，\n所以才想要做大阪烧的抱枕啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "我知道了，请务必让我帮这个忙♪\n因为我也想要报答\n之前在牧场之旅的事情嘛～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "我……虽然没什么缝纫的经验，\n但也会尽力帮忙的。",
+            "ChoiceDataList": [
+                "谢谢你们！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "于是，\n我便和超级溪流还有小栗帽，\n三个人一起制作大阪烧的抱枕。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "咦？\n这个该不会是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "是的，\n这就是你弟弟一直想要的大阪烧抱枕喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "这样问题就解决了。\n小玉也就不用烦恼了吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "你们竟然为了我，\n特地帮我做……！",
+            "ChoiceDataList": [
+                "虽然跟你原本要买的比起来，可能丑了一点"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "啥～！说什么啊你！\n完全不会好不好！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "这个抱枕可是充满了你们的爱啊！\n这对我来说，\n比外面卖的还要更有价值……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "呵呵。\n真是太好了呢，训练员♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "训练员！\n我确确实实收到你的心意了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "虽然我一直认为，没办法丢下有困难的人不管，\n这点是我个人最大的专属卖点，\n……这样看来，训练员其实跟我是同类嘛！",
+            "ChoiceDataList": [
+                "这也是为了报答你平时的照顾啊",
+                "有成功做到看起来很美味的样子吗？",
+                "因为我也想要能帮上玉藻的忙啊！",
+                "因为我也想要能帮上玉藻的忙呀！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "虽然我一直认为，没办法丢下有困难的人不管，\n这点是我个人最大的专属卖点，\n……这样看来，训练员其实跟我是同类嘛！",
+            "ChoiceDataList": [
+                "这也是为了报答你平时的照顾啊",
+                "有成功做到看起来很美味的样子吗？",
+                "因为我也想要能帮上玉藻的忙啊！",
+                "因为我也想要能帮上玉藻的忙呀！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "是呀♪\n因为平时都是小玉在帮助我们嘛～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "那下次就轮到我咯！\n所有恩情，我可都是会加倍报答的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "这样啊，\n那到时候我们也要好好再回馈你的报答才行。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "不对不对不对！你们不用再回馈了啦！\n这样下去根本没完没了了！",
+            "ChoiceDataList": [
+                "就一直这样互相帮助就好了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "体贴会衍生出更多的体贴……\n这真的是很棒的循环呢♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "我希望今后也能像现在这样，\n一直和小玉都是这样互相帮助的关系。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "是啊……我也这么想。\n小玉你呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "唔唔！你们这样充满期待地看着我，\n我哪还有办法拒绝啊……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "知道了，知道了啦！\n那我们就继续这样互助互惠下去吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "真是的，每次都拗不过你们！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "经过这次的事情，\n更加深了我们彼此之间的信任。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "是啊，\n任谁来看都是一个非常棒的大阪烧喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（咕噜～）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "…………我肚子饿了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "哎呀哎呀，\n训练员和小栗的肚子发出了很可爱的声音♪",
+            "ChoiceDataList": [
+                "毕竟我们花了很长时间做嘛……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "哈哈！\n既然如此，那就包在我身上吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "我做大阪烧给大家吃，\n当作抱枕的回礼！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "我的功夫又比上次大阪烧派对的时候\n还要更厉害了喔！\n你们就等着见识我修炼过后的水准吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "后来，\n我们一起享用了玉藻十字的大阪烧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "干、干嘛啊，\n怎么这么激动的感觉～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "这也代表小玉在我们的心里\n有多么地重要啊～♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "小玉虽然是一个非常乖巧的小孩，\n但总是什么事都想要自己一个人承担──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "我希望你偶尔也能稍微依赖我们一点，\n可以吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "溪流……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "而且，总是很努力的可爱小孩\n就是会让人想要好好地宠爱一番嘛♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "唔唔唔……你这么说我是很高兴啦，\n但可不可以别把我当小孩子啊？",
+            "ChoiceDataList": [
+                "不是把你当小孩子，是心意喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "是、是喔，那……\n虽然我不习惯……但好像感觉还不错。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看着玉藻十字不好意思地笑着，\n我的胸口感受到了一股热热的暖流。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

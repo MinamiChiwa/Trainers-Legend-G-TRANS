@@ -1,0 +1,516 @@
+{
+    "Title": "夏季集训（第二年）途中",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "夏季集训进行到一半的某一天，\n我碰巧看到目白阿尔丹\n在和其他人站着聊天。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "哎呀，训练员。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "喔，这不是阿尔丹的训练员吗？\n你好啊～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "阿尔丹"
+            ]
+        },
+        {
+            "Name": "",
+            "Text": "她是目白善信。开朗活泼的\n爆领头赛马娘，她和目白阿尔丹都是\n目白家成员，经常一起聊天。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "目白善信"
+            ]
+        },
+        {
+            "Name": "目白善信",
+            "Text": "对了！刚才的事情，\n只要找训练员商量\n不就好了吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "的确……！",
+            "ChoiceDataList": [
+                "商量？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "其实我们正在讨论明天休假，\n要找目白家的大家\n一起去“海之家”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "阿尔丹说她平常没什么机会去\n海之家，难得有这个机会，\n不如找大家一起去──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "我刚才听集训的工作人员说，\n如果一群人要一起外出，\n就需要有监护人陪同。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "如果训练员不介意的话，\n可以当负责监视的大人，\n陪我们一起外出吗？",
+            "ChoiceDataList": [
+                "如果是这样的话，我很乐意"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "谢谢。\n那明天就拜托你了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我和目白阿尔丹她们\n一起来到附近的“海之家”──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "哎呀……！这间“海之家”的\n店铺外观充满情趣，真令人期待。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "哈哈，真像是阿尔丹会有的感想。\n总之先坐下来吃点东西吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "嗯，就这么办吧。\n各位──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "哎呀……！这里的刨冰\n种类真是丰富。\n仿佛能感觉到店家的热情──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "真的耶。草莓牛奶、宇治抹茶、\n芒果和弹珠汽水……不只是经典款，\n就连有点冷门的口味都很齐全。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "麦昆要点什么？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "麦昆"
+            ]
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "种类这么多，\n实在很难决定呢……\n赖恩打算点什么？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "赖恩"
+            ]
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "我要点这个！\n加了乳清蛋白的巧克力刨冰！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "呵呵，这个选择真符合你的风格──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "哇～！多伯，你看。\n这个“回忆果汁”！会把吸管\n弯成可爱的心形呢～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "多伯"
+            ]
+        },
+        {
+            "Name": "目白光明",
+            "Text": "不过为什么有两个吸管口呢？\n这样到底要怎么喝啊～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "这种东西跟我们……\n应该没什么关系吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "哎呀？多伯知道为什么吗～？\n请你务必告诉我～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "咦！？呃，那个～\n这是因为……该怎么说才好，\n就是让感情很好的两个人……一起喝……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "那正好适合我们呢～\n因为我们感情很好～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "不、不是那个意思啦！\n真是的──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "啊哈哈！大家感觉都跟平常一样呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "大家都很开心，真是太好了。\n我们也来跟进吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "不过……这样看起来，\n海之家真的有好多种菜单呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "嗯，虽然也有走偏成熟、时髦\n风格的海之家，但这里感觉是走\n正统的热闹风格呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "点餐的时候，真的会让人觉得目不暇给呢。\n感觉就像探险家一样……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "喔，那个怎么样？\n“爆辣VS爆麻活动”！\n看起来刺激又有趣呢～♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "今夏限定……\n这种一生难得一次的感觉很棒呢。\n就点这个吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "目白阿尔丹和目白善信看的\n活动菜单上，每样餐点的\n颜色看起来都非常鲜红……！",
+            "ChoiceDataList": [
+                "看起来很辣，你没问题吗？",
+                "看起来很辣，你可以吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "这部分也是一生难得一次。\n请放心。不管是什么样的餐点，\n我都有信心能吃完。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "嗯～我已经决定好要点什么了，\n阿尔丹呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "这个嘛……\n我已经把选项缩减到剩两个──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "……机会难得，\n就请训练员帮我决定吧。\n可以帮我从这两道里挑一道吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "目白阿尔丹说完后，\n指示的菜单上写着──",
+            "ChoiceDataList": [
+                "“注入活力。超辣肉燥增量麻婆豆腐”",
+                "“提升意志力。超麻干担担面”"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "那就……\n“注入活力。超辣肉燥增量麻婆豆腐”\n一份──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "噗，哈哈！\n阿尔丹，这么认真念\n餐点名称也太奸诈了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "店员",
+            "Text": "久等了！\n这是“超辣肉燥增量麻婆豆腐”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "送到目白阿尔丹面前的，\n是光看就会让人流汗，宛如岩浆般\n灼热的料理！不过她──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "哎呀……！\n这颜色和味道真是刺激。\n那我开动了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "虽然稍微流了一点汗，\n但她面不改色地维持\n一定的步调吃下去……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "呀～～！好辣好辣！\n幸好是好吃的那种辣！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "是啊。虽然吃第一口时吓了一跳，\n但辣味中确实包含了浓厚的滋味，\n非常美味呢。",
+            "ChoiceDataList": [
+                "你很擅长吃辣呢",
+                "你很擅长吃辣啊"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "虽然……不晓得算不算擅长，\n但只要是对身体的刺激，\n我都还满能忍耐的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "这大概跟我从小就常\n有机会吃到各种很苦的东西……\n有关系吧？",
+            "ChoiceDataList": [
+                "是、是这样吗？",
+                "是、是这样吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "阿尔丹如果参加忍耐大赛，\n感觉会很强呢～\n说不定目白家的人都不是你的对手！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "忍耐大赛……！\n如果之后有机会，真想办一次呢……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "到时候，\n训练员也愿意陪我一起参加吗？",
+            "ChoiceDataList": [
+                "我得好好监视阿尔丹，不让你勉强自己",
+                "我得好好监视阿尔丹，不让你勉强自己"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "唔……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "哈哈！阿尔丹，\n你居然让人家对你有这种印象。真好笑！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "呵呵，伤脑筋的是，我确实做过这样的事。\n既然如此，无论如何都得请训练员\n好好看着我才行了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我们像这样持续闲聊，\n和目白阿尔丹之间的夏天回忆\n又多添了一笔……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "那就……\n“提升意志力。超麻干担担面”\n一份──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "噗，哈哈！\n阿尔丹，这么认真念\n餐点名称也太奸诈了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "店员",
+            "Text": "久等了！\n这是“超麻干担担面”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "送到目白阿尔丹面前的，\n是光闻味道就会让人流汗，风味十足的\n炽热料理！不过她──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "哎呀……！\n这刺激的香味真是令人食指大动。\n那我开动了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "虽然稍微流了一点汗，\n但她面不改色地维持\n一定的步调吃下去……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "呀～～！真的是又麻又辣！\n幸好是好吃的那种辣！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "是啊。虽然吃第一口时吓了一跳，\n但滋味被凝结在刺激的麻感中，\n非常美味呢。",
+            "ChoiceDataList": [
+                "你很擅长吃辣呢",
+                "你很擅长吃辣啊"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "虽然……不晓得算不算擅长，\n但只要是对身体的刺激，\n我都还满能忍耐的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "这大概跟我从小就常\n有机会吃到各种很苦的东西……\n有关系吧？",
+            "ChoiceDataList": [
+                "是、是这样吗？",
+                "是、是这样吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "我觉得阿尔丹真的很有胆识呢！\n即使是第一次挑战也毫不畏惧。\n总之先试试看再说的感觉？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "是吗？\n我自己是没有特别意识到这点──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "……大概是因为我的心里\n一直都有着如果“现在”不做，\n将来或许会后悔的心情吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "那为了让今天不要后悔，\n得尽情享受海之家的乐趣才行！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "呵呵，你说的没错。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "阿尔丹！善信！\n你们要吃冰吗？听说可以\n自己加水果上去耶！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "善信"
+            ]
+        },
+        {
+            "Name": "目白善信",
+            "Text": "喔～听起来很有趣呢！\n阿尔丹，我们过去吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "好的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "──训练员也一起去吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我们之后也继续享受海之家的乐趣，\n和目白阿尔丹之间的夏天回忆\n又多添了一笔……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

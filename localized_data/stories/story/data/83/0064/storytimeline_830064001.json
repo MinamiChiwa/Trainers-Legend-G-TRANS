@@ -1,0 +1,315 @@
+{
+    "Title": "狩猎木乃伊～摆脱搞笑路线！～",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "回舞蹈室拿忘记的东西时，\n玉藻十字把我叫住了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "你现在有空吗？\n方便的话，我想请你看我们练习。",
+            "ChoiceDataList": [
+                "好啊。是什么练习？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "我们之后要参加地区交流活动，\n在一个叫“狩猎木乃伊”的鬼屋里帮忙。\n我们四个人负责准备。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "那是一个让木乃伊猎人和客人，\n一起用玩具枪打倒来袭的木乃伊的游乐设施。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "木乃伊没有脚本，\n所以要练习即兴表演！\n也就是所谓的“即兴剧”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "我们接下来会扮演木乃伊，\n可以请你告诉我们感想吗～？\n即兴剧的题材是“木乃伊的遗憾”。",
+            "ChoiceDataList": [
+                "我知道了！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "谢啦！那就拜托你了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "唔喔喔喔喔……宝物……\n我绝对不会……把宝物……交出去……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "唔喔……唔喔喔喔！祭典！\n你也来参加祭典吧……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "我想……照顾更多人～\n快过来给我宠爱吧……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "我的遗憾……是没有吃饱。\n肚子好饿……所以我要袭击人然后把他吃掉。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "哎呀……这样蔬菜会摄取不够吧。\n我来帮你做其他配菜～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "谢谢你，溪流……！\n我还要白饭和味噌汤。\n吃完还要再续碗……！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "呵呵呵，想吃多少都没问题♪\n你就尽量吃到饱吧～\n能照顾小栗真是太幸福了～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "溪流的饭吃到饱…………这里是天堂。\n……（流口水）。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "你的遗憾都被消除了吧！！\n木乃伊之间搞什么温馨啊！\n去袭击别人啦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "放心吧，我肚子很饿。\n还吃得下！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "不是那个问题！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "暂停暂停！\n小玉，你也跟着吐槽了，是怎样啦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "抱、抱歉。我一时忍不住……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "你觉得我们演的戏怎么样？\n不要客气尽管说吧！",
+            "ChoiceDataList": [
+                "非常有趣！",
+                "有点不够恐怖……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "这样不行！！\n鬼屋不应该有趣吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "虽然我一直吐槽也不对，\n但主要还是溪流和小栗装傻过头了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "对不起……\n我明明没打算装傻……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "那就是所谓的天然呆啊。总而言之，\n必须设法改善这个放松过头的气氛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "正式上场时还有猎人在吧？\n只要猎人帮忙营造紧张气氛，\n总会有办法吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "说得也是。演木乃伊猎人的是谁啊？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "是我。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "原来是你啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "早点说啊！\n为什么要跟我们一起练习演木乃伊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "身为木乃伊猎人，\n必须先理解木乃伊的心情……不是这样吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "理解对方的心情后不会下不了手吗？\n唉……看来前途堪忧……\n回去再来思考对策吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "至于小栗，你要学习怎么演猎人。\n看一些有猎人登场的电影，好好研究。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "原来如此，我知道了。\n小玉果然很可靠。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "的确……明明该营造恐怖的气氛，\n但这根本是变成搞笑路线了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "既然如此，就来提升恐怖的效果怎么样？\n据说声音和触感能够提升恐怖感呢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "啊！要不要来实际体验一下恐怖的感觉？\n一起逛晚上的学校，寻找恐怖演出的参考！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "……这、这主意不错……可是不行！！\n晚上还留在学校不太好！对吧！",
+            "ChoiceDataList": [
+                "有我陪同就没问题了吧",
+                "有我陪同就没问题了吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "……晚、晚上的学校感觉果然很诡异……\n快点找能作为演出参考的事情吧。\n就先用这个脚步声怎么样？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "说到脚步声～你知道吗？\n听说只要晚上在校舍里奔跑，\n就会有道红光追过来～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "为什么要现在讲这种事啊！\n这和演出没关系吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "……哎呀？\n你们……有没有听见什么声音？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "…………的……周日……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "……没、没有……没有没有没有！\n我什么都没听见！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "──啊，有一道红光。\n那就是溪流说的光吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "……红色的……美丽……周日……☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻＆稻荷",
+            "Text": "呀啊啊啊啊啊啊啊！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "不……不行！！这样会弄哭小孩子！\n还是不要太恐怖比较好！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "最好是无论男女老少都能玩得开心！\n干脆办个走搞笑路线的鬼屋吧！就这么办！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

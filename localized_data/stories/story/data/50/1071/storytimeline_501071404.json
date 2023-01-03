@@ -1,0 +1,63 @@
+{
+    "Title": "分歧的道路",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在“日本德比”和目白阿尔丹展开\n一场激战的樱花千代王因为受伤而住院，\n暂时无法继续参赛……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "两人发誓总有一天要在赛场上重逢，\n目白阿尔丹希望自己能成为一个\n不会让对手蒙羞的劲敌。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "接下来有两种未来能够作为她的\n下一个目标。一个是会再次和八重无敌\n对决的三冠路线终点，“菊花赏”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "菊花赏"
+            ]
+        },
+        {
+            "Name": "独白",
+            "Text": "另一个是同为最强层级的玉藻十字和\n小栗帽，以及其他古马级选手也会参加，\n至高无上的中距离竞赛“天皇赏（秋）”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "玉藻十字",
+                "小栗帽",
+                "古马级",
+                "天皇赏（秋）"
+            ]
+        },
+        {
+            "Name": "独白",
+            "Text": "不管选哪一条路，等待目白阿尔丹的都是\n严苛的战斗，同时也能让她有所成长。\n训练员的选择是──",
+            "ChoiceDataList": [
+                "参加“菊花赏”",
+                "参加“天皇赏（秋）”"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "决定朝“菊花赏”迈进。\n面对下一场战斗，两人发誓\n要重整心态勇往直前……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "决定朝“天皇赏（秋）”迈进。\n面对下一场战斗，两人发誓\n要重整心态勇往直前……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

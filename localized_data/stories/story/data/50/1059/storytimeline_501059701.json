@@ -1,0 +1,91 @@
+{
+    "Title": "充分休息！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "早上当我进入训练员室时，\n目白多伯已经来了。",
+            "ChoiceDataList": [
+                "你来得很早呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "！……这、这个时间来是很普通的事情吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "嗯，我新买的精油\n似乎很适合我……晚上睡得很好！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "反而是你来晚了吧？\n……睡眠够充足吗？",
+            "ChoiceDataList": [
+                "还可以",
+                "还可以"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "训练员自己呢？\n睡眠够充足吗？",
+            "ChoiceDataList": [
+                "还可以",
+                "还可以"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "……好歹假日要睡饱一点啊。\n这种时候就是要用精油之类的。",
+            "ChoiceDataList": [
+                "谢谢你顾虑我",
+                "谢谢你顾虑我"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "这样啊……不过我很担心呢。\n因为训练员很容易逞强。",
+            "ChoiceDataList": [
+                "谢谢你顾虑我",
+                "谢谢你顾虑我"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "！我、我只是在提醒你。\n毕竟你出什么事的话，我会很麻烦！\n……你懂吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "那是我想说的话。\n如果能帮上忙的话，可以介绍不错的精油给你喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "向目白多伯看齐，\n提升睡眠品质或许不错。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "向目白多伯看齐，\n提升睡眠品质或许不错。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "Title": "粉丝信",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "我问你喔，训练员，\n有没有“高温宅配”这种东西啊～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "菱曙一来到训练员室\n就开口问了一件奇怪的事。",
+            "ChoiceDataList": [
+                "我想应该没有……为什么这么问？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "耶嘿嘿～\n其实是有人寄了这封信给我～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "上面写“我最爱看你的比赛了！\n你好高大，跑起来轰隆轰隆的，\n就像卡车一样！”♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "我很高兴所以想回信给他，\n但对方的妈妈还写了\n“我想你应该很忙，所以不用回信没关系”～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "我才想说把我亲手做的\n“南海相扑火锅”之类的，\n代替回信寄给他们～♪",
+            "ChoiceDataList": [
+                "寄那个过去对方会很困扰吧……？",
+                "寄那个过去对方会很困扰吧……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "这样啊～但不管怎么说，\n没有“高温宅配”也不能寄嘛～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "啊，对了！那干脆用低温宅配\n把我亲手做的“特大桶冰淇淋”寄过去吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "得从现在开始备料才行♪\n我去一下附近的超市……",
+            "ChoiceDataList": [
+                "你就普通地回信吧！",
+                "你就普通地回信吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我连忙挡下了想去备料的菱曙。\n她似乎从那封信中，\n得到了再大的容器也装不下的喜悦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

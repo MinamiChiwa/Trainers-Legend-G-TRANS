@@ -1,0 +1,234 @@
+{
+    "Title": "开动了！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "菱曙向她熟识的渔会人士获得许可后，\n我们来到了──那座无人岛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "嗯～好舒服！\n真是采昆布的好日子呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "不过……训练员，你的行李好多！\n你带了这么多是带了什么？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "大量的水、生火道具……\n啊，还有可食用野草图鉴！",
+            "ChoiceDataList": [
+                "因为上次一个人被丢在岛上……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "啊哈哈。对耶～\n你当时就是倒在这边呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "那时候我吓了好大一跳～\n还想过要是你没张开眼该怎么办说。",
+            "ChoiceDataList": [
+                "当时的你看起来就像女神",
+                "当时的你看起来就像女神"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "啊哈哈，太夸张了啦～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "话说，不晓得女神是不是也像我这么高大？\n如果有人知道的话，下次再问看看好了～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "总之先把行李放好……开始吧！\n来采超美味的昆布咯～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "他们说鱼跟贝类也可以抓！\n训练员你帮忙看着行李，别让鸟抢走了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我目送菱曙出发去采昆布跟鱼贝类后，\n就在阴影下看了两个小时行李──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "训练员！久等了～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "我抓到了很大的贝类跟鱼喔～！\n现在立刻就用这些做午餐～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "今天我带了陶锅来～\n一定会煮得很好吃的～！",
+            "ChoiceDataList": [
+                "我来帮忙"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "啊，训练员你好好休息吧！\n你很累了吧？毕竟顾东西也满耗精神的～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "稍微等我一下下喔～\n吃过之后就会很有精神了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "菱曙开始利落地准备餐点。\n看来这里没有我能帮忙的地方。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "话虽如此，光是发呆也太不好意思了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "反正我带了野草图鉴，\n于是决定去找些食材。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "……我试着找了一会儿，却找不到像是能吃的植物。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "菇类是有找到，但即使有图鉴，光靠外行人分辨太危险。\n虽然可惜，还是放弃比较好。",
+            "ChoiceDataList": [
+                "……回去吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "训练员──！训练员──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "找到你了！太好了～\n怎么了？迷路了吗？",
+            "ChoiceDataList": [
+                "不是。我去找食材……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "咦？啊，难道你肚子饿扁了吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "放心！我要做的可不是只有火锅，\n还有串烧跟烧烤料理喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "很快就好了，\n再稍微等一下喔～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "眼前排满的菜肴，量多到像是给力士吃的。\n除了鱼跟蔬菜的串烧……火锅吃到最后还煮成粥。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "每道菜都好吃到不行，明明量如此之多，\n手却停不下来──我扫光了所有的菜。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "吃得还满足吗？",
+            "ChoiceDataList": [
+                "太满足了……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "看到你吃得这么津津有味，我好高兴～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "训练员你总是笑咪咪地吃着，\n让我觉得非常幸福～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "有你当我的训练员真是太好了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "肚子饿的时候，要随时跟我说喔～\n我会再为你做一堆菜的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "菱曙露出了满足的笑容。虽然她光是煮东西给人吃\n似乎就会十分开心，但我还是想要回报她。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是我决定，下次要找机会换我请她吃东西。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

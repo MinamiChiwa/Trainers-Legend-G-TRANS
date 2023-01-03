@@ -1,0 +1,188 @@
+{
+    "Title": "要我教你吗？",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "某天假日──\n我为了放松一下，决定到外面吃午餐，\n但菜单上写满了看起来很难的外文。",
+            "ChoiceDataList": [
+                "（完全不懂在写什么……）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "哦，看你一副不熟悉法式料理的样子嘛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "隔壁桌的人出声向我搭话，\n于是我转头一看──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "你看不懂菜单吧？\n要我教你吗？",
+            "ChoiceDataList": [
+                "可以吗？",
+                "可以吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "可以啊，不过我只是教你。\n能不能享用到一顿美食，就看你自己了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这话听起来别有含义。\n我该请她教我吗……？",
+            "ChoiceDataList": [
+                "靠自己努力",
+                "拜托她教"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "这样啊，那你加油。\n祝你顺利了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "可是，我自己试着点了餐──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "喂喂，怎么全是蔬菜料理啊！\n你运气也太好了吧？",
+            "ChoiceDataList": [
+                "搞砸了……",
+                "搞砸了……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "别露出那么悲哀的表情啦，\n吃饭是件享受的事啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "真没办法，我就帮你一下吧。\n来，借我盘子。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "吃完了。\n是还满好吃的啦，不过──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "光吃蔬菜太没意思了，感觉不够啊。\n你也这么觉得吧？",
+            "ChoiceDataList": [
+                "咦？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "比方说，现在我眼前就有……\n看起来很软嫩的──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "……",
+            "ChoiceDataList": [
+                "──咦！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "呵、哈哈，哈哈哈！\n你别那么警戒嘛，我又不会把你宰来吃。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "……现在是不会啦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "哦，真是老实的乖孩子。\n那首先，就从前菜开始──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "天狼星象征说完后，\n向我解释了菜单的意思，\n并且代替我点了餐。然后──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "有前菜、有汤，又有主菜，\n这样餐点就平衡多了。",
+            "ChoiceDataList": [
+                "谢谢你教我！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "“谢谢”？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "喂喂……\n现在就道谢有点言之过早吧？",
+            "ChoiceDataList": [
+                "咦？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我还来不及思考怎么回事，\n天狼星象征就把送上来的料理\n往她自己的桌上移。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "很可惜，我只是示范给你看而已。\n也就是说，这些料理是我的。",
+            "ChoiceDataList": [
+                "咦咦……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "哈哈，你别露出这种表情啊！\n……这样我会更想捉弄你的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "来，这次换你自己点餐试试。\n我会好好看你点餐，看你是不是进步了啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}
