@@ -534,11 +534,11 @@
 | 0003 | Brand-new Friend                      | Brand-new Friend              | Komoe | Komoe |
 | 0004 | 花咲く乙女のJunePride                  | 花开少女的JunePride            | Komoe | Komoe |
 | 0005 | あの娘が水着に着替えたら　ウマ娘夏物語  | 如果她穿上泳装　赛马娘夏季物语   | Komoe | Komoe |
-| 0006 | Make up in Halloween！                | Make up in Halloween！         |      |      |
-| 0007 | 晩秋、囃子響きたる                     | 乐鸣晚秋正当时                  |      |      |
-| 0008 | 聖なる夜に重なるキセキ                 | 奇迹交织的圣诞夜                |      |      |
-| 0009 | 瑞花繚乱！新春かるた合戦               | 百花缭乱！新春歌牌大对战         |      |      |
-| 0010 | 栄冠のパティスリー                     | 荣耀的甜品屋                    |      |      |
+| 0006 | Make up in Halloween！                | Make up in Halloween！         | Komoe | Komoe |
+| 0007 | 晩秋、囃子響きたる                     | 乐鸣晚秋正当时                  | Komoe | Komoe |
+| 0008 | 聖なる夜に重なるキセキ                 | 奇迹交织的圣诞夜                | Komoe | Komoe |
+| 0009 | 瑞花繚乱！新春かるた合戦               | 百花缭乱！新春歌牌大对战         | Komoe | Komoe |
+| 0010 | 栄冠のパティスリー                     | 荣耀的甜品屋                    | Komoe | Komoe |
 | 0011 | 羽ばたきのRun-up！                     | 展翅Run-up！                   |      |      |
 | 0012 | 今宵、リーニュ・ドロワットで            | 今宵，Ligne・Droite             |      |      |
 | 0013 | 轟け、エール！トレセン学園応援団        | 回响吧，喝彩！特雷森学园应援团   |      |      |
