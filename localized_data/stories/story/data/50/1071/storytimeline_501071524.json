@@ -1,5 +1,5 @@
 {
-    "Title": "玻璃之脚",
+    "Title": "玻璃般的脚",
     "TextBlockList": [
         {
             "Name": "",
@@ -27,13 +27,13 @@
         },
         {
             "Name": "独白",
-            "Text": "（────哔叽！）",
+            "Text": "（────咔嚓！）",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "目白阿尔丹",
-            "Text": "唔……！？",
+            "Text": "咕……！？",
             "ChoiceDataList": [
                 "阿尔丹！？"
             ],
@@ -57,8 +57,8 @@
             "Name": "目白阿尔丹",
             "Text": "…………非常抱歉。\n都怪我太不中用了──",
             "ChoiceDataList": [
-                "不。是我作为训练员太怠慢了",
-                "不。是我作为训练员太怠慢了"
+                "不，是我作为训练员太怠慢了",
+                "不，是我作为训练员太怠慢了"
             ],
             "ColorTextInfoList": []
         },
