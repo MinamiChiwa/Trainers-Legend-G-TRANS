@@ -9,19 +9,19 @@
     },
     {
       "Name": "美妙姿势",
-      "Text": "――啊啦？\n气槽同学，今天要出门吗？",
+      "Text": "——哎呀？\r\n气槽同学，你今天要出门吗？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "气槽",
-      "Text": "嗯，要去一趟京都。",
+      "Text": "嗯，准备去一趟京都。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "独白",
-      "Text": "（“女帝”エアグルーヴ。\r\nファインモーションのよき同室相手）",
+      "Text": "（“女帝”气槽，也是美妙姿势的室友。）",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
         "气槽"
@@ -29,19 +29,19 @@
     },
     {
       "Name": "美妙姿势",
-      "Text": "京都！？\n真好呀、准备去吃乌冬面吗？",
+      "Text": "京都？！\r\n真好呀！准备去吃乌冬面吗？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "气槽",
-      "Text": "…………我又不是你这样的美食家。",
+      "Text": "…………我又不是你。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "气槽",
-      "Text": "GⅠのレースを観戦する。\n――『エリザベス女王杯』だ。",
+      "Text": "我是去看GⅠ比赛的。\r\n——『伊丽莎白女王杯』。",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
         "GⅠ",
@@ -56,13 +56,13 @@
     },
     {
       "Name": "美妙姿势",
-      "Text": "残念ながら、実際に見たことはないのよね。\r\nキミにとって、どういったレースなの？",
+      "Text": "很遗憾，我还没看过那场比赛呢。\r\n对你而言，那是怎样的比赛呀？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "气槽",
-      "Text": "即便放在整个闪耀系列里面，\n也是最为重要的赛事。",
+      "Text": "即便放在整个闪耀・系列赛里面，\n也是最为重要的赛事。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -74,19 +74,19 @@
     },
     {
       "Name": "气槽",
-      "Text": "对能够参赛的自己的敬意。\n对一同竞争的对手的敬意。\n对守望着我们的观众的敬意……",
+      "Text": "对能够参赛的自己的敬意。\r\n对一同求胜的对手的敬意。\r\n对守望着我们的观众的敬意……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "气槽",
-      "Text": "我也参加过一次这比赛。\n虽然结果并不太好……\n但那依旧是绚丽得足以称得上炫目的记忆。",
+      "Text": "我也参加过一次这比赛。\r\n虽然结果并不太好……\r\n但那依旧是绚丽得足以称得上耀眼的记忆。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "气槽",
-      "Text": "在那场比赛中与对手们互相竞争的场景，\n即便是现在似乎也能浮现在眼前……",
+      "Text": "在那场比赛中与对手们全力交锋的场景，\r\n即便是现在似乎也能浮现在眼前……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -98,7 +98,7 @@
     },
     {
       "Name": "气槽",
-      "Text": "比赛会有直播的，要没事的话你也可以看看。\n胜者会被称作“女王”的比赛，你应该会感兴趣吧？",
+      "Text": "比赛会有直播的，要没事的话你也可以看看。\r\n这可是胜者会被称作“女王”的比赛，\r\n你应该会感兴趣吧？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -122,15 +122,15 @@
     },
     {
       "Name": "美妙姿势",
-      "Text": "――というわけで、\r\n一緒に『エリザベス女王杯』を見ない？",
+      "Text": "——就是这样！\r\n要一起来看『伊丽莎白女王杯』吗？",
       "ChoiceDataList": [
-        "那当然！"
+        "当然可以啦。"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "那就决定啦！\n哼哼、真开心呢～♪",
+      "Text": "那就决定啦！\r\n哼哼～真期待呢～♪",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -142,7 +142,7 @@
     },
     {
       "Name": "实况",
-      "Text": "『――伊丽莎白女王杯之中的大激斗！\n三位选手并排逼近了终点！』",
+      "Text": "『——伊丽莎白女王杯之中的大激斗！\r\n三位选手并排逼近了终点！』",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -154,7 +154,7 @@
     },
     {
       "Name": "电视中的欢呼声",
-      "Text": "『哇噢噢噢噢噢……！！』",
+      "Text": "『——欢呼声——』",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -180,7 +180,7 @@
     },
     {
       "Name": "美妙姿势",
-      "Text": "大家仿佛都闪耀着光芒一样……\n想要获胜的决心，\n隔着电视都传到了我的心中……",
+      "Text": "大家仿佛都闪耀着光芒一样……\r\n想要获胜的决心，\r\n隔着电视都传到了我的心中……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -188,20 +188,20 @@
       "Name": "美妙姿势",
       "Text": "光是看着都觉得有些喘不过气来……",
       "ChoiceDataList": [
-        "这就是决胜者的气魄啊",
-        "勝ちたいって気迫が伝わってきたね"
+        "这就是决胜者的气魄啊。",
+        "这就是决胜者的气魄啊。"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "独白",
-      "Text": "若是要参加GⅠ等级的比赛，仅凭一般的努力可行不通。\n为此而拼命努力练习的选手们在赛场上互相拼搏，\n为了摘下仅有一人能获得的桂冠。",
+      "Text": "想要参加GⅠ级赛事的话，仅凭一般的努力是绝\r\n行不通的。选手们都为参赛而拼命训练着，然后\r\n再为摘下那唯一的桂冠而全力拼搏。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "……气槽同学也说过。\n她曾参加的女王杯，即便到现在也是相当鲜明的回忆。",
+      "Text": "……气槽同学也说过。\r\n她曾参加的女王杯，\r\n即便到现在也是相当鲜明的回忆。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -213,13 +213,13 @@
     },
     {
       "Name": "美妙姿势",
-      "Text": "想要获胜……吗。",
+      "Text": "求胜……吗。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "独白",
-      "Text": "美妙姿势如梦呓般地低语着。\n她的双眼中正充斥着某种我尚未理解的感情――",
+      "Text": "美妙姿势如梦呓般地低语着。\r\n她的双眼中正充斥着某种我尚未\r\n理解的感情——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

@@ -21,7 +21,7 @@
     },
     {
       "Name": "观众A",
-      "Text": "今天大和赤骥也会出场啊！\n好像会变得很有趣呢～。",
+      "Text": "今天大和赤骥也会出场啊！\r\n好像会变得很有趣呢～",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -45,7 +45,7 @@
     },
     {
       "Name": "观众B",
-      "Text": "也是啊。被叫做传说，也就是已经过时啦。\n啊，看看其他孩子――",
+      "Text": "也是啊。被叫做传说，也就是已经过时啦。\r\n啊，看看其他选手——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -60,13 +60,13 @@
       "Text": "没关系。\n神宫……不会输的。",
       "ChoiceDataList": [
         "说实话，对她而言是场相当严峻的战斗啊",
-        "正直、彼女にはかなり厳しいレースだよ"
+        "说实话，对她而言是场相当严峻的战斗啊"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "这并不是听了刚才的观众的话才下的结论。\n最近空中神宫的成绩的确不佳，水平也在下滑。\n复活的可能性，微乎其微……",
+      "Text": "这并不是听了刚才的观众的话才下的结论。\r\n最近空中神宫的成绩的确不佳，水平也在下滑。\r\n重整旗鼓的可能性，微乎其微……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -84,7 +84,7 @@
     },
     {
       "Name": "",
-      "Text": "美妙姿势的低语，\n听上去已经几近于祈愿――",
+      "Text": "美妙姿势的低语，\r\n听上去已经几近于祈愿——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -96,7 +96,7 @@
     },
     {
       "Name": "",
-      "Text": "那么结果是――",
+      "Text": "最后——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -104,8 +104,8 @@
       "Name": "美妙姿势",
       "Text": "……",
       "ChoiceDataList": [
-        "是一场不错的比赛啊",
-        "いいレースだったね"
+        "是一场不错的比赛啊……",
+        "是一场不错的比赛啊……"
       ],
       "ColorTextInfoList": []
     },
@@ -117,7 +117,7 @@
     },
     {
       "Name": "美妙姿势",
-      "Text": "大和果然非常强。\n神宫……",
+      "Text": "小赤骥果然非常强。\r\n神宫……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -129,13 +129,13 @@
     },
     {
       "Name": "美妙姿势",
-      "Text": "とても、誇り高かった。\r\n最後の1歩まで、運命に抗おうとしていた。",
+      "Text": "……她……没有放弃。\r\n直到最后一步，她都在反抗自己的命运。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "这样一来――她也可以迈步向前。",
+      "Text": "这样一来——她也可以迈步向前。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -167,7 +167,7 @@
     },
     {
       "Name": "美妙姿势",
-      "Text": "そしてシャカールもきっと……\r\n私に見てほしかったのね。",
+      "Text": "而神宫……\r\n一定也希望我看见吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -197,7 +197,7 @@
     },
     {
       "Name": "空中神宫",
-      "Text": "你看见我的比赛，我的挣扎了吧！\n你还不愿意放弃吗！？",
+      "Text": "你看见我的比赛，我的挣扎了吧！\r\n你还不愿意放弃吗？！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -209,7 +209,7 @@
     },
     {
       "Name": "",
-      "Text": "之后，美妙姿势要参加她发布回国宣言的发布会。",
+      "Text": "之后，\r\n美妙姿势将要参加她发布回国宣言的发布会。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -221,7 +221,7 @@
     },
     {
       "Name": "美妙姿势",
-      "Text": "对不起呢、神宫。\n我的想法不会变哦。",
+      "Text": "对不起，神宫。\r\n我的想法不会变哦。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -233,7 +233,7 @@
     },
     {
       "Name": "空中神宫",
-      "Text": "……啊。",
+      "Text": "……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -245,7 +245,7 @@
     },
     {
       "Name": "空中神宫",
-      "Text": "啊啊！我已经明白了，美妙。\n一切都结束了、Game Over。",
+      "Text": "啊啊！我已经明白了，美妙。\r\n一切都结束了。Game Over。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -257,7 +257,7 @@
     },
     {
       "Name": "空中神宫",
-      "Text": "但是，这样就太没意思了。\n在之后，我一直在找能够改变这个结局的存在。",
+      "Text": "但这样就太没意思了。\r\n在之后，我一直在找能够改变这个结局的存在。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -275,7 +275,7 @@
     },
     {
       "Name": "空中神宫",
-      "Text": "但在那一天，你颠覆了我的预测。\n在那个瞬间……我就沉迷于你了。",
+      "Text": "但在那一天，你颠覆了我的预测。\r\n在那个瞬间……我萌生了一个想法。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -287,13 +287,13 @@
     },
     {
       "Name": "空中神宫",
-      "Text": "如果你的结局能够改变，你能够不断突破的话……\n那么，我也应该能改变我的命运才对。",
+      "Text": "如果你的结局能够改变，\r\n你能够不断突破的话……\r\n那么，我也应该能改变我的命运才对。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宫",
-      "Text": "我相信了这个假设……\n把这个假设当真的我，实在是愚不可及啊。",
+      "Text": "我相信了这个假设……\r\n甚至可以说，是盲目地依赖着这个假设。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -305,7 +305,7 @@
     },
     {
       "Name": "空中神宫",
-      "Text": "但是――怎么回事呢。虽然什么都没改变，\n心情还不错。",
+      "Text": "但是——怎么回事呢。\r\n虽然什么都没改变，但心情还不错。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -329,7 +329,7 @@
     },
     {
       "Name": "美妙姿势",
-      "Text": "那当然！",
+      "Text": "当然啦。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -349,8 +349,8 @@
       "Name": "美妙姿势",
       "Text": "尽情地奔跑了一番、还交了这么多朋友。\n同时，也得到了来自无数人的支持。",
       "ChoiceDataList": [
-        "你带来的冲击，没有任何人能够忘记",
-        "貴方の衝撃を、誰も忘れない"
+        "你带来的震撼，一定能留在大家心中。",
+        "你带来的震撼，一定能留在大家心中。"
       ],
       "ColorTextInfoList": []
     },
@@ -362,49 +362,49 @@
     },
     {
       "Name": "美妙姿势",
-      "Text": "我相信，\n这份回忆一定会绽放万丈光芒――",
+      "Text": "我相信，\r\n这份回忆一定会绽放万丈光芒——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "粉丝们",
-      "Text": "――美妙姿势！\n请不要走！继续参加比赛吧！！",
+      "Text": "——美妙姿势！\r\n请不要走！继续参加比赛吧！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "感激不尽。\n但是，我这无比幸福的三年已经结束了。",
+      "Text": "感激不尽。但是，我得亲手为这无比幸福的三\r\n年画上句点才行。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "这样绝妙的落幕，\n是在我的故事开始之初便决定下来的。",
+      "Text": "这样绝妙的结局，\r\n是在我的故事开始之初便决定下来的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "参加比赛，接着退役。\n但是呢，大家记忆中的比赛、\n一定有比胜负更重要的东西……",
+      "Text": "比赛会开场，也会落幕。\r\n但是，某些东西无关结果、超脱胜败。\r\n",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "那就是我的思念。\n这份思念请大家一定不要忘却。",
+      "Text": "那就是我的心意。\r\n这份心意……请大家一定不要忘却。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "请一定……\n一定将“美妙姿势”铭记在心。",
+      "Text": "请一定……\r\n一定让“美妙姿势”，留在诸位心中。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "展露微笑的美妙姿势的双眼、\n不知不觉间似乎有泪光闪烁――",
+      "Text": "展露微笑的美妙姿势的双眼，\r\n似乎正有泪光闪烁——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

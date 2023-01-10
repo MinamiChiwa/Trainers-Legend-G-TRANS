@@ -45,25 +45,25 @@
     },
     {
       "Name": "观众B",
-      "Text": "她一定很喜欢比赛，所以才能这样享受其中吧。\n真好啊，我也想变成赛马娘～！",
+      "Text": "她一定很喜欢比赛，\r\n所以才能这样享受其中吧。\r\n真好啊，我也想变成赛马娘～！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "哇～……呵呵♪\n大家都露出了很棒的笑容呢。而且――",
+      "Text": "哇～……呵呵♪\r\n大家都露出了很棒的笑容呢。而且——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "――啊啊，多美的秋色啊。\n比赛，真的太美妙了……♪",
+      "Text": "——啊啊，多美的秋色啊。\r\n比赛，真的太美妙了……♪",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "电视的声音",
-      "Text": "『――那么，盛大非凡的秋华赏\n就此结束～！\n我们下次再会吧！』",
+      "Text": "『——那么，盛大非凡的秋华赏\r\n就此结束～！\r\n我们下次再会吧！』",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -75,7 +75,7 @@
     },
     {
       "Name": "空中神宫",
-      "Text": "……要完全了解你，\n还得去看你的比赛啊。",
+      "Text": "……要完全了解你，\r\n还是得亲自去看你的比赛啊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -129,7 +129,7 @@
     },
     {
       "Name": "独白",
-      "Text": "向着投来询问视线的她点点头。\n大目标的那场比赛，早就决定好了嘛！",
+      "Text": "我向着投来询问视线的她点点头。\r\n在决定进军雌马三冠之前，\r\n我们早已定好了之后的大目标。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -167,28 +167,28 @@
       "Name": "美妙姿势",
       "Text": "……哼哼，招待会很成功呢。\n大家看上去都很期待呀！",
       "ChoiceDataList": [
-        "不加把劲的话可不行哦",
-        "気を引き締めていかないとね"
+        "现在可不能松懈了啊。",
+        "现在可不能松懈了啊。"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "独白",
-      "Text": "エリ女はクラシックレースとは違い、\nシニア級の実力者も出てくる。\nしっかり仕上げていこうと話していると……。",
+      "Text": "女王杯与此前她参加过的经典级赛事不同，\r\n不少古马级的强者也会参加这场比赛。\r\n也就是说，如果不做好充足准备的话……",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
-        "シニア級"
+        "古马级"
       ]
     },
     {
       "Name": "川上公主",
-      "Text": "稍等片刻～！",
+      "Text": "留步！！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "独白",
-      "Text": "現れたのは……名前に“姫”を冠する、\n猛ウマ娘、カワカミプリンセスだった。",
+      "Text": "出现在我们眼前的是……被冠以“公主”之名的\r\n强悍（？）赛马娘，川上公主。",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
         "川上公主"
@@ -196,7 +196,7 @@
     },
     {
       "Name": "川上公主",
-      "Text": "方才的招待会，我已经看过了哦！\n美妙小姐，准备参加女王杯对吧！？",
+      "Text": "方才的招待会，我已经看过了哦！\r\n美妙特写，你准备参加女王杯对吧？！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -208,7 +208,7 @@
     },
     {
       "Name": "川上公主",
-      "Text": "既然如此！\u3000我也下定决心了！\n――来与我一战罢！",
+      "Text": "既然如此！\u3000我也下定决心了！\r\n——与我一战罢！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -258,31 +258,31 @@
     },
     {
       "Name": "美妙姿势",
-      "Text": "也就是说，就像足球的……\n“凯撒”与“超级巨星”那样吗！？\n(原意成谜，我进行了直译orz)",
+      "Text": "也就是说，就像足球的……\r\n“贝肯鲍尔”与“克鲁伊夫”那样吗？！\r\n(两人均是足球巨星，但年纪都很大了……)",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "川上公主",
-      "Text": "虽然不大明白你在说什么，大概就如你所说吧！\n要来一场激烈的比赛了哦～～！",
+      "Text": "虽然不大明白你在说什么，大概就如你所说吧！\r\n这下可算是热血沸腾啦！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "……！真棒啊！\n这时候应该怎样回应呢！？",
+      "Text": "……！真棒啊！\r\n这时候应该怎样回应呢？！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "川上公主",
-      "Text": "……唔！",
+      "Text": "……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "川上公主",
-      "Text": "看来不用特地告诉你也行。\n毕竟，你的眼神――\n已经在说『我接受挑战』了！",
+      "Text": "看来不用特地告诉你也行。\r\n毕竟，你的眼神——\r\n已经在说『我接受挑战』了！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },

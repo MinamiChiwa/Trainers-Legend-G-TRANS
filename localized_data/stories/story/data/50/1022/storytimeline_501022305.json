@@ -9,13 +9,13 @@
     },
     {
       "Name": "观众A",
-      "Text": "――……\n喂。",
+      "Text": "——……喂。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "观众B",
-      "Text": "嗯？\u3000怎么了？",
+      "Text": "嗯？怎么了？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -27,13 +27,13 @@
     },
     {
       "Name": "观众A",
-      "Text": "奔跑的时候起来完全乐在其中……这很厉害啊。",
+      "Text": "就算是这种等级的比赛，\r\n她看上去也完全乐在其中……\r\n……好厉害啊……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "独白",
-      "Text": "美妙姿势漂亮地拿下了好结果。\n应该会一如既往的，带着兴奋的笑容跑回来吧。\n正当我这么想的时候……",
+      "Text": "美妙姿势漂亮地跑出了优秀的成绩。\r\n正当我以为她会像以往以为满脸笑容地跑\r\n回来的时候——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -53,22 +53,22 @@
     },
     {
       "Name": "美妙姿势",
-      "Text": "……啊。",
+      "Text": "……唔。",
       "ChoiceDataList": [
-        "没事吧！？",
-        "没事吧！？"
+        "你没事吧？！",
+        "你没事吧？！"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "…………――啊。",
+      "Text": "………………\r\n——啊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "好～～～～厉害！\n太享受啦～～～～～～♪",
+      "Text": "好～～～～厉害！\r\n太开心啦～～～♪",
       "ChoiceDataList": [
         "……！"
       ],
@@ -76,19 +76,19 @@
     },
     {
       "Name": "美妙姿势",
-      "Text": "经典级的比赛，\n真的很棒呢……！",
+      "Text": "没想到经典级的比赛会这么棒……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "该说是感受到其他选手的魄力了吗！\n我都觉得浑身发麻了呢！",
+      "Text": "其他选手的魄力、比赛的重压……\r\n我都觉得浑身发麻了呢！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "如果这样的比赛永远都不结束就好了――",
+      "Text": "要是这样的比赛能永远继续下去就好啦——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -102,7 +102,7 @@
     },
     {
       "Name": "美妙姿势",
-      "Text": "是吗？看起来我兴奋得有些过头了！\n还没回过神来呢♪",
+      "Text": "是吗？看起来我兴奋得有些过头了！\r\n还没回过神来♪",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -110,7 +110,7 @@
       "Name": "美妙姿势",
       "Text": "我的身体状况很好的，不用担心♪",
       "ChoiceDataList": [
-        "太好啦……"
+        "没事就好……"
       ],
       "ColorTextInfoList": []
     },
@@ -130,48 +130,48 @@
       "Name": "美妙姿势",
       "Text": "我会反省的。\n以后不会再做些让你担心的举动了。",
       "ChoiceDataList": [
-        "你就尽情做你喜欢的事情就好啦"
+        "不用不用，你尽情享受人生就好了。"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "独白",
-      "Text": "看来以后也还会像这次这样瞎担心吧。\n不过，我希望她能不用太过于在意我的想法，\n只要用尽全力享受当下就好。",
+      "Text": "看来以后也还会像这次这样瞎担心吧。\r\n不过，我希望她不用太过于在意我的想法，\r\n只要用尽全力享受当下就好。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "……哼哼。\n真敢这么说呢～？",
+      "Text": "……哼哼。\r\n真敢这么说呢～？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "那以后在训练开始前，\n让我随心所欲地吃拉面，这样也行吧？",
+      "Text": "那以后在训练开始前，\r\n让我随心所欲地吃拉面可以吗？",
       "ChoiceDataList": [
         "这不对劲吧？",
-        "違うね？"
+        "这不对劲吧？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "独白",
-      "Text": "虽然我的本意是，\n让她忘了所谓立场与周围的事情，\n好好思考一下自己真正想要的东西是什么……",
+      "Text": "我的本意是让她忘了所谓立场与周围的事情，\r\n好好思考一下自己真正想要的东西是什么……\r\n这么吃拉面未免有些……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "……好吧，我知道啦。\n谢谢。",
+      "Text": "……好啦，我知道啦。\r\n谢谢你，训练员。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "那，就随我喜欢地去享受跑步吧！\n――向着『橡树大赛』而努力！",
+      "Text": "那，就随我喜欢地去享受跑步吧！\r\n——向着『橡树大赛』而努力！",
       "ChoiceDataList": [
-        "属下领命，殿下"
+        "悉听尊命，殿下。"
       ],
       "ColorTextInfoList": []
     },
@@ -183,19 +183,19 @@
     },
     {
       "Name": "发抖的马娘",
-      "Text": "――可恶……",
+      "Text": "——可恶……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "发抖的马娘",
-      "Text": "这真好啊。\n能享受比赛，真好啊……",
+      "Text": "真好啊……\r\n能享受比赛的乐趣，真好啊……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "发抖的马娘",
-      "Text": "……这样啊。毕竟美妙她……\n毕竟她可是『殿下』啊。",
+      "Text": "……是啊……毕竟……\r\n毕竟她可是『殿下』啊……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

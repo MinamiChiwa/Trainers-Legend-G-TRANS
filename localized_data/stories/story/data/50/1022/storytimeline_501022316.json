@@ -9,7 +9,7 @@
     },
     {
       "Name": "川上公主",
-      "Text": "啊啊啊～～！！\n不甘心～～～～！！",
+      "Text": "啊啊啊～～！！\r\n不甘心呀～～～～！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -21,19 +21,19 @@
     },
     {
       "Name": "川上公主",
-      "Text": "咕唔唔～～！！\n凭我的脚、我的这双脚！\n怎么会赢不过啊！？",
+      "Text": "咕唔唔～～！！\r\n这双腿、这双腿……！\r\n还不如断掉算了！！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "川上公主",
-      "Text": "好不容易才能和美妙小姐再战！\n竟然依旧把身为公主的我逼到……\n逼到这种地步……",
+      "Text": "好不容易才能和美妙小姐再战！\r\n明明是公主对决！！但是为什么……\r\n为什么……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "川上公主",
-      "Text": "明明想作为劲敌，进行一场完美的对决～！！\n呜呜呜～～！！",
+      "Text": "明明身为劲敌，\r\n想以一场激情四射的对决来为她饯行的～！！\r\n呜呜呜～～！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -45,19 +45,19 @@
     },
     {
       "Name": "独白",
-      "Text": "（啪啪啪啪啪……！！）",
+      "Text": "（——掌声——）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "大家都在鼓掌哦。\n――为这场大家都拼尽全力的比赛。",
+      "Text": "大家都在鼓掌哦。\r\n——为这场大家都拼尽全力的比赛。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "谢谢你、小川上。\n如果没有你的劲敌宣言，\n我也不会知晓互相竞争、不断进步的喜悦了。",
+      "Text": "谢谢你、小川上。\r\n如果没有你的劲敌宣言，\r\n我也不会知晓互相竞争、不断磨砺的喜悦了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -75,7 +75,7 @@
     },
     {
       "Name": "川上公主",
-      "Text": "当然可以！\n哪怕要付出生命的代价，\n我也想和你再跑一次……！",
+      "Text": "当然可以！\r\n哪怕要拼上这条命，\r\n我也想和你再跑一次……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -87,7 +87,7 @@
     },
     {
       "Name": "观众A&B",
-      "Text": "美妙姿势～～～～！！\n（抽泣）……唔哦哦哦～～！！",
+      "Text": "美妙姿势～～～～！！\r\n（抽泣）……呜呜呜呜呜～～！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -99,7 +99,7 @@
     },
     {
       "Name": "川上公主",
-      "Text": "你在我心中留下的那个背影……\n我一定不会忘记的！",
+      "Text": "你……注视着你的背影，\r\n等候超越她的那一天到来的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -111,7 +111,7 @@
     },
     {
       "Name": "美妙姿势",
-      "Text": "我回来了、训练员。",
+      "Text": "我回来了，训练员。",
       "ChoiceDataList": [
         "欢迎回来、美妙"
       ],
@@ -122,34 +122,34 @@
       "Text": "……",
       "ChoiceDataList": [
         "明天打算做点什么呢？",
-        "明日は何をしよっか？"
+        "明天打算做点什么呢？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "咦――",
+      "Text": "咦？",
       "ChoiceDataList": [
         "不是还有不少时间吗？",
-        "まだ時間はあるでしょう？"
+        "不是还有不少时间吗？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "……！\n嗯，的确如此呢。",
+      "Text": "……！\r\n的确，还有不少时间呢。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "我……我和你一起的话……\n感觉无论什么地方、哪怕是天涯海角也能跑到呢！",
+      "Text": "那就听你的安排吧♪\r\n只要和你在一起，\r\n即便是要奔向天空的尽头也没关系哦！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "本当のお別れが待つその日まで。\r\n最高の思い出を作っていこうね！",
+      "Text": "直到真正道别的那一天到来为止，\r\n一起创造出最棒的回忆吧！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }
