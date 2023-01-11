@@ -9,7 +9,7 @@
     },
     {
       "Name": "美妙姿势",
-      "Text": "――哈啊……哈啊……！\n呵呵……！",
+      "Text": "——哈啊……哈啊……！\r\n呵呵……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -27,7 +27,7 @@
     },
     {
       "Name": "观众们",
-      "Text": "美妙姿势～～～～！\n跑得很不错哦ーー！！",
+      "Text": "美妙姿势～～～～！\r\n跑得很棒哦——！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -39,31 +39,31 @@
     },
     {
       "Name": "观众A",
-      "Text": "跑得那么开心，\n眼里已经只能看见她了……！",
+      "Text": "跑得那么开心，\r\n根本没法从她身上挪开目光……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "观众B",
-      "Text": "果然今年的雌马三冠……\n非美妙姿势莫属了！？",
+      "Text": "果然今年的雌马三冠……\r\n非美妙姿势莫属了？！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "观众B",
-      "Text": "等，等下……！我刚刚才注意到！\n我们把称呼去掉了，真的好吗！？",
+      "Text": "等，等下……！我刚刚才注意到！\r\n我们把称呼去掉了，\r\n会不会太不敬了？！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "观众A",
-      "Text": "是啊！\u3000那就叫……“大人”？\n美妙姿势大人！？",
+      "Text": "也是！那就叫她……“大人”？\r\n美妙姿势大人怎么样？！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "大家～！\n把我当做朋友，\n去掉称呼也没关系的哦！",
+      "Text": "大家～！\r\n称呼我的时候不用加敬称的哦！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -81,7 +81,7 @@
     },
     {
       "Name": "曾怕到发抖的马娘",
-      "Text": "刚才……对不起。\n我，那时候有些害怕跑步了……",
+      "Text": "刚才……对不起。\r\n我，那时候有些恐惧跑步了……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -111,13 +111,13 @@
     },
     {
       "Name": "美妙姿势",
-      "Text": "我回来了哦～。\n今天也尽情享受了一番呢♪",
+      "Text": "我回来了哦～\r\n今天也尽情享受了一番呢♪",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "独白",
-      "Text": "美妙姿势一如既往地笑着。\n不过看着她的笑容，我却感觉到一丝违和感。",
+      "Text": "美妙姿势一如既往地笑着。\r\n不过看着她的笑容……\r\n我却感觉到一丝违和感。",
       "ChoiceDataList": [
         "……没别的话想说吗？"
       ],
@@ -147,19 +147,19 @@
     },
     {
       "Name": "美妙姿势",
-      "Text": "大家，都为了各种各样地事情在奔跑呢～。",
+      "Text": "大家，都为了各种各样地事情在奔跑呢～",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "すごく今更なんだけれど！\r\nみんな、ただ走るだけが目的じゃない。",
+      "Text": "虽然现在才意识到这种事情有点晚了……\r\n似乎大家，并不是仅仅是为了奔跑才奔跑的啊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "而且也有不少孩子，\n将参加经典级比赛这件事情当作是目标，\n……或者说，当作是梦想。",
+      "Text": "甚至还有不少选手，\r\n会将这场比赛当作是毕生的目标——\r\n或者说……梦想。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -173,31 +173,31 @@
     },
     {
       "Name": "美妙姿势",
-      "Text": "不是哦。\n我觉得，还是不一样吧。",
+      "Text": "也没有啦……至少，\r\n我希望我心中的并非是这样卑劣的感情。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "这个想法对其他人可能相当失礼吧。\n我是因为拥有特权，才能够来到这里参加比赛的。",
+      "Text": "这个想法对其他人可能相当失礼吧。\r\n我是因为身份这层特权，\r\n才能够来到这里参加比赛的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "所以说，与其说是自卑……\n不如说有些对不起她们。",
+      "Text": "所以说，与其说是自卑……\r\n不如说……是歉意吧……？",
       "ChoiceDataList": [
-        "你也有你的情况",
-        "貴方にも貴方の事情がある"
+        "每个人都有各有各的想法啊。",
+        "每个人都有各有各的想法啊。"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "确实如此呢～，我明白的哟？\n所以，这种话――",
+      "Text": "确实如此呢～这我还是明白的哦？\r\n还是暂时先放下这个话题——",
       "ChoiceDataList": [
-        "把奔跑这件事情当作梦想也没啥不好的",
-        "走ることが夢だっていいんだよ"
+        "所以，以“奔跑”为梦想也没关系的。",
+        "所以，以“奔跑”为梦想也没关系的。"
       ],
       "ColorTextInfoList": []
     },
@@ -209,7 +209,7 @@
     },
     {
       "Name": "美妙姿势",
-      "Text": "嗯，也是呢。\n我一直以来，都是把自由地奔跑这件事情，\n当作一个梦……一个梦想的。",
+      "Text": "的确……正如你所说。一直以来，\r\n我都只能将“自由地奔跑”当作一个梦……\r\n一个梦想。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -229,7 +229,7 @@
     },
     {
       "Name": "独白",
-      "Text": "想要全力互相竞争――\n这可能是作为马娘而言，\n与生俱来的本能。",
+      "Text": "想要全力互相竞争——\r\n这可能是作为马娘而言，\r\n与生俱来的本能。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -241,7 +241,7 @@
     },
     {
       "Name": "美妙姿势",
-      "Text": "这可实在是令人高兴不起来的东西。",
+      "Text": "这可……\r\n令人高兴不起来啊。",
       "ChoiceDataList": [
         "诶？"
       ],
@@ -255,16 +255,16 @@
     },
     {
       "Name": "美妙姿势",
-      "Text": "――哎？\n这个时候了，外面还这么亮啊。",
+      "Text": "——哎？\r\n都这个时间了，天还亮着呀？",
       "ChoiceDataList": [
-        "快要到夏天了嘛",
-        "すぐに夏が来るね"
+        "毕竟快要到夏天了嘛。",
+        "毕竟夏天就快到啦。"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "诶诶，真的吗！？",
+      "Text": "诶诶，真的吗？！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -276,25 +276,25 @@
     },
     {
       "Name": "独白",
-      "Text": "特雷森学园在每天夏天，\n都会举行为了让马娘的实力快速增长的夏季集训。",
+      "Text": "夏季本就是赛马娘的身体能力成长最快的季节，\r\n特雷森学院也会在夏季举行夏季集训。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "和大家一起在外边玩，一起露宿！\n感觉会很开心呢。",
+      "Text": "能和大家一起在外边玩，一起露宿！\r\n感觉会很开心呢。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "当然，也会训练的哦？",
+      "Text": "啊……\r\n当然啦，我也会好好训练的哦？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "それも越したら、\r\nトリプルティアラ路線最後……\n『秋華賞』かぁ。",
+      "Text": "夏季集训之后，就是雌马三冠的终战……\r\n『秋华赏』了啊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },

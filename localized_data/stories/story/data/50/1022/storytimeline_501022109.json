@@ -9,7 +9,7 @@
     },
     {
       "Name": "",
-      "Text": "今晚是圣诞节。\n根据美妙姿势的提案，\n决定要静静地开一个小型派对……",
+      "Text": "今晚是圣诞节。根据美妙姿势的提议，\r\n我们决定两人一起静静地开一个小型派对……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -21,7 +21,7 @@
     },
     {
       "Name": "美妙姿势",
-      "Text": "啊啦，手纲小姐！\n圣诞快乐♪",
+      "Text": "哎呀，手纲小姐！\r\n圣诞快乐♪",
       "ChoiceDataList": [
         "怎么了吗？"
       ],
@@ -41,7 +41,7 @@
     },
     {
       "Name": "",
-      "Text": "手纲小姐搬过来的，\n把纸箱塞得满满当当的东西是――",
+      "Text": "手纲小姐搬过来的，\r\n把纸箱塞得满满当当的东西是——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -59,7 +59,7 @@
     },
     {
       "Name": "骏川手纲",
-      "Text": "こちらに運んだのは一部です。\r\nまだ事務所に数十箱あります。",
+      "Text": "我只搬了一部分过来而已。\r\n在事务所里还有十几箱。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -67,8 +67,8 @@
       "Name": "美妙姿势",
       "Text": "为什么……",
       "ChoiceDataList": [
-        "因为大家还想继续看见你奔跑的英姿吧",
-        "貴方の走りを見続けたいから"
+        "因为大家不愿意让你离开赛场吧……",
+        "因为大家不愿意让你离开赛场吧……"
       ],
       "ColorTextInfoList": []
     },
@@ -80,13 +80,13 @@
     },
     {
       "Name": "骏川手纲",
-      "Text": "当然，学园这边也会尊重美妙姿势小姐的个人意志。",
+      "Text": "当然，\r\n学园这边也会尊重美妙姿势小姐的个人意志。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "骏川手纲",
-      "Text": "话虽这么说，要是您改变了想法，\n也请随时告诉我们。",
+      "Text": "话虽这么说，既然已经收到这么多请愿书……\r\n还是让两位知晓此事比较好。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -98,7 +98,7 @@
     },
     {
       "Name": "骏川手纲",
-      "Text": "――那么，稍微整理一下这些箱子吧。",
+      "Text": "——那么，稍微整理一下这些箱子吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -110,7 +110,7 @@
     },
     {
       "Name": "",
-      "Text": "たづなさんが帰った後。\r\nファインモーションの希望で、\n外を少し散歩することになった。",
+      "Text": "手纲小姐离开后，\r\n按照美妙姿势的想法，\r\n我们来到星空之下散步。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -124,14 +124,14 @@
       "Name": "美妙姿势",
       "Text": "居然会有好几万人都希望我继续跑下去……\n真的是，非常非常光荣呢。",
       "ChoiceDataList": [
-        "这就是留下了冲击的证明呢",
-        "衝撃を残せたっていう証明だね"
+        "这就是留下了震撼的证明呢。",
+        "这就是留下了震撼的证明呢。"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "キミも意外と、無茶な人だね。\r\n衝撃なんて、証明する手立てもないじゃない。",
+      "Text": "……没想到训练员，你也是个胡来的人啊。\r\n“震撼”这种看不见摸不着的东西，\r\n没办法证明的哦。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -143,7 +143,7 @@
     },
     {
       "Name": "美妙姿势",
-      "Text": "如果我能留在大家心中的话，\n也不会觉得寂寞啦～。",
+      "Text": "如果我能留在大家心中的话，\r\n也不会觉得寂寞啦～",
       "ChoiceDataList": [
         "……真的吗？"
       ],
@@ -169,7 +169,7 @@
     },
     {
       "Name": "美妙姿势",
-      "Text": "大家的这份心意，对我而言\n就是无可比拟的圣诞礼物了哦。",
+      "Text": "大家的这份心意，\r\n对我而言就是无可比拟的圣诞礼物了哦。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -181,55 +181,55 @@
     },
     {
       "Name": "美妙姿势",
-      "Text": "ふぅ～……\n寒いねぇ。",
+      "Text": "呼～……\r\n好冷呀。",
       "ChoiceDataList": [
-        "戻るか？",
-        "戻ろうか？"
+        "要回去吗？",
+        "要回去吗？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "……嗯……不用。",
+      "Text": "不用。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "もう少しだけ。",
+      "Text": "再陪我逛一会儿吧。",
       "ChoiceDataList": [
-        "風邪をひくぞ",
-        "風邪をひくよ"
+        "可能会感冒哦？",
+        "可能会感冒哦？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "ひいちゃえばいいのにねっ。",
+      "Text": "要是真的感冒了就好啦。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "そうしたら、どこにも行けなくたって、\nしょうがないもの。",
+      "Text": "这样一来……就算我没法归国，\r\n也无可奈何吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "……嘘だよ。\nお料理も途中だったし、戻ろうか！",
+      "Text": "……开玩笑的啦。\r\n刚刚的小派对也才开一半，回去吧！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "こうして、静かに\nクリスマスの夜は更けていった。",
+      "Text": "圣诞之夜无声无息，悄然过去。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "微笑んだファインモーションは、\r\n心から嬉しそうだった。",
+      "Text": "我看着微笑的美妙姿势。\r\n她似乎是打心底里感到开心。",
       "ChoiceDataList": [
         "那么，也就不需要我送礼物了吗？"
       ],
@@ -243,19 +243,19 @@
     },
     {
       "Name": "美妙姿势",
-      "Text": "要，要的哦！\n诶～，准备了什么礼物呢？",
+      "Text": "要！我要的哦！\r\n诶～准备了什么礼物呢？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "ファインモーションが喜びそうな、\r\nクリスマスプレゼントを考えた時……\n真っ先に思いついたものがあった。",
+      "Text": "其实我之前就思考过送她什么圣诞礼物比较好。\r\n在那瞬间，我立刻想到了某个东西。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "那就是――",
+      "Text": "那就是——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -293,13 +293,13 @@
     },
     {
       "Name": "美妙姿势",
-      "Text": "诶诶！？\n怎么回事～！？",
+      "Text": "诶诶？！\r\n怎么回事～？！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "拉面店店主",
-      "Text": "哎，圣诞节前段时间\n这位突然找上门来，\n说想委托我们做一重原创拉面。",
+      "Text": "哎，圣诞节前段时间\r\n这位突然找上门来，\r\n说想委托我们做一种原创拉面。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -311,13 +311,13 @@
     },
     {
       "Name": "",
-      "Text": "对。这是为了美妙姿势……\n每天都是，只要一有空就到这家店里，\n努力地进行着拉面的修行。",
+      "Text": "对。这是我送给美妙姿势的礼物……\r\n我每天只要工作一结束，就会立刻跑到拉面店\r\n进行修行。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "诶诶～～～～！？\n我没听你说过呀！？",
+      "Text": "诶诶～～～～？！\r\n我怎么没听你说过呀？！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -329,19 +329,19 @@
     },
     {
       "Name": "美妙姿势",
-      "Text": "诶，难道说大家都在这里修行……！？",
+      "Text": "诶，难道说大家都在这里修行……？！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "气槽",
-      "Text": "怎么可能。\n只是被那个训练员叫到这里来了。",
+      "Text": "怎么可能。\r\n今天只是被那个训练员叫到这里来了而言。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "川上公主",
-      "Text": "听说这家店全场免费，\n就忍不住要过来瞧瞧！",
+      "Text": "听说这家店全场免费，\r\n我就忍不住要过来瞧瞧啦！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -379,7 +379,7 @@
     },
     {
       "Name": "荒漠英雄",
-      "Text": "わぁ、ナルトが四つ葉のクローバーに\r\nなってる……！\u3000可愛いです……♪",
+      "Text": "哇，鸣门卷都做成了四叶草的造型……！\r\n好可爱……♪",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },

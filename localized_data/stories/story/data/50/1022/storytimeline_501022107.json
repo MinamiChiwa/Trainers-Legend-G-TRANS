@@ -9,13 +9,13 @@
     },
     {
       "Name": "独白",
-      "Text": "那是情人节之前几天发生的事――",
+      "Text": "那是情人节之前几天发生的事——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "――所以说拜托了！\n请一定要教教我，气槽同学～！",
+      "Text": "——拜托了！\r\n请一定要教教我，气槽同学～！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -39,7 +39,7 @@
     },
     {
       "Name": "美妙姿势",
-      "Text": "好耶～，\n谢谢你，气槽同学！",
+      "Text": "好耶～\r\n谢谢你，气槽同学！",
       "ChoiceDataList": [
         "美妙！"
       ],
@@ -47,34 +47,34 @@
     },
     {
       "Name": "美妙姿势",
-      "Text": "……！\n训练员！？",
+      "Text": "……！\r\n训练员？！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "わ、わー。\r\n今の、聞いていた……？",
+      "Text": "哇、哇～～～\r\n你……刚刚听见什么了吗……？",
       "ChoiceDataList": [
-        "有什么要做的事情的话我也可以帮忙哦",
-        "何かあるなら私も手伝うよ"
+        "有什么事情需要我帮忙吗？",
+        "有什么事情需要我帮忙吗？"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "ううんっ、いらない！\r\n必要ありません！",
+      "Text": "没有没有！不用你帮忙的！\r\n不用麻烦你啦！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "今天不是没有训练吗？\n不用特地来看我也可以的啦。\n回见！",
+      "Text": "今天是休息日对吧？\r\n所以特意来看我也可以啦！\r\n回见～！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "独白",
-      "Text": "……好像被疏远了。",
+      "Text": "……好像被她疏远了……？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -86,7 +86,7 @@
     },
     {
       "Name": "独白",
-      "Text": "就算想着向护卫队长打听下消息――",
+      "Text": "就算想着向护卫队长打听下消息——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -98,27 +98,27 @@
     },
     {
       "Name": "独白",
-      "Text": "于是――",
+      "Text": "于是——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "训练员。放学之后，\n可以稍微占用一下私人时间吗？",
+      "Text": "训练员。放学之后，\r\n可以稍微占用一下你的时间吗？",
       "ChoiceDataList": [
-        "可以是可以啦――"
+        "可以是可以啦——"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "好，那就好！\n请多指教啦～！",
+      "Text": "好，那就好！\r\n晚点见～！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "独白",
-      "Text": "放学后，请到这个地方来――",
+      "Text": "放学后，我来到她所指定的地方——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -136,13 +136,13 @@
     },
     {
       "Name": "SP队长",
-      "Text": "您好。\n您终于来了。",
+      "Text": "您好。\r\n我们已恭候多时了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "独白",
-      "Text": "护卫队地各位，与美妙姿势一起\n围成一圈吃着饭。",
+      "Text": "护卫队的各位，\r\n正与美妙姿势一起围坐在桌前用餐。",
       "ChoiceDataList": [
         "这是……？"
       ],
@@ -150,19 +150,19 @@
     },
     {
       "Name": "美妙姿势",
-      "Text": "みなさまの日頃のご配慮に、\r\n私からささやかな感謝の気持ちを♪",
+      "Text": "为感谢大家平日里无微不至的照顾，\r\n我也得想想办法表达一下感激之意♪",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "グルーヴさんに手伝ってもらって、\r\n料理をしてみました～♪",
+      "Text": "于是就拜托气槽同学帮忙，\r\n试着做了次饭～♪",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "SP队长",
-      "Text": "连我也受到了邀请……\n一般而言的话，我与殿下在同一张桌子上用餐\n从礼仪的角度上讲是绝对不允许的……",
+      "Text": "连我也受到了邀请……\r\n按理来说，我是绝无可能有资格与殿下在同\r\n一张餐桌上用餐的……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -196,7 +196,7 @@
     },
     {
       "Name": "美妙姿势",
-      "Text": "哼哼ー♪\n训练员一生推～！\n(译注：就是在打call，不知道怎么翻译了……)",
+      "Text": "哼哼～♪\r\n训练员一生推～！",
       "ChoiceDataList": [
         "这，这是……！"
       ],
@@ -204,7 +204,7 @@
     },
     {
       "Name": "美妙姿势",
-      "Text": "ファンの方が使っているうちわ！\r\n感謝の気持ちを伝えるにはぴったりかなって♪",
+      "Text": "粉丝们就是这样应援的吧！\r\n用来表达谢意再合适不过啦♪",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -222,25 +222,25 @@
     },
     {
       "Name": "SP队长",
-      "Text": "不，一点也不辛苦……比起这个，\n必须把殿下这副美丽的姿态记录下来。\n我可以拍照吗？",
+      "Text": "不，一点也不辛苦……比起这个，\r\n我必须把殿下这副美丽的姿态记录下来。\r\n请问可以拍照吗？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "气槽",
-      "Text": "……美妙的周围，\n尽是这种满脑子只有她的人吗……？",
+      "Text": "……你们是满脑子只想着她的笨蛋吗？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "哼哼ー！\n大家都一生推～LOVE～推上加推~\n蔬菜更多更多♪",
+      "Text": "嘿嘿～！\r\n大家都一生推～LOVE～推上加推～\r\n啊，蔬菜也一生推～♪",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "独白",
-      "Text": "之后又过了不久。\n结束了工作，回到训练员室的时候……\n在桌子上，摆着一张卡片。",
+      "Text": "之后又过了不久。\r\n我结束工作，回到办公室的时候……\r\n发现桌上正摆着一张显眼的卡片。",
       "ChoiceDataList": [
         "『Guess Who!』……？"
       ],
@@ -248,7 +248,7 @@
     },
     {
       "Name": "独白",
-      "Text": "それ以外に何も書かれていない。\r\nが、こんなカードを仕込む相手は、\n1人しか思い当たらなかった――",
+      "Text": "除此之外便什么都没写了。\r\n……猜什么猜，会做这种事情的人，怎么想\r\n都只可能是——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -268,10 +268,10 @@
     },
     {
       "Name": "美妙姿势",
-      "Text": "被找到了呢？",
+      "Text": "……你找到我了呢。",
       "ChoiceDataList": [
-        "这个卡片是你写的吗？",
-        "このカード、貴方だよね？"
+        "这张卡片是你写的吗？",
+        "这张卡片是你写的吗？"
       ],
       "ColorTextInfoList": []
     },
@@ -289,7 +289,7 @@
     },
     {
       "Name": "美妙姿势",
-      "Text": "……唔，果然还是按照往常的样子。",
+      "Text": "……唔，果然还是按平时那样来吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -319,19 +319,19 @@
     },
     {
       "Name": "美妙姿势",
-      "Text": "グルーヴさんに協力してもらって、\r\n自分で作ってみたんだ。",
+      "Text": "在气槽同学的帮助下，我试着自己做了一次。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "因为她非常了解花的事情，\n所以就和我一起构思了制作的方法。",
+      "Text": "因为她很喜欢养花嘛，\r\n我就请她陪我一起思考了下要送怎样的花。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "如果是做成干花的话，\n就能保存很长时间啦♪",
+      "Text": "她说如果做成干花的话，就能保存很长时间啦♪",
       "ChoiceDataList": [
         "谢谢……！"
       ],
@@ -339,7 +339,7 @@
     },
     {
       "Name": "美妙姿势",
-      "Text": "高兴吗？\n我的礼物给你带来幸福了吗？",
+      "Text": "高兴吗？\r\n喜欢这个吗？",
       "ChoiceDataList": [
         "非常高兴……！"
       ],
@@ -353,13 +353,13 @@
     },
     {
       "Name": "美妙姿势",
-      "Text": "今日は、キミに感謝を伝える\r\nいい機会だと思ったの。",
+      "Text": "大家都说，今天正是表达感激之意的大好日子。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "……本当は、ちゃんとした\r\n言葉を用意しようと思っていたんだけれど。",
+      "Text": "……其实呢，我思考了很久该对你说些什么。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -373,7 +373,7 @@
     },
     {
       "Name": "美妙姿势",
-      "Text": "反正我也不打算说了，\n不如就把这当作我自己的小秘密吧。",
+      "Text": "我已经不打算说了哦？\r\n请你就把这当作少女的小秘密吧～",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -381,7 +381,7 @@
       "Name": "美妙姿势",
       "Text": "……但我的心意，都倾注在这份礼物里了。\n要好好珍重它哦？",
       "ChoiceDataList": [
-        "那当然"
+        "我一定会好好珍惜的……！"
       ],
       "ColorTextInfoList": []
     },
@@ -393,7 +393,7 @@
     },
     {
       "Name": "美妙姿势",
-      "Text": "也为了让我的心意，\n如这般永远绽放――",
+      "Text": "也为了让我的心意，\r\n如这般永远绽放——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

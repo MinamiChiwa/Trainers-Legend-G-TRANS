@@ -15,7 +15,7 @@
     },
     {
       "Name": "美妙姿势",
-      "Text": "哇……这就是训练场所呢！\n……那个，这是入口吧？\u3000宿舍在别的地方吗？",
+      "Text": "哇……这就是宿舍吗！\r\n……呃，这是玄关吧？\r\n宿舍在更里面吗？",
       "ChoiceDataList": [
         "其实这就是全部了哦。"
       ],
@@ -29,19 +29,19 @@
     },
     {
       "Name": "美妙姿势",
-      "Text": "初めて寮を見た時も思ったけれど、\r\n日本の方って空間を使うのが本当に上手！",
+      "Text": "虽然我在第一次看见学院宿舍的时候就在想……\r\n日本人真的能将所有空间都充分利用起来呢！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "SP队长",
-      "Text": "殿下、お部屋の確認が完了しました。\r\n問題ございません。お荷物は……。",
+      "Text": "殿下。房间的安全已由我们确认，\r\n并无任何隐患。您的行李……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "自分で運びますわ。\r\n後はいつも通りで、お願いします。",
+      "Text": "稍后我会自己将行李带进去。\r\n这几天也辛苦各位如往日那般工作，\r\n有劳了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -75,19 +75,19 @@
     },
     {
       "Name": "美妙姿势",
-      "Text": "えいえいおー！",
+      "Text": "加油，噢——！\r\n（注：原文えいえいおー！，写作曳\u3000曳\u3000应，\r\n日本古时战胜时的呐喊，亦作提振士气的战吼）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "空中神宫",
-      "Text": "嘁！\u3000别杵这儿不动啊！",
+      "Text": "嘁！别挡道！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "正站着说话的马娘",
-      "Text": "对，对对对不起……\n咕哇～……！",
+      "Text": "对，对对对不起……\r\n噫～……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -99,13 +99,13 @@
     },
     {
       "Name": "美妙姿势",
-      "Text": "……シャカール、\r\n大荒れ注意報！\u3000だねぇ。",
+      "Text": "……嘀嘀嘀！神宫情绪预警！\r\n今天神宫的心情是“台风”呢。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "曾夺得二冠的空中神宫。\n但是，在那之后似乎没有取得太好的成绩。",
+      "Text": "空中神宫的确是二冠赛马娘……\r\n她似乎再未取得其他成绩。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -113,19 +113,19 @@
       "Name": "",
       "Text": "如果是数据至上主义的她，\n大概已经明白自己会这样的缘由了吧……",
       "ChoiceDataList": [
-        "可能是碰上了无法逾越的高墙吧"
+        "可能是碰上了无法逾越的高墙吧……"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "……那一定是，\n非常苦涩的事情吧。",
+      "Text": "……那一定是，\r\n非常痛苦的事情吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "但她也变得如Gae Bolg那样\n只要碰到她就会受伤……\n这样也会很寂寞吧。",
+      "Text": "但她也变得如Gae Bolg那样伤害所有\r\n接近之人……\r\n这样也会很寂寞吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -137,17 +137,17 @@
     },
     {
       "Name": "SP队长",
-      "Text": "殿下！？\n她很危险，请马上回来！",
+      "Text": "殿下？！\r\n她很危险，请不要接近！",
       "ChoiceDataList": [
-        "没事的啦"
+        "没事的啦。"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "SP队长",
-      "Text": "但她可是Gae Bolg啊！\n是非常危险的武器……\n(译吐槽：这只是个比喻啊，虽然有点烂)",
+      "Text": "但她可是那“Gae Bolg”啊！\r\n是非常危险的武器……",
       "ChoiceDataList": [
-        "交给美妙吧"
+        "就交给美妙吧。"
       ],
       "ColorTextInfoList": []
     },
@@ -165,13 +165,13 @@
     },
     {
       "Name": "美妙姿势",
-      "Text": "诶～，明明这么玩会很青春的～。\n话说回来，要我消失也可以啦……",
+      "Text": "诶～你不觉得这样戏水会很青春吗～\r\n话说回来，要我消失也可以啦……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "美妙姿势",
-      "Text": "『水をかける』だけなら、\r\n1人でもできちゃうよ？",
+      "Text": "不过……你知道吗？\r\n只是『泼水』的话……\r\n我一个人也可以玩的哦……？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -183,7 +183,7 @@
     },
     {
       "Name": "美妙姿势",
-      "Text": "只给你五秒哦？\n五，四，三，二……",
+      "Text": "我只数到五哦？\r\n一、三……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -207,13 +207,13 @@
     },
     {
       "Name": "SP队长",
-      "Text": "不过与调查结果相悖\n还好空中神宫大人是个非常聪明的人――",
+      "Text": "不过与调查结果相悖\r\n还好空中神宫大人是位聪慧之人——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "……しばらく護衛隊長の呟きを聞きつつ、\r\nこれから始まる夏合宿に想いを馳せた。",
+      "Text": "在护卫队长仍在滔滔不绝地发着牢骚，\r\n我的思绪早已飘向即将开始的夏季集训。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }
