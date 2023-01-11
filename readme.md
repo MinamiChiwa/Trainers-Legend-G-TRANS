@@ -12,7 +12,7 @@
 
 # 赞助
 
-- [`爱发电`](https://afdian.net/@Trainers-Legend-G)
+- [`爱发电`](https://afdian.net/@Trainers-Legend-G)**【已于2023年1月停止接受赞助】**
 - [`赞助说明及支出明细`](https://github.com/MinamiChiwa/Trainers-Legend-G/blob/main/donate_readme.md)
 
 # 贡献者
