@@ -217,13 +217,39 @@
         },
         {
             "Name": "骏川手纲",
-            "Text": "另外，季前赛结束后，\n最后就会来到正式赛！",
+            "Text": "另外另外……在季前赛中，\n如果能达成以下3个条件，\n竞赛对手就会出现豪强队伍！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "骏川手纲",
-            "Text": "在正式赛胜出的队伍，\n就会成为“青春杯”的优胜队伍。",
+            "Text": "第1，\n达到一定程度以上的队伍排名。\n第2，达到一定程度以上的队伍综合实力。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "第3，是要有极・青春之魂爆发\n的队伍成员！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "极・青春之魂爆发"
+            ]
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "战胜豪强队伍的话能够获得大量奖励，\n而且，还会在正式赛中发生些特别的事……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "以优胜为目标，\n打造出最棒的队伍吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "季前赛结束后，\n最后就会来到正式赛！",
             "ChoiceDataList": [],
             "ColorTextInfoList": [
                 "在正式赛胜出的队伍",
@@ -233,7 +259,7 @@
         },
         {
             "Name": "骏川手纲",
-            "Text": "以优胜为目标，\n打造出最棒的队伍吧！",
+            "Text": "在正式赛胜出的队伍，\n就会成为“青春杯”的优胜队伍。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -291,11 +317,11 @@
         },
         {
             "Name": "骏川手纲",
-            "Text": "她们无法进行友情训练，\n也不会发生灵感事件。\n请记得这一点哦。",
+            "Text": "她们无法进行友情训练，\n也不会发生技能折扣事件。\n请记得这一点哦。",
             "ChoiceDataList": [],
             "ColorTextInfoList": [
                 "她们无法进行友情训练",
-                "也不会发生灵感事件"
+                "也不会发生技能折扣事件"
             ]
         },
         {
@@ -337,12 +363,12 @@
         },
         {
             "Name": "骏川手纲",
-            "Text": "此外，同时和两人以上的\n队伍成员进行特训，培育赛马娘的\n训练效果也会提升！",
+            "Text": "此外，同时和两人以上的\n队伍成员进行特训，育成赛马娘的\n训练效果也会提升！",
             "ChoiceDataList": [],
             "ColorTextInfoList": [
                 "两人以上",
                 "进行特训",
-                "培育赛马娘的",
+                "育成赛马娘的",
                 "训练效果也会提升"
             ]
         },
@@ -354,11 +380,29 @@
         },
         {
             "Name": "骏川手纲",
-            "Text": "另外，进行青春特训后，\n也有机会获得技能的灵感！",
+            "Text": "另外，\n关于进行青春特训的概率……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "除了会随着支援效果“折扣触发率提升”\n上升外，还会随着参加训练人数\n的增加而上升！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "训练时，\n还请您留意这一点。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "另外，进行青春特训后，\n也有机会获得技能的折扣！",
             "ChoiceDataList": [],
             "ColorTextInfoList": [
                 "进行青春特训后",
-                "有机会获得技能的灵感"
+                "有机会获得技能的折扣"
             ]
         },
         {
@@ -369,26 +413,58 @@
         },
         {
             "Name": "骏川手纲",
-            "Text": "队伍成员的情绪将达到最高潮，\n对于队伍的热烈情感，\n换言之就是“青春魂”将会爆发！",
+            "Text": "队伍成员的情绪将达到最高潮，\n对于队伍的热烈情感，\n换言之就是“青春之魂”将会爆发！",
             "ChoiceDataList": [],
             "ColorTextInfoList": [
-                "青春魂"
+                "青春之魂"
             ]
         },
         {
             "Name": "骏川手纲",
-            "Text": "如此一来，\n不但队伍成员的能力会大幅提升，\n签约赛马娘也能获得技能的灵感。",
+            "Text": "如此一来，\n不但队伍成员的能力会大幅提升，\n签约赛马娘也能获得技能的折扣。",
             "ChoiceDataList": [],
             "ColorTextInfoList": [
                 "队伍成员的能力会大幅",
                 "提升",
-                "技能的灵感",
+                "技能的折扣",
                 "获得"
             ]
         },
         {
             "Name": "骏川手纲",
-            "Text": "让更多赛马娘的青春魂爆发，\n队伍所有人一起越变越强吧！",
+            "Text": "让更多赛马娘的青春之魂爆发，\n队伍所有人一起越变越强吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "另外另外……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "青春之魂爆发的队伍成员，\n在青春特训中，还能够\n爆发极・青春之魂！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "爆发极・青春之魂"
+            ]
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "队伍成员如果是正在进行友情训练的话，\n似乎会更容易触发。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "另外，爆发了极・青春之魂的训练，\n也不会因为强度过大而失败。\n请您放心。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "极・青春之魂爆发后\n还会获得特别技能折扣，\n请不要错过♪",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -410,7 +486,7 @@
         },
         {
             "Name": "骏川手纲",
-            "Text": "首先，关于队伍资讯，\n在选择培育指令的画面\n可以进行确认。",
+            "Text": "首先，关于队伍资讯，\n在选择育成指令的画面\n可以进行确认。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -515,7 +591,7 @@
         },
         {
             "Name": "骏川手纲",
-            "Text": "我明白了♪为了慎重起见提醒您，\n简单统整后的内容在这里。",
+            "Text": "我明白了♪为了慎重起见提醒您，\n简单整理后的内容在这里。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
