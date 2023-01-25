@@ -65,7 +65,7 @@
         },
         {
             "Name": "独白",
-            "Text": "登录参赛的表单中，有队伍名称的字段。\n队伍＜小萝卜＞这名字如何？",
+            "Text": "登录参赛的表单中，有队伍名称的字段。\n＜胡萝卜＞队这名字如何？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -73,16 +73,16 @@
             "Name": "独白",
             "Text": "队伍名称是──",
             "ChoiceDataList": [
-                "队伍＜小萝卜＞"
+                "＜胡萝卜＞队"
             ],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "队伍名称决定是队伍＜小萝卜＞，\n填入登录参赛的表单了！",
+            "Text": "队伍名称决定是＜胡萝卜＞队，\n填入登录参赛的表单了！",
             "ChoiceDataList": [],
             "ColorTextInfoList": [
-                "小萝卜"
+                "胡萝卜"
             ]
         },
         {
