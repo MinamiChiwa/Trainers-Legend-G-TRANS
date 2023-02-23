@@ -246,7 +246,7 @@
         },
         {
             "Name": "目白多伯",
-            "Text": "我再多做几个就回家……\n再见啦。",
+            "Text": "我再多做几组就回去……\n再见啦。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -291,23 +291,23 @@
         },
         {
             "Name": "目白多伯",
-            "Text": "选了这项最能磨练心志的项目，\n表示你很理解我现在的心理状态嘛。",
+            "Text": "选了这项最能磨练心志的项目，\n表示训练员很理解我现在的心理状态嘛。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "目白多伯",
-            "Text": "……好。那么，我在跑的时候，\n就由训练员帮我加负重。",
+            "Text": "……好。那么，我在跑的时候，\n就由训练员帮我增加负荷。",
             "ChoiceDataList": [
-                "负重？"
+                "负荷？"
             ],
             "ColorTextInfoList": []
         },
         {
             "Name": "目白多伯",
-            "Text": "……好。那么，我在跑的时候，\n训练员可以帮我加负重吗？",
+            "Text": "……好。那么，我在跑的时候，\n训练员可以帮我增加负荷吗？",
             "ChoiceDataList": [
-                "负重？"
+                "负荷？"
             ],
             "ColorTextInfoList": []
         },
@@ -398,7 +398,7 @@
         },
         {
             "Name": "",
-            "Text": "然后，就在目标次数只剩几组\n就要结束的这个时候──",
+            "Text": "然后，在某一组的训练\n就要达到目标次数结束时──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },

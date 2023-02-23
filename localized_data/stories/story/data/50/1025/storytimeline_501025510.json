@@ -9,85 +9,85 @@
         },
         {
             "Name": "",
-            "Text": "我来到食堂，\n看见了曼城茶座和雪之美人\n两个人在一起的画面。",
+            "Text": "当我来到食堂，\n看见了曼城茶座和雪之美人\n两个人在一起。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "雪之美人",
-            "Text": "啊，是曼城茶座的训练员！\n你好～",
+            "Text": "啊，是咖啡的训练员！\n你好～",
             "ChoiceDataList": [
-                "你好，你们在这里做什么？",
-                "你好，你们在这里做什么呢？"
+                "你好。你们在这里做什么？",
+                "你好。你们在这里做什么？"
             ],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "我正要做特调饮料给雪之美人……",
+            "Text": "我正要为雪之\n做杯特调饮料……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "因为我看见雪之美人在房里看咖啡特辑，\n她又好像很在意上面提到的饮料，\n所以……",
+            "Text": "我看见雪之美人在房里看咖啡厅特辑，\n她又好像很在意上面提到的饮料，\n所以……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "雪之美人",
-            "Text": "我在猜想喝起来会是什么味道～的时候，\n曼城茶座就问我“要不要喝喝看”！",
+            "Text": "我正在好奇喝起来会是什么味道～\n咖啡就来问我\n“要不要喝喝看”！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "因为刊登在上面的饮料……\n刚好是在我也会做的范围……",
+            "Text": "因为书上刊登的每种饮料……\n刚好在我也会做的范围内……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "雪之美人",
-            "Text": "居然还会做店家在卖的那种饮料，\n真的很厉害！好有都会感、好帅气喔～！",
+            "Text": "居然会做店家在卖的那种时髦饮料，\n真的很强耶！好有都会感、好帅气喔～！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "……味道应该是比不上店家在卖的，\n但还是可以体验大概的感觉。",
+            "Text": "……味道虽然比不上店家卖的，\n但我想还是可以体验一下气氛。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "…………所以，\n雪之美人想要喝哪一种呢？",
+            "Text": "…………那么，\n雪之想要喝哪一种呢？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "雪之美人",
-            "Text": "这个嘛，因为种类很多，\n又全部都看起来很好喝的样子，好难选喔……\n我还没决定好要喝哪种耶～",
+            "Text": "这个嘛，因为种类很多，\n而且看起来都很好喝的样子，很难选……\n我还没决定要喝哪种耶～",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "雪之美人",
-            "Text": "嗯～嗯～！\n我该怎么选咧…………",
+            "Text": "嗯～嗯～！\n该选哪个好咧～…………",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "雪之美人",
-            "Text": "────啊，对了！\n曼城茶座的训练员，\n你觉得选哪种比较好呢？",
+            "Text": "────啊，对了！\n咖啡的训练员，\n你觉得选哪种比较好呢？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "雪之美人",
-            "Text": "因为我自己选不出来……\n如果你有推荐的就告诉我吧！",
+            "Text": "因为我实在选不出来……\n如果你有推荐的就告诉我吧！",
             "ChoiceDataList": [
-                "可以享受无穷韵味的那种",
-                "清爽又好入喉的那种"
+                "喝完余韵会萦绕口中的那种",
+                "清爽好入口的那种"
             ],
             "ColorTextInfoList": []
         },
@@ -99,7 +99,7 @@
         },
         {
             "Name": "曼城茶座",
-            "Text": "……以这个方向的话，\n比较适合雪之美人喝的应该是──",
+            "Text": "……以这个方向来说，\n比较适合雪之美人喝的应该是──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -111,61 +111,61 @@
         },
         {
             "Name": "雪之美人",
-            "Text": "哇──喝起来又香又甜耶！\n这真的是咖啡吗！？",
+            "Text": "哇──\n闻起来很香又很甜耶！\n这真的是咖啡吗！？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "是的。\n香味是来自肉桂，再加上奶油的浓郁……\n全身都会沉浸在香气里……",
+            "Text": "是的。香味是来自肉桂，\n再加上奶油的浓郁……\n可以让全身由内到外都沉浸在香气里……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "雪之美人",
-            "Text": "……嗯～～！好喝啊～！\n喝了之后觉得好温暖，有幸福的感觉耶……！",
+            "Text": "……嗯～～！超好喝～！\n喝了之后身体暖暖的，有幸福的感觉……！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "雪之美人",
-            "Text": "曼城茶座，真的很谢谢你！\n我一辈子都不会忘记这个味道的！",
+            "Text": "咖啡，真的很谢谢你！\n我一辈子都不会忘记这个味道的！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "我没有那么厉害啦……\n不过──",
+            "Text": "没有你说得那么夸张啦……\n不过──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "…………想喝的时候可以随时告诉我。",
+            "Text": "…………想喝的时候，可以随时告诉我。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "能让你喜欢上咖啡……\n我也觉得很开心……",
+            "Text": "能让你对咖啡感到兴趣……\n我也觉得很开心……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "",
-            "Text": "带着微笑这么说的曼城茶座，\n给人一种不输给热防弹欧蕾的温暖。",
+            "Text": "曼城茶座带着微笑如此说道。\n那样的她散发着一种\n丝毫不输热防弹欧蕾的温暖。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "雪之美人",
-            "Text": "听起来好像是我也会喜欢的耶……！\n曼城茶座，我想喝喝看那个！",
+            "Text": "听起来感觉连我也会喜欢耶……！\n咖啡，我想喝喝看那种！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "好的。\n如果是想要那样的口感──",
+            "Text": "好的。\n如果想要那种口感的话──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -183,61 +183,61 @@
         },
         {
             "Name": "雪之美人",
-            "Text": "里面有气泡还有柳橙果肉……\n看起来像是很时髦的果汁耶！",
+            "Text": "里面有气泡，上面还放了柳橙……\n看起来好像很时髦的果汁耶！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "乍看的确很像果汁汽水……\n但其实是很流行的特调咖啡喔。",
+            "Text": "乍看的确很像果汁汽水……\n但却是货真价实的特调咖啡喔。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "通宁水的碳酸口感\n搭配上柳橙的风味……\n给人一种夏天凉风的清爽……",
+            "Text": "通宁水的碳酸口感，\n搭配柳橙的风味……\n会给人一种宛如夏季晴空般的清爽感受……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "雪之美人",
-            "Text": "……嗯～！好好喝～！\n很爽口又没负担耶！",
+            "Text": "……嗯～！好好喝～！\n很爽口，感觉可以一口接一口耶！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "雪之美人",
-            "Text": "而且甜味中还带了点苦味……\n这、这是大人的味道啊～！",
+            "Text": "而且好像，甜味中还带了点苦味……\n这、这是大人的味道～！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "雪之美人",
-            "Text": "──曼城茶座！\n真的很谢谢你！",
+            "Text": "──咖啡！\n真的很谢谢你！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "雪之美人",
-            "Text": "我体验到了时髦“都市女孩”的感觉，\n真的觉得很感动耶！",
+            "Text": "我体验到了时髦“都市女孩”的感觉，\n现在感动得不得了呢！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "……呵呵，你喜欢就好。\n想喝可以再随时跟我说。",
+            "Text": "……呵呵，你喜欢就好。\n想喝的话，欢迎随时跟我说。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "能让你喜欢上咖啡……\n我也觉得很开心……",
+            "Text": "能让你对咖啡感到兴趣……\n我也觉得很开心……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "",
-            "Text": "带着微笑这么说的曼城茶座，\n给人一种像柑橘清香般清爽又温柔的感觉。",
+            "Text": "曼城茶座带着微笑如此说道。\n那样的她散发着一种\n宛如柑橘香氛一般清爽的温柔。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         }

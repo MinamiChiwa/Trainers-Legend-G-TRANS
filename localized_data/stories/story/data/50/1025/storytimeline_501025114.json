@@ -1,5 +1,5 @@
 {
-    "Title": "退出",
+    "Title": "引退",
     "TextBlockList": [
         {
             "Name": "",
@@ -9,25 +9,25 @@
         },
         {
             "Name": "独白",
-            "Text": "经典三冠的首战“皋月赏”。\n这是发生在那场激战结束几天后的事──",
+            "Text": "经典三冠的首战“皋月赏”。\n在那场激战结束后过了几天──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "赛马娘A",
-            "Text": "嗳嗳，电视正在转播记者会耶。",
+            "Text": "欸欸，电视正在转播记者会耶。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "赛马娘B",
-            "Text": "咦，是什么记者会啊？\n呃，咦？那个人是──",
+            "Text": "咦，什么记者会啊？\n呃，奇怪，那个人──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "赛马娘B",
-            "Text": "那是爱丽速子吧？",
+            "Text": "不是爱丽速子吗？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -45,7 +45,7 @@
         },
         {
             "Name": "曼城茶座",
-            "Text": "………………什么？",
+            "Text": "………………咦？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -57,7 +57,7 @@
         },
         {
             "Name": "爱丽速子",
-            "Text": "从今天起，我爱丽速子──\n将“无限期停止参加比赛”！",
+            "Text": "从今天起，我爱丽速子──\n将“无限期停赛”！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -87,13 +87,13 @@
         },
         {
             "Name": "记者B",
-            "Text": "有人认定你会是“日本德比”和“菊花赏”\n最有力的选手，为什么要停止参赛呢！？",
+            "Text": "许多人都认定你会是“日本德比”和“菊花赏”\n最有力的选手，究竟是为什么！？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "──光速般的皋月赏赛马娘。面对\n三冠路线的主角宣布停赛……现场气氛凝重。",
+            "Text": "──光速般的皋月赏赛马娘。面对三冠路线的\n主角宣布停止参赛……现场气氛为之冻结。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -111,25 +111,25 @@
         },
         {
             "Name": "记者B",
-            "Text": "许多人都认定你会稳稳拿下二冠、三冠的，\n为什么要停止参赛呢！？",
+            "Text": "许多人都认定你会稳稳拿下二冠、三冠的，\n究竟是为什么！？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "爱丽速子",
-            "Text": "会这么决定的原因有很多。\n真相总是充满各种因素的。",
+            "Text": "理由的话，只能说一言难尽。\n真相总是充满各种因素的。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "记者B",
-            "Text": "这算是宣布要引退了……\n是……这样的吗？",
+            "Text": "实质上的引退宣言……\n是这样……没错吗？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "爱丽速子",
-            "Text": "这样问我也是没有意义的。\n毕竟谁都无法确定未来会发生什么。",
+            "Text": "这样问我也没有意义。\n毕竟谁都无法确定未来会发生什么。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -141,31 +141,31 @@
         },
         {
             "Name": "独白",
-            "Text": "随后，爱丽速子便离开了现场。\n而她会去哪里──我们是知道的。",
+            "Text": "随后，爱丽速子便离开了现场。\n而她会去哪里──我们都心知肚明。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "这究竟……是怎么一回事啊？爱丽速子？",
+            "Text": "这究竟……是怎么回事呢，速子？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "你自己的人生当然是由你自己负责没错，\n但……",
+            "Text": "你想怎么走自己的人生都没关系，\n可是……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "我以为我也只要追着你就可以了的……",
+            "Text": "我原本以为只要追着你就可以的说……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "爱丽速子",
-            "Text": "反正我有我自己的打算啦。\n况且──",
+            "Text": "总之我有我自己的打算啦。\n况且──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -174,25 +174,25 @@
             "Text": "茶座和训练员，\n这也算是你们造就出来的结果。",
             "ChoiceDataList": [
                 "我们造成的？",
-                "我们造成的吗？"
+                "我们造成的？"
             ],
             "ColorTextInfoList": []
         },
         {
             "Name": "爱丽速子",
-            "Text": "没错，一个我从未想过的选择──\n是你们让我发现到这个可能性的。",
+            "Text": "没错。一个我至今记忆犹新的新选择──\n正是你们让我发现到这个可能性的。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "爱丽速子",
-            "Text": "其实也不是只有这条路可走，\n即便可验证的真相只有一个，\n却能透过各种不同的过程来抵达终点。",
+            "Text": "若问道路是否只有一条，其实并非如此。\n即便应验证的真相只有一个，\n但却存在数条道路皆能通往终点。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "爱丽速子",
-            "Text": "参不参加比赛根本不是重点，\n重要的是我要“做什么”、“怎么做”\n来抵达终点。",
+            "Text": "参不参加比赛根本不是重点，\n重要的是我要“借由什么”、“怎么去做”\n来抵达终点。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -204,7 +204,7 @@
         },
         {
             "Name": "爱丽速子",
-            "Text": "我都说这么明白了还听不懂吗？\n呵呵呵、哈哈哈哈哈──！",
+            "Text": "我都说这么明白了竟然还听不懂啊。\n呵呵呵、哈哈哈哈哈──！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -228,31 +228,31 @@
         },
         {
             "Name": "爱丽速子",
-            "Text": "……怎么？你觉得我不够格？",
+            "Text": "……怎么？不满吗？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "不是的……只是……我不太懂……",
+            "Text": "与其说是不满……我也、不太懂……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "爱丽速子",
-            "Text": "简单来说就是──\n我虽认可茶座的才华和训练员的培育能力，\n却还是觉得不够。",
+            "Text": "简单来说就是──\n我认可咖啡的才华和训练员的培育能力，\n但还是觉得不够。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "爱丽速子",
-            "Text": "所以打算用我科学的力量助你们一臂之力。\n这么说够清楚了吧？",
+            "Text": "所以打算用我科学的力量助你们一臂之力。\n这样够清楚了吧？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "爱丽速子",
-            "Text": "简单来说，\n这样你就能更快接近你的“朋友”了。",
+            "Text": "换句话说，\n这样你就能更快接近你的“朋友”了。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -264,7 +264,7 @@
         },
         {
             "Name": "爱丽速子",
-            "Text": "我信不信不是重点。\n对我来说，重要的是完成目标。",
+            "Text": "我信或不信根本无所谓。\n对我来说，重要的是完成目标。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -276,19 +276,19 @@
         },
         {
             "Name": "爱丽速子",
-            "Text": "哼……虽然茶座看起来不太乐意的样子，\n但训练员就不是那么想了吧？",
+            "Text": "哼～……虽然咖啡看起来不太乐意，\n但训练员，你应该跟她不同吧？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "爱丽速子",
-            "Text": "我这个提议的好处，\n聪明的你应该能够明白才是？",
+            "Text": "我这个提议的好处，\n聪明如你应该能够明白才是？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "训练员……你……\n该不会要答应她吧？",
+            "Text": "训练员……你应该……\n不会答应她吧？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -300,37 +300,37 @@
         },
         {
             "Name": "爱丽速子",
-            "Text": "更何况，你不是说过“朋友”和我\n是在同一个向量上的吗？",
+            "Text": "更何况，你不是说过“朋友”和我\n在同一个向量上吗？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "爱丽速子",
-            "Text": "所以，知道我原本打算用什么样的跑法，\n是让你更早达到目标的捷径。",
+            "Text": "所以，了解我原先打算用什么样的跑法，\n我想应该能成为让你更早达到目标的捷径喔。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "唔、唔唔唔唔……",
+            "Text": "唔、唔唔唔……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "爱丽速子",
-            "Text": "再额外附赠这教室的部分空间吧！\n我把原本我们争夺的那个空间让给你！",
+            "Text": "再额外附赠这教室的一部分吧！\n我把原本我们争夺的那个空间让给你如何！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "爱丽速子",
-            "Text": "这样就够放你珍藏的那些怪人偶了吧？\n像是某种庆祝胜利的游行一样。",
+            "Text": "这样就够放你珍藏的那些奇妙人偶了吧？\n你还能摆得像在庆祝胜利的游行一样。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "你要把……那个地方给……！\n喔喔喔……",
+            "Text": "你要把……那个地方……！\n喔喔、喔……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -342,7 +342,7 @@
         },
         {
             "Name": "爱丽速子",
-            "Text": "那就重新表决一次吧。\n赞成让我就任顾问一职的人！？\n举手，快点举手！",
+            "Text": "那就重新表决一次吧。\n赞成让我就任顾问的人请举手！？\n我！我我！",
             "ChoiceDataList": [
                 "……我"
             ],
@@ -368,7 +368,7 @@
         },
         {
             "Name": "独白",
-            "Text": "就这样意外获得了爱丽速子的助阵。\n于是，曼城茶座挑战经典赛事的路径，\n开始朝意想不到的方向前进。",
+            "Text": "我们意外获得了爱丽速子的助阵。\n就这样，曼城茶座的经典赛事挑战之路\n开始朝意想不到的方向前进。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         }

@@ -9,13 +9,13 @@
         },
         {
             "Name": "独白",
-            "Text": "这天，\n我和曼城茶座的训练刚结束时──",
+            "Text": "那是发生在我和曼城茶座\n刚结束那天训练之后的事──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "……那个……\n我可以……再多训练一下吗？",
+            "Text": "……那个……我想再稍微、多训练一下……\n可以吗？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -27,7 +27,7 @@
         },
         {
             "Name": "独白",
-            "Text": "曼城茶座似乎看见了“什么”\n看不见的东西。",
+            "Text": "曼城茶座似乎看见了“什么”\n一般人看不见的东西。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -36,7 +36,7 @@
             "Text": "……啊，在叫我了…………\n那个，我……可以去吗？",
             "ChoiceDataList": [
                 "去吧！",
-                "已经很晚了，下次吧？"
+                "已经很晚了，要不要下次再去？"
             ],
             "ColorTextInfoList": []
         },
@@ -48,37 +48,37 @@
         },
         {
             "Name": "曼城茶座",
-            "Text": "……那我就先过去了……",
+            "Text": "……那么，我先走了……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "曼城茶座独自在夜晚的赛道上奔跑着……",
+            "Text": "曼城茶座独自\n在夜晚的赛道上奔跑着……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "过程中，我也仿佛听见了多重的脚步声……\n每一个脚步声听起来都很快乐的感觉。",
+            "Text": "不知怎么的，我仿佛也听见了许多脚步声……\n而每一个脚步声听起来都很快乐。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "……说得也是。\n天色已经暗下来了……",
+            "Text": "……说得也是。\n毕竟，天色都已经这么暗了……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "那……我就去……\n跟他们说下次再一起跑了……",
+            "Text": "那……我去跟他们说……\n下次再一起跑……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "她去婉拒了看不见的“对象”，\n这天的训练也就此结束。",
+            "Text": "她去婉拒了看不见的“某些存在”，\n这天的训练也就此结束。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         }

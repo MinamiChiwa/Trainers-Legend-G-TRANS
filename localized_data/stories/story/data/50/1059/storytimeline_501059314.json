@@ -1,152 +1,170 @@
 {
-  "Title": "大阪杯结束后．折翼",
-  "TextBlockList": [
-    {
-      "Name": "",
-      "Text": "",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "目白多伯",
-      "Text": "不行……竟然输掉了……！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "目白多伯",
-      "Text": "（现在根本还不到“追随前辈”……\n“追求理想”的阶段。）",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "目白多伯",
-      "Text": "（不管怎么样苦苦追赶都无法靠近！\n不只如此，距离还越拉越远！）",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "目白多伯",
-      "Text": "不行……不行，我不能再这样下去！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "目白多伯",
-      "Text": "（明明想变得跟前辈一样厉害！\n如果办不到，我根本无法成为\n全新的荣耀──！！）",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "目白多伯",
-      "Text": "一定要……一定要想想办法……！！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "气槽",
-      "Text": "…………",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "目白多伯",
-      "Text": "让我参加“宝冢纪念”！",
-      "ChoiceDataList": [
-        "！？"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "独白",
-      "Text": "目白多伯一回到休息室，\n就一副拼命的模样丢出这句话。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "目白多伯",
-      "Text": "再次……让我了解到了。\r\n在这种地方输掉的话，\n根本不行……！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "目白多伯",
-      "Text": "可是我已经没时间消沉了！\n跟“有马纪念”那时不一样。\n我已经决定要持续挑战了！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "目白多伯",
-      "Text": "气槽前辈接下来一定会\n参加春天的大奖赛──“宝冢纪念”。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "目白多伯",
-      "Text": "我也想要把目标设在那里！\n在那场比赛再度跟前辈一起跑，搞清楚一件事！！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "目白多伯",
-      "Text": "为了成为气槽前辈……\n我到底还有哪里不足！！",
-      "ChoiceDataList": [
-        "…………"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "独白",
-      "Text": "――又来了。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "独白",
-      "Text": "以前出现过的不对劲的异样感觉，\n又在心中骚动。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "独白",
-      "Text": "所以我忍不住开了口──",
-      "ChoiceDataList": [
-        "这样真的好吗？",
-        "这样真的好吗？"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "目白多伯",
-      "Text": "咦？……你这么问是什么意思？",
-      "ChoiceDataList": [
-        "啊，没有──"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "独白",
-      "Text": "……明明无法形容自己的感觉，\n这样问出口一点意义也没有。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "独白",
-      "Text": "等我更加深思熟虑，找出答案后，\n再跟目白多伯谈……\n我做了这样的决定。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "目白多伯",
-      "Text": "……训练员好奇怪。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "独白",
-      "Text": "不管怎么样，我们决定\n下一个目标就是“宝冢纪念”了。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    }
-  ]
+    "Title": "大阪杯结束后．折翼",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "实况",
+            "Text": "──万众瞩目的女王对决，\n由气槽气势十足地获胜！\n场内欢声雷动！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "（哇啊啊啊啊啊啊啊────！！！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "唔……！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "不行──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "（现在根本还不到“追随前辈”……\n“追求理想”的阶段。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "（不管怎么样苦苦追赶都无法靠近！\n不只如此，距离还越拉越远！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "不行……我不能再这样下去！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "（明明想变得跟前辈一样厉害！\n如果办不到，我根本无法成为\n全新的荣耀──！！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "一定要……一定要想想办法……！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "让我参加“宝冢纪念”！",
+            "ChoiceDataList": [
+                "！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "目白多伯一回到休息室，\n就一副拼命的模样丢出这句话。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "再次……试着追赶让我了解到了。\n我跟气槽前辈的距离太遥远了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "可是我已经没时间消沉了！\n跟“有马纪念”那时不一样。\n我已经决定要持续挑战了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "气槽前辈接下来一定会\n参加春天的大奖赛──“宝冢纪念”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "我也想要把目标设在那里！\n我想在那里跟前辈再跑一次，抓住我的理想！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "为了变得像气槽前辈一样……\n我到底还有哪里不足！！",
+            "ChoiceDataList": [
+                "…………"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "──又来了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "以前出现过的不对劲的异样感觉，\n又在心中骚动。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "所以我忍不住开了口──",
+            "ChoiceDataList": [
+                "这样真的好吗？",
+                "这样真的好吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "咦？……你这么问是什么意思？",
+            "ChoiceDataList": [
+                "啊，没有──"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "……明明无法形容自己的感觉，\n这样问出口一点意义也没有。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "等我更加深思熟虑，找出答案后，\n再跟目白多伯谈……\n我做了这样的决定。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "……训练员好奇怪。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "不管怎么样，我们决定\n下一个目标就是“宝冢纪念”了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
 }

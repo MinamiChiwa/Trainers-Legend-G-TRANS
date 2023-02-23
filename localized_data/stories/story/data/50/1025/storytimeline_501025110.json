@@ -15,25 +15,25 @@
         },
         {
             "Name": "独白",
-            "Text": "她也创下了足以自豪的成绩。\n曼城茶座的实力也因此变得更坚强，\n于是──",
+            "Text": "她创下了足以自豪的成绩，\n在那之后实力也越发变得更强，\n并且──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "训练员，\n我感觉好像快要能追过了……",
+            "Text": "训练员，\n我好像终于能够追上了……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "下一次一定要……追过“朋友”。\n我想，下一场比赛应该能做到……",
+            "Text": "这次一定要……追上“朋友”。\n等到下场比赛……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "命运的对决终于迫在眼前。\n她终于能看见那张从未见过的“样貌”。",
+            "Text": "命运的瞬间已来到眼前──\n目睹那张从未见过“样貌”的日子。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -45,37 +45,37 @@
         },
         {
             "Name": "实况",
-            "Text": "曼城茶座好快、好强！\n现在以第一名的位置冲过终点！",
+            "Text": "曼城茶座！太快了！太强了！\n现在以第一名冲过终点！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "实况",
-            "Text": "曼城茶座……这是怎么了？\n冲过终点后，就完全不动了……？",
+            "Text": "曼城茶座……发生什么事了？\n冲过终点后，就一动也不动……？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "实况",
-            "Text": "看起来没有体力耗尽的感觉，\n这究竟是……",
+            "Text": "看起来并不像体力耗尽。\n那么，究竟是……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "我终于……看到你了……",
+            "Text": "我终于……看到你了。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "你总算回过头来看我了……",
+            "Text": "你总算、回过头来看我了……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "呵呵，果然和我猜想的一样……\n你就是……",
+            "Text": "呵呵，果然和我猜想的一样……\n你是……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -117,7 +117,7 @@
         },
         {
             "Name": "？？？",
-            "Text": "──咕咚。",
+            "Text": "──咕噜。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -135,19 +135,19 @@
         },
         {
             "Name": "曼城茶座",
-            "Text": "（原来我……就是你吗？\n还是你变成了我？）",
+            "Text": "（我……变成了你吗？\n还是你变成了我？）",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "（不，比起这个……\n重点是──）",
+            "Text": "（不，比起这个……\n说到底──）",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "我──是谁？",
+            "Text": "我是──谁？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -159,7 +159,7 @@
         },
         {
             "Name": "曼城茶座",
-            "Text": "不，不对……那是……",
+            "Text": "不，不对……这是……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -191,33 +191,33 @@
         },
         {
             "Name": "曼城茶座",
-            "Text": "是，大家都是这么叫我的……\n这是能够代表我的名字吗？",
+            "Text": "是，大家都是这么叫我的……\n但这是能够代表我的名字吗？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "它能在过去代表我，\n并在未来也一直代表我吗……？",
+            "Text": "它过去代表我，\n未来也会一直代表我吗……？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "又或者，\n要是没有曼城茶座这个名字的话……",
+            "Text": "又或者我不叫曼城茶座\n这个名字的话……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "那我还能跟原本一样，\n一直继续在你的身边吗？",
+            "Text": "那我还能像现在一样，\n继续待在你身边吗？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "──这是一个深奥的问题。\n我经过一番思考后，只得出了这样的答案──",
+            "Text": "非常困难的问题。\n经过一番思考后，我只得出了这样的答案──",
             "ChoiceDataList": [
-                "无论名字是什么，你就是你"
+                "无论你的名字是什么，都不会变"
             ],
             "ColorTextInfoList": []
         },
@@ -229,31 +229,31 @@
         },
         {
             "Name": "曼城茶座",
-            "Text": "谢谢你……\n听到你这么说，我感觉……比较能……",
+            "Text": "谢谢你……\n听到你这么说，我感觉比较……但是……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "我什么都还没有搞清楚……\n究竟“朋友”到底是谁……",
+            "Text": "我什么都还不知道……\n究竟“朋友”到底是谁……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "那个只差一点就明朗的答案，\n消失在雾的另一头了……但……",
+            "Text": "只差一步就能明朗的答案，\n却消失在雾的另一头……即使如此……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "……我还是想要继续跑下去，\n继续在无法掌握的海市蜃楼中前进。",
+            "Text": "……我还是想要继续跑下去，\n继续在这无法掌握的海市蜃楼中前进。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "为了总有一天……\n我能够成为明确存在的“某个人”。",
+            "Text": "为了总有一天……\n能够成为明确存在的“某个人”。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         }
