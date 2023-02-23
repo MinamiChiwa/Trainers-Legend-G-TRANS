@@ -84,7 +84,7 @@
 | 1051 | 笑顔の宝物 -Beyond The Future!-   | 完全翻译√ | *凉月crella（Bilibili）、毫毛 |
 | 1053 | Gaze on Me!                      | 完全翻译√（待改进） | 南千和 |
 | 1054 | Ms. VICTORIA                     | 完全翻译√ | 毫毛                         |
-| 1059 | Overrunner!                      |          |                              |
+| 1059 | Overrunner!                      | 完全翻译√ | *Kitasanゞ卫ちゃ（Bilibili） |
 
 
 ## 角色及皮肤名
