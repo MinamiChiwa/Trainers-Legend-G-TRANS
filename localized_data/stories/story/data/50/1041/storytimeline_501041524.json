@@ -111,48 +111,6 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "同学A",
-            "Text": "蹄铁和……咦？\r\n这张洋画，是我之前丢掉的那个……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "同学B",
-            "Text": "啊啊！？\u3000还有我的蹄铁锤！\r\n原来是乌鸦偷走的……！\u3000终于找到了！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "微光飞驹",
-            "Text": "那只乌鸦原来是学园里的大怪盗啊！\r\n进王前辈太厉害了！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "樱花进王",
-            "Text": "呵呵呵！\u3000是吧！？\r\n这就是――",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "樱花进王",
-            "Text": "爆进、班长之力！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "同学们",
-            "Text": "真不愧，爆进！\r\n真不愧是我们的班长～～！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "樱花进王的名声\r\n愈发响亮了！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
             "Name": "同学",
             "Text": "哇！班长！\n谢谢你帮我找回蹄铁！",
             "ChoiceDataList": [],
@@ -172,12 +130,12 @@
         },
         {
             "Name": "樱花进王",
-            "Text": "今后有任何事，都可以尽量拜托我哦！",
+            "Text": "今后有任何事，都可以尽量拜托我喔！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "独白",
+            "Name": "",
             "Text": "樱花进王的活跃表现让班上同学兴奋不已。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
@@ -198,12 +156,12 @@
             "Name": "樱花进王",
             "Text": "可是，就这样认输有损班长的名誉！\n我该怎么办才好！",
             "ChoiceDataList": [
-                "用诱饵把它引出来吧"
+                "用诱饵引它过来吧"
             ],
             "ColorTextInfoList": []
         },
         {
-            "Name": "独白",
+            "Name": "",
             "Text": "她刚才说“把手机看成了蹄铁”……\n这句话给了我灵感，可以拿手机当诱饵──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []

@@ -1,5 +1,5 @@
 {
-    "Title": "在梦幻世界里",
+    "Title": "于梦幻世界中",
     "TextBlockList": [
         {
             "Name": "",
@@ -17,14 +17,14 @@
             "Name": "曼城茶座",
             "Text": "今天要选什么好呢……\n──啊。",
             "ChoiceDataList": [
-                "怎么了？",
+                "怎么了吗？",
                 "怎么了吗？"
             ],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "没事，\n就是发现了名字让我有点怀念的咖啡……",
+            "Text": "没什么，只是发现了名字\n让人有点怀念的咖啡……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -44,7 +44,7 @@
         },
         {
             "Name": "曼城茶座",
-            "Text": "好香……听着这里的音乐……\n放空自己的头脑──",
+            "Text": "好香……倾听店里流淌的音乐……\n放空一切思绪──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -56,13 +56,13 @@
         },
         {
             "Name": "独白",
-            "Text": "──就这样放松了一会，\n突然传来奇妙的音乐。\n我睁开眼睛一看……",
+            "Text": "──当我们沉浸在这般气氛时，\n耳边突然传来奇妙的音乐。\n我睁开眼睛一看……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "哎呀……\n你也不小心进来了吗……？",
+            "Text": "哎呀……\n你也、不小心误闯进来了吗……？",
             "ChoiceDataList": [
                 "这里是……！？"
             ],
@@ -70,27 +70,27 @@
         },
         {
             "Name": "曼城茶座",
-            "Text": "我也不知道……\n喝了咖啡，闭上眼睛之后就来到这里了……",
+            "Text": "不知道……尝过咖啡，\n闭上眼睛之后就来到这里了……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "我们四处查看寻找出口，\n却没有发现可以离开的方法。\n既然如此──",
+            "Text": "我们四处查看寻找出口，\n却没有发现类似的地方。\n既然如此──",
             "ChoiceDataList": [
-                "既然都来了，就在这里玩一下吧"
+                "既然都来了，干脆玩一下再走吧"
             ],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "我也是这么想的……\n毕竟难得来到游乐园……",
+            "Text": "我也、这么想……\n毕竟难得有机会来到游乐园……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "那我们要往哪里走呢……？",
+            "Text": "那我们要去哪里呢……？",
             "ChoiceDataList": [
                 "去鬼屋吧",
                 "去搭摩天轮吧"
@@ -99,19 +99,19 @@
         },
         {
             "Name": "曼城茶座",
-            "Text": "幻影中的鬼屋吗……\n呵呵，那要谨慎一点比较好……",
+            "Text": "幻影中的鬼屋，是吗……\n呵呵，那要谨慎一点比较好……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "这个幻影鬼屋做得很好呢……\n很有气氛──",
+            "Text": "这个幻影鬼屋做得很好呢……\n非常有气氛──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "未免也太有气氛了吧……\n感觉都有点毛骨悚然了。\n正当我这么想时──",
+            "Text": "未免也太有气氛了吧……\n让人毛骨悚然的。\n正当我这么想时──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -126,13 +126,13 @@
         },
         {
             "Name": "独白",
-            "Text": "突然觉得脚步变轻了，\n像是要掉入深渊里的感觉……！\n我急忙向上伸手──！",
+            "Text": "突然脚下一阵空，\n紧接着感到一股掉入黑暗中的感觉……！\n我急忙向上伸手──！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "没事的，我抓住了……！往这边走……！",
+            "Text": "没事的，我抓住了……！往这边……！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -150,19 +150,19 @@
         },
         {
             "Name": "独白",
-            "Text": "（──噔、噔！）",
+            "Text": "（──跶、跶！）",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "曼城茶座迈出的每一个步伐，\n都会在脚底下发出星光般的光芒。\n我追着她脚下的光芒紧跟在后。",
+            "Text": "曼城茶座每迈出一步，\n脚下都会发出星光般的光芒。\n而我追着她脚下的光，紧跟在后。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "一切就像梦境般──\n因为有了恐怖的体验，\n反而更突显眼前光芒的耀眼。",
+            "Text": "眼前的场景宛如梦境──\n或许是因为体验过之前的恐怖，\n反而更让此刻的每道光格外耀眼。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -174,25 +174,25 @@
         },
         {
             "Name": "曼城茶座",
-            "Text": "很不错呢……\n不知道从最高处可以看到怎样的风景……",
+            "Text": "真是好主意……\n不知道从最高处可以看到怎样的风景……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "我们坐进无人的摩天轮里。\n就这样晃啊晃的，\n眼看就快要到最高处时──",
+            "Text": "于是我们搭上了无人的摩天轮里。\n就这样随着车厢晃啊晃的，\n眼看快要抵达最高处时──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "（──砰！！）",
+            "Text": "（──碰！！）",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "──耳边传来一阵巨响！\n虽不知道发生了什么事情，\n但我一定要保护好曼城茶座……！",
+            "Text": "──耳边传来一阵巨响！\n虽然不知道发生了什么事情，\n但我必须要保护好曼城茶座……！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -206,7 +206,7 @@
         },
         {
             "Name": "曼城茶座",
-            "Text": "是烟火……\n色彩缤纷的，很漂亮……",
+            "Text": "是烟火……\n色彩缤纷的，真漂亮呢……",
             "ChoiceDataList": [
                 "那刚才的声音……"
             ],
@@ -220,25 +220,25 @@
         },
         {
             "Name": "独白",
-            "Text": "大型的烟火在空中绽放。\n看着烟火，我开始觉得安心，\n像紧绷的气球泄了气般──",
+            "Text": "看着空中绽放的大型烟火，\n让我不禁涌出像是安心，\n又像卸下肩上重担般的情绪──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "刚才谢谢你保护我……",
+            "Text": "刚才，谢谢你保护我……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "你毫不犹豫地想要保护我……\n我觉得很开心……",
+            "Text": "看到你毫不犹豫地挡在我身前……\n我觉得很开心……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "听到曼城茶座这么说，\n我突然觉得一切都很值得。",
+            "Text": "听到曼城茶座这么说，\n我突然觉得一切都值得了。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -250,7 +250,7 @@
         },
         {
             "Name": "曼城茶座",
-            "Text": "……你回来了。\n我也是刚回来……",
+            "Text": "……欢迎回来。\n我也是刚刚回来……",
             "ChoiceDataList": [
                 "刚才的是……？"
             ],
@@ -258,21 +258,21 @@
         },
         {
             "Name": "曼城茶座",
-            "Text": "我想，应该是因为味觉产生共鸣，\n让我们进入到同一个幻影里……",
+            "Text": "我想，应该是由于味觉产生共鸣，\n让我们进入相同的幻影里……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "而那个幻影和我的记忆有关……\n加上这杯咖啡……\n也是我的父母亲常喝的。",
+            "Text": "而那个幻影的源头则是我的记忆……\n之所以这么说，也是因为这杯咖啡……\n我的父母以前常喝。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "所以才会重现我小时候快乐的记忆吧……",
+            "Text": "大概是因为这样，\n所以才会重现我小时候快乐的记忆……",
             "ChoiceDataList": [
-                "我也觉得很开心",
+                "我也觉得很开心喔",
                 "我也觉得很开心喔"
             ],
             "ColorTextInfoList": []
@@ -285,13 +285,13 @@
         },
         {
             "Name": "曼城茶座",
-            "Text": "可以和别人一起进入同一个幻影……\n这是非常……非常难得的事情……",
+            "Text": "因为和他人看见相同的幻影……\n是非常……非常、罕见的情况……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "虽然曼城茶座本身可能没有注意到──\n但回程的路上，\n她的影子像是在跳舞般摇晃。",
+            "Text": "虽然曼城茶座可能没有注意到──\n但回程的路上，\n她的影子像是在跳舞般摇晃。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },

@@ -1,5 +1,5 @@
 {
-    "Title": "这次一定要成功！",
+    "Title": "这次一定要获胜！",
     "TextBlockList": [
         {
             "Name": "",
@@ -15,7 +15,7 @@
         },
         {
             "Name": "曼城茶座",
-            "Text": "……就好像脑中起了一层雾一样……\n觉得很烦躁……心情很沉重……",
+            "Text": "……就好像脑中，起了一层雾一样……\n觉得很烦躁……心情很沉重……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -27,7 +27,7 @@
         },
         {
             "Name": "曼城茶座",
-            "Text": "所以我──",
+            "Text": "所以，我──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -35,7 +35,7 @@
             "Name": "曼城茶座",
             "Text": "……要在这里拿下胜利，\n消去我心中的疙瘩……！",
             "ChoiceDataList": [
-                "我会帮你加油",
+                "我会帮你加油的",
                 "我会帮你加油的"
             ],
             "ColorTextInfoList": []
@@ -48,7 +48,7 @@
         },
         {
             "Name": "曼城茶座",
-            "Text": "…………我一定不会辜负你对我的期望……！",
+            "Text": "…………我一定不会、辜负你的期望……！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         }

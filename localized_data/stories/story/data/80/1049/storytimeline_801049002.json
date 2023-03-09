@@ -9,7 +9,7 @@
         },
         {
             "Name": "独白",
-            "Text": "我为了采买而经过车站前，\n这时我看到了熟悉的制服身影出现。",
+            "Text": "当我为了采买而路过车站时，\n看到了熟悉的制服身影。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -21,37 +21,37 @@
         },
         {
             "Name": "独白",
-            "Text": "不知为何，她走进了冷清的小巷。\n我有点好奇，于是追上去看看──",
+            "Text": "她不知为何走进了冷清的小巷。\n我出于好奇所以追上去──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "中山庆典",
-            "Text": "喂，你偷偷摸摸跟着我，是想做什么？",
+            "Text": "喂，你偷偷摸摸地跟踪我想干嘛？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "中山庆典",
-            "Text": "根据你的回答……我也有我自己的打算。",
+            "Text": "根据你的回答……我也有自己的打算。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "我表示我并不是要跟着她，\n而是看她走往人少的地方，觉得担心。",
+            "Text": "我解释我并不是想跟踪她，\n而是看她走往人少的地方觉得担心。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "中山庆典",
-            "Text": "哦，你这家伙真奇怪，\n明明也不是我的专属训练员。",
+            "Text": "哦～你这家伙还真奇怪，\n明明不是我的专属训练员。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "中山庆典",
-            "Text": "你不用担心，我只是要去吃饭。\n巷子里有几间我常去吃的店。",
+            "Text": "用不着担心，我只是要去吃饭。\n巷子里有几间我常去的店。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -63,7 +63,7 @@
         },
         {
             "Name": "中山庆典",
-            "Text": "不过我有点犹豫，\n今天要吃炖煮内脏，还是咖喱……",
+            "Text": "只是我有点犹豫。今天要吃炖煮内脏，\n还是咖喱……",
             "ChoiceDataList": [
                 "炖煮内脏吧",
                 "必胜猪排咖喱不错"
@@ -72,65 +72,65 @@
         },
         {
             "Name": "中山庆典",
-            "Text": "哦，你选炖煮内脏啊，真少见。",
+            "Text": "哦～你喜欢炖煮内脏啊，真少见。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "中山庆典",
-            "Text": "它有特殊的味道，很多人不爱吃，\n你为什么选这道？",
+            "Text": "它有个很特殊的味道，满多人不爱吃的。\n你为什么选这道？",
             "ChoiceDataList": [
-                "因为味道浓郁，吃下去暖呼呼的"
+                "因为味道浓郁，还可以温暖身子"
             ],
             "ColorTextInfoList": []
         },
         {
             "Name": "中山庆典",
-            "Text": "你喜欢它的滋味啊……我们挺合的。",
+            "Text": "你喜欢它的滋味啊……我们挺合的嘛。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "中山庆典",
-            "Text": "虽然吃学园里那些时髦食物也不错──",
+            "Text": "虽然学园里那些时髦的料理\n也不错──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "中山庆典",
-            "Text": "但我偶尔也想吃被咖啡色汤汁卤透的肠子\n还有甘甜的蔬菜，来疗愈一下自己。",
+            "Text": "但我偶尔也想吃被褐色汤汁卤透的肠子\n跟甘甜的蔬菜，来疗愈一下自己。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "中山庆典",
-            "Text": "……对了，记得不知道是哪里的赛场\n也有店家在卖好吃的炖煮内脏。",
+            "Text": "……对了，记得不知道是哪里的赛场，\n也有店家在卖好吃的炖煮内脏。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "中山庆典",
-            "Text": "下次绕去看看吧……嗯，没事。\n训练员，你就快点回自己的窝去吧。",
+            "Text": "下次绕去看看吧……嗯，没事。\n训练员，你快点回自己的窝去吧。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "中山庆典",
-            "Text": "“必胜”猪排咖喱啊……是要讨个吉利吗？",
+            "Text": "“必胜”猪排咖喱啊……是要讨吉利吗？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "中山庆典",
-            "Text": "就算讨了吉利，也不会有佛祖来帮忙啊。\n……即使这样，还是会想向神佛求助，\n这就是所谓的业吧。",
+            "Text": "就算讨了吉利，也没有佛祖来帮忙啊。\n……即使这样，还是会想向神佛求助，\n这就是所谓的命吧。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "中山庆典",
-            "Text": "嗯，那今天就照你的意见吧。",
+            "Text": "好吧，那今天就照你的意见吧。",
             "ChoiceDataList": [
-                "学园里也有猪排咖喱喔"
+                "学园里也有必胜猪排咖喱喔"
             ],
             "ColorTextInfoList": []
         },
@@ -142,7 +142,7 @@
         },
         {
             "Name": "中山庆典",
-            "Text": "如果是在学园里吃，\n会有一堆像你这样爱管闲事的人来找我讲话。",
+            "Text": "如果在学园里吃，会有一堆像你这样\n爱管闲事的人来找我讲话。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -154,25 +154,25 @@
         },
         {
             "Name": "中山庆典",
-            "Text": "不过也会遇上默默多管闲事的店家，\n什么都不问就把我点的食物加大就是了……",
+            "Text": "虽然有时候也会遇上爱管闲事的店家，\n默默擅自把我点的食物加大就是了……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "中山庆典",
-            "Text": "对了，记得不知道是哪里的赛场\n也有很受欢迎的咖喱店，而且分量又多。",
+            "Text": "对了，记得不知道是哪里的赛场，\n也有以超大分量受到欢迎的咖喱店。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "中山庆典",
-            "Text": "下次绕去看看吧……嗯，没事。\n训练员，你就快点回自己的窝去吧。",
+            "Text": "下次绕去看看吧……嗯，没事。\n训练员，你快点回自己的窝去吧。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "中山庆典说完后，头也不回地离开，\n身影就这样消失在暗巷中。",
+            "Text": "说完，中山庆典便头也不回地离开，\n就这样消失在暗巷中。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         }

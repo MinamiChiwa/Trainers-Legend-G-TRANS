@@ -1,614 +1,624 @@
 {
-  "Title": "抽签机会！",
-  "TextBlockList": [
-    {
-      "Name": "",
-      "Text": "",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "独白",
-      "Text": "这天的归途上，我们经过商店街时——",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "好像很热闹啊……",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "商店街的人",
-      "Text": "走过路过不要错过，现正举办新春大抽奖～！\r\n特等奖可是『温泉旅游券』哦！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": [
-        "温泉旅游券"
-      ]
-    },
-    {
-      "Name": "商店街的人",
-      "Text": "一等奖是『上等胡萝卜肉排』\n二等奖『一筐胡萝卜』\n三等奖是『一根胡萝卜』！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "商店街的人",
-      "Text": "别错过别错过啊，这可是祈福抽签！\n不管什么人都可以抽，大家都来试试吧～！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "独白",
-      "Text": "刚买过东西，我们手头正好有一张抽奖券。\r\n既然如此——",
-      "ChoiceDataList": [
-        "一起抽抽看吧，大进！",
-        "要不要一起抽抽看呢，大进？"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "你自己去抽不就好了？\r\n我先回去了。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "反正这种东西一般都不会中奖吧。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "特等奖什么的，\r\n更是梦中之梦——",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "商店街的人",
-      "Text": "噢！小姑娘，你想要特等奖吗？\r\n不错呀，梦想就该越大越好！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "诶？！\r\n不是，我……！",
-      "ChoiceDataList": [
-        "就把特等奖作为目标吧，大进！",
-        "就以特等奖为目标哦，大进！"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "～～～～～！\r\n吵死了，笨蛋！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "独白",
-      "Text": "成田大进走上前去，\r\n自暴自弃般地转动了抽奖器的把手——",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "独白",
-      "Text": "那么结果是——",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "商店街的人",
-      "Text": "没想到啊！可喜可贺，恭喜你！！\n是特等奖，『温泉旅游券』～～～～！！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "独白",
-      "Text": "获得了『<itemname>』",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "……啊？\r\n……真的假的？",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "真的抽到了……？\r\n……温泉旅行？",
-      "ChoiceDataList": [
-        "恭喜你！！"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "啊、嗯。谢谢……",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "独白",
-      "Text": "好像由于过于吃惊，\r\n大进也变得率直起来了——",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "说起来，这是用你的抽奖券抽到的吧。\r\n那这个旅行券也是你的东西才对？",
-      "ChoiceDataList": [
-        "这是你抽中的，你去好好享受吧"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "…………",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "…………这样。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "琵琶晨光",
-      "Text": "……原来如此。\r\n所以就来约我们中的一个人一起去温泉旅行吗。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "胜利奖券",
-      "Text": "唔噢噢！！不错呢！\r\n温泉的话就让我——",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "琵琶晨光",
-      "Text": "等等，奖券。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "胜利奖券",
-      "Text": "哎？！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "琵琶晨光",
-      "Text": "……你偶尔也该对朋友那微妙的心思敏锐一些\r\n比较好。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "琵琶晨光",
-      "Text": "抱歉，大进。\r\n这段时间我们都很忙，没法陪你去。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "琵琶晨光",
-      "Text": "闪耀・系列赛之后，\r\n要做的事情堆得跟山一样多。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "琵琶晨光",
-      "Text": "而且，要去温泉旅行的话，\n有比我们更合适的人选吧。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "更合适的人？\n你、你在说谁啊。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "琵琶晨光",
-      "Text": "哈哈。要是在大家面前说出来的话，\r\n是谁会更害羞呢？",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "～～～嘁！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "……我就是讨厌你的这一点，晨光。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "琵琶晨光",
-      "Text": "呵呵，这样啊。\r\n你笨拙的这一面，我倒是很喜欢哦。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "独白",
-      "Text": "没过几天，\r\n大进一走进训练员室就气势汹汹地逼近了我，\r\n然后把温泉旅游券塞进我手里。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "给你保管。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "……要是使用期限到了，\r\n我还没找到旅伴的话——",
-      "ChoiceDataList": [
-        "……呃？"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "……唔！……总而言之！！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "暂时，交给你保管！！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "独白",
-      "Text": "就这样，\r\n这个温泉旅游券被暂时保管在了我这里——",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "商店街的人",
-      "Text": "可喜可贺，一等奖哦～！\n奖品是『上等胡萝卜肉排』！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "独白",
-      "Text": "获得了『<itemname>』",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "唔哇，这个……",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "商店街的人",
-      "Text": "很棒对吧～！！\n就算是那些喜欢吃东西的赛马娘\n也能吃到满足的分量哦～！！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "（那对我来说就多过头了……）",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "……啊，那就这样做吧。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "独白",
-      "Text": "当晚，我正在训练员室工作时——",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "啊，你在啊。\r\n……吃过晚饭了吗？",
-      "ChoiceDataList": [
-        "还没吃呢……"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "这样啊。……给你，意面。\n可别说不喜欢吃意面啊。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "把调理包里的汉堡排揉碎后，\r\n就能当绞肉来做肉酱。",
-      "ChoiceDataList": [
-        "你用那块胡萝卜肉排做的吗？！",
-        "你用那块胡萝卜肉排做的吗？！"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "嗯。有什么问题吗？",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "……是你给我的抽奖券，\r\n所以我觉得你也该尝尝这个意面的味道。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "所以……嗯，就是这样。\r\n好了，快吃吧。要冷掉了。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "（……要亲亲热热地一人分一半肉排，\r\n我是绝对做不到的。所以——）",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "独白",
-      "Text": "我和大进凑在一起，\r\n一起分享了这份美味的意面。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "商店街的人",
-      "Text": "二等奖！奖品是『一大筐胡萝卜』！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "独白",
-      "Text": "获得了『<itemname>』",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "唔哇，还真是一大筐啊……\r\n而且这塞得也太满了点……",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "……啊，真是的。\r\n这样的话——",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "胜利奖券",
-      "Text": "唔哇——————！！\r\n真的是一大筐呢！！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "琵琶晨光",
-      "Text": "的确，这个量的话……\r\n就算你们两个人分着吃也吃不完呢。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "胜利奖券",
-      "Text": "那个那个！\r\n真的可以想拿多少就拿多少吗！？",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "可以是可以……\r\n你要是吃得太多了，我可不负责哦。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "胜利奖券",
-      "Text": "太好啦——————！！！\r\n回去后开胡萝卜派对吧！！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "……你根本没在听我说话吧。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "琵琶晨光",
-      "Text": "好啦好啦。\r\n……那么，我也得向你道谢才行。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "琵琶晨光",
-      "Text": "我正好在苦恼给白仁的便当做什么好。\r\n帮大忙了。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "道谢的话就去找那边那个训练员吧。\r\n抽奖券是他给的。",
-      "ChoiceDataList": [
-        "不过说要分给你们的倒是大进哦。"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "胜利奖券",
-      "Text": "谢谢你，大进！！\r\n果然大进很温柔啊！！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "啊啊吵死人了！\r\n而且我一点都不温柔啊！",
-      "ChoiceDataList": [
-        "大进你就是很温柔哦？"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "……我踹你哦？！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "独白",
-      "Text": "之后，\r\n我们四人开开心心地开了一场胡萝卜派对。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "商店街的人",
-      "Text": "三等奖！\n奖品是『一根胡萝卜』！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "独白",
-      "Text": "获得了『<itemname>』",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "……你看，我早说过了吧。给。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "独白",
-      "Text": "成田大进把胡萝卜抛给了我。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "是用你的抽奖券抽到的东西，\r\n那就应该交给你才对。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "好了，差不多也到晚饭时间了。\r\n赶紧回——",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "独白",
-      "Text": "（咕～～～～）",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "…………",
-      "ChoiceDataList": [
-        "大进……你肚子饿了吗？"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "吵死了。",
-      "ChoiceDataList": [
-        "要不……这萝卜还是给你吧？"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "你好啰嗦啊！\r\n我肚子不饿，也不想要这根——",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "独白",
-      "Text": "（咕～～～～）",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "唔唔唔唔唔～！！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "独白",
-      "Text": "我沉默地又一次递出胡萝卜。\r\n这一次大进没有再说什么，只是无言地接了过去。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "商店街的人",
-      "Text": "非常遗憾！\r\n只抽到安慰奖『纸巾』呢～",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "独白",
-      "Text": "获得了『<itemname>』",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "……纸巾。",
-      "ChoiceDataList": [
-        "非常遗憾呢",
-        "非常遗憾呢"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "没什么好遗憾的。\r\n我本来就只是替你抽一下，几等奖都无所谓。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "……况且温泉什么的，\r\n就算不用抽奖也能去吧。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "这时候要还被人安慰的话，\r\n心情反而会变得很微妙吧。",
-      "ChoiceDataList": [
-        "这、这样吗。",
-        "这、这样吗。"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "成田大进",
-      "Text": "……好了，回去吧。\r\n纸巾就送你了。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "独白",
-      "Text": "说完，成田大进迅速迈步前进。\r\n然而，她的侧脸似乎透出一丝不甘——",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    }
-  ]
+    "Title": "抽签机会！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "某天，当我们在回程路上，\n经过商店街时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "感觉闹哄哄的……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "看过来看过来，现正举办新春大抽奖～！\n特等奖可是“温泉旅游券”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "温泉旅游券"
+            ]
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "一等奖是“上等胡萝卜肉排汉堡”，\n二等奖是“一筐胡萝卜”，\n三等奖则是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "看过来看过来，是好玩的抽奖活动喔！\n任何人都可以来抽喔～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我手上有一张刚才买东西时\n拿到的抽奖券。这下子──",
+            "ChoiceDataList": [
+                "我们非抽不可，大进！",
+                "我们非抽不可，大进！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "你自己一个人抽吧。\n我要先回去了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "而且这种东西\n大多不会中奖不是吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "想中特等奖更是天方夜谭──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "喔！小姐，你想中特等奖吗？\n真了不起，梦想就是要越大越好喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "咦！？\n不是的，我……！",
+            "ChoiceDataList": [
+                "大进，以特等奖为目标吧！",
+                "大进，以特等奖为目标吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "～～～～～！\n吵死了，笨蛋！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "成田大进有些自暴自弃地\n转动了抽奖机的把手！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "结果──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "天啊！恭喜────！！\n抽到特等奖“温泉旅游券”了～～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "成田大进",
+            "Text": "咦？真的假的？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "我中了……温泉旅行。",
+            "ChoiceDataList": [
+                "恭喜你！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "啊、嗯，谢谢……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "或许是因为出乎意料而大感吃惊，\n感觉成田大进都变得温和了──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "不过追根究柢，这是你的抽奖券吧。\n所以这旅游券也是你的不是吗？",
+            "ChoiceDataList": [
+                "这是你抽中的，你去好好享受吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "…………这样啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "……原来如此，\n所以你想约我们其中一个，陪你去旅行啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "唔哇喔喔，真好！\n温泉的话，就由我──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "等一下，奖券。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "唔喔！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "……你偶尔也该对朋友那微妙的心思\n敏锐一些比较好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "抱歉啊，大进。\n我们会忙好一阵子，\n没办法去。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "在闪耀系列赛之后，\n也会有堆积如山的事要做吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "而且，还有比我们更适合的人选吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "适合？你……你在说谁。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "要是我明说，\n你会更难为情吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "～～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "……我就是讨厌晨光你这一点。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "呵呵，这样啊。\n我倒是非常喜欢你的不擅表达喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "几天后，成田大进一进到训练员室，\n就朝我大步走来，\n并将温泉旅游券硬塞到我手里。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "收着。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "……如果在使用期限前，\n没找到一起去的人──",
+            "ChoiceDataList": [
+                "……咦"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "……总之！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "你现在就收着！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "于是，\n温泉旅游券就由我保管了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "恭喜抽到一等奖～！\n奖品是“上等胡萝卜肉排汉堡”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "成田大进",
+            "Text": "唔哇，好大……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "对吧～！！\n这是连爱吃的赛马娘们\n也能心满意足的大分量喔～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "（这对我来说太多了啦……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "……啊，对了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "那天晚上，当我在训练员室工作时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "啊，你在呀。\n……吃过晚餐了吗？",
+            "ChoiceDataList": [
+                "是还没……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "这样啊……你不讨厌波隆那肉酱吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "把调理包里的汉堡排揉碎后，\n就能当绞肉使用。",
+            "ChoiceDataList": [
+                "这是用那个胡萝卜汉堡排做的吗！？",
+                "这是用那个胡萝卜汉堡排做的吗！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "是这样没错，不行吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "……那是你的抽奖券，\n你也有权利吃吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "所以……好啦，要冷掉了，\n快点准备开动吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "（……要我亲密地一人分一半汉堡排，\n我是绝对做不到的。所以──）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我们津津有味地享受了\n成田大进特制的波隆那肉酱。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "二等奖～！！\n奖品是“一筐胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "成田大进",
+            "Text": "唔哇，真的是一整堆……\n应该说这也太多了吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "……啊～真是，\n既然这样──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "唔哇────！！\n真的是一筐胡萝卜呢～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "这个量你们两个的确是吃不完啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "欸欸欸！\n我真的可以随便拿吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "可以是可以……\n要是吃太多我可不负责喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "太棒了──！！\n回去之后就来开胡萝卜派对吧──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "……你没在听我说话吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "好啦好啦。\n……那我也心怀感激地收下吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "我刚好在烦恼白仁的便当菜，\n真是太感谢了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "要道谢就跟那边的训练员说吧。\n那是他的抽奖券。",
+            "ChoiceDataList": [
+                "是大进说要分给大家的喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "谢谢你──！！\n大进你果然很温柔──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "啊，真是，烦死了！\n我才不温柔咧！",
+            "ChoiceDataList": [
+                "大进你很温柔喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "……我把你踢飞喔！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "之后，我们办了一场\n开心的胡萝卜派对。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "三等奖～！\n奖品是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "成田大进",
+            "Text": "……就是这样。给你。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "成田大进把胡萝卜抛给了我。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "这是用你的抽奖券抽的，\n所以是你的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "好啦，差不多该吃晚餐了，\n快回去──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（咕噜噜噜噜噜～～～～）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "…………",
+            "ChoiceDataList": [
+                "大进……你肚子饿了吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "少啰嗦。",
+            "ChoiceDataList": [
+                "这胡萝卜给你吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "少啰嗦少啰嗦！\n我肚子不饿，也不想要……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（咕噜噜噜噜噜～～～～）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "唔唔唔唔唔唔～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "之后，当我再次递出胡萝卜时，\n成田大进就默默地收下了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "很可惜，没抽中！\n参加奖是“卫生纸”喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "成田大进",
+            "Text": "……卫生纸。",
+            "ChoiceDataList": [
+                "真是太可惜了",
+                "真是太可惜了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "才不，我只是代替你抽，\n抽到几奖我都不在意。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "……反正温泉什么的，\n就算没抽到也可以去吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "被你这样莫名安慰，\n我才会觉得怪怪的咧。",
+            "ChoiceDataList": [
+                "这、这样啊",
+                "这、这样啊"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田大进",
+            "Text": "……好啦，回去吧。\n卫生纸你拿走吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "说完，成田大进迅速迈步前进，\n她的侧脸透露出一丝不甘。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
 }

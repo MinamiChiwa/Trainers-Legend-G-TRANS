@@ -47,7 +47,7 @@
         },
         {
             "Name": "玉藻十字",
-            "Text": "不过，大叔你很有种嘛。\n看我把你的奖品给全部抽走，让你不敢再嚣张。",
+            "Text": "不过，大叔你很有胆量嘛。\n看我把你的奖品给全部抽走，让你不敢再嚣张。",
             "ChoiceDataList": [
                 "但我们只有一张抽奖券……"
             ],
@@ -91,7 +91,7 @@
         },
         {
             "Name": "独白",
-            "Text": "获得了“<itemname>”",
+            "Text": "获得了“<itemname>”。",
             "ChoiceDataList": [],
             "ColorTextInfoList": [
                 "<itemname>"
@@ -214,7 +214,7 @@
         },
         {
             "Name": "独白",
-            "Text": "获得了“<itemname>”",
+            "Text": "获得了“<itemname>”。",
             "ChoiceDataList": [],
             "ColorTextInfoList": [
                 "<itemname>"
@@ -254,13 +254,13 @@
         },
         {
             "Name": "玉藻十字",
-            "Text": "哇──哈哈哈！\n怎么可能会有这种事嘛！\n你才是比这个汉堡排更会装傻嘞。",
+            "Text": "哇──哈哈哈！\n怎么可能会有这种事嘛！\n你才是比这个汉堡排更会装傻咧。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "玉藻十字",
-            "Text": "呼～笑一个害我更饿了。",
+            "Text": "呼～笑完后害我更饿了。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -284,7 +284,7 @@
         },
         {
             "Name": "独白",
-            "Text": "获得了“<itemname>”",
+            "Text": "获得了“<itemname>”。",
             "ChoiceDataList": [],
             "ColorTextInfoList": [
                 "<itemname>"
@@ -352,7 +352,7 @@
         },
         {
             "Name": "独白",
-            "Text": "获得了“<itemname>”",
+            "Text": "获得了“<itemname>”。",
             "ChoiceDataList": [],
             "ColorTextInfoList": [
                 "<itemname>"
@@ -411,7 +411,7 @@
         },
         {
             "Name": "独白",
-            "Text": "获得了“<itemname>”",
+            "Text": "获得了“<itemname>”。",
             "ChoiceDataList": [],
             "ColorTextInfoList": [
                 "<itemname>"
@@ -434,7 +434,7 @@
         },
         {
             "Name": "玉藻十字",
-            "Text": "啊你以为这样哄有用喔！\n我要是抽中别的奖，根本就也不会哭好不好！",
+            "Text": "啊你以为这样哄有用喔！\n我要是抽中别的奖，就不会哭了好不好！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },

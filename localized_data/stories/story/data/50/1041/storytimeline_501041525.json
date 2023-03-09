@@ -59,7 +59,7 @@
         },
         {
             "Name": "樱花进王",
-            "Text": "哦哦，训练员！\n您是来为我加油的吗！？",
+            "Text": "喔喔，训练员！\n您是来为我加油的吗！？",
             "ChoiceDataList": [
                 "不，我正要去拿忘记的东西……"
             ],
@@ -115,70 +115,6 @@
         },
         {
             "Name": "樱花进王",
-            "Text": "『为训练员送达遗失物锦标』、\r\n冠军是――本人！！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青竹回忆",
-            "Text": "呃～～～！！\u3000我输了……！\r\n甚至连背影都没看到……！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "樱花进王",
-            "Text": "不过……训练员，\r\n你还有遗失的物品吧！？",
-            "ChoiceDataList": [
-                "诶？没，没有啊……"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "樱花进王",
-            "Text": "……班长很清楚哦。\r\n你这段时间废寝忘食，\n在专注地制定训练计划。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "樱花进王",
-            "Text": "所以，优秀程度仅次于我的你\r\n也少见地丢了东西。\n不过，你真正忘掉的东西是――",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "樱花进王",
-            "Text": "『让努力的自己休息一下』……！",
-            "ChoiceDataList": [
-                "进王……！"
-            ],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "樱花进王",
-            "Text": "好了，快去吧！\u3000先填饱肚子，\r\n爆进地吃饭吧！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "青竹回忆",
-            "Text": "这就是『班长』……我完败了。\r\n不论是双腿、还是思想的较量。",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "观众们",
-            "Text": "真不愧是干部中的干部……！\r\n太赞啦～～！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "独白",
-            "Text": "那之后，我吃了足以感受到\r\n班长心意的大份炒面……\n肚子和心里都填饱了！",
-            "ChoiceDataList": [],
-            "ColorTextInfoList": []
-        },
-        {
-            "Name": "樱花进王",
             "Text": "成功了成功了──！！\n这下我就是最强干部了！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
@@ -199,8 +135,8 @@
             "Name": "樱花进王",
             "Text": "我边跑边想着“要帮上训练员的忙！”\n就想起了平常的训练！",
             "ChoiceDataList": [
-                "这就是学以致用呢！",
-                "这就是学以致用呢！"
+                "这就叫学以致用！",
+                "这就叫学以致用！"
             ],
             "ColorTextInfoList": []
         },
@@ -218,13 +154,13 @@
         },
         {
             "Name": "观众们",
-            "Text": "真是精彩的较量！谢谢你们带给大家感动！\n恭喜你～～！",
+            "Text": "真是精彩的较劲！谢谢你们带给大家感动！\n恭喜你～～！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "独白",
-            "Text": "于是获胜的樱花进王\n就这样接受着大家的祝福与喝彩！",
+            "Name": "",
+            "Text": "于是获胜的樱花进王\n就这样接受着大家的祝福与喝采！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -273,8 +209,8 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "独白",
-            "Text": "于是樱花进王的热血志气\n让体育馆里的人纷纷为她献上掌声与喝彩。",
+            "Name": "",
+            "Text": "于是樱花进王的热血志气\n让体育馆里的人纷纷为她献上掌声与喝采。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         }

@@ -9,13 +9,13 @@
         },
         {
             "Name": "独白",
-            "Text": "我带着在训练结束前一刻受伤的\n曼城茶座来到保健室，\n但……",
+            "Text": "那天曼城茶座在训练结束前一刻受伤，\n于是我带着她来到保健室。\n但……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "……抱歉。\n都是因为我不小心……给你惹麻烦了……",
+            "Text": "……抱歉。\n都是因为我不小心……给你添麻烦了……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -30,25 +30,25 @@
         },
         {
             "Name": "曼城茶座",
-            "Text": "没事……就是人有点多…………",
+            "Text": "没事……只是人有点多…………",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "虽然她这么说，\n但保健室里空荡荡的……",
+            "Text": "虽然她这么说，\n但我看见的保健室里空荡荡的……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "……那个……我没事，\n还是回去继续训练吧……",
+            "Text": "……那个……我不要紧，\n还是回去继续训练吧……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "……毕竟也不是受了什么大伤……",
+            "Text": "……何况伤势\n也没有那么严重……",
             "ChoiceDataList": [
                 "我不能让你勉强自己",
                 "……我知道了"
@@ -63,13 +63,13 @@
         },
         {
             "Name": "曼城茶座",
-            "Text": "……但现在病床上已经有很多人在休息……",
+            "Text": "……可是，现在病床上\n已经有很多人在休息……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "病床上并没有人，\n我想应该是有什么只有她能看见的东西吧……",
+            "Text": "病床上并没有人，我想应该是\n只有她能看见的某人正在休息吧……",
             "ChoiceDataList": [
                 "床位空出来之前先坐着休息吧"
             ],
@@ -77,19 +77,19 @@
         },
         {
             "Name": "曼城茶座",
-            "Text": "……是……\n这样应该就没有影响了……",
+            "Text": "……是……\n这样的话，应该不会有影响……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "……啊，对了。\n我有准备训练完要喝的咖啡呢……",
+            "Text": "……啊，对了。\n我准备了训练完要喝的咖啡……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "……我去拿一下……",
+            "Text": "……我去拿来……",
             "ChoiceDataList": [
                 "我去拿吧",
                 "我去拿吧"
@@ -104,13 +104,13 @@
         },
         {
             "Name": "独白",
-            "Text": "后来，我和她一起喝咖啡，\n在床位空出来之后，\n让她安静地躺好休息……",
+            "Text": "后来，我和她一起喝咖啡，\n并在床位空出来之后，\n让她安静地躺好休息……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "……你能理解……\n我很感激……那么……",
+            "Text": "……你能理解……真的很感谢……\n那么……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -130,7 +130,7 @@
         },
         {
             "Name": "曼城茶座",
-            "Text": "……抱歉，我的伤口其实很痛，\n还是先暂时不训练了……",
+            "Text": "……抱歉，我还是觉得伤口有点痛，\n今天先暂时不训练了……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -142,7 +142,7 @@
         },
         {
             "Name": "曼城茶座",
-            "Text": "……趁你离开的时候…………\n我会想办法处理好的………",
+            "Text": "……在你离开的这段时间…………\n我会、想办法处理好的………",
             "ChoiceDataList": [
                 "可是……"
             ],
@@ -162,7 +162,7 @@
         },
         {
             "Name": "独白",
-            "Text": "（啪）",
+            "Text": "（噗滋）",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -190,20 +190,20 @@
             "Name": "曼城茶座",
             "Text": "……看来是对我们的训练\n感到很好奇的样子……",
             "ChoiceDataList": [
-                "那要好好表现才行",
+                "那要好好表现才行呢",
                 "那要好好表现才行呢"
             ],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "……是，要比平常更努力。",
+            "Text": "……是，我会比平常更努力的。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "训练结束后，\n我去观察她的伤势，\n发现伤口竟神奇地恢复得完好如初……",
+            "Text": "训练结束后，\n我去观察她的伤势，\n发现伤口竟神奇地完全痊愈了……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },

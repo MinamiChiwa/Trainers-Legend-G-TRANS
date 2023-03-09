@@ -9,22 +9,22 @@
         },
         {
             "Name": "曼城茶座",
-            "Text": "我突然想到……\n这附近到了晚上的时候会有“那个”……",
+            "Text": "我突然想到……\n这附近，到了晚上就会出现“那个”……",
             "ChoiceDataList": [
-                "……是喔？",
+                "……是吗？",
                 "……是吗？"
             ],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "是……\n趁还没刺激到“那个”的时候赶快离开吧……",
+            "Text": "是……趁还没刺激到“那个”，\n我们赶快离开吧……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "",
-            "Text": "我们急忙要离开那里。\n这时──",
+            "Text": "于是我们急忙要离开那里。\n这时──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -48,7 +48,7 @@
         },
         {
             "Name": "好歌剧",
-            "Text": "那么就赶快开始吧！\n开始这场来自于“霸王”的\n“霸王”级只为“霸王”存在的歌剧！",
+            "Text": "那么就赶快开始吧！\n──开始这场由“霸王”带来的，\n专属“霸王”并只为“霸王”存在的歌剧！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -74,7 +74,7 @@
         },
         {
             "Name": "好歌剧",
-            "Text": "哎呀……？这不是曼城茶座嘛。\n难道你是来观摩我排练歌剧的？",
+            "Text": "哎呀……？这不是咖啡吗。\n难道你是来观摩我排练歌剧的？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -89,7 +89,7 @@
             "Text": "要是坦白说的话，\n说不定会吓到好歌剧。\n该怎么办才好呢……？",
             "ChoiceDataList": [
                 "这时候还是老实说吧",
-                "不要吓到她，婉转一点吧"
+                "避免吓到她，还是婉转一点吧"
             ],
             "ColorTextInfoList": []
         },
@@ -101,19 +101,19 @@
         },
         {
             "Name": "曼城茶座",
-            "Text": "好歌剧，\n现在你的四周有很多的“那个”……",
+            "Text": "好歌剧，\n现在你的四周有很多“那个”……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "就像是一群看不见的意志──\n不太好的存在……\n应该要立刻离开这里才好……",
+            "Text": "一群看不见，类似意念般的东西──\n是种、不太好的存在……\n现在应该立刻离开这里比较好……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "",
-            "Text": "平时乐观开朗的好歌剧露出了惊讶的表情，\n但──",
+            "Text": "即使是平时乐观开朗的好歌剧\n此时也露出了惊讶的表情。但──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -125,13 +125,13 @@
         },
         {
             "Name": "好歌剧",
-            "Text": "那也就代表，\n聚集了很多被我魅力吸引的观众咯！",
+            "Text": "意思是，现在聚集了很多\n被我魅力吸引的观众啰！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "好歌剧",
-            "Text": "那我就来献唱吧！\n为了虽然看不见却确实存在的你们！\n来吧，你们也来赞颂“霸王”吧！",
+            "Text": "那我立刻开始献唱吧！\n为了看不见却确实存在的各位！\n来，你们也一道赞颂我这位“霸王”吧！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -143,25 +143,25 @@
         },
         {
             "Name": "曼城茶座",
-            "Text": "这……！？\n“他们”很满意……！？",
+            "Text": "这……！？\n“他们”、觉得很高兴……！？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "好歌剧",
-            "Text": "无条件欢迎任何观众──\n这才是“霸王”！\n有没有实体根本不重要！",
+            "Text": "无条件欢迎任何观众──\n才足以称为“霸王”！\n有无实体，不过是微不足道的小事！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "？？？",
-            "Text": "（赞颂“霸王”──！！\n“霸王”……！！“霸王”……！！）",
+            "Text": "（赞颂“霸王”吧──！！\n“霸王”……！！“霸王”……！！）",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "啊啊……声音越来越大了……！\n像汹涌的河水一直向这里冲过来──",
+            "Text": "啊啊……声音、越来越大了……！\n像汹涌的河水一样不断逼近──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -181,25 +181,25 @@
         },
         {
             "Name": "好歌剧",
-            "Text": "哎呀，曼城茶座也变成我的粉丝了吗！？\n非常好！",
+            "Text": "哎呀，咖啡也变成我的粉丝了吗！？\n实在太棒了！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "我没有办法抵抗“他们”的热情……！\n连我也忍不住想要跟着一起叫──！",
+            "Text": "我没有办法、抵抗“他们”的热情……！\n连我也、忍不住想要跟着一起呼喊──！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "赞叹……！\n“‘霸王’万岁”……！\n“‘霸王’万岁”……！",
+            "Text": "啊啊……！\n“‘霸王’万岁”……！\n“‘霸王’万岁”……！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "",
-            "Text": "支持好歌剧的氛围应该非同小可吧，\n直到离开现场之前，\n曼城茶座都不停地喊着“霸王”……",
+            "Text": "当时的热血氛围想必十分惊人吧。\n直到我们离开现场，\n曼城茶座都不停地喊着“霸王”……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -211,27 +211,27 @@
         },
         {
             "Name": "曼城茶座",
-            "Text": "……好歌剧，就快要到门禁时间了。\n你要不要和我们一起回去？",
+            "Text": "……好歌剧，快到门禁时间了。\n你要不要和我们一起回去？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "好歌剧",
-            "Text": "哎哟……已经这么晚啦。\n好吧，我们就一起回去吧！",
+            "Text": "哎呀……已经这么晚了吗。\n好吧，我们就一起回去吧！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "",
-            "Text": "于是我们和好歌剧，\n决定三个人一起回去，但──",
+            "Text": "于是我们便决定和好歌剧\n三个人一起回去。但──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "不好……\n跟来了……",
+            "Text": "这下不好……\n跟来了……",
             "ChoiceDataList": [
-                "真的啊……？",
+                "真的吗……？",
                 "真的吗……？"
             ],
             "ColorTextInfoList": []
@@ -244,25 +244,25 @@
         },
         {
             "Name": "曼城茶座",
-            "Text": "如果好歌剧回头的话，\n恐怕“那些”就要永远地──",
+            "Text": "如果好歌剧现在回头的话，\n恐怕“他们”将会永远地──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "好歌剧",
-            "Text": "是说，\n曼城茶座对刚刚那首歌有什么感想──",
+            "Text": "是说，咖啡你能告诉我\n对刚才那首歌有什么感想──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "不行……\n不可以看这里……！",
+            "Text": "不行……\n不可以、看这边……！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "",
-            "Text": "（嘎啊啊啊啊……！）",
+            "Text": "（呜啊啊啊啊……！）",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -274,19 +274,19 @@
         },
         {
             "Name": "好歌剧",
-            "Text": "曼城茶座？\n那边是有什么东西吗！？",
+            "Text": "咖啡？\n那边是有什么东西吗！？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "没事……\n就请你直直看着前方吧……！",
+            "Text": "没事……\n就请你直视着前方就好……！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "好歌剧",
-            "Text": "哈──哈哈！虽然不知道是怎么一回事，\n但能看见曼城茶座华丽的姿势，\n也算是非常有趣！",
+            "Text": "哈──哈哈！虽然不知道是怎么回事，\n但能看见咖啡摆出华丽的姿势，\n也算是非常有趣！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -298,7 +298,7 @@
         },
         {
             "Name": "",
-            "Text": "曼城茶座费尽千辛万苦，\n总算是顺利守住了好歌剧的平安……！",
+            "Text": "曼城茶座费尽千辛万苦，\n总算顺利守住了好歌剧的平安……！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         }

@@ -9,7 +9,7 @@
         },
         {
             "Name": "赛马娘A",
-            "Text": "呼、呼……！大家都辛苦了！\n完成了一场很棒的比赛呢！",
+            "Text": "哈、呼……！大家都辛苦了！\n是场很精彩的比赛呢！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -21,7 +21,7 @@
         },
         {
             "Name": "赛马娘A",
-            "Text": "呃，咦……根本没在听？\n那个……",
+            "Text": "呃，咦……没在听？\n那个……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -33,7 +33,7 @@
         },
         {
             "Name": "",
-            "Text": "曼城茶座背对着其他的赛马娘，\n直直地望着远方。",
+            "Text": "曼城茶座背对着其他赛马娘，\n默默地望着远方。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -42,51 +42,51 @@
             "Text": "啊，训练员……",
             "ChoiceDataList": [
                 "比赛结果怎么样？",
-                "比赛结果怎么样呢？"
+                "比赛结果怎么样？"
             ],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "……是“朋友”赢了。\n她一个人跑走，\n冲过终点后都没停下……跑得越来越远……",
+            "Text": "……是“朋友”赢了。\n她独自一个人超前，冲过了终点……\n跑得越来越远……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "看起来好像很开心的样子。\n也许是因为能在宽广的地方奔跑吧，但……",
+            "Text": "她看起来很开心的样子，\n应该是因为能在宽广的地方奔跑吧。\n但同时……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "也因此像是解开了什么束缚般跑得非常快。\n差距……也是有史以来最大的一次……",
+            "Text": "像是解开了什么束缚般，跑得非常快。\n差距……也是至今最大的一次……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "……我想追着她。\n想要能追上她……我到底该怎么做……",
+            "Text": "……我想追着她。\n但要追上她……我该怎么做……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "",
-            "Text": "从曼城茶座的叙述中判断，\n“朋友”和她之间的跑速差距应该非常大。",
+            "Text": "从曼城茶座的叙述来看，\n“朋友”和她之间跑速的差距似乎相当大。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "",
-            "Text": "所以，应该也不是突然定一个策略\n就能追上。既然如此──",
+            "Text": "既然如此，就算仓促地拟定计划，\n大概也很难追上。这样的话──",
             "ChoiceDataList": [
-                "还是先不定下赛程，专心打好基础吧"
+                "暂且不定下赛程，一步步强化自己吧"
             ],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "基础……\n听起来就要花很长的时间……",
+            "Text": "一步步强化……\n意思是要花很长的时间……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -98,46 +98,46 @@
         },
         {
             "Name": "曼城茶座",
-            "Text": "……知道了。\n那就这么决定……",
+            "Text": "……我知道了。\n那么，就这样吧……",
             "ChoiceDataList": [
-                "你同意这么做？",
-                "你同意这么做吗？"
+                "你愿意答应吗？",
+                "你愿意答应吗？"
             ],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "……是，也没有办法……\n如果真的没有能立刻追上她的方法……",
+            "Text": "……是。也没有办法……\n如果真的不能立刻追上……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "曼城茶座",
-            "Text": "而且，或许这样也比较适合……\n因为……我的身体不太好……",
+            "Text": "而且，或许这样比较适合……\n毕竟……我的体质称不上很健壮……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "",
-            "Text": "我点头并站到她的身边。\n立誓要和她一起追逐她的目标。",
+            "Text": "我点点头，并站到她身边。\n同时发誓要与她一起追逐相同目标。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "赛马娘A",
-            "Text": "我说，那两个人是不是怪怪的啊……？\n一直看着远方耶。",
+            "Text": "我说，那两个人是不是怪怪的啊……？\n一直盯着远方耶。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "赛马娘B",
-            "Text": "可能……两个都是怪人吧。\n还是不要靠他们太近……",
+            "Text": "可能他们两个……都是怪人吧。\n还是不要靠太近比较好……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "",
-            "Text": "我决定慢慢去了解只有她了解的世界。\n……一步一步努力创下好成绩。",
+            "Text": "我决定试着去了解只有她了解的世界……\n并且一步一步地，拿下好成绩。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         }

@@ -9,7 +9,7 @@
         },
         {
             "Name": "独白",
-            "Text": "真机伶找我陪她出门摄影，\n我在约定的地点等待时──",
+            "Text": "真机伶找我陪她出门摄影。\n当我在约定的地点等待时──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -23,7 +23,7 @@
             "Name": "真机伶",
             "Text": "……呼。\n对不起，我迟到了！",
             "ChoiceDataList": [
-                "没关系"
+                "没关系喔"
             ],
             "ColorTextInfoList": []
         },
@@ -35,7 +35,7 @@
         },
         {
             "Name": "独白",
-            "Text": "真机伶一面对镜头，\n就展现出跟平常一样“可爱”的笑容。",
+            "Text": "一面对镜头，\n真机伶就展现出\n跟平常一样的“可爱”笑容。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -47,13 +47,13 @@
         },
         {
             "Name": "女大学生",
-            "Text": "我是来向你宣战的。\n虽然现在还追不上你，\n但我的按赞数总有一天会赢过你！",
+            "Text": "我是来向你宣战的。\n虽然现在还追不上你，\n但总有一天，我的按赞数一定会赢过你的！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "女大学生",
-            "Text": "等着瞧吧。我一定会用你没有的\n“大人的魅力”赢过你。",
+            "Text": "等着瞧吧。我一定会用你所没有的\n“大人的魅力”来赢过你。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -65,21 +65,21 @@
         },
         {
             "Name": "雪之美人",
-            "Text": "呼啊～！真机伶好棒～！\n你优雅的身影让我看得入迷了！",
+            "Text": "呼啊～！真机伶好漂亮～！\n真是优雅到让人看直了双眼呗！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "真机伶",
-            "Text": "幸好有问城市\n展现“大人的魅力”的方法♪",
+            "Text": "关于展现“大人的魅力”的方法！\n果然问城市就对了呢♪",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "……因为发生了这些事，\n她应该正在努力寻找展现\n“大人的魅力”的方法……",
+            "Text": "……因为发生了这些事，\n她应该正在努力寻找展现\n“大人的魅力”的方法，但是……",
             "ChoiceDataList": [
-                "你放弃寻找“大人的魅力”了？",
+                "你放弃寻找“大人的魅力”了吗？",
                 "你放弃寻找“大人的魅力”了吗？"
             ],
             "ColorTextInfoList": []
@@ -92,51 +92,51 @@
         },
         {
             "Name": "独白",
-            "Text": "我不认为她已经放弃了……\n就在我犹豫该怎么回答她时──",
+            "Text": "虽然我不认为她已经放弃了，但被这么一问……\n就在我犹豫该怎么回答时──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "真机伶",
-            "Text": "呵呵……绝对不能把视线从\n真机伶身上移开喔。",
+            "Text": "呵呵……绝～对不能把视线从\n真机伶身上移开喔？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "我按照真机伶的指示，紧盯着她拍摄。\n接着，在某个不经意的瞬间──\n她在笑容间穿插了一个望向远方的表情。",
+            "Text": "我照真机伶的话，将目光集中在她身上持续拍摄。\n然后，就在某个不经意的瞬间──\n在笑容的空档，真机伶突然望向远方。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "我从来没看过她的这种表情。",
+            "Text": "这样的表情，我从未看过。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "原本一直看向这边的视线，\n仿佛突然被其他事物夺走了，\n就在我忍不住想向她搭话时──",
+            "Text": "就在我因为原本一直看向自己的双眸，\n突然像被其他事物夺走一般，\n忍不住想向她搭话时──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "真机伶再次看向这边，\n露出微笑。",
+            "Text": "真机伶再次看向这边，\n露出了轻巧的微笑。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "真机伶",
-            "Text": "呵呵。训练员，怎么了吗♪",
+            "Text": "呵呵。怎么了吗？训练员♪",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "真机伶",
-            "Text": "该不会……\n是跟平常有点不一样的真机伶，\n让你心跳加速了？",
+            "Text": "该不会～……\n是对和平常有～点不一样的真机伶，\n心跳加速了？",
             "ChoiceDataList": [
-                "呃……"
+                "那个……"
             ],
             "ColorTextInfoList": []
         },
@@ -162,7 +162,7 @@
         },
         {
             "Name": "真机伶",
-            "Text": "其实啊，真机伶思考过了。\n如果改变得太多，\n那就不再是真机伶了。",
+            "Text": "其实啊，真机伶想过了。\n如果整～个风格都改变的话，\n那就不再是真机伶了。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -174,43 +174,43 @@
         },
         {
             "Name": "真机伶",
-            "Text": "所以，如果能在真机伶的“可爱”中\n展现“大人的魅力”，\n这样应该就行了！",
+            "Text": "所以，如果大家能从真机伶的“可爱”中\n发现“大人的魅力”，\n那样应该比较好吧！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "真机伶",
-            "Text": "……训练员♪\n你能够理解吗？",
+            "Text": "你能理解吗？\n……训练员♪",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "真机伶试探似的说完后，\n露出天真无邪的微笑。\n我只能点头回应……",
+            "Text": "试探性的话语，配上天真无邪的微笑。\n看着那样的真机伶，\n我除了点头以外，无法做出其他反应……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "这时候拍的照片，\n在几天后上传到UG，\n除了获得许多“按赞数”以外──",
+            "Text": "几天后，当时拍的照片，\n在上传到UG后，\n获得了许多“按赞数”，以及──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "“真机伶展现出了新的魅力……！\n但我不会认输的！”之前那位大姐姐\n传了这样的私讯给真机伶呢。",
+            "Text": "“真机伶展现出了新的魅力……！\n但我不会认输的！”\n这条由之前那位小姐传来的私讯。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "真机伶",
-            "Text": "真机伶希望你能够直说……\n是不是还有什么地方能够改进？",
+            "Text": "真机伶希望你能够直说……\n是不是果然还有什么地方需要改进呢？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "黄金城市",
-            "Text": "我觉得感觉不错，\n还差一点就完美了吧？",
+            "Text": "我觉得不错啊，\n应该就差一点点而已吧？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -222,13 +222,13 @@
         },
         {
             "Name": "黄金城市",
-            "Text": "我碰巧有个摄影工作在附近。\n不过真机伶似乎已经确实找到了\n自己的“大人的魅力”呢。",
+            "Text": "我刚好在附近进行拍摄，碰巧看到了。\n不过真机伶似乎已经确实找到了\n属于自己的“大人的魅力”呢。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "真机伶",
-            "Text": "嘿嘿，\n城市看得出来吗？",
+            "Text": "嘿嘿，\n城市看出来了吗？",
             "ChoiceDataList": [
                 "什么意思？"
             ],
@@ -242,7 +242,7 @@
         },
         {
             "Name": "黄金城市",
-            "Text": "因为真机伶最大的特征，\n应该是“可爱”吧。",
+            "Text": "毕竟“可爱”\n才是真机伶的特色吧？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -254,13 +254,13 @@
         },
         {
             "Name": "黄金城市",
-            "Text": "所以应该要在展现“可爱”的同时，\n稍微穿插一些平常不会做的表情和动作……",
+            "Text": "所以除了“可爱”以外，\n也要不经意地穿插一些平常很少展现出的\n表情和动作……给其他人看这样。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "黄金城市",
-            "Text": "这就是属于真机伶的“大人的魅力”。\n……没错吧？",
+            "Text": "那就是属于真机伶的“大人的魅力”。\n……对吧？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -272,19 +272,19 @@
         },
         {
             "Name": "真机伶",
-            "Text": "虽然现在还在准备阶段，\n但真机伶接下来会每天一点一点地\n提升“大人的魅力”──",
+            "Text": "虽然目前还在准备阶段，\n但真机伶接下来每天都会一点一点地\n提升“大人的魅力”──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "真机伶",
-            "Text": "真机伶想让大家更加\n迷恋上真机伶♪",
+            "Text": "让大家更～加\n迷恋真机伶♪",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "真机伶说完后，\n露出一如往常的可爱笑容。",
+            "Text": "真机伶说完后，\n露出了一如往常的可爱笑容。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         }
