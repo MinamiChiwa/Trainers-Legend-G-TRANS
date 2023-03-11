@@ -44,11 +44,11 @@
 | 比赛译名                           | 完全翻译√      | 南千和、Chihyuen                                             |
 | 比赛实况`race_jikkyo_message.json` | 完全翻译√      | 南千和、毫毛、Chihyuen                                       |
 | 比赛解说`race_jikkyo_comment.json` | 完全翻译√      | 南千和、毫毛、Chihyuen                                       |
-| 单格漫画图片                        | 完全翻译√      | 南千和（译）、海带鸡Poi（嵌字）、虚拟狗头人（修图）、狸（修图） |
-| 单格漫画标题                        | 完全翻译√      | *-CLCL-（Bilibili）、南千和                                  |
+| 单格漫画图片                        | 完全翻译√      | 南千和、Chihyuen（译）、海带鸡Poi（嵌字）、虚拟狗头人（修图）、狸（修图） |
+| 单格漫画标题                        | 完全翻译√      | *-CLCL-（Bilibili）、南千和、Chihyuen                        |
 | 秘密                               | 完全翻译√      | 南千和、Chihyuen、*双枪狙击twoguns（Bilibili）                |
-| 技能名及描述                       | 翻译中（长期） | [B站赛马娘中文WIKI](https://wiki.biligame.com/umamusume/%E6%8A%80%E8%83%BD%E9%80%9F%E6%9F%A5%E8%A1%A8)、*伊洛伊白（Bilibili）、 *双枪狙击twoguns（Bilibili）、 *シキ_（Bilibili）、南千和 |
-| 角色档案                           | 翻译中（长期） | Linxesu、[萌娘百科](https://zh.moegirl.org.cn/%E8%B5%9B%E9%A9%AC%E5%A8%98_Pretty_Derby/%E8%AF%91%E5%90%8D%E5%AF%B9%E7%85%A7%E8%A1%A8)、*伊洛伊白（Bilibili）、[B站赛马娘中文WIKI](https://wiki.biligame.com/umamusume/%E6%8A%80%E8%83%BD%E9%80%9F%E6%9F%A5%E8%A1%A8) |
+| 技能名及描述                       | 翻译中（长期） | [B站赛马娘中文WIKI](https://wiki.biligame.com/umamusume/%E6%8A%80%E8%83%BD%E9%80%9F%E6%9F%A5%E8%A1%A8)、*伊洛伊白（Bilibili）、 *双枪狙击twoguns（Bilibili）、 *シキ_（Bilibili）、南千和、毫毛 |
+| 角色档案                           | 翻译中（长期） | Linxesu、[萌娘百科](https://zh.moegirl.org.cn/%E8%B5%9B%E9%A9%AC%E5%A8%98_Pretty_Derby/%E8%AF%91%E5%90%8D%E5%AF%B9%E7%85%A7%E8%A1%A8)、*伊洛伊白（Bilibili）、[B站赛马娘中文WIKI](https://wiki.biligame.com/umamusume/%E6%8A%80%E8%83%BD%E9%80%9F%E6%9F%A5%E8%A1%A8)、Chihyuen |
 | 闪耀期刊                           | 翻译中（长期） | Komoe                                                         |
 | 支援卡小故事                       | 翻译中（长期） | 南千和、Komoe、Chihyuen                                        |
 | 主页日常对话                       | 翻译中（长期） | Komoe                                                         |
@@ -84,7 +84,7 @@
 | 1051 | 笑顔の宝物 -Beyond The Future!-   | 完全翻译√ | *凉月crella（Bilibili）、毫毛 |
 | 1053 | Gaze on Me!                      | 完全翻译√（待改进） | 南千和 |
 | 1054 | Ms. VICTORIA                     | 完全翻译√ | 毫毛                         |
-| 1058 | Everlasting BEATS                |          |                              |
+| 1058 | Everlasting BEATS                | 完全翻译√ | *Kitasanゞ卫ちゃ（Bilibili） |
 | 1059 | Overrunner!                      | 完全翻译√ | *Kitasanゞ卫ちゃ（Bilibili） |
 | 1060 | DRAMATIC JOURNEY                 |          |                              |
 
@@ -218,7 +218,7 @@
 | 107801 | [Fluttertail Spirit]         | [Fluttertail Spirit]    | ヤマニンゼファー   | 也文摄辉                        |
 | 1083   |                              |                         | シンボリクリスエス | 吉兆                            |
 | 1084   |                              |                         | タニノギムレット   | 谷野美酒                        |
-| 1085   |                              |                         | ダイイチルビー     | 第一红宝石                      |
+| 108501 | [華麗なる紅玉]                | [华丽的红玉]            | ダイイチルビー     | 第一红宝石                      |
 | 1086   |                              |                         | メジロラモーヌ     | 目白高峰                        |
 | 1088   |                              |                         | サトノクラウン     | 里见皇冠                        |
 | 1089   |                              |                         | シュヴァルグラン   | 高尚骏逸                        |
@@ -375,7 +375,7 @@
 | 107801 | 也文摄辉     |                  |                                                      |
 | 1083   | 吉兆         |                  |                                                      |
 | 1084   | 谷野美酒     |                  |                                                      |
-| 1085   | 第一红宝石   |                  |                                                      |
+| 108501 | 第一红宝石   |                  |                                                      |
 | 1086   | 目白高峰     |                  |                                                      |
 | 108701 | 真弓快车     |                  |                                                      |
 | 1088   | 里见皇冠     |                  |                                                      |
@@ -739,7 +739,7 @@
 | 107801 | 也文摄辉   |           |       |
 | 1083   | 吉兆       |           |       |
 | 1084   | 谷野美酒   |           |       |
-| 1085   | 第一红宝石 |           |       |
+| 108501 | 第一红宝石 |           |       |
 | 1086   | 目白高峰   |           |       |
 | 108701 | 真弓快车   |           |       |
 | 1088   | 里见皇冠   |           |       |
