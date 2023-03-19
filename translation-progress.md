@@ -86,7 +86,7 @@
 | 1054 | Ms. VICTORIA                     | 完全翻译√ | 毫毛                         |
 | 1058 | Everlasting BEATS                | 完全翻译√ | *Kitasanゞ卫ちゃ（Bilibili） |
 | 1059 | Overrunner!                      | 完全翻译√ | *Kitasanゞ卫ちゃ（Bilibili） |
-| 1060 | DRAMATIC JOURNEY                 |          |                              |
+| 1060 | DRAMATIC JOURNEY                 | 完全翻译√ | 毫毛                         |
 
 
 ## 角色及皮肤名
@@ -317,7 +317,7 @@
 | 103402 | 稻荷一       |                  |                                                      |
 | 103501 | 胜利奖券     | 完全翻译√         | Komoe、Chihyuen                                      |
 | 103502 | 胜利奖券     | 绝大部分          | Komoe、Chihyuen                                      |
-| 103601 | 空中神宫     |                  |                                                      |
+| 103601 | 空中神宫     | 完全翻译√         | Linxesu、小林家的馬娘（Bilibili）                     |
 | 103701 | 荣进闪耀     | Komoe            | Komoe                                                |
 | 103702 | 荣进闪耀     | Komoe            | Komoe                                                |
 | 103801 | 真机伶       | 完全翻译√         | Komoe、Chihyuen                                      |
