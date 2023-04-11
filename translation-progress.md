@@ -38,7 +38,7 @@
 | ---------------------------------- | -------------- | ------------------------------------------------------------ |
 | 按钮、设置及各种提示文本           | 翻译中（长期） | 南千和、Chihyuen                                             |
 | 任务                               | 翻译中（长期） | 南千和、Chihyuen、毫毛                                       |
-| 角色名、皮肤名、支援卡名           | 翻译中（长期） | [B站赛马娘中文WIKI](https://wiki.biligame.com/umamusume/%E6%8A%80%E8%83%BD%E9%80%9F%E6%9F%A5%E8%A1%A8)、[萌娘百科](https://zh.moegirl.org.cn/%E8%B5%9B%E9%A9%AC%E5%A8%98_Pretty_Derby/%E8%AF%91%E5%90%8D%E5%AF%B9%E7%85%A7%E8%A1%A8)、南千和、Chihyuen、毫毛 |
+| 角色名、皮肤名、支援卡名           | 翻译中（长期） | [B站赛马娘中文WIKI](https://wiki.biligame.com/umamusume)、[萌娘百科](https://zh.moegirl.org.cn/%E8%B5%9B%E9%A9%AC%E5%A8%98_Pretty_Derby/%E8%AF%91%E5%90%8D%E5%AF%B9%E7%85%A7%E8%A1%A8)、南千和、Chihyuen、毫毛 |
 | 物品名                             | 翻译中（长期） | 南千和、Chihyuen、毫毛                                       |
 | 称号                               | 翻译中（长期） | 南千和、Chihyuen                                             |
 | 比赛译名                           | 完全翻译√      | 南千和、Chihyuen                                             |
@@ -48,7 +48,7 @@
 | 单格漫画标题                        | 完全翻译√      | *-CLCL-（Bilibili）、南千和、Chihyuen                        |
 | 秘密                               | 完全翻译√      | 南千和、Chihyuen、*双枪狙击twoguns（Bilibili）                |
 | 技能名及描述                       | 翻译中（长期） | [B站赛马娘中文WIKI](https://wiki.biligame.com/umamusume/%E6%8A%80%E8%83%BD%E9%80%9F%E6%9F%A5%E8%A1%A8)、*伊洛伊白（Bilibili）、 *双枪狙击twoguns（Bilibili）、 *シキ_（Bilibili）、南千和、毫毛 |
-| 角色档案                           | 翻译中（长期） | Linxesu、[萌娘百科](https://zh.moegirl.org.cn/%E8%B5%9B%E9%A9%AC%E5%A8%98_Pretty_Derby/%E8%AF%91%E5%90%8D%E5%AF%B9%E7%85%A7%E8%A1%A8)、*伊洛伊白（Bilibili）、[B站赛马娘中文WIKI](https://wiki.biligame.com/umamusume/%E6%8A%80%E8%83%BD%E9%80%9F%E6%9F%A5%E8%A1%A8)、Chihyuen |
+| 角色档案                           | 翻译中（长期） | Linxesu、[萌娘百科](https://zh.moegirl.org.cn/%E8%B5%9B%E9%A9%AC%E5%A8%98_Pretty_Derby/%E8%AF%91%E5%90%8D%E5%AF%B9%E7%85%A7%E8%A1%A8)、*伊洛伊白（Bilibili）、[B站赛马娘中文WIKI](https://wiki.biligame.com/umamusume)、Chihyuen |
 | 闪耀期刊                           | 翻译中（长期） | Komoe                                                         |
 | 支援卡小故事                       | 翻译中（长期） | 南千和、Komoe、Chihyuen、Linxesu                               |
 | 主页日常对话                       | 翻译中（长期） | Komoe                                                         |
