@@ -1,0 +1,45 @@
+{
+  "Title": "クレーンゲーム失敗……",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "あぅ……。",
+      "ChoiceDataList": [
+        "ごめん……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "いえ、トレーナーさんのおかげで\nここまで入手困難なのだとわかりましたので。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "……マーちゃん人形、\n北極で販売するというのはどうでしょう？",
+      "ChoiceDataList": [
+        "――え、なんで？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "入手困難だと、手に入れたいという気持ちが\n大きくなるみたいなので。\nこのアイディア、温めておきましょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "残念な結果に終わった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

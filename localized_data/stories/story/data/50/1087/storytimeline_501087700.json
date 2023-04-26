@@ -1,0 +1,50 @@
+{
+  "Title": "寝不足で……",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "ふわぁ……はあぁ～。",
+      "ChoiceDataList": [
+        "なんだか眠そうだな？",
+        "なんだか眠そうだね？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "トレーナーさん……。\nそうなのです、マーちゃんは睡眠不足です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "『スパイ万年筆』ってご存じですか。\nしばらく経つと書いた文字が消えるんです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "そんな楽しいスパイグッズなのですが、\nうっかりその万年筆で宿題をしてしまい……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "がんばって直していたら……\n窓の外が明るく――ふわぁ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "どうやらアストンマーチャンは\nよく休めなかったらしい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
