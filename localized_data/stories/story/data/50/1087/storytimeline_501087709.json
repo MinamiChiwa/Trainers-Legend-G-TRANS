@@ -1,0 +1,62 @@
+{
+  "Title": "レース入着",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "……あと一歩、届きませんでした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "掲示板には届きましたが……\nマーちゃんは、満足していられません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "いえ、満足してはいけないのです。\n次こそ、絶対に1着を……。",
+      "ChoiceDataList": [
+        "今日のレースも悪くなかった",
+        "有言実行を期待しているよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "ありがとうです。\nたしかに、少しは注目してもらえました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "でも、そこそこの結果では、\nみんなの記憶に残りません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "ウルトラスーパーマスコットになるため。\nもっともっと注目してもらわないと……です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "ふんす。任せてください。みんなが\n一生忘れられない走りをしてみせます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "さっそくトレーニングに行くのです。\n次のレースの主役は、マーちゃんですので。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

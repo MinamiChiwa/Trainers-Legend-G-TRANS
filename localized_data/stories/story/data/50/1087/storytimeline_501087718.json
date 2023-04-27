@@ -1,0 +1,49 @@
+{
+  "Title": "リフレッシュ完了",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "じぃ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "休み明けのアストンマーチャンに、\nなぜか顔をのぞき込まれている……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "お休みの間に、トレーナーさんが\nマーちゃんを忘れてないか確認してます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "トレーナーさんのレンズに、\nマーちゃんはちゃんと映ってますか？",
+      "ChoiceDataList": [
+        "くっきり、はっきり！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "よかったです。今日からまたがんばる\nマーちゃんを、見逃さないでくださいね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "元気な様子で言うアストンマーチャン。\nどうやらよく休めたようだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

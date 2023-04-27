@@ -1,0 +1,508 @@
+{
+  "Title": "福引チャンス！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "アストンマーチャンと出かけた帰り道。\n商店街の一角がやけににぎわっていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "む、福引ですか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "さあさ、新春・大福引祭り開催中だよ～！\n特賞はなんと『温泉旅行券』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "温泉旅行券"
+      ]
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "1等は『特上にんじんハンバーグ』\n2等は『にんじん山盛り』\n3等は『にんじん1本』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "さあさ、楽しい楽しい福引だよ！\nどなたでもどうぞ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "手に入れてきます。",
+      "ChoiceDataList": [
+        "……うん？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "福引券です。",
+      "ChoiceDataList": [
+        "やりたいのか",
+        "やりたいの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "もちろんです。\n『温泉旅行券』とはつまり、です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "ピカピカの旅館、お食事、温泉。\n枕投げに、ガールズトーク。\nそう、思い出の宝箱です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "やらないでいられますか？\n……いいえ、いられません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "アストンマーチャンとともに、\n急いで福引券を手に入れ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "ゆきますっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "アストンマーチャンが勇んで\n抽選器のレバーを回した！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "その結果は――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "なんとっ！\u3000おめでとうございまぁぁぁす！！\n特賞『温泉旅行券』、出ましたぁ～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "…………わあっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "わっ、すごいですね。\nすごいですよ、マーちゃん……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "これでウオッカたちを誘って、\n3人でほかほか温泉旅を――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "ああ、ごめんね。\nこれはペアチケットなんだよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "えっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "そうなのですか。\nペアなら3人ではいけませんね……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "困りました。",
+      "ChoiceDataList": [
+        "とりあえず、しまっておいたら？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "そうですね。\nいつか使う日がくるはずです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "部屋に……いえ、\nトレーナー室に置いておきます。",
+      "ChoiceDataList": [
+        "トレーナー室に？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "はい。\n飾っておきましょう。額に入れて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "大事にしていればなくしません。\nひと目見れば思い出します。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "つまり、使いそびれたりもしません。\n完璧です。",
+      "ChoiceDataList": [
+        "なるほど……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "まずは、\n大きな額縁を買いにいかなければ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "そんなわけで、いつかのその日まで\nトレーナー室に『温泉旅行券』が\n飾られることになったのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "おめでとうございます、1等賞～！\n賞品は『特上にんじんハンバーグ』です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "く……っ。あと1歩でした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "でも、とってもおいしそうですね。\nそれに、とっても大きいです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "……トレーナーさん、\n夕食はもう、決まっていますか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "……もぐ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "……っ！\u3000こ、これは……。",
+      "ChoiceDataList": [
+        "すごく美味しい"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "はい。革命です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "これは……今日をにんじんハンバーグの日と\nしなければならないくらいです。",
+      "ChoiceDataList": [
+        "にんじんハンバーグの日"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "つまり、来年もにんじんハンバーグの日です。\n再来年も、そうです。\n必ずにんじんハンバーグを食べます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "そうしていつしか慣習となり、\n100年後、教科書に載るのです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "にんじんハンバーグの日を作った\n偉大なるウマ娘、\nアストンマーチャン、と。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "……さすがに、無理がありますね。ふふ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "とりとめのない話をしながら、\n特別なにんじんハンバーグを\n2人で味わったのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "2等賞～！！\n賞品は『にんじん山盛り』です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "むぅ～、……届かず。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "しかし、にんじん山盛りとは。\nどうしましょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "マーちゃんとトレーナーさん……\n胃袋2つで、食べきれるでしょうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "……ん、そうだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "緊急生放送です。\nこんにちは、アストンマーチャンです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "実は、にんじん事件が起きまして。\nそう……にんじんが余っているのです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "トレーナーさんとマーちゃんだけでは\nどうしても、胃が足りなくて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "トレセン学園のみなさん限定ですが、\n力を貸してくださる子がいれば\nぜひ、お願いしたいのです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "トレセン学園"
+      ]
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "気になった子は、マーちゃんのお部屋まで。\n待っていますからね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "その後、噂を聞きつけた\nウマ娘たちにより、あっという間に\nにんじんはなくなったようだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "3等賞～！\n賞品は『にんじん1本』です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "うぐ……っ。3等賞……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "にんじん1本、いただきます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "どうしようかなぁ。\n今日のご飯にしてもいいし……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "……あ、そうだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "ふふ、どうですか？\n白雪ぴょん子さん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウサギ",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "おいしいですか、そうですか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "飼育員",
+      "Text": "はっはっは、夢中になって食べてるよ。\nありがとうね、マーチャン。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "よいのです。\nマーちゃんも嬉しいです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "その日は日が暮れるまで、\n仲良しさんと戯れていた\nアストンマーチャンだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "残念、はずれ！\n参加賞は『ティッシュ』だよ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "あうち。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "ハズレですか。\nうぅ、なんとなんと。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "でも……そうですね、\n失敗こそネタにしやすいものです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "4コマ漫画にするのはどうでしょう。\n気持ちもきっと晴れます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "起、福引に喜ぶマーちゃん。\n承、ガラガラを回すマーちゃん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "転、その穴から出てきたのは……\n結、はずれの球！\nティッシュで涙をふくのでした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アストンマーチャン",
+      "Text": "……余計、悲しくなってしまいました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "悲し気な足取りで、\n帰路についたアストンマーチャンだった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
