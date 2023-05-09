@@ -87,6 +87,7 @@
 | 1058 | Everlasting BEATS                | 完全翻译√ | *Kitasanゞ卫ちゃ（Bilibili） |
 | 1059 | Overrunner!                      | 完全翻译√ | *Kitasanゞ卫ちゃ（Bilibili） |
 | 1060 | DRAMATIC JOURNEY                 | 完全翻译√ | 毫毛                         |
+| 1081 | Glorious Moment！                | 完全翻译√ | 毫毛                         |
 
 
 ## 角色及皮肤名
