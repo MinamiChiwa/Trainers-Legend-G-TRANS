@@ -1,0 +1,335 @@
+{
+    "Title": "从大地展露面貌",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "保健室老师",
+            "Text": "──我想你接下来可能暂时要专心复健。\n以防万一还是去医院一趟吧，我来叫车。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "保健室老师",
+            "Text": "虽说你开始迈入巅峰期了，但你的身体还没发育成熟。\n要是太乱来，很快就会影响到身体的……你应该懂吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……是的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "保健室老师",
+            "Text": "嗯，好孩子。别担心，只要好好复健，你还能再继续训练的。\n现在就先慢慢来，好吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……好的……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在赛马娘的训练时间，我看到西野花的身影。\n……从她仿佛在保护脚的姿势，我很快就发现她的脚受伤了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "啊……",
+            "ChoiceDataList": [
+                "你的脚……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……训练员……\n我、我……枉费我还……带给了你勇气……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "可是，我却……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……呜，对不起！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "西野花的眼框一湿，迈步跑开。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她脚上有伤，却这样奔跑……\n我不禁担心起来，立刻追了上去。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我追着她那娇小的背影，\n抵达了一个地方──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "那里开满了鲜艳夺目的美丽花朵，一片色彩缤纷。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……你还特地追上来了啊。\n对不起，我竟然逃走……",
+            "ChoiceDataList": [
+                "这里是……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……这里是我最喜欢的地方。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "只要看着花朵，我总是会受到鼓舞，\n会觉得还要更加更加努力。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "无论多么娇小的花朵，都会给我带来勇气。\n所以……我也想变得跟花朵一样，才一路努力到现在。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花的母亲",
+            "Text": "看着小花跑步的模样，就让我涌起了一股自信。\n因为看到我们的宝物是那么样闪闪发光嘛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花的父亲",
+            "Text": "没错、没错，你让爸爸妈妈充满了勇气，\n让我们告诉自己要更抬头挺胸，不用畏畏缩缩的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "都多亏了我重视的人们曾对我说，是我带给了他们勇气。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花蓦进王",
+            "Text": "唔唔，既然如此，干脆再来比一次吧！\n这次我一定会彻底获胜的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "呵呵，花会随风飞舞，为了不被它遮蔽视线，\n我还是得自己化为那阵风才行呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "就算能力差别人一截而大受打击，我还是决定要好好努力。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……可是我却让自己受伤了。\n明明我自己也很清楚……千万不能太过逞强的……",
+            "ChoiceDataList": [
+                "你真的那么勉强自己啊……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "虽然我还是小孩……呜呜……但、但只要我努力加油……呜，\n我心想我要努力跟上，不被大家抛下……我……我……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "我想实现……自己的梦想……呜啊……\n……呜……呜哇啊……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "西野花流着泪，单薄脆弱的肩膀不停发抖。\n她一定是觉得自己很不中用，很不甘心吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我可以很简单地否定说“你不是那样的”，\n但与其这么告诉她，现在我内心涌上的想法是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "对……不起……我……竟然这么……",
+            "ChoiceDataList": [
+                "我想挖角你！",
+                "我想挖角你！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "什么……？",
+            "ChoiceDataList": [
+                "我从你身上获得了勇气",
+                "我从你身上获得了勇气"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我再次告诉西野花，\n让她知道自己的身影鼓舞了我，也拯救了我。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "正因如此，她的梦想会实现，她有办法让它实现。\n她不只能成为我的花朵，更能成为许多人的花朵。",
+            "ChoiceDataList": [
+                "你不想放弃梦想吧？",
+                "你不想放弃梦想吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她一定不想放弃，不然她也不会跑来这里，\n来看这些能鼓舞自己的花朵。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "我……我……",
+            "ChoiceDataList": [
+                "请让我帮助你实现梦想"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……我、我……我不想放弃……！\n不对，我从来没想过放弃！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "因为……你说你获得了勇气，对吧？\n你从我身上……获得了勇气……",
+            "ChoiceDataList": [
+                "是啊！",
+                "嗯！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……谢……谢谢你……！\n我会加油的……所以……所以──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "请多多指教！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我与露出笑容的西野花一同回到学园。\n从明天起，我们将同心协力朝梦想前进。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "今天很谢谢你，\n那我先回教室了。",
+            "ChoiceDataList": [
+                "你脚上有伤，还是先去保健室吧……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "啊，别担心，我可以自己去。\n今天我已经害训练员跑来追我了，不能再继续给你添麻烦……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "哎呀～小花也要去保健室啊？床位可要让给小青我喔～\n我刚好想睡个午觉呢，呼啊～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "咦？天空？……你要在保健室睡觉啊？\n真难得呢，放晴时你不是都在室外睡午觉吗……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "“偶尔为之啰”，青云天空一脸若无其事地说道。\n但在短短一瞬间，她迅速地瞄了西野花的脚一眼──",
+            "ChoiceDataList": [
+                "……可以麻烦你吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "嗯～？麻烦我什么啊～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "啊，天空，等等我。\n那就明天见啰，训练员……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "青云天空轻轻挥手，悠闲地迈开步伐。\n只见西野花跟上脚步，而我心情平静地目送她离去。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,223 @@
+{
+    "Title": "等待绽放之日",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "成为西野花的专任训练员后已经过了一阵子。\n训练进行得很顺利，我也过得很充实，就在这样的某天──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "训练员，不嫌弃的话……这个请你吃。",
+            "ChoiceDataList": [
+                "……便当？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "是的。其实，昨天妈妈教了我新食谱！\n所以我就想做给训练员吃吃看……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "嗯，没错。多亏了训练员的细心教导，\n训练起来非常开心喔……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "每天我都一点一滴地进步……\n真的会增加动力，让我想更加更加努力呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花的父亲",
+            "Text": "“看来你跟训练员建立了良好的关系啊，\n这真的很难能可贵。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "没错。所以呢，我想向训练员道谢……！\n不过该怎么做才好呢？我能做些什么呢……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花的母亲",
+            "Text": "“要是太郑重其事会害对方有所顾虑吧……啊！\n不然这样如何！？别说是为了道谢──”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "上次做便当给你时，我看你很高兴……所以……\n希、希望没给你造成困扰……！",
+            "ChoiceDataList": [
+                "谢谢你！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "啊……不会。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "色彩缤纷的蔬菜跟炖煮料理，还有冷了依然好吃的炸鸡──\n便当里每道菜的调味都很温和，让人感受到一阵暖意。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "请问……怎么样？还合你胃口吗……？",
+            "ChoiceDataList": [
+                "非常好吃！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "调味相当温和，让人每天都想吃。\n我把这样的感想坦率地告诉她，结果──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "每天……！我、我知道了！\n嘿嘿……你能喜欢真是太好了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她露出灿烂的笑容，看来妈妈的食谱受到称赞让她很高兴吧。\n我享用着美味的便当，再度向她道谢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──隔天。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "今天我在便当里放的是爸爸喜欢的料理，\n希望也能合训练员的胃口……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "啊，我今天跟朋友有约，差不多该出发了。\n那我先走啰！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "西野花鞠了个躬后便离开了。\n收到便当我当然很开心，但她制作起来应该很费工吧──",
+            "ChoiceDataList": [
+                "她该不会是……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在回应我昨天的那句感想“让人每天都想吃”吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……这样的话，至少也该给她材料费……我在心中这么决定，\n并在训练员室继续吃着便当，这时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "前辈训练员A",
+            "Text": "“辛苦啦～！最近一样忙着努力吗？要不要一起吃个饭，\n顺便聊一下彼此近况？要的话到校门前集合吧！”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "是以前很照顾我的前辈训练员传来的讯息。\n虽然吃了便当后肚子已经有点饱──但也不好意思拒绝对方。",
+            "ChoiceDataList": [
+                "于是我回复说现在立刻过去……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "将便当吃光后，我便跑去了校门前。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "（……不知道他对今天的便当还满意吗？\n希望训练员也喜欢吃爸爸中意的料理。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "（明天该做些什么菜呢？去问问妈妈，\n她一定会再教我新的便当菜食谱──）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "前辈训练员A",
+            "Text": "还好吗～？你的食量有这么小吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "？那是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我边吃饭边向前辈们讨教了不少，像是训练方面的知识和\n如何跟赛马娘相处等。我想向前辈们道谢，但……肚子好沉重。",
+            "ChoiceDataList": [
+                "两位……今天……谢谢你们……嗝──"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "前辈训练员B",
+            "Text": "好了好了，不用勉强自己讲话。你该不会身体不舒服吧？\n不好意思啊，这么突然约你！",
+            "ChoiceDataList": [
+                "不，我才要说不好意思……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "啊……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……该不会……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,371 @@
+{
+    "Title": "在夏夜里起舞",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "呼、呼……耐力跑完毕！\n这样今天的行程就结束了吧。",
+            "ChoiceDataList": [
+                "是啊，辛苦了！",
+                "嗯，辛苦了！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "期待已久的夏季集训来临。八重无敌也鼓足干劲，\n一下就做完了今天的训练项目。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "那么……我去玩了！",
+            "ChoiceDataList": [
+                "咦？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "之前去游乐园的时候最后还是失败了……\n所以我这次集训时一定要彻底忘掉修行！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "而且我也有一些想确认的事情……",
+            "ChoiceDataList": [
+                "想确认的事情？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "……没什么，目前还不值一提！\n等我确定后再告诉你。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "那么，在下八重无敌，要去海边玩水了。\n目标是达到无我的境界……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "我去玩过水了！我避开反复拍打岸边的海浪前进，\n这个技巧能应用于比赛中挑选路线时……不对，这是修行。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "我去玩过沙滩排球了！能亲眼见识强敌们的姿势和爆发力\n并从中学习，真是难得的经验……啊！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "……果然还是变成修行了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "我试着反过来……再进行了一次耐力跑训练……！\n这样……算是修行吗！？",
+            "ChoiceDataList": [
+                "是修行吧……",
+                "是修行呢……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "……唔，那只好多试几次了！晚上我要去参加夏日祭典！\n训练员有空的话请陪我一起去！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "……这里人潮真是汹涌。在人群中移动的步法，\n可以作为在比赛中突围的参考……不对！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "唔，我连参加祭典时都只想着修行的事情……！",
+            "ChoiceDataList": [
+                "八重……你看，有射击游戏的摊位！",
+                "八重……你看，有射击游戏的摊位！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "原来如此，射击游戏和比赛……应该扯不上关系！\n或许有助于忘记修行达到无我的境界。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "谢谢你，训练员。\n老板！我想购买一次挑战机会！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（砰！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "……唔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（砰、砰！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摊贩大叔",
+            "Text": "很遗憾～！全都没中！\n别这样就放弃，有空再来玩吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "没想到居然一发都没打中……\n让你看见我丢脸的样子了。",
+            "ChoiceDataList": [
+                "这点程度根本称不上丢脸"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "失败也无所谓，放轻松继续挑战就行了。\n玩游戏和训练的时候都可以再放松一点。",
+            "ChoiceDataList": [
+                "因为我比谁都清楚你平常有多努力"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "……呵呵。我就知道你会这么说。\n无论是上次去游乐园那天，还是现在……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "谢谢你。我总算下定决心了。\n训练员，可以再占用你一点时间吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "不知道是什么事？我不赶时间，所以没想太多就点头──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "老板。我想再挑战五次，拜托你了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "之后，一旁持续响起玩具枪的声音──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "唔，真是太丢脸了！这样都还射不中！\n反而让人想笑了……！",
+            "ChoiceDataList": [
+                "八重，加油！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "可恶，下次一定要射中！我逐渐掌握诀窍了。\n要像这样，注意别太用力……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "训练员，怎么样！\n我的姿势正确吗！？",
+            "ChoiceDataList": [
+                "感觉不错！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "感谢你！\n即使手上拿着枪也要保持自然。自然地……开心地……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "我要上了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（砰！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──伴随着一道轻快的声响，八重无敌刚才一直瞄准的\n猫咪玩偶倒下了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摊贩大叔",
+            "Text": "射到大奖了～！奖品是你的了！\n小妹妹，恭喜你！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "哇……！谢谢！",
+            "ChoiceDataList": [
+                "恭喜你，八重！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "训练员，我成功了！\n我好好玩了射击游戏！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "从祭典回去的路上……八重无敌说“有事想谈谈”，\n于是我们来到集训宿舍附近的海边。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "……我刚才感觉重新找回了童心。\n用玩具枪瞄准玩具……",
+            "ChoiceDataList": [
+                "开心吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "是的，非常开心！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "……多亏了你，我总算明白了。\n明白自己一直无法忘记修行的原因。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "我觉得把心中的烈火用在胜负以外的地方非常可耻。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "所以绝对不能在玩乐时燃起斗志，\n让人看到自己丢脸的样子──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "我坚信必须严以律己，隐藏自己的真心，\n所以无时无刻都在想着修行。",
+            "ChoiceDataList": [
+                "八重──"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "不过，你告诉我不管再怎么丢脸或是失败几次都没关系。\n所以我才能成功忘记修行……尽情地玩乐。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "烈火是不需要害怕……\n也不需要忌讳的存在吧。",
+            "ChoiceDataList": [
+                "……是啊！休息的时候就要尽情休息！",
+                "……嗯！休息的时候就要尽情休息！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "是的──在你面前时……我可以忘记修行的事情。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "对了，训练员。\n我现在……可以演练一下“形”吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "……总觉得现在的我能够展现出不同的武艺。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "夏日祭典即将结束，\n八重无敌背对开始升空的烟火演练“形”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "不同于至今锻炼出来的“形”，这次她展现出了另一种风格，\n宛如火焰在不断舞动般──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "……嗯──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "──今天休息得好开心啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……那次练武既畅快又开心，\n与夏天的夜晚十分相称。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}
