@@ -1,0 +1,202 @@
+{
+    "Title": "让人不放心的大小姐们",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我到学生餐厅正打算用餐时，\n听见附近的目白光明和\n美妙姿势在聊天。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美妙姿势",
+            "Text": "收到王子寄来的邮件？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "是啊～今天早上我收到一封邮件，\n对方自称是“某个国家的王子”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "他好像钱多到用不完，\n正在找人帮他有效率地花钱～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美妙姿势",
+            "Text": "嗯～是要做慈善事业吗？\n但王族会寄那种邮件吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美妙姿势",
+            "Text": "你有回复吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "有啊，我不能收陌生人的钱，\n所以就回复“不用了”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "然后我又收到一封邮件，\n说王子出了意外……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美妙姿势",
+            "Text": "哎呀，这时间点也太巧了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "他在意外中受了伤，\n希望我能帮忙出医药费。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美妙姿势",
+            "Text": "……奇怪？\n那个人不是很有钱吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "那场意外好像把他的钱都烧光了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美妙姿势",
+            "Text": "嗯～他的所有财产都是现金吗……？\n烧掉那么多钱，应该是场严重的火灾吧？\n但新闻好像没报──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……我实在没办法继续保持沉默，\n于是加入她们的对话。",
+            "ChoiceDataList": [
+                "那些全都是谎话"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "……咦？是这样吗……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美妙姿势",
+            "Text": "啊哈哈，难怪会那么凑巧！\n所以对方声称自己是王子，\n还有遇到意外受伤都是谎话吗？",
+            "ChoiceDataList": [
+                "是呀"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "哎呀～原来如此！\n这样我就放心了～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "这表示实际上没有人遭遇意外吧～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "明明差点遭受诈骗，\n但目白光明仍因为没人受伤松了口气。",
+            "ChoiceDataList": [
+                "你真是太善良了……",
+                "你需要多学习一点人情世故……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "突然听到有人遭遇意外，\n就因为太担心而没办法想太多呢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美妙姿势",
+            "Text": "嗯～很遗憾，这个世界\n确实会有人利用这种善意……\n光明，我们都要小心点喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "我明白了～\n谢谢你的忠告。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "原来如此～学习人情世故啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美妙姿势",
+            "Text": "要是能够分辨\n邮件内容是不是谎言就好了。",
+            "ChoiceDataList": [
+                "直接忽视所有陌生人寄的邮件吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美妙姿势",
+            "Text": "原来如此！\n应该先改掉每一封邮件都看的习惯。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "感谢你的忠告。\n我以后会小心～",
+            "ChoiceDataList": [
+                "可以的话，也换个邮件地址吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美妙姿势",
+            "Text": "的确！要是那个自称王子的人\n又寄邮件过来就伤脑筋了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "我明白了～\n……话说要怎么改邮件地址？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美妙姿势",
+            "Text": "呃……对不起！\n我都是拜托护卫帮忙处理，\n所以我也不知道～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "于是最后由我动手\n帮目白光明变更邮件地址。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,328 @@
+{
+    "Title": "织女星和角宿一",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "处理完工作后我前往顶楼，\n在那里遇见了\n爱慕织姬和无声铃鹿。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "呃……晚安。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱慕织姬",
+            "Text": "……人又变多了。",
+            "ChoiceDataList": [
+                "晚安。你们在看星星吗？",
+                "晚安。你们在看星星吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "是的。\n我碰巧在这里遇见织姬前辈。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱慕织姬",
+            "Text": "是啊。",
+            "ChoiceDataList": [
+                "星星真漂亮",
+                "星星真漂亮"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "是啊，今天看得很清楚呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱慕织姬",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我和她们两人一起仰望星空，\n宁静的时光缓缓流逝。",
+            "ChoiceDataList": [
+                "织姬喜欢哪颗星星？",
+                "铃鹿喜欢哪颗星星？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱慕织姬",
+            "Text": "……从我的名字就能推测出答案吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "“织女星”。\n那是一颗非常闪耀又漂亮的星星。",
+            "ChoiceDataList": [
+                "“织女星”是颗什么样的星星？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱慕织姬",
+            "Text": "……它是属于天琴座的一等星。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱慕织姬",
+            "Text": "和牛郎星与天津四连起来，\n就是“夏季大三角”。",
+            "ChoiceDataList": [
+                "真是颗厉害的星星！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱慕织姬",
+            "Text": "……还好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "“织女星”……\n也是以七夕故事闻名的星星吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱慕织姬",
+            "Text": "是啊。",
+            "ChoiceDataList": [
+                "真是颗浪漫的星星"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱慕织姬",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "说到织女，\n就会想到牛郎。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "就像织女有牛郎一样，\n织姬前辈未来或许也会\n遇见那样的对象。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "或是，其实已经遇到了……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱慕织姬",
+            "Text": "我才没有那样的对象……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱慕织姬",
+            "Text": "我……只想要一个人独处。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱慕织姬",
+            "Text": "我过去一直都独来独往。\n我不需要其他人。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱慕织姬",
+            "Text": "不过……\n来到这个学园后，\n大家都非常烦人……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "我喜欢的星星吗？\n应该……是“角宿一”吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "“角宿一”。\n那是一颗散发蓝色光芒的美丽星星。",
+            "ChoiceDataList": [
+                "“角宿一”是颗什么样的星星？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "我记得是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱慕织姬",
+            "Text": "……它是属于处女座的一等星。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱慕织姬",
+            "Text": "和五帝座一与大角星连起来，\n就是“春季大三角”。",
+            "ChoiceDataList": [
+                "真是颗厉害的星星！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "原来是这样……\n我是因为“角宿一”这个名字\n感觉跑得很快，所以才……",
+            "ChoiceDataList": [
+                "这就是你喜欢这颗星星的原因！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "……有一半是开玩笑的。\n不过……总觉得有股亲切感。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "比起星星，\n我本来就更喜欢一个人的景色。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "我的故乡经常积雪……\n所有景色都会被染成白色，\n看起来非常壮观……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "雪会吸收所有的声音，\n让人只听得见自己的心跳声。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "在那个寂静的纯白世界里，只有我一个人。\n那就是我记忆中最初的景色。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "来到这个学园后，\n我独处的机会就变少了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱慕织姬",
+            "Text": "……我懂。\n这个学园的人\n真的都很吵。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱慕织姬",
+            "Text": "我明明只想独处，\n不过许多人……\n都会跑来纠缠我。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱慕织姬",
+            "Text": "……来到这个学园后，\n大家都非常烦人……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱慕织姬",
+            "Text": "好歌剧、怒涛、乌菈菈……\n成田路，还有真机伶……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱慕织姬",
+            "Text": "她们每个人……\n都很烦人……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "…………",
+            "ChoiceDataList": [
+                "…………"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "真的是这样吗？\n……不，根本就不需要反问。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "真的是这样吗？\n……不，根本就不需要反问。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "不同于这段冷淡的发言，\n她的语气里透露著\n从内心流露出来的温暖。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "织姬前辈。\n我们都不得不改变呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱慕织姬",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱慕织姬",
+            "Text": "……这学园里\n喜欢多管闲事的人太多了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "星星闪闪发亮。\n天空万里无云。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就像连结繁星形成的星座一样，\n人与人之间也会互相连结，\n不断累积情谊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

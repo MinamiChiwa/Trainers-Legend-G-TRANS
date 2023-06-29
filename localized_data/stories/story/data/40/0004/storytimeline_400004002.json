@@ -1,0 +1,382 @@
+{
+    "Title": "教学",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "辛苦了。\n我将针对有需求的训练员提供关于\n“闪耀巨星巅峰赛”培育的各种说明──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "<username>，\n请问需要听说明吗？",
+            "ChoiceDataList": [
+                "听说明",
+                "不听说明"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "好的，请问你想听哪项说明呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "想了解关于“闪耀巨星巅峰赛”培育的\n哪些事项呢──",
+            "ChoiceDataList": [
+                "关于培育目标",
+                "关于闪耀巨星巅峰赛",
+                "关于特别商店",
+                "关于最优秀赛马娘",
+                "已经够了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "你想了解\n“闪耀巨星巅峰赛”的培育目标呀。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "培育目标"
+            ]
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "接下来将请训练员\n以参加“闪耀巨星巅峰赛”为目标\n培育赛马娘。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "参赛后可依照比赛结果获得相应的\n“成绩Pt”，请先收集成绩Pt吧♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "成绩Pt"
+            ]
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "新手级、经典级各级中\n皆有各自规定\n必须获得的“成绩Pt”量。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "新手级、经典级",
+                "皆有各自规定",
+                "必须获得的“成绩Pt”量。"
+            ]
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "每年十二月后半回合结束前，\n若未收集到所需的“成绩Pt”，\n培育将就此结束，请多注意！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "每年十二月后半回合结束前",
+                "培育将就此结束"
+            ]
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "在越高阶的竞赛达成好成绩，\n即可得到越多“成绩Pt”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "越高阶的竞赛",
+                "达成好成绩"
+            ]
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "此外，\n有时强敌赛马娘也会参赛！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "强敌赛马娘"
+            ]
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "强敌会以“竞争对手”身份\n登场于竞赛的登记参赛画面中。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "竞争对手"
+            ]
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "若在竞争对手登场的比赛中精彩获胜，\n即可获得技能灵感，\n请踊跃挑战看看！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "在竞争对手登场的比赛中精彩获胜",
+                "获得技能灵感"
+            ]
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "此外，这次的培育跟以往不同，\n没有设定专任赛马娘的个人目标。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "没有设定专任赛马娘的个人目标"
+            ]
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "因此可以借此机会挑战\n至今未能参赛的各种比赛！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "就请训练员亲自\n为专任赛马娘挑选\n适合的比赛吧♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "培育期间或许有机会窥见赛马娘在\n学园日常生活中的另一面喔。\n这也很令人期待呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "以上就是\n“闪耀巨星巅峰赛”培育目标的说明。\n还想听听其他说明吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "你想了解“闪耀巨星巅峰赛”呀。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "请于每段培育时期收集“成绩Pt”，\n只要达成所有时期的获得目标，\n即可挑战“闪耀巨星巅峰赛”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "成绩Pt"
+            ]
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "“闪耀巨星巅峰赛”\n对赛马娘们来说制度较特殊，\n总共会举行三场比赛！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "依照各场比赛的名次可获得相应的\n“胜利Pt”，三场比赛后\n合计获得最高Pt的赛马娘即为优胜♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "胜利Pt",
+                "三场比赛后合计获得",
+                "最高Pt的赛马娘即为优胜"
+            ]
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "三场比赛的参赛赛马娘\n阵容皆相同，但比赛难度\n将一场比一场艰难。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "请于“闪耀巨星巅峰赛”前充分\n培育赛马娘，赢得\n“闪耀顶尖巨星”的宝座吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "闪耀顶尖巨星"
+            ]
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "以上就是\n“闪耀巨星巅峰赛”的说明。\n还想听听其他说明吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "你想了解\n“闪耀巨星巅峰赛”培育中的特别商店呀。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "特别商店"
+            ]
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "于培育中参赛，除了“成绩Pt”外\n还可获得“商店币”喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "成绩Pt",
+                "商店币"
+            ]
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "比赛名次越高，\n即可获得越多“商店币”。\n使用“商店币”可在“特别商店”兑换道具♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "在“特别商店”中，可兑换到\n有助于培育赛马娘的“培育道具”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "培育道具"
+            ]
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "提升基础能力或回复体力、\n强化训练效果等能在培育中派上用场的道具\n将于商店中登场！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "请多多光顾“特别商店”，\n兑换培育道具来培育赛马娘吧♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "此外，必须先参加过\n新手级闪耀出道战后才能使用“特别商店”，\n敬请多加注意。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "新手级闪耀出道战后"
+            ]
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "另外，\n每经过一段时间，\n将更新培育道具品项。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "经过一段时间",
+                "更新培育道具品项"
+            ]
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "在商店内看到想要的培育道具时，\n建议务必趁品项更新前收集足够的\n“商店币”并及时兑换。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "另外，培育道具品项更新时，\n将不定期举办随机特卖，\n可以更优惠地兑换道具喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "不定期举办随机特卖",
+                "更优惠地兑换道具"
+            ]
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "除此之外，据说竞赛结束后\n也有可能在特别商店内追加培育道具。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "竞赛结束后",
+                "在特别商店内追加培育道具"
+            ]
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "务必记得定期查看\n“特别商店”的内容喔♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "以上就是\n“闪耀巨星巅峰赛”培育中的特别商店的说明。\n还想听听其他说明吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "你想了解“最优秀赛马娘”呀。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "最优秀赛马娘"
+            ]
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "“最优秀赛马娘”分为各级奖项，\n审查单位为URA──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "URA"
+            ]
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "能获得本奖项是无上的荣耀！本奖项分为\n新手级、经典级、资深级，各级中该年表现\n最优异的赛马娘将获得表扬。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "新手级、经典级、资深级，各级中"
+            ]
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "每年十二月底，\n该年最后一场比赛结束后，\n会进行“最优秀赛马娘”资格审查。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "每年十二月底"
+            ]
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "届时将依照当年的比赛成绩、\n粉丝数等各种条件进行审查，\n选出“最优秀赛马娘”♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "请充分利用训练及培育道具，\n培育赛马娘的能力，\n踊跃挑战比赛喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "以上就是\n“最优秀赛马娘”的说明。\n还想听听其他说明吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "真的不用了吗？",
+            "ChoiceDataList": [
+                "是",
+                "否"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "我知道了♪保险起见在此提醒，\n可以由此查看简单统整过的介绍。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "点击左上方的“i图示”，\n即可随时复习刚刚的说明。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "i图示"
+            ]
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "接下来就请努力挑战吧。\n我会在背后声援你的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "我知道了。那就请努力挑战吧！\n我会在背后声援你的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

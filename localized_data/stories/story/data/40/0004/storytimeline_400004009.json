@@ -1,0 +1,301 @@
+{
+    "Title": "各自有不同的作风",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "结束今天该做的训练，\n我向<chrname>告别后，\n踏上了归途。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "<username>训练员！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "向我搭话的是\n隶属于特雷森学园的同期训练员，\n个性认真的桐生院葵。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "桐生院葵"
+            ]
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "辛苦了。\n我们也刚结束工作──",
+            "ChoiceDataList": [
+                "我“们”？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "一脸疲惫地跟在她身后的，\n是同样隶属于特雷森学园的训练员，\n个性严厉却很优秀的㭴本理子。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "㭴本理子"
+            ]
+        },
+        {
+            "Name": "㭴本理子",
+            "Text": "……\n辛……苦了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "啊啊，㭴本训练员！\n你可以再休息一下喔……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "㭴本"
+            ]
+        },
+        {
+            "Name": "㭴本理子",
+            "Text": "不，我没事。\n并没有……呼……\n那么……疲劳。",
+            "ChoiceDataList": [
+                "发生了什么事吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "其实是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "㭴本训练员！\n辛苦了，你刚结束训练吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "㭴本理子",
+            "Text": "是的，辛苦了。\n我打算最后检查一下赛道状况，\n确保明天能顺利使用。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "！正好我也有这个打算。\n要、要是你愿意的话……那个……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "㭴本理子",
+            "Text": "……要不要两个人一起检查？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "可、可以吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "㭴本理子",
+            "Text": "无妨。既然只是单纯的检查，\n我想两人一起进行也比较有效率吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "谢谢……！\n那我们快点开始检查吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "草地状态有点差……\n虽然不是很严重。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "㭴本理子",
+            "Text": "虽然明天一早学园就会派人来整顿场地，\n但如果要晨练的话还是得提醒学生多注意呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "就是啊！\n我看看，接下来……轮到那边了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "㭴本理子",
+            "Text": "……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "㭴本理子",
+            "Text": "……至于沙地……呼……状态很好呢。\n这下……呼……应该没有问题……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "㭴本训练员？你没事吧？\n是、是不是步调太快了！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "对不起！\n放慢步调慢慢检查吧──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "㭴本理子",
+            "Text": "不用。\n……我没事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "㭴本理子",
+            "Text": "我反倒希望再快一点呢。\n快点继续吧，桐生院训练员。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "桐生院"
+            ]
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "咦？\n真、真的没事吗……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "㭴本理子",
+            "Text": "呼……呼……！\n这、这边的草地状况还可以……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "㭴、㭴本训练员！\n不可以逞强喔……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "………………",
+            "ChoiceDataList": [
+                "原来如此，所以你们就全力奔跑了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "两人",
+            "Text": "……是的……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "㭴本理子",
+            "Text": "真是丢脸……\n让你们看到这么没用的样子。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "不、不会的！但是，那个……呃──\n啊，<username>训练员！",
+            "ChoiceDataList": [
+                "什么事？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "今天的训练内容也很令人敬佩！\n不只是成绩快慢……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "训练员与赛马娘默契十足……\n可以感受到\n你们互相信赖著对方。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "㭴本理子",
+            "Text": "这点我也不得不同意。\n要不是深深信赖著对方，\n是无法达到这种训练成果的。",
+            "ChoiceDataList": [
+                "过、过奖了！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "㭴本理子",
+            "Text": "……不过我不认为我们会输。\n毕竟我也与自己的专任赛马娘\n一路走到了今天啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "㭴本理子",
+            "Text": "我相信，即使现在参加同场竞赛，\n也会由我指导的赛马娘获胜。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "我、我也是！虽然我很佩服你，\n但我们家温顺也绝不会输的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "温顺"
+            ]
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "虽然实际努力的是温顺，\n实际跑步的也是温顺，一旦闸门打开，\n我能做的就只有看着她奔跑！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "但正因为这样，我自认比谁都……\n信赖著温顺。",
+            "ChoiceDataList": [
+                "桐生院训练员……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "㭴本理子",
+            "Text": "……<username>训练员，\n你呢？你信赖著赛马娘吗？",
+            "ChoiceDataList": [
+                "我想我对她的信赖绝对不输任何人"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "㭴本理子",
+            "Text": "……看来根本不用问呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "㭴本理子",
+            "Text": "祝你们一切顺利，桐生院训练员。\n还有<username>训练员。",
+            "ChoiceDataList": [
+                "谢谢，你们也是！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "这天晚上我们互相祝福对方发展顺利，\n同时我也再度下定决心，\n要深信着<chrname>并好好加油……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

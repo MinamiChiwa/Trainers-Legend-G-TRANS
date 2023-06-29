@@ -1,0 +1,285 @@
+{
+    "Title": "梦想的前方",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "“闪耀巨星巅峰赛”\n在欢声雷动之中落幕了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "<chrname>成为“最强”赛马娘的\n那瞬间，让现场所有观众\n都赞颂不已……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "……气氛真是热烈呢。\n大家都在赞扬著两位……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "请容我发问！\n你的搭档成为“最强”了，\n请问你有什么感想！？",
+            "ChoiceDataList": [
+                "……就算观众只剩我一个人",
+                "……就算观众只剩我一个人"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "什么？",
+            "ChoiceDataList": [
+                "我仍敢保证“最强”的就是我家赛马娘"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "呃呃，不过……\n现在有这么多观众在赞扬你们喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "你们获得这么多人的祝福与认可，\n证明了你的搭档正是\n“最强”的赛马娘。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "正是……最快的赛马娘……\n我也是这么想的……",
+            "ChoiceDataList": [
+                "你有所迟疑吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "咦？没、没那回事。\n“闪耀巨星巅峰赛”\n办得非常成功──",
+            "ChoiceDataList": [
+                "你相信的是自己心中的“最强”"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "……！",
+            "ChoiceDataList": [
+                "这点我也一样",
+                "这点我也一样"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "我心中的“最强”……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "少女赛马娘",
+            "Text": "小悦，你好慢喔～！\n我要丢下你啰～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "人类少女",
+            "Text": "等、等等我……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "少女赛马娘",
+            "Text": "太棒了～！\n是我赢了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "……我……其实我……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "要是那孩子也能参加这场比赛，\n拿到最高分的或许就是她。\n我不禁这么想。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "即使属于这里的“最强”已经出炉了。\n即使现场无数观众都赞颂著最强的诞生……\n但说实话我还是希望她能赢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众A",
+            "Text": "啊～今天的比赛真的太赞了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众B",
+            "Text": "下次能见识到多精彩的比赛呢？\n想必会出现\n各种挑战者吧……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众A",
+            "Text": "嗯～真是期待！\n我最支持的选手\n会不会参加下一届比赛呢～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众A",
+            "Text": "要是能在看台上见证那孩子\n成为“最强”的瞬间……\n我一定会觉得是在做梦吧～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "梦……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "……搞不好，其实我的梦\n并没在那时结束，而是一直持续著。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "我觉得，从小时候赛跑没能赢过她的\n那一天起，我就一直在追逐着她的背影──\n一直追逐著梦想。",
+            "ChoiceDataList": [
+                "或许有多少种梦想就有多少种“最强”"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "……就是啊，每个人寄托在\n赛马娘身上的梦想也各不相同……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "……好的，不过呢，在今天这一天！\n“最强”二字可是专属于\n仅仅一位赛马娘的头衔呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "来吧，<username>训练员！\n请发表你的感想！",
+            "ChoiceDataList": [
+                "……<chrname>就是“最强”的！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──就这样，<chrname>成为了\n名符其实的“最强”赛马娘。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这是证明了她那坚强实力的象征，\n永远闪耀着璀璨夺目的光芒。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "不过……\n就算没有这座奖杯。\n就算没有任何观众。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她仍旧是“最强”的──\n我将永远深信着这个梦想。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这是证明了她那坚强实力的象征，\n永远闪耀着璀璨夺目的光芒。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "不过……\n就算没有这座奖杯。\n就算没有任何观众。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她仍旧是“最强”的──\n我将永远深信着这个梦想。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这是证明了她那坚强实力的象征，\n永远闪耀着璀璨夺目的光芒。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "不过……\n就算没有这座奖杯。\n就算没有任何观众。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她仍旧是“最强”的──\n我将永远深信着这个梦想。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这是证明了她那坚强实力的象征，\n永远闪耀着璀璨夺目的光芒。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "不过……\n就算没有这座奖杯。\n就算没有任何观众。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她仍旧是“最强”的──\n我将永远深信着这个梦想。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这是证明了她那坚强实力的象征，\n永远闪耀着璀璨夺目的光芒。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "不过……\n就算没有这座奖杯。\n就算没有任何观众。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她仍旧是“最强”的──\n我将永远深信着这个梦想。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

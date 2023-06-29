@@ -1,0 +1,401 @@
+{
+    "Title": "想一起讨论！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "这本书我最喜欢的场景，\n果然还是主角勇敢地和敌方英雄决斗的桥段。\n我看得情绪激昂呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "我懂。\n这本书加入了许多现实中的神话要素，\n这点最让我中意。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "重点是，明明是虚构故事，\n却依然仔细进行过实际面的考证。\n令人感觉书里的训练方法似乎真的存在于现实呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我来到图书馆时，发现荒漠英雄、\n目白阿尔丹和琵琶晨光三人\n正在压低音量讨论事情。",
+            "ChoiceDataList": [
+                "午安"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "啊，午安。\n不好意思，吵到你了吗？",
+            "ChoiceDataList": [
+                "没事的。你们在讨论什么？",
+                "没事的。你们在讨论什么？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "最近新出了一本小说，我们在交换感想。\n这本小说非常有趣……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "真的很有趣！\n好想一直尽情地讨论！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "不过，问题在于能够一起讨论\n最新剧情的伙伴太少了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "你说得没错……\n这样根本无法尽情抒发对作品的热情。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "明明这么有趣……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "大概是鲜为人知的优秀作品吧。\n无法一起讨论作品感想\n确实令人感到有些空虚。",
+            "ChoiceDataList": [
+                "我也试着读读看那本小说吧",
+                "我也试着读读看那本小说吧",
+                "可以跟我推荐那本书的优点吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "大概是鲜为人知的优秀作品吧。\n无法一起讨论作品感想\n确实令人感到有些空虚。",
+            "ChoiceDataList": [
+                "我也试着读读看那本小说吧",
+                "我也试着读读看那本小说吧",
+                "可以跟我推荐那本书的优点吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我看见她们三人的眼神亮了起来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "真、真的吗！？\n我、我好开心喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "感谢你的这份心意。\n呵呵，真的很开心呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "我记得这间图书馆里也有这套书。\n我立刻去拿来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "呵呵，\n晨光也干劲十足呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "三人都对我的提议感到开心。\n看来她们真的很喜欢书。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "能帮上她们的忙，\n也让我心里涌出一股喜悦之情。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……这时候的我，\n还在想着这种天真的事情。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "总共三十四集……包含最新一集在内，\n我把整套系列作的本传都拿来了。",
+            "ChoiceDataList": [
+                "好、好多！？！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "琵琶晨光面前\n堆著高高一叠书……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "这系列\n还有十二本外传。\n我去把那些也拿来。",
+            "ChoiceDataList": [
+                "还有更多吗……！？",
+                "还有更多吗……！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "啊，晨光。\n可以顺便把这系列的解说资料集\n一起拿过来吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "好，我知道了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "哇啊～！第六集好令人怀念！\n是努力成为英雄的修行篇，\n我很喜欢这集呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "再重新复习一次之前的集数好了。\n或许能有什么新的收获和发现也不一定。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这是一套非常长的系列作品。\n我之前只知道书名而已。",
+            "ChoiceDataList": [
+                "该、该不会……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "啊、啊哈哈……是啊。\n就是因为很少人追到最新一集，\n所以才找不到人讨论……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "果然还是给你添麻烦了吗……？",
+            "ChoiceDataList": [
+                "没、没这回事……！",
+                "没、没这回事……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "真的吗！？\n我好开心！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "身为训练员，\n我不能在此时打退堂鼓。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "为了赛马娘们的笑容，\n即使是上刀山下油锅，我也在所不辞！",
+            "ChoiceDataList": [
+                "（我要努力看完整套……！）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就这样，我度过了\n好一段天天熬夜看书的时光。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "好、好啊！\n你对这部作品产生兴趣了吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "呵，看来得鼓起干劲，\n好好宣传一下了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "总觉得她们三人开始兴奋了起来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "这部作品，\n是在讲述原本没有任何特别能力的主角\n逐渐成为英雄的故事！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "这是一部深奥的小说，\n时代背景和世界观设定都非常扎实，\n仿佛真的在观看一个世界的历史一样。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "主角脑袋转得很快，\n想法非常务实又符合逻辑，\n虽然是奇幻故事，他的行事依然令人佩服。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "三人快乐地谈论这部作品。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看着她们开心的样子，\n也让我心里涌出一股喜悦之情。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……这时候的我，\n还在想着这种天真的事情。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "不仅如此！\n这部作品还埋了非常多伏笔！\n作者将故事架构得非常精巧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "第三集的伏笔，直到最近出的第三十二集\n才终于解开……在这之前都没人发现\n那段描写其实是个伏笔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "啊，再讲下去会剧透，\n所以不能说得太详细……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "这部作品还加入了许多\n现实的神话小插曲，\n非常值得考察呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "许多与过去轶事有关的题材和象征，\n都与之后的剧情环环相扣，\n所以从历史角度来看这部作品也很有趣。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "啊，再讲下去会剧透，\n所以不能说得太详细。",
+            "ChoiceDataList": [
+                "（她们的热情……！好强烈！）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她们已经连续讲了一个小时以上，\n但完全没有要停止的迹象。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我太小看她们的热情了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "至少要看到第八集。\n那一集描写了“奇幻世界物理法则”，\n看法既独特又精彩。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "再讲下去会剧透，\n所以不能说得太详细。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "啊，说到这个，主角在第十二集\n对英雄这一存在的想法和\n价值观也很有趣……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "关于第二十一集描写的历史题材，\n作者考察的方式也相当新颖呢。",
+            "ChoiceDataList": [
+                "……好！把整套都看完吧！",
+                "……好！把整套都看完吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "英雄＆阿尔丹",
+            "Text": "真的吗！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……我只能这样回答。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "身为训练员，只要能让赛马娘们\n展露笑容，这些都不算什么。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "所以我只能主动投身于\n她们的热情之中了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

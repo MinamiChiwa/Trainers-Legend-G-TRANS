@@ -561,7 +561,7 @@
 | 01   | URA      | Komoe | Komoe |
 | 02   | 青春杯   | Komoe | Komoe |
 | 03   | Grand Live |       |       |
-| 04   | 巅峰赛   |       |       |
+| 04   | 巅峰赛   | Komoe | Komoe |
 | 05   | Grand Masters |       |       |
 
 
@@ -629,7 +629,7 @@
 | 0001 | URA      | Komoe | Komoe |
 | 0002 | 青春杯   | Komoe | Komoe |
 | 0003 | Grand Live |       |       |
-| 0004 | 巅峰赛   |       |       |
+| 0004 | 巅峰赛   | Komoe | Komoe |
 | 0005 | Grand Masters |       |       |
 
 
