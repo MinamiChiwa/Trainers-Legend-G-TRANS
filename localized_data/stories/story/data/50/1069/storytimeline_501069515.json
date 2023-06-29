@@ -1,0 +1,421 @@
+{
+    "Title": "“说到花就想到樱花，说到赛马娘……”",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "拜托你！\n请让我……去修行！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "今天明明没有比赛或采访行程，\n樱花千代王却身穿决胜服，\n并对我提出谜样的请求……",
+            "ChoiceDataList": [
+                "为什么想修行呢？",
+                "为什么想修行呢？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "……因为我想成为和风少女！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "制作这套决胜服时，\n不是有麻烦设计师加入樱花元素，\n设计成颇具和风的服装吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "但我根本就不优雅，\n也完全不像是个武士……",
+            "ChoiceDataList": [
+                "（武士？）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "虽然我喜欢日式点心跟相扑，\n但光靠喜欢是配不上这套决胜服的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "所以我想请和风少女会（千代调查）的\n成员陪我一起修行！",
+            "ChoiceDataList": [
+                "和风少女会（千代调查）……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "啊，\n那是我昨天擅自取的名字！\n这次我想拜托草上飞或八重帮忙！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "我想，经过她们的训练，\n我一定能蜕变为完美的和风少女！",
+            "ChoiceDataList": [
+                "我想应该不用这么夸张吧……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "不，请让我这么做！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "每次穿上这套决胜服，\n我就会回想起刚入学时的心情。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "“我一定要在这里尽情绽放！”\n……当时我抱着这种闪耀的心情，\n挺起胸膛走进学园……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "我还是希望自己能够配得上……\n这套倾注了心意的决胜服！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "要是我能有自己是和风少女的自信，\n穿上决胜服一定就会更好看！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "从她的个性看来，这还真是突发奇想啊。\n但我理解她的确是有她自己的理由，\n于是着手安排修行时间。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "因此我想跟你讨论……\n该拜托谁来陪我修行呢？\n是该麻烦草上飞还是八重呢？",
+            "ChoiceDataList": [
+                "大和抚子．草上飞",
+                "武术少女．八重无敌"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "草上飞的言行举止都很简洁洗练，\n真的很优雅呢～！\n要是我也能变得跟她一样……♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "于是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "打……打扰了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "草上飞，今天请你多多指教！\n关于修行的内容呢──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "──“怪物”丸善斯基。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "咦？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "你和我一样……\n我们都追寻着同一个伟大的背影……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "──你是否已经磨利锋芒？\n我先在此测试测试你的实力吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "呀啊啊啊啊啊啊！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "……逗你玩的啦～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "咦？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "呵呵，\n我看千代王前辈似乎有点紧张……\n所以稍微恶作剧了一下～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "……啊，这样啊～！\n什么嘛，原来只是开玩笑啊～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "啊哈哈，吓我一跳。\n我就说嘛，\n草上飞怎么可能那么凶狠。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "呵呵～听说你喜欢吃日式点心，\n我们边喝抹茶边聊吧～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "我也期许自己能够成为大和抚子。\n一起聊聊要怎么成为理想的模样～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "草上飞的修行内容就是边品尝日式点心\n边喝茶……不，应该称为茶道课才对。\n她们悠闲地度过了一段充实的时光……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "啊，训练员～\n早安呀～",
+            "ChoiceDataList": [
+                "……你的讲话方式有点不一样了？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "呵呵，这样子啊～？\n是不是变得更有大和抚子的模样了呢～♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "对了，下次要不要来趟神社寺庙之旅？\n上次草上飞教了我很多～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看来单纯的樱花千代王被草上飞\n传染讲话方式了。之后有好一段时间，\n她都维持着文静娴熟的讲话方式。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "八重啊……！\n跟她一起修行一定会很严苛，\n我要先做好觉悟！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "于是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "──我也还相当不成熟，\n并不是足以教导别人的身份。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "不过……你那份“想要变强”的心意\n令我印象深刻。\n我会尽我所能努力指导你的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "变强……没错，就是这样！\n谢谢你愿意帮忙，\n请多多指教！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "那么，正式开始锻炼前……\n得先对用来锻炼的场地表达感谢，\n先用抹布擦地板──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "来回一百趟，请跟我一起擦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "……！好的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "呼……呼呼～～\n一百趟结束了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "呼……辛苦了。\n那接下来开始锻炼……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "……在那之前，先原地打一百次直拳。\n这是为了热身。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "……！？\n好、好的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "──九九……一百……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "呼啊啊啊啊啊～～～\n呼……我打完一百次了…………！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "做得很好。\n那么，正式的锻炼内容……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "就不需要了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "好的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "……什么！？\n就这样结束了吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "啊，难道你认为\n我没有资质……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "不，正好相反。正是因为千代王很有资质，\n所以我才认为你不需要锻炼。\n因为你已经非常强了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "什么！？我……很强吗？\n但我现在喘得很厉害喔？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "我认为你的强项在于精神层面。\n为了成为理想中的自己，\n持续挑战的信念非常坚定……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "只要能意识到这点，\n你一定也能表现得很有自信，\n根本不用特地向我学习。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "……！\n八重……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "武术之路不能说完全没有风险。\n所以，若是你真心想要学习……\n到时请再来找我吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "届时我会诚心以礼相待的。\n──今天谢谢你了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "谢谢你……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "樱花千代王俐落地鞠躬，\n她的侧面看起来似乎比往常多了点自信。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

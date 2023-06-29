@@ -1,0 +1,56 @@
+{
+    "Title": "缺席的理由……",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "樱花千代王没有来训练……\n正当我这么想时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "很抱歉！我迟到了！",
+            "ChoiceDataList": [
+                "发生了什么事吗？",
+                "发生了什么事吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "训练时间前我想稍微休息一下，\n躺着躺着不小心就睡着了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "其实，昨天晚上我看了鬼故事影片，\n结果睡不太著……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "我想转换一下心情，于是开始做点心，\n结果太沉迷，一不小心就做到早上……\n这才是最可怕的地方……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "都怪我不小心，给你添了麻烦。\n以后我会多加注意的……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看来樱花千代王有在好好反省了，\n所以我只稍微叮咛几句，就放过了她。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

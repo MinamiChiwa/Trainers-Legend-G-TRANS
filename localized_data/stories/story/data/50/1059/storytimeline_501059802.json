@@ -1,0 +1,455 @@
+{
+    "Title": "香气缭绕",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "某天，目白多伯邀请我参加\n自制叫做“扩香瓶”的\n室内香氛活动。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "为了喜欢香草的她，\n我必须尽全力提供协助，\n帮她做出香味迷人的香氛……！",
+            "ChoiceDataList": [
+                "该摘哪一种香草才好？",
+                "该摘哪一种香草才好？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "……不，\n这个活动不用那么拼命。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "啊哈哈，冷静点，训练员。\n不用那么拼命也没关系。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "话说回来，我们已经走了很多路……\n我想休息一下，你也坐下吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "走了这么多路，应该累了吧？\n我带了花草茶，我们休息一下吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "……我有巧克力，你拿去吃吧？\n万一途中累倒就伤脑筋了。",
+            "ChoiceDataList": [
+                "那活动怎么办？",
+                "那活动怎么办？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "我带了巧克力之类的各种零食喔！\n运动之后就要补充糖分，对吧？",
+            "ChoiceDataList": [
+                "那活动怎么办？",
+                "那活动怎么办？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "反正活动到傍晚才结束。\n好了，快到那边的阴凉处吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "活动到傍晚才结束，没问题的！\n好了，快到那边的阴凉处休息吧。\n来来来！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我拗不过目白多伯难得的强硬态度，\n接受了她贴心的照顾。\n接着，正式开始采集香草时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我拗不过目白多伯难得的强硬态度，\n接受了她贴心的照顾。\n接着，正式开始采集香草时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "啊，那边有迷迭香……",
+            "ChoiceDataList": [
+                "那要摘吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "不过，这样好吗？\n虽然清新又能提振精神，\n但也会让人觉得要再努力一点。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "那样就本末倒置了吧。\n还是挑其他香草比较好……",
+            "ChoiceDataList": [
+                "哈啰哈啰？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "没、没什么！\n暂时先不用，我去那边找找。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "啊……没、没什么。\n总之，暂时先不摘迷迭香。\n训练员，我去那边看看！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "爬上这个山崖，\n肯定能找到那种香草……！",
+            "ChoiceDataList": [
+                "爬、爬上这个山崖！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "可是我需要“穆纳”！\n生长在高地的那种香草……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "具有放松的效果，而且很健康！",
+            "ChoiceDataList": [
+                "要是受伤，可就顾不上健康了……！",
+                "要是受伤，可就顾不上健康了……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她说这个活动不用太拼命，\n却又铆足全力的样子让我感到奇怪，\n我继续陪她摘香草……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "几天后，我接到“扩香瓶”完成的通知。\n正想着她是不是要让我看看\n完成品……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "……给你，这是之前做的“扩香瓶”。",
+            "ChoiceDataList": [
+                "……嗯？",
+                "……嗯？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "给你，这是之前做的“扩香瓶”。",
+            "ChoiceDataList": [
+                "……嗯？",
+                "……嗯？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "怎样，你不要吗？\n成品……我自认品质算是有保障的。",
+            "ChoiceDataList": [
+                "咦！？这、这不是你的吗……",
+                "咦！？这、这不是你的吗……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "咦……你不要吗？\n闻起来很香，\n我对成品颇有自信的……",
+            "ChoiceDataList": [
+                "咦！？这、这不是你的吗……",
+                "咦！？这、这不是你的吗……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "不是，我自己已经有好几个了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "咦？我有那么说过吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "其实……不久之前，\n首席训练员打电话给我。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "……其实不久之前，\n首席训练员打电话给我。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "你好，好久不见！\n请问有什么事吗……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "你好，好久不见！\n请问有什么事吗……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "首席训练员",
+            "Text": "“不知道你最近过得怎么样？\n没有拼命过头，勉强自己吧？\n有好好休息吗？”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "我过得很好！\n还有跟目白家的所有人举办茶会。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "我真的没事……\n……该担心的不是我。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "首席训练员",
+            "Text": "“小多……？”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "啊，没事！没什么。\n一点问题都没有……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "首席训练员",
+            "Text": "“这样啊……可以问个问题吗？”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "好、好的……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "首席训练员",
+            "Text": "“小多你是个体贴的孩子，\n比你自己想的更懂得体贴他人。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "首席训练员",
+            "Text": "“所以要对自己的体贴更有自信。\n那样一来，凡事都会很顺利的。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "首席训练员",
+            "Text": "“呵呵，加油喔，我支持你！”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "……好、好的！\n谢谢你打电话来，我先挂了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "……你满脑子总是\n只考虑我的事吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "……训练员，\n你总是要我休息，\n一直非常关心我吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "该说是看不下去\n你那么劳碌的样子吗……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "所以……\n我也想稍微回报些什么。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "摘香草时，她嘴上说着不要太拼命\n却铆足全力……\n似乎全是因为为了我着想。",
+            "ChoiceDataList": [
+                "谢谢你为我着想",
+                "谢谢你为我着想"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "摘香草时，她嘴上说着不要太拼命\n却铆足全力……\n似乎全是因为为了我着想。",
+            "ChoiceDataList": [
+                "谢谢你为我着想",
+                "谢谢你为我着想"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "我、我可不是为了你！\n我只是不想辜负那个人的期待！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "不，我才要道谢。\n谢谢你一直非常重视我。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "而且……如果我们不健健康康，\n能赢的比赛也赢不了，对吧。",
+            "ChoiceDataList": [
+                "今后也要一起加油喔",
+                "今后也要一起加油喔",
+                "下次换我报答你了",
+                "下次换我报答你了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "总之……看到你开心就好。\n这样我也多少报答了\n平常的照顾之恩。",
+            "ChoiceDataList": [
+                "今后也要一起加油喔",
+                "今后也要一起加油喔",
+                "下次换我报答你了",
+                "下次换我报答你了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "毕竟是我辛苦做的，\n所以要好好工作喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "嗯！我会期待的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "别被迷人的香味吸引，疏忽了工作喔？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "从明天开始的训练\n一起加油吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "没关系，要那么说的话就没完没了了吧？",
+            "ChoiceDataList": [
+                "反正我们的关系是没有尽头的吧？",
+                "反正我们的关系是没有尽头的吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "没关系，要那么说的话就没完没了了吧？",
+            "ChoiceDataList": [
+                "反正我们的关系是没有尽头的吧？",
+                "反正我们的关系是没有尽头的吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "咦？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "等、等一下……\n呃，这句话……是什么意思……",
+            "ChoiceDataList": [
+                "身为训练员，我会尽全力奉陪到底！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "……唉～～～\n别用那种会吓人一跳的说词啦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "啊……咦！！现在才说这种话？\n那不是平常在做的事吗！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "……总之，既然你想报答的话，\n就随你高兴吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "……吓我一跳。\n还以为是那意思……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

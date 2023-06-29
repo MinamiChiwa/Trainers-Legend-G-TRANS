@@ -1,0 +1,367 @@
+{
+    "Title": "“包含在泡泡中的心意”",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "某天假日，正当我走在街上时……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "哟……拿起来很轻呢！\n哦哦……选这个怎么样！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "嗯嗯……这个真的好吗？\n是否先别拘泥于泡沫时期风格比较好～",
+            "ChoiceDataList": [
+                "你们在做什么……？",
+                "你们在做什么……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "啊，训练员！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "你好啊～\n我们正在挑选\n要送给丸姐的礼物♪",
+            "ChoiceDataList": [
+                "礼物？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "没错！\n我们等一下要去参加丸姐的谈话活动\n“热潮游行☆座谈会♪”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "这个座谈活动非常受欢迎，今天已经是\n第134次举办了呢！顺带一提，\n这是第四次在今天这个会场举办──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "今天我们是受邀参加的喔。\n所以千代王就说\n想送她礼物表达谢意！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "我觉得跟真机伶一起挑选，\n一定能买到很棒的礼物！\n看你的UG也学到了很多喔～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "嘿嘿，谢谢你♪不过以真机伶的基准来说，\n所谓的“很棒的礼物”是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "喔喔喔喔～～～～！？！？\n是千代跟真机伶耶！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "千代王也在就代表……\n难道你们也是来参加丸姐的活动？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "没错！\n特别周你们也是吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "是啊。活动开始前，\n我们先来挑选要带给丸姐的伴手礼！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "我们也是～！\n这间店果然很有丸姐的风格呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "啊！不过……\n这样一来，我们每个人送的礼物\n会不会都差不多？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "那还是别挑有“丸姐风格”的礼物，\n改买自己想送的礼物如何？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "自己想送的礼物……\n想送她的礼物……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "我想到了～～～～！！\n就买可乐饼～～～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "那是你自己想吃的东西吧！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "不过……这样的话，\n我也想让丸姐吃吃看\n来自我故乡的美味特产……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "券藏，等一下！\n我们去北海道物产展～～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "才、才一转眼……！\n大家就有自己的想法了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "千代王应该也有想送的东西吧？\n选你“自己”想送的东西就好喔♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "咦咦咦咦～～～～！\n好难决定……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "是要送给那位丸姐的喔？\n我选的礼物真的能让她开心吗……",
+            "ChoiceDataList": [
+                "丸善斯基是个怎么样的人？",
+                "翻翻千代笔记或许会有答案"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "咦？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "……难道丸姐是会\n区分礼物优劣顺序的人吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "……！\n她、她才不会！绝对不会！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "她对我这种人也非常温柔，\n送她礼物时……她都会很珍惜\n对方的这份心意……所以……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "所以……我知道了！\n我就送自己想送的东西吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "喔，你心里果然有想法了呢～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "是的。\n其实我一直都很想送她某个礼物，\n希望她能够收下。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "但我怕自己太厚脸皮，所以一直没有送出……\n这次就来挑战看看……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "──哎呀，这是……\n樱花造型钥匙圈？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "是、是的……！\n整体是日式风格，还附着挂绳……\n我觉得很可爱……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "还有，那个……其实我……\n也有一个同款钥匙圈……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "哎呀，真的吗！？\n成双成对呢～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "抱、抱歉这么自作主张！\n要是让你觉得不舒服，还请丢掉吧～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "呵呵，我才不会丢掉呢。\n千代有这份心意，我很开心喔！\n谢谢你♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "……千代王还真是热情呢，\n虽然她本人似乎没有发现。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就这样，樱花千代王顺利地\n将礼物送给最崇拜的对象了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "什么……！？\n好主意！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "最近丸姐曾在采访中回答过近况……！\n搞不好里面有什么提示，\n可以知道丸姐“想要的东西”！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "哇，好厉害！写得满满的……！\n这些全都是有关丸姐的资讯吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "是的！我把看了觉得\n很重要的部分都抄下来了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "这样啊～～看这密密麻麻的内容，\n几乎快把整篇文章抄下来了吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "抄到最后总是会觉得整篇都需要抄下来呢～～\n啊，找到了！最新一期的“潮流月刊”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "嗯嗯嗯……“辛苦啦”、\n“热海的罗马浴场”、“大失败”、\n“都会风按摩器”……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真机伶",
+            "Text": "……这些是什么暗号吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "我知道了！\n从这些资讯中获得的答案就是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "──哎呀，整套入浴剂！？\n谢谢你呀～♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "最近我全身僵硬到不行～\n正想好好疗愈一下身体呢～！\n我好～高兴喔♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "嘿嘿嘿……♪\n看你这么开心，我也觉得很幸福。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "呵呵……不过，最能治愈我的\n还是千代的笑容喔♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "……！\n哇、哇哇～～真的吗？哇啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "……你真是了解我呢。\n真的很谢谢你喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "嘿嘿嘿……不客气！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}
