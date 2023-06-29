@@ -1,0 +1,111 @@
+{
+    "Title": "迎向宝冢纪念",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "我们来到了阪神赛场！\n请问各位最看好哪位赛马娘呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众A",
+            "Text": "我看好的是生野狄杜斯～\n生野，你今天一定要拿到第一名喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众B",
+            "Text": "我比较支持目白善信。\n她去年在宝冢纪念的表现真的棒透了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众C",
+            "Text": "我觉得西野花有机会，\n虽然这次不是她擅长的距离，\n不过我感觉她很有潜力……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "西野花"
+            ]
+        },
+        {
+            "Name": "观众D",
+            "Text": "不不不，\n应该是目白麦昆最有赢面吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "目白麦昆也是大多观众最看好的赛马娘！\n那请问你比较看好谁呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "这次麦克风对着的人是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "戴圆框眼镜的记者",
+            "Text": "当然是\n待兼唐怀瑟……！",
+            "ChoiceDataList": [
+                "！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "戴圆框眼镜的记者",
+            "Text": "她的个性很积极乐观，能带给其他人勇气。\n我今天……也是为了从她身上获得活力而来的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "唐怀瑟。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "啊，麦昆！\n怎么了吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "在“天皇赏（春）”相互切磋时，\n我感觉到你最近进步得非常神速呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "今天最需要注意的对手就是你了。\n我可不会手下留情喔……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "请多多指教。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "哇……！彼此彼此！\n我才要请你今天多多指教！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

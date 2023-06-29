@@ -1,0 +1,443 @@
+{
+    "Title": "夏季集训（第二年）途中",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "八重无敌以“菊花赏”为目标，\n认真度过了夏季集训。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "呼……呼……呼……",
+            "ChoiceDataList": [
+                "目标成绩达成！休息一下吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "是！感谢指导！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "喔，八重也要休息了吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "八重的训练员，\n辛苦了！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她是青竹回忆。担任纠察队员，\n活力十足又有礼貌的赛马娘。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "青竹回忆"
+            ]
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "……你好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她是作为模特儿也相当有名的黄金城市。\n就连在海边也吸引了许多人的视线。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "黄金城市"
+            ]
+        },
+        {
+            "Name": "独白",
+            "Text": "八重无敌和青竹回忆是闪耀系列赛的同期，\n黄金城市则比她们早了一个世代。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "城市刚才在跟我说玉藻前辈最近很不得了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "城市",
+                "玉藻前辈"
+            ]
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "我听说最近许多人都在争相采访玉藻。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "“白色闪电”玉藻十字──\n去年在经典级即将结束时，\n突然开始崭露头角的赛马娘。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "白色闪电",
+                "玉藻十字"
+            ]
+        },
+        {
+            "Name": "独白",
+            "Text": "玉藻十字出生的环境不怎么好。\n她扭转逆境实现梦想的身影打动了人们的心，\n替她赢得许多支持。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "经典三冠的竞赛我每一场都有参加，\n所以更觉得不能输给玉藻前辈……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "不过玉藻前辈在“天皇赏（春）”时……\n展现了压倒性的实力。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "天皇赏（春）"
+            ]
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "所以城市这次难得全程参加集训。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "是啊。如果边训练边兼顾模特儿的工作，\n是无法追上玉藻前辈的。\n我下次绝对要赢过她。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "话说在青竹前辈的世代，\n小栗前辈也掀起了一阵热潮吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "青竹前辈",
+                "小栗前辈"
+            ]
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "毕竟地方出身的赛马娘在中央跑出好成绩，\n是很棒的成功故事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "如果继续赢下去，\n会变得越来越受欢迎吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "小栗同学……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "这么说来，八重在“每日杯”\n有和小栗前辈一起跑过吧？\n你觉得怎么样？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "是的。小栗同学她……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "（……我并没有从她身上感觉到\n令人刺痛的压力。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "（明镜止水。她跑得自然又沉着。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "（散发的气氛宛如被阳光照亮的群山。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "（又像是清澈的流水。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "（“想跑步”的本能流露而出，\n奔驰得理所当然的身影正是──）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "（无我的境界……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "（那是习武之人想要抵达的究极心态。\n原来如此……这就是小栗同学的风格。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "（或许就是因为我亲身体验过\n小栗同学的那种风格，\n我当时才觉得我们迟早会再次交锋──）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "……八重？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "咦？……啊，失礼了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "小栗同学的跑法和我完全不同。\n可以说是完全相反。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "嗯～？那她的实力呢！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "我判断她的资质是仙人等级。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "仙人！？\n小栗前辈果然很强！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "……从她现在的样子，\n实在看不出来有那么厉害……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "朝黄金城市指示的方向看过去后──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "三人",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "……不过她真的跑赢了许多比赛。\n实力应该是毋庸置疑吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "那要不要来共同训练！？\n一起拟定针对小栗前辈的对策！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "嗯……我赞成。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "我也要参加。\n毕竟我迟早会对上小栗前辈。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "就这么决定了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "训练员。\n该做什么样的训练比较好？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "难得来到海边。\n说到能够活用沙滩的训练──",
+            "ChoiceDataList": [
+                "来打西瓜吧！",
+                "穿着袜子进行沙滩夺旗"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "打西瓜算是训练吗？",
+            "ChoiceDataList": [
+                "可以锻炼集中力和平衡感喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看不见的时候，\n就连走直线都有困难。\n需要强大的集中力跟平衡感才能做到。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "有一种训练方式是闭上眼睛单脚站立，\n借此培养平衡感。\n所以封闭视觉应该对训练有帮助吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "那就快点来准备吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "青竹前辈！\n你逐渐往左偏了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "抬起右肩，身体保持笔直。\n啊，抬得太高了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "呜啊啊啊～～～！\n头好晕～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "为、为什么……\n你们两个可以走得这么直啊……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "我好歹是个模特儿。\n平常就习惯走台步。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "不依靠眼睛，以其他感官掌握周围状况。\n这是武道的基本。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "唔唔唔唔～！我、我怎么能输给你们！\n我也要进行特训～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我们就这样进行了充实的训练，\n最后大家一起津津有味地享用西瓜。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "……沙滩夺旗我还能够理解。\n但为什么要穿袜子？",
+            "ChoiceDataList": [
+                "这样在沙滩上会比赤脚时难跑"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "赤脚时能靠脚趾抓住沙子，\n跑起来会比穿鞋子时轻松。\n所以要靠袜子增加负担。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我向她们说明穿袜子脚会比较滑，\n可以一并练习如何稳稳地踏出脚步。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "喔～原来还可以用这种方法增加负担！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "……我这次有多带几双袜子来吗……\n算了，再洗就好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "那就来准备吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "喝啊啊！\n我抢到旗子了──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "可恶～～～！\n我下次绝对要抢到！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "八重无敌她们就这样反复在沙滩上冲刺，\n直到白色袜子都变黑为止。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

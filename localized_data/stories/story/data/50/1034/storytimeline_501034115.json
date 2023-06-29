@@ -1,0 +1,444 @@
+{
+    "Title": "一个人是办不了祭典的",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "呼……呼……呼……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "那个节目播出后又过了几天。\n稻荷一就跟往常一样\n奋力投入训练。可是──",
+            "ChoiceDataList": [
+                "（……这样下去真的好吗？）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "说到底，她正是为了大井，\n才会以地方的“巅峰”为目标。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "可是，如果稻荷一因此与师傅，\n甚至与大井产生不愉快的话，\n她的心意就白费了──",
+            "ChoiceDataList": [
+                "（我还是无法放着不管……！）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──第二天。\n我下定了决心，\n瞒着稻荷一独自来到大井赛场。",
+            "ChoiceDataList": [
+                "（……稻荷一，抱歉。）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "紫色发圈的赛马娘",
+            "Text": "──咦！？\n这不是稻荷姐的训练员吗！\n你今天一个人啊？",
+            "ChoiceDataList": [
+                "我想见她的师傅……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "紫色发圈的赛马娘",
+            "Text": "师傅？等我一下。\n──师傅～～！有客人来啰～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "师傅",
+            "Text": "怎么啦！何必叫得这么大声……\n咦，你是──",
+            "ChoiceDataList": [
+                "关于稻荷一的事，我有话想跟你说"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "然后我向他说明，\n稻荷一想在地方比赛的真正目的，\n以及她的目标──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "师傅",
+            "Text": "为了正大光明宣告，\n地方的跑法不输中央……\n所以要爬上地方与中央的“巅峰”吗……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "师傅",
+            "Text": "真是的，稻荷那家伙──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "师傅",
+            "Text": "这番话还真了不起嘛。\n这样我就懂了。",
+            "ChoiceDataList": [
+                "稻荷一的师傅……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "师傅",
+            "Text": "──不过。\n正因为如此我更是无法原谅她……\n真令人不爽！！",
+            "ChoiceDataList": [
+                "咦！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "师傅",
+            "Text": "训练员。不好意思，\n我现在要去一趟特雷森学园。\n你可以帮我向学园说一声吗？",
+            "ChoiceDataList": [
+                "咦！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "呼……呼……呼……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "……我得练跑练得更勤才行。\n不然是赢不过大井的选手们的……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "师傅",
+            "Text": "──喔喔喔喔！\n看来你很拼命地在自主练习嘛，\n稻荷！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "咦──\n咦，咦咦！？师傅！？\n你为什么会来这里！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "难不成……",
+            "ChoiceDataList": [
+                "……抱歉，稻荷一"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "你……为什么……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "师傅",
+            "Text": "──别废话了，大傻瓜！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "师傅",
+            "Text": "……训练员可是因为担心你，\n才会几经挣扎后下定决心告诉我的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "师傅",
+            "Text": "要是因此责备他……\n可一点都不潇洒吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "师傅",
+            "Text": "稻荷。\n我明白你今后想做的事了。\n虽然明白──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "师傅",
+            "Text": "但我很不爽。\n没错，非常不爽！\n你这大笨蛋简直笨到极点！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "……呵。我无话可说。\n我确实违背了师傅的勉励，\n没去跑中央，反而去跑地方比赛──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "师傅",
+            "Text": "你在说什么！！\n我可不是在不爽这件事！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "咦……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "师傅",
+            "Text": "──你为什么不大方地来跟我宣告\n未来要以“巅峰”为目标？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "那、那是……！因为我知道\n师傅手下的选手及大井选手的实力，\n所以无法轻易说出口──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "师傅",
+            "Text": "我就是不爽这一点！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "唔！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "师傅",
+            "Text": "说得满嘴好听的借口，你是在害怕吧！\n如果想比谁能爬上“巅峰”，\n就抬头挺胸地来挑衅我们啊！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "师傅",
+            "Text": "还是说你打算不经一番真本事较量就\n自行宣布自己已经爬上“巅峰”？\n你这大傻瓜！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "师傅",
+            "Text": "那种“巅峰”\n有什么价值！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "师傅",
+            "Text": "还有你擅自决定“该这么做”后，\n就固执己见──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "师傅",
+            "Text": "甚至没把一起跑闪耀系列赛的伙伴\n放在眼里，这一点也令我很不爽。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "────",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "师傅",
+            "Text": "难道你跑到特雷森学园后\n就忘记这句话了吗？稻荷。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "师傅",
+            "Text": "所谓的祭典，\n一个人是办不成的。",
+            "ChoiceDataList": [
+                "稻荷一的师傅……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "师傅",
+            "Text": "所以──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "师傅",
+            "Text": "──中央的稻荷一！！\n给我把耳朵掏干净听清楚了！！",
+            "ChoiceDataList": [
+                "！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "师傅",
+            "Text": "你想爬上地方“颠峰”的气概！\n由我代表大井确实领受了！！\n但是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "师傅",
+            "Text": "──胜利的将会是我们！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "────",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "……真的很谢谢你。\n师傅──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "──在下稻荷一！！\n正大光明地在此宣示！\n将全心全力在大井大放异彩──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "爬上地方的“巅峰”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "到那一刻前……还请做好准备吧！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "师傅",
+            "Text": "──哼，正合我意。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "师傅",
+            "Text": "“巅峰”。\n你爬得上去的话就给我试试看啊。\n大傻瓜。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "师傅",
+            "Text": "……训练员。\n那我就先失陪了。\n谢谢你带我来啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "师傅",
+            "Text": "──再见，稻荷。\n你可要把自己调整好啊。\n我们是很强的喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "……嗯，我很清楚。\n正因为如此──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "爬上这个“巅峰”\n才更有意义……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "──大哥，今天谢谢了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "──大姐，今天谢谢了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "还有……\n真的很抱歉。\n害你额外为我操心。",
+            "ChoiceDataList": [
+                "我擅自跑去告诉他这件事……我也要道歉",
+                "我擅自跑去告诉他这件事……我也要道歉"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "没关系了啦！\n……就让这件事过去吧。\n我今天终于了解了──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "之前我擅自对师傅的想法下定论……\n也不管你的想法，\n一个人闷着头向前冲。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "不去面对任何人，甚至还逃避，\n自顾自地任性妄为……\n但我不会再做这种事了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "以后我会大方说出来！也会好好正视的！\n我会与大井的选手正面较量，\n并爬上“巅峰”！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "为了这个目标……\n明天起要请大哥继续关照了！",
+            "ChoiceDataList": [
+                "好……！",
+                "嗯……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "为了这个目标……\n明天起要请大姐继续关照了！",
+            "ChoiceDataList": [
+                "好……！",
+                "嗯……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "稻荷一解开与师傅之间的误会后，\n我放下了心中大石，同时也再次感受到，\n她与大井的深厚情谊──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

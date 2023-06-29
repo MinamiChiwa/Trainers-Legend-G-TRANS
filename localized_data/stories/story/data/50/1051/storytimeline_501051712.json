@@ -1,0 +1,44 @@
+{
+    "Title": "缺席的理由……",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "训练时间到了，但西野花迟迟没出现……\n当我心想她怎么没来时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "对、对不起！我迟到了！",
+            "ChoiceDataList": [
+                "发生了什么事吗？",
+                "发生了什么事吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "其实是因为我在花坛\n发现了一朵即将绽放的花苞……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "我边紧盯着它边替它加油，\n不知不觉就这么晚了……\n真的很对不起……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "看来西野花已经在好好反省，\n于是我提醒她下次要注意后，便不再追究了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

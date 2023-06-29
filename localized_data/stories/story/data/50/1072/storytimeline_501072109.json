@@ -1,0 +1,399 @@
+{
+    "Title": "圣诞节",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我今天和八重无敌一起外出购物。\n街上已经充满了圣诞气息，到处都很热闹。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "我每年都是看见街上的装饰，\n才发现圣诞节快到了。",
+            "ChoiceDataList": [
+                "你圣诞节都不会做什么特别的事吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "我自己不会特别做什么。\n但有参加过学园或宿舍举办的宴会。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "我也是在参加过宿舍的宴会后，\n才第一次知道交换礼物的习俗。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "那真的很棒。\n无论是什么样的礼物，\n只要能让大家一同欢笑就是好事。",
+            "ChoiceDataList": [
+                "你以前在老家都怎么过圣诞节？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "我们过得非常简单。\n装饰圣诞树，晚餐吃烤鸡。\n啊，还会吃蛋糕。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "至于礼物…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "……训练员，你知道吗？\n圣诞老人只会送好孩子礼物。",
+            "ChoiceDataList": [
+                "好像是这样？",
+                "好像是这样？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "所以圣诞老人没来找过我。",
+            "ChoiceDataList": [
+                "…………咦？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "正确来说，是没在“圣诞节的时候”来找我。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "年幼的八重无敌",
+            "Text": "………………袜子里是空的……\n我明明有当个好孩子……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌的祖父",
+            "Text": "只有这几天而已。\n上星期和上个月呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "年幼的八重无敌",
+            "Text": "…………唔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌的祖父",
+            "Text": "八重平常的行为，圣诞老人都看在眼里。\n所以只要你好好改过自新，\n圣诞老人总有一天会送礼物给你。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "……之后我认真训练。\n几天后就收到了礼物。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "圣诞老人有在看着我，\n只要改正愚昧的行为就能收到礼物。\n这让我感到强烈的满足──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "……现在回想起来，\n那也是我的自我表现欲\n在“获得圣诞老人认同”后得到了满足。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "如果以一般的方式获得礼物，\n我一定不会想要认真训练吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "正因为原本没有被认定为好孩子，\n获得认同时的喜悦才格外强烈。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "……爷爷早在那时候就看穿了\n我真正的欲望……",
+            "ChoiceDataList": [
+                "原来是这样啊……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "圣诞礼物的经验，\n毫无疑问地为八重无敌的成长做出了贡献……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "不过无法在圣诞节当天\n收到圣诞老人的礼物，\n还是让人觉得有点寂寞──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "嗨，八重的训练员。\n你找我有什么事？",
+            "ChoiceDataList": [
+                "其实我想成为八重的圣诞老人"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我想让努力的八重无敌能收到\n圣诞老人的礼物。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "为了执行这个计划，我决定拜托\n栗东宿舍的宿舍长富士奇石帮忙。\n我简单向她说明前几天的事情。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "……原来如此。\n嗯，听起来不错！我非常赞成！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "所以你想拜托我在圣诞节前一天晚上，\n送礼物给八重吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "所谓圣诞老人的礼物，\n当然就是要早上起床时，\n就已经装在枕边的袜子里面才行呢！",
+            "ChoiceDataList": [
+                "是啊，就是这样！",
+                "嗯，就是这样！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我无法进入栗东宿舍，\n所以只能拜托住宿生\n晚上过去放礼物。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "只有一件事情让我不放心……\n那就是八重无敌身为武道家的直觉十分敏锐。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "即使是趁她睡着时潜入房间，\n还是有可能被她察觉气息。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "呵呵，交给我吧！\n其实我很擅长变魔术。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "只要趁八重不在时准备好机关，\n就能让她在圣诞节早上发现礼物！",
+            "ChoiceDataList": [
+                "真的吗！？那可以拜托你吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "当然没问题！\n我很乐意协助你制造这个美妙的惊喜！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "然后，到了圣诞节当天的早上──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "早安，训练员。",
+            "ChoiceDataList": [
+                "早安！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "那个……\n谢谢你的圣诞节礼物。",
+            "ChoiceDataList": [
+                "……………………嗯！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "这个礼物。\n是训练员准备的吧……",
+            "ChoiceDataList": [
+                "…………咦！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "啊！我知道原本的计划应该是\n要放进袜子里给我一个惊喜。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "不过……我昨天吃完晚餐后，\n就在床下发现了这个……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "要不是我弄掉的铅笔刚好滚到了床下……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "真的非常抱歉！！\n我糟蹋了富士和训练员的好意，\n真是令人扼腕……！",
+            "ChoiceDataList": [
+                "这也没办法……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "既然是碰巧发现那也没办法。\n只是对特地帮忙的富士奇石很不好意思。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "不过……我很开心。\n礼物当然是一个原因──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "再来就是训练员为我费了许多工夫。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "…………呵呵，失礼了。\n我憋不住笑容……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "虽然我的惊喜失败了，\n但还是成功让八重无敌感到开心！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "早安，训练员！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "你看！！\n我收到圣诞老人的礼物了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "我今天一起床，就在枕边发现了这个！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "既然是装在袜子里，\n应该是圣诞老人的礼物吧！",
+            "ChoiceDataList": [
+                "因为八重是好孩子，所以才能收到礼物！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "果然是这样！\n……虽然我有点在意圣诞老人是什么人……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "但这时候就先别追究吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "圣诞老人总算……\n总算认同我是好孩子了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "啊啊！好想向圣诞老人\n传达我的喜悦和感谢……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "不过探究圣诞老人的真实身份，\n未免太不解风情了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "嗯……如果把感谢信放在袜子里，\n不晓得他会不会收到……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "好，就这么做吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我成功制造了惊喜，\n让八重无敌感到非常开心！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "几天后，我透过富士奇石，\n收到了八重无敌写的感谢信。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

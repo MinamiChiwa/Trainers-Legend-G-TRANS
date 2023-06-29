@@ -1,0 +1,283 @@
+{
+    "Title": "需求定义：建立最佳路径",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这是某天我们在训练时发生的事──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "……一点变化都没有。\n就算继续尝试，短期内结果也一样。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "如果想获得新观点，\n最好再取得这部分的新数据，\n排入例行项目里，但是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "偏偏今天有人包下了赛道啊。\n真烦，这样也没办法收集数据。",
+            "ChoiceDataList": [
+                "要不要去赛场观摩？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "也不是不行，只是要花时间过去那里。\n你等我一下。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "……这样可以吧？",
+            "ChoiceDataList": [
+                "“站内的鲷鱼烧超好吃”……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她把讯息传到了栗东宿舍的群组。\n看起来内容只是在闲聊，\n究竟这是怎么回事呢……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "静静看就知道了。\n先来做基础训练打发时间吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "──所以呢，由小特赞助的\n鲷鱼烧茶会开始！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "呜呜～我的鲷鱼烧～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "小特，这也没办法。\n虽然你是被神宫的讯息吸引才跑去买的，\n但是真的买太多了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "如果你一个人吃掉全部……\n可能会体重爆增。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "小特，对不起喔，\n明明是你买的鲷鱼烧，却要分给大家吃。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "富士前辈！\n不会啦，也是我请大家来帮忙吃的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "是喔？不过我也觉得开茶会是个好点子喔。\n你看，大家都很高兴！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "嗯！我想说虽然只能吃一点点，\n但是跟大家一起吃会很开心，\n肚子应该也会很饱……嘿嘿嘿。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "……呼～\n这鲷鱼烧真的很好吃耶……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱慕织姬",
+            "Text": "我完全是被卷进来的……\n不过算了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱慕织姬",
+            "Text": "但这下摄取了计划之外的热量，\n得想办法消耗掉才行……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "我有个点子！\n大家一起训练怎么样☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "喔，这想法……不错耶。\n跑一跑应该也能帮助消化。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "嗯嗯！\n既好吃又能让我们做训练……\n鲷鱼烧果然很美丽☆★☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "嗯～既然要跑步，\n那应该可以再多吃一个吧……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱慕织姬",
+            "Text": "你真是学不乖……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "好～！！\n尽情奔跑，把美丽传达给大家吧～☆★☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "干劲十足是好事，\n不过别忘了暖身喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我和空中神宫等了一会──\n不知道为什么，从刚才开始，\n赛马娘就陆续来到训练赛道。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "哈，你的表情看起来很意外啊。\n这就叫“蝴蝶效应”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……意思是她刚才传的讯息，\n让这么多赛马娘都来到了这里？",
+            "ChoiceDataList": [
+                "这样就能做各种训练了！",
+                "这样就能做各种训练了！",
+                "你的着眼点真特别……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "……啥？\n你该不会以为……\n我要跟她们手牵手一起训练？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "拜托你思考得有效率一点。\n我只传一则讯息也是为了效率，\n现场既然来了这么多赛马娘──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "──与其跟她们一个个比，不如从上往下俯瞰、\n收集她们的数据还比较有效率。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "而且平常不会一起并行练跑的人也都来了，\n应该会收集到不错的样本。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "……好了，你也仔细看吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这件事再次让我深刻体会到……\n要比智慧实在赢不过空中神宫。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "我想也是，不过只要运用数值化，\n就能想到这方法。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "说什么这样不切实际或是太乱来……\n那些啰哩啰嗦地讲话鬼打墙的人，\n就是这样故步自封的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "啧，话说太多了，先不提这些──嗯？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼哈顿咖啡",
+            "Text": "怎么了？感觉好像很有趣……\n大家想在这里赛跑吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "喂喂，咖啡，\n你怎么突然偏离原本的方向──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "哎呀，真不可思议，\n竟然有这么多赛马娘同时在做训练……\n看来先留下来观察比较好呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "……喂喂，我没叫她们来啊……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "不过，嗯……\n一样是收集数据的好机会。\n你也仔细看吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这件事让我再次对她过于常人的聪明\n佩服得五体投地……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

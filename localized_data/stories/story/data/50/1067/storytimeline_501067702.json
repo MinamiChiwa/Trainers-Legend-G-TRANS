@@ -1,0 +1,295 @@
+{
+    "Title": "巷子大冒险",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我和里见光钻一起外出的\n回程路上──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "哎呀？哎呀哎呀哎呀！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "训练员，我发现不得了的东西了！\n那边竟然有一条“小路”呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "哇啊～之前都没有注意到耶！\n那条路……不知道会通到哪里去呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我还来不及阻止，\n里见光钻就已经冲向小路了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "呵呵呵，是个感觉有点怪怪的地方呢。\n闹鬼都不奇怪的地方……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "你说的～是像这样的鬼吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "哎呀，是乔登呀。你好♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "喂，你居然一丁点都没有被吓到？\n你不尴尬，尴尬的就是我耶～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "是说，你们在这里做什么啊？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "我因为想知道这条小路会通到什么地方……\n所以现在正在冒险呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "这里的景色特别不同，像是进到不同的世界……\n呵呵呵，真的让我又兴奋又期待♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "这样喔～那要一起走吗？\n我可以带你去一个好地方！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "……然后啊～这家的狗有够可怕的喔！\n跟它对到眼的瞬间就会开始狂叫！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "是只很有活力的狗狗呢！\n不知道是怎样的一只狗狗……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大狗",
+            "Text": "汪汪！汪！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "哇，真的耶！呵呵呵，好可爱喔～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "你玩得还真是开心耶～！\n要不要顺便也去一些会让人开心的店逛逛？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "哎呀，听起来很有趣──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "──哎呀？\n那边的巷子感觉特别昏暗呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "喂，等一下！那边不能去！",
+            "ChoiceDataList": [
+                "那边有什么问题吗？",
+                "那边有什么问题吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "啊～就是～\n一些坏坏的姐姐们常常聚在那个地方之类的？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "虽然她们也没有对我做过什么事～\n但也没必要自己往那边去嘛，对吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "所以啰，小见，\n我们不走那边，改走这边──",
+            "ChoiceDataList": [
+                "已经不见了！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "完了！？喂，小见──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "哎呀，你是不良少女吗……？\n我有在连续剧中看过，那个……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "不良少女",
+            "Text": "啥？你说什么！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "啊，我叫做里见光钻。\n有些问题想要请教。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "说到不良少女，\n我特别喜欢会在雨天帮助淋湿小狗的桥段……\n你也有那样的经验吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "喂喂喂！暂停暂停！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "哎呀，真不好意思耶！\n我们现在立刻就离开～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "咦？啊，可是……！",
+            "ChoiceDataList": [
+                "好了，我们快点回去吧！",
+                "为突然搭话的事情先道歉吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "知、知道了？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "那么我们先失陪了。\n再见♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "啊啊，不良少女……\n要是能再多聊几句的话……真可惜。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "不是吧，你都不会害怕的喔！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "我没有觉得害怕呀？\n连续剧里面的不良少女都会帮助流浪的小狗，\n心地都很善良的呢♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "小见真是疯狂耶～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "因为里见光钻看起来很落寞的样子，\n所以我也不忍心再多责备。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "我那么做的确是有失礼仪……\n抱歉，是我失礼了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "不良少女",
+            "Text": "啧，反正我也没兴趣跟一般人吵架。\n以后自己注意一点啦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "谢谢你！\n原来不良少女都是讲道理的硬派个性，\n这些都是真的呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "不良少女",
+            "Text": "哦？看来你好像很懂嘛。\n嘿嘿，要不要一起去喝饮料啊？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "哎呀，真的可以吗？\n请一定要给我这个机会♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "岛川乔登",
+            "Text": "真假？小见也太强了吧！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "后来，\n里见光钻充满好奇地听着不良少女说话。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

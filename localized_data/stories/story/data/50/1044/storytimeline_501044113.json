@@ -1,0 +1,624 @@
+{
+    "Title": "魔法之家",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "……祖母、祖母！\n跟我说说“赛跑魔法”！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "变革的祖母",
+            "Text": "啊哈哈！\n看来Sweepy真的很好奇那个魔法呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "因为祖母觉得\n那是最厉害的魔法呀！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "如果我也参加比赛，\n能找到那个魔法吗？\n能学会怎么用吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "变革的祖母",
+            "Text": "当然可以！\n因为Sweepy是我这个大魔女的孙女啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "变革的祖母",
+            "Text": "不过，要找到是很困难的事情。\n因为那是非常特别──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "变革的祖母",
+            "Text": "──而且足以改变\n一个人的人生的大魔法。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "…………既然连祖母都说是大魔法，\n一定非常非常厉害。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "唉～好想赶快找到……\n赛跑魔法……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "但是如果参加比赛，\n大家一定又会叫我做这个做那个……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "……我只是想要\n找到赛跑魔法而已。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "……真讨厌。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "……嗯？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "呼……呼……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "呼……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "呼……呼……\n虽然没能拿下打比……\n但下一场“菊花赏”一定会赢……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "打比",
+                "菊花赏"
+            ]
+        },
+        {
+            "Name": "赛马娘们",
+            "Text": "呀──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "前辈！你在打比的表现让我好感动！\n请你在“菊花赏”也要以第一名为目标！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "打比赛马娘",
+            "Text": "嗯，谢谢你们的支持！\n如果能为你们带来勇气，那就再好不过了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘B",
+            "Text": "呀～～！\n前辈真是太帅了～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "……不愧是二冠赛马娘。\n和我不一样，是经典三冠的主角……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "啊，是小荒！\n那个……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "小荒"
+            ]
+        },
+        {
+            "Name": "赛马娘B",
+            "Text": "加、加油喔～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "啊哈哈……好的……\n谢谢你……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "……忍不住逃走了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "我明明是因为想成为英雄才来到学园，\n参加比赛也是为了改变自己。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "结果我一事无成，\n也没有任何改变……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "…………\n……咦？那顶帽子是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "！变……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "嘘……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "咦？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "……她好像睡着了。\n不要吵醒她。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "祖母…………\n…………我跟你说……呼……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "……看起来比平常安静多了对吧？\n讲话也变可爱了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "呵呵……是啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "她的祖母似乎住在绿意盎然的土地。\n听说那里就像这座花坛一样，\n开满了许多花朵。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "……所以我之前曾经带她来这里，\n告诉她想休息时可以过来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "但跷掉训练来这里就不太好了。\n我打算等她醒来再念她几句。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "…………\n……气槽非常关注变革呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "是啊，我对她抱持期待。\n……同时也很担心她。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "……我认为她拥有引导别人的力量。\n希望她在这里的生活，\n不会让她失去这个力量。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "引导别人的力量……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "……这件事要对她保密喔。\n要是她得意起来就麻烦了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "嗯……嗯嗯嗯……呜呜……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "教官",
+            "Text": "变革同学，你真是太优秀了！！\n居然入学没多久就能跑出这种成绩！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "教官",
+            "Text": "我决定推荐你参加选拔赛！\n要好好听训练员的话喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中坚训练员A",
+            "Text": "变革，比赛一开始要再抑制一点！\n这也是为了更加发挥你的特色，好吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "资深训练员A",
+            "Text": "东商变革，不可以任性。\n这样会糟蹋你难得的才能。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "什么嘛！不要一直对我下指示！\n我也──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "资深训练员B",
+            "Text": "不行，这都是为了你好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中坚训练员B",
+            "Text": "东商变革！\n你要更加──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中坚训练员C",
+            "Text": "变革，不可以这样。\n你要好好──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "（啊啊……讨厌，又来了……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "呼……呼……祖母……\n我跟你说……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "……我……讨厌这样……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……自从出道战那件事情之后，\n只要一遇到和比赛有关的事，\n东商变革就容易生气。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "经常无法在比赛开始前集中精神。\n起跑落后的次数也变多了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "虽然我试图查明原因，\n但每次想和她认真讨论时，\n反而容易刺激到她──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（开门声……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "使魔，带我去祖母家。",
+            "ChoiceDataList": [
+                "咦！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "快点！快点带我去！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "于是我设法和她的祖母取得联络，\n确认地点和交通方式──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "变革的祖母",
+            "Text": "欢迎你！我可爱的Sweepy！\n你有好几个月没来大魔女的家了呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "祖母！！我跟你说，\n我之前在书上看见了“温蒂妮的彩虹魔法”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "所以我想去河边试试看，可以吗！？\n我想让祖母见识我的魔法！",
+            "ChoiceDataList": [
+                "河边……！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "距离她之前说想参加的\n“阪神JF”剩下两个月。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "如果在这时候不小心掉进\n冰冷的河里导致身体不适……\n或许会无法参赛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "那条河应该不是有经过整顿的安全场所，\n她穿的鞋子也不适合去河边。\n要是不小心滑倒，掉进湍流──",
+            "ChoiceDataList": [
+                "等、等一下！",
+                "等、等一下！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "……使魔，怎样啦？",
+            "ChoiceDataList": [
+                "河流太危险，而且这个时期的气温……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "……你也要说\n“这是为你好”吗？",
+            "ChoiceDataList": [
+                "……咦？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "变革的祖母",
+            "Text": "Sweepy，放心吧。\n你的训练员一定不是那个意思。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "变革的祖母",
+            "Text": "但你现在穿的鞋子不适合去河边。\n如果要施展和精灵有关的魔法，\n就必须配合地点换上适合的服装！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "…………啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "变革的祖母",
+            "Text": "哎呀，Sweepy，你似乎想起来了呢。\n如果想在河边练习魔法──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "就要先换上防滑的鞋子，\n以免和精灵对话时有失礼节！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "变革的祖母",
+            "Text": "没错，另外为了预防天气变冷，\n还要准备温暖的围巾，\n换上能够御寒的衣服！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "东商变革换好鞋子后，\n开始在河边咏唱咒语。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我拿着毛巾和围巾，\n和东商变革的祖母\n一起在旁边守候着她。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "变革的祖母",
+            "Text": "训练员，\n抱歉刚才打断你们说话啊。",
+            "ChoiceDataList": [
+                "我比较不好意思，谢谢你的帮忙"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "变革的祖母",
+            "Text": "…………话说……\n训练员应该也注意到了吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "变革的祖母",
+            "Text": "Sweepy真的是个才华洋溢，\n非常特别的孩子。",
+            "ChoiceDataList": [
+                "……是的，我也这么认为",
+                "……是的，我也这么认为"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "变革的祖母",
+            "Text": "……所以她从小就备受期待，\n也有许多人会“替她担心”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "祖母！使魔！\n我要换个地方咏唱！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "不过我会挑你们看得见的地方！\n别错过我施展魔法的瞬间喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "变革的祖母",
+            "Text": "嗯！Sweepy，我知道了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "变革的祖母",
+            "Text": "……有人担心是件值得感谢的事情。\n因为反过来说，\n等于是有人重视自己。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "变革的祖母",
+            "Text": "不过有时候旁人越是担心，\n越会有种自己不被信任的感觉吧。",
+            "ChoiceDataList": [
+                "……！这……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "变革的祖母",
+            "Text": "大人知道正确的路。\n这是因为我们拥有比小孩子丰富的经验和知识。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "变革的祖母",
+            "Text": "不过小孩子\n其实也并非完全不认识路。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "变革的祖母",
+            "Text": "就算没有大人的引导，\n他们也拥有自己的指南针，\n并不是一无所知的小婴儿。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "变革的祖母",
+            "Text": "所以我并不想引导她，\n而是想支持她。\n因为这是属于她的冒险。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "祖母，开始变冷了！\n在身体着凉前，先喝下午茶吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "变革的祖母",
+            "Text": "嗯，真是个好主意！\n我们回家吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "变革的祖母",
+            "Text": "如果训练员不介意的话，\n要不要再多聊一会儿？\n我请你喝特制的花草茶。",
+            "ChoiceDataList": [
+                "……嗯，当然好"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "之后我们回到东商变革的祖母家，\n一起享受短暂的午茶时光。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

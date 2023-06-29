@@ -1,0 +1,443 @@
+{
+    "Title": "新年参拜",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "训练员！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "小北的训练员！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部＆光钻",
+            "Text": "新年参拜就麻烦你一起去了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "她们两人对今年怀抱的期望比谁都更具热忱。\n于是我们三人为了许下新年愿望而前往神社。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "年底的“有马纪念”。\n在可以和小钻一起参加那场比赛之前，\n我必须达到最佳状态，所以……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "训练员，在向神明许愿之前，\n我想先想好今年要跑哪些比赛！",
+            "ChoiceDataList": [
+                "好，那就先想好吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "在订定参赛计划之前，\n须要重新确认北部玄驹的\n优势跟特色。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "优势跟特色……\n我在去年的时候就明白了，\n自己没有一个明显的特色。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "强大的尾段加速能力、充满魅力的进攻方式、\n巨星气质，这些我都没有，但是……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "我会竭尽所能地往前冲刺，绝对不放弃！\n就算是这样的方式，也能慢慢增长实力，\n并获得更多人的支持。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "所以我应该要怎么跑才能够……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "……我陷入思考。如果成长幅度不大……\n就只能以数量来弥补不足。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "北部玄驹的长处是异于常人的韧性。\n既然如此，这个春天首先就该──",
+            "ChoiceDataList": [
+                "春天的三场GⅠ，全都参加吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "GⅠ……三场！全部都参加……\n是指所有中距离以上的大比赛吗！？",
+            "ChoiceDataList": [
+                "对，就是大阪杯、天皇赏（春）、宝冢纪念",
+                "嗯，就是大阪杯、天皇赏（春）、宝冢纪念！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "在这三场比赛都跑出好成绩的话，\n大家对你的期待也会──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "感觉很值得挑战呢！\n但我觉得这样可能还是不够！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "再更之后的比赛也可以先决定好吗？",
+            "ChoiceDataList": [
+                "再更之后……！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "训练员为我想的连战计划，\n我想要彻底执行到最后，\n一路挑战到和小钻约好一起跑的“有马纪念”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "宝冢纪念之后接着是“天皇赏（秋）”、\n“日本杯”，然后是“有马纪念”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "宝冢纪念",
+                "天皇赏（秋）",
+                "日本杯"
+            ]
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "我可以把目标定为GⅠ六连战吗？\n拜托了！\n虽然这样感觉很逞强，但我……！",
+            "ChoiceDataList": [
+                "知道了……就这么决定吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "强行参加多场比赛。如果是北部玄驹的话，\n她一定能确实跑完一整年密集的赛程。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "第一场是“大阪杯”吧。\n接下来如果能在“天皇赏（春）”跑出好成绩──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "大阪杯",
+                "天皇赏（春）"
+            ]
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "“宝冢纪念”的支持度票选，\n我说不定也能排进前段班。\n至少要比去年有马的第三支持度更好──",
+            "ChoiceDataList": [
+                "不对，我们的目标是第一名！",
+                "不，我们的目标是第一名喔！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "支持度票选……第一名？\n训练员……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "这点我绝不能退让。\n我们一定要证明，就算没有天生的华丽特质，\n也能获得最高支持度。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "说得也是，第一名！\n支持度跟实力都要是第一名，然后──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "向我爸看齐，\n成为一个实力与名声兼具的赛马娘！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是我们确定了今年的计划，\n也有了一个明确的许愿方向。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "小北，你看起来已经决定好了呢。\n那我们就一起来向神明许愿。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "嗯……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "“资深级正统路线的GⅠ六连战”……！\n每一场都要跑出好成绩，带给大家笑容！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "资深级"
+            ]
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "我一定要“称霸GⅠ”。\n完成宿愿，\n用里见家的光辉照耀大家！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "一个是希望从地上扶摇直上；\n一个是希望从天上绽放光芒。两者虽不同──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "心意却是一样的。\n同样期望以赛马娘的身份去为别人付出……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部＆光钻",
+            "Text": "训练员，谢谢你今天的陪伴！",
+            "ChoiceDataList": [
+                "你们两个都要加油喔",
+                "你们两个都要加油呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "虽然顺利完成了新年参拜，但──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "小钻，那我们就来做每年都做的那个吧。\n新年对战！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "好，我们每年都会这样比赛嘛。\n今年年底还有“有马纪念”可以比，\n在那之前也比个什么吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "看来每次新年都会找事情来比赛\n是她们两人的惯例。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "小北，\n难得今天训练员也在，\n不如就让他来决定要比什么吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "啊，这么说也是。\n训练员，那就麻烦你想一个\n我们两个都能尽全力的比赛吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "要是说“赛跑吧！”就又显得太了无新意。\n说到有新年感的比赛……",
+            "ChoiceDataList": [
+                "笑福面",
+                "冬泳",
+                "新春登山"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "笑福面……！是要比谁摆出的脸更好笑吧。\n小钻，那就去我家比吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "──于是，\n我们就这样来到了北部玄驹的老家……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "呃～眼睛这样放──鼻子放这里！\n怎么样──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "啊哈哈哈哈哈，小北，这是什么脸啊，\n啊哈哈哈哈哈！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "你怎么有办法摆出这么好笑的脸啊～？\n真狡猾～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "真、真的这么好笑吗？\n看到小钻笑成这样……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "呵呵，啊哈哈哈……！\n连我也想笑了啦～啊哈哈哈哈哈！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "她们就这样笑倒在地。看来笑福面这场小比赛，\n让两人都获得了放松。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "就这样，新年期间过去了。\n北部玄驹正式开始为第一个目标\n“大阪杯”做准备。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "冬泳……！好──那就去游泳池比赛吧！\n我是不会输给你的喔，小钻！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是，两人就这样比赛游泳──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "呼──游了好久啊！\n不过，话说回来，\n小钻擅长的游法跟我完全不一样吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "是呀，我擅长的是自由式跟仰式……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "我擅长的是蛙式跟蝶式，\n还有驹爬式吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "欸欸，我们干脆趁这个机会，\n来教对方自己擅长的游法怎么样？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "也好，其实我一直都很想要试试看──\n驹爬式！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "生长环境不同，擅长的游泳方式也不同。\n她们就这样向彼此学习游法和肌肉的使用方法。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "就这样，新年期间过去了。\n北部玄驹正式开始为第一个目标\n“大阪杯”做准备。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "新春登山……\n那就是要比越野跑啰。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "越野跑……？原来还有这样的名称啊。\n难得现在是新年，\n就挑一个平常没机会爬的山来挑战吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是我们来到的地方是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "唔唔唔，雪山感觉很不好跑啊～\n但我是不会输给小钻的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "嗯，脚的施力方式跟平常也不一样。\n感觉比坡道更有锻炼的效果呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "透过在冬天的雪山上奔跑，\n两人各自在跑法上都获得了一些的灵感。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "就这样，新年期间过去了。\n北部玄驹正式开始为第一个目标\n“大阪杯”做准备。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "Title": "保重身体！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "西野花在训练过程中受了伤，\n于是我带她来到保健室。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "抱歉，\n害你为我担心了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "好了，伤口也处理好了，\n我们回去训练吧。",
+            "ChoiceDataList": [
+                "真的没问题吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "应该没问题……\n啊，不对！我真的没问题！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "而且我觉得\n不能因为受点小伤就休息……所以……！",
+            "ChoiceDataList": [
+                "成熟的大人可不会逞强喔",
+                "来想想有什么可以做的吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "但是……我……",
+            "ChoiceDataList": [
+                "还是选择风险较低的方式吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……说得……也是。\n要是伤势恶化就糟糕了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "我知道了，\n今天我会乖乖休息的……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "西野花一脸遗憾地说道，\n然后乖乖地回去了宿舍。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "哇！谢谢你！\n那我们快走吧，训练员！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "呼……呼……\n这、这点小伤……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……呜！\n好、好痛……",
+            "ChoiceDataList": [
+                "会痛吗……？",
+                "会痛吗……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "跑步时会出现一阵刺痛……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "对不起，我明明说没问题的，\n但看来今天……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看这状况是无法继续训练了，\n于是西野花乖乖回去了宿舍。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "太好了……！训练员，\n别用全力跑的话就不会痛！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "看来暂时只能这样训练了，\n还是请你多多指教！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "西野花开心地说道。\n她边注意著伤势，\n边在可承受范围内进行了训练。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

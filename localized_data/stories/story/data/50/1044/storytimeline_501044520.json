@@ -1,0 +1,310 @@
+{
+    "Title": "学园流传的咒语？",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "你说的是真的吗？\n是类似学园的七大不可思议吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘B",
+            "Text": "我也只是听说而已～\n但这个学园好像有代代流传的“幸福咒语”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "──事情就是这样，\n我们去揭露咒语的真相吧！",
+            "ChoiceDataList": [
+                "我是没关系，要去哪里揭露呢？",
+                "我是没关系，要去哪里揭露呢？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "问得好！\n既然是口头传授的咒语，表示应该有人继承了！\n所以──我们要到处打听消息！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美妙姿势",
+            "Text": "口传的传说啊～♪\n这么说来，我听说德鲁伊也不会用文字纪录，\n而是以口头传承教义！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "一下就获得了有力的情报！\n以口头传承教义……真是神秘！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美妙姿势",
+            "Text": "他们好像是在森林深处进行传承。\n或许是因为那种地方好保密吧，",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "好，森林是吧？\n使魔，走了！",
+            "ChoiceDataList": [
+                "咦，现在要去森林！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "什么都没有──！！",
+            "ChoiceDataList": [
+                "毕、毕竟时代和国家都不同……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "重炮",
+            "Text": "幸福咒语？\n那就交给我吧☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "重炮",
+            "Text": "首先要准备一条护唇膏！\n然后一口气转出来……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "把使魔的名字写在护唇膏上面，\n然后在夕阳下默默咏唱咒语……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "……\n…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "什么事都没发生！！\n这魔法不是“能让幸福的命运时刻降临”吗！？",
+            "ChoiceDataList": [
+                "嗯～差不多要吃晚餐了，回去吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "不要！！！！！！\n明知道有魔法存在，\n我怎么可能就这样放弃！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "我要收集许多咒语，\n快点成为和祖母一样厉害的魔法师！",
+            "ChoiceDataList": [
+                "可是我们没有线索……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "呜呜～～\n我想知道幸福咒语～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "很好！！\n这探求到底的精神实在了得！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "秋川理事长",
+            "Text": "四处打听在学园流传的幸福咒语的人，\n原来就是你啊！",
+            "ChoiceDataList": [
+                "秋川理事长！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "秋川理事长",
+            "Text": "嗯嗯！\n知道咒语的人在学园里也是少之又少！\n真没想到有人会这么执著，连我都听说了──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "秋川理事长",
+            "Text": "佩服！作为努力的回报，\n我就将咒语的秘密传授给你吧！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "……就是这里吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "只要在这里咏唱理事长传授的咒语，\n应该就能发动特大魔法！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "材料全都买齐了……\n咦？你们在这里做什么？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "……“呼唤幸福的宝船”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "……哦？\n既然咏唱了咒语，表示你有做好心理准备吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "对！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "餐厅的阿姨",
+            "Text": "来，久等了！学园隐藏版菜单！\n“甜点大集合宝船百汇”～！",
+            "ChoiceDataList": [
+                "好大的百汇……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "餐厅的阿姨",
+            "Text": "这份百汇因为成本太高所以从正式菜单撤下，\n只有无论如何都想大吃甜食的学生\n才会知道点餐方法……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "餐厅的阿姨",
+            "Text": "换句话说，就是禁忌的咒语！\n真没想到还有人知道这个咒语～♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "这、这就是咒语的真相……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "拼命追求的咒语真相，\n居然是隐藏版菜单的暗号！\n感觉她应该会气歪……！",
+            "ChoiceDataList": [
+                "偶、偶尔也是会遇到这种事嘛！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "（吃下）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "～～～～唔！\n真好吃！！",
+            "ChoiceDataList": [
+                "咦？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "好厉害！\n居然一口气出现这么多甜点！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "不枉我找得这么辛苦。\n这种厉害的咒语，\n本来就没那么容易找到！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "所以我才无法停止寻找魔法！\n魔法百汇真是太棒了！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我还以为她肯定会说这一点都不像魔法……\n看来她对魔法的想法，\n比我预期的还要正向和全面。",
+            "ChoiceDataList": [
+                "是能让人心情变好的魔法呢……！",
+                "是能让人心情变好的魔法呢……！",
+                "我也来用今天学会的咒语吧",
+                "我也来用今天学会的咒语吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我还以为她肯定会说这一点都不像魔法……\n看来她对魔法的想法，\n比我预期的还要正向和全面。",
+            "ChoiceDataList": [
+                "是能让人心情变好的魔法呢……！",
+                "是能让人心情变好的魔法呢……！",
+                "我也来用今天学会的咒语吧",
+                "我也来用今天学会的咒语吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "呵呵，没错。\n使魔，你变聪明了嘛！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "好～我要吃到心满意足！\n全部吃光光～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "她兴奋地看着巨大甜点，\n我则是带着欣慰的心情在一旁看着她。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "哎呀，区区使魔，\n居然打算自己施展魔法，真是嚣张！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "不过……偶尔这样也不是不行。\n毕竟你这次也有一起找！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "在那之后，时不时有人看见东商变革\n得意地在学生餐厅咏唱魔法……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

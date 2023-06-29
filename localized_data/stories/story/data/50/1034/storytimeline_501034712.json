@@ -1,0 +1,59 @@
+{
+    "Title": "缺席的理由……",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "稻荷一没有来……\n当我正这么想的时候──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "抱歉，大哥！我迟到了！\n真是太丢人了！",
+            "ChoiceDataList": [
+                "为什么会迟到？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "抱歉，大姐！我迟到了！\n真是太丢人了！",
+            "ChoiceDataList": [
+                "为什么会迟到？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "这件事就别提了！\n江户之子不找借口！",
+            "ChoiceDataList": [
+                "……今后要注意喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "呜……！你的人格太高尚了！\n相较之下我根本……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "真的很抱歉！\n为了改过自新，我去用味噌汤洗脸！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "最后仍不知道她为何迟到，\n但她似乎已经在深刻反省了，\n于是我决定原谅她。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

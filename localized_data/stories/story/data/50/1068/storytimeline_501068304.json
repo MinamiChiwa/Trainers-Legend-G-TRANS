@@ -1,0 +1,386 @@
+{
+    "Title": "目标达成后．无法跨越的河",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（哒哒哒哒……！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "（是啊，说得也是！不用想也知道是为什么，\n我的支持度比不上其他人，\n这根本是理所当然的事情嘛！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "（因为帝皇是那么地厉害！\n鲁莽狂音也是！\n我根本还没办法有像她们那样的表现。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "（所以当然就没什么人会注意到我啰。\n等到我也能有像她们那样的表现时……！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "小钻，让你久等了──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "……咦？那是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "里见光钻小姐，\n今年就要出道了呢。\n里见集团的千金终于要出道了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者B",
+            "Text": "请问你有什么想要实现的梦想吗？\n已经在规划明年的行程了吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "是的，这是当然的。\n但目前还是着重于\n把眼前的事情一件一件做好──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "小……钻……\n还没出道就已经……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──经典三冠当前，\n北部玄驹目前为止的表现\n可说是非常不错。",
+            "ChoiceDataList": [
+                "做得很好啊，北部！",
+                "做得很好呀，北部！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "成长的步调虽慢，\n但她的实力确实有所提升。\n照这样子看来，经典三冠也……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "我真的能够做到吗……",
+            "ChoiceDataList": [
+                "咦？什么意思？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "经典三冠……\n我真的能让大家满意吗？\n最近我总有一种感觉。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "在探讨实力够不够之前，\n我是不是其实原本就缺少了些什么。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "也就是──\n足以吸引大家目光的“华丽感”……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "像是帝皇，她不光只是实力很强，\n还非常地帅气，\n稍微踏几个步伐就能引起大家注意。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "小钻也是，\n她的耀眼是与生俱来的，\n在正式参加比赛之前就一直受到关注……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "而我却不具备这样的特质。\n就是一个普通的赛马娘，不受瞩目也不受期待，\n这样的我……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "真的有办法成为\n经典级的主角吗？\n真的有办法成为带给大家笑容的赛马娘吗……",
+            "ChoiceDataList": [
+                "北部……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我知道她在想什么，但事实就是如此。\n总会有一开始就特别受到瞩目的赛马娘，\n也一定会有相对不被人注意的赛马娘。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "实力与华丽并不能划上等号。\n即便如此──",
+            "ChoiceDataList": [
+                "我还是觉得你充满了可能性",
+                "我还是觉得你充满了可能性呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "这样的我……也有可能性吗？",
+            "ChoiceDataList": [
+                "是啊，这是当然的",
+                "嗯，当然啰"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "只要北部玄驹继续提升自己，\n总有一天就会被注意到。\n我确定她正朝着目标一步一步地迈进。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "可是我还是没有足以把“皋月赏”跟\n“日本打比”定为目标的自信……",
+            "ChoiceDataList": [
+                "那我们先做好准备就行了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "一切都以北部玄驹的意愿为优先。\n我决定先将目标定为\n秋季的“圣烈特纪念”──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "圣烈特纪念"
+            ]
+        },
+        {
+            "Name": "独白",
+            "Text": "同时也让她继续为“皋月赏”和\n“日本打比”做准备。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "（皋月赏、打比……\n我当然也想参加。\n虽然训练员说他相信我可以做到……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "！？那……那个是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "再一趟，鲁莽狂音。\n跑法还是太粗糙了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "你似乎从小就对自己的特长过于自信了。\n该是时候用理性来操控遗传自你母亲的脚了。\n知道吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁莽狂音",
+            "Text": "Yes, ma'am……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "（鲁莽狂音……原来……\n她的身边不只有训练员，\n还有气槽陪她一起训练……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "（师出同门……在同一个环境下生长，\n能够完全互相理解的赛马娘……\n这样的人，我身边……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "（小钻跟帝皇也不算是这样。\n不对，不只是她们两个……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "（虽然现在我身边的\n每个赛马娘都对我很好，\n但其实都是跟我在不同世界的赛马娘……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花蓦进王",
+            "Text": "喔、喔、喔喔喔喔喔喔喔喔！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "咦？你是！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花蓦进王",
+            "Text": "刚好路过的班长，\n我叫做樱花蓦进王！\n喔、喔，你就是──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "樱花蓦进王"
+            ]
+        },
+        {
+            "Name": "樱花蓦进王",
+            "Text": "北部玄驹同学吧！\n我隐约感觉得到，\n你的心正在向我求救！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "咦、咦咦咦咦咦？\n蓦进王，怎么突然就？\n咦？咦咦咦咦咦咦？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "蓦进王"
+            ]
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "那、那个……！没错！\n我现在的确需要人帮忙。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "但你是怎么感觉到我需要帮忙的？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花蓦进王",
+            "Text": "我也说不出原因，反正就是突然感觉到了！\n一种非常强烈，像是命运般的东西！\n突然很强烈地感觉到喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花蓦进王",
+            "Text": "你在寻找命运般的存在，没错吧！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "是、是吧，应该……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花蓦进王",
+            "Text": "那你算是找对人了！\n因为呢──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花蓦进王",
+            "Text": "我是班长！而你是助人大将！\n在助人这方面来说，\n我们可以算是最佳拍档！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "班长跟大将……听、听你这么一说，\n感觉好像真的是这么一回事……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花蓦进王",
+            "Text": "没错吧、没错吧。\n你需要的是一个可以领导你的班长。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花蓦进王",
+            "Text": "那就让我来帮助你吧！\n放心吧，因为我可是班长啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "谢、谢谢你！\n既然你这么热心要帮忙，\n那就拜托你了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花蓦进王",
+            "Text": "喔喔，说得好！\n那今后我们就一起努力向前迈进吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花蓦进王",
+            "Text": "从今天开始我们就是心意相通的蓦进共同体！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花蓦进王",
+            "Text": "嗯嗯，目标是“圣烈特纪念”啊。\n在那之前要不要先赢个几场呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花蓦进王",
+            "Text": "总之都是须要好好训练的。\n冲啊──蓦进蓦进──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "是～～～！蓦进、蓦进～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "训练员，你听我说！\n我找到一个很可靠的帮手了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──几天后，我了解了事情经过。\n对心情沮丧的北部玄驹来说，\n她或许真的是一个恰到好处的帮手。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

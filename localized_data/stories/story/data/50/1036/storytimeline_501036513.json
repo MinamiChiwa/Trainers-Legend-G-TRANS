@@ -1,0 +1,329 @@
+{
+    "Title": "用“这个”来证明",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "──空中神宫小姐，\n请看这边！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者B",
+            "Text": "接着请看我这边！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "今天是空中神宫的采访日。\n平常她对采访并不积极，因此媒体得知\n今天能听到她分享后，便有许多记者前来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "而且今天主要是穿着决胜服进行摄影，\n所以跟决胜服相关的提问也特别多──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者C",
+            "Text": "你的决胜服整体印象偏高调，\n请问这是反映个人喜好吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "你先给出“高调”的定义啊……\n要说个人喜好，算是吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者D",
+            "Text": "请问你的日常穿搭\n也和这套决胜服的风格相似吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "我刚才说了，“那算是个人喜好”。\n下一个问题是什么？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "空中神宫语气平淡地回答一个个的问题，\n访问进行得很顺利。这时候……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者E",
+            "Text": "请问我可以问训练员问题吗？",
+            "ChoiceDataList": [
+                "要问我？",
+                "要问我？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者E",
+            "Text": "是的，请分享一下你对空中神宫小姐的决胜服\n有什么感想。",
+            "ChoiceDataList": [
+                "这套是第一名、最帅的",
+                "我觉得很有她的个人风格"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者E",
+            "Text": "第一名……这样强调是指\n跟其他选手比较的意思吗？",
+            "ChoiceDataList": [
+                "对，她是第一名"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者E",
+            "Text": "……这是训练员的回答。\n请问空中神宫小姐听了有什么想法呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "他主观臆断也不是一天两天的事情了。\n我的回答是“超没意义”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "不过“第一名”的部分\n倒是没错。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "接下来的采访也很顺利，\n然后来到最后一个问题。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者E",
+            "Text": "个人风格……\n请问能举例吗？",
+            "ChoiceDataList": [
+                "设计和她的个性相辅相成"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "空中神宫的外表原本就相当引人注目。\n但是她的决胜服在设计上\n并没有因此而偏向精简──",
+            "ChoiceDataList": [
+                "我认为呈现出了两者魅力的最大公约数！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者E",
+            "Text": "确实是这样！这设计凸显了\n空中神宫小姐的华丽之处呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "……华丽？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "接下来的采访也很顺利，\n然后来到最后一个问题。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者F",
+            "Text": "──请问你对决胜服\n最讲究的是哪一个部分呢？",
+            "ChoiceDataList": [
+                "（这问题不错）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "空中神宫对决胜服的讲究\n的确相当惊人。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "首先是寻找值得信赖的设计师，\n从材料的选择到蹄铁的细节……\n她参与了每一个细节的决定，直到自己满意。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "“──真正美丽的程式，\n就是能够静静地正常运作的程式。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "她身上的布料是经过计算削减的，\n丝巾则是考量到个人特色而加上……\n其他应该还有许多能聊的部分，结果她──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "所谓的“讲究”，\n这种东西……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "看就知道了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者F",
+            "Text": "咦？\n……神宫小姐？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "她突然走出围绕自己的人群，\n站上了赛道的起点位置，然后──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "吓…………！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "她像是配合起跑的号令般，瞬间飞奔而出，\n再任由腰间的丝巾随风飞扬，绕着赛道跑。\n然后……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "呼……",
+            "ChoiceDataList": [
+                "（她跑步的样子还是一样豪迈精彩！）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者们",
+            "Text": "……啊，糟糕！\n刚刚只顾著看！没拍到！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "……哼。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "这样算是回答了最后一个问题吧？\n采访到此结束。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者F",
+            "Text": "咦！？\n你还没有回答最后一个问题呀！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "答案我已经“给你看过了”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "我先走了。\n剩下的你自己看着办。",
+            "ChoiceDataList": [
+                "好、好喔……！",
+                "好、好喔……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者F",
+            "Text": "那个，训练员……\n请问她究竟是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "她不会说谎。既然她那样回答，\n就表示她应该给出了能推导出答案的中间过程。\n只要知道那式子，自然就会知道──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "“──真正美丽的程式，\n就是能够静静地正常运作的程式。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "……空中神宫已经展现过程式运作的模样。\n那就是，让所有人“只”专注在她的跑姿上。",
+            "ChoiceDataList": [
+                "我想答案恐怕是──"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "喂。\n你……这报导。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "“将一条条的纤维化为数字，\n以此编织出的完美公式得出\n名为‘奔跑’的简洁解答。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "“在围场时看似奇特，\n在赛场上则是呈现洗练之美──\n她的决胜服正是所谓的‘suit’。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "这狗血的报导是怎样？\n我没讲这些话吧？",
+            "ChoiceDataList": [
+                "可是你跑步的模样正是“证明”啊",
+                "可是你跑步的模样正是“证明”啊"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "……烦死了。\n少讲得你好像很懂一样。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

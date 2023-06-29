@@ -1,0 +1,61 @@
+{
+    "Title": "迎向伊丽莎白女王杯",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "“伊丽莎白女王杯”──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "伊丽莎白女王杯"
+            ]
+        },
+        {
+            "Name": "独白",
+            "Text": "其距离为2200米，\n这跟曾让西野花陷入苦战的“奥克斯”相当类似。\n她似乎还深深记得当时留下的痛苦回忆──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "…………呼。",
+            "ChoiceDataList": [
+                "西野花，你还好吗？",
+                "西野花，你还好吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……\n是的，我没问题。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……训练员你也觉得我\n“一定没问题！”对吧？",
+            "ChoiceDataList": [
+                "是啊！",
+                "嗯！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "既然这样……虽然觉得害怕，\n但我没问题的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "我会努力的……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Title": "夏季集训（第二年）开始！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "从今天起终于要进入夏季集训了！\n……可是，\n稻荷一还要去跑“日本沙地打比”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "嘿嘿，虽然我也很期待集训。\n但现在“日本沙地打比”\n更让我期待到不行。",
+            "ChoiceDataList": [
+                "一定要跑出好成绩，再回来集训",
+                "一定要跑出好成绩，再回来集训"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "没错！\n等着我吧，大井赛场！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

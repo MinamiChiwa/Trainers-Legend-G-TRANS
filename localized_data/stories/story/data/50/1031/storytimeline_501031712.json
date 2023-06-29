@@ -1,0 +1,50 @@
+{
+    "Title": "缺席的理由……",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "艾尼风神怎么没来训练……\n正当我这么想时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼风神",
+            "Text": "对不起……迟到这么久。",
+            "ChoiceDataList": [
+                "你今天是怎么了？",
+                "你今天是怎么了呢？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼风神",
+            "Text": "其实是因为我的脚踏车爆胎了，\n牵去修理就拖到了现在……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼风神",
+            "Text": "我的前轮经常爆胎，\n不知道是不是因为我把重心压太前面了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼风神",
+            "Text": "总之真的非常抱歉！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "虽然这次是因为意外而迟到，\n但我还是请艾尼风神好好反省。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

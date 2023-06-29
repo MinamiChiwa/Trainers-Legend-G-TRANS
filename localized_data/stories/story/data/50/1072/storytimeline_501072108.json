@@ -1,0 +1,575 @@
+{
+    "Title": "粉丝感谢祭",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "今天是春季的粉丝大感谢祭。\n这是能让赛马娘跟平常支持她们的\n粉丝们一起交流的活动。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "八重无敌站在校门附近发手册给来宾们。",
+            "ChoiceDataList": [
+                "你在帮学生会的忙吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "训练员。\n不，我并不是在帮忙。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "只是现在有空，\n所以想和粉丝交流，\n觉得有手册会比较方便而已。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重的粉丝A",
+            "Text": "啊！是八重无敌！\n我一直都有在关注你。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "谢谢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重的粉丝A",
+            "Text": "我喜欢无论在比赛或演唱会，\n都表现得威风凛凛的八重无敌！\n我觉得你很帅气！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "嗯。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重的粉丝A",
+            "Text": "呃……那个……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "嗯。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重的粉丝A",
+            "Text": "啊……之、之后也请继续加油！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "……唔……从刚才开始，\n对话就一直无法持续下去……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "毕竟八重的态度实在称不上亲切……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "我们是已经习惯了，\n但初次见面的人会有点吓到吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "而且你还散发出一种武道家特有的，\n类似魄力的气息。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "正好路过的玉藻十字和\n具备江户之子风范的赛马娘──\n稻荷一过来向我们搭话。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "稻荷一"
+            ]
+        },
+        {
+            "Name": "独白",
+            "Text": "她们两人的性格都很会照顾人，\n所以才来关心八重无敌吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "！原来如此……亲切……\n我确实很少注意自己的态度……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "但就算勉强装出亲切的样子，\n也不符合八重的风格。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "是啊，有点粗犷才符合八重的风格，\n粉丝们也比较想看你这样吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "嗯……不然干脆试着\n活用那个难以亲近的氛围如何？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "活用氛围……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "总之先跟我来吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "来吧来吧，大家快点过来看！\n扑克牌认真对决！赢家有奖品可以拿喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "有没有勇者想来挑战靠“无敌的扑克脸”\n连战连胜的八重无敌啊！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重的粉丝B",
+            "Text": "和八重无敌认真对决……！？\n在下要参加！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重的粉丝C",
+            "Text": "我喜欢八重无敌充满干劲的样子！\n比扑克牌我应该也有胜算……\n我要试试看！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "──你好。\n不介意的话，要不要也来参加呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重的粉丝A",
+            "Text": "咦！？我吗？\n八、八重无敌亲自邀请我……\n我要参加！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "那我也参加吧！\n江户之子最喜欢热血沸腾的对决了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "那就开始比吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "──我不出牌。\n下一位请。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重的粉丝C",
+            "Text": "居然不出牌！？为什么？\n牌局才进展到一半……就已经没牌可出了吗？\n不，也可能是想保留王牌……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "────",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重的粉丝C",
+            "Text": "唔……看不出来！！\n她的表情完全没变化……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "那这样如何呢！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重的粉丝B",
+            "Text": "哼，那在下就──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重的粉丝B",
+            "Text": "！？这个气息……是怎么回事……\n是从八重无敌身上传来的……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重的粉丝B",
+            "Text": "呵……呵呵……这压倒性的魄力……\n是在警告在下别轻举妄动吧……！\n那就一决胜负吧！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "轮到我了。\n那么。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重的粉丝B",
+            "Text": "什么！？刚才的压力是在引诱在下失误……！\n太大意了！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "哎呀，无敌的扑克脸也到此为止了吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "有破绽！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重的粉丝B",
+            "Text": "唔……PASS！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "喝啊！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "我的牌出完了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "什么！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "原来如此……\n我完全著了你的道。\n是我输了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "胜负已定！\n最早把牌出完的八重获胜！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "哦！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重的粉丝A",
+            "Text": "居、居然能在这么近的距离……！\n听见八重无敌的吆喝声……！太棒了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重的粉丝B",
+            "Text": "和憧憬的八重无敌认真对决后，\n在下体认到自己还有待磨练。\n感谢你的指导！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "我并没有打算指导任何人，\n但既然能让你有所收获就再好不过了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重的粉丝A",
+            "Text": "和八重无敌一起玩扑克牌真的很开心！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "我也透过和各位交流\n度过了一段有意义的时光。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "像这样直接互动过后，\n比赛时应该就会想起各位的脸吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "知道替自己加油的人长什么样子，\n让我觉得更加放心了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "感谢各位今天陪我交流。\n以后也请多多指教了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重的粉丝C",
+            "Text": "啊哈哈，你果然是个有礼貌又细心的人！\n我以后也会替你加油！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "嘿嘿，看来一决胜负的时刻到了。\n接下来该怎么办呢……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "────",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重的粉丝C",
+            "Text": "怎……怎么了！？气氛突然变沉重……！\n唔，好强的压力……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重的粉丝B",
+            "Text": "这是八重无敌和稻荷一散发的气势……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重的粉丝B",
+            "Text": "唔……好沉重的压力……！\n这就是认真对决……！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重的粉丝A",
+            "Text": "八重无敌……\n平常就是置身于这种对决的世界……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "一决胜负吧！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重的粉丝B",
+            "Text": "……PASS。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "就是现在！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "我的牌出完了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "什么！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "可恶，她对局势的判断比我精准……\n是我输了！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "胜负已定！\n最早把牌出完的八重获胜！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "哦！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（喔喔喔喔喔喔喔喔～！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重的粉丝B",
+            "Text": "八重无敌，太精彩了！！\n你在对决中散发的魄力真是令人佩服！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "不，很抱歉，\n我不太会说话。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重的粉丝A",
+            "Text": "但在玩扑克牌的期间，\n我们能从你散发的气息感觉到你的想法！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重的粉丝C",
+            "Text": "我也觉得……经过这场认真对决后，\n变得更加了解你了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "什么……！的确，\n我在认真对决中的表现才是我的本质。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "居然能让各位感受到……！\n再也没什么比这更令人高兴的事情了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "我也不会忘记各位，\n以及今天这场激烈的认真对决。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "以后比赛的时候，\n我应该会想起各位的脸吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "由衷感谢各位今天的陪伴！\n请各位以后也继续支持我！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重的粉丝C",
+            "Text": "啊哈哈，八重无敌意外地热情呢！\n我对你越来越着迷了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "稻荷、玉藻，谢谢你们。\n多亏两位的帮忙，\n我才能和粉丝们交流。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "稻荷"
+            ]
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "这点小事不算什么啦！\n每个人都有不擅长的事情，\n互相帮助才是人之常情！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "你也帮我们炒热了活动的气氛，\n算是互相帮助啦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "呵呵，我不会忘记这份恩情。\n改天两位遇到困难时，就换我帮助你们了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "你真是个正经八百的家伙！\n唉，这也算是你的优点！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "过奖了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "顺利和粉丝直接交流，\n似乎大大激励了八重无敌！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

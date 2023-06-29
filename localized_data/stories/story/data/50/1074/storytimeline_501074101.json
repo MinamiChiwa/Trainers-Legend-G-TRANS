@@ -1,0 +1,390 @@
+{
+    "Title": "新年抱负",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "新年快乐。新的一年──\n目白光明升上经典级了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（喀啦喀啦喀啦～）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "训练员大人～\n去年事事受你诸多照顾了～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "今年也请多多指教～\n感恩感恩～",
+            "ChoiceDataList": [
+                "感恩感恩～"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……我不禁跟着用奇怪的方式回应。\n但对话似乎顺利成立了，就这样吧。",
+            "ChoiceDataList": [
+                "话说，光明今年有什么抱负呢？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "抱负～我当然有唷～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "──在经典三冠跑出精彩表现。\n并且为目白家赢得荣耀～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "虽然目白光明个性悠哉，\n但此时她毫不犹豫地说出坚定的回答。\n她心中怀着明确的目标。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "其中～我特别想努力挑战\n目白家尚无人夺冠过的\n“皋月赏”跟“日本打比”～",
+            "ChoiceDataList": [
+                "这样啊，目白家还没人……",
+                "这样啊，目白家还没人……"
+            ],
+            "ColorTextInfoList": [
+                "日本打比"
+            ]
+        },
+        {
+            "Name": "独白",
+            "Text": "经她这么一说，我重新回想了一次。\n目白家的赛马娘中尚未有人\n曾经赢过“皋月赏”跟“日本打比”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "既然她将此视为目标……那或许现在就能锁定\n哪位赛马娘将会是未来的竞争对手了。",
+            "ChoiceDataList": [
+                "到时可不能在“皋月赏”输给劲敌呢！",
+                "到时可不能在“皋月赏”输给劲敌呢！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "呼哇～劲敌……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "请问～训练员大人。\n我的劲敌将会是哪些选手呢～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……看来她似乎不太关心周遭事物呢。\n没错，跟目白光明同世代的\n赛马娘正是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "这样啊，光明……\n你也打算挑战“皋月赏”呀。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "光明"
+            ]
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "目前我还没找到自己的跑法。\n希望至少能赶上“日本打比”……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──无声铃鹿。\n文静并热爱孤独的赛马娘。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "无声铃鹿"
+            ]
+        },
+        {
+            "Name": "独白",
+            "Text": "她内心的迷惘影响到实际表现，成绩差强人意。\n在经典之路上的表现也被评为\n还差一步才能成为主角级人物。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "唔唔唔唔，我看见了！我看到啰，\n光明！你是不是打算\n在经典级参道上埋头狂奔啊？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "想必你面前将会出现强大的劲敌！\n说穿了就是我啦。\n虽然这只是我自己的愿望，我想成为你的劲敌！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──待兼福来。\n热中于占卜与神秘力量的赛马娘。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "待兼福来"
+            ]
+        },
+        {
+            "Name": "独白",
+            "Text": "她现在似乎非常努力，但世间却谣传\n她至今的成绩只是倚靠那份运气。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "铃鹿大人跟福来大人～\n都是平常偶尔有机会聊天的对象～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "铃鹿",
+                "福来"
+            ]
+        },
+        {
+            "Name": "目白光明",
+            "Text": "这样啊，这么说起来～\n我们是同期呢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看来个性悠哉的目白光明\n只把她们视为聊天对象。\n但那两位劲敌一定……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "……我也没意识到对手。\n光是磨练自己的双腿就用尽全力了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "我也是！因为我将全副注意力\n都放在提升运气！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "三人都没有将彼此视为对手……\n看来她们都正在忙于寻找自己，\n尚未有余力能注意到劲敌。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "那个～训练员大人。\n难得正好遇到新年期间，\n我想跟她们两位增进感情～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "请问我该找谁一起做什么事好呢～？\n不过，干脆自己独自度过也不错～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "跟同期一起度过新年。\n该建议她们做什么才好呢？",
+            "ChoiceDataList": [
+                "跟铃鹿一起玩编发",
+                "独自欣赏盆栽",
+                "跟福来一起玩洋娃娃"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "哎呀，编发呀～\n铃鹿大人，请问你愿意让我\n编你那头美丽的秀发吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "我从小就\n最喜欢编头发了～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "编发……是可以……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "那我们走吧～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "梳～梳～梳梳♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "请问……光明？\n你编好了吗？已经过很久了呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "不～我才刚梳好头发呢～\n现在才要开始编～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "……看来还得花上一点时间呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "目白光明仔细地为无声铃鹿打理好外表。\n虽然是玩乐的一环，\n但她仍借此培养出了不少毅力。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "独自欣赏盆栽……说得也是呢～\n想跟同学玩耍，之后还有的是机会嘛～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "那么两位，我先失陪了～\n我去稍稍鉴赏一下盆栽～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（钟声响起……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "…………呼哇。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "…………呼哇。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "目白光明专心致志地凝视着盆栽。\n然后……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "训练员大人～\n我发现了一件事～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "虽然人家说盆栽自成一个“小宇宙”～\n不过一旦像这样专心盯着看……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "盆栽果然还是树，不是宇宙呢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……我烦恼著该怎么回答她。不过即使如此，\n目白光明仍确实地疗愈了身心。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "玩洋娃娃～啊，对了，\n福来大人，\n请问你对这孩子有兴趣吗～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "她叫“小槙”喔～\n是个非～常乖的好孩子喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "喔喔喔，没想到你有这种东西！\n光明还真是虔诚呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "这是那个吧？\n用自己的身体替主人承担脏东西的……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "……什么？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "说起来，所谓的替身呢，\n自古就是指用来净化灾厄的人偶……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "所以她会替光明承受\n本该降临到你身上的灾厄喔。\n真是感激不尽～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "天啊～小槙，太可怜了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "目白光明在神社前听了一堂神道教课程。\n学到了新的课外知识。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

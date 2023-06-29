@@ -1,0 +1,350 @@
+{
+    "Title": "Forget me not！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "我的记忆不见了～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我和北部玄驹听见有人大喊，吓得立刻赶过去，\n并在那里遇见了看起来正在伤脑筋的黄金船。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "不见了～我昨天的记忆！\n我找了书包也找了树洞，\n但不管哪里都找不到～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "你、你先冷静下来吧！\n有没有什么我们能帮你的呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "呜……呜，我珍贵的记忆宝贝，\n一定是不小心掉在哪里了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "拜托了～！帮我找回我的记忆吧～！\n再这样下去就要被别人给捡走了～！",
+            "ChoiceDataList": [
+                "（记忆是会掉在哪里的东西吗……？）",
+                "（记忆是会掉在哪里的东西吗……？）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "我知道了！我们会帮忙的，\n一起找回黄金船的记忆吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是，我们三人就这样在学园内四处寻找──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "感觉到了！它在呼唤我！\n莱茵的黄金一定就在这附近吧！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "这附近啊！好，那就来看看有没有掉在这里，\n或是被什么东西盖住了，认真地找吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "……唔唔，这里的杂草太茂密，好难找喔。\n干脆顺便把杂草除掉好了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "唔喔喔喔，记忆！！我找到了！！\n但这是上个礼拜我跟火星人战斗的记忆！\n也就是说，这不是我正在寻找的记忆……！",
+            "ChoiceDataList": [
+                "跟、跟火星人战斗！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "没错，那真的是一段非常美好的时光♪\n好啦，该继续找了，继续找！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "嘘───安静！要小心不要被发现，\n找记忆那家伙时，必须慎重行事……",
+            "ChoiceDataList": [
+                "（还要小心不要被记忆发现……？）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "原来如此，要安静……\n啊，我去把快要倒下来的书给整理好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "可惜啊！这是明天的记忆啊！\n我看看，什么？阿船竟然要变总统了！？",
+            "ChoiceDataList": [
+                "（当总统应该是不太可能……！）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "久等了～！刚刚脚边有些没收好的器材，\n我怕造成危险就去收拾好了！\n我们继续寻找记忆吧！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "呼……还是没有找到呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "不过呢，我还是会继续帮忙的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "虽然北部玄驹还没打算要放弃，\n但我真的应该要让她继续配合\n做这件荒谬的事情吗？",
+            "ChoiceDataList": [
+                "你依然相信她失去记忆了吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "信不信不是重点啊！\n我只是想要帮忙黄金船而已。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "我不能对有困难的人视而不见。\n所以我会一直陪着她找的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "谢啦，北部……不过啊，\n所有我觉得有机会的地方都已经找过了……",
+            "ChoiceDataList": [
+                "不要放弃，再重新找一次看看吧！",
+                "或许需要其他人的帮助……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "不，不用了……我决定不再纠结于过去了。\n真正重要的应该是当下才对！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "可是，我不放心让你一直失去记忆……\n我还可以继续陪你找哦？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "没关系，已经打发够多的时间──不对。\n我已经察觉更加重要的事情了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "现在比过去更重要！\n我送个好东西给让我领悟这个道理的你们吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "把这个用盐巴腌一下，放在枕头下面！\n就会做好梦了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "……这是什么咒语吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "不过，黄金船的表情感觉开朗多了！\n真是太好了！",
+            "ChoiceDataList": [
+                "……所以那张纸上写什么？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "呃……“全都是我做的”？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "呵呵，看来是这样呢。感谢你们的努力。",
+            "ChoiceDataList": [
+                "鲁道夫象征！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "偷听到你们说话，真不好意思。\n听说有人帮学园做了很多事，\n我是来亲自跟那个人道谢的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "除草、整理图书馆、\n收好散乱的演唱会器材。\n这些全都是有人投诉到意见箱里的事情。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "我只是找东西的时候顺便处理一下而已，\n有帮上忙就好！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "顺便就做了那么多事，真是令人感佩。\n若说是善有善报──或许是过于夸张了点，\n但请务必让我答谢你的善行！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "唔哇啊，是好吃的饼干！\n我等一下想要拿去跟黄金船分享！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "这一天，\n让我对北部玄驹无时无刻都想要\n热心助人的精神，感到非常敬佩。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "说得也是！多找个人帮忙的话，说不定就──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "终于找到你了，黄金船！\n你昨天──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "先等一下啊，麦昆。\n难道你想要跟失去记忆的人追究昨天的事情吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "失去记忆？你吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "所以，昨天晚上你在我房间外面唱奇怪的歌，\n这件事情你也不记得了，是吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "不记得了～！\n我什么事也没有做过喔～！",
+            "ChoiceDataList": [
+                "（原来如此，这就是她的目的！）",
+                "（原来如此，这就是她的目的！）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "唉……你又把不相干的人卷进来……\n我话先说在前头，\n我并不是来责备你的喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "最近我的睡眠品质一直不太好，\n所以半夜听到你唱歌的时候，\n本来以为更没机会能好好睡觉了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "结果听了你的歌后，不知为何就睡得很好。\n所以……我是来答谢你的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "但既然你不记得了，那也无可奈何。\n我只好把这份谢礼带回去了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "什么嘛，麦麦～！！\n早说有东西要送我，我立刻就会想起来了嘛！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "真是个现实鬼！！\n……真是不好意思呢，北部、训练员。\n谢谢你们陪着她胡闹。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "她们就这样走掉了呢……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "不过太好了！\n刚才黄金船说可以立刻回想起来呢。\n这么一来我就放心了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "北部玄驹直到最后一刻都相信黄金船，\n并替她感到高兴。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,455 @@
+{
+    "Title": "抽奖试手气！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "某一天，当我经过商店街附近时……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "这里好多人喔。\n不知道是怎么了？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "看过来看过来，现正举办新春大抽奖～！\n特奖可是“温泉旅游券”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "温泉旅游券"
+            ]
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "一奖是“特等胡萝卜汉堡排”，\n二奖是“一整堆胡萝卜”，\n三奖则是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "来喔来喔，好玩的抽奖活动！\n欢迎大家来抽喔～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "哇，温泉旅游券啊～！\n不错耶。",
+            "ChoiceDataList": [
+                "要试试看吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "就来试试看吧！\n那个，不好意思，我想抽一次！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "好，那跟你收一张抽奖券！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "啊！对喔。还需要抽奖券……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "哇哇，请你等一下，\n我先去买个东西再来～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "待兼唐怀瑟连忙去换了一张抽奖券，\n交给工作人员后，便转动了抽奖机的握把！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "结果──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "天啊！恭喜────！！\n抽到特奖“温泉旅游券”了～～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "咦咦咦咦咦咦！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "太太太、太棒了太棒了！\n我抽到大奖了，训练员！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "哇～我好高兴喔～！！",
+            "ChoiceDataList": [
+                "恭喜你！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "嘿嘿嘿，\n那我们什么时候出发！？",
+            "ChoiceDataList": [
+                "咦？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "温泉旅行啊～现在还有点忙，\n是不是该等稍微闲下来以后再去？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "经她这么一说，我才注意到是双人套票。\n不过──",
+            "ChoiceDataList": [
+                "跟我一起去没关系吗？",
+                "跟我一起去没关系吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "咦？嗯。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "……啊，还是邀请训练员\n一起去温泉旅行很奇怪……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "那个，这种要两人一起的事情，\n我都会最先想到训练员。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "你是最照顾我的人，\n也是伙伴，不过……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "……如果你不想跟我去，也没关系。",
+            "ChoiceDataList": [
+                "我当然也想跟你去！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "！　真的吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "哇，好耶好耶！\n那我们之后再找时间安排旅行计划吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "嘿嘿嘿，好期待喔～\n跟训练员一起去体验\n水雾弥漫的神秘离奇温泉旅行──",
+            "ChoiceDataList": [
+                "……神秘离奇？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "啊！不是不是，\n我不小心讲得太顺口了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "总而言之，\n这下又多了一件值得期待的事情了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "恭喜抽到一奖～！\n奖品是“特等胡萝卜汉堡排”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "喔喔～！是一奖！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "虽然没抽到温泉旅行，\n但是一奖看起来好好吃～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "对了，既然训练员也在，要不要一起吃？\n今天的晚餐就吃这个吧！",
+            "ChoiceDataList": [
+                "你不介意的话",
+                "你不介意的话"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "当然不介意～\n对了，我顺便做点副餐吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "所以……\n可以陪我去一趟超市吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "后来，待兼唐怀瑟\n为我准备了一顿美味的晚餐！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "这是“特等胡萝卜汉堡排”\n跟副餐的沙拉、玉米汤，还有──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "素面！",
+            "ChoiceDataList": [
+                "素面"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "汉堡排好像蛮大蛮有分量的，\n所以我觉得搭配清爽一点的主食比较好～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "啊，我还有准备葱末跟紫苏末。\n我去拿过来～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "总之，她准备的餐点都非常好吃，\n我们也就这么度过了快乐的晚餐时光。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "二奖～！！\n奖品是“一整堆胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "二奖啊～！真可惜～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "不过，二奖的奖品也蛮不错的。\n每一根胡萝卜都光光滑滑的，看起来好好吃！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "对了，难得中奖就分给大家吃吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "我家的平价餐厅常会收到邻居送的蔬菜，\n所以我也有点向往把吃的东西分享给别人！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "太太，抱歉这么晚还来打扰～\n我们田里收成了很多胡萝卜，\n所以就想分你一点～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "哇，太棒了。不好意思还让你跑这一趟！\n你等一下，我这里也有马铃薯──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "你要我陪你演什么奇怪的东西啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "听说当天的学生宿舍\n比平时还要更热闹了一点。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "三奖～！\n奖品是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "哎呀～是三奖啊～！\n真可惜。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "不过，\n抽奖本来就是这样嘛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "难得抽到奖了，\n我想把这根萝卜做成好吃的料理。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "……我们家餐厅的牛蒡萝卜丝很好吃。\n是怎么做的呢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "打电话问问看食谱好了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "啊，喂？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "之后，待兼唐怀瑟做了她老家餐厅的\n牛蒡萝卜丝给我吃。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "很可惜，没抽中！\n参加奖是“卫生纸”喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "哎呀～！真可惜！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "本来还想说就算抽不到温泉旅行，\n至少也要抽到一根胡萝卜……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "唔，天底下果然没这么好的事啊～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "之后，待兼唐怀瑟\n显得比平常少了一点活力。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

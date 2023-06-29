@@ -1,0 +1,50 @@
+{
+    "Title": "缺席的理由……",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "八重无敌没来训练……\n正当我这么想时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "训练员！让你久等了！\n真的非常抱歉！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "这是八重无敌这辈子最大的失误……！\n我愿意接受任何惩罚！",
+            "ChoiceDataList": [
+                "为什么迟到了？",
+                "为什么迟到了？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "其实我刚才反射性地攻击了\n快撞到我的脚踏车……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "幸好骑车的人和脚踏车都没事，\n我们最后当成是彼此都不够小心，\n但我就这样忘了训练的事情……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看来八重无敌已在认真地反省，\n所以我只提醒了她以后要注意，\n就没再继续追究了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

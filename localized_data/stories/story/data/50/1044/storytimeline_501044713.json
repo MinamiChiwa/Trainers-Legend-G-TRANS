@@ -1,0 +1,174 @@
+{
+    "Title": "保重身体！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "东商变革在训练中受了伤，\n所以我急忙带她来到保健室。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "受不了，使魔真是大惊小怪，\n这只是小伤耶。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "不过受伤是事实，\n训练只能到这结束了。",
+            "ChoiceDataList": [
+                "是啊，慎重起见，你还是先静养……",
+                "是啊，慎重起见，你还是先静养……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "那我要去山上！",
+            "ChoiceDataList": [
+                "为什么！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "这还用问？当然是去采药草啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "我早就决定今天训练结束后，\n要去收集做魔法药的材料。",
+            "ChoiceDataList": [
+                "你必须好好静养",
+                "如果只是轻微运动……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "为什么？只是采药草而已有什么关系？\n我已经决定了，不要妨碍我！",
+            "ChoiceDataList": [
+                "要是爬山让伤势恶化怎么办？",
+                "要是爬山让伤势恶化怎么办？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "我、我才不会犯下那种失误！\n总而言之，我赶时间──",
+            "ChoiceDataList": [
+                "我就说不行了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "唔唔唔……\n那就由你去采药草！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "……对耶，如果只是收集材料，\n那派使魔去就行了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "好了，快点去吧！天才魔法少女可是很忙的。\n我绝对不能改变行程！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我照她说的前往山上，代替她收集药草，\n但她还是一直闹别扭……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "没错，只是去采药草，\n根本不算什么！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "那我去去就回！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "──好痛！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "……唔，骗你的骗你的，一点都不痛！\n再不快点去，太阳都要下山了，\n赶紧出──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "好痛……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……看起来一点都不像没事！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我连忙阻止东商变革，要她静养。\n她看起来一直很不服气……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……我还是很担心，\n于是决定和她一起去山上。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "你看，我一点事也没有！\n这点程度的伤根本不算什么。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "好，我要开始采药草了！\n你也要认真帮忙♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "啊，找到了！我就是要找这个，忍冬！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "呵呵，这样就能做很多魔法药了！\n爬山也能当作训练的替代，\n真是一石二鸟♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "幸好东商变革的伤势没有恶化，\n而且这次爬山没有超过体力负荷，\n也能当作是一种训练。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

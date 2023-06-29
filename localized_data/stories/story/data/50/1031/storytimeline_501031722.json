@@ -1,0 +1,69 @@
+{
+    "Title": "因头痛而忧郁",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "当我和艾尼风神\n一起前往训练员室时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼风神",
+            "Text": "唔唔……",
+            "ChoiceDataList": [
+                "头痛？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼风神",
+            "Text": "嗯……从今天早上就一直痛到现在……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼风神",
+            "Text": "今天我还要打工，\n这样还能好好服务客人吗……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼风神",
+            "Text": "欸欸，\n你先假装一下你是客人。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼风神",
+            "Text": "欢迎光临！请问要来点什么呢？",
+            "ChoiceDataList": [
+                "我要大蒜加倍、辣度加倍"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼风神",
+            "Text": "噗，啊哈哈！我今天不是要去拉面店打工，\n是快餐店啦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼风神",
+            "Text": "啊，好痛……！\n大笑让我头变更痛了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "艾尼风神就这样\n头痛了好一阵子。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,457 @@
+{
+    "Title": "新年参拜",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "新年快乐。\n欢迎来参加“新年派对”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "新年。受到里见光钻的邀约，\n我来到里见集团举办的新年派对。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "那似乎是为了让里见家的人和集团相关人士\n方便在新年互相拜年而举办的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "派对才刚开始就打扰你真是不好意思，\n但我的父母亲都希望能和\n训练员打声招呼。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "光钻的父亲",
+            "Text": "新年快乐。\n光钻承蒙你照顾了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "光钻的父亲",
+            "Text": "小女在去年的经典级赛事当中，\n达到超乎预期的表现。\n这一切都归功于训练员的教导。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "光钻的父亲",
+            "Text": "证明当初光钻的直觉果然没有错──\n之后的资深级赛事也要麻烦你了。",
+            "ChoiceDataList": [
+                "好的。我一定会引导她成为“知名赛马娘”"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "光钻的父亲",
+            "Text": "嗯，我很期待。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "我接下来还要去跟大家打招呼，\n那就先稍微失陪一下了喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "请训练员随意放松，\n好好享受一番吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "里见光钻的双亲\n在里见家也算是核心人物。\n因此身为女儿的她似乎也很忙碌。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "光钻的前教练",
+            "Text": "光钻，新年快乐！\n你在闪耀系列赛表现得很好呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "光钻的前医师",
+            "Text": "呵呵呵，原本还这么小的\n光钻现在也已经有很好的成就了，\n每次看比赛的时候我都很感慨呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "新年快乐。\n教练、医师，好久不见了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "托你们的福我才能有今天。\n跑步的基础也都是经由教练你们帮我奠定的。\n我真的由衷地感谢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "光钻的前教练",
+            "Text": "其实我现在都跟我的学生炫耀，\n说我曾经是光钻的教练呢！\n学生们听了都觉得很佩服喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "哎呀，呵呵呵。那我真是深感光荣♪\n但教练明明在指导我之前，\n就已经是广为人知的好教练了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "医师在营养学界也是德高望重的教授。\n能够得到两位如此优秀人才的指导，\n我才是因此令人称羡呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "光钻的前医师",
+            "Text": "哎呀，真会说话。\n已经完全是担得起里见集团招牌的气度了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "哪里，我还差得远呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "我还在努力钻研身为“知名赛马娘”\n应该要有的样子。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "光钻的前教练",
+            "Text": "成为了知名赛马娘……\n就代表国外远征也会在计划范围内啰？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "运动产品公司的业务员",
+            "Text": "如果有国外远征的计划，\n敝公司能为您准备适合国外使用的\n训练机器及运动鞋喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "运动产品公司的业务员",
+            "Text": "也能为光钻小姐开发量身打造的产品。\n需要时请随时吩咐。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "光钻"
+            ]
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "贵公司之前为我们打造的训练机器，\n我在家的时候还是很爱用呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "需要新机器的时候，\n能再麻烦贵公司帮忙开发吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "运动产品公司的业务员",
+            "Text": "当然没问题。\n光钻小姐是里见集团之星。\n敝公司一定会为您尽最大的努力。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "谢谢。\n那我近期再和贵公司联络♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "优秀的教练、一流的医师，\n加上运动产品公司的协助……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "里见光钻从小\n就在资源丰富的环境下长大。\n这也来自于她背负众多期待的关系吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "相对地，她所背负的责任也更为沉重。\n她必须用实际的成绩来报答所受的恩惠。\n与期望相随的是无法躲避的责任。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──资深级的这一年，\n我一定要和她一起创下名为胜利的结果！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "新年派对结束后，\n我和里见光钻一起去新年参拜。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "──训练员，\n你许愿许得真久呀。",
+            "ChoiceDataList": [
+                "因为我要向神明表明决心嘛"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "是跟我的比赛有关的事情吗？",
+            "ChoiceDataList": [
+                "当然"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "那样的话，我原本也想\n一起向神明表明决心的说……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "不过因为意外看见了训练员认真的表情，\n所以就不计较了♪呵呵呵！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "那么，接下来的时间……\n训练员有什么打算吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "不介意的话，\n我想要知道训练员都是怎么过新年的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "因为我家和小北家，\n都一定会办人数很多的宴会。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "所以我想要了解除了办派对跟宴会以外，\n还有什么其他过新年的方式！\n请让我和你一起过吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "本来以为只是口头叙述过新年的方式就好，\n没想到不知不觉间就变成要一起过新年了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "说到过新年，我一直以来都会做的事情是──",
+            "ChoiceDataList": [
+                "躺过年",
+                "买福袋",
+                "写新年抱负"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "……这么早就要睡了吗？\n是为了练习做新年美梦之类的吗──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我向她说明虽然有些人会真的睡觉，\n但其实也代表不出门，在家悠闲度过的意思。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "哎呀，刚过新年就在家懒懒散散的吗……\n有种会充满罪恶感的感觉呢♪\n那我们就一起躺过年吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我们决定一起在训练员室里，\n一边吃零食，一边看新年特别节目。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "……这些人明明是参加巴士之旅，\n却几乎都在走路呢……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "哇啊！这个鳗鱼饭看起来好好吃……！",
+            "ChoiceDataList": [
+                "看了真的会想吃呢",
+                "看了真的会想吃呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "今天好像也有营业的样子，\n不如我们就叫外送来吃吧。",
+            "ChoiceDataList": [
+                "这可不是能外送过来的距离耶！？",
+                "这可不是能外送过来的距离耶！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "没问题的，\n毕竟我和训练员都这么努力，\n这点小任性，父亲还是会愿意听的♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "于是──我们一起享用了\n用新干线外送过来的美味鳗鱼饭。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "福袋！那个真的会让人充满期待呢！\n我也想要买！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "为了买福袋，\n我和里见光钻一起来到购物中心。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "要挑哪一家店好呢……\n哎呀，还有食物跟茶的福袋呢。",
+            "ChoiceDataList": [
+                "要选那个看看吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "如果是食物的话，就算拿到自己不喜欢吃的，\n也能拿去分送给其他人。\n那我们就挑那个吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "好多人排队呢……\n感觉还要等一段时间，\n等的时间干脆来玩观察力问答游戏吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "我们来猜路过的行人\n会走进去哪一间店！",
+            "ChoiceDataList": [
+                "好！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "那就从那边那位身穿羽绒外套的男性开始。\n我猜他会走进咖啡厅！",
+            "ChoiceDataList": [
+                "我猜他应该是要去楼上的书店"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "…………啊，他走进咖啡听了！\n呵呵呵，是我猜对了呢♪\n因为他刚才看起来很疲倦的样子。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "玩游戏让时间过得好快呢。\n好了，我们就赶快回去开福袋吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我们一起度过了愉快的排队时间，\n也顺利买到了福袋！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "写新年抱负吗……既然如此的话，\n那我想要写一幅大张的！",
+            "ChoiceDataList": [
+                "你是说书法表演艺术吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "是的！\n大毛笔跟宣纸我会请家里的人去帮忙买！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "所幸过年时间没有人在使用，\n让我们借到了体育馆，\n来完成书法表演艺术。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "嗯……不先模拟好要怎么写的话，\n感觉会拿捏不了比例呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "里见光钻在宣纸前\n仔细地模拟一番后，\n开始用几乎和她同高的毛笔一鼓作气地写字。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "嘿呀啊啊啊啊啊啊！\n喝！嘿呀！嘿！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "呼────！\n我写得怎么样呢？训练员！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "于是，她用非常优美的字体，\n写出了“成就宿愿”四个大字！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

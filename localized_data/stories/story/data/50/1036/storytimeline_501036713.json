@@ -1,0 +1,127 @@
+{
+    "Title": "保重身体！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "空中神宫在训练过程中受了伤，\n所以我带她来到保健室。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "啧，是因为跑步时用脑过度吗？\n这失误也太蠢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "……算了，这种程度的异常状况，\n来多少次我都能解决。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "那我们回去继续训练吧，\n该做的处置都做了。",
+            "ChoiceDataList": [
+                "还是好好休息吧",
+                "至少改成比较轻度的训练吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "你是在开玩笑吗？\n要是这样就算受伤，那不就一天到晚在受伤？",
+            "ChoiceDataList": [
+                "受伤就是受伤，如果要说是0还是1，就是1"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "啧……少讲这种听了就烦的比喻。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "……跟你争也是浪费时间。\n那我回房间整理数据，\n这样你就没意见了吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "空中神宫虽然一脸不服气的样子，\n但还是回去宿舍了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "要不要改成轻度训练，我自己会看着办。\n反正不管怎样，效率都会变差。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就这样，我们走向赛道──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "──唔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我让空中神宫稍微试跑一下，\n结果她的脸上出现了痛苦的表情。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "……啧，就这么不顺我的意啊？",
+            "ChoiceDataList": [
+                "看来还是练到这里就好了",
+                "看来还是练到这里就好了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "这种事还用说？\n烦死了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "空中神宫不满地小声抱怨，\n然后就回去宿舍了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "……只是稍微跑一下的话没问题。\n看来身体没变迟钝。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "顺便也收集一下受伤时的数据吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "空中神宫一边注意著伤势，\n一边在可承受范围内完成了训练。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

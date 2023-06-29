@@ -1,0 +1,344 @@
+{
+    "Title": "Sweepy与传说的教诲",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "欸，你看那张海报！\n上面写“地板魔术师，将在后天降临！”耶！",
+            "ChoiceDataList": [
+                "嗯～感觉跟你想的魔术师应该不太一样……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "这种事要亲眼确认过才知道吧？\n我想见魔术师！我说要去就是要去！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "考虑到上次失败的魔法景点巡礼，\n这次应该也和魔法没什么关系，\n感觉结果会很遗憾，不过──",
+            "ChoiceDataList": [
+                "……好，去看看吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "既然东商变革想去看，\n即使内容和魔法无关，\n我还是想带她去，让她玩得高兴……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "唔哇！好热闹！\n大家吵到让人觉得头昏眼花……\n这就是传说中的魔女聚会吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "而且……魔术师登场的地点和时间都是秘密！\n真像魔术师会准备的惊喜！我绝对要找到他！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "据说魔术师会在场内的某个舞台惊喜登场。\n这样的话，待在能看见整个会场的地方比较好。",
+            "ChoiceDataList": [
+                "去中央舞台吧──"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "主持人",
+            "Text": "各位请注意！会场入口有临时活动！\n新锐歌手亚当登场～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爽朗的大哥哥",
+            "Text": "你要去哪里？不去看就亏大啰！！\n一起冲去入口吧！",
+            "ChoiceDataList": [
+                "咦！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "使魔，你要去哪里！？\n我要先去中央舞台啰！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爽朗的大哥哥",
+            "Text": "咦？你不是来看亚当，而是来看那个魔术师！？\n抱歉抱歉！我告诉你一个确定的情报当作补偿吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "啊！你总算来了！\n你真大牌，居然让主人等你！",
+            "ChoiceDataList": [
+                "我得到魔术师的情报了！",
+                "我得到魔术师的情报了！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "激动大喊的观众们",
+            "Text": "──哇啊啊！！音乐再放大声一点～～！！\n──太棒啦～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "你──说──什──么──？\n我听不见──！！",
+            "ChoiceDataList": [
+                "总、总之先跟我来！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "哼～魔术师会从这里出现啊……\n确实有像工作人员的人在这里走动！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "咳咳……\n嗯～是刚才喊得太大声吗？\n希望不会影响到和魔术师聊天。",
+            "ChoiceDataList": [
+                "我去买饮料给你！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "真好喝～♪使魔，你表现得很好！\n再来只要魔术师出现就完美了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众们",
+            "Text": "那个魔术师会来这里对吧！？\n去前面一点看吧──！呃，糟糕！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "（咚！啪嚓……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "啊────！我的限定饮料！\n还有我喜欢的袜子～～～～！！",
+            "ChoiceDataList": [
+                "快、快拿去洗吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "什么！？\n在我洗袜子的时候，魔术师的表演结束了！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "……结果这次也失败了。\n而且是错过了东商变革想看的活动，\n变成白跑一趟……",
+            "ChoiceDataList": [
+                "……对不起，我一直失败"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "……\n……唉！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "你真的很没用耶。\n失误一次接一次，\n然后变得畏畏缩缩──",
+            "ChoiceDataList": [
+                "唔……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "你居然认为这样叫失败！？",
+            "ChoiceDataList": [
+                "……咦？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "听好啰，你才刚成为使魔，就像见习生一样！\n明白了吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "你和我这个天才魔法少女不一样。\n怎么可能有办法每件事都做得完美！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "我以前也曾经……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "咳、咳！\n唔唔，为什么锅子会爆炸……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "变革的祖母",
+            "Text": "被你弄得一片混乱呢！不过没关系。\n只要人没受伤就好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "一点都不好！\n我浪费了材料，锅子……也烧焦了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "变革的祖母",
+            "Text": "Sweepy现在知道锅子会爆炸了，\n下次就会更谨慎吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "变革的祖母",
+            "Text": "大家都是像这样慢慢进步的喔。\n你现在累积的不是失败，而是成功的基础！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "变革的祖母",
+            "Text": "所以不需要沮丧！\n以后也要继续累积经验！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "祖母告诉我这个世界上没有真正的失败。\n我也这么认为。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "你也一样！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "虽然之前的魔法景点巡礼\n感觉是被各种资讯带着走……\n但这次你有认真调查不是吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "……只是你还不习惯魔法聚会，\n所以过程不太顺利的样子。\n但下次再好好运用这次的经验不就行了？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "你付出的努力都有让你慢慢变成一个更好的使魔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "所以继续全力精进自己吧！\n毕竟你可是我的使魔！！",
+            "ChoiceDataList": [
+                "我好开心，谢谢你",
+                "我的努力，你都看在眼里呢",
+                "我的努力，你都看在眼里呢",
+                "目标是成为最强的使魔！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "所以继续全力精进自己吧！\n毕竟你可是我的使魔！！",
+            "ChoiceDataList": [
+                "我好开心，谢谢你",
+                "我的努力，你都看在眼里呢",
+                "我的努力，你都看在眼里呢",
+                "目标是成为最强的使魔！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "哎呀，现在高兴还太早！\n我可还没有满足喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "对了……我肚子饿了，先拿一些甜食过来吧♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我和露出灿烂笑容的东商变革约定，\n以后一定也会继续精进自己，\n让她开心……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "我才没有特别观察呢！\n只是刚好看到你手忙脚乱、垂头丧气的样子！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "总而言之！\n身为我的使魔，不准再露出那种没志气的表情！\n下次再这样，我就用魔法惩罚你！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "即使她不太坦率，但确实有在关心我。\n这让我很开心，胸口变得暖暖的……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "哦，有干劲是件好事！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "没～错，\n你必须成为能让我向其他魔女炫耀的最强使魔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "因为你总有一天会变成\n“大魔女”Sweepy的使魔！知道了吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

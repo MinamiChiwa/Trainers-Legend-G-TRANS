@@ -1,0 +1,311 @@
+{
+    "Title": "光明 in Underworld",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "一起外出后的归途。\n目白光明在某个橱窗前\n停下脚步。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "哇啊～～！那个孩子有着海蓝色的眼眸。\n不知道她愿不愿意跟小槙交朋友？",
+            "ChoiceDataList": [
+                "我记得小槙是……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "是的。就是我最重要的朋友，\n人偶……洋娃娃小槙。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "小槙虽然有点怕生，\n但她很认真努力，是个好孩子喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "……我进店里逛逛。\n应该会花不少时间，\n可以的话麻烦你先回去吧～",
+            "ChoiceDataList": [
+                "光明，你愿意的话──"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我说自己想陪她逛，跟她一起走进了店家。\n店里陈列著各式古董与洋娃娃……\n简直就像走进童话故事里。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "好棒……除了海蓝色眼睛的孩子以外还有\n发色如雪的孩子，啊啊……那孩子也……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "那孩子一定很适合穿上\n点缀著扇形蕾丝的礼服……每个孩子都好可爱，\n这下有得烦恼了呢～♪",
+            "ChoiceDataList": [
+                "每位都有独特的美呢",
+                "每位都有独特的美呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "！是的，没错。\n你看，仔细一看每个人表情都不一样，对吧～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "这位睫毛卷翘的孩子活力满满，容易得意忘形。\n这位嘴唇饱满嘟起的孩子好像在害羞呢。",
+            "ChoiceDataList": [
+                "我记得小槙很怕生？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "是的！所以呢～\n我希望小槙的朋友能够带领着她，\n就像雷恩姐姐大人和多伯一样──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "嗯～该怎么办呢……\n粉红色啊……虽然很可爱，但不适合我……",
+            "ChoiceDataList": [
+                "咦？这声音是……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "哎呀，多伯～♪\n多伯也出来买东西吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "光明……！？\n不是啦，那个……只、只是凑巧啦！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "我只是想买新的茶杯！\n逛著逛著刚好看到这家店的餐具！\n绝不是因为这家店很可爱才进来的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "别、别说这个了！光明还不是一样！？\n你竟然会跟别人一起来这种店，这才稀奇吧……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "呵呵呵，是啊～\n训练员大人陪着我一起\n寻找小槙的朋友呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "啊啊，小槙啊……我记得小时候\n你常跟小槙一起办茶会呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "是的，她是我重要的朋友……\n也是重要的宝物呢～",
+            "ChoiceDataList": [
+                "你们从小感情就很好呢",
+                "你们从小感情就很好呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店店员",
+            "Text": "让您久等了，目白多伯小姐。\n这边这张会员卡──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "！？好……好的！\n你说刚刚被我捡到的那张不知道谁掉的卡吧？\n找到失主了是吗？我立刻过去！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "啊，我想起来了，我还有事！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "那、那就先这样啦！\n祝你找到理想的洋娃娃。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "多伯好像正在忙呢。\n我似乎还需要一点时间\n才能决定该带回哪个孩子～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "训练员大人。\n你的时间没问题吗～？",
+            "ChoiceDataList": [
+                "慢慢逛吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "……！好的♪\n我一定会找出最适合\n跟小槙当朋友的孩子的～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "之后目白光明继续细心挑选著洋娃娃。\n……不过，眼看她还没能下决定，\n却已经到了打烊时间了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "红宝石色眼珠的孩子也很有魅力呢～！\n不过海蓝色眼睛的孩子比较像大姐姐……\n啊啊但是……琥珀色的孩子也……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "干脆每一位都……？\n不过这样会害小槙吓一大跳的吧……！",
+            "ChoiceDataList": [
+                "你明明很烦恼，但看起来很幸福呢",
+                "你明明很烦恼，但看起来很幸福呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "呵呵，是的。\n细细挑选的时光也让我觉得很放松呢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "不过……已经这么晚了呢。\n训练员大人，你是不是累了呢？",
+            "ChoiceDataList": [
+                "能看到你开心的模样真是太好了",
+                "能看到你开心的模样真是太好了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "哎呀……听到你这么说，\n我好高兴喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "呵呵，\n我还真没想到能玩得这么尽兴，\n跟独自一人沉迷兴趣时又有着不同乐趣呢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "今天发生了好～～多好多\n等著回去跟小槙分享的事情呢～♪",
+            "ChoiceDataList": [
+                "好多事情？例如？",
+                "洋娃娃的玩法也有很多变化呢",
+                "洋娃娃的玩法也有很多变化呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "今天发生了好～～多好多\n等著回去跟小槙分享的事情呢～♪",
+            "ChoiceDataList": [
+                "好多事情？例如？",
+                "洋娃娃的玩法也有很多变化呢",
+                "洋娃娃的玩法也有很多变化呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "首先是遇见多伯的事。\n她说想要新的茶杯呢，\n所以我想跟小槙讨论该送她哪款茶杯～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "还有我在寻找新朋友时\n脑中浮现了新的洋装设计款式。\n还有最后就是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "训练员大人对我说的那句话。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "呵呵，希望天亮前\n聊得完所有话题呢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "为防万一，我叮咛她，\n要她注意时间别熬夜了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "是啊！对洋娃娃有兴趣的话，\n请务必考虑带位新朋友回家～♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "虽然要邂逅“新朋友”很不容易，\n但……你应该也懂那过程的乐趣吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "你一定能体验一场命中注定的邂逅的～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "要是总有一天能一起开茶会，\n一定会很好玩呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "之后的归途中，目白光明兴致勃勃地\n聊著有关洋娃娃的话题！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}
