@@ -1,0 +1,182 @@
+{
+    "Title": "再做一次训练",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "喂喂喂，有点常识好不好啊～！\n比赛最重要的当然是持久力吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "……常、“常识”！？\n你刚刚是这么说的吗！？",
+            "ChoiceDataList": [
+                "怎、怎么了？",
+                "怎、怎么了吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "呃，我们在讨论\n想要做额外的训练……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "啊，对了！\n就让训练员帮我们决定吧！\n“三种方案里面，哪一个最好”这样！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "额外的训练……\n时间的确还很充足。\n对<chrname>来说也是好事。",
+            "ChoiceDataList": [
+                "你说的三种方案是？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "“外围”啦，外围！\n我一定要……征服整片大海！\n藏宝图我不需要，我需要的是持久力！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "比起那个，“速度王争霸赛”比较好啦！\n在比赛中激烈竞争到热血沸腾……\n就会唔喔喔喔～地充满活力啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "我觉得“吃到饱训练”比较好喔！\n运动完好好吃东西也是很重要的！\n我认为这也是一种很棒的训练！",
+            "ChoiceDataList": [
+                "跑外围吧，感觉能提升持久力",
+                "跑外围吧，感觉能提升持久力呢",
+                "速度王争霸赛！",
+                "……选吃到饱好了？还能好好地休息"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "我觉得“吃到饱训练”比较好喔！\n运动完好好吃东西也是很重要的！\n我认为这也是一种很棒的训练！",
+            "ChoiceDataList": [
+                "跑外围吧，感觉能提升持久力",
+                "跑外围吧，感觉能提升持久力呢",
+                "速度王争霸赛！",
+                "……选吃到饱好了？还能好好地休息"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "是啊，我也认同你的说法。\n不过……\n提议的人根本不在常识的范畴内。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "不、不要紧的！\n她看起来也很认真的样子，\n这说不定就是黄金船实力强大的秘密呢……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "……呃，这里是？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "听说这座山会出现UMA喔。\n我们一起把它抓回去大赚一笔吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "真是的──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "原本要跑外围却变成了登山……\n但还是值得作为训练的参考。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "太好了────！！太好了太好了～～～！！\n那来决定要跑的距离吧！猜拳决定！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "……我们这么多人耶，采多数决就可以了吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "于是临时举办的比赛发展成难分轩轾的场面，\n令人看得目瞪口呆──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "米浴",
+            "Text": "嘿嘿嘿，真的很热血沸腾，\n全身都热呼呼的呢……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "对吧对吧！热血沸腾～～！！\n再来换跑打比的距离看看吧！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "后来，在时间容许的范围内，\n她们尝试了各个比赛的距离。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "好耶──！幸好我有一直把甜点吃到饱的\n餐券给好好收藏着呢～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "呵呵，小特累积的餐券要派上用场了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "……真、真拿你没办法。\n我也不忍心糟蹋你的好意。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小特&麦昆",
+            "Text": "嗯～～～♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "大家一起好好地休息，\n还加深了彼此的情谊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

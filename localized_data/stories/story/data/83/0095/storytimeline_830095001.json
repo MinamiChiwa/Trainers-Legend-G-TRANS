@@ -1,0 +1,261 @@
+{
+    "Title": "It will be fine",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "某天，正当我走在商店街时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "带着吉他的少女",
+            "Text": "喔～耶～啊～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "让灵魂之歌为商店街注入元气！\n这个企划如何！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鱼贩大叔",
+            "Text": "你问我觉得如何……感觉有点吵耶。\n抱歉啊，在商店街举办演唱会不太好……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "带着吉他的少女",
+            "Text": "什么嘛！这种不懂我音乐的场地，\n我才要撤销申请！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（咚！）",
+            "ChoiceDataList": [
+                "哇！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "──平安无事！\n抱歉，突然拉住你的手。",
+            "ChoiceDataList": [
+                "没事，不要紧",
+                "嗯，不要紧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "太好了，她一热血起来，\n总是瞻前不顾后的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "带着吉他的少女",
+            "Text": "……抱歉。因为我一直找不到\n演唱会的场地……",
+            "ChoiceDataList": [
+                "演唱会？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "她想要从街头演唱毕业！\n举办第一场室内演唱会喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "我可以保证她的歌唱实力！\n在车站前听到她的歌声时，我大受感动……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "带着吉他的少女",
+            "Text": "嘿嘿，只有采珠小姐\n看出我的才能呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "呵呵，总有一天全世界都会知道的。\n好，我们再去找场地吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "……所以说，嘿！\n你知道可以开演唱会的地方吗？",
+            "ChoiceDataList": [
+                "一起找找看吧",
+                "一起找找看吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "带着吉他的少女",
+            "Text": "唔喔喔喔喔！哇呀～～～！\n谢谢你～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "就是这样！\n如何？内心一阵陶醉对吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "咖啡厅店长",
+            "Text": "唔、唔……不好意思。\n感觉跟我的咖啡厅气氛不太合……",
+            "ChoiceDataList": [
+                "那么接下来去热闹的地方──"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "经理",
+            "Text": "我们的客层是时下年轻人，所以有点……\n啊，你会演奏迪斯可音乐吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "带着吉他的少女",
+            "Text": "……啧。我才不弹那种的！",
+            "ChoiceDataList": [
+                "那、那就去找音乐风格适合的地方！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "为休憩的场所增添一点绚烂元素，\n来点摇滚乐如何？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "店长",
+            "Text": "嗯……没有什么感觉耶。要呐喊的话，\n去Live House不是比较适合吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "带着吉他的少女",
+            "Text": "哇啊啊啊──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "带着吉他的少女",
+            "Text": "什么嘛！每个人都这样……！\n通通都不了解我的高水准音乐！",
+            "ChoiceDataList": [
+                "你先冷静一下……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "带着吉他的少女",
+            "Text": "唉……不过也是啦。\n这个时代在网络上爆红就出名了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "带着吉他的少女",
+            "Text": "嘿嘿，你知道吗？\n我喜欢的乐团“圣塔莫尼卡”\n也是在网络上发迹的喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "喔……也有这种方法啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "带着吉他的少女",
+            "Text": "好！那就来拍MV吧！\n每间知道的摄影棚我都去问问看！",
+            "ChoiceDataList": [
+                "啊，等等……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……她是不是又要去强人所难了呢？\n希望她能确实地把自己的想法和热情\n传达给对方……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "呵呵……很不错呢，女孩！！",
+            "ChoiceDataList": [
+                "会……吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "那女孩会把挫折当成养分来成长──\n她正面对着磨练自己的机会喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "不顺遂的烦躁，想必对创作来说\n也会成为一种不错的刺激♪",
+            "ChoiceDataList": [
+                "这样说来，或许是吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "……不过，得好好支持她，\n让她有力量战斗才行呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "无论是坚强的信念还是热情，\n要是一直被狂风吹袭，总有一天也会吹倒。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "能在快要倒下时给予支持的伙伴……\n每个人应该都需要吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "在我迷上她的呐喊那瞬间，\n我就决定……要成为她的支柱。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "而且，今天一整天\n让我了解到许多事──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "无须担心！\n一定会很顺利的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看着采珠充满自信地寄予信赖，\n我对她的包容力如此巨大感到惊讶……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}
