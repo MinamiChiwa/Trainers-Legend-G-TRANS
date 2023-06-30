@@ -1,0 +1,310 @@
+{
+    "Title": "走过路过不要错过！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "回程路上。\n我和北部玄驹被优秀素质叫去参加\n商店街主办的跳蚤市场。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "怎么样？商店街第一名的面包好吃吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "嗯～～！真好吃！搭配随附的\n杏桃果酱一起吃真是绝品美食……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员A",
+            "Text": "对吧～真的很好吃吧～\n……明明就这么好吃，唉。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "要是有客人来吃……就好了。",
+            "ChoiceDataList": [
+                "听你们这么一说才发现没什么人潮……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "真的耶，整个跳蚤市场都没什么人……\n可是，这是为什么呢？\n这么好吃应该会很受欢迎才对啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "好像是因为附近正在办大型活动，\n人潮都往那边去了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员A",
+            "Text": "这个跳蚤市场主要也是为了宣传之后要办的\n“商店街．大感谢祭”，\n但看这个状况……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "总之我们还是不要气馁，继续努力吧！\n至少也还是有人吃了觉得很喜欢嘛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "……不好意思！\n这件事情可以交给我来办吗！？",
+            "ChoiceDataList": [
+                "你有什么想法吗？",
+                "你有什么想法吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "训练员也要一起来！\n然后再多买一些面包跟果酱──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "好！已经把面包跟果酱都摆好了。\n再来就……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "来吧，训练员！\n开始尽情地吃吧！！",
+            "ChoiceDataList": [
+                "咦！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "有杏桃果酱跟草莓果酱，\n还有奇异果果酱跟蓝莓果酱！\n随便你抹来吃！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "你想先从那一个开始吃？\n还是先从最基本的草莓果酱开始，怎么样？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "说完，\n北部玄驹就把抹上草莓果酱的面包交给我，\n我照她的指示开始吃──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "……味道怎么样！？",
+            "ChoiceDataList": [
+                "好、好好吃……！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "行人",
+            "Text": "真的耶，看起来就很好吃……\n是有在办什么卖东西的活动吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "这是在那边的跳蚤市场买的～！\n不仅有卖好吃的，\n还有很多好东西可以发掘喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "行人",
+            "Text": "是喔……原来还有跳蚤市场。\n要不要去看看？",
+            "ChoiceDataList": [
+                "真厉害，已经拉到了一组客人……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "好，就照这个感觉继续吧！\n先换个地方！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "噗哈～！这个抹了奇异果果酱的面包，\n吃了之后感觉疲劳都消失了～♪",
+            "ChoiceDataList": [
+                "酸酸的味道留在嘴里感觉很清爽呢",
+                "酸酸的味道留在嘴里感觉很清爽呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "正在练跑的人",
+            "Text": "喔──\n看得我都觉得有点饿了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "啊！不嫌弃的话，请你吃一个吧。\n这是那边的跳蚤市场在卖的……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "（人声鼎沸……盛况空前……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "喂喂，人潮变多了……！\n北部，这么短的时间内你究竟做了什么啊？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "嘿嘿嘿！\n开心的气氛就是会让人忍不住感到好奇的嘛！",
+            "ChoiceDataList": [
+                "所以呢？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "就算正在忙，\n听到欢乐的声音，还是会忍不住想去看吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "“不知道是在做什么？”\n“过去看一下好了？”……之类的，\n只要产生了兴趣，就注定是祭典的一分子了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "热闹的气氛会吸引更多的人！\n所以我们只需要尽情地享受，\n把更多热闹的气氛传递出去！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "真强势～！\n不过，也让我学到了一课。",
+            "ChoiceDataList": [
+                "所以才找我在路上大吃啊",
+                "所以才找我在路上大吃呀"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "是！\n但能有这么好的效果，\n主要也是归功于商店街的大家！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "因为大家开朗地接待客人、对商品非常用心。\n所以才能留住人潮。\n……我自己是这么认为的啦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "呵呵，真是的，你可真会说啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员A",
+            "Text": "没错没错！\n亲切又充满人情味，\n这本来就是商店街的最大卖点！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员B",
+            "Text": "只要有人肯来，\n我们自然有办法留住客人～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "这次……真的是谢谢你们了。\n之后的祭典应该也不用担心了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "小事一桩！\n就当是好吃的面包跟果酱的谢礼了！",
+            "ChoiceDataList": [
+                "真是潇洒豪迈的谢礼啊！",
+                "真是潇洒豪迈的谢礼呢！",
+                "反正揽客的过程我们也很开心",
+                "反正揽客的过程我们也很开心嘛"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "小事一桩！\n就当是好吃的面包跟果酱的谢礼了！",
+            "ChoiceDataList": [
+                "真是潇洒豪迈的谢礼啊！",
+                "真是潇洒豪迈的谢礼呢！",
+                "反正揽客的过程我们也很开心",
+                "反正揽客的过程我们也很开心嘛"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "！　……潇洒豪迈吗？\n嘿嘿嘿，我没有那么厉害啦～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "哟！潇洒大将！\n你可以更有自信一点。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "咦～真、真的吗～？\n那我要当真了喔？嘿嘿嘿～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "（爸爸，我……\n我是不是有稍微接近爸爸一点了呢？）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "说得好啊！\n真不愧是训练员！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "好心终会有好报。\n这么做也算是帮助了自己嘛！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

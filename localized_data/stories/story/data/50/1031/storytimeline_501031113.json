@@ -1,0 +1,554 @@
+{
+    "Title": "这就是她的日常",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼斯风神",
+            "Text": "做完缓和运动了！\n那我要去打工啰──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "完成训练后，\n艾尼斯风神像一阵风般呼啸而去。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我一边看着今天的训练数据，\n一边思考着下次\n该做什么训练时……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "生野狄杜斯",
+            "Text": "素质。\n能麻烦你多陪我跑三圈吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "喔喔……生野还真不怕累耶～\nOK──那我们就一起自主训练吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "完成训练的赛马娘们\n开始各自做起自主训练。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这在特雷森学园是稀松平常的事情，\n但平时艾尼斯风神\n却很少出现在这画面里。",
+            "ChoiceDataList": [
+                "练习量的差距还是会被拉大……",
+                "练习量的差距还是会被拉大呢……"
+            ],
+            "ColorTextInfoList": [
+                "特雷森学园"
+            ]
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "──嗯！光明，姿势这样就对了！\n重心维持得很好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "光明"
+            ]
+        },
+        {
+            "Name": "目白光明",
+            "Text": "呼啊……呼啊……\n好的～谢谢你～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我记得那个正在慢慢调整呼吸的女孩\n跟目白赖恩一样同为目白家赛马娘……\n她是目白光明。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "目白光明"
+            ]
+        },
+        {
+            "Name": "目白光明",
+            "Text": "啊哇～之前烦恼这么久仿佛就像一场梦。\n姐姐大人瞬间就解决了我的烦恼呢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "训练不只量要够，品质也很重要！\n必须确保每次训练都发挥效用！\n……虽然这也是从奶奶那现学现卖的就是了。",
+            "ChoiceDataList": [
+                "（除了分量还要注重品质……！）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……她说得没错。\n与其在这里哀叹训练时间不够，\n应该想办法努力提升训练的品质才对！",
+            "ChoiceDataList": [
+                "我也要更精进自己！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "于是我决定这礼拜\n前往前辈介绍的书店和运动用品店，\n寻找有用的杂志和影片资料！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "然而前辈推荐的书店非常大间，\n光是想找到放专门杂志放的书柜，\n似乎就得花上不少时间……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "店员",
+            "Text": "您在找的赛跑相关的杂志吗？\n那类书籍放在二楼喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看来正好有人需求跟我一样。\n我获救般地看向声音传来的方向──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼斯风神",
+            "Text": "我为您带路！",
+            "ChoiceDataList": [
+                "艾尼！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼斯风神",
+            "Text": "要是想找什么商品，\n欢迎洽询工作人员喔～！",
+            "ChoiceDataList": [
+                "艾尼！？！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼斯风神",
+            "Text": "来了，久等了，您的拉面！",
+            "ChoiceDataList": [
+                "艾尼！？！？！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼斯风神",
+            "Text": "训练员，\n我想跟你讨论明天的训练──",
+            "ChoiceDataList": [
+                "艾尼！？！？！？！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼斯风神",
+            "Text": "咦？干嘛！？我是艾尼没错啊！？",
+            "ChoiceDataList": [
+                "因为这礼拜不管走到哪都遇到你嘛……",
+                "因为这礼拜不管走到哪都遇到你嘛……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼斯风神",
+            "Text": "啊～我们遇上的几率真的满高的。\n甚至连在单日打工中都能遇到你。",
+            "ChoiceDataList": [
+                "单日打工？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼斯风神",
+            "Text": "可以的话我当然比较想只做长期打工啦。\n毕竟单日工作没办法保证何时还会有下次嘛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼斯风神",
+            "Text": "但就算想做长期也只能去对班表够通融的地方。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼斯风神",
+            "Text": "不然要是先提出班表后\n才撞上非参加不可的比赛，\n事情不就会变得很麻烦吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼斯风神",
+            "Text": "所以我的长期打工只有拉面店、发传单跟\n便利商店这三种，因为他们愿意临时调整时间。\n……真的很感激店长们宽容大度呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "没想到她身兼三份长期打工还不够，\n竟然还有额外的短期兼职……\n我既惊讶，同时也感到疑惑。",
+            "ChoiceDataList": [
+                "是说这样你的课业没问题啊？",
+                "是说这样你的课业没问题啊？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼斯风神",
+            "Text": "啊～！看你这表情，\n是不是觉得我分数都不及格啊～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼斯风神",
+            "Text": "别小看我啰──比赛、课业、打工，\n每一项我都没有偷懒呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼斯风神",
+            "Text": "要是这么不放心的话就实际确认看看吧？\n我自认到哪都是个称职的姐姐喔～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "神、神、神，她真的是神！！\n艾尼的笔记已经好用到book思议的地步！！",
+            "ChoiceDataList": [
+                "那是……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "那两人是艾尼斯风神的同班同学，\n大拓太阳神和目白善信。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "大拓太阳神",
+                "目白善信"
+            ]
+        },
+        {
+            "Name": "艾尼斯风神",
+            "Text": "不过就是借你笔记而已，真是夸张！\n但有帮到你就好啦～♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "没有，真的非常好懂！\n都多亏有你的笔记，\n我才终于看懂了数学讲义！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "同班同学",
+            "Text": "艾尼，还有五分钟才上课喔～？\n反正老师也还没来，你就先休息一下吧～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼斯风神",
+            "Text": "不行～我要把握时间用功才行。\n我绝对不能因为不及格而补考！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "同班同学",
+            "Text": "咦？艾尼中午就只吃这样啊？\n而且你还换了运动服？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼斯风神",
+            "Text": "嗯，我早上吃了很多啦！\n午休时间赛道比较没人，\n我想趁这时候确认自己的跑姿！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "拉面店店长",
+            "Text": "欢迎光临！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──今天一整天观察艾尼斯风神下来，\n我确定了一件事。",
+            "ChoiceDataList": [
+                "（……她不管做什么都全力以赴）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼斯风神",
+            "Text": "奇怪～？训练员，\n你还在继续监视我啊～？",
+            "ChoiceDataList": [
+                "咦！？啊！？我不是这个意思！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼斯风神",
+            "Text": "呵呵，我知道啦。\n师傅，来一碗特制拉面！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "拉面店店长",
+            "Text": "好──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼斯风神",
+            "Text": "……啊，可不是我请客喔？\n等一下记得自己付钱喔。",
+            "ChoiceDataList": [
+                "是……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "拉面店店长",
+            "Text": "哈哈，你就是小风的训练员啊！\n还真是被她吃得死死的呢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "小风"
+            ]
+        },
+        {
+            "Name": "艾尼斯风神",
+            "Text": "没错没错，完全吃定～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "拉面店店长",
+            "Text": "啊哈哈，小风还是这么幽默！\n……不过我想问一下。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "拉面店店长",
+            "Text": "你看小风的资质怎么样？\n能在闪耀系列赛跑赢吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "拉面店店长",
+            "Text": "其实我跟她老妈是老朋友了。\n据她老妈说──\n“小风总是牺牲自己先替别人着想”喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "拉面店店长",
+            "Text": "她代替老是医院家里两头跑的妈妈做家事，\n还要照顾妹妹们。\n直到初中毕业前都为了家人四处奔走。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "拉面店店长",
+            "Text": "现在妹妹们学东西又需要钱，\n她想补贴家计，\n所以自己出来打工寄钱回家。",
+            "ChoiceDataList": [
+                "……我也听说是这样"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "拉面店店长",
+            "Text": "哈哈，她真的很了不起。\n真不知道她怎么有办法这么卖力。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "拉面店店长",
+            "Text": "……要是她懂得找机会偷懒一下也好。\n打工中她也是最快抓到诀窍、最尽心的员工。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "拉面店店长",
+            "Text": "明明生活比其他人都来得辛苦，\n却能一脸快乐地度过每一天。\n……她说很庆幸自己身在可以追梦的环境。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "拉面店店长",
+            "Text": "……我问你，\n小风能在闪耀系列赛跑赢吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "拉面店店长",
+            "Text": "谢谢光临──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "踏出拉面店后我稍作休息。\n街道上满是行人的轻快脚步声。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "欸，多玩一下再回去啦！\n我想去唱卡拉OK！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘B",
+            "Text": "咦～？只能唱三十分钟喔～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼斯风神",
+            "Text": "店长，辛苦了──！\n下次也麻烦多关照了──！！",
+            "ChoiceDataList": [
+                "你下班啦？",
+                "你下班了吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼斯风神",
+            "Text": "啊，训练员。\n拉面店这边是下班了啦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼斯风神",
+            "Text": "但今天的打工还没有结束喔。\n我还要接着去便利商店呢。",
+            "ChoiceDataList": [
+                "接下来还有工作！？",
+                "接下来还有工作！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼斯风神",
+            "Text": "嗯，今天排了满满的工作。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼斯风神",
+            "Text": "因为我打算从明天开始\n要为了出道战好好专心训练！",
+            "ChoiceDataList": [
+                "你真了不起……",
+                "你真了不起……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看着她的笑容，\n我除了想更加精进自己以外，\n更强烈的感受是想要成为她的助力──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "于是我决定\n抵达便利商店之前\n至少由我帮她提书包。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼斯风神",
+            "Text": "欸，真的没问题吗？\n我的书包还满重的吧？",
+            "ChoiceDataList": [
+                "没问题，这点忙就让我帮吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼斯风神",
+            "Text": "嗯──是喔？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "打工辣妹",
+            "Text": "啊～艾尼今天也有班喔──？\n这个人……喔喔～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "盯着我不断上下打量的女性……\n应该是艾尼斯风神的同事吧。\n身为她的训练员得好好致意，于是我低下头。",
+            "ChoiceDataList": [
+                "谢谢你平时对她的照顾"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "打工辣妹",
+            "Text": "喔～这就是传说中的年长的包容力？\n艾尼，你们要幸福馁～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼斯风神",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼斯风神",
+            "Text": "嗯？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "打工辣妹",
+            "Text": "看看你们～\n还帮你拿书包陪你来打工，真闪馁～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼斯风神",
+            "Text": "……啊～原来如此～\n没错没错，\n他就是负责让我幸福的伙伴……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼斯风神",
+            "Text": "也就是我的训练员！\n你明明知道还故意这么说的吧？真是的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "打工辣妹",
+            "Text": "咦～是喔～？\n算了，不重要啦，今天也麻烦啰～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼斯风神",
+            "Text": "好好好。\n……训练员，走快一点！\n再继续慢慢走就要迟到了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "说完艾尼斯风神便朝便利商店奔跑，\n我在后面追着她。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "跑在前头的她的脚步声中\n交杂着我那比她慢了几拍的脚步声。\n我们就这样朝向能够两人三脚努力的日子迈进──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

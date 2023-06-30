@@ -1,0 +1,524 @@
+{
+    "Title": "追逐憧憬",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "某天，我走在广场上时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "…………",
+            "ChoiceDataList": [
+                "你在干嘛？",
+                "你在做什么？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "训练员！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "嘘──！\n我现在正在调查麦昆……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "感觉到了视线？\n……不对，应该是我多想了吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "……呼。\n真是好险呀……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "在我搞清楚麦昆实力强大的秘密之前，\n绝不能被她发现我在偷偷观察她。",
+            "ChoiceDataList": [
+                "干脆直接问她吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "不行！自己调查比较有趣嘛！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "……哎呀？麦昆不见了！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "只是稍微没注意而已……\n跑去哪里了呢？",
+            "ChoiceDataList": [
+                "说不定是去练习室练歌了",
+                "感觉正在食堂抱头苦恼呢",
+                "她一定是去训练赛道锻炼自己了！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "我知道了，那就过去看看吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "练习室有好几间呢。\n该从哪里找起──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "唔喔～燃烧吧～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "歌声……是从这一间传出来的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "承载着梦想，啊──\n我们的～胜利……♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "哇啊～！充满透明感又很有力道的歌声……\n好棒喔♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "里见！？\n咦？那个，你怎么会在这里……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "难道是……\n我想说有隔音就不小心唱太大声了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "呵呵，多亏是这样我才能发现的喔！\n麦昆的秘密。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "秘、秘密！？我不明白你的意思呢。\n刚、刚才我只是为了转换一下心情\n才唱歌的……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "……不，我已经什么都知道了。\n麦昆，你其实──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "是用歌声来鼓舞自己，\n进而提升自己的表演能力的吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "……咦？啊、啊……的确是这样没错哦？\n哦、哦呵呵呵～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "那个……请你也教教我吧。\n教我刚才那首听了会让人觉得心情激动的歌……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "心情激动……？意思是说……\n你听了很喜欢吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "是的。旋律非常热情，\n不知不觉就会跟着变得很愉快──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "我想要更深入地了解\n蕴含在这首歌中的心意！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "……我事先声明两点。\n第一，今天的事情绝不能告诉别人。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "第二──\n我的教学可不轻松哦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "……！了解！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "来，抬头挺胸！\n用响彻云霄的声量……三，唱。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "燃烧吧～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "里见光钻透过用最极限的声量唱歌，\n学会了超热血歌曲。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "呵呵呵，我忍不住就想像了一下那个画面了呢。\n那我们走吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "松饼、水果塔……\n甜地瓜跟杏仁豆腐……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "每一个都充满魅力啊……\n但我一定要避免热量过量的状况！\n快动脑筋想……快仔细想……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "想不到麦昆竟然在选甜点的时候，\n会慎重认真到这种地步……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "……我觉得我好像明白了。\n麦昆强大实力的秘密。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "无论是日常中多琐碎的小事都认真看待、思考。\n每一步都慎重行事是很重要的……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "麦昆！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "呀啊！里、里见……！？\n你该不会……都、都看见了……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "是的，我看见你表情非常认真严肃……\n你真的很帅气喔，麦昆！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "听、听你这么说……\n我不知道该开心还是该不好意思呢……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "我也要像麦昆一样，\n慎重认真地选甜点。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "嗯～我想想喔……哎呀？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "现在正在举办……“珍奇甜点展”呢！\n那我就选那个吧♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "“墨鱼起司蛋糕”、“布丁寿司”……\n这是什么菜单啊！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "那个，里见……\n你刚才不是说要慎重认真地选吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "是呀！这些各式各样神秘奇妙的甜点……\n不觉得很值得选来吃吗♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "……！真是了不起的探究心……！\n你这是和甜点的正面对决吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "……我也要挑战！\n挑战“珍奇甜点展”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "麦昆……！\n我们一起开拓甜点的新境界吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "那么……\n要不要选那个“蕈菇蒙布朗”呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "……呃，里见。\n我可以再慢慢想想看吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "两人一起经过苦思后做出选择，\n一起品尝了美味的甜点！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "是秘密特训的必做项目呢。\n我们去看看吧……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "请问……\n你在赛道的正中间做什么呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "我在假装自己是关隘啊。\n想通过就要搞笑把我逗笑。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "你这样会妨碍到别人的。\n快点让开吧，黄金船。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "……嗯？你这个表演有什么好笑的？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "我才没有在表演！\n真是的，那我只好用蛮力……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "预备──唔！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "喔哇！？我居然推不回去……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "然后就这样走掉了……力气怎么那么大啊。\n那家伙真不简单耶。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "那个，请问你们刚才在做什么？\n看起来像是在相扑的感觉……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "没错，你正好撞见了重头戏。\n阿船我完全没辙呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "难道麦昆实力强大的原因，\n就是因为她有非常坚实的腰跟腿……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "……黄金船。\n能请你也跟我相扑吗……麻烦了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "呼……你还早得很呢。\n先学会怎么搞笑再说吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "搞笑吗……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "……呼，成绩一直没办法进步呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "不知道是不是刚才用掉太多力气了。\n黄金船……\n希望她不要又给谁惹麻烦才好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "……哎呀？那是？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "肌肌、肌肌──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "比目鱼肌！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "比目鱼肌！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "不行、不行！完全没用到腰的力量！\n麦昆可是比你认真多了喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "……是！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "我哪有做这种事！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "麦昆！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "呃，这是怎么一回事呢──\n哎呀，黄金船不见了？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "里见光钻因为进行奇妙的搞笑训练，\n意外地锻炼到了肌肉！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

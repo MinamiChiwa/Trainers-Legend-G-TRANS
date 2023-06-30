@@ -1,0 +1,275 @@
+{
+    "Title": "迎向出道战",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "……呼，很服贴。\n完美！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "啊，革革。\n你在检查蹄铁啊？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "是啊，我正在把蹄铁重新装牢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "真令人担心～\n借我一下。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "咦！？你、你要做什么！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "革革是第一次正式参赛吧？\n我来帮你好好装牢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘B",
+            "Text": "啊～革革！\n你要参加出道战对吧！\n你知道几点开始吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "当然知道！\n我今天早上才刚确认过。\n就连起床时间都算好了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘B",
+            "Text": "嗯嗯，就算比赛前一天知道时间，\n如果没记下来还是会忘记，\n要小心。绝对不可以迟到喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "啥？就算不记下来，\n我也不会忘记的啦──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "喔，这不是变革吗？\n我听富士说你接下来要参加出道战。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "富士"
+            ]
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "你有好好吃饭吗？\n有些人在比赛前一天\n会因为压力太大而吃得比较少。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "虽然我们不同宿舍，\n但菱亚姐姐可以特别为你准备特制便当喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "菱亚姐姐"
+            ]
+        },
+        {
+            "Name": "东商变革",
+            "Text": "真是的……！\n放心啦，我有好好吃饭。\n我自己就能做好自我管理！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "……哎呀，你看起来很烦躁呢。\n真拿你没办法。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "交给我吧，\n姐姐当天会特别为你大展身手！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "我才────────没有！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "到了出道战当天──\n东商变革在约定的时间准时出现。\n不过……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "…………唔～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我去接东商变革时，\n发现菱亚马逊和……\n号称“女帝”的赛马娘气槽也在那里。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "菱亚马逊",
+                "女帝",
+                "气槽"
+            ]
+        },
+        {
+            "Name": "",
+            "Text": "菱亚马逊是曾在“伊丽莎白女王杯”等竞赛中\n获胜，被认为具备最强水准，\n在“有马纪念”也跑出好成绩的赛马娘。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "伊丽莎白女王杯",
+                "有马纪念"
+            ]
+        },
+        {
+            "Name": "",
+            "Text": "气槽曾在“奥克斯”中获胜。\n而她在“天皇赏（秋）”拿下的胜利，\n更是后冠路线的选手睽违十几年的创举。",
+            "ChoiceDataList": [
+                "（两人都是知名的赛马娘……！）"
+            ],
+            "ColorTextInfoList": [
+                "奥克斯",
+                "天皇赏（秋）"
+            ]
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "变革，好了。\n便当、手帕和卫生纸都带了吗？\n有没有忘记什么东西？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "……手帕的事情，\n你这几天已经讲过很多次了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "……喂，变革。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "抵达现场后，要记得先确认草地的状况。\n竞赛在准备阶段就已经开始了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "…………真是够了────！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "吵死了，我知道啦！！\n不要再说了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "喂，变革，大家是担心你──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "我才不需要你们担心！\n拿下第一名对我来说很轻松的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "讨厌──！！\n使魔，出发了！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "就这样，我和气鼓鼓的东商变革\n一起抵达了赛场……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "…………",
+            "ChoiceDataList": [
+                "（她心情看起来很差……）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "如果随便刺激她，情况会更严重。\n就在我拼命思考该怎么做\n才能让她恢复好心情时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "（嗡──嗡──）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "…………爸爸，什么事？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "变革的父亲",
+            "Text": "Sweepy！太好了！\n你已经起床了！今天的比赛──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "我没有睡过头啦！\n再见！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "……………………哼！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "──总觉得今天的比赛会有不好的事情发生。\n我无法摆脱这样的不安。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

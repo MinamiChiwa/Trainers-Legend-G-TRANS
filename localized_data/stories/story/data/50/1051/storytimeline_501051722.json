@@ -1,0 +1,43 @@
+{
+    "Title": "因头痛而忧郁",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "好痛……呜呜……",
+            "ChoiceDataList": [
+                "还好吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "抱歉让你担心了……\n我从今天早上开始头就很痛……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……嘿……嘿嘿……\n说这种话，听起来好像很成熟呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "呜呜……不过……\n我还是不想头痛……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "之后西野花的头痛\n依然迟迟没有痊愈……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

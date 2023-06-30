@@ -1,0 +1,266 @@
+{
+    "Title": "寻找传说之书",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我跟八重无敌一起出门的回程路上。\n她在某间旧书店前停下了脚步。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "训练员。\n请你允许我绕去其他地方一下。",
+            "ChoiceDataList": [
+                "你要买东西吗？",
+                "你要买东西吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "是的。我在这间店找到\n从很久以前就想要的古书。\n为了买下它一直在存钱。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "书上记载了各种柔术流派锻炼身体的方法……\n有些流派现在甚至已经失传，\n所以是相当贵重的资料。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "究竟能从失传的技术中学到什么呢……\n真是令人期待。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "然后，我在店前面等八重无敌……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "……不见了！那本书不见了……！\n我记得确实是放在那个书架……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "店长！后面的书架上\n应该有本贵重的书……！\n那本书已经被买走了吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "老店长",
+            "Text": "嗯？是啊，\n刚才有位小姐买了那个书架上的书。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "老店长",
+            "Text": "她穿着跟你一样的制服……\n是什么学园来着──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "是特雷森学园的学生……！？\n如果她才刚走，\n应该还在附近……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "至少想借来看个几页……！\n快去追她吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "买到好东西了～♪\n好，就在这里看吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "那是……雷恩！\n而且她手上拿着那间店的袋子……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "我本来以为雷恩擅长的\n是现代的训练方式……嗯。\n原来她对传统锻炼方法也有兴趣。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "──雷恩！\n这是我一生一次的请求！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "咦，八重？\n你的表情怎么看起来这么着急……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "请你把刚才买的书借我看！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "咦……咦！？\n这、这本书吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "我都不知道雷恩也对“那种书”有兴趣。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "这么说来……该不会……\n八重也会看这种书？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "不如说考虑到我过去的经历，\n不看这种书才算是怠慢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "是、是这样吗……！？\n总觉得突然有点在意八重的过去！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "事情就是这样，请让我跟你一起看！\n拜托你了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "等、等一下啦！\n我知道了！我让你看，你冷静一点！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "！！谢谢你！\n我一辈子都不会忘记这份恩情！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "……什么──！？！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "这、这……这是什么书！？\n一开始就接、接……接吻……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "等等等等！？不要说出来啦！\n就算是在少女漫画中……\n这部作品也算是积极场景特别多的～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "这、这是怎么回事！？\n我以为书中应记载了传统的锻炼方法……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "哇啊啊啊……而、而且还牵着手……\n咦，居然会做到这种程度！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "喂、喂……别再说了！\n不要大声说出来啦～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "哇、哇啊啊啊啊……咻……",
+            "ChoiceDataList": [
+                "这就是传统的锻炼方式……",
+                "既然如此，那本书跑去哪里了？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "不是！！\n当然不是！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "这、这一切都是我误会了，\n真是的……为什么……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "……啊──！！我这个笨蛋！！\n大家都是笨蛋────！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……顺带一提，那本旧书只是在店长\n整理书架时，被摆到了其他地方。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "的、的确……\n到底跑去哪里了？",
+            "ChoiceDataList": [
+                "要再找一次看看吗？",
+                "要再找一次看看吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "说……说得也是。\n雷恩，抱歉了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "咦……咦！？等一下！？\n这样不就只有我一个人白丢脸～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……顺带一提，那本旧书只是在店长\n整理书架时，被摆到了其他地方。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

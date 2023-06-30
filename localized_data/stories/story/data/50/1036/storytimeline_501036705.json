@@ -1,0 +1,273 @@
+{
+    "Title": "你的饰品",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "外出的回程途中，\n我们与喧嚷的行人们擦身而过。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "Dee要摆摊是真的吗！？\n那家平常不是只能线上订购吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘B",
+            "Text": "对啊！不过好像是临时来摆摊的！\n我听说就在这附近！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "哦，这不是神宫吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "喂，富士！你在这附近\n有没有看到饰品摊位！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "喔喔，你是说Dee吧？\n我也正好在找呢！",
+            "ChoiceDataList": [
+                "Dee？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "Dee是很受欢迎的饰品设计师喔。\n传说他的作品曾经开卖一分钟就卖完呢……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "现在先别解释了！\n动作快！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "糟糕，他真的在摆摊……！\n我才刚逛过他的网站！",
+            "ChoiceDataList": [
+                "你很常买吗？",
+                "你很常买吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "算是吧。Dee的设计很有个人特色，\n只要迷上就会让人爱不释手。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "你的链形耳环也是他的作品吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "你怎么知道的？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "因为我想体验各种打扮呀。\n所以就算不是我平常会尝试的风格，\n我也经常会留意！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "是喔……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "哦，这次也有卖耳骨夹！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "对，就是传说中一开卖就瞬间卖完的那款！\n旁边那个银戒也很稀有！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "！\n那再旁边那个你也知道吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "嗯，是限量贩售的组合，\n眼下钉和眉环吧！跟你的……",
+            "ChoiceDataList": [
+                "啊，跟神宫的眉环一样！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "真怀念啊，这眉环送来的那天，\n我还预约了穿环工作室去打洞呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "眼下钉倒是还没试过……\n不过有一天我一定要挑战！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "……啊，也有这次摆摊才卖的限定商品！\n而且这设计！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "该不会跟之前卖过的项链\n设计是成对的？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "！！\n果然是这样！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "话说你怎么连这个都知道？\n你是他的死忠粉吧……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "啊哈哈，谢谢你的赞美，我很荣幸！\n我是因为碰巧有那条项链，才会灵光一闪想到。",
+            "ChoiceDataList": [
+                "这设计很帅啊",
+                "这设计很帅呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "感觉戴在你身上也不突兀吧？\n而且这是限定商品，要是错过这次，\n以后不知道还买不买得到。",
+            "ChoiceDataList": [
+                "好，我要买！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "空中神宫从头到尾心情一直很好，\n我和富士奇石也在她身旁\n享受到了购物的乐趣……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "呵呵，不小心买得比预期还要多呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "我是不是一时冲动买太多了？\n花了不少钱，不过……",
+            "ChoiceDataList": [
+                "能买到喜欢的饰品太好了！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "……哈，也是。\n不过这是必要的花费，我不后悔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "身上有没有戴这东西\n可是会影响到我的状态，这样一想……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "反而买得很划算吧。",
+            "ChoiceDataList": [
+                "没错！",
+                "你要从哪一个开始戴？",
+                "你要从哪一个开始戴？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "反而买得很划算吧。",
+            "ChoiceDataList": [
+                "没错！",
+                "你要从哪一个开始戴？",
+                "你要从哪一个开始戴？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "怎么觉得你讲起来\n有种在讨好人的感觉……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "……算了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "和愉悦的空中神宫一起买东西，\n让我经历了相当珍贵的体验……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "……哪个都行吧？\n为什么我非得要告诉你啊？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她这么回我，没告诉我答案，不过……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "几天后，我看见她把那些饰品都戴在身上，\n看来应该是每个都很喜欢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

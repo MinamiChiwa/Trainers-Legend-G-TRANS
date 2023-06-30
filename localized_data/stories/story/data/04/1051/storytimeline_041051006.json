@@ -1,0 +1,324 @@
+{
+    "Title": "请滋润这片土地",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "训练员，辛苦了。\n那个，今天也很谢谢你……！",
+            "ChoiceDataList": [
+                "辛苦你了！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "今天的训练时间只到中午。\n我心想好久没有悠闲一下了，下午就悠闲度过吧，这时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "已经……中午了呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "那个……都怪我搞不清楚状况。\n真的很抱歉……！",
+            "ChoiceDataList": [
+                "什么？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "以后我会多注意的……\n所以，那个……明天也请多多指教！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我本来想把昨天的便当钱拿给她……\n但我还来不及开口，她就跑走了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "搞不清楚状况？她在说什么？但我来不及问出口，\n只能目送西野花离开的背影。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──当天下午，当我走在车站附近时，\n遇见了来购物的西野花。",
+            "ChoiceDataList": [
+                "真巧呢",
+                "真巧呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "是、是啊。呃，训练员也来买东西吗……？\n我是来买训练用的运动鞋的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "爸爸他们多汇了一点生活费，\n要我差不多该买双新鞋了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……打从我还没进入特雷森学园，他们就是那样子，\n总是全力支持我进行训练……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……爸爸，妈妈！\n我……还想继续跑步！我还想参加更多比赛！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花的母亲",
+            "Text": "！当然好，爸爸妈妈也会尽全力协助你的！\n首先要准备鞋子！得帮你买双好鞋子才行！然后……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花的父亲",
+            "Text": "还要准备训练场地！让你能全心奔跑！\n既然这样，干脆买块宽敞的土地，准备好所有设备……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "他们替我准备了好多赛跑需要的东西。\n甚至让我觉得，为我做这么多真的好吗……",
+            "ChoiceDataList": [
+                "你父母真棒呢",
+                "你父母真棒呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "是啊！他们很温柔……是我最自豪的爸爸妈妈！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "不过……每次要自己买用品时，我总是很烦恼，\n觉得钱要谨慎使用，购物得精挑细选才行。",
+            "ChoiceDataList": [
+                "可以的话我陪你一起去吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "咦？不过训练员，你也在买东西吧？\n却要为了我……嗯……占用你的时间……",
+            "ChoiceDataList": [
+                "我只是来散步的"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……真的吗？那……那就，麻烦你了。\n我会尽量别占用你太多时间的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "唔唔～～比起一般的训练用运动鞋，\n可以增加负重的鞋款好像比较好……但是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "（为了训练效果，我想挑能增加负重的款式，但……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "保健室老师",
+            "Text": "──我想你接下来可能暂时要专心复健。\n以防万一还是去医院一趟吧，我来叫车。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "保健室老师",
+            "Text": "虽说你开始迈入巅峰期了，但你的身体还没发育成熟。\n要是太乱来，很快就会影响到身体的……你应该懂吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……是的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "保健室老师",
+            "Text": "嗯，好孩子。别担心，只要好好复健，你还能再继续训练的。\n现在就先慢慢来，好吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "（要是又演变成那样……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "（绝对不行，会害爸爸妈妈担心，\n也会给训练员造成不少困扰的……！）",
+            "ChoiceDataList": [
+                "要增加负重，还有其他方法喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "咦？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "训练时，不需要随时都施加负重。\n要的话，可以使用加重的蹄铁等，方法多的是。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我随意提了几个建议，\n告诉她还是根据状况随时改变作法比较好──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "啊……说、说得也是！\n对不起，浪费你这么多时间……",
+            "ChoiceDataList": [
+                "你不用道歉──"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "不，难得训练员特地陪我购物，\n我却自己一个人陷入烦恼……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "谢谢你，训练员。\n我决定要买一般的训练用运动鞋了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "我不会白白浪费你的建议，\n从明天起我会继续努力的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "西野花说完便走向了结账柜台。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "虽说是建议，但也没什么大不了的，\n她是不是想得太严重了呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "都已经傍晚了呢。\n……今天让你特地陪我，真的很抱歉。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "回去后我会准备一下，这样明天就能立刻穿上新鞋了。\n还要准备平常用的蹄铁，好好保养──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……看来不是我的错觉，她真的跟平时不太一样。\n感觉她想尽量不让我担心，甚至有点做过头了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "西野花个性非常体贴，行动时总是很谨慎，\n尽可能不去麻烦别人、不造成别人的负担。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "想必她面对我这个训练员时，也同样如此吧。\n──不过，这样下去不行。",
+            "ChoiceDataList": [
+                "（我希望她能对我更敞开心扉……！）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "替我造成多少负担都无妨。要是有烦恼，\n我希望她能毫不保留地对我吐露，因为我是她的训练员啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "训练员？请、请问……？",
+            "ChoiceDataList": [
+                "我也会努力！！",
+                "我也会努力！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "什么！？啊，好的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "吓、吓我一跳……",
+            "ChoiceDataList": [
+                "啊，抱歉……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "没关系！不过……呵呵。\n训练员你已经非常非常努力了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "为了跟上训练员的努力，不被你抛在后面，\n我也会加油再加油喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看着西野花对我露出的笑容，我再次在内心发誓──\n我要好好努力，绝不让她的笑容蒙上阴影。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

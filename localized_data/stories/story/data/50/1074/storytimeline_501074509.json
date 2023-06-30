@@ -1,0 +1,43 @@
+{
+    "Title": "连续参赛……",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "呼……训～练～迟～迟～\n没～有～进～度～呢～",
+            "ChoiceDataList": [
+                "你、你没事吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "没～事～的……\n只～是～觉～得～脚～步～有～点～沉～重……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "今～天～的～我……\n好～像～比～平～常～更～悠～哉～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "但～为～了～胜～利～这～不～算～什～么～\n……我～会～加～油～的～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "是否因为连续参赛\n让她累积了过多疲劳……\n或许我该重新调整参赛计划了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

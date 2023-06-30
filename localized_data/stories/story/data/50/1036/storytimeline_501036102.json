@@ -1,0 +1,387 @@
+{
+    "Title": "新年参拜",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "现在是新年期间。\n我为了祈求空中神宫能在古马级有所表现，\n所以一个人来新年参拜。",
+            "ChoiceDataList": [
+                "（希望她能得到自己想要的东西）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "因为重要的事情已经办完了，\n我打算稍微散个步，慢慢走回学园。\n这时候──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "呃。",
+            "ChoiceDataList": [
+                "新年快乐！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "谢谢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "路过的人A",
+            "Text": "哇，她不是空中神宫吗？\n便服也很花俏呢……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "路过的人B",
+            "Text": "不知道她今年的战绩\n会不会像好歌剧一样优异呀？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "……真烦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她虽然皱着眉头，不过并不像\n去年的“日本C”结束时那样过度反应。\n看来她的情绪稍微稳定些了。",
+            "ChoiceDataList": [
+                "你刚回来吗？",
+                "你刚回来吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "没有，我正要出去。",
+            "ChoiceDataList": [
+                "你要去哪里？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "不想说。",
+            "ChoiceDataList": [
+                "那我一起去就能知道吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "就知道你会这么说。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "只要你不缠着我，\n就随便你。",
+            "ChoiceDataList": [
+                "真的！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "反正那里人挤人。\n多一个人也没差，一样吵。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "但是你等会不要缠着我问东问西。\n我省下的时间是有用途的。",
+            "ChoiceDataList": [
+                "所以你出门是要做什么？",
+                "所以你出门是要做什么？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "有很多事要做。\n参加音乐或数学相关的活动，或是看比赛……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "但你不要从头跟到尾啊，\n选一个就够了。",
+            "ChoiceDataList": [
+                "跟她一起参加音乐活动",
+                "跟她一起去听数学讲座",
+                "跟她一起去看新春竞赛"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "我没差，\n但你别吵啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我和空中神宫一起来到\n能够随意参加的户外音乐节。\n周围有许多摊位，气氛相当热闹。",
+            "ChoiceDataList": [
+                "原来你也喜欢这种活动啊",
+                "原来你也喜欢这种活动呀"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "要是没有想看的表演才不会来。\n只是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "有时也会无法阻止声音传进耳里。\n若是难得听到喜欢的，感觉还不赖。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "……啊，下一组就是了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（～♪）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "氛围柔和的电子音传进耳里。\n那梦幻的旋律仿佛要与天空融为一体……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我知道她平常喜欢听HIPHOP，\n不过她涉猎的类型\n似乎比我预期的还要多样。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这天，我知道了空中神宫的兴趣\n有多广泛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "认真？\n你对这没兴趣吧？",
+            "ChoiceDataList": [
+                "我觉得蛮有意思的啊"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "……算了，\n或许你听刚好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "空中神宫带我来到\n为国高中生举办的数学讲座。\n主讲人好像是知名的数学家，不过……",
+            "ChoiceDataList": [
+                "这对你来说是不是有点太简单？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "今天我主要是来听那个人讲话。\n因为在国内很难有这样的机会。",
+            "ChoiceDataList": [
+                "那个人这么厉害啊？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "是啊，他得过数学方面的奖项，\n当时获奖的研究很有趣。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "我想说或许有机会听他分享有趣的事，\n获奖当时或是其他事都好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看来空中神宫十分尊敬他。\n后来，演讲开始了──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "有意思。\n那个人果然很厉害。",
+            "ChoiceDataList": [
+                "是个用词浅显易懂的人呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "是啊，他对数学教育很有热忱，\n大概对这一点特别留意吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "跟老爸完全相反。",
+            "ChoiceDataList": [
+                "你的父亲……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "是个数学家，\n彻头彻尾的研究者。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "……我要回去了。\n今天来对了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "连假日都去看比赛不烦吗？",
+            "ChoiceDataList": [
+                "我喜欢比赛嘛",
+                "我喜欢比赛嘛"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "是喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "总比其他人跟着来好。\n反正平常也是这样。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这天的活动称为新春特别活动竞赛，\n会特别为年幼的赛马娘举办比赛，\n并且让她们表演。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "……1号的脚力不错。\n2号增强持久力的话会更有胜算。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "3号……最好在锻炼方法多下点工夫。\n如果是我的话──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "空中神宫看着拼命奔跑的\n年幼赛马娘，一一给出评语。\n那眼神看起来……有些乐在其中。",
+            "ChoiceDataList": [
+                "你喜欢小孩吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "我看起来像吗？",
+            "ChoiceDataList": [
+                "……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "你还认真想啊？\n我不喜欢也不讨厌。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "只是跑步技术每年都在进化。\n场地也会有所变化……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "亲眼见证这些变化\n很重要吧？",
+            "ChoiceDataList": [
+                "原来你是在寻找自己的未来啊",
+                "原来你是在寻找自己的未来呀"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "少说这种做作的话。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "……你看，要开始了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "……我走了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她为了进行剩下的预定行程，\n便出发去了其他地方。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "等她把事情全部完成，\n应该会继续针对古马级进行调整吧。",
+            "ChoiceDataList": [
+                "（我也要加油）",
+                "（我也要加油）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就这样，新的一年\n在积极向上的氛围中展开了──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

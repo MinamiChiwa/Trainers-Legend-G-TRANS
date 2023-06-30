@@ -1,83 +1,83 @@
 {
-  "Title": "0",
-  "TextBlockList": [
-    {
-      "Name": "",
-      "Text": "",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "目白光明",
-      "Text": "マチカネフクキタルさま。\r\n先日の占い、ありがとうございました。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "待兼福来",
-      "Text": "いえいえ、お気になさらず！\r\nお告げにあったラッキーアイテム、\n“満月の写真”は撮れましたか？",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "目白光明",
-      "Text": "張り切って撮影に臨みました。\r\nご覧になってください～。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "待兼福来",
-      "Text": "おぉー、なんと眩しい満月！\r\n……って、これは太陽の写真では！？",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "目白多伯",
-      "Text": "見るには見たらしいよ、満月。\r\nただ撮り忘れて寝ちゃったんだって。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "目白光明",
-      "Text": "そうなんです。いけない……と思い、\r\n急いで写真を撮りました～。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "待兼福来",
-      "Text": "ずいぶん時間が経ってから急ぎましたね……。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "目白多伯",
-      "Text": "朝練に行こうとしたら、一生懸命\r\n太陽を撮ってるからなにかと思ったよ……。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "待兼福来",
-      "Text": "……ですが気のせいでしょうか？\r\nラッキーアイテムを逃したブライトさんから\n幸せオーラを感じるような……？",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "目白光明",
-      "Text": "ドーベルのピーチティーのおかげでしょう。\r\n美しい朝焼けの中でいただき、\nとても幸せな気持ちになれましたわ～。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "目白多伯",
-      "Text": "大げさすぎ。……紅茶くらい、\r\nいつでも淹れてあげるってば。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "待兼福来",
-      "Text": "これはラッキードリンクの匂いがしますね～！\r\nお茶会があれば、ぜひご一緒したいです！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    }
-  ]
+    "Title": "0",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "待兼福来，\n十分感谢你之前的占卜。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "哪里哪里，别客气！\n你拍到谕示说的幸运物\n“满月照片”了吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "我竭尽全力地去拍摄了。\n请看～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "哦～好耀眼的满月！\n……呃，这不是太阳的照片吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "虽然有看到满月，\n但她忘记拍下来就睡着了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "事情就是这样。我想说这下糟糕了……\n于是赶紧拍了照片～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "你还过了真久才想到要赶紧拍呢……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "我要去晨间训练时，\n看到她拼命拍太阳，还以为怎么了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "……是我的错觉吗？\n错过幸运物的光明\n似乎散发着幸福的氛围……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "应该是多亏了多伯的水蜜桃茶。\n在美丽的朝霞下喝茶，\n感觉无比幸福～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "太夸张了……不过是红茶，\n我随时都可以泡给你喝。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "我仿佛闻到幸运饮料的味道呢～！\n如果有举办茶会的话，请务必找我一起！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
 }

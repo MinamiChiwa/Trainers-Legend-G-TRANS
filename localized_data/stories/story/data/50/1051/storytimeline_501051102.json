@@ -1,0 +1,337 @@
+{
+    "Title": "新年参拜",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "现在是新年期间，在西野花的要求下，\n我们提早展开了“新年初次训练”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "我去练跑了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "她最近正在进行全新的训练，\n为的是调整她培养至今的身体感觉，\n好配合成长过后的身体，但是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "呼……唔……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……对不起。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "无法配合心里所想的时机\n即时踏出脚步……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "可以再来一次吗？\n我想重新起跑冲刺。",
+            "ChoiceDataList": [
+                "当然可以"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "谢谢！\n我要努力练习，让感觉跟脚步能一致！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "看来这种靠感觉的部分，\n调整起来似乎相当困难。\n但她还是很积极乐观。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "话虽如此，要是太过埋头努力，\n恐怕会影响到心理层面。这种时候……",
+            "ChoiceDataList": [
+                "西野花"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "什么事？",
+            "ChoiceDataList": [
+                "训练结束后我们去新年参拜吧？",
+                "训练结束后我们去新年参拜吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "哇，好多人喔……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "来到这里的人，\n一定都有各自想实现的愿望吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……",
+            "ChoiceDataList": [
+                "西野花？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "啊，那个……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "我刚刚在许愿，\n希望所有人的愿望都能实现。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "不过，在这里许愿，\n好像离神明太远了呢。",
+            "ChoiceDataList": [
+                "神明一定能听到的"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "嗯。\n希望祂真的会听到。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "训练员，\n我们也来开心地进行新年参拜吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "首先我们要做什么呢？",
+            "ChoiceDataList": [
+                "吃黑糖红豆馅蜜",
+                "许下很多愿望",
+                "去欣赏美景"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "哇啊，黑糖红豆馅蜜……！\n哪里吃得到呢？",
+            "ChoiceDataList": [
+                "那边的摊贩在卖喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "真的吗！？\n我们走吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "──啦～啦～啦啦♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "黑糖红豆馅蜜真的好好吃喔。\n白玉汤圆很有嚼劲，\n红豆馅也煮得够甜！",
+            "ChoiceDataList": [
+                "你看起来吃得好开心啊",
+                "你看起来吃得好开心呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "我最喜欢日式料理了！\n刚刚我一定满脸都是笑容吧♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "真想让朋友们也吃吃看呢。\n……不知道有没有办法在宿舍自己做？",
+            "ChoiceDataList": [
+                "要挑战猜食谱吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……！\n来试试看吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "这家店的红豆馅果然完全不一样。\n该说是很扎实吗？吃起来很绵密──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "之后我与西野花继续聊着黑糖红豆馅蜜，\n一同度过了平静的午后时光。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "说得也是，\n也得许下我们的愿望呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "那边已经在排队啰，\n我们也去排吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "西野花开始许愿，她的侧脸看起来非常认真。\n于是我也学起她来──",
+            "ChoiceDataList": [
+                "（希望她今年也能表现杰出──）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……",
+            "ChoiceDataList": [
+                "怎么了？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……不，\n没事！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "好在意呀……不过，\n应该不方便问吧……",
+            "ChoiceDataList": [
+                "……我许了关于你的愿望喔！",
+                "……我许了关于你的愿望喔！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……！\n这样子啊？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "其实我也许了很多\n关于训练员的愿望！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "嘿嘿，\n我们许了相同愿望呢……♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "咦？\n欣赏美景？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "其实从这座神社再往上走，\n还有间小小的神祠，\n听说从那里可以看到绝美的景色。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "喔喔……！\n我们去看看吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是我跟西野花一起爬上山，\n在山顶附近欣赏了美景。\n从那里远眺的景色十分美妙──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "──总觉得刚才好像去了异世界！\n四周被雾气笼罩，但又有光芒射进来！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "就像进入了童话世界一样，\n没想到有这种地方……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……刚刚那地方，\n跟这里真的是同一个世界吗？",
+            "ChoiceDataList": [
+                "搞不好真的闯入异世界了喔",
+                "搞不好真的闯入异世界了呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "哇、哇啊～～果然，\n说不定真的是那样呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "不过……能回到原来的世界真是太好了。\n虽然我也很喜欢那个奇妙的世界。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "因为我还想跟训练员\n一起去欣赏各种景色嘛！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

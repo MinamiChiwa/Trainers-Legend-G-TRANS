@@ -1,0 +1,295 @@
+{
+    "Title": "情人节",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "情人节当天。\n特雷森学园似乎也是人心浮动，\n当我一如往常在训练员室工作时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "──呼～真是的。\n终于到了。\n……嘿咻。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "抱歉啊，大哥。\n可以在榻榻米上放吃的东西吗？\n我找不到其他安静的地方。",
+            "ChoiceDataList": [
+                "是没问题，不过怎么了吗？",
+                "是没问题，不过怎么了吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "抱歉啊，大姐。\n可以在榻榻米上放吃的东西吗？\n我找不到其他安静的地方。",
+            "ChoiceDataList": [
+                "是没问题，不过怎么了吗？",
+                "是没问题，不过怎么了吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "这个嘛。今天是情人节吗？\n所以大家送我一堆巧克力，\n情况就变得有点不妙了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在稻荷一的视线前方，\n那片榻榻米岛上放着好几个袋子，\n装着多到快满出来的巧克力……！",
+            "ChoiceDataList": [
+                "这数量真惊人啊……！",
+                "这数量真惊人啊……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "虽然我非常感激，\n可是我完全搞不懂，\n为什么大家会给我这么多──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我多少明白为什么。她的开朗、直爽，\n以及可靠的潇洒气质，\n一定令许多人深受吸引吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "──不管怎么样！\n好好品尝收到的东西才叫潇洒。\n我就把它们都吃下肚吧。",
+            "ChoiceDataList": [
+                "我去泡个茶吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "喔，还真贴心！\n吃甜的就是要配热茶呢！\n那我开动啰！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "于是，稻荷一的\n“吃情人节巧克力会”\n就这样开始了──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "──记得这是\n之前找我一起并跑练习的人送的吧。\n喔～这形状挺可爱的嘛！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "这是……啊，之前我帮她修好架子！\n味道真香，这是什么口味呢？\n放了柑橘类的东西吗──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "稻荷一亲自一一确认\n收到的巧克力的致赠人，\n同时细细地品尝着巧克力……",
+            "ChoiceDataList": [
+                "（真是重视礼节啊……）",
+                "（真是重视礼节啊……）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "──啊～吃饱了吃饱了！\n哎呀，每个都好好吃！\n下次我得向大家道谢才行！",
+            "ChoiceDataList": [
+                "你品尝得很仔细呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "这还用说！\n那可是特地为我准备的，\n这么做是基本礼仪。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "好，既然吃完了……\n再来办一件事吧。",
+            "ChoiceDataList": [
+                "办一件事？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "收下吧，大哥。\n这是我送的。",
+            "ChoiceDataList": [
+                "咦！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "收下吧，大姐。\n这是我送的。",
+            "ChoiceDataList": [
+                "咦！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "稻荷一给我的包裹里，\n包着看起来很美味的综合日式点心……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "这是为了感谢你平时的照顾。\n不过不好意思，不是巧克力。\n这是我喜欢的日式点心。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "老实说，我因为吃不惯西洋点心，\n对选巧克力没什么自信，\n所以才送了这个。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "要是你不想吃也没关系──",
+            "ChoiceDataList": [
+                "我会吃的！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看到稻荷一刚才的表现，\n我怎么能因为不是巧克力就不吃呢。\n毕竟──",
+            "ChoiceDataList": [
+                "好好品尝收到的东西才叫潇洒对吧？",
+                "好好品尝收到的东西才叫潇洒对吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "────",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "嘿嘿。\n被你这么一讲，\n我也无话可说了呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "…………一直以来谢谢了。大哥。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "…………一直以来谢谢了。大姐。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "于是我吃了稻荷一推荐的日式点心，\n心里变得暖洋洋的──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "稻荷一给我的包裹里，\n包着综合巧克力礼盒，\n巧克力还做成狐狸造型，非常可爱……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "这是为了感谢你平时的照顾，\n毕竟是情人节嘛，所以……",
+            "ChoiceDataList": [
+                "谢谢你……！这巧克力超可爱",
+                "谢谢你……！这巧克力超可爱"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "……这个，\n姑且算是我自己做的──",
+            "ChoiceDataList": [
+                "这是你亲手做的吗！？",
+                "这是你亲手做的吗！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "是啊。\n不过小溪也\n帮了我很多忙就是了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "──老实说我对成品没什么自信。\n难吃的话可以不要吃喔。",
+            "ChoiceDataList": [
+                "我会全吃光的！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看到稻荷一刚才的表现，\n我怎么能因为难吃就不吃呢。\n毕竟──",
+            "ChoiceDataList": [
+                "好好品尝收到的东西才叫潇洒对吧？",
+                "好好品尝收到的东西才叫潇洒对吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "────",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我也想跟稻荷一看齐，\n一边想着送礼的人──\n一边想着她一边享用。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "……嘿嘿。\n被你这么一讲，\n我也无话可说了呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "…………一直以来谢谢了。大哥。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "…………一直以来谢谢了。大姐。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "品尝着只有微微甜度的滋味，\n我感受到稻荷一感谢的心意，\n内心变得暖洋洋的──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

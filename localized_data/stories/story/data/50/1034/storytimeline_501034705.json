@@ -1,0 +1,348 @@
+{
+    "Title": "我不讨厌照顾人",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我与稻荷一一起外出，\n当我们走在街上时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "──啊，是稻荷！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "哇～！稻荷稻荷～！\n这下正好～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "朝着稻荷一跑来的，\n是她的宿舍室友双涡轮。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "这不是涡轮吗！\n怎么，\n你也来这附近玩啦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "还有，“这下正好”是什么意思？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "涡轮想玩耍所以跑出门，\n可是涡轮不想一个人玩！\n然后就刚好碰到稻荷！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "欸，涡轮想跟稻荷一起玩！\n一起玩一起玩！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "原来如此，是这么回事啊。\n好吧，真拿你没办法！\n谁叫你只要说出口的事就绝不退让嘛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "大哥。抱歉，事出突然，\n可以让她从现在起加入我们吗？",
+            "ChoiceDataList": [
+                "当然！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "大姐。抱歉，事出突然，\n可以让她从现在起加入我们吗？",
+            "ChoiceDataList": [
+                "当然！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "嘿嘿，不用多费唇舌真是太好了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "太棒了～！能跟稻荷玩了～！！\n快点走快点走吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──在双涡轮的带领下，\n我们来到了游戏厅。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "欸欸！\n涡轮想跟稻荷玩那个或那个！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "我对这种游戏不太熟悉，\n既然都来了，就由大哥\n帮忙决定该玩哪台吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "我对这种游戏不太熟悉，\n既然都来了，就由大姐\n帮忙决定该玩哪台吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "双涡轮想玩的\n两种游戏中，\n看起来比较好玩的是──",
+            "ChoiceDataList": [
+                "光枪射击",
+                "气垫球"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "喔，这跟祭典的射击游戏差不多呢。\n那我应该也颇拿手──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "咦，喂！等一下！\n涡轮，这难不成是……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "嗯！是打僵尸游戏！\n涡轮的最爱！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "呜……！原来是那款\n僵尸如潮水般涌出的可怕游戏吗……！\n竟然一下就给我选中这么不得了的东西……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "交给涡轮吧，涡轮是最强的！！\n涡轮会保护稻荷！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "哈哈……还真是可靠呢……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "混、混账大傻瓜！！\n不要靠过来！可恶！可恶可恶！！\n数、数量也太多了～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "呜喔喔喔喔────！\n涡轮最强～～！！\n喝啊喝啊喝啊喝啊～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "稻荷一她们携手战得火热非常，\n享受了光枪射击游戏的乐趣──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "──呼……呼……\n这搞不好比比赛还累……\n混账东西……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "啊哈哈哈哈！\n稻荷叫个不停，超好玩的！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "欸，稻荷！\n再来玩那个吧！那个！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "哈哈，一个接着一个玩，你还真有精神。\n看你兴奋成什么样子──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "因为跟稻荷玩很开心啊！\n稻荷都会认真陪涡轮玩，\n涡轮最欢你了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "────",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "稻荷～！快点快点～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "真是个坦率的家伙……\n如果我有个妹妹，\n是不是也会像这样──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "稻荷一就这样与双涡轮开心地玩耍，\n同时也让我窥见到她擅长照顾人\n这崭新的一面──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "嗯，是把球打进对方球门吗……\n一对一认真对决啊？\n看起来挺有趣的嘛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "──涡轮！\n既然要比赛，我可不会放水喔！\n做好心理准备了吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "嘿嘿～\n最强的涡轮才不会输咧！\n涡轮会彻底击溃稻荷！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "正合我意！\n让我看看你的实力吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "呜喔喔喔────！\n涡轮超级射门──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "哼！轨道太明显了！！\n好啦，再来换我了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "太嫩了！！\n涡轮超强防～～御！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "喂、喂！？\n二刀流犯规了吧！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "稻荷一两人将气垫球打得一来一往，\n火热非常──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "──真是的，没想到最后双方都得不了分，\n以零比零平手结束……！\n你挺厉害的嘛，涡轮！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "稻荷也很厉害嘛！！\n仅次于涡轮第二强！\n涡轮就把你当成劲敌吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "哈哈！那真是荣幸！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "欸，稻荷！\n再来玩那个吧！那个！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "哈哈，一个接着一个玩，你还真有精神。\n看你兴奋成什么样子──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "因为跟稻荷玩很开心啊！\n稻荷都会认真陪涡轮玩，\n涡轮最欢你了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "────",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "稻荷～！快点快点～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "真是个坦率的家伙……\n如果我有个妹妹，\n是不是也会像这样──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "稻荷一就这样与双涡轮开心地玩耍，\n同时也让我窥见到她擅长照顾人\n这崭新的一面──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

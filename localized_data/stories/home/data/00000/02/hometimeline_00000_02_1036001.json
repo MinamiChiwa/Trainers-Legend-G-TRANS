@@ -1,77 +1,77 @@
 {
-  "Title": "0",
-  "TextBlockList": [
-    {
-      "Name": "",
-      "Text": "",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "空中神宫",
-      "Text": "随分と辛気臭ェ面してンなァ。\r\nまたドジったのか？",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "名将怒涛",
-      "Text": "はい……少しでもドジを減らしたいんですが、\r\nなかなかうまくいかなくて……。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "空中神宫",
-      "Text": "常々思ってたンだがよォ、そこンとこ\r\nロジックでなンとかなンねェのか？",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "空中神宫",
-      "Text": "ドジの内容から数値や法則性を割り出せば、\r\n対策も立てられンだろ。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "名将怒涛",
-      "Text": "な、なるほど……？\r\nえっと……最近のドジというと――",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "名将怒涛",
-      "Text": "料理中に手を滑らせて、\r\n調味料をみんな鍋に入れてしまったり～……。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "空中神宫",
-      "Text": "静止摩擦係数の不足だ。\r\n滑り止めしときゃいい。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "名将怒涛",
-      "Text": "バナナの皮を踏んで転んで、立ち上がった時、\r\nまた同じ皮を踏んでしまったり～……。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "空中神宫",
-      "Text": "連続性のヤツか。\r\nパターン覚えときゃいけるだろ。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "名将怒涛",
-      "Text": "授業中、落としたペンを拾おうとして、\r\n机ごと倒れてしまって……その上、\n椅子まで頭上から降ってきたり～……。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "空中神宫",
-      "Text": "……ドジの初期値を修正して\r\n計算し直しだな、そりゃ。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    }
-  ]
+    "Title": "0",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "你的表情还真难看啊。\n又冒冒失失的了吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "嗯……虽然想尽量减少冒冒失失的次数，\n但怎样都改善不了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "我常常在想，你的冒失问题\n难道不能靠逻辑来改善吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "从冒失事件的内容分析数值和规律，\n就能找出对策吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "有、有道理……\n呃……说起最近的冒失事件──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "有次我在做饭时不小心手滑，\n把所有调味料通通倒进锅子里……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "这是静摩擦系数不够，\n做好防滑就行了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "还有一次踩到香蕉皮跌倒，\n爬起来的时候又踩到同一个香蕉皮……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "连续性问题吗？\n只要记住模式应该就没问题了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "上课时，为了捡掉在地上的笔，\n不小心掀翻整张桌子……\n而且椅子还砸到我头上……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "……这得修正冒失预设值，\n直接打掉重练了啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
 }

@@ -1,0 +1,551 @@
+{
+    "Title": "积极向前，却有些原地打转",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "嗯，时间差不多了。\n我们回去吧，小花！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "小花？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "啊，对不起！\n我现在就──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……痛……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "……小花，你今天一直怪怪的喔。\n你是不是哪里不舒服？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "没有，哪有什么不舒服……！\n只是觉得关节有点卡卡的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "真的没问题吗？\n去给医生看看比较好吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "或是找你家训练员讨论。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "这个嘛……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……现在我们很积极向前地努力。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "我跟训练员都充满了自信，\n要在“高松宫纪念”跑出好成绩……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……我不想破坏现在这个气氛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "当然，要是真的太痛我会说的！\n但目前还算可以。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "嗯～～我是觉得，\n有哪里痛就要直接喊出好痛～这样。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "……那我来帮你念咒语！\n施个让你变得更健康的咒语，这是特别服务喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "小革……\n谢谢你♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "小革"
+            ]
+        },
+        {
+            "Name": "",
+            "Text": "就在我们为了准备“高松宫纪念”，\n而持续进行训练的某一天──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "…………奇怪？",
+            "ChoiceDataList": [
+                "你怎么了？",
+                "你怎么了？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "啊，没事……\n我继续训练！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "然而，西野花说完没事后，\n看她动起身体来，似乎还是不太灵活。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "呼……辛苦了。",
+            "ChoiceDataList": [
+                "……你还好吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "呃……你的意思是？",
+            "ChoiceDataList": [
+                "是不是身体哪里不舒服？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "没有。\n我完全没事！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "那个……我只是……\n可能身体有点疲劳而已……",
+            "ChoiceDataList": [
+                "那接下来改成休息吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "咦！我、我没事的！\n我还可以训练。",
+            "ChoiceDataList": [
+                "严禁逞强喔！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "对不起……",
+            "ChoiceDataList": [
+                "你不用道歉"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "不是的……我……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……对不起。\n我去换衣服了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "……西野花不太对劲。\n不过，既然她不愿意说，\n我也不方便持续逼问。",
+            "ChoiceDataList": [
+                "（而且……这该不会是……）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "保健室老师",
+            "Text": "训练员，\n这孩子“接下来”正要开始发育。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "……或许这并不是坏征兆。\n暂时先更仔细地观察她的状态吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……唉。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "我竟然……说谎了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "（对不起，训练员。\n但我真的没事的，\n我不想害你担心……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "（……真的……没事吧？\n要是又继续恶化……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……都怪我说谎，才会搞坏身体？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……\n不对，没事的，一定没事的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "没事的…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……呼。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "到了下次训练时，\n西野花看起来仍然闷闷不乐。",
+            "ChoiceDataList": [
+                "看来你的身体还没消除疲劳？",
+                "看来你的身体还没消除疲劳？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "我、我没事！",
+            "ChoiceDataList": [
+                "！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "啊，对、对不起……\n那个，呃……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "我去练跑了……！",
+            "ChoiceDataList": [
+                "西野花！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "呼……呼……呼……！\n唔……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "（果然……真的……怪怪的……\n双脚不听使唤……！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "（不对，不可能！\n才不会这么突然就恶化。\n才不会突然就跑不动……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "（没事的……没事的……！\n只要集中注意力，好好地跑……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "西野花开始奔跑，但动作似乎有些僵硬。\n我看着她越跑越慢，\n最后终于停住脚步……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……怎么会……？",
+            "ChoiceDataList": [
+                "西野花……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "对不起……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "我对你说了谎。\n根本……不是没事……呜……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "我的脚……不听使唤……\n很明显……跟平常完全不一样……",
+            "ChoiceDataList": [
+                "西野花，你先冷静下来"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "呜呜呜……\n我不能跑步了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "对……不起……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "我……再也……\n不能跑步了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "呜哇啊啊啊～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "西野花放声大哭。\n她如此不安的模样，深深刺进了我的心。\n不过……",
+            "ChoiceDataList": [
+                "没事的、没事的"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "听完她的话，我确定了一件事。\n现在她……正处于变化的交叉路口。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "呜呜……噫呜……\n哇啊……呜呜……",
+            "ChoiceDataList": [
+                "我们一起去请保健室老师看看吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "噫呜……噫呜……\n……好……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "保健室老师",
+            "Text": "──嗯，看来一定是身体进入成长期了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "身体……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "保健室老师",
+            "Text": "是的，你是跳级入学生。\n虽说你已经进入了巅峰期，但比起其他学生，\n你的实际年龄──也就是身体状况，还很年幼。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "保健室老师",
+            "Text": "但是现在看来，你的体格也终于开始成长，\n慢慢要赶上其他学生了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "赶上其他学生……\n那……关节会痛也是因为……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "保健室老师",
+            "Text": "看来是生长痛吧。\n我初步诊断了你的身体，\n应该没有大碍。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "保健室老师",
+            "Text": "这痛楚证明了你的身体为了要长大，\n正在变化喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……我……\n正在长大啊……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "保健室老师",
+            "Text": "是啊！\n恭喜你，西野花！",
+            "ChoiceDataList": [
+                "恭喜你，西野花！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "太好了……\n太好了～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "我、我……我还以为\n都是我对训练员说谎，\n所以身体才会恶化，再也跑不动……",
+            "ChoiceDataList": [
+                "你是不想害我担心吧",
+                "你是不想害我担心吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "是的……\n但是……",
+            "ChoiceDataList": [
+                "放心吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "咦……？",
+            "ChoiceDataList": [
+                "有我在，不会让你跑不动的",
+                "有我在，不会让你跑不动的"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……！\n训练员……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "保健室老师",
+            "Text": "呵呵，看来经过这两年，\n训练员也成长了很多呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "呜呜……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "是的。\n这是最令我自豪的训练员！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "就这样，西野花的“身体”\n开始成长了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

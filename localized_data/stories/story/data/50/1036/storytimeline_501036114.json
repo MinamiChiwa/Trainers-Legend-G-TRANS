@@ -1,0 +1,579 @@
+{
+    "Title": "“Uncertainty”",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在“希望S”到来前要收集数据──\n空中神宫说到做到。\n她每天都在收集各种数据。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（喀锵）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "喂，量尺！\n我要量了。",
+            "ChoiceDataList": [
+                "给你！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "──小腿三头肌增加了1.2厘米，\n腓肠肌没有变化……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "每五分钟量一次。\n在那之后如果变回原本的数字，\n就让肌肉再膨胀一次。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "重新锻炼之后，\n过五分钟要再测量尺寸变化。\n先准备好喔。",
+            "ChoiceDataList": [
+                "好！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "有时候则是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "──然后这个分页显示的是\n我身上的电子仪器测出的身体资讯，\n能即时确认数值。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "空中神宫把她自己开发的量测APP\n安装到我的手机里。\n我对那格外花俏的设计感到很在意。",
+            "ChoiceDataList": [
+                "这设计也是你做的吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "有意见？",
+            "ChoiceDataList": [
+                "可以用稍微不那么刺激眼睛的颜色……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "……啰唆。\nUI设计不是我的强项。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "现在已经能把秒数维持在高水准了。\n接下来要仔细撷取过弯的数据，\n找出进一步缩短秒数的方法。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "我每跑完一趟，你就念出上面显示的数值。\n我会参考数值即时改变跑法。",
+            "ChoiceDataList": [
+                "知道了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "你只要按照顺序告诉我数值就行了，\n不要做多余的事啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "数据收集得很顺利，而且她的能力也渐渐接近\n成为二冠赛马娘所需达到的理论值。\n准备工作一一进行，然而──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "七厘米连变都没变。\n要是你有时间玩，不如拿来动脑。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "目前我们还没找到\n能让未来往正面发展的关键数据。",
+            "ChoiceDataList": [
+                "（我能做些什么呢？）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "现在她正在拼命收集数据，\n如果要说有什么数据能帮上她……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "至于像情绪这种带有不确定性的东西，\n直接做成数据太不划算。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "既然只是因为不划算……\n那如果我自己负担成本，\n得到的数据是不是就能派上用场呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "训练员，你好！",
+            "ChoiceDataList": [
+                "咦？你是……",
+                "咦？你是……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "对，我是成田路！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "成田路"
+            ]
+        },
+        {
+            "Name": "独白",
+            "Text": "成田路……她是比空中神宫\n早一个世代的赛马娘，\n而且赢得了今年的“菊花赏”，颇受瞩目。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "你看起来一脸严肃的样子，\n是不是有什么烦恼呢？",
+            "ChoiceDataList": [
+                "啊哈哈……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "不介意的话，能不能告诉我呢？\n或许我能帮上忙喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "慢着！阿路。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "阿路"
+            ]
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "那位训练员的烦恼……\n我知道是什么！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "没错！\n就是被我！好歌剧！这个美的化身吸引了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "好歌剧"
+            ]
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "原来如此……！\n真不愧是好歌剧……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "好歌剧"
+            ]
+        },
+        {
+            "Name": "独白",
+            "Text": "赢得今年“皋月赏”的好歌剧，\n以及与空中神宫同寝室的名将怒涛……\n她们也都是上一个世代的赛马娘。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "名将怒涛"
+            ]
+        },
+        {
+            "Name": "独白",
+            "Text": "与刚出道的空中神宫相比，\n她们经历过更多比赛，\n也明白其中的炽热、辛酸与甜蜜──",
+            "ChoiceDataList": [
+                "你们对比赛很了解",
+                "你们对比赛很了解"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "那当然！\n凡是站上闪耀系列赛这个舞台的选手都是如此。",
+            "ChoiceDataList": [
+                "即使是不合逻辑的部分你们也了解"
+            ],
+            "ColorTextInfoList": [
+                "闪耀系列赛"
+            ]
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "当然──嗯？\n什么意思？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "如果能从她们这里\n听到一些充满不确定性因素的事，\n然后整理成数据……！",
+            "ChoiceDataList": [
+                "我想请教你们一下──"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "唉……\n难道数据还不够吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "（身体锻炼得很顺利，\n数值成长也符合模拟，\n但是……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "（到此为止了。\n接下来，我看不见事态好转的可能性……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "（但是，就算明白这一点，\n我也只能继续前进。\n即使这条路通往地狱……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "“改变宿命吧。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "……入地狱可不需要旅伴。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "隔天，我找空中神宫出来时，\n她很爽快地答应，并出现在我面前。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "……",
+            "ChoiceDataList": [
+                "我有一个提议",
+                "我有一个提议"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "啥？\n什么提议？",
+            "ChoiceDataList": [
+                "我收集了不确定性因素的相关数据"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "啥？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "“把周围的期待转换成力量的方法”……\n成田路？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "──身边有支持自己的人……\n这对我来说是非常重要的事！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "我想要回应大家的期待，\n不管怎样都不想让大家失望……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "一想到这点，就算处在严苛的状况下，\n我也能坚持下去！\n大家的期待会变成我踏出最后一步的力量。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "……尤其是“菊花赏”那时，\n我深刻感受到这件事有多令人感激。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路的粉丝",
+            "Text": "──喔喔，“菊花赏”啊！\n因为在打比看见她哭了，所以……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路的粉丝",
+            "Text": "我忍不住卖力地帮她加油！\n那时候喊得太用力，嗓子都哑了呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路的粉丝",
+            "Text": "周围的人好像也跟我一样，\n因为我们都觉得她一定能赢……\n不对，是我们希望她能赢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "即使比赛时全神贯注，\n我也听见了大家的加油声。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "那些加油声成为了我的力量……在接近终点时，\n我的心脏跳得好快，后面的人又步步逼近，\n说真的很辛苦，但是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "大家的加油声激励了我！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "如果大家没有为我加油……我也不知道，\n或许就没有办法坚持到底了吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "──“将她过去参加的所有比赛加以分析，\n再将单圈时间的变化与跑步倾向等\n带入用来比较的公式后，结果……”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "“发现她在菊花赏终点前的速度\n相较于其他场比赛确实略微提升，也就是她陈述的\n‘加油声激励了我’的事发当时。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "“由上述状况来看，\n成田路将粉丝的声援转换为力量\n乃是她在菊花赏获胜的要素。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "……所以？\n这数据是要干嘛的？",
+            "ChoiceDataList": [
+                "我想说可能会派上用场"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "没办法啦。\n这只对她有用吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "我不否认，在特定条件下，\n确实可能出现超出预期的结果。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "但是你觉得有人帮我加油，\n我的能力就会变强吗？",
+            "ChoiceDataList": [
+                "但是，你可能也会发生啊"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "发生啥？",
+            "ChoiceDataList": [
+                "不合逻辑的变化"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "不合逻辑……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美妙姿势",
+            "Text": "“神宫！听我说──”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "……唔。",
+            "ChoiceDataList": [
+                "你知道是什么，对吧？",
+                "你知道是什么，对吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "……那种无法让公式成立的东西，\n就只是误差。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "可不是任何东西都能拿来当作\n不确定性因素。",
+            "ChoiceDataList": [
+                "或许这会是个突破点"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "但是把这个算进去划不来……\n我之前也说过了吧？",
+            "ChoiceDataList": [
+                "可是我已经收集来了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "……意思是你之后也打算要去问其他人，\n再花时间整理出这些东西吗？",
+            "ChoiceDataList": [
+                "希望你能把这些纳入你的数据"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "我实在不觉得这样做能改变什么。",
+            "ChoiceDataList": [
+                "但是，说不定能改变个0.01厘米"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "啥？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "那些被省略，不会出现在等号后方的数字中，\n或许有部分受到过去的影响而产生了改变。",
+            "ChoiceDataList": [
+                "到明天，搞不好就变成6.99厘米了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "呵。",
+            "ChoiceDataList": [
+                "（她笑我！？）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "你还真会说歪理。\n就算差距变小，也不一定会变成零。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "不过……没错。\n没错……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "数据的事情我会考虑。",
+            "ChoiceDataList": [
+                "！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "这应该就是你……\n思考后的结果吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

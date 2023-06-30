@@ -1,0 +1,44 @@
+{
+    "Title": "充分休息！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "你好！训练员，\n我充分休息过了！",
+            "ChoiceDataList": [
+                "你真有精神啊",
+                "你真有精神呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "是的。老实说，\n休息期间中我也进行了某种修行。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "那就是坐禅……我在集中精神的同时，\n静静回顾自己一路走来的历程，\n将自己的杂念一一消除……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "现在体力干劲都十分充沛，气势高昂到极点。\n接下来……请让我进行新的修行吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看来八重无敌获得完美的休息了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

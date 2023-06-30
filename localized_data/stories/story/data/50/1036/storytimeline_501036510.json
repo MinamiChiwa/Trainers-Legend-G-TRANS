@@ -1,0 +1,278 @@
+{
+    "Title": "需求定义：将奇迹化作数值",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "某天下课后，我听见体育馆里传出声音，\n于是靠近往里面瞧──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "喂，多留意聚光灯的位置。\n踏出步伐的时间点也太早了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "哈──哈哈哈！不好意思！\n似乎是因为我自己的光芒实在太耀眼了，\n所以就没注意到聚光灯！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "怒涛，你要专注在迅速移动追踪灯。\n刚才你没有完全跟上她的动作。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "好、好的……！我会努力！\n我会更快、更快的……！",
+            "ChoiceDataList": [
+                "神宫，你要站上舞台啊！？",
+                "神宫，你要站上舞台啊！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "啥！？\n才不是，少自己误会了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "对耶，站在舞台上的确实只有好歌剧。\n她大概是在帮忙舞台的幕后工作，\n例如音效或灯光之类的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "你会想用名为聚光灯的牢笼来束缚我\n也是理所当然的！啊啊，全世界都臣服在\n我的魅力下了，真是可怕……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "就、就是说呀……神宫也是因为\n被好歌剧的光芒感动，才会来帮忙的～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "绝对不是。\n我都否认几次了？",
+            "ChoiceDataList": [
+                "那你怎么会来帮忙？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "为什么每件事都要问啊？烦死了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "你要是好奇，就看我们整场彩排。\n反正我们正需要观众这个要素。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "你们两个都去准备。\n要开始审查程序码了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──呈现在我眼前的是一出完美的歌剧，\n令人实在难以想像背后参与制作的，只有她们三人。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "没错，无论是在任何一瞬间，\n我都无暇感到满足──因为我必须让更多人\n欣赏到我这个至高无上的美丽存在！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "……三、二、一。\n十秒后淡出……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "聚光灯的光芒集中成小小一束，\n好歌剧走在那光束中。\n而她仿佛走在石板路上的脚步声则是音效。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "紧接着下一刻，舞台上出现了大海。\n这时灯光一口气全开，同时海浪声响起，\n为空荡荡的舞台创造出了新世界──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "──时间啊，停止吧！我是如此美丽！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "……现在转暗。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "就这样。感想呢？",
+            "ChoiceDataList": [
+                "我看到入迷了……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "也是，毕竟我彻底调整过了，\n为的是营造沉浸感，\n让看表演的人就像被舞台直接吸入一样。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "嗨，这场表演很棒吧？\n这次的舞台效果如精雕细琢的宝石般完美──\n让我耀眼的魅力变得更加突出了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "我实在不知道该怎么用音效和灯光……\n真的谢谢你来帮忙……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "啥？我又不是来帮忙的。\n我只是来证明自己的理论。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "看看我的逻辑是否也适用在\n“艺术”这个不明确的领域中……\n我只是要确定这一点。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "……啧，说太多废话了。\n那在正式开演前，要进行重复测试。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看来空中神宫的意思是，\n她会来帮忙只是为了证明自己的理论，\n并不是好心，不过──",
+            "ChoiceDataList": [
+                "你很努力啊",
+                "你很努力呢",
+                "你要帮忙到正式开演啊？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看来空中神宫的意思是，\n她会来帮忙只是为了证明自己的理论，\n并不是好心，不过──",
+            "ChoiceDataList": [
+                "你很努力啊",
+                "你很努力呢",
+                "你要帮忙到正式开演啊？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "──啥？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "即使不是好心帮忙，\n要把舞台做到这个完成度并不容易。\n所以我说她很努力，结果──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "少用这种老套的话作结尾。\n所谓的“很努力”，\n大前提是要拿出足以达成目标的表现啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "那、那个……可是，\n你陪我们练习了很多次……\n我觉得我们是真的一起努力──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "不是，那个……我什么忙都没帮上，\n没有资格说这些话……！对不起……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "……唉，麻烦死了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "总之成果不错。\n只要能维持这个水准直到正式开演，\n我就再叫你来当观众。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "虽然不太好懂，不过空中神宫看起来\n似乎有点开心。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "……废话。\n要是现在放手不管，\n怒涛也只会一直跟我哭而已。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "而且我也会再去邀请你加入我们的！\n像你这么优秀的幕后人员非常少见！\n我怎么可能放你走呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "……懂了吧？\n帮忙到最后比较合理，\n我一开始就考虑过了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "单纯就是这样而已。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她会选择帮忙到最后，\n就表示她其实还蛮会照顾人的吧？\n这件事让我对她有了这个想法！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

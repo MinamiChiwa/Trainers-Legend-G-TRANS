@@ -1,0 +1,70 @@
+{
+    "Title": "挑战夹娃娃机！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "某天，\n我跟北部玄驹一起外出时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "啊！是哒哒玩偶！\n好怀念喔～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我往北部玄驹指示的方向看去，\n那里摆了一台\n里面装着赛马娘主题玩偶的夹娃娃机。",
+            "ChoiceDataList": [
+                "你说怀念的意思是？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "夹娃娃机啊，\n小钻非常会夹喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "在进特雷森学园之前，\n我们常常在看完比赛的回家路上去夹，\n当然我想夹的都是帝王的玩偶！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "看来又多了很多新的种类呢～\n但我真的很不擅长，\n所以应该是没机会夹到啦……嘿嘿嘿。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "北部玄驹似乎对哒哒玩偶很感兴趣。\n既然如此……",
+            "ChoiceDataList": [
+                "那就我来夹吧！",
+                "那就我来夹吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "喔喔！？\n真的吗～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──这个挑战，不能失败！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

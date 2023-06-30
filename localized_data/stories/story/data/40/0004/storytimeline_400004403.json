@@ -1,0 +1,37 @@
+{
+    "Title": "负面谣言？",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "<chrname>顺利拿出优异表现，\n我们即将参加“闪耀明星巅峰赛”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "不过我们开始受到瞩目后，\n不实的报导也随即出现，误解真相的记者\n闯入特雷森学园，掀起一阵风波！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "特雷森学园"
+            ]
+        },
+        {
+            "Name": "独白",
+            "Text": "虽然特雷森学园原本考虑\n暂时停止接受媒体采访……\n但乙名史记者满腔热血地阻止了这件事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "用来解开舆论误会的新企划，\n“<username>训练员贴身采访”\n就这样正式展开了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

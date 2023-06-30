@@ -1,0 +1,349 @@
+{
+    "Title": "心跳加速的水果祭",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "某天，我来到咖啡厅，\n发现目白赖恩和艾尼斯风神\n偷偷摸摸地不晓得在做什么。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "啊哇哇……\n麦昆没问题吧……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼斯风神",
+            "Text": "加油啊！\n再更积极一点！",
+            "ChoiceDataList": [
+                "……你们在做什么？",
+                "……你们在做什么？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雷恩＆艾尼",
+            "Text": "哇啊！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "嘘、嘘──！\n你过来一下……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "目白赖恩把我拉过去，\n让我也跟着偷偷摸摸地躲起来。\n而她们的视线前方……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "这些水果！\n看起来真的很水嫩呢！\n太让我惊讶了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "生野狄杜斯",
+            "Text": "是啊，超乎预期呢。\n谢谢麦昆帮忙事前调查。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "我、我没做什么大不了的事情。\n今天是为了答谢你\n平常指导我功课……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "今天麦昆约生生出来玩，\n感谢她平日对自己的照顾。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "她还兴致勃勃地说\n“我要跟她一起去‘当季水果甜点祭！’\n吃美味的甜点！”呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "不过麦昆表现得非常紧张……！\n害我担心得坐立难安……！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼斯风神",
+            "Text": "看到麦麦那样，\n我们无法置之不理～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼斯风神",
+            "Text": "我在打工时碰巧撞见，\n不晓得有没有什么方法能帮她！？",
+            "ChoiceDataList": [
+                "她们看起来很开心地享用着餐点啊？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "不，你再看仔细一点！\n她的表情有点僵硬。\n麦昆现在──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "（我不小心就按照自己的喜好\n带她来参加甜点祭，\n不晓得生野开不开心！？）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "（果然还是应该去她喜欢的\n蹄铁店吗……！？）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "（今天的目的明明是要答谢她平日的照顾──！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "现在她脑袋里一定想着这些事！",
+            "ChoiceDataList": [
+                "不愧同为目白家的成员……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼斯风神",
+            "Text": "我想为麦麦打气！\n有没有什么好办法呢！？",
+            "ChoiceDataList": [
+                "活用工读生的身份吧！",
+                "靠目白家的情谊帮助她吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼斯风神",
+            "Text": "原来如此，轮到我出场了！\n好～！我去找店长商量，\n多给她们一点福利！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "艾尼，用这套变装道具吧！\n这里有太阳眼镜、假发和口罩……\n这样服务她们时就不会被认出来了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼斯风神",
+            "Text": "谢谢！\n我要上了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神秘店员",
+            "Text": "让两位久等了。\n这是“双人共享巨大芭菲”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "生野狄杜斯",
+            "Text": "咦？\n我们应该没有点这个吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神秘店员",
+            "Text": "这是水果祭特别招待的商品。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神秘店员",
+            "Text": "这款甜点分量较大，\n需要两人同心协力，\n互相喂对方吃完才行！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "要、要喂对方吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神秘店员",
+            "Text": "是的♪\n那我先告退了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "居、居、居然……要我们喂对方……！？\n叫对方嘴巴张开……！？\n像这样……“啊～”吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "生野狄杜斯",
+            "Text": "麦昆。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "生野狄杜斯",
+            "Text": "啊～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "……唔！？\n啊、啊啊啊啊、啊～！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（吃下）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "嗯～♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "生野狄杜斯",
+            "Text": "好吃吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "呃，那、那个……！\n不只是嘴巴……\n连心里，都觉得甜甜的……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "生野狄杜斯",
+            "Text": "你居然这么喜欢甜点。\n那真是太好了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "生野狄杜斯看起来非常高兴。\n搞不好大家\n根本白担心了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "我知道了！\n我愿意助麦昆一臂之力！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼斯风神",
+            "Text": "我去跟店长借制服！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "谢谢！\n我还准备了变装用的\n太阳眼镜和假发……好，我上了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神秘店员",
+            "Text": "不好意思打扰了。\n今天参加水果祭的客人\n皆可获得优惠券。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "嗯……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神秘店员",
+            "Text": "这是“运动用品店优惠折价券”。\n请两位拿去用吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "……雷恩，你在做什么？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神秘店员",
+            "Text": "咦……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神秘店员",
+            "Text": "被、被认出来了！？\n为什么会露馅？我明明还戴了假发！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "我怎么可能认不出来！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "生野狄杜斯",
+            "Text": "我发现艾尼和训练员\n在一旁偷看我们。",
+            "ChoiceDataList": [
+                "呃……！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雷恩＆艾尼",
+            "Text": "快逃啊！",
+            "ChoiceDataList": [
+                "你、你们等等我……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "真是的！\n居然擅自跟来……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "生野狄杜斯",
+            "Text": "呵呵，一家人热热闹闹的\n真是不错呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我用眼角余光瞄到\n生野狄杜斯看起来很开心。\n搞不好大家根本白担心了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

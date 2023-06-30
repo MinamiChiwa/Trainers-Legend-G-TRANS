@@ -1,0 +1,63 @@
+{
+    "Title": "因头痛而忧郁",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "呜……！\n一大早头就好痛！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "没办法，先暂时绑上头带吧……",
+            "ChoiceDataList": [
+                "为什么要绑头带……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "你问我为什么？头痛时绑头带最有用吧？\n这是流传已久的疗法。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "只要勒紧太阳穴附近，\n就可以减轻头痛。",
+            "ChoiceDataList": [
+                "这样啊……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "怎么？看你一脸怀疑的样子。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "原理好像是因为用头带压迫头部血管，\n就能舒缓痛楚……的样子……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "呜……开始想复杂的事后，\n头痛又复发了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "之后，虽然我要稻荷一放弃绑头带\n去吃头痛药，但她还是为头痛\n烦恼了一段时间。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

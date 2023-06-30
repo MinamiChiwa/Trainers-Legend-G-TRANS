@@ -1,0 +1,311 @@
+{
+    "Title": "加油行",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我好像听见拉面店传来\n圣王光环的声音，所以往里面一瞧……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "加油！加油！特别周！\n加油──────！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "噗哈！我吃饱了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "拉面店老板",
+            "Text": "恭喜！\n你成功完成了巨无霸拉面挑战！！",
+            "ChoiceDataList": [
+                "这是……什么状况？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "粉丝感谢祭的加油超热情！\n我都忍不住稍微哭了出来……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "Sí！令人手心冒汗的卖力呐喊……！\n我也想要被人那么热烈地声援一次！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "呵呵呵！\n的确很棒！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "对了！那就由圣王我鼎力相助，\n为大家加油吧！好好感恩吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "……嗯嗯？也包括我们？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……听说事情就是这样，\n圣王光环到处为她们加油。",
+            "ChoiceDataList": [
+                "连衣服都穿来了，真有干劲耶",
+                "连衣服都穿来了，真有干劲耶"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "那当然！既然圣王要当啦啦队，\n就必须拿出一流的表现！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "这就是圣王为了当啦啦队，\n特地设计的服装！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "是一流的啦啦队所不可或缺的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "好，去下一个地方！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "不知不觉就成了她的同伴……\n不过，因为很担心情况，\n所以我决定照她说的一起走。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "加油！加油！特别周！\n加油！加油──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "啊……可以拜托你\n像是对那块大岩石加油吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "咦，那个岩石……？\n是可以啦……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "加油！加油！特别周！\n加油！加油！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "圣王，你来了啊～！\n好，请跟神鹰我一起\n帮曼波加油！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "曼波？咦，谁啊？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "曼波！\n下次一定要成功翻筋斗！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "咦，呃……虽然不知道是谁！\n加油！加油！曼波！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "谢谢你……看场合声援的贴心。",
+            "ChoiceDataList": [
+                "（不发出声音地加油……！）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "这个嘛……拜托你想像成\n帮今天插的花加油……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "呼、呼……为了加油东奔西走，\n也很不容易呢。",
+            "ChoiceDataList": [
+                "辛苦你了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "这点小事不算什么！\n举手之劳而已啦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "话说回来，圣王的一流加油\n超棒的吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "虽然圣王光环自信满满，\n但加油的对象好像是岩石跟花……\n但愿有成功传达──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "非常谢谢你！\n它看起来很喜欢加油的节奏，\n你抓到了诀窍呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "这让我成功用新的角度插了花。\n下次也可以拜托你吗～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "岩石地的鱼也游了出来，真愉快。\n偶尔热闹一下也不错呢～♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "我也是！多亏帝帝的加油，\n才能以极快的步调吃面……！\n完成了巨无霸拉面挑战！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "帝帝遇到什么困难也要告诉我们喔！\n我们也会帮你加油的！",
+            "ChoiceDataList": [
+                "太棒了，非常成功呢！",
+                "太棒了，非常成功呢！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "……哼、哼！\n圣王随时随地都很完美，用不着担心！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "不过，我赞许你\n发现了圣王有多么伟大！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "还需要加油的话就跟我说吧。\n心情好的话，帮忙加油也不是不行！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "整张脸红通通的还敢说～♪\n啊，这是在掩饰害羞吧～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "哼！真是不巧，\n我可不会搭理你的揶揄！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "圣王只是再次感受到\n自己的伟大罢了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "喔～呵呵呵！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "圣王光环这么说着，\n看起来十分开心。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "是……是因为夕阳才像是脸红啦！\n对我来说，这点程度是理所当然的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她这么说着，\n将脸上的红晕推托给夕阳。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "笨蛋！我才没有害羞！\n我是感动──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "啊，原来是这样啊～♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "圣王光环",
+            "Text": "不不不！我什么都没说！\n喂，你们笑什么啦！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "圣王光环的个性\n还是一样别扭。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

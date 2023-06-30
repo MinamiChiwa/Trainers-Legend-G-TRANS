@@ -1,0 +1,443 @@
+{
+    "Title": "努力的两人",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "“阪神JF”──\n这场GⅠ竞赛将决定谁是新马级的顶尖选手。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "赛事等级越顶尖，所需的实力等级也会越来越高，\n对身体的负担也随之加重。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "西野花是“跳级生”，身体尚年幼，\n这场比赛跟出道战比起来，\n可能会更加消耗她的体力。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "考量到往后的挑战，我必须具备正确的照护知识。\n但我还只是个新人训练员，\n知识不足又欠缺经验，所以我──",
+            "ChoiceDataList": [
+                "前辈！今天请多多指教！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "前辈训练员A",
+            "Text": "喔，你来啦！我都准备好了。\n你要问怎么照护身体对吧？\n这些是我手上的资料！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "前辈训练员A",
+            "Text": "我还约了已经毕业的选手一起来。\n实际听听我们当年的作法，\n或许对你们会有帮助喔。",
+            "ChoiceDataList": [
+                "非常感谢您……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "哎呀？在那边的是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "怎么啦？小花。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "（是爱丽速子。\n她都会做很多艰深的研究，\n跟她聊天很有趣。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "爱丽速子"
+            ]
+        },
+        {
+            "Name": "西野花",
+            "Text": "啊，呃……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "……哦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "小花，其实呢，因为一些复杂的原因，\n我的白袍现在变得破破烂烂的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "光看就觉得难过，穿上又更难过了呢。\n可以帮我看看该怎么处理吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "好、好的。\n我会努力试试看的……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "──喝啊……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "呼……呼……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "为了挑战GⅠ，我们提高了训练强度。\n结果导致西野花连平时练习时，\n都感到疲劳不堪。",
+            "ChoiceDataList": [
+                "西野花，来冰敷吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "啊，好的……",
+            "ChoiceDataList": [
+                "我调制了富含维他命的饮料喔！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……！\n谢、谢谢……你……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我活用了前辈传授的知识来照护她的身体。\n不过我还是觉得在基础知识面上，\n自己的理解程度仍然不足……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是另一天，\n我为了更加深入了解赛马娘的身体构造，\n正在查询文献资料──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "──那份文献不太妥当。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "或许应该说，\n你现在的首要任务并不是纸上谈兵，\n而是测试与除错，也就是实际尝试。",
+            "ChoiceDataList": [
+                "你是……",
+                "你是……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "我是爱丽速子，只是一介平凡的赛马娘。\n抱歉突然插嘴，不过我日日夜夜──\n都在对赛马娘的“身体”进行研究。",
+            "ChoiceDataList": [
+                "……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "嗯，果然没错。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "你是小花的训练员吧？\n我平时受到她不少照顾呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "身为她的前辈，只要有我帮得上忙的地方，\n我都想尽力协助她，\n这完全是诚心诚意！发自善意的！",
+            "ChoiceDataList": [
+                "请务必让我听听你的意见！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "交给我吧。\n只要能“为小花”减轻负担，\n我愿意分享我的知识。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "话说你要是希望我协助，有个简单的交换条件。\n别担心，你只要喝下某种饮料后，\n“稍微”动动身体就好。",
+            "ChoiceDataList": [
+                "了解！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "──训练员……\n好慢喔……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "（上次跟训练员交谈的人……\n我记得是他的前辈吧？）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "“我要学的东西还很多啊”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "“我要学的东西还很多啊”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "（难道说……\n他还在为了我努力研究学习？）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "（都怪我还是个小孩子……\n……才会害得训练员这么辛苦。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "小花，让你久等了。\n他有点拼命过头了。",
+            "ChoiceDataList": [
+                "呼……呼……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "小花，让你久等了。\n她有点拼命过头了。",
+            "ChoiceDataList": [
+                "呼……呼……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "训练员，你怎么了！？\n还有，为什么爱丽速子也在这里……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "爱丽速子"
+            ]
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "没什么啦，只是阴错阳差发生了点误会。\n我在研究某种成分对心肺功能产生的影响，\n本来只是想多收集测试样本而已。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "也就是说，只是要做个小小的运动实验。\n但他却以为“只要越努力就能获得越多意见”，\n彻底！完美地！搞错了我的意思呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "也就是说，只是要做个小小的运动实验。\n但她却以为“只要越努力就能获得越多意见”，\n彻底！完美地！搞错了我的意思呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "呵呵呵，多亏如此，我得到了相当有帮助的结果！\n所以我当然也多给了一些\n能帮上小花的意见！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……！\n为了帮助我……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "就是这么回事，\n剩下就交给你们自己测试与除错啦。\n我该回去继续做研究了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "对了，白袍的恩情在此还给你啰。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……对不起。",
+            "ChoiceDataList": [
+                "为什么要道歉？",
+                "为什么要道歉？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "因为，都是为了我……\n害得训练员这么辛苦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "她似乎误以为是自己的“身体”\n造成了我的负担。\n她的状况或许的确比较特殊，但是……",
+            "ChoiceDataList": [
+                "我很开心能为了你努力喔",
+                "我很开心能为了你努力喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "唔……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "我……\n非常了解……那样的心情。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "……好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "训练员，请好好休息。\n我去拿水过来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "然后我要开始练跑！\n请你看着我！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "喝啊啊啊啊……！",
+            "ChoiceDataList": [
+                "（……！好快！）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "西野花在最后的直线展现了优异的锐利步伐。\n比起前一天训练时，\n她又更加成长了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "呼……呼……！",
+            "ChoiceDataList": [
+                "西野花，饮料！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "呼……谢谢你……",
+            "ChoiceDataList": [
+                "你偷偷做了什么特训吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "不是的。\n我只是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "一想到训练员也正在努力，\n就觉得充满了力量！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "没错……好像是这样。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "我想一定是训练员的努力，\n在帮助我大幅成长。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "谢谢你这么全力以赴，\n你的努力我都感受到了！",
+            "ChoiceDataList": [
+                "西野花……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "不能光靠训练员的努力，我也想一起加油，\n所以……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "你今天学到了什么，\n也可以告诉我吗？",
+            "ChoiceDataList": [
+                "好！",
+                "嗯！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我们的第一次GⅠ有很多不安之处。但是……\n只要跟西野花一起努力，\n我们一定能冲刺到最后！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

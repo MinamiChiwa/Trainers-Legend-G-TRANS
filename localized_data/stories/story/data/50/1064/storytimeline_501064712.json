@@ -1,0 +1,61 @@
+{
+    "Title": "缺席的理由……",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "训练时间到了，\n但目白善信没有出现。\n当我去找她时……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女孩",
+            "Text": "──哇～好厉害！\n姐姐是挖洞专家～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "嘿嘿嘿，厉害吧厉害吧。\n把这边的隧道也打通好了～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "啊，训练员。\n这孩子说她一个人很无聊，\n所以我正和她一起挖隧道。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "机会难得，怎么样？\n训练员也一起来挖吧？",
+            "ChoiceDataList": [
+                "……训练呢？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "咦？啊……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "呜啊啊，抱歉！我忘了！\n我在做什么啊……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我赞美她愿意陪小孩子玩的温柔体贴，\n但也稍稍叮嘱她，\n忘记预定行程是不行的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

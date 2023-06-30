@@ -1,0 +1,575 @@
+{
+    "Title": "她，跟她，以及旁边的她",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在待兼诗歌剧跑完出道战后，\n又过了一阵子的某天里。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼诗歌剧",
+            "Text": "训练员！\n出大事了、出大事了～！",
+            "ChoiceDataList": [
+                "怎么了？",
+                "怎么了？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼诗歌剧",
+            "Text": "呃～那个、就是！\n电视电视，你先看看电视！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我连忙照着她说的打开电视──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "主播A",
+            "Text": "“我们要来采访今年刚出道，而且\n备受瞩目的几位赛马娘！今天要采访的赛马娘\n是在出道战展现出色才能的美浦波旁！”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼诗歌剧",
+            "Text": "哇，\n电视里面真的有波旁在奔跑耶～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "波旁"
+            ]
+        },
+        {
+            "Name": "待兼诗歌剧",
+            "Text": "哎呀～我刚刚才听说她有接受采访！\n她好厉害喔～连在同个时期\n出道的我都觉得好风光！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "举办出道战的中京赛场充满了\n为美浦波旁的才能感到惊艳的喝采。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "男性A",
+            "Text": "虽然比较晚起跑，却在最后的直线\n一口气抢下第一名！啊～太精彩了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女性A",
+            "Text": "她的下盘很稳，\n以后应该会越来越厉害吧～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "大家都说你是备受瞩目的超强新人，\n那么，你目前想在\n闪耀系列赛达成什么目标呢！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "取得经典三冠\n是我唯一的目标。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "原来如此……！\n虽然这么说有些失礼，但其实有点令人意外呢。\n原本以为你应该会挑战短距离路线……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "我确实适合短距离，但不影响我的决定。\n取得三冠是不允许变更的目标。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（喔喔……！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她泰然自若地在镜头前面做出宣言的模样，\n真的是非常有气势。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼诗歌剧",
+            "Text": "喔……！太帅了！\n真不愧是波旁！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼诗歌剧",
+            "Text": "嗯？是说，波旁要挑战三冠路线的话，\n我是不是就要跟她竞争啊？",
+            "ChoiceDataList": [
+                "是啊",
+                "是啊"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼诗歌剧",
+            "Text": "哎呀～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "同一时刻，\n学生宿舍大厅的电视也在播同一个节目。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "主播A",
+            "Text": "“──接下来是在经典级跟古马级\n大放异彩的赛马娘特辑！”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "古马级"
+            ]
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "应该会是那两个人吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "主播A",
+            "Text": "我们要来采访被誉为\n今年最强长途跑者的目白麦昆！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "目白麦昆"
+            ]
+        },
+        {
+            "Name": "主播A",
+            "Text": "还有以不败之姿夺下“日本打比”\n跟“皋月赏”双冠的天才，东海帝王！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "东海帝王"
+            ]
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "啊～果然是她们……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "主播A",
+            "Text": "“主角级的赛马娘们齐聚一堂！或许有天\n她们将会成为同一个赛场上的竞争对手呢。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "专家",
+            "Text": "“是啊。不过，东海帝王在比完打比之后\n受伤一事实在令人遗憾。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "专家",
+            "Text": "“记得要半年才能完全康复吧？\n听说她不会参加菊花赏了。\n我本来还认为她一定会夺下三冠。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "主播A",
+            "Text": "“是啊～有不少人都很期待\n看到三冠赛马娘诞生的那一瞬间。\n我个人也觉得她不能参赛很可惜。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "……只要能参赛，就一定会夺下三冠……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "……\n……也是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "几天后。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼诗歌剧",
+            "Text": "姆～今天也跑得好过瘾！\n辛苦你了，训练员！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼诗歌剧",
+            "Text": "嗯？那是……素质？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我顺着待兼诗歌剧的视线看过去，\n就发现优秀素质\n正用有些闷闷不乐的表情望着操场。",
+            "ChoiceDataList": [
+                "她怎么了？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼诗歌剧",
+            "Text": "嗯……训练员。\n其实，她已经这样子好几天了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼诗歌剧",
+            "Text": "所以我有点担心她。\n……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼诗歌剧",
+            "Text": "我去跟她讲一下话！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼诗歌剧",
+            "Text": "优秀素质今天的运势是小吉！\n或许会是有点小忧郁的一天。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼诗歌剧",
+            "Text": "但是没关系！只要找到名字是\n待开头瑟结尾的赛马娘！\n跟她讲讲话，就会变开心喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "咦？你突然之间怎么了啊？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼诗歌剧",
+            "Text": "咦？呃……\n我在学小福前辈！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "小福"
+            ]
+        },
+        {
+            "Name": "待兼诗歌剧",
+            "Text": "你的幸运赛马娘\n现在愿意听你倾诉任何事情喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼诗歌剧",
+            "Text": "……嘿嘿。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "──呵、呵呵……！\n你到底在做什么啊，真是的……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "……呼，谢谢你。\n我害你替我担心了。对不起。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "那，你可以听我讲一下吗？\n名字是待开头瑟结尾的赛马娘小姐。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "……我其实\n想要参加“菊花赏”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "本来是因为看到帝王那么厉害，\n才会想说跟她拼拼看吧！\n然后一直努力锻炼到现在。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "……可是当我看到有个节目说帝王\n不能参加“菊花赏”很可惜，就觉得──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "说什么只要她能参赛就一定会夺下三冠，\n也太敢说了吧……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "毕竟觉得最可惜的一定是帝王她自己啊！\n可是，她却没办法参赛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "她从小就一直为了实现\n成为不败三冠赛马娘的梦想，\n而不断努力着，但现在却只能放弃……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "她那么努力地忍住自己的不甘心，\n其他人却说“只要她能参加一定会夺下三冠”……\n她一定很难过。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼诗歌剧",
+            "Text": "……嗯。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "……而且，这次拿下“菊花赏”冠军的\n赛马娘一定也会被说──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "她是在没有帝王的\n那届“菊花赏”里夺下冠军的赛马娘。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "假如我拿下了“菊花赏”的冠军，\n我一定会超级高兴的──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "可是大概会一直听到大家说“如果帝王有参加，\n结果可能就会不一样了”这种话……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "哈哈，我也觉得自己怎么还没参赛\n就在说这里说一些有的没有的。\n虽然知道，却还是会一直胡思乱想──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "啊～讨厌！我怎么这么窝囊啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "我现在明明应该要集中精神，\n加紧脚步加强锻炼才行……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "待兼诗歌剧静静地凝视着\n垂下头的优秀素质。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "诗歌剧遇到这种事情会怎么办？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼诗歌剧",
+            "Text": "咦？我吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼诗歌剧",
+            "Text": "唔唔～这个嘛……\n我觉得我也会跟素质有一样的想法。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼诗歌剧",
+            "Text": "因为听到别人那样讲很难不在意，\n一定会一直觉得心里闷闷的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼诗歌剧",
+            "Text": "可是，想归这么想，\n果然心里的某一个角落里\n还是存在着想要赢下“菊花赏”的想法。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "……嗯。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼诗歌剧",
+            "Text": "……所以，嗯。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼诗歌剧",
+            "Text": "到时候我会用精彩到不行的表现抢下第一名，\n让人没办法说出“帝王参赛就会不一样”这种话！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "……咦？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼诗歌剧",
+            "Text": "嗯，我觉得只能这么办了！\n就用让大家都忘记帝王的超快速度──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼诗歌剧",
+            "Text": "赢得压倒性的冠军！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "……\n…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼诗歌剧",
+            "Text": "……咦？你有在听吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "突然的沉默。\n两人脸上的错愕表情。然后──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "……呵、呵呵、啊哈哈哈！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼诗歌剧",
+            "Text": "咦？咦！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "啊～真是的！也对，你就是这种个性……\n我突然被你打醒了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "我要振作起来，好好努力才行。\n继续在这边垂头丧气也无济于事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "……嗯，我一定要赢。我会用超快的速度\n赢下冠军。我绝对有能力做到。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼诗歌剧",
+            "Text": "……！\n虽然不太懂是怎么回事，\n不过你打起精神了吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "有喔，打起精神了……谢谢你。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼诗歌剧",
+            "Text": "呼～！好耶好耶好耶！\n那现在呢？要不要一起朝着夕阳跑一下！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "啊哈哈！\n我才不要。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "两人一边嬉闹，一边走回学园。\n优秀素质的表情变得开朗了许多。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "秋川理事长",
+            "Text": "“你的武器或许光辉不及太阳，\n却也是独一无二！\n你拥有帮助别人往前踏出一步的力量！”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "感觉晴朗的天空中传来了秋川理事长\n那天对她所说的那一段话。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

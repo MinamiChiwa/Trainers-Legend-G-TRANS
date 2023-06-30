@@ -1,0 +1,338 @@
+{
+    "Title": "治好阿船！？",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "唔……！？\n搞什么，到底发生了什么事……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "不行不行不行！\n这件事已经超出我们的能力范围了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "某天，我前往顶楼的时候，\n发现中山庆典和东瀛佐敦\n似乎正在伤脑筋。",
+            "ChoiceDataList": [
+                "怎么了？",
+                "怎么了吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……唔！？\n无关的人还是快点离开吧！\n这里现在是危险地区！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "可、可是！……你听我说！\n阿、阿船怪怪的……！",
+            "ChoiceDataList": [
+                "（黄金船原本就很怪吧？）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "啊，训练员。\n早安。\n今天天气也很好呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "这么清爽的日子，\n让人觉得心情也神清气爽呢。",
+            "ChoiceDataList": [
+                "……唔！？！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "……？训练员，\n你怎么了？\n我脸上有什么东西吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "阿船从今天早上就是这个样子！\n她该不会吃了什么奇怪的东西！？\n一定是这样没错！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "不然就是撞到头了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "呵呵，你们在说什么啊？\n我跟平常没什么不同吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "我最喜欢总是开朗又快乐的\n佐敦和中山了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "呀────！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "这个就连我……\n也有点招架不住……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "对了，训练员。\n我烤了饼干。\n要不要尝一片？",
+            "ChoiceDataList": [
+                "谢、谢谢你……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "黄金船递给我一片饼干。\n那片饼干吃起来又甜又香。",
+            "ChoiceDataList": [
+                "……好吃！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "呵呵，有合你的口味就好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "看你吃得这么津津有味……\n让我感到有点害羞呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "唔恶恶恶恶恶恶恶恶……\n我、我快死了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "这确实是异常状况。\n必须想点办法才行。",
+            "ChoiceDataList": [
+                "中山，帮帮忙吧！",
+                "中山，帮帮忙吧！",
+                "佐敦，你有什么好主意吗？",
+                "佐敦，你有什么好主意吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "这确实是异常状况。\n必须想点办法才行。",
+            "ChoiceDataList": [
+                "中山，帮帮忙吧！",
+                "中山，帮帮忙吧！",
+                "佐敦，你有什么好主意吗？",
+                "佐敦，你有什么好主意吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "唔，要我帮忙啊……\n真是强人所难。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "不过……总而言之，只要让阿船\n变回以前那个疯疯癫癫的样子就行了吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "喂，阿船！我现在可以陪你玩\n你以前喜欢的“把海胆和栗子的刺\n全部掉包”的游戏喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "一起来玩这个游戏，\n回想起以前那个荒唐的自己吧……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "来比谁最先把\n海胆和栗子的刺全部掉包吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "咦……？\n海胆的刺和栗子的刺……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "不、不好意思……？\n我听不太懂你在说什么。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "咦？为什么？\n掉包海胆的刺和栗子的刺……？\n这么做有什么意义……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "你有资格说这种话吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "对、对不起，中山。\n我好像不太能理解\n你口中的游戏。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "啊，可是，每个人的兴趣本来就不一样！\n我觉得那样也很好！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "啊哈哈……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "可恶────！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "之后，不管我们用什么方法都没能把她变回来。\n但不知为何，黄金船睡了一个晚上后，\n就恢复成平常的样子了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "我、我吗……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "不行不行不行！\n这超出我的能力范围！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "加油，我们现在只能靠你了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "喂……！？居然全推给我，\n太过分了吧……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "唔、唔唔唔……\n唔唔唔唔唔唔唔……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "唔唔唔……唔唔唔……\n唔唔唔唔唔唔唔唔唔唔唔唔唔唔唔……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "阿、阿船！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "是、是的？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "你可以踢我喔……！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "咦……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "我叫你像平常那样踢我，\n让自己嗨起来啦！\n我、我这次可以破例原谅你！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "不，那个……\n佐敦是我重要的朋友，\n我怎么能够踢你。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "啊，该、该不会你有那方面的兴趣……？\n没、没事！每个人的兴趣本来就不一样！\n我觉得那样也很好！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "啊哈哈……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "可恶────！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "之后，不管我们用什么方法都没能把她变回来。\n但不知为何，黄金船睡了一个晚上后，\n就恢复成平常的样子了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

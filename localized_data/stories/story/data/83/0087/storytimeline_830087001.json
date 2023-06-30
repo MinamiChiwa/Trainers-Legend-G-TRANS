@@ -1,0 +1,325 @@
+{
+    "Title": "我来找吧～",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "某天，我经过中央广场时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "Hey～！请不要害怕──！\n出来的话我会紧紧地hug你喔～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "我会给你吃一口就会变超级幸运的\n开运小鱼干喔～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "嗯～还是没看到它在哪呢～",
+            "ChoiceDataList": [
+                "你们在找什么？",
+                "你们在找什么吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "哎呀，午安～\n请问～\n你有看见戴着红色项圈的三花小猫吗？",
+            "ChoiceDataList": [
+                "没有看到",
+                "没有看到呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "这样啊～\n其实是因为，\n刚才住在附近的人来拜托我们帮忙。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "说是他家养的小猫，\n不小心跑到学园里来了。",
+            "ChoiceDataList": [
+                "我也一起找吧",
+                "我也一起找吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "哎呀，真的可以吗？\n非常感谢你的好意呢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "就这样，\n我们决定分头去找，但──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "肉．is．justice！\nBBQ已经好了喔～！\n肚子饿的cat快过来吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "呼哪嘎～哈哪嘎～\n柔软肉球～喵喵喵～～～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "显灵了！“走失猫在东方”！\n准备上阵～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "在所有人用着各自的方法找猫时，\n回到中央广场的我却发现──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "哎呀，是刚才那位～\n你过得好吗～？",
+            "ChoiceDataList": [
+                "呃，你怎么完全没离开这里……！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "为了要知道小猫会去哪些地方，\n我让自己模拟小猫的心情呢～♪",
+            "ChoiceDataList": [
+                "或许在让它感到安心的地方……？",
+                "或许在让它觉得开心的地方……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "原来如此～的确呢，\n这里对小猫来说很陌生，\n或许真的会觉得很不安呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "那么，\n我就去找可能让小猫觉得安心的地方吧～\n离找到小猫又更进一步了呢～♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "…………能让小猫觉得安心的地方，\n到底是哪里呢～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是目白光明又再次陷入思考。\n我决定在找猫的过程中，\n偶尔回来听听看她的意见……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "的确呢，\n小猫现在说不定就正在\n刺激又好玩的地方呢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "学园里面有那么多的设施，\n说不定对小猫来说\n就像是个游乐园一样呢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "如果是游乐园的话……\n哎呀，我想到了一个好办法♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "首先呢，\n我决定先试着想起我和父亲\n第一次一起去游乐园时的回忆～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是目白光明又再次陷入思考。\n我决定在找猫的过程中，\n偶尔回来听听看她的意见……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "It's．strange……\n如此令人垂涎三尺的肉香，\n居然也没办法把它引出来……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "找猫专用的“柔软肉球占卜”\n居然也找不到它……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "天色也开始转暗了，\n先回中央广场一趟好了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "Oh，在那边的是！\nHey～光明，howdy～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "大、大树，嘘──！小声一点……！\n你看光明的脚边！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "嗯～\n小猫到底是跑去哪里了呢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "猫",
+            "Text": "喵～呼噜呼噜。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "这一看才发现目白光明的脚边，\n有一只看起来躺得很舒服，\n并且戴着红色项圈的三花猫……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "没有错！\n那就是我们在找的猫！\n看来光明是没有注意到呢……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "为了不被小猫发现，我们用\nbody language告诉光明吧～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "……哎呀，\n是福来和大树。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "她们在挥手呢。\n呵呵呵，你们好～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "……不知道是不是我多想了，\n她们好像打招呼得比平常热情很多呢……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "……？是在比什么手势吗？\n是要我往下看吗……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "猫",
+            "Text": "喵～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "哎呀，天啊～这不是小猫嘛♪\n你过得好吗～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "呵呵呵，是一只三花小猫呢。\n红色的项圈非常适合你喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "嗯嗯？红色项圈的～三花小猫……\n怎么好像在哪听到过～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "猫",
+            "Text": "（抬头看）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "…………哎呀，我想起来了。\n我正在找这只小猫呢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "猫",
+            "Text": "（快步走开──）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "那我赶快把小猫抓起来好了～\n嘿～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "哎呀……？\n小猫不见了呢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "光明～！\n猫早就已经跑掉了啦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "要赶快去追上小猫～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "后来，大家一起拼命地追着猫跑，\n才终于抓到了它。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

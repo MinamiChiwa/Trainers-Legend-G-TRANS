@@ -1,0 +1,284 @@
+{
+    "Title": "迈向“第三年”",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我来到运动用品店购物时，\n碰到两位特雷森学园的赛马娘\n正在挑选商品。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "气质冷酷又有点毒舌，\n令人感到浑身带刺的赛马娘──小小蚕茧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "小小蚕茧"
+            ]
+        },
+        {
+            "Name": "独白",
+            "Text": "以及自豪于自己的蛮力、\n偏好艰困的训练又热爱对决的\n赛马娘──苦涩糖衣。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "苦涩糖衣"
+            ]
+        },
+        {
+            "Name": "独白",
+            "Text": "两位都是㭴本训练员的签约赛马娘。\n我原本一直以为她们是\n不爱与别人打交道的类型──",
+            "ChoiceDataList": [
+                "你们好"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小小蚕茧",
+            "Text": "……啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "苦涩糖衣",
+            "Text": "嗨，这不是<username>训练员吗！？\n还真巧呢！",
+            "ChoiceDataList": [
+                "真稀奇啊，你们竟然连假日都在一起",
+                "真稀奇啊，你们竟然连假日都在一起"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小小蚕茧",
+            "Text": "……不关你的事吧。\n反正我们又不是在玩友情游戏。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "苦涩糖衣",
+            "Text": "好啦好啦，小小蚕茧……\n其实今天我们是为了交流分享资讯\n才会来到这里的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "小小蚕茧冷淡地撇开视线，\n而苦涩糖衣则\n开口替她解释──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "原来她们打算互相交流、分享\n目前用过的运动用品的使用感想，\n以便向㭴本训练员提出更好的建议。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小小蚕茧",
+            "Text": "当然，我很信任㭴本训练员。\n她为我选择的用品绝不会有错。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小小蚕茧",
+            "Text": "只不过，她……\n老是为了我们拼命钻研\n运动鞋跟服装的使用评价。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "苦涩糖衣",
+            "Text": "我们想尽量为她分摊负担。\n毕竟我们也即将迎接“第三年”了！",
+            "ChoiceDataList": [
+                "“第三年”……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "苦涩糖衣",
+            "Text": "是啊。我想你也很清楚吧……\n闪耀系列赛的第三年。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小小蚕茧",
+            "Text": "……对我们赛马娘来说最重要的三年，\n其中的最后一年。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "苦涩糖衣",
+            "Text": "得更加绷紧神经才行。\n嗯，我开始热血沸腾了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小小蚕茧",
+            "Text": "……那你呢？你怎么打算？\n这种时候了你还在这里打混？",
+            "ChoiceDataList": [
+                "我？",
+                "我？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小小蚕茧",
+            "Text": "哈……到现在还迷迷糊糊的，小心被超前喔。\n不只是你，你的搭档也一样。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小小蚕茧",
+            "Text": "那我们先失陪了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "苦涩糖衣",
+            "Text": "哈哈，就是这样啦！\n拜啦，帮我跟<chrname>问好！",
+            "ChoiceDataList": [
+                "“第三年”啊……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我仔细琢磨着两人的话，\n并回到了学园。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "快乐米可",
+            "Text": "呼、呼、呼……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "快乐米可",
+            "Text": "……唉…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这么晚了还待在练习场地的是\n同期的桐生院训练员的\n签约赛马娘──快乐米可。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她总是沉默寡言又面无表情。\n乍看似乎只是在发呆，\n但她与桐生院训练员的情谊却无比深厚。",
+            "ChoiceDataList": [
+                "晚安"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "快乐米可",
+            "Text": "啊……<username>训练员……\n晚安。",
+            "ChoiceDataList": [
+                "桐生院训练员没跟你在一起啊？",
+                "桐生院训练员没跟你在一起呀？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "快乐米可",
+            "Text": "她正在训练员室里……“闭关”？\n……所以非常忙碌。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "快乐米可",
+            "Text": "闭关期间……我……可以休息……\n不过……我无法……乖乖待着。",
+            "ChoiceDataList": [
+                "所以就练习到这么晚？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "快乐米可",
+            "Text": "……训练员现在正在\n“闭关”……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "快乐米可",
+            "Text": "正在为了我……\n重新研拟……\n“第三年”的训练项目。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "快乐米可",
+            "Text": "……所以…………",
+            "ChoiceDataList": [
+                "所以？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "快乐米可",
+            "Text": "……所以我也要加油。\n……跟训练员一起加油。",
+            "ChoiceDataList": [
+                "原来如此"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "快乐米可",
+            "Text": "还有……你的搭档也……\n很努力。所以……",
+            "ChoiceDataList": [
+                "咦？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "快乐米可",
+            "Text": "……就这样，\n我要……再跑一圈。\n加油……喔～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……快乐米可的一番话\n令我不禁有些挂怀，\n于是我决定绕去训练员室一趟。",
+            "ChoiceDataList": [
+                "训练员室的灯亮着……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "快乐米可",
+            "Text": "还有……你的搭档也……\n很努力。所以……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "难道说……\n<chrname>也正在\n为“第三年”做打算？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "训练员室内──",
+            "ChoiceDataList": [
+                "<chrname>！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她在等我回来。\n之后我们聊了很多。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这一晚让我深刻感受到\n与<chrname>间的情谊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

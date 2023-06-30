@@ -1,0 +1,375 @@
+{
+    "Title": "魔女与北部",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "这天，我走在广场上时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "唔哇啊啊啊啊～！？",
+            "ChoiceDataList": [
+                "北部的惨叫声！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "吼哟～！你这是什么反应啊！\n是不是瞧不起我的魔法啊！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "我、我才没有！\n我真的没有瞧不起你的魔法啦～！",
+            "ChoiceDataList": [
+                "你们在做什么啊……？",
+                "你们在做什么呀……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "啊，训练员也要一起吗？\n当魔法的实验品！",
+            "ChoiceDataList": [
+                "实验品？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "哼哼，是我跟祖母学到的新魔法喔！\n是会让人充满干劲的魔法！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "可是我帮北部施魔法，\n她也只会“唔哇啊～！”地敷衍乱叫！\n让人感觉不到她的认真！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "对、对不起～\n下次我一定会认真觉得自己充满了干劲……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "北部玄驹被这样牵着鼻子玩弄也不发脾气，\n甚至还积极配合。\n她该不会──",
+            "ChoiceDataList": [
+                "是在努力忍耐坏魔女的霸凌……！？",
+                "是因为不想被东商变革讨厌吧",
+                "是因为不想被东商变革讨厌吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "北部玄驹被这样牵着鼻子玩弄也不发脾气，\n甚至还积极配合。\n她该不会──",
+            "ChoiceDataList": [
+                "是在努力忍耐坏魔女的霸凌……！？",
+                "是因为不想被东商变革讨厌吧",
+                "是因为不想被东商变革讨厌吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "什么──！？你说谁在霸凌啊！\n而且我才不是什么坏魔女！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "对吧？北部！\n快点帮我说他几句啊！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "咦！？对、对啊！\n变革说得没有错！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "虽然变革真的很容易生气，\n只要一开始耍任性就会没完没了，\n有时候会让人觉得很头痛……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "……北部？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "啊哇哇，对不起！\n但我想趁现在坦白说清楚嘛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "……其实变革她──\n是看到我因为考试成绩不好在沮丧，\n才好心想要帮我忙的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "说要帮我施一个从没对别人用过，\n非常特别的魔法。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "虽然她性格有点笨拙，又容易被别人误会……\n但她其实是一个很善良的人喔。",
+            "ChoiceDataList": [
+                "这样啊，看来是我瞎操心了",
+                "这样啊，看来是我瞎操心了呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "嘿嘿嘿，不会啦，\n能把我自豪的朋友的优点告诉训练员，\n我其实也觉得很开心！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "……怎么了？\n变革？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "笨、笨蛋笨蛋笨蛋！\n你干嘛突然称赞我啦！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "有、有够莫名其妙的！\n害我……脸突然变很烫……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "真是的，笨蛋！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "咦咦？变革！？\n呃，这种时候我应该──",
+            "ChoiceDataList": [
+                "先追上去再说吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "对耶，说得也是！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "等等我啊～！\n变革──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "咦咦！？喂，你干嘛！\n不要追过来啦～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "就这样，\n我陪着北部玄驹一起在校舍里跑来跑去，\n只为了抓到满脸通红的东商变革……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "后来，\n那天的追逐还让她的持久力稍微提升了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "唔……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "……？什么意思。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "为什么我会\n讨厌北部啊？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "咦！？可是我之前有看到你在和猫咪说\n“不听话的人跟不受魔法影响的人，\n我都要绝交”……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "……！\n…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "啊哈哈，所以你就怕被我讨厌了吗？\n真是个笨蛋耶！\n使魔跟用来练习魔法的实验品不一样啦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "使魔是一定要完全遵守我说的话……\n欸，北部，你闭上眼睛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "咦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "透长石☆斜长石☆月长石！\n隐藏的干劲跟活力觉醒吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "……唔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "……怎么样？魔法有效吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "…………呃。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "你就老实说啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "……没有。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "是喔，那──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "透长石☆斜长石☆月长石！\n隐藏的干劲跟活力觉醒吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "哇！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "透长石☆斜长石☆月长石！\n隐藏的干劲跟活力觉醒吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "还来！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "是啊！因为你是练习魔法的实验品啊。\n在魔法成功之前，\n我会一直在你身上尝试的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "明天会，后天也会！\n才不会那么容易就讨厌你呢。\n哼哼！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "…………啊、啊哈哈。\n结果就这样被她施了好多次魔法呢。",
+            "ChoiceDataList": [
+                "说不定其中一次有成功呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "唔唔～这个嘛……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "明天会，后天也会！\n才不会那么容易就讨厌你呢。\n哼哼！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "可能真的有成功一点点\n也说不定呢。\n……因为我现在心里还是觉得暖暖的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "北部玄驹看起来\n有点腼腆地笑着。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

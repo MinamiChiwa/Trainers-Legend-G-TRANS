@@ -1,0 +1,336 @@
+{
+    "Title": "思慕，闪耀的路标",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──距离目白光明的选拔赛还有一个礼拜。\n我得在比赛前帮助她增进实力，但……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "──那么，我来向你介绍喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "左边起依序是凛然又强悍的多伯、高雅尊贵的麦昆大人。\n还有我最喜欢的，最温柔的赖恩姐姐大人～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "嘿嘿嘿。你好，欢迎参加我们的茶会。\n呃，光明……这位是？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "嗯。这位是我的暂定训练员大人～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "暂定……？",
+            "ChoiceDataList": [
+                "我们说好，到选拔赛前由我陪她练习……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "啊啊……原来如此。也对，选拔赛快到了呢。\n由专家陪同进行密集训练也是很重要的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "然后呢然后呢？光明的训练状况怎么样？\n虽然我想你们应该也才刚开始训练啦！",
+            "ChoiceDataList": [
+                "这个嘛……",
+                "这个嘛……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "呼……呼…………很～好，就是现在……！\n……咦？怎么回事？我又抵达终点了～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "如同初次观察时感受到的一样，她还有个性悠哉导致起跑不佳，\n以及无法自己掌握加速时机，故难以发挥实力等问题需要克服。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "请问我还可以继续跑吗～？\n我还很有精神。要我做什么都尽管说喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "但这绝不代表她跑得不好。只要别受到第一印象干扰用心观察，\n就能看出她拥有耐得住长途奔跑，资质优异的双脚。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "只要由我精准地指示进攻时机及作战，我想她一定可以\n克服弱点跑出好表现。这样一来，距离获胜就只剩下──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "暂定训练员大人，要不要来一杯红茶？\n请在茶里放进糖渍苹果一同享用。请用～",
+            "ChoiceDataList": [
+                "……啊，真好喝！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "对吧～？喝下后会感到胸口一阵温暖～\n寒冷的冬天最适合来杯红茶了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "这种喝法是多伯教我的喔～她既能干，\n又教了我很多事情……真是个优秀的孩子呢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "麦昆大人也非常温柔，每次我晒日光浴时，\n她都会为我盖上毛毯……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "还有，不得不提她那美丽的跑姿～！既优雅又华丽，\n非常完美。每当看着她，内心都会哇～地一阵兴奋呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "我懂我懂！\n麦昆跑起来真的非常美丽呢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "呵呵呵～\n我也非常喜欢赖恩姐姐大人的跑姿喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "强而有力、每一步都仿佛震撼大地……\n充分表现出姐姐大人内心的强悍，让我很崇拜喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "哇啊啊啊～～你太夸张了啦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "毫不夸张喔。\n我是真的非常喜欢大家，打从心底尊敬大家喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "是啊。包含相关人士在内，我们家真的每位成员都很优秀。\n……下次活动要是能让光明担任主持人就好了。一定会很有趣。",
+            "ChoiceDataList": [
+                "活动？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "我们正在筹备一场活动，为了服务粉丝们，\n已出道的目白家成员们将一起进行座谈会。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "我跟多伯还没出道，所以这次在一旁观摩～\n对了，暂定训练员大人愿意的话，请务必前来参加。",
+            "ChoiceDataList": [
+                "我非常乐意！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "大家又继续享受了一阵子茶会后，就一起回到学园。\n目白光明开始准备进行训练，我独自等待她做好准备……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "光明的训练……暂定训练员！\n今天非常感谢你，多亏你，我们玩得很开心！",
+            "ChoiceDataList": [
+                "抱歉突然上门打扰",
+                "抱歉突然上门打扰"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "别这么说，是光明带你来的吧？\n既然如此，我想其中一定有某些含意。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "那孩子看起来是不是一副悠哉样？\n不过，其实她内心非～常坚强喔。",
+            "ChoiceDataList": [
+                "内心……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "呵呵，是的！……其实我实在不是什么值得她崇拜的对象。\n不过听到光明这么说……我也稍微……获得一点自信了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "所以，她选择你一定是有她的理由。\n……那孩子就拜托你了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……这么说来，为什么目白光明会选择我陪她一起训练呢？\n我还没问过其中理由。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "──这个嘛。\n因为～你陪我一起凝望枯叶嘛～",
+            "ChoiceDataList": [
+                "枯叶……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "是的～我呢，似乎天生就个性悠哉～\n跟其他人比起来，头脑转速跟成长都比较慢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "从小到大，直到现在……\n我都一直让对我抱持期待的人失望。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "──身为“目白家”的赛马娘，真该感到羞耻呢。",
+            "ChoiceDataList": [
+                "……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "……虽然我这个样子，但我不认为自己无能。\n就算慢别人一步，但我终究还是目白家的赛马娘。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "这次决定参加选拔赛，也是因为觉得是时候展现自己的实力了。\n不过我知道以目前的状况，我还无法获得理想的结果。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "就在那时我遇见了你。你跟我在同一个地方一起抬头看着天空，\n我觉得要是你的话……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "一定能让我看到自己究竟是谁，并且能让我证明自己。\n我想将赖恩姐姐大人她们过去缔造的无数辉煌成绩延续下去……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "──我想成为目白家的新光芒……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "“成为新的光芒”……从她那悠哉缓慢的语气中，我窥见一丝\n坚强的意志。我想这应该就是促使她奔跑的原因吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "而这股意念正是组成获胜关键的最后一片碎片。有时信念能\n化作原动力，促使选手踏出最后一步。只要心中有信念──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "──呼……呼……！\n听到声音后……要更努力跑……听到声音后──",
+            "ChoiceDataList": [
+                "光明！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "！好的……！\n在此时……加速……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我指导她加速的时机。因为她需要一些时间才能发动引擎，\n所以我稍微提早了指示她加速的时机。结果──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "呼……呼……\n暂定训练员大人，成绩如何呢～？",
+            "ChoiceDataList": [
+                "很好，很优秀！",
+                "很好，很优秀！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "太好了～有人帮忙下指令真棒呢。一旦心中确定\n加速时刻一定会到来，就能舒畅地尽情奔跑呢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "实际比赛时或许不会如练习一样顺利。不过……\n她心中怀着不能输的理由。这股意念一定能够有所成就。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

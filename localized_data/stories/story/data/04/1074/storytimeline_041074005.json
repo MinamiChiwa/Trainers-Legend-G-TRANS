@@ -1,0 +1,227 @@
+{
+    "Title": "初夏，阳光灿烂",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "事情发生在初夏，午后阳光明亮刺眼的季节。\n下课钟响传入耳中，训练员室的门随即被打开。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "训练员大人。\n请问现在方便打扰吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我的签约赛马娘目白光明走进训练员室。\n但我记得她今天要回家处理一些事情──",
+            "ChoiceDataList": [
+                "今天不是休息不用训练吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "是的。我今天有事要回老家，\n车子会来载我回宅邸，我正在等～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "所以～车子到达之前，\n可以让我在这里等吗？",
+            "ChoiceDataList": [
+                "好啊，当然可以！",
+                "嗯，当然可以！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "谢谢你。\n那么……请容我暂时打扰了～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "已经完全是夏天了呢～\n下次放假一定很适合去游乐园玩呢。",
+            "ChoiceDataList": [
+                "适合去游乐园？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "是的～\n之前父亲大人送我游乐园门票──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我们随意地聊着天。\n这段悠闲的时光虽然令人感到很放松──",
+            "ChoiceDataList": [
+                "车子还没来呢……",
+                "车子还没来呢……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "就是啊～～不过我很擅长慢慢等待。\n我想再等一下看看。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "啊，不过，训练员大人今天可以“提早下班”吧。\n你差不多要离开了吗～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "的确，今天没有安排练习，原本可以比平常更早回家。\n但我也不能丢着目白光明不管。",
+            "ChoiceDataList": [
+                "没关系。我还要再留一下"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "谢谢你。\n……呵呵，令人不禁想起一些回忆呢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "冬天时我们也曾像这样，\n两人肩并肩悠闲地度过呢……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "……当训练员大人在我身边时……\n我都会觉得──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "似乎又比平常\n更加放松悠闲了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（当当当当……当当当当……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "……哎呀～？\n哎呀……哎呀……太阳已经西下了～？",
+            "ChoiceDataList": [
+                "……来接你的车未免太慢了吧",
+                "……来接你的车未免太慢了吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "“提早下班”的预定化做云烟。\n时钟显示的时刻，已经快到加班时间。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "也对，目白家的司机动作竟然会比我还慢。\n实在有点稀奇。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "我打通电话确认…………哎呀？\n手机屏幕好黑呀～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "手机在插上充电线一段时间后，屏幕终于亮起，\n经过确认，里面有好几通未接来电的记录。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白家的司机",
+            "Text": "“光明大小姐，非常抱歉。\n因为诸多原因，今天的行程暂且先延期了。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白家的司机",
+            "Text": "“因此今天就不劳烦您离开学园了。\n真是不好意思──”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "……哎呀，这封消息是三小时前传来的。\n也就是说……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "我该不会连累训练员大人\n陪我呆呆地空等了这么久吧～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "多亏她，我连明天的工作都处理了一部分，\n而且也要怪我自己没出声提醒。我这么对她说道──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "这样啊，那就好～\n但我总觉得似乎有点“悠闲”过头了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "能跟你聊这么多，\n我是聊得很开心啦～",
+            "ChoiceDataList": [
+                "我也很开心喔",
+                "我也很开心喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "呵呵呵，真的吗？这样就好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "……这样真的好吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "虽然太阳已经完全西下……\n但我真切地感到今天悠闲地度过了一段充实的时光。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我陪着露出奇妙表情的目白光明回到宿舍，\n结束了一整天的工作。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

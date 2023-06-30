@@ -1,0 +1,300 @@
+{
+    "Title": "Logic and technique.",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我在外出后的回程路上绕去了购物中心，\n那里正在办活动，传来人群闹哄哄的声音。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "有哪位观众能从这里面任意抽一张卡片──\n那边那位女孩，你可以帮我这个忙吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "啊哇，我吗！？天啊……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "哦，是魔术表演啊。",
+            "ChoiceDataList": [
+                "有兴趣吗？",
+                "有兴趣吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "没有，只是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "有不少那类的牌类魔术\n都会运用到数学逻辑。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "…………",
+            "ChoiceDataList": [
+                "难得碰到就看一下吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "她没有回答我，不过看她停下脚步，\n于是我们在有段距离的地方\n看富士奇石表演。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "嗨，你们也来看我表演了呀？真高兴。\n你们觉得有趣吗？",
+            "ChoiceDataList": [
+                "非常有趣喔！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "那就好♪\n刚才因为看到有熟面孔在，\n我一不小心就太卖力了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "神宫，依你的表情来看，\n我的表演应该算是及格？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "……是不差。\n替换牌组的动作很自然，\n引导视线的技巧跟职业魔术师差不多。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "……怎样？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "没有呀，只是没想到你这么了解。\n……神宫，我问你。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "你有没有兴趣\n和我一起表演魔术？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "啥！？为什么会变这样！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "其实我最近在烦恼\n该怎么让我现在的表演进化得更加精湛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "如果有你这种类型的人在我身边，\n既聪明又有逻辑，\n我想应该会产生不错的火花！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "我拒绝，这对我一点好处都没有。",
+            "ChoiceDataList": [
+                "你还是找其他人比较好……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "表演魔术这种事跟比赛无关，\n对空中神宫来说只是噪声。\n正当我想着应该有更适合的人选时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "那帮我想想新的魔术表演提案怎么样？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "啥？说到底，\n我又不懂魔术……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "就算只是带给我一些新想法也好，\n我想让表演变得耳目一新。\n──拜托你了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "啊啊可恶，你别一步步降低要求，\n试探我妥协的底线，真烦人。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "好啦。\n既然你都这样讲了，我现在就想。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "咦？“现在”……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "空中神宫说到做到，\n竟然当场即兴编排了一场魔术表演──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "──这样就能把卡片移动到\n这三排卡片的任何一个地方。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "三排就用三进位数，四排就用四进位数。\n这手法很简单，只是把位置转换为数值。\n……不过，数理的部分不用明白也没差。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "只要步骤对了就不会失败。\n数学经常拿来用在这种纯粹的魔术上──也就是\n不需要手上功夫的魔术。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "只要传递正确的引数，就能得到正确的结果。\n就跟一支结构完整的程序一样。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "太厉害了！步骤简单，结果却令人印象深刻。\n我开始期待要怎么表演了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "你说这是你刚刚临时想的？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "又没什么大不了。\n这种东西只要知道理论，任谁都能──",
+            "ChoiceDataList": [
+                "我也想得出来？",
+                "我也想得出来？",
+                "就算这样，能即兴想到也很厉害！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "又没什么大不了。\n这种东西只要知道理论，任谁都能──",
+            "ChoiceDataList": [
+                "我也想得出来？",
+                "我也想得出来？",
+                "就算这样，能即兴想到也很厉害！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "对耶，如果能自己想，\n就能让表演进化成各种模样了♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "神宫，如果你愿意的话，\n能不能当我们的魔术老师呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "我看起来像是当老师的料吗……别开玩笑了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "是呀，而且就算其中的理论难以理解，\n她呈现的结果却简单易懂。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "我还是觉得你很适合上台表演。\n要是之后你有兴趣的话，再跟我说──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "蠢死了……我才不想跟别人厮混。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "我要走了。丑话先说在前头啊，\n我不会再帮更多忙了。",
+            "ChoiceDataList": [
+                "啊，等一下，我也──"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "不用──让我一个人静静。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "空中神宫冷淡地离开了。\n我不禁思考，她虽然不好相处却拥有优秀的能力，\n而我又能为她做些什么呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

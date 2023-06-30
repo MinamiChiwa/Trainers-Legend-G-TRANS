@@ -1,0 +1,373 @@
+{
+    "Title": "包在稻荷大人身上吧！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "假日。当我正为了稻荷一\n收集训练用的资料时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "大哥，真巧！\n怎么，大哥一个人来买东西啊？",
+            "ChoiceDataList": [
+                "你也是吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "大姐，真巧！\n怎么，大姐一个人来买东西啊？",
+            "ChoiceDataList": [
+                "你也是吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "不是，后辈们说下次要来玩，\n所以我正在到处逛，到时好为她们导览店家。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "不过这里有好多时髦的店！\n我想选间最棒的店，可是选项也太多了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "……对了！大哥的品味一定没错吧！\n可以告诉我你推荐的地方吗？",
+            "ChoiceDataList": [
+                "我帮你介绍"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "……对了！大姐的品味一定没错吧！\n可以告诉我你推荐的地方吗？",
+            "ChoiceDataList": [
+                "我帮你介绍"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "喔，感激不尽！拜托啰，大哥！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "喔，感激不尽！拜托啰，大姐！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "这华丽到不行的芭菲是怎么回事！\n还放了时髦洋味的花……啊～！这就是所谓的“上镜”吗！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "喔！？到处有人穿着泳装走来走去耶！\n而且对面那些人跳的舞……真棒，简直是祭典！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "喔，这是台球对吧！？我有看过喔！\n怎么样，要不要比一场！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "这里也有很多时髦的东西呢。\n……喔，那是啥？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "我去对面看一下！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "平时老是顾虑我的稻荷一似乎兴致勃勃，\n她一边物色商品一边走到商店深处。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她的“后辈”似乎之后会来访，\n希望她能暂时放松，悠哉地喘口气。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我在附近闲晃等着稻荷一回来，就在这时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "男性客人",
+            "Text": "我说了，回家打开一看东西就是坏的了！\n直接帮我换一个就好吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "杂货店店员",
+            "Text": "可是这位客人，既然包装的时候没问题，\n那个……会不会是在路途中撞到或是伤到了呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "店员与客人在收银台吵得不可开交。\n客人越来越激动，都快伸手揪住店员了。",
+            "ChoiceDataList": [
+                "（反正稻荷一现在不在……）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就算我介入调解也不用怕牵扯到她吧。\n我介入他们之间，开口要他们先冷静下来。",
+            "ChoiceDataList": [
+                "那个，可以冷静一点说话吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "男性客人",
+            "Text": "啊！？你是谁啊！与你无关就别插嘴！\n还是怎样？你要替他──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "喔，小哥！\n不错不错，真是血气方刚啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……对方将发怒对象转向我的瞬间，\n有个小小的身影窜入我的眼前。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "你说的我都听到了。不过光是抱怨也没用，\n干脆堂堂正正来场对决解决这件事吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "如果决定较量一场，事后就不能有怨言！\n来，开始吧！要比谁跑得快吗？还是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "男性客人",
+            "Text": "……啊？你、你在说什么莫名其妙的话……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "不用担心！由稻荷大人担任裁判！\n赶紧来分出胜负吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "男性客人",
+            "Text": "……我、我并不是想跟他较量……\n啊……嗯，那个，我只是有点激动了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "什么嘛，还以为你们想较量一下呢，我太早下定论了！\n抱歉啊，小哥！原谅我吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "男性客人愣了一下，然后看着稻荷一的笑脸，\n深深吸了一口气……看来他冷静下来了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "男性客人",
+            "Text": "……别这么说，是我的错。因为是要给女朋友的礼物，\n所以火气大了一点。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "男性客人",
+            "Text": "店员，还有那边那位……真抱歉。\n还有……谢谢你阻止我。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "喔，大哥！敢在那种时候出声，\n还挺有种的嘛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "喔，大姐！敢在那种时候出声，\n还挺有种的嘛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "明明也可以装作没看见的，真是了不起！",
+            "ChoiceDataList": [
+                "你也很帅喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "别说了，羞死人！\n嘿嘿，不过被你称赞感觉还不坏。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "要是那时稻荷一没有介入，\n或许事情早已一发不可收拾了吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "不过，虽然那个男客人在她介入后有冷静下来，\n但要是当时他气到失去理智……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "嗯？怎么了，一直盯着我瞧。\n我的脸上沾了什么吗？",
+            "ChoiceDataList": [
+                "我希望你别做危险的事"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "要是她没介入，最后可能会是我被卷入纠纷中，\n但即使如此我还是不想让稻荷一碰到危险。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "嘿嘿，还在想你的表情怎么那么凝重呢……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "少废话，大傻瓜！！\n那是我要说的话好吗！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "真是的，大哥你也太善良了吧。\n不可以一个人背负一切！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "真是的，大姐你也太善良了吧。\n不可以一个人背负一切！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "你是在担心，要是刚刚发展成打架会有危险吧？\n可是我插手总比你被人揍好多了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "因为比力气还是我这个赛马娘比较强悍，\n所以全都交给我就对了！",
+            "ChoiceDataList": [
+                "可是……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "之前你迷路的时候，是我为你带路的呢。\n而今天换你为我介绍了很多店。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "我再说一次，把耳朵掏干净好好听着，\n你不用一个人背负一切！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "依照各种情况，让有办法的人去处理就好。\n这就是所谓的“人尽其才”，对吧？",
+            "ChoiceDataList": [
+                "是这样没错啦……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "大哥的个性太认真了啦！……啊，\n太阳公公也要下山了呢，回去吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "大姐的个性太认真了啦！……啊，\n太阳公公也要下山了呢，回去吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "（稻荷大人我啊，\n很清楚大哥个性认真，总是真心投入。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "（稻荷大人我啊，\n很清楚大姐个性认真，总是真心投入。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "（所以也知道你很容易鲁莽行事！\n嘿嘿，不好好看着你的话我会提心吊胆的！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "好啦，跟后辈们聊聊今天的事好了！\n就说“稻荷大人的训练员介绍了很多好店”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "稻荷一又拍了拍我的背，豪迈地笑了起来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

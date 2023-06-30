@@ -1,0 +1,628 @@
+{
+    "Title": "抽奖试手气！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我和八重无敌来商店街购买日用品时，\n发现那里围了一群人。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "看起来很热闹呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "看过来看过来，现正举办新春大抽奖～！\n特等奖可是“温泉旅游券”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "温泉旅游券"
+            ]
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "一等奖是“特等胡萝卜汉堡排”，\n二等奖是“一整堆胡萝卜”，\n三等奖则是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "来喔来喔，是好玩的抽奖活动喔！\n任何人都可以来抽喔～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "原来是抽奖活动啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "喔，那边两位客人，\n你们刚买完东西吧？手上应该有抽奖券吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "抽奖券……\n刚才确实有收到。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "那就来抽奖吧！",
+            "ChoiceDataList": [
+                "机会难得，去抽抽看吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "嗯……我也不想浪费这张券。\n不过……",
+            "ChoiceDataList": [
+                "怎么了吗？",
+                "怎么了吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "……其实我以前曾因为无法接受抽奖结果，\n乱发脾气破坏了抽奖机。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "之后我在家乡就被禁止抽奖了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "我不太习惯抽奖，\n不晓得能否冷静接受结果……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "训练员。不介意的话，\n我想和你一起抽！",
+            "ChoiceDataList": [
+                "我知道了！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "感谢。那么──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我和八重无敌一起缓缓转动抽奖机的把手。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "结果是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "天啊！恭喜────！！\n抽到特等奖“温泉旅游券”了～～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "特等奖……！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "……嗯嗯…………\n……呼。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "──真是幸运。",
+            "ChoiceDataList": [
+                "不对不对！你可以再开心一点吧！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "不！如果任凭感情摆布，\n就证明自己还不够成熟！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "无论何时都要贯彻平静！！",
+            "ChoiceDataList": [
+                "不需要压抑自己的喜悦！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我向她说明可以尽情展现出喜悦，\n只要别失去分寸给人添麻烦就没关系。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "……是、是这样吗……？\n我可以表露出内心的兴奋和感动吗……？",
+            "ChoiceDataList": [
+                "一起表现出喜悦吧！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "一起……！\n既、既然如此……！",
+            "ChoiceDataList": [
+                "──预备～！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "特、奖、万、岁！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "训练员，不嫌弃的话，\n这张“温泉旅游券”就给你用吧。",
+            "ChoiceDataList": [
+                "咦？但那是用你的抽奖券……",
+                "咦？但那是用你的抽奖券……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "看训练员的步伐，\n能看出你脖子、肩膀和腰的动作不太顺畅。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "你的肌肉应该太僵硬了？\n建议你泡温泉疗养。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "八重无敌没有看错，\n我的确觉得肩膀和腰很僵硬。\n不过我表示她应该也很累──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "我的身体非常健康。\n多亏了训练员的指导，\n我并没有累积疲劳。",
+            "ChoiceDataList": [
+                "但偶尔还是要放松一下",
+                "但偶尔还是要放松一下"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "八重无敌对自己非常严格，\n像她这种自律的类型\n特别需要放松。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "……嗯，在温泉修行也是种乐趣。\n或许去转换一下心情也不错。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "幸好这张旅游券可以招待两个人，\n不然这样好了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "等比赛告一段落后，\n我们就一起用掉这张“温泉旅游券”如何？",
+            "ChoiceDataList": [
+                "就这么办！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "感谢你答应得如此爽快。\n那么这张券就先交给训练员保管吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "…………呵呵，真令人期待。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我和八重无敌之间\n又多了一个令人期待的约定！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "恭喜抽到一等奖～！\n奖品是“特等胡萝卜汉堡排”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "……这、这个胡萝卜汉堡排……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "──训练员。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "要配饭。",
+            "ChoiceDataList": [
+                "……咦？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "要配饭。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "我以前吃过这个胡萝卜汉堡排。\n是家里收到的新年礼物。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "味道浓郁的日式多蜜酱非常下饭！\n让人一下就把饭吃光了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "只带胡萝卜汉堡排回去，\n还算不上做好万全的准备。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "还要买米回去！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在八重无敌的强烈建议下，\n我们也买了米回去。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "（……嚼嚼嚼嚼嚼嚼）",
+            "ChoiceDataList": [
+                "吃起来……好下饭……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "没错。\n这个特等胡萝卜汉堡排搭配白米饭，\n真是让人大饱口福……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "日式多蜜酱，了不起！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "多亏了八重无敌，\n我们尽情地享用了\n特等胡萝卜汉堡排和白米饭！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "二等奖～！！\n奖品是“一整堆胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "居然有这么多……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "两个人实在是吃不完。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "……训练员，\n冒昧请问一下。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "我平常很少和朋友交流，\n希望你能给我一些建议……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "如果做胡萝卜料理送给学校的朋友当慰劳品，\n会不会显得失礼呢……？",
+            "ChoiceDataList": [
+                "嗯，不会喔！",
+                "嗯，不会喔！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "这样啊……！\n那我就做料理请千代王和阿尔丹吃吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "嗯～真好吃！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "八重，谢谢你请我吃美味的胡萝卜料理！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "每一样都很好吃呢。\n我特别喜欢这道调味清淡的胡萝卜炊饭。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "…………！\n幸好合你们的口味。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "胡萝卜是营养价值很高的蔬菜……\n我一获得大量胡萝卜，\n脑中就浮现两位的脸。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "我也觉得自己太多管闲事。\n但我实在太期盼与两位一起比赛，\n还请原谅我的任性。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "哎呀……谢谢你。\n呵呵呵，我很开心喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "嗯嗯！这正好符合一句格言，\n“雪中要送炭，放晴要送胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "…………？……我好像听过类似的话……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──先不管有没有这句格言。\n八重无敌用来慰劳两人的胡萝卜料理，\n让她们吃得开心又满意。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "三等奖～！\n奖品是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "──嗯。一根胡萝卜……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "做成酱菜吧。\n这样不仅能适度补充盐分，\n还能当成锻炼时的零食。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "搭配饭团还能做成便当。",
+            "ChoiceDataList": [
+                "真是个好主意！",
+                "真是个好主意！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "我自己也觉得是个好主意。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "这胡萝卜看起来很鲜嫩，\n应该不用腌太久。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "如果训练员不介意，\n可以麻烦你帮忙试吃吗？\n我会在训练时带过去。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "隔天，我和八重无敌在训练空档\n一起享用她做的酱菜。\n咸度恰到好处，滋味相当美味！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "很可惜，没抽中！\n参加奖是“卫生纸”喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "……………………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "……原来如此。\n这是赋予我的考验吧。",
+            "ChoiceDataList": [
+                "考验？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "是在测试我面对难以接受的结果时，\n是否仍能保持平常心吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "咦咦咦～！？\n我完全没有这个意思！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "呵，不用隐瞒。\n这本来就是我不好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "即使面对这个屈辱的结果，\n我也会努力保持平常心接受！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "吸…………\n呼……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "没有人会觉得收到卫生纸很困扰……\n这奖品适合所有族群……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "呵……如果只看张数，\n等于我用一张抽奖券换到了更多的纸……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "这只能用幸运来形容！\n还有…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "总觉得她还是稍微失去了平常心……\n虽然八重无敌勉强保持冷静，\n但始终不断散发出不甘心的气息。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

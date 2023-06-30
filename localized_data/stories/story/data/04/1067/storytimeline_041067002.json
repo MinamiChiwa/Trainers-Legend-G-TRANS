@@ -1,0 +1,387 @@
+{
+    "Title": "意外的邀请",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "某天的体育馆里。代表目白家的其中一名赛马娘──\n目白麦昆在此发表声明。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "各位在校生，以及平时照顾我们的各位训练员。\n今天，目白家有事情要宣布。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "不久之后，目白家要在自家举办敦睦交流的派对。\n希望大家可以穿着便服随意来参加。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新人训练员A",
+            "Text": "哦～由目白家举办的便服派对啊。\n真的很感激他们经常主办各种活动呢。你也会去吧？",
+            "ChoiceDataList": [
+                "嗯，会吧……",
+                "是，会吧……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新人训练员A",
+            "Text": "那到时候会场上见了。啊，对了，你知道吗？\n上次里见光钻的训练员征选的结果……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新人训练员A",
+            "Text": "──据说没有任何人获选。\n不知道他们接下来打算怎么办呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "到了派对当天。\n我在会场看见正热衷于多人游戏的里见光钻和北部玄驹。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "咦咦咦，黑白棋是角落被占走就会输的游戏吧？\n那小钻怎么还下在那个位置啊！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "嗯，四个角落被占走就会输没错。\n既然大家都这么认为的话──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "我就要破除这个魔咒！\n我一定会破除这个传说，成为赢家！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "唔哇，又开始了！小钻的破除魔咒模式！\n每次只要进入这种模式──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "对弈的结果──是里见光钻获得压倒性胜利。\n这让我看见她有别于文静千金的另外一面。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "魔咒──看来她似乎遇到类似迷信的事物时就会想将之破除。\n正当我在琢磨她的个性时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "那个……可以稍微打扰一下吗？\n我们曾经在赛场上见过面吧？",
+            "ChoiceDataList": [
+                "里见光钻……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "你当时有来看我的模拟赛对吧？\n那个……我有点事情想要问问你～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "训练员征选，你为什么没有来参加呢？\n我本来以为你会有兴趣的……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "请问我不符合你期望的部分是什么呢？\n……是不是觉得我资质不够好呢？",
+            "ChoiceDataList": [
+                "没有这回事喔。因为……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我忍不住说出了心中的想法。我虽然觉得她资质很好，\n但自己只是平凡的训练员，实在觉得高攀不起。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "高攀不起……但这也只是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "呵呵，提不起勇气这点我可以理解，\n但畏惧到这种程度就未免太过头了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "啊，麦昆♪\n你好，来你家打扰了～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "你好。里见，以及年轻的训练员，欢迎你们。\n介意我参与你们的话题吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "里见集团的确是相当知名且规模庞大的企业，\n但也绝不是难以亲近的对象。会特地举办训练员征选──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "也是因为他们“格外慎重”的关系。\n里见，我说得没错吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "……是的，你说得没错。寻找合适的训练员，\n也等于是寻找一个能寄托我的梦想和里见家宿愿的人。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "里见家──虽然还只是新兴企业，但对赛马娘的竞赛文化\n抱持着深厚的情感，也希望能为将来的发展尽一份贡献。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "协助营运、慈善事业等等，我们在各方面都投注了努力，\n但我们的资历不比目白家，还未能做到“某个最重要的贡献”。",
+            "ChoiceDataList": [
+                "最重要的贡献？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "是，也就是──“从我们家族里大量培育出\n能够赢得GⅠ竞赛的知名赛马娘”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "这是赛马娘业界独有的文化。若能培育出大量知名赛马娘，\n那将会成为任何事都难以取代，最重要的贡献呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "亲自背负这个重大期望的期待新星就是她，这位里见光钻。\n训练员征选会，也是为了找到能够协助并支持她的人而举办的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "里见集团这么做不是为了要居高临下，\n而是他们真的非常迫切地需要这样的人，没错吧？里见。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "……是的。一切都是为了完成家族的宿愿。\n所以我才想用各种方式，找到能和我一起背负这个梦想的人。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "训练员，请你告诉我，你对我的表现有何看法？\n我真的很在意那天你有话想说的眼神。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "她的表情看起来非常认真。耿直的眼神，\n诉说着她仅是为了实现目标而想知道答案……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我要是拒绝回答就太失礼了。我决定先如实地赞赏她的才能──\n并将我认为她接下来需要克服的问题告诉她。",
+            "ChoiceDataList": [
+                "首先，你认真与人竞争的经验还不够"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "认真竞争……？那指的是什么样的……？",
+            "ChoiceDataList": [
+                "在比赛时，你是不是因为四周的压力而苦恼？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "啊，我在模拟赛的时候……确实感受到迷惘没错。那种\n从来不曾感受过的被锁定的焦虑，让我有种无法自由发挥的感觉。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "但我从小就都有跟一起训练的人交待过，\n“并跑练习的时候一定不能对我放水”。",
+            "ChoiceDataList": [
+                "即便如此，大家还是对你有顾忌吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "……我懂。这就是出身差距的问题吧。因为多了一层\n主仆的关系，就算对方不觉得有放水，却也做不到强势压制……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "原、原来如此～这我还真的没有想过……！\n所以我才会从其他选手身上感受到压力……！",
+            "ChoiceDataList": [
+                "还有一个问题，那就是你太容易失去冷静了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "咦……失去冷静？这好像是第一次有人这样跟我说……\n那是指怎么一回事呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我把自己在比赛中观察到的事情告诉她。比赛中期，\n还需要忍耐的时候，会因为跟一旁选手的竞争而加快步调。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "那就是失去冷静而导致的。\n那是藏在她千金身份底下，她最真实的个性。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "──！？那时候我的确因为想要到更前面的位置，\n脚一直蠢蠢欲动的……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "但我还是立刻就忍下来了。明明有忍住的……\n仅仅一瞬间的步调加快，你却……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "你……到底是何方神圣呢？\n仅仅一场比赛就让你对我的状况了若指掌……",
+            "ChoiceDataList": [
+                "那是因为我真的被你的表现给深深吸引住了",
+                "那是因为我真的被你的表现给深深吸引住了哟"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "因为深受吸引，所以才能瞬间就看到她的长处与短处。\n虽然我对她的家族不了解，却瞬间就看透了她的本质。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "从来……从来都没有人对我说过这些话。\n就连那些来参加征选的人……而你却──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "呵呵，恭喜你。\n这场派对让你遇到了一个好的人选呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "里见，不如也让他参加征选看看？\n或许里见集团的其他人会看上他──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "──录取了。",
+            "ChoiceDataList": [
+                "……咦？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "录取了！你就是……你就是我的训练员！\n是我一直在寻找的唯一的存在。所以录取了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "咦咦？里见！？你应该明白吧？\n你的训练员对里见集团来说是多慎重的一件事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "不应该凭感觉就这样仓促做决定！\n还是先回去跟大家好好商量──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "不，我已经决定了。就算是被我尊敬的麦昆劝说，\n唯独这件事，我是绝不会改变心意的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "我的训练员就是他！只有他能胜任。\n虽然照理说这件事应该需要慎重商量，但──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "需要获得全家族的同意──一定也是个魔咒。那不如相信直觉，\n破除这个魔咒！无论谁说什么，你就是我的训练员！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "决定了，我已经决定好了。\n你会接下这份工作吧？对吧？会吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "有别于文静千金的印象，她的态度相当坚定。\n在我点头答应之前，里见光钻迟迟不肯松开我的手。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

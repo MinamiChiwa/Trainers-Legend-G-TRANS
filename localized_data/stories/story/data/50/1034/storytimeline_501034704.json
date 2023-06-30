@@ -1,0 +1,304 @@
+{
+    "Title": "作为伙伴",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我跟稻荷一外出，\n来到了附近城镇时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "喔，也差不多饿了吧？\n得吃点东西了呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "……对了，之前也发生过同样的事呢。\n记得吗？吃豆皮寿司那天。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "要不要像上次一样买些好吃的东西，\n选个风景优美的地方，\n共度一段美好时光啊？",
+            "ChoiceDataList": [
+                "好是好，可是你对这里熟吗？",
+                "好是好，可是你对这里熟吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "不，我不熟，不过不用担心。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "你就跟我来吧。\n我保证能找到好吃的东西。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我们走在街上寻找店家时，\n稻荷一在一家古色古香的团子店前\n停了下来。",
+            "ChoiceDataList": [
+                "要选这家店吗？",
+                "要选这家店吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "是啊。虽然这附近有不少老店，\n但这家店连店门口都打扫得干干净净。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "而且把“御手洗团子”\n大大地写在招牌上，也让我很中意。\n这代表店家对自己做的东西很有自信！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "眼光真是犀利……\n我相信稻荷一的大力推荐，\n买了那家店的团子。然后──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "喔，这里的风景挺不错的嘛！\n陌生城镇的景色也挺棒的呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "就在这里把团子拿出来吃吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小男孩",
+            "Text": "呜呜……呜呜……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "嗯？怎么啦，小朋友？\n怎么哭哭啼啼的？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小男孩",
+            "Text": "我跑出来探险后，\n就不知道怎么回家了……\n我才刚搬来这里……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "真是，给我振作一点。\n一直哭哭啼啼\n只会更沮丧而已喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小男孩",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "怎么，肚子也饿了吗？\n原来如此，\n难怪你会这么不安。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "──好乖好乖。我刚好有好吃的团子。\n快吃吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "怎么样？\n吃饱就比较有精神了吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小男孩",
+            "Text": "嗯……谢谢你，姐姐。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "喔，不哭啦。真了不起！\n接下来该回家了。\n你知道住址吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小男孩",
+            "Text": "嗯……我有写着地址的纸条。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "你爸妈还挺贴心的嘛！\n既然这样，只要靠稻荷大人的脚，\n把你咻地送回去就好啰！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "那么训练员。\n我要送他回家长那，\n等我一下喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──说完，\n稻荷一便背着男孩子跑走了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "稻荷一把团子给了小男孩，还送他回家。\n而我却只能枯等她回来，\n这样实在说不过去──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "好了，让你久等了！\n我把他平安送回家了！",
+            "ChoiceDataList": [
+                "……肚子饿不饿？",
+                "……肚子饿不饿？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "你在讲什么啊？\n别这样，不用担心我啦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "看到那男孩的笑容，\n我的肚子就饱──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "……哎呀。真是难看。",
+            "ChoiceDataList": [
+                "吃这个吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "……嗯！？\n这不是那家店的团子吗！？\n难道你又跑去买了？",
+            "ChoiceDataList": [
+                "什么都不做等你回来实在说不过去"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "虽然你说得一派轻松……\n从这里到那家团子店，\n有一大段距离吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "……哼。明明勉强自己还一派轻松。\n看来你也变得很潇洒了呢。",
+            "ChoiceDataList": [
+                "这都要感谢大姐！",
+                "来度过一段美好时光吧",
+                "别废话了，这点事根本不算啥！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "少胡扯！别说了，有够难为情！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "……不过啊，\n这下我知道了，\n你已经是我最棒的伙伴了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "嘿嘿嘿。真是的！不知不觉中\n你的背影居然变得这么可靠！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "说完，稻荷一像在戏弄我一般，\n拍了拍我的背。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "对喔。嘿嘿，\n本来都说好要让你吃到好东西的。\n却因为我自己的缘故差点爽约了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "男孩的笑容，\n加上训练员的人情味。\n这团子当然是世上最好吃的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就这样，我与稻荷一吃着团子，\n并创造了美好的回忆。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "喔，气势真强！\n真令我感动。不过……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "说完，\n稻荷一突然戳了戳我的小腿肚！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "呵，根本抖个不停嘛。\n看招看招！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "嘿嘿嘿。看你这么累，\n就先吃点甜食休息一下吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "今天我们两个都辛苦了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

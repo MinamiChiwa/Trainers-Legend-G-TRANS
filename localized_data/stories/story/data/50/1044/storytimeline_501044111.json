@@ -1,0 +1,471 @@
+{
+    "Title": "孕育未来之人",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "在跑完闪耀系列赛，\n比赛已经告一段落的某一天──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我为了达成东商变革一直以来的愿望，\n而把她的祖母带来学园。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "祖母，欢迎你来！！\n这里就是我就读的学园！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "变革的祖母",
+            "Text": "啊哈哈，\n每个地方都让人觉得很怀念呢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "变革的祖母",
+            "Text": "也要谢谢训练员特地为我带路，\n连交通方式都帮我设想好了……",
+            "ChoiceDataList": [
+                "这没什么，你太客气了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "真是的。祖母，不要停下脚步！\n我还想介绍其他人给你认识！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "变革的祖母",
+            "Text": "哦？要介绍人给我认识吗？\n是什么样的人呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "等下见到就知道了！\n哼哼，往这边走♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "祖母，你看！！\n她们是我的弟子！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "变革的祖母",
+            "Text": "哎呀……Sweepy！\n你收弟子啦？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "嗯。\n你们快点和祖母打招呼！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "水蓝色缎带的赛马娘",
+            "Text": "初、初次见面！你好！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "您孙女非常照顾我～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "喂，现在是怎样！？\n我们什么时候成了\n变革的弟子啊！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "伏特加！嘘！\n变革的祖母还在这里耶。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "变革是想让祖母看到自己威风的一面。\n这么简单的事都不明白？\n配合一下啦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "喂～！\n你们两个啰哩啰嗦的吵死了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "变革的祖母",
+            "Text": "呵呵，Sweepy，有什么关系！\n也是因为作为师父的魔女心胸宽大，\n弟子们才会这么有精神啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "变革的祖母",
+            "Text": "各位，\n谢谢你们愿意和Sweepy当好朋友。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "不，我才要说谢谢！\n而且……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "好了啦～不要再站着聊天了！\n接下来要让祖母看看\n大家一起赛跑的样子！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "使魔，\n你负责帮祖母找一个最好的座位！",
+            "ChoiceDataList": [
+                "我知道了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "变革的祖母",
+            "Text": "呵呵……\n看来Sweepy交到了许多朋友呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "变革的祖母",
+            "Text": "……我似乎已经不需要替她担心了。",
+            "ChoiceDataList": [
+                "你很担心她吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "变革的祖母",
+            "Text": "是啊。我一开始很担心，\n不知道她是否能够适应学园生活。\n她的个性比一般人直率，也比一般人怕生对吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "变革的祖母",
+            "Text": "所以我本来想说，\n可能会有人因此误会她。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "变革的祖母",
+            "Text": "但看来是我白操心了。\n那孩子的周围──\n已经聚集了这么多同伴。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "变革。\n你今天要和大家一起训练吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "对啊，英雄也要加入吗？\n我们接下来要跑一圈来决胜负！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "……决胜负。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "当然要，我立刻去换衣服！\n……因为我也想赢过你。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "咦！？\n英雄也要加入吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "突然就要和最顶尖的两个人赛跑，\n我根本就来不及准备……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "喔，赤骥怕了吗？\n我是完全没问题。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "唔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "嘿嘿，因为我将会是拿下打比的赛马娘。\n和那两个人的比赛，\n正好适合当成前哨战！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "什么……我也一样！\n我也有自己的目标──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "（………………偷瞄）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "嗯？赤骥，看我干嘛？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "好了，各位！\n如果再吵下去，\n我就要用拳头让你们安静啰！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "呼……呼……\n我准备好了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "好快！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "那就各就各位！\n准备开跑啰，预备……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "开始！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "两人",
+            "Text": "呼……呼……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "第一名──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "她的加速也太夸张了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "呀！？出现紧急伤患了！\n伏特加，我来背你！\n我立刻送你去保健室！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "川、川上！？\n你放心。伏特加应该只是\n因为运动造成乳酸堆积而已……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "变革的祖母",
+            "Text": "嘻嘻嘻！Sweepy！\n你收了一群个性相当丰富的弟子呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "祖母！\n对呀，我很有一套对吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "不过大家都还有很大的成长空间，\n我会好好锻炼她们！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "变革的祖母",
+            "Text": "哎呀，Sweepy拟定的特训，\n感觉会非常严格呢。\n我好担心你的弟子们会因此落荒而逃呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "唔……！赤骥！\n你会逃跑吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "为、为什么先怀疑我！？\n…………唉。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "……虽然这只是假设，\n但如果真的有人成为她的弟子，\n应该是不会逃跑吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "因为变革其实很温柔，\n而且是个值得尊敬的赛马娘。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "我也想像她那样，在大奖赛中获胜。\n我想跑出一场最棒的比赛，\n在大家心中留下深刻的印象。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "大奖赛"
+            ]
+        },
+        {
+            "Name": "变革的祖母",
+            "Text": "喔……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "变革的祖母",
+            "Text": "这样啊。\n看来Sweepy真的收了弟子呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "祖母，你已经要回去了吗～！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "变革的祖母",
+            "Text": "嗯，很可惜，\n列车已经要到了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "变革的祖母",
+            "Text": "不过Sweepy，\n你不需要感到寂寞。\n下次换你来我家玩吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "变革的祖母",
+            "Text": "你也可以把朋友、弟子和训练员\n全都带过来！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "咦！？真的吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "变革的祖母",
+            "Text": "嗯，当然是真的。\n我会先把家里收拾干净等着。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "变革的祖母",
+            "Text": "然后──就像栽培弟子一样，\n往后你也要看着\n“赛跑魔法”的成长。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "变革的祖母",
+            "Text": "你用赛跑魔法改变了世界。\n就像你改变了刚才那个女孩一样。\n好好负起责任见证一切，这样才算魔女。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "唔……？嗯……？",
+            "ChoiceDataList": [
+                "她的表现也会流传到次世代的"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "变革的祖母",
+            "Text": "哈哈哈……那就麻烦你了。\n训练员，只要有你在，\n我就放心了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "变革的祖母",
+            "Text": "Sweepy，下次见。\n你要尽情享受当下喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东商变革",
+            "Text": "那当然了，祖母！\n呵呵，再见了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "东商变革的祖母离开时，\n不断回头向我们致意。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我和东商变革站在一起，\n朝她的背影不停挥手。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

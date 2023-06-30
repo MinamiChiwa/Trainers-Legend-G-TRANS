@@ -1,0 +1,31 @@
+{
+    "Title": "这次一定要获胜！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "──时间差不多了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "程序已经重写好了，\n应该不会再像之前那样发生问题。",
+            "ChoiceDataList": [
+                "期待你有好表现"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "与其期待这个，不如想想下一场比赛的事。\n因为比赛结果已经计算出来了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

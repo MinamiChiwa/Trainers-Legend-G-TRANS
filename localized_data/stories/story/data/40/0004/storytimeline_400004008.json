@@ -1,0 +1,310 @@
+{
+    "Title": "最强是为了某人存在",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "乙名史记者写的贴身采访报导\n出乎意料地广受好评！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "行人A",
+            "Text": "哦？原来<chrname>的训练员\n替她设计这种训练法啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "行人B",
+            "Text": "虽然之前谣传他的训练方式非常斯巴达，\n但这下对他改观了呢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "每刊出一篇新的报导，\n莫名其妙的谣言就逐渐消退一些。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我与<chrname>及乙名史记者\n一同全力冲刺的时光\n转眼间稍纵即逝──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "这么晚还在工作，真是辛苦了。\n你在思考参赛计划吗？",
+            "ChoiceDataList": [
+                "你也辛苦了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "我只是在做自己想做的事而已。\n……不过，今天的目的\n跟平时的贴身采访不太一样。",
+            "ChoiceDataList": [
+                "呃？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "我前一刻才收到联络。\n已经确定你们可以参加\n“闪耀明星巅峰赛”了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "……恭喜你们！！",
+            "ChoiceDataList": [
+                "谢谢你！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "终于……成功了呢！\n请告诉我你现在的心情！",
+            "ChoiceDataList": [
+                "我一直相信她一定能够参赛"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "嗯嗯，无可动摇的自信……！\n也就是说，你们绝不会\n将“最强”名号拱手让人呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "机会难得，我想拍张照片……\n请问方便以训练赛道为背景\n拍张照片吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "好！\n这样就可以了，谢谢你！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "尽情使用无人的赛道\n拍到了好照片呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "多亏如此才能顺利拍到\n训练员在赛道上全力狂奔的\n珍贵照片！",
+            "ChoiceDataList": [
+                "你突然说要并跑练习，害我一时慌了手脚呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "我想说这样更能拍出临场感……\n呼，好像很久没使出全力跑步了。",
+            "ChoiceDataList": [
+                "你的脚程真快呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "呵呵，是吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "……今天的采访也结束了，\n要不要闲聊一下呢？",
+            "ChoiceDataList": [
+                "没问题"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "谢谢你。\n那我们就一边眺望着赛道吧──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "──这次就慢慢地跑吧！",
+            "ChoiceDataList": [
+                "什么！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "乙名史记者如她所说的，\n慢慢地绕着赛道跑步，并继续刚刚的话题。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "刚刚你称赞我脚程快对吧。\n的确，我在乡下老家\n算是跑得满快的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "小时候我也曾经为此自豪。\n不过，有一天──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "有位赛马娘转学到\n我就读的班上。",
+            "ChoiceDataList": [
+                "赛马娘……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "当然了，那孩子的脚程之快！\n我根本追不上她，甚至碰不到她的尾巴。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "从此我就再也不碰田径了。\n身为人类还妄想赢过赛马娘，\n真是太愚蠢了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "乙名史记者逐渐加快速度。\n我得用尽全力才能跟上她的脚步……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "我再怎么努力都赢不了她！既然如此，\n我想看到她被认可为“最强”的赛马娘！\n那时我一直抱着这个贪心的梦想！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "她真的非常强！\n虽说那只是幼儿竞赛俱乐部，\n但她当时跑了好几次第一名！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "但是……！\n呼……呼……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "跑过终点板后，\n乙名史记者突然停下脚步。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "……那孩子没能获得某场大比赛的第一名。\n她就因为这样而无法当上\n俱乐部中的“第一名”选手。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "从那时起，她的命运就改变了。\n她是真的很有实力的。资质跟成绩可能\n都是俱乐部中最好的。然而……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "……最后那孩子决定\n放弃继续走上竞赛之路。\n虽然这种事可说是司空见惯啦。",
+            "ChoiceDataList": [
+                "司空见惯……吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "是啊，常有的事。\n仅仅一次输赢就决定了命运。\n甚至也有人因此断了未来的道路。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "不过，我……至今还是认为\n那孩子才是世界上脚程最快的选手。\n我无法压抑这个想法。",
+            "ChoiceDataList": [
+                "……所以你才要举办新竞赛？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "当然这不是唯一的原因。\n不过，说起来……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "我想，现在我之所以会以记者的身份，试图让\n全世界见证到我心中深信的“最强”模样，\n一定也是因为她的关系。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "我想尽量让更多人见识到。\n真正有实力的赛马娘证明\n自己有多强劲的瞬间。",
+            "ChoiceDataList": [
+                "所以你才想尽量招揽更多观众啊"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "是的。\n“闪耀明星巅峰赛”就是\n我的另一个梦想。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "虽然第一个梦想已经无法实现了……",
+            "ChoiceDataList": [
+                "这次一定会是一场精彩的比赛"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "一定会的！\n毕竟我也一直在你们身边采访。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "……再次恭喜你们获选参赛。\n总觉得好开心，仿佛获选的是自己一样！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "“最强”选手出炉之日即将来临。\n我与<chrname>两人\n一路走来的这条路──",
+            "ChoiceDataList": [
+                "（是否真能通往梦想的前方呢？）",
+                "（是否真能通往梦想的前方呢？）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "唯有前进了。\n因为从我跟<chrname>约好要一起冲刺的\n那天起，梦想就已经开始了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,503 @@
+{
+    "Title": "抽奖试手气！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "跟目白善信一起跑完比赛后，\n在回程路上──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "咦？训练员，前面的人潮……\n难道有特卖会？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "看过来看过来，现正举办新春大抽奖～！\n特等奖可是“温泉旅游券”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "温泉旅游券"
+            ]
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "一等奖是“特等胡萝卜汉堡排”，\n二等奖是“一整堆胡萝卜”，\n三等奖则是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "来喔来喔，是好玩的抽奖活动喔！\n那位扎着头发的小姐，\n要不要来抽抽看呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "喔～抽奖吗～既然受到邀请，\n我可不能不回应。就来抽吧！",
+            "ChoiceDataList": [
+                "你有抽奖券吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "不用担心。刚才在高尔夫练习场结账时，\n我拿到了抽奖券。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "我……\n不把全部的抽奖券跟点数卡好好带着，\n就会觉得怪怪的。啊哈哈……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "在日常中如此精打细算，实在不像千金小姐，\n非常有目白善信的风格。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "那么我们两个一起合力转抽奖机吧。\n来，握好把手！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "抽奖派对，嘻哈～！！\n给我中大奖吧～！！！！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我们在嗨起来的同时，\n一起转动了抽奖机。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "结果是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "天啊！恭喜────！！\n抽到特等奖“温泉旅游券”了～～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "目白善信",
+            "Text": "温、温泉～！？天啊！！\n真的抽到了特等奖～！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "哎呀……以派对般的情绪抽奖后，\n居然真的抽到温泉派对了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "啊～我太过亢奋，\n整个人都不对劲了～！\n我要冷静、冷静……",
+            "ChoiceDataList": [
+                "恭喜你，太好了呢",
+                "恭喜你，太好了呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "嗯、嗯……虽然很开心，\n却也感觉到了一些责任呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "如果要去，我得好好安排才行。\n确定旅行目的地的资讯，\n做旅行计划表之类……",
+            "ChoiceDataList": [
+                "不用做这种事吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "咦，是吗……？我们目白家一起出门的时候，\n都是我在准备的……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "这样目白善信会无法放松。\n所以──",
+            "ChoiceDataList": [
+                "我禁止你做准备，你只管玩就好"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "只管玩就好！？呜哇，这也太棒了。\n可是这样好吗……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "碰到这种活动时，我总是有任务要做，\n只管玩的话我会静不下心吧……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "为了消解罪恶感，至少……\n对了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "这趟旅行，就当成我在闪耀系列赛\n留下好成绩后的奖励可以吗？\n这样的话……",
+            "ChoiceDataList": [
+                "嗯，当然好",
+                "嗯，当然好"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "好，就这么决定了！如果超级努力，\n就可以在温泉嗨翻天了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "啊啊啊，我又亢奋起来了……！\n好！我要努力，要拼了……！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "目白善信燃起斗志。\n在爆速领头的另一端，\n有了一个她要追寻的美好目标！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "恭喜抽到一等奖～！\n奖品是“特等胡萝卜汉堡排”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "目白善信",
+            "Text": "喔喔喔，拿到了超棒的东西！\n抽到肉汁超多汉堡排了～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "啊，这个汉堡排……虽然很好吃的样子，\n不过附的酱汁，味道好像有点太重了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "可以由吃的人自己调味吗？",
+            "ChoiceDataList": [
+                "要洒盐吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "嗯～这也不错，\n但只有食盐就太单调了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "啊，对了！欸，训练员。\n可以的话把你房间的厨房借我。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "不嫌弃的话，\n我很快就会准备好我的自创吃法的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "（滋滋滋滋……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "完成了！来，吃吃看吧。\n虽然只是随便用酱油跟洋葱调味而已。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "在催促下，我试着吃了一口。\n然后──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "味道如何？",
+            "ChoiceDataList": [
+                "清爽又美味！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "啊哈哈，对吧！虽然卖相不怎么样，\n相对的盐分比较少，很健康。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "那我也来吃吧。我也做了饭跟汤。\n不嫌弃的话就配着吃吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "速成的家常晚餐会。\n我们就这样享受了\n目白善信特制的汉堡排套餐。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "二等奖～！！\n奖品是“一整堆胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "目白善信",
+            "Text": "喔～抽到了不错的奖！\n量还真多！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "嗯～早知道会收到这么多，\n就开球车来了。",
+            "ChoiceDataList": [
+                "球车是？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "啊，就是高尔夫球车。\n如果有那种东西，就很好搬运了吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "不过，我没有高尔夫球车，也没有真正的车。\n有的话就能去兜风了，\n会很好玩吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "在那边幻想也没用，\n靠自己的力气搬吧！",
+            "ChoiceDataList": [
+                "我来帮忙，我们一起拿"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "可以吗……？\n我这个人，就是会忍不住自己处理……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "既然训练员这么说了，\n就接受你的好意吧。好，我们一起拿！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "就这样，我们把胡萝卜搬到训练员室，\n并决定先一根一根烤来吃了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "我吃，嗯、嗯……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "嗯～又甜又好吃！\n在劳力工作后特别美味！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "训练员也快点吃！\n得好好收下劳动的报酬才行。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我在催促下吃了一根，\n劳动之后，胡萝卜吃起来更加美味了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "三等奖～！\n奖品是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "目白善信",
+            "Text": "哎呀，只有一根吗～\n明明刚才那么声势浩大的说～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "算了。反正胡萝卜对我来说\n是幸运蔬菜。",
+            "ChoiceDataList": [
+                "幸运蔬菜……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "没错。训练员，仔细看看胡萝卜。\n你觉得它的形状像什么？",
+            "ChoiceDataList": [
+                "呃……火箭……之类？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "喔，答得好！没错，火箭！\n我就像火箭一样，\n一起跑就全力加速。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "从火箭般的起跑开始，以爆速领头获胜，\n这就是我的胜利模式。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "这么一想这奖品也不错！\n现在要来个正面思考！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "好了，我们边吃边走回去吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "奖品虽然不怎么样，\n但目白善信\n似乎不怎么在意的样子。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "很可惜，没抽中！\n参加奖是“卫生纸”喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "目白善信",
+            "Text": "呜哇……搞砸了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "那个……训练员。\n这种时候，要做的只有一件事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "遇上不想目睹的现实时，\n只有这招了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "爆速逃跑～！\n啊～我不想看我不想看，我不想承认～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "卫生纸什么的根本不存在～！\n可恶──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "……虽然嘴上不承认，\n目白善信还是老实地感到不甘心了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

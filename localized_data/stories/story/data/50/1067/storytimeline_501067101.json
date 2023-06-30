@@ -1,0 +1,547 @@
+{
+    "Title": "新年抱负",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "训练员！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "小钻的训练员！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "小钻"
+            ]
+        },
+        {
+            "Name": "光钻&北部",
+            "Text": "新年参拜，到时还请多多指教！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这是来自于两人充满热情的，今年的第一个请求。\n为了许下新年愿望，我们三人一同前往神社。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "嗯～～我要许什么愿望好呢。",
+            "ChoiceDataList": [
+                "难道不是在经典三冠获得胜利吗？",
+                "难道不是在经典三冠获得胜利吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "那是我自己要做到的事情。\n不应该来求神明\n帮我实现。",
+            "ChoiceDataList": [
+                "破除魔咒呢？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "我会凭自己的力量战胜魔咒的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "……每次都是像这样，\n到了要跟神明许愿的时候都不知道该求什么，\n每年都会烦恼很久……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "于是我向她提议，\n向神明宣示“今年的抱负”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "这是个好提议呢！\n既然都跟神明宣示了，\n就绝对没有不做到的道理了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "也就是必胜祈愿，不对，是必胜使命！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……看来她势必是要向神明立下一个\n非常沉重的誓言了吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "今年的抱负……\n只是跑赢经典三冠的话，这也太过理所当然了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "身为里见家的赛马娘，\n一个知名赛马娘应该要有怎样的表现……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "（我想要成为的模样──）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "（我应该要特别注重的事情……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "我要坚定自信地跑出能够自豪的表现。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "就像麦昆一样充满尊严与荣耀。\n我要展现里见家代表的气度，\n让所有人看见。",
+            "ChoiceDataList": [
+                "这很像你的作风，我觉得很好",
+                "这很像你的作风，我觉得很好"
+            ],
+            "ColorTextInfoList": [
+                "麦昆"
+            ]
+        },
+        {
+            "Name": "独白",
+            "Text": "跑出如同钻石般尊贵气度的表现。\n正因为是从小就接受一流教育的她\n才会有的抱负。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "小北，你看起来已经决定好了呢。\n那我们就一起跟神明许愿吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "小北"
+            ]
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "嗯……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "“春季资深三冠”……！我一定要好好表现，\n让更多的人为我加油！\n然后带给大家笑容！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "资深"
+            ]
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "我会跑赢“经典三冠”！\n身为里见家的赛马娘，\n我发誓会带给大家非常耀眼的表现！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "虽然她们的目标赛事不同，\n但彼此眼神中的光芒却是一样的──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在走到分岔路前都要并肩前进的态度，\n让我深刻感受到她们从小到大的好交情。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "嘿嘿！\n我现在也慢慢地越来越受到瞩目了喔！\n所以我要为了得到更多人支持，更努力表现！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "哎呀，我可是也要不负钻石之名，\n跑出让大家都为之倾倒的表现呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "唔……！我会比你先在\n“春季资深三冠”迷倒大家好不好！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "唔……等到我的“经典三冠”的时候，\n大家的注意力就会转到我身上了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "光钻&北部",
+            "Text": "唔唔～～～赢的人会是我！！\n唔唔～～～赢的人会是我啦！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "那就用新年对战来一较高下吧！",
+            "ChoiceDataList": [
+                "你们两个都冷静一点……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "训练员不用担心。\n新年对战是我们每年的惯例。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "用来一较高下是最适合不过的了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "两人都越来越激动，\n完全没有要停止对抗的意思。\n算了，既然是每年的惯例，应该不危险吧……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "对战的内容\n就由训练员来决定好了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "麻烦了！\n请一定要想一个能让我们全力决胜负的事情！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "能让她们两个都拿出全力\n又符合新年气氛的对决……",
+            "ChoiceDataList": [
+                "当长距离接力赛的啦啦队",
+                "在撒年糕仪式捡年糕",
+                "放风筝"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "说的是“新春赛马娘长距离接力赛”吧！\n现在这个时间的话……就快要经过这附近了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "比看谁更会加油是吧！\n那就交给训练员当裁判了！",
+            "ChoiceDataList": [
+                "好！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "啊，看到领先集团了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "加油啊────！！\n后面的人要追上来了！现在是关键时刻啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "可以的，一定可以追上的！！\n没错，就是这样！保持这个步调！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "领先集团的赛马娘们\n以飞快的速度跑过我们的面前。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "好，赶去下一个加油地点吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "接下来是上山路！",
+            "ChoiceDataList": [
+                "……什么！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "上坡的时候大家都一样辛苦！\n一定要撑住！不要输啊！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "现在最重要的是忍耐！\n一定不可以逞强，要维持住自己的步调！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "移动去下一个地点吧！",
+            "ChoiceDataList": [
+                "等等！？是要跟到什么时候……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "光钻&北部",
+            "Text": "最后一段路了────！！\n超前啊──────！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "活动实况",
+            "Text": "两队几乎同时冲过终点────！！\n直到最后一刻都互不相让！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "啊──好过瘾喔！\n流了好多汗呢～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "不小心跟着一起太兴奋了！\n──对了，啦啦队的胜负判决是……",
+            "ChoiceDataList": [
+                "…………唔！…………唔唔！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……看来不用担心她们会在新年期间变胖，\n真是太好了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "撒年糕仪式……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "那是会朝参拜客丢年糕的活动！\n所以我们是要比谁捡的多对吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "原来如此，\n所以只要捡很多年糕就可以了吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "撒年糕的工作人员",
+            "Text": "我──────撒！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（呀────！哇啊啊啊啊啊！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "感觉会掉很多在那边！\n冲啊────！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "咦？咦……呀！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "被……被人群给推出来了……\n赛马娘区跟一般大众区，\n两边都……挤满了人……",
+            "ChoiceDataList": [
+                "你在后面的地上找找看"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "大家的目光都集中在正要撒下的年糕上。\n落在比较远处跟接失败的年糕，\n意外地大家并没有特别注意到。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "啊，真的呢！\n后面的地上有好多喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "好──我一定要捡很多回来！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "嘿嘿嘿，捡到了好多呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "大丰收大丰收～哈啊～啊啊♪\n回去做成红豆汤来吃好了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "嗯！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我们在回程的路上买了红豆，\n回到学园后，三个人一起享用了很多红豆汤。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "放风“蒸”！听起来好像很好吃呢！\n所以是要比谁吃的多吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "啊──小钻。\n不是用蒸的，\n是要把风筝放到天上飞啦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "啊啊，原来是这样呀！\n那我有在电视上看过！\n比放风筝呀，感觉会很有趣呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "那我先过去那边放啰！\n我们两个谁放得比较好，\n就交给小钻的训练员来当裁判了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "因为里见光钻似乎没有放风筝的经验，\n所以我先示范给她看。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "嗯嗯……线要像这样控制……\n助跑的时候还要注意风向……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "喝啊啊────────！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "喝啊──────！！…………奇怪～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "奇怪了，怎么都放不起来啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "呵呵，接下来就换我啰！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "里见光钻轻轻地小跑步，\n风筝也跟着轻盈地飞上空中。\n她配合风向调整助跑方向得到了好结果。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "哇啊，小钻好厉害喔！\n好──我也要！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "嘿呀──────！！……啊！\n飞起来了飞起来了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "就等你放成功呢，小北！\n接下来才是要决胜负的时候！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "重视理论与技巧的里见光钻。\n凭着气势和韧性的北部玄驹。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "虽然双方因为个性不同而放法不同，\n但两人的风筝都恣意地在空中飘荡着。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

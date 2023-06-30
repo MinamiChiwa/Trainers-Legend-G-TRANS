@@ -1,0 +1,389 @@
+{
+    "Title": "通往甜点的路",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "啊～训练员！\n你也来买东西吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "来到甜点卖场买东西时，\n遇见了胜利奖券和雪之美人。",
+            "ChoiceDataList": [
+                "嗯，你们也是吗？",
+                "嗯，你们也是吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "嗯！我跟小雪一起来买\n“网美”甜点！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "耶嘿嘿……\n让券藏陪我来，真不好意思。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "我说起最近在意的甜点，\n她便约我一起来买。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "因为小雪在意的甜点，\n我也很在意！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "我们一定要买到“网美”甜点！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "于是，我们一起逛街。\n但是，越往里面走──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "不、不愧是甜点激战区……！\n人好多……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "我们要去的店……啊哇哇，\n好像在后面。怎么办……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "唔～～我想想──啊！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "之前晨光说过！\n“只要用逻辑思考，就没有不可能”！\n我们用逻辑想想办法吧！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "逻辑……？\n要、要怎么做？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "这个嘛！呃，呃──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "呃……\n唔～～～嗯……？？？？",
+            "ChoiceDataList": [
+                "……拟定策略？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "啊！！！！\n没错，策略──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "可是，要拟定什么策略……！？\n训练员有什么想法吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我再次看向人潮。\n应对这个情况的方法是──",
+            "ChoiceDataList": [
+                "快步穿过人群",
+                "看准人流的方向前进",
+                "等人潮消退"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "好，就这么办──！！\n我们快快往前走吧！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我们决定加快脚步穿过人群。\n但现场挤满了人，\n难以前进──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "呜呜……\n感觉完全无法前进……",
+            "ChoiceDataList": [
+                "是啊……",
+                "是呀……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "──小雪、训练员，这边！\n弯过那个转角！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "找到了～～～！！\n就是这间店对吧！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "啊……嗯，没错！\n我这就去买！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "刚才胜利奖券在人群中\n仍然毫不受阻地快步向前。\n我问她是怎么做到的──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "嗯～\n感觉就跟比赛一样吧……？",
+            "ChoiceDataList": [
+                "怎么说？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "例如在比赛时，\n只要想到“好，要加速啰～！”──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "就会觉得不管前方有什么阻碍，\n都一定要奋勇向前！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "也许这就是胜利奖券的信念，\n是她勇往直前的诀窍。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "太好了！！\n甜点！！！！顺利买到了！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "嗯♪\n多亏有券藏和训练员帮忙！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "对了，方便的话，\n之后一起吃吧？\n请让我答谢你们。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "可以吗！？\n……呜，小雪人好好～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "好，就这么办──！！\n看准人流的方向前进吧！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我们沿着人流前进、转弯。\n渐渐失去了方向感──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "咦，那间店在哪里……？\n是这边吗？还是那边……？",
+            "ChoiceDataList": [
+                "呃……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "两位，这边！！\n你们看，是那间店的招牌──！！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "啊……真的耶！！\n我这就去买！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "刚才胜利奖券不断往前，\n并未失去方向感。\n我问她是怎么做到的──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "嗯～\n感觉就跟比赛一样吧……？",
+            "ChoiceDataList": [
+                "怎么说？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "比赛的时候，总会有股直觉\n告诉自己胜负的关键“就是现在！”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "然后就神奇地不会迷失，\n一路奋勇向前！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "也许这就是胜利奖券\n在比赛的关键时刻\n能发挥实力的诀窍。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "太好了！！\n甜点！！！！顺利买到了！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "嗯♪\n多亏有券藏和训练员帮忙！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "对了，方便的话，\n之后一起吃吧？\n请让我答谢你们。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "可以吗！？\n……呜，小雪人好好～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "嗯嗯！只要等一等，\n总会有好走的时候！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "──话说回来，\n小雪在意的东西\n是叫做“网美”甜点吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "不过，“网美”是什么意思？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "佐敦也常常说到这个词，\n所以我一直很好奇──\n网美？完美……？唔～？？？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "我也不太清楚……\n但在网络上，\n好像是用来形容拍起来很美的东西！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "很美！？啊，所以才叫做“网美”啊！\n原来如此～！！小雪好博学！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就在我们闲聊的期间，\n人潮渐渐减少──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "你们看，好像变空旷了！\n现在应该很好走过去买吧！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "对耶！\n我这就去买！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "太好了！！\n甜点！！！！顺利买到了！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "嗯♪\n多亏有券藏和训练员帮忙！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "对了，方便的话，\n之后一起吃吧？\n请让我答谢你们。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "可以吗！？\n……呜，小雪人好好～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,77 +1,77 @@
 {
-  "Title": "0",
-  "TextBlockList": [
-    {
-      "Name": "",
-      "Text": "",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "里见光钻",
-      "Text": "ふむふむ……。\r\nなるほど……。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "北部玄驹",
-      "Text": "ダイヤちゃん、ずいぶん熱心だね～。\r\nなんの本を読んでるの？",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "里见光钻",
-      "Text": "『世界のジンクス大全』だよ、キタちゃん。\r\nちょっとしたものからちょっとしないもの\nまで、色んなジンクスが載ってるの。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "里见光钻",
-      "Text": "ふふっ。どれも破りがいがありそうで、\r\nわくわくしちゃうな～♪",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "北部玄驹",
-      "Text": "あははっ。ダイヤちゃんは相変わらず、\r\n新しいことに挑戦するのが大好きだね～！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "里见光钻",
-      "Text": "これなんか、特に面白そう。\r\n『お祭りで2人が待ち合わせすると、\nどちらかは迷子になる』ってジンクス。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "北部玄驹",
-      "Text": "おお～！\u3000お祭りなら、あたしに任せて！\r\n今度2人で挑戦してみよう！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "北部玄驹",
-      "Text": "――って。ダイヤちゃんとは何度も\r\nお祭りに行ってるけど、ジンクス以前に\nいつも迷子になってない！？",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "里见光钻",
-      "Text": "あれ？\u3000そういえば……。\r\nふふ、それに考えたら、\nこのジンクスは破るまでもないかも。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "北部玄驹",
-      "Text": "へっ？\u3000どうして？",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "里见光钻",
-      "Text": "だってキタちゃんは、私がはぐれたって――\r\nいつも絶対に見つけてくれるから♪",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    }
-  ]
+    "Title": "0",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "嗯嗯嗯……\n原来如此……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "小钻，你真认真耶～\n在看什么书？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "我在看“世界魔咒大全”喔，小北。\n上面记载了各种魔咒，\n从微不足道的到有点严重的都有。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "呵呵，每一种都很值得破除，\n真令人兴奋～♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "啊哈哈，小钻还是老样子，\n非常喜欢挑战新事物呢～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "这个魔咒特别有趣。\n“若两人相约在祭典碰面，\n必定有一方会迷路”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "哦哦～！祭典就交给我吧！\n下次我们一起挑战这个魔咒！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "──呃，我跟你去过好几次祭典，\n但先不说挑战魔咒，\n你平常就老是迷路了吧！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "咦？好像是呢……\n呵呵，这么一想，\n根本没必要挑战这个魔咒。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "咦？为什么？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "因为我走丢的时候──\n你每次都能找到我♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
 }

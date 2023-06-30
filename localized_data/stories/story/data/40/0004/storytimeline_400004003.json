@@ -1,0 +1,225 @@
+{
+    "Title": "开张！特别商店！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "某天，我经过贩卖部时，\n发现新增了一个没看过的特设卖场。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "卖场前插了写着“新装潢！”、“开张！”的\n旗帜，而一脸愉悦地眺望着旗帜的人是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "秋川理事长",
+            "Text": "极佳！成品非常棒！\n这下训练员一定也会很开心！",
+            "ChoiceDataList": [
+                "请问这是在做什么呢？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "秋川理事长",
+            "Text": "喔喔？你也在啊，\n<username>训练员！\n正好，请看！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "秋川理事长",
+            "Text": "为了各位训练员，\n这次利用贩卖部店内的空间……\n风光！！开张！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "秋川理事长利落地指向某个方向，\n上头写着四个字。",
+            "ChoiceDataList": [
+                "“特别商店”……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "秋川理事长",
+            "Text": "正是！本店将不遗余力提供精挑细选的\n“培育道具”！方便又好用！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "培育道具"
+            ]
+        },
+        {
+            "Name": "秋川理事长",
+            "Text": "为了帮助诸位赛马娘身心健全地成长！\n诚心！希望有所助力！",
+            "ChoiceDataList": [
+                "喔喔……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "秋川理事长兴致勃勃地介绍着商品，一开始\n我还带着佩服的心情听她介绍，但──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "秋川理事长",
+            "Text": "……所以呢，购物时不需使用现金！",
+            "ChoiceDataList": [
+                "不用现金！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "秋川理事长",
+            "Text": "正是！只要使用特别的商店币\n就可以兑换商品！",
+            "ChoiceDataList": [
+                "兑换！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "秋川理事长",
+            "Text": "此外！\n商店币将按照\n参赛成绩进行配给！！",
+            "ChoiceDataList": [
+                "配给！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "……听起来未免也太大方了。\n我决定鼓起勇气发问。",
+            "ChoiceDataList": [
+                "请问，这间店的进货资金……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "理、理事长～～！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "秋川理事长",
+            "Text": "喔喔，手纲！\n我正在向训练员说明\n特别商店的──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "特别商店"
+            ]
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "我正是想谈谈\n特别商店的事！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "理事长……你又自掏腰包\n买了所费不赀的东西了吧……！？",
+            "ChoiceDataList": [
+                "商品进货的资金果然是……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "秋川理事长",
+            "Text": "嗯！\n都是我自掏腰包进货！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "秋川理事长",
+            "Text": "结果效率之快！\n进货管道立刻就安排好了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "你的心意真的很令人感激，\n但你每次都把规模弄得太大了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "秋川理事长",
+            "Text": "哇～哈哈哈！\n为了我深爱的诸位赛马娘，\n就算自掏腰包也在所不惜！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "等一下，我话都还没讲完啊～！",
+            "ChoiceDataList": [
+                "……她走掉了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "……太了不起了！",
+            "ChoiceDataList": [
+                "唔哇啊，你什么时候来的！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "啊，我今天是为了别的报导来采访的。\n平时承蒙照顾了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "不过，真是太了不起了……！\n为了赛马娘，秋川理事长居然愿意\n付出所有私人财产，这份决心太了不起了！",
+            "ChoiceDataList": [
+                "不，她没有用光财产啦"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "请务必让我刊载在报导上！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "“为了闪耀明星巅峰赛，\n秋川理事长下定决心，不惜奉献一切……”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "“<username>训练员也随之响应，\n他将竭尽全力奉献自己！”",
+            "ChoiceDataList": [
+                "……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "为什么连我都得\n奉献自己呢……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "听着乙名史记者那兴奋不已的声音，\n我一边凝视着窗外。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "……不过，往后可以自由使用\n特别商店，真是帮了大忙。\n充分活用适合的道具吧……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

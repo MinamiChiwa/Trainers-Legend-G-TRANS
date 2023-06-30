@@ -1,0 +1,296 @@
+{
+    "Title": "只要为所应为",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "今天学园为孩子们举办了体验入学活动。\n八重无敌也被分配到\n带领孩子们参观导览──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "年幼的赛马娘A",
+            "Text": "喔～！这里可以把赛道看得一清二楚！\n有人正在跑步呢！！\n一、二、三──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "哎呀，真是个调皮的孩子♪\n不可以把身子探出去，这样很危险喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "谁想从更高的地方看？\n可以骑在我的肩膀上喔！\n想看的小朋友请把手举起来！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "……唔唔唔唔！\n无法预测……也无法掌握距离……！",
+            "ChoiceDataList": [
+                "怎、怎么了！？",
+                "怎、怎么了吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "我无法掌握和小孩子之间的距离感！\n和她们两人相比，我实在太不成熟了……\n而、而且──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "年幼的赛马娘B",
+            "Text": "小咪，如果请那个姐姐背我，\n可以看见我家吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "年幼的赛马娘C",
+            "Text": "那才不叫背！\n是骑在肩膀上啦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "唔……好想保护她们……！\n但过度保护会妨碍新生入学活动……\n阻碍她们独立……！",
+            "ChoiceDataList": [
+                "你以前在道场有跟小孩子相处过吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "……是的！这么说来，\n我经常陪弟弟一起训练。\n只要照当时那样去做……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "──八重队，全员整队！！\n向神明……不对，向三女神敬礼！\n然后向师傅……不对，向我敬礼！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "喂！！给我好好敬礼！！\n打起精神来，振作一点！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "年幼的赛马娘D",
+            "Text": "我、我觉得……那个姐姐……\n好可怕……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "糟、糟了……！一把她们当成弟弟，\n就不小心露出“本性”了……！\n这样只会造成反效果……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "呵呵……不需要勉强自己喔。\n只要用八重平常的作风对待她们，\n孩子们也会接纳你。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "阿尔丹……可是我没有自信。\n万一我表现得太粗鲁，\n结果像刚才那样吓到孩子们──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "年幼的赛马娘B",
+            "Text": "……咦？小希，\n不见了？你在哪里！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……八重无敌负责导览的小孩\n确实少了一个。\n她刚才明明还在……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "年幼的赛马娘A",
+            "Text": "啊！她在那里！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "……什么！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好奇心旺盛的赛马娘",
+            "Text": "哇啊……好厉害。\n大家都跑得好快……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "仔细一看……或许是受到赛马娘们\n奔跑的模样吸引，那孩子正踩着\n摇摇晃晃的脚步打算走进赛道！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "（不妙！\n我怕她撞到正在奔跑的赛马娘！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "（必须立刻去帮她……来得及吗！？\n八重无敌，你这个笨蛋！！\n都怪你没有好好注意……唔……！！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "（──八重！！不要犹豫！！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌的祖父",
+            "Text": "──无论面对什么样的强敌，\n或是陷入何种困境，都不该退缩，\n害怕就会胆怯。这样绝对找不到活路。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌的祖父",
+            "Text": "心生迷惘时答案永远只有一个。\n就是看准唯一一条不让自己蒙羞的道路……\n然后为所应为！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "（──没错！我现在只需要全心全力\n完成一件事──）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "唔喔喔喔喔喔喔喔喔喔喔！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "…………啊！？\n我……我刚才做了什么？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好奇心旺盛的赛马娘",
+            "Text": "……姐姐……好厉害。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "八、八重！？\n你刚才怎么跑得那么快！？\n我吓了一跳呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "你一瞬间就冲出去，\n然后立刻抱起那个孩子，\n冲到赛道外面……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小朋友们",
+            "Text": "姐姐好厉害！！\n超帅气的！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "…………这样啊。\n我……做到了该做的事情。",
+            "ChoiceDataList": [
+                "你用跑步展现了魅力，而不是靠语言呢！",
+                "你用跑步展现了魅力，而不是靠语言呢！",
+                "金刚八重垣流的教诲发挥了作用呢",
+                "金刚八重垣流的教诲发挥了作用呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "…………这样啊。\n我……做到了该做的事情。",
+            "ChoiceDataList": [
+                "你用跑步展现了魅力，而不是靠语言呢！",
+                "你用跑步展现了魅力，而不是靠语言呢！",
+                "金刚八重垣流的教诲发挥了作用呢",
+                "金刚八重垣流的教诲发挥了作用呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "……我想起了祖父说的话。\n作为八重垣流的武道家该有的心态。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "“作为一个‘守护者’，\n昂首阔步于天下。遇事果断，\n只须默默贯彻自己的‘道义’”……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "我觉得是这些已经融入我身心的教诲……\n引导我展开行动。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "八重无敌虽曾一时疏忽，仍靠自己的力量\n挽回了失败，并变得更有自信。\n最后新生入学活动也平安顺利地结束了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小朋友们",
+            "Text": "金刚八重垣流！？\n只要学这个就能变得跟姐姐一样吗！？\n我想学，我想学！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "嗯……可是金刚八重垣流的\n修行非常严格……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "既然如此……就以体验的形式\n让她们试试看怎么样？\n难得大家这么有兴致♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "阿尔丹……我明白了。\n那么……这次真的要全员整队了！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就这样，八重无敌担任孩子们的师傅，\n彻底赢得她们的尊敬，\n结束了这次的新生入学活动。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

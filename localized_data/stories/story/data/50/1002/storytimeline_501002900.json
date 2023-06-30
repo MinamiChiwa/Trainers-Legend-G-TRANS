@@ -1,0 +1,45 @@
+{
+    "Title": "自我介绍",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "今后，我和签约赛马娘\n一起在闪耀系列赛奔驰的日子就要开始了。\n要和我并肩前进的她叫做──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "闪耀系列赛"
+            ]
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "啊，我是无声铃鹿。\n请多指教。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "无声铃鹿"
+            ]
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "虽然没有……能称为梦想的目标，\n不过，呃……\n我喜欢欣赏跑在领先位置的美丽景色。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "……今天的天气很不错呢。\n请问，我可以去跑一跑吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就这样，\n我和<chrname>一起\n挑战闪耀系列赛的日子开始了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

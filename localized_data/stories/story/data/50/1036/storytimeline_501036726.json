@@ -1,0 +1,65 @@
+{
+    "Title": "挑战夹娃娃机！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "某一天，我和空中神宫外出时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我往空中神宫望向的方向看去，\n那里摆了一台\n里面装着赛马娘主题玩偶的夹娃娃机。",
+            "ChoiceDataList": [
+                "你想要……里面的玩偶？",
+                "你想要……里面的玩偶？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "啥？怎么可能。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "不过我曾经对夹娃娃机进行过考察。\n毕竟那是结合了数位与力学的游戏。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "按照当时的经验，\n只要善用技巧，就能轻松夹到里头的玩偶。",
+            "ChoiceDataList": [
+                "那我试试看",
+                "那我试试看"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "空中神宫",
+            "Text": "好啊，我看你夹。\n玩的时候记得计算玩偶的重心\n还有夹子移动时的边框范围啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──这个挑战，不能失败！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

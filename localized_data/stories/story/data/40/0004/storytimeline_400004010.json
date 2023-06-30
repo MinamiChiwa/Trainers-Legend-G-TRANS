@@ -1,0 +1,123 @@
+{
+    "Title": "获选最优秀新马级赛马娘！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "某天。\n我接到乙名史记者的电话。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "“抱歉突然致电！\n我太想立刻通知你了！”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "“其实呢，<chrname>小姐\n本年度的优异表现受到认可──”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "“因而获选为\n最优秀新马级赛马娘！”",
+            "ChoiceDataList": [
+                "！！"
+            ],
+            "ColorTextInfoList": [
+                "最优秀新马级赛马娘"
+            ]
+        },
+        {
+            "Name": "独白",
+            "Text": "接着乙名史记者礼数周到地\n在电话中道贺。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "挂断电话后，\n正当我细品这份喜悦，\n心想接下来也要与赛马娘继续奋斗时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（叩叩）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "桐生院训练员以及\n她负责指导的赛马娘──\n快乐米可一同来访。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "快乐米可"
+            ]
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "打扰了！\n<username>训练员！\n我听说你们获奖的事了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "恭喜！你们今年的精彩表现\n真的很令人眼睛一亮呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "快乐米可",
+            "Text": "恭喜……你。",
+            "ChoiceDataList": [
+                "谢谢！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "一想到同期训练员的签约赛马娘有此成就，\n我不禁十分感慨！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "忍不住想亲自过来道贺。\n真的太恭喜你了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "快乐米可",
+            "Text": "嗯。干──杯。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "同时也觉得……\n明年我们也一定要获选！",
+            "ChoiceDataList": [
+                "！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桐生院训练员",
+            "Text": "身为同期，同时也是竞争对手，\n我们都要好好加油喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "之后我跟<chrname>互相立誓一起努力，\n明年也不能输给竞争对手们。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}
