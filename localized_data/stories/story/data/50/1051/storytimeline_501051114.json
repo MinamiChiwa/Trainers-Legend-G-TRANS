@@ -177,28 +177,28 @@
         },
         {
             "Name": "？？？",
-            "Text": "喔喔！\n大──蓦──进！！",
+            "Text": "喔喔！\n大──爆──进！！",
             "ChoiceDataList": [
-                "蓦进！？"
+                "爆进！？"
             ],
             "ColorTextInfoList": []
         },
         {
-            "Name": "樱花蓦进王",
-            "Text": "是的，蓦进！\n因为我可是樱花蓦进王嘛！！",
+            "Name": "樱花进王",
+            "Text": "是的，爆进！\n因为我可是樱花进王嘛！！",
             "ChoiceDataList": [],
             "ColorTextInfoList": [
-                "樱花蓦进王"
+                "樱花进王"
             ]
         },
         {
             "Name": "独白",
-            "Text": "樱花蓦进王，她是跟西野花同世代的赛马娘。\n据说她的目标就是要展现\n足以成为模范的表现……？",
+            "Text": "樱花进王，她是跟西野花同世代的赛马娘。\n据说她的目标就是要展现\n足以成为模范的表现……？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "樱花蓦进王",
+            "Name": "樱花进王",
             "Text": "我正在尽班长职责，\n前来调查前途无量又备受关注的赛马娘！嘿嘿！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
@@ -216,21 +216,21 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "樱花蓦进王",
-            "Text": "当然了！不然这里还有谁在？\n你说对吧？西风同学！",
+            "Name": "樱花进王",
+            "Text": "当然了！不然这里还有谁在？\n你说对吧？摄辉同学！",
             "ChoiceDataList": [],
             "ColorTextInfoList": [
-                "西风"
+                "摄辉"
             ]
         },
         {
-            "Name": "樱花蓦进王",
-            "Text": "……怪了？西风同学呢！？\n哇啊！我“又”看丢她了！",
+            "Name": "樱花进王",
+            "Text": "……怪了？摄辉同学呢！？\n哇啊！我“又”看丢她了！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "樱花蓦进王",
+            "Name": "樱花进王",
             "Text": "西──风──同──学！！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
@@ -245,10 +245,10 @@
         },
         {
             "Name": "西野花",
-            "Text": "我觉得蓦进王\n刚刚应该是往这边跑……",
+            "Text": "我觉得爆进王\n刚刚应该是往这边跑……",
             "ChoiceDataList": [],
             "ColorTextInfoList": [
-                "蓦进王"
+                "爆进王"
             ]
         },
         {
@@ -270,23 +270,23 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "山人西风",
+            "Name": "也文摄辉",
             "Text": "这股带着香味的风……原来是你带来的啊。\n令人感到好平静……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "西野花",
-            "Text": "西、西风……！",
+            "Text": "摄、摄辉……！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "宛如一阵风般现身的是\n山人西风……\n她是一位带着神秘气质的赛马娘。",
+            "Text": "宛如一阵风般现身的是\n也文摄辉……\n她是一位带着神秘气质的赛马娘。",
             "ChoiceDataList": [],
             "ColorTextInfoList": [
-                "山人西风"
+                "也文摄辉"
             ]
         },
         {
@@ -298,13 +298,13 @@
             ]
         },
         {
-            "Name": "樱花蓦进王",
-            "Text": "啊──！西风同学！！\n你果然又回到屋顶上了啊！",
+            "Name": "樱花进王",
+            "Text": "啊──！摄辉同学！！\n你果然又回到屋顶上了啊！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "樱花蓦进王",
+            "Name": "樱花进王",
             "Text": "你又迷路了喔！\n请紧紧跟着班长我！",
             "ChoiceDataList": [
                 "（在学园里迷路？）"
@@ -312,13 +312,13 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "山人西风",
+            "Name": "也文摄辉",
             "Text": "因为这里的风很足嘛。\n不过，我现在正打算去赛道看看。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "山人西风",
+            "Name": "也文摄辉",
             "Text": "小花……我想要感受你身上的风。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
@@ -330,7 +330,7 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "山人西风",
+            "Name": "也文摄辉",
             "Text": "刚刚我站在这里看着你跑步。\n你的速度很优异，\n仿佛像是一道疾风。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
@@ -342,15 +342,15 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "樱花蓦进王",
-            "Text": "嗯嗯，我也在你身上感受到类似蓦进的才能喔！\n小花同学，你一定能成为一朵\n优秀的蓦进之花！",
+            "Name": "樱花进王",
+            "Text": "嗯嗯，我也在你身上感受到类似爆进的才能喔！\n小花同学，你一定能成为一朵\n优秀的爆进之花！",
             "ChoiceDataList": [
-                "（蓦进之花？）"
+                "（爆进之花？）"
             ],
             "ColorTextInfoList": []
         },
         {
-            "Name": "山人西风",
+            "Name": "也文摄辉",
             "Text": "嗯，当你的才能绽放时……\n或许就是我们彼此对决之时吧。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
@@ -368,19 +368,19 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "山人西风",
+            "Name": "也文摄辉",
             "Text": "乐趣又增加了呢。\n我诚心希望未来我们能够交手。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "樱花蓦进王",
-            "Text": "啊，糟糕！\n下次我可要请西风同学跟我来场模范的散步！",
+            "Name": "樱花进王",
+            "Text": "啊，糟糕！\n下次我可要请摄辉同学跟我来场模范的散步！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "樱花蓦进王",
+            "Name": "樱花进王",
             "Text": "小花同学！\n下次要再教我写功课喔──！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
