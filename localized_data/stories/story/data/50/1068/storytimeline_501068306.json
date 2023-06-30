@@ -8,7 +8,7 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "播报员",
+            "Name": "实况",
             "Text": "终于来到了最终弯道！\n听听看现场这热烈的欢呼声──！！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
@@ -382,7 +382,7 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "播报员",
+            "Name": "实况",
             "Text": "里见光钻精彩地赢得了出道战！\n在五亿克拉级千金对决中获胜！\n她果然是最高级的原石！！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
@@ -413,10 +413,10 @@
         },
         {
             "Name": "里见光钻",
-            "Text": "经典级和资深级的赛马娘们\n齐聚一堂的“有马纪念”！",
+            "Text": "经典级和古马级的赛马娘们\n齐聚一堂的“有马纪念”！",
             "ChoiceDataList": [],
             "ColorTextInfoList": [
-                "资深级",
+                "古马级",
                 "有马纪念"
             ]
         },

@@ -91,10 +91,10 @@
         },
         {
             "Name": "千明代表",
-            "Text": "你呢？要再休息一下吗？\n还是要帮你叫计程车？",
+            "Text": "你呢？要再休息一下吗？\n还是要帮你叫出租车？",
             "ChoiceDataList": [
                 "休息到酒意消散一点",
-                "直接叫计程车回去"
+                "直接叫出租车回去"
             ],
             "ColorTextInfoList": []
         },
@@ -112,13 +112,13 @@
         },
         {
             "Name": "千明代表",
-            "Text": "啊哈哈，好。\n那，我就在旁边顾着你到计程车来。",
+            "Text": "啊哈哈，好。\n那，我就在旁边顾着你到出租车来。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "千明代表",
-            "Text": "……喂，你好。\n我想叫计程车──",
+            "Text": "……喂，你好。\n我想叫出租车──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         }

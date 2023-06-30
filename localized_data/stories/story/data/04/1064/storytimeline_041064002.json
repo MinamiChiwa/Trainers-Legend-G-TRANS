@@ -160,7 +160,7 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "播报员",
+            "Name": "实况",
             "Text": "同时起跑了！领先的是中途参加的，\n穿红色运动服的二号！她的实力如何！？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
@@ -210,7 +210,7 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "播报员",
+            "Name": "实况",
             "Text": "好快！好快！第一名是二号的善信────！\n速度不同凡响！以6身距取得完全胜利～～～！！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
@@ -343,10 +343,10 @@
         },
         {
             "Name": "目白善信",
-            "Text": "咦！\n你刚才是在……挖角？真的假的？",
+            "Text": "咦！\n你刚才是在……签约？真的假的？",
             "ChoiceDataList": [
-                "如果你愿意，请让我挖角你！",
-                "如果你愿意，请让我挖角你！"
+                "如果你愿意，请让我签约你！",
+                "如果你愿意，请让我签约你！"
             ],
             "ColorTextInfoList": []
         },

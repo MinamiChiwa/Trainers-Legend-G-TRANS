@@ -38,7 +38,7 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "播报员",
+            "Name": "实况",
             "Text": "空中神宫很遗憾地以鼻差落败！\n在壮烈对决中称霸的是──！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
@@ -51,7 +51,7 @@
         },
         {
             "Name": "",
-            "Text": "鼻差──这场败仗就如“Parcae”所料。\n但是还不知道差了几公分。\n如果差距不同的话……！",
+            "Text": "鼻差──这场败仗就如“Parcae”所料。\n但是还不知道差了几厘米。\n如果差距不同的话……！",
             "ChoiceDataList": [
                 "（要去确认才行！）"
             ],
@@ -129,7 +129,7 @@
             "Name": "空中神宫",
             "Text": "喂，你是在叫什么──",
             "ChoiceDataList": [
-                "差距不是七公分！"
+                "差距不是七厘米！"
             ],
             "ColorTextInfoList": []
         },
@@ -143,7 +143,7 @@
             "Name": "空中神宫",
             "Text": "啥？",
             "ChoiceDataList": [
-                "也不是三公分。我确认过了，肯定没错"
+                "也不是三厘米。我确认过了，肯定没错"
             ],
             "ColorTextInfoList": []
         },
@@ -303,7 +303,7 @@
         },
         {
             "Name": "空中神宫",
-            "Text": "实际上，现在差距已经不再是七公分了，\n或许可以当作是这样。",
+            "Text": "实际上，现在差距已经不再是七厘米了，\n或许可以当作是这样。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -311,7 +311,7 @@
             "Name": "空中神宫",
             "Text": "也就是说，接下来等着我的不是地狱，\n而是全新未知的未来。",
             "ChoiceDataList": [
-                "这么说，资深级……！"
+                "这么说，古马级……！"
             ],
             "ColorTextInfoList": []
         },
