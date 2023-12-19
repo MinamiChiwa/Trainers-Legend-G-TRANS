@@ -1,0 +1,316 @@
+{
+  "Title": "謎の物体を追え！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "ここにもいませんね……\n別の所を探してみましょう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "……はぁ。私たちを巻き込んでまで……\n探す必要があるのですか……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "貴重な実験サンプルを見捨てろと？\n君はもう少し私の実験に\n興味を示すべきだね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "まぁまぁ。4人で探したほうが早いですし。\n困った時はお互い様ですから。\nね、トレーナーさん。",
+      "ChoiceDataList": [
+        "そうだね……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『実験をしていたら、急に動き出してね』\n予想外だと笑ったのは\nアグネスタキオンだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "まったくもって興味深い。突然、\n試験管から綿のようなものが溢れ出てきて\n気がついたら走り出していたのだから！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "アレを生命と呼ぶべきではないね。\n意思を持っているとは思えないし、\nただ機械仕掛けのように動いている――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "そうだな。謎の物体『コットン君1号』と\n名付けておこう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そこで偶然鉢合わせた自分たちに\n捜索の手伝いを、という流れだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "早く見つかるといいですね、\nコットン君1号さん……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "……トップロードさん。アナタも、\n帰るところ……だったのでしょう？\nなのに、わざわざ付き合う必要は……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "大丈夫です！\nお役に立てれば、嬉しいですから！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "うーん。でも意思がないのなら、\n害を及ぼすこともないのでしょうか。\n綿なら、当たってもケガはしなさそうですし。",
+      "ChoiceDataList": [
+        "でも何が起きるか……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "その通り。コットン君1号が動いたのは\nまさに未知の出来事。ならばこれから\n起きることも予測不可能ということさ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "ええっ！？\u3000た、大変……！",
+      "ChoiceDataList": [
+        "と、とにかく追いかけよう！",
+        "何が何でも探し出そう！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "アッハッハッ、愉快なことを言うねぇ。\n追いかけようにも、姿が見えないのでは\nどうしようもないじゃないか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "……アナタって人は……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "！\u3000見てください！\nここの床……濡れて、泡のようなものが！\nこれって、コットン君1号さんのものでは！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "ふむ。液状化してきたか。\nこれも採取しておきたいが……\nまずは本体の確保を優先しよう。",
+      "ChoiceDataList": [
+        "たどってみよう！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "はい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "跡をたどった先には、体育倉庫があった。\n注意深く辺りを見回していると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "そ、そうですね！\nあと探していないところは……あ、体育倉庫！\nまだ見ていません、行ってみましょう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "うんうん、他人事だというのに\n君は実に熱心だ。\n見習ってはどうだい、カフェ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "……結構です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "ですが……『他人事』には、同意します。\n……ですから、トップロードさん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "はい？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "…………\n……いえ。なんでも……ありません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "体育倉庫は静まり返っている。\n注意深く辺りを見回していると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "……いる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "え、どこに――……はっ！？\nカフェちゃん、危ない！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "白い塊が、マンハッタンカフェ――いや、\n彼女を守ろうとした\nナリタトップロードに襲い掛かった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "きゃっ……！",
+      "ChoiceDataList": [
+        "トップロード！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……が、その寸前。なぜかコットン君1号は\nグンッと引っ張られるように\nアグネスタキオンの頭上へと移動し――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "うわっ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……水になったのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "はー……びっくりしました。\nみんな、ケガはありませんか？\n今タオルを持ってくるので――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "…………\nトップロードさん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "……どうして、かばったんですか。\nもしものことが……\nあったかもしれないのに……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "え？\u3000……あっ、ごめんなさい。\n心配かけちゃいましたね。\nその……どうして、とか考える暇はなくて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "気がついたら、動いてました。\nあはは。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "……アナタは……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "……\n……そう、ですか。\n走り以外でも……真っすぐなのですね……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "え？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "マンハッタンカフェ",
+      "Text": "……いいえ。\nありがとうと……言っただけです……\n……私と……『お友だち』から……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "カフェちゃん……\nふふっ、いいえ！\nどういたしまして！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "アグネスタキオン",
+      "Text": "……なるほど、『お友だち』ね。\nコットン君1号が不思議にも私の頭上で\n水になった理由がわかったよ……くしゅんっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……忙しない放課後だったが、\nナリタトップロードの笑顔で終えることが\nできて、ホッと息をついたのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

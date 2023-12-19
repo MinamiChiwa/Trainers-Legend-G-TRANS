@@ -1,0 +1,64 @@
+{
+  "Title": "不在の理由は……",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "トレーニングの時間に現れない\nナリタトップロードを探していると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "スルーパス通った！\u3000フェイント入れて……！\nゴーール！\u3000やりましたぁぁーーー！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "オゥオ～～！\u3000オゥオオッオッオ！\nオオオオォ～オオ～♪",
+      "ChoiceDataList": [
+        "……トップロード、何やってるの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "トレーナーさん！\u3000今の観ました！？\n最高のゴールでしたね！\nみなさんの練習の成果が――",
+      "ChoiceDataList": [
+        "君も、トレーニングしないとな",
+        "貴方も、トレーニングしないとね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "え？\u3000それはもちろ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "……！！！！！\n私、すっかり自分のトレーニングを……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "本当に、本当にすみません……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "次は気をつけるよう、ナリタトップロードに\nしっかり注意するのだった……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
