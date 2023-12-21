@@ -1,0 +1,49 @@
+{
+  "Title": "雨降りの災難",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "トレーナーさん！\u3000今日もお願いしますっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "やる気満々でトレーニングに挑む\nナリタトップロードだったが……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（ゴロゴロ、ドッカーーン！！）",
+      "ChoiceDataList": [
+        "いきなり降ってきた！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "わわっ、避難しましょう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "うぅ、また……気合いを入れた時に限って\n降るんですよね……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "雨に濡れて体力を奪われたのも相まって、\nナリタトップロードは\n疲れた様子を見せるのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

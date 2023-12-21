@@ -1,0 +1,543 @@
+{
+  "Title": "福引チャンス！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "黄昏时分，和成田路一起买完训练用品，\n走在回去的路上――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "训练员，那是什么？前面怎么围着一群人……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "难道是有什么特价商品吗？\n如果遇上了便宜又好用的东西感觉可以买下来――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人员",
+      "Text": "看过来看过来，现在在举办新春大抽奖哦～！\r\n特等奖可是“温泉旅游券”！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "温泉旅行券"
+      ]
+    },
+    {
+      "Name": "商店街人员",
+      "Text": "一等奖是“上等胡萝卜肉排汉堡”，\r\n二等奖是“一筐胡萝卜”，\r\n三等奖则是“一根胡萝卜”！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人员",
+      "Text": "看过来看过来，是好玩的抽奖活动哦！\r\n咦，站在那边的不是成田路小姐吗～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人员",
+      "Text": "你看起来还是这么精神饱满呢，\n怎么样，不来抽个奖试试吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "感谢夸奖，原来如此，是商店街抽奖啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "训练员，我们刚刚是有收到一张抽奖券吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "呃，但是……这是用学校的经费买东西拿到的，\n不能给我们私自使用吧。",
+      "ChoiceDataList": [
+        "不，没这个问题",
+        "没，这个没问题"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "在这种时候，可以由训练员来判断是否合适。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "这样吗，那机会难得，\n尽量抽个好东西吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "训练员，可以帮帮我吗？\n靠我们两个人的运气。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "就这样，和成田路两人一起握住了抽奖的方向盘，\n然后――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "有规律的转动了几圈以后，结果是！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人员",
+      "Text": "什么！恭喜恭喜！特等奖『温泉旅行券』出了！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "获得了『<itemname>』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "成田路",
+      "Text": "…………诶。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人员",
+      "Text": "特等奖『温泉旅行券』……收好！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "不，那个……",
+      "ChoiceDataList": [
+        "中大奖咯，阿路？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "不，不太可能，因为……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "我在这样一决胜负的场合，\n几乎就没有这么好运过。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "明明每次都是只差一步。\n哎哎哎哎……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "我的是特等奖……\n我……的……",
+      "ChoiceDataList": [
+        "对的哦！",
+        "对的哦！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "没有骗我吧？这是真的吗，既然如此……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "太棒了！感谢！\n这肯定是托了训练员的福。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "意料之外的好运……\n真是太高兴了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "成田路大喜过望，\n但是又似乎对突然降临的好运感到困惑。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "虽然很激动……但是心里感觉还是没有底。\n要是每次都能这么幸运就好了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "被这样突然眷顾的话，\n马上会完蛋的心情也就来了……呜呜呜。",
+      "ChoiceDataList": [
+        "总之，现在很高兴！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "是，是这样的，特等奖！是啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "但是……果然还是不能轻易接受。\n这个温泉旅行――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "作为努力然后取得了成就的“奖励”吧，\n我是这样想的。",
+      "ChoiceDataList": [
+        "不想马上去吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "是的！等到完成了到达顶点的目标以后再去。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "如果不是这样的话，\n我应该是没办法安心地去享受这个温泉旅行的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "成田路的表情异常认真，\n看起来她是真的不能接受目标未完成前的奖励。",
+      "ChoiceDataList": [
+        "那就等一切告一段落以后再去吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "好！对不起，说了很麻烦的话。\n但是――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "我觉得获得了荣耀以后再去会更快乐，\n为了训练员，我一定能行！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――温泉旅行。\n远大理想的道路上又添了一道慰藉，\n而成田路她也将继续前进。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人员",
+      "Text": "恭喜抽到一等奖～！\n奖品是“上等胡萝卜肉排汉堡”！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "获得了『<itemname>』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "成田路",
+      "Text": "上等胡萝卜肉排汉堡！\n在我有可能能抽到的东西里面，\n抽到了最好的选项。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "抽到特等奖完全是在做个遥不可及的梦，\n所以这个已经是我能努力到的极限了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "很不错吧……上等胡萝卜肉排汉堡。\n其实……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "我有点敬佩它。",
+      "ChoiceDataList": [
+        "敬佩上等胡萝卜肉排汉堡吗！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "这一点也不奇怪吧？\n营养均衡又很好吃。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "我在想如果我跑的也能像这样就好了。\n因为这可是完美美食。",
+      "ChoiceDataList": [
+        "原来如此……那调味料要怎么处理呢？",
+        "这样啊……那调味料要怎么处理呢？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "是啊……稍微撒点盐，\n或者弄成照烧风味也不错――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "但是我想，还是直接蘸酱吃吧！",
+      "ChoiceDataList": [
+        "不做什么特别的处理吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "没错。味道是制作的人精心考虑过的，\n所以原本的味道就是最棒的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "直接这样吃就好。来，该开动了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "完成度很高的杰作不需要再加什么其他伎俩。\n和成田路共享了最王道的味道。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人员",
+      "Text": "二等奖～！！\n奖品是“一筐胡萝卜”！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "获得了『<itemname>』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "成田路",
+      "Text": "哇，太好了。\n运气很不错！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "有这么多胡萝卜，\n感觉可以做很多东西了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "啊，对了！\n要不要一起来做些方便存放的胡萝卜棒？",
+      "ChoiceDataList": [
+        "胡萝卜棒？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "对的，直接生吃就不说了，\n还可以烤得脆脆的再吃，或者炸得脆脆的再吃。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "在训练间隙吃的话，营养丰富！\n做成营养补充剂也不错，可以一起享用！",
+      "ChoiceDataList": [
+        "呀，你好像很开心啊……",
+        "啊，你好像很开心啊……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "诶嘿嘿，其实……比起各种营养药品，\n我还是更喜欢胡萝卜一些……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "我觉得这样吃对训练员的身体也有好处！\n可以帮忙一起做吗？",
+      "ChoiceDataList": [
+        "当然没问题！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "处理方法是偏向自然派的成田路。\n在这之后两人拼命地做好胡萝卜棒美美享用了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人员",
+      "Text": "三等奖～！\n奖品是“一根胡萝卜”！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "获得了『<itemname>』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "成田路",
+      "Text": "诶诶～……只有一根吗~……\n好吧，总之比参与奖要好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "但是！非常感谢。",
+      "ChoiceDataList": [
+        "这么快就重新振作起来了！？",
+        "这么快就重新振作起来了！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "嘿嘿，是已经习惯了，经常是这个结果。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "运气不太好。不过，这样也不错。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "运气不好的话就靠自身的积累！",
+      "ChoiceDataList": [
+        "是吗，很有气势呢",
+        "是吗，很有气势呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "不，对不起……如果我能再努力一点的话，\n就能让训练员更轻松一些了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "今后也请多多关照！\n把奖品一起分了吃吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "即便抽奖的结果并不理想，\n成田路也没有气馁。\n两人一起猛啃抽到的奖品胡萝卜。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人员",
+      "Text": "很可惜，没抽中！\n参与奖是“卫生纸”哦～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "获得了『<itemname>』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "成田路",
+      "Text": "卫生纸……经常能用到不用担心浪费呢……\n呜呜呜……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "训练员，到底是哪个环节出了问题啊？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "是转的时间不对？还是该更用力的转？",
+      "ChoiceDataList": [
+        "不，大概都不是",
+        "不，也许都不是"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "那到底是为什么呢？拜托了训练员，\n请告诉我，为什么会抽得这么差――！？",
+      "ChoiceDataList": [
+        "单纯是“运气”问题",
+        "单纯是“运气”问题"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "运气吗……那就没办法了。\n连反省的方法也没有……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "这世界上存在即便改变方法也没法变得更好的事。\n成田路因为抽奖结果变得垂头丧气。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

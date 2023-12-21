@@ -1,0 +1,504 @@
+{
+  "Title": "圣诞节",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "训练员我们走吧。\n去参加班上举办的圣诞聚会。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "作为主办方可不能让大家久等了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――今天是圣诞节。\n成田路她为班上的同学们，\n操办了一个圣诞聚会。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "正当我因为要去会场而出门的时候――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "咦……雪……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "细小的雪花从空中飘落。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "这大概是老天爷送的圣诞礼物吧，我这样想着……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "唔……",
+      "ChoiceDataList": [
+        "咦……感觉你有点不开心？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "是的。主要是因为……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "『有马纪念』的赛场会变得很麻烦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……她这么一说，确实是这样。\n成田路并不擅长应对状况为重的赛场。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "离『有马纪念』还有几天时间。\n希望这样的天气不要持续太久。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "大家都到齐了吗？\n祝各位圣诞快乐。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "胜利奖券",
+      "Text": "呜哇哇哇哇ーーー！！\n等你好久了，班长～！！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "胜利奖券",
+      "Text": "为我们举办圣诞聚会，\n实在是，太谢谢你了！！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田大进",
+      "Text": "哇啊，吵死了。说的这么大声干什么，\n会给阿路班长添麻烦的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光风",
+      "Text": "呃呵呵，我要狂吃炸鸡。\n然后一口气把蛋糕全吃完。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "胜利奖券、成田大进、新光风等，\n这些同班的马娘全部因为聚会，\n而聚集在一起。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "胜利奖券",
+        "成田大进",
+        "新光风"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "在与同期的同伴们截然不同的氛围中，\n圣诞聚会就这样进行着――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "好了，各位差不多是要到结束的时间了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "虽然很抱歉。但是毕竟是借用的学校的设备和场地，\n聚会开到太晚可不行。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "胜利奖券",
+      "Text": "没关系，没关系的班长～。\n你已经帮我们交涉过那么多了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "胜利奖券",
+      "Text": "像您这样为我们付出这么多的马娘，\n再也找不到第二个了。哇啊啊啊啊啊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "啊哈哈哈……没那么夸张啦……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光风",
+      "Text": "奖券，你是喝果汁喝醉了吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "奖券"
+      ]
+    },
+    {
+      "Name": "成田大进",
+      "Text": "不，就算平时只是喝水她也总这样。\n不要太在意。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "总之大家能喜欢这次聚会就好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "希望大家明年也能好好相处。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "成田路想要让聚会和谐的落幕……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光风",
+      "Text": "给我等一下！\n小风我的恶作剧，\n还完全没有开始呀。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "小风"
+      ]
+    },
+    {
+      "Name": "成田路",
+      "Text": "欸，恶作剧……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田大进",
+      "Text": "应该不是恶作剧。是惊喜吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "胜利奖券",
+      "Text": "啊啊啊啊，对的！\n必须要在聚会结束的时候交给班长你。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "胜利奖券",
+      "Text": "锵锵，这是我们所有人一起做的。\n请收下吧，阿路同学！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "我吗？谢谢大家。\n这里面装的是什么呢……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "打开礼盒，里面的东西映入眼帘……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "这是……晴天娃娃！\n好多好多！全都是大家亲手做的吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "胜利奖券",
+      "Text": "嗯。希望『有马纪念』当天的天气能变好！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "胜利奖券",
+      "Text": "这是大家带着这样的愿望亲手做的！\n但是我的愿望好像有点太大了，\n结果搞得娃娃的头也大了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田大进",
+      "Text": "大家一直以来都被你照顾的不少。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田大进",
+      "Text": "与其说是礼物，\n倒不如说是对照顾的回礼。\n毕竟一直以来都是大家单方面的接受你的好意。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光风",
+      "Text": "即便是小风我也偶尔会想着感谢人哦。\n毕竟惹老师生气的时候，\n总是你带着我去赔礼道歉的嘛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新光风",
+      "Text": "如果还下雨的话，我就把天空也咬一口。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "大家……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "谢谢，谢谢大家……\n能被大家这么想，我很荣幸。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "比赛当天，我会努力的。\n为了，不辜负大家的期待！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "成田路看起来很高兴。\n尽管此刻，\n班上的同学们就像是送礼物的圣诞老人一样……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "但成田路她，\n才是在普通的日子里，\n给大家带来幸福的圣诞老人吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "训练员，这真是场好聚会啊，\n总之就是非常非常好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "没想到大家都好温柔，为我做了这些。",
+      "ChoiceDataList": [
+        "啊，这也是因为你平时的所作所为",
+        "嗯，这也是因为你平时的所作所为"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "平时的所作所为？是在说我吗？",
+      "ChoiceDataList": [
+        "是的，大家都很感激你",
+        "嗯，大家都很感激你"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "这样的话……\n我也唯有感谢大家了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "在这场聚会上……\n好像稍微能看见成田路所走过的道路了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "这并非是一条独自努力到头的道路，\n而是一条需要大家共同努力，\n才能到达终点的路――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "经常温柔地向某人伸出援手，\n而被这份温柔所触动的某人……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "也会在成田路努力前进的道路沿途，\n为她声援呐喊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "也会在成田路努力前进的道路沿途，\n为她声援呐喊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "然后夜深了……\n就在我们两人街上漫步的时候。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "训练员。我刚刚想到一件事……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "我们是不是该给对方互相送个礼物比较好。",
+      "ChoiceDataList": [
+        "怎么这么说？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "一般来说不是都会这么做的吗。\n互相交换圣诞礼物。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "但是不知道为什么……\n跟训练员一起我却没这种想法。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "那种华丽的礼物我一点也不想要，\n而且我知道就算送我，\n我也不会高兴。",
+      "ChoiceDataList": [
+        "还好吧……",
+        "还行吧……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "已经不是需要用物品来维系的关系了。\n连我自己也觉得没这个必要。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "但是！就算不能互相交换礼物，\n一起去送礼物的对象还是有的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "既然决定了，那就这么办吧。\n尽管送礼的日子不是今天。",
+      "ChoiceDataList": [
+        "那……要等到哪天呢？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "在『有马纪念』那天。\n送给我们共同的老师――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "我想把胜利当成是礼物。\n跟感谢的话一起送给老师。",
+      "ChoiceDataList": [
+        "就这样！",
+        "嗯，是啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我非常赞同她的这个提议。我也想看老师的笑容。\n发自内心的笑容，无论如何都想见到。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "这是成田路和我坚定不移的想法。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "啊，仔细想想……\n不想要礼物好像也是正常的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "因为我们彼此已经有了最重要的东西。",
+      "ChoiceDataList": [
+        "最重要的东西？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "就在我们准备一起前往顶点的那天……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "从我们两人共同的老师那里，\n我获得了训练员，而训练员也获得了我。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "我想，没有比这更好的礼物了。",
+      "ChoiceDataList": [
+        "……是啊",
+        "……是啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "那一次的相遇，\n比起多少礼物都更加珍贵、更有价值。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "和成田路一起度过的时光，\n是足以改变我人生的最棒礼物。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

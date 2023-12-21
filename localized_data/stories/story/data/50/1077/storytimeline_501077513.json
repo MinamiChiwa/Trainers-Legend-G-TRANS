@@ -1,0 +1,289 @@
+{
+  "Title": "私にできること",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ジャングルポケット",
+      "Text": "んあー……集中できねぇ。\n問題多すぎるし、頭に入ってこねぇよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "大丈夫です、1つずつ地道にやっていけば、\n必ずゴールは見えますから！\nまずはここの問題から――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ジャングルポケット",
+      "Text": "……なぁ、トップロード。\nお前、わざわざ俺の勉強に\n付き合わなくてもいいんだぜ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "私もちょうど復習したかったので、\n気にしないでください。\n追試、頑張りましょう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ジャングルポケット",
+      "Text": "……つってもよぉ。\nあー……自分がなんの問題やってっかも\nわかんなくなってきたぜ……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "（……ポッケちゃん、つらそう。\n確かに集中できないと頭にも入らないよね。\n一体、どうしたら……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "――というわけなんです。\nいきなりお呼び立てして、ごめんなさい。",
+      "ChoiceDataList": [
+        "問題ないよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "ありがとうございます！\u3000悩んでいたら、\nトレーナーさんの顔が浮かんでしまって。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "相談に乗っていただけると、助かります。\n何かいい案はないでしょうか……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……確か、\n担任の先生から噂程度に聞いたことがある。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ジャングルポケットはフジキセキが\n相手だとかなり集中して話を聞いている。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "強い憧れから、一言一句逃さないように\nしているようだ、と。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "……なるほど。であれば、\nフジさんにお願いするのが\n正解かもしれませんね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "早速、捜しに行きましょう！\nポッケちゃん、待っててくださいねっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "同級生A",
+      "Text": "フジさん？\u3000見かけてないなぁ。\nもし見つけたら、トプロが捜してたこと\nちゃんと伝えとくね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "ありがとうございます！\n何か困ったことがあったら、\n今度は私が力になりますのでっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "同級生A",
+      "Text": "あははっ、大げさなんだからー。\nいつも勉強とかで助けてくれてるのは\nそっちなんだから！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "先輩のウマ娘A",
+      "Text": "フジ？\u3000あーだったら、\n寮の子が体調崩しちゃって\n病院に付き添いに行ってるよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "え！？\u3000そ、そうだったんですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "先輩のウマ娘A",
+      "Text": "緊急？\u3000ならアタシが電話してあげよっか？\nえっと、スマホ、スマホ……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "わわっ、こちらは大丈夫です。\n気を使ってくださって、\nありがとうございます！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "先輩のウマ娘A",
+      "Text": "そ？\u3000あ。それよりさ、この前ありがとね！\n体育倉庫の片付け、助かったよ～！\nウチらだけじゃ手が足りなくて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "先輩のウマ娘A",
+      "Text": "いつも助けられてばかりだしさ。\n今度、困ったことがあったら言ってよ。\nぜーったい助けに行くし♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "フジキセキに頼むことは難しいようだ。\nしかしその中で、\n多くのウマ娘たちが協力してくれた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "誰もがナリタトップロードを信頼し、\n日頃の感謝を口にしていた。",
+      "ChoiceDataList": [
+        "いつもみんなの力になっているんだな",
+        "いつもみんなの力になっているんだね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "そんなことは……\nでも、そうなりたいとは思ってます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "思うようにはなれないことも多いです。\n自分だけでは足りなかったり、\nどうしたらいいか、わからないなんてことも。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "だから、そういう時はせめて……\nその人を元気づける力そのものを支えたり、\n届けたりできればなって思うんです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "……と、いけない。それよりも対策を\n考えないとですねっ。うう～ん、\nフジさんがいないとなると……",
+      "ChoiceDataList": [
+        "フジキセキの真似をするしか……",
+        "できることをしよう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "ま、真似ですか！？\u3000私、モノマネは\n犬や猫くらいしか……い、いえ！\nでも、やれるだけはやってみます！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "お、驚き、いえ驚いたで……だろ？\nここでさっきの公式を使うと答えが\n出てくるって寸法なんで、なんだ、なのさ？？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "わかったろ、わかったかね……んっと、\n違う、わかったよね？\u3000わか……あっ！\nわかったかい、ポニーちゃん！\u3000です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ジャングルポケット",
+      "Text": "……おう。他のヤツだったら蹴り飛ばしてる\nところだけどよ。お前がマジだってことは、\nめちゃくちゃ伝わってくるぜ……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "ぐっ……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ジャングルポケット",
+      "Text": "さっきフジさんは見つかったかって\n部屋にまで確認がきたぜ。俺のために、\n捜し回ってくれたんだってな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ジャングルポケット",
+      "Text": "……ありがとな！\nお前の気持ち、ムダにはしねぇぜ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "それから放課後まで、地道な勉強会が行われ、\nジャングルポケットはなんとかギリギリで\n赤点を回避したのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "できることを……ですよね、\nそれしかありません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "よぉしっ。追試のヤマを張って\nテストを作ってみます！\nそこを重点的にやれば、もしかしたら……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ジャングルポケット",
+      "Text": "なぁ、これでどうだ？\nそんなに問題も多くなかったからよ、\nいけた気がすんぞ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "すごい、ちゃんと全部……\n答えが書き込まれていますね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ジャングルポケット",
+      "Text": "ヘヘッ、楽勝だぜ！\nトップロード、ありがとな！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタトップロード",
+      "Text": "はい！\u3000さぁ、一緒に答え合わせしながら、\n復習していきましょう！\nそうすれば、きっと追試はバッチリです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "埋められた答えはほぼ間違っていたようだが、\n1度解こうとしたことでミスの原因も\nわかりやすくなったようだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "翌日、無事赤点は免れたとの報告が\nジャングルポケットから入ったのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

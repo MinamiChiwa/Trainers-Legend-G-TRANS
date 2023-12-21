@@ -1,0 +1,757 @@
+{
+  "Title": "三人的相册",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『有马纪念』结束以后。\n我和成田路两个人准备去登门道谢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "老师，非常感谢。",
+      "ChoiceDataList": [
+        "非常非常感谢！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "托您的福我们赢下了『有马纪念』，\n今年也完美收官了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "先生",
+      "Text": "哦呦，谢谢啊。你们俩特地来跟我报告，\n很有礼貌嘛。",
+      "ChoiceDataList": [
+        "我们的比赛表现怎么样？",
+        "我们的比赛表现怎么样？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "先生",
+      "Text": "哈哈哈，真是的……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "先生",
+      "Text": "亮眼得我都快看不见咯。\n……最近有些老花眼了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "先生",
+      "Text": "对了。这算是我给你俩的小贺礼。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "先生",
+      "Text": "是餐票哦。\n你们俩可以随便拿去用。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "……哇，是餐票！非常感谢。\n一起去吧，训练员。",
+      "ChoiceDataList": [
+        "啊，你也可以和朋友一起去吧",
+        "嗯。你还可以和朋友一起去吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "朋友？\n和同期的马娘们……吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "先生",
+      "Text": "是啊，偶尔和那些一起共度青春的人聊聊回忆，\n感觉也不错吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――几天后。\n成田路和爱慕织姬还有好歌剧，\n三人一起出去聚餐。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "目的地是――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "哇，中华料理！\n选得很不错嘛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "是啊。因为老师给了我这家店的餐票。\n机会难得，一起聊聊以前的回忆吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱慕织姬",
+      "Text": "比起那些小而精致的店来说，\n没那么多穷讲究，看起来不错。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "对了，小歌剧，\n怒涛同学呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "这个嘛。我好好邀请她了，但……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名将怒涛",
+      "Text": "不不不不，不行！绝对不行！我绝对不能去。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名将怒涛",
+      "Text": "请就你们三位就好～～～呜呜呜。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "她不能来的理由我大概也能猜出来。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "……是吗。\n只能下次再邀请小怒涛了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "今天就我们三个人尽情享受吧。\n感觉又回到经典级那会了呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "哼哼，还记得『皋月赏』那次吗！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "如果我不能参赛的话，我的粉丝们就太不幸了！这么一想我就好紧张。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱慕织姬",
+      "Text": "与其担心粉丝，你倒是不如担心你自己吧？\n……而且，作为你的对手我们才更紧张。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "是啊，那会的小歌剧真的让我吓了一跳。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "说到令人吃惊，爱织同学在『日本德比』那会，\n爆发的气势也很惊人啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "更重量级的是『菊花赏』那会……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱慕织姬",
+      "Text": "是啊，那时候的阿路同学，\n该怎么说呢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱慕织姬",
+      "Text": "太帅了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "太帅了！？在说我吗？\n哇！没想到爱织同学会这么评价我。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "哈——哈~哈~哈~，\n让我来说的话，也就仅次于我了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱慕织姬",
+      "Text": "不是，你吵死了，吃你的饺子去。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "是啊，那时候每场比赛都很激烈，很开心，\n然后就到了古马级……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "这些珍贵的回忆，我永远不会忘记。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "和大家一起竞争的梦幻两年……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "对于粉丝们来说也是无论如何也不会忘记的回忆。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "现在回过头去看，\n我们三个在实力上……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "几乎是势均力敌。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱慕织姬",
+      "Text": "是啊，名副其实的三强。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "是的。\n虽然我有点想再多赢几次……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "但是，也正是因为大家都差不多，\n才能这样和谐的坐在一起回忆从前，\n然后一起吃中华料理吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "是啊！来吧，来吧，该办正事了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "老板！\n我要炒饭、螃蟹炒饭、芥菜炒饭。我还要个勺子！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "好歌剧同学？点太多炒饭了，\n多注意点营养搭配吧……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱慕织姬",
+      "Text": "……我只吃芥菜炒饭就好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "就这样，同龄的三强一边聊着往事，\n一边享受着中华料理派对。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "哦呦，时尚的欧式餐厅，\n选得很不错嘛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "是啊。因为老师给了我这家店的餐票。\n机会难得，一起聊聊以前的回忆吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱慕织姬",
+      "Text": "是吗……安静的感觉也很不错。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "对了，小歌剧，怒涛同学呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "这个嘛。我好好邀请她了，但……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名将怒涛",
+      "Text": "不不不不，不行！绝对不行！我绝对不能去。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名将怒涛",
+      "Text": "请就你们三位就好～～～呜呜呜。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "她不能来的理由我大概也能猜出来。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "……是吗。\n只能下次再邀请小怒涛了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "今天就我们三个人尽情享受吧。\n感觉又回到经典级那会了呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "哼哼，还记得『皋月赏』那次吗！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "如果我不能参赛的话，\n我的粉丝们就太不幸了！这么一想我就好紧张。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱慕织姬",
+      "Text": "与其担心粉丝，你倒是不如担心你自己吧？\n……而且，作为你的对手，我们才更紧张。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "是啊，那会的小歌剧真的让我吓了一跳。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "说到令人吃惊，爱织同学在『日本德比』那会，\n爆发的气势也很惊人啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "更重量级的是『菊花赏』那会……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱慕织姬",
+      "Text": "是啊，那时候的阿路同学，\n该怎么说呢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱慕织姬",
+      "Text": "太帅了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "太帅了！？在说我吗？\n哇！没想到爱织同学会这么评价我。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "哈——哈~哈~哈~，\n让我来说的话，也就仅次于我了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱慕织姬",
+      "Text": "不是，你吵死了，啃你的馅饼去。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "是啊，那时候每场比赛都很激烈，很开心，\n然后就到了古马级……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "这些珍贵的回忆，我永远不会忘记。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "和大家一起竞争的梦幻两年……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "对于粉丝们来说也是无论如何也不会忘记的回忆。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "现在回过头去看，\n我们三个在战绩上……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "是成田路同学你更有优势一些吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱慕织姬",
+      "Text": "是啊，我们三个里面你的GI胜利次数最多。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "说起来……也是多亏了两位。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "因为有你们两位在，所以我才会一直努力。\n比起偶尔的输赢，这才是最关键的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "好啊！那今天就吃个尽兴吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "那边那位漂亮的服务员！\n你们这里有什么推荐的东西都全上一遍！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "小歌剧同学？要点全部吗！？\n我不知道餐票够不够。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱慕织姬",
+      "Text": "没问题的，如果不够就让她自己付钱。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "就这样\n，同世代的三强们一边回忆着以前的趣事，\n一边享受欧式派对。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "哇哦，是豪华的船上餐厅！\n选得真好啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "是啊。因为老师给了我这家店的餐票。\n机会难得，一起聊聊以前的回忆吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱慕织姬",
+      "Text": "呃……感觉奢华过头了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "对了，小歌剧，怒涛同学呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "这个嘛。我好好邀请她了，但……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名将怒涛",
+      "Text": "不不不不，不行！绝对不行！我绝对不能去。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名将怒涛",
+      "Text": "请就你们三位就好～～～呜呜呜。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "她不能来的理由我大概也能猜出来。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "……是吗。\n只能下次再邀请小怒涛了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "今天就我们三个人尽情享受吧。\n感觉又回到经典级那会了呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "哼哼，还记得『皋月赏』那次吗！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "如果我不能参赛的话，\n我的粉丝们就太不幸了！这么一想我就好紧张。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱慕织姬",
+      "Text": "与其担心粉丝，你倒是不如担心你自己吧？\n……而且，作为你的对手我们才更紧张。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "是啊，那会的小歌剧真的让我吓了一跳。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "说到令人吃惊，爱织同学在『日本德比』那会，\n爆发的气势也很惊人啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "更重量级的是『菊花赏』那会……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱慕织姬",
+      "Text": "是啊，那时候的阿路同学，\n该怎么说呢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱慕织姬",
+      "Text": "太帅了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "太帅了！？在说我吗？\n哇！没想到爱织同学会这么评价我。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "哈——哈~哈~哈~，\n让我来说的话，也就仅次于我了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱慕织姬",
+      "Text": "不是，你吵死了，喝你的卡布奇诺去。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "是啊，那时候每场比赛都很激烈，很开心，\n然后就到了古马级……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "这些珍贵的回忆，我永远不会忘记。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "和大家一起竞争的梦幻两年……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "对于粉丝们来说也是无论如何也不会忘记的回忆。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "但是，当我们重新回顾交手的战绩时……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "几乎全是成田路同学你一个人在赢呀。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱慕织姬",
+      "Text": "是啊。虽然大部分时候说是夺冠的机会并列\n……但是结果却是。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "那，那个只是我侥幸！\n实际上我们的实力应该是势均力敌的才对。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "不过，确实因为赢得很多，我觉得有好事发生。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱慕织姬",
+      "Text": "好事……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "是的！老师看我这么努力，\n就觉得庆祝的事情该更热闹一些。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "也是因为这个，我才能和你们两位一起，\n到这个平时不可能来的地方享受。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "嗯嗯，是啊。\n那种老师祝贺弟子的心意，\n是比任何珍馐佳肴都更美味的东西。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "爱织同学，只有这一点格外令人羡慕吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱慕织姬",
+      "Text": "……确实是这样。\n从成田路同学身上――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱慕织姬",
+      "Text": "我也觉得我们受到了来自前辈们的教导。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "小歌剧同学、爱织同学……\n恩师听到你们刚刚说的话一定会非常高兴的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "好了，今晚的夜色这么好，\n机会难得，让我们尽情享乐吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "就这样，\n同世代的三强们一边回忆着以前的趣事，\n一边享受船上的派对。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

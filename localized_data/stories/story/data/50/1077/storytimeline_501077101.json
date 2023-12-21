@@ -1,0 +1,518 @@
+{
+  "Title": "新年的抱负",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "祝您新年快乐，\n训练员！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "今年也请多多关照咯，\n要是今年也能齐心协力地努力的话，我会很开心的。",
+      "ChoiceDataList": [
+        "啊，我也是！",
+        "嗯，我也一样！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "好呀。那可以马上跟我一起去参加新年活动吗？",
+      "ChoiceDataList": [
+        "新年活动是指――“新年参拜”吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "不是哦，在去拜神之前――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "是新春试笔啦，写下自己的寄语，\n正好学校现在正在举行新春试笔大会。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "爱织同学！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "爱织"
+      ]
+    },
+    {
+      "Name": "爱慕织姬",
+      "Text": "……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "爱织同学，难道也是要去参加新春试笔吗？\n我们一起去吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱慕织姬",
+      "Text": "…………\n……我无所谓。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "沉默寡言的爱慕织姬。\n但是，她面对成田路的时候，会稍微话多一些。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "哦呀，成田路同学爱织同学，\n有没有！HAPPY NEW 霸王呀！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "成田路",
+        "爱织"
+      ]
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "你们也去参加试笔大会吗？\n倘若你们想要与我同行的话，\n啊呀，请务必赏这个光！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "好歌剧同学……！\n那就，大家一起去吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "好歌剧"
+      ]
+    },
+    {
+      "Name": "爱慕织姬",
+      "Text": "虽然无所谓，但是你总是一副很了不起的样子啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名将怒涛",
+      "Text": "那个，我也可以一起去吗。",
+      "ChoiceDataList": [
+        "名将怒涛……你这打扮是？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名将怒涛",
+      "Text": "诶诶……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名将怒涛",
+      "Text": "哇啊啊啊啊，搞错了啊，\n不小心把万圣节的衣服给穿来了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "虽然发生了这样那样乱七八糟的事\n五个人还是一起到了新春试笔的会场。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "那，大家动笔吧，\n对了，成田路同学，爱织同学。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "你们今年最初的目标是什么？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "今年最初的……\n好歌剧同学，你已经定下来了吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "那是当然。\n这就是我今年的第一个目标――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "『臯月赏』夺冠！\n哈~哈哈哈哈！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "臯月赏"
+      ]
+    },
+    {
+      "Name": "独白",
+      "Text": "『臯月赏』。经典三冠的首战。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "经典三冠"
+      ]
+    },
+    {
+      "Name": "独白",
+      "Text": "――经典三冠。\n众多经典级赛马娘们的目标\n是最具有代表意义的三场GI比赛的统称。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "经典级",
+        "GI"
+      ]
+    },
+    {
+      "Name": "独白",
+      "Text": "『臯月赏』『日本德比』『菊花赏』。\n成田路她，也会朝着这些比赛前进吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "日本德比",
+        "菊花赏"
+      ]
+    },
+    {
+      "Name": "爱慕织姬",
+      "Text": "『臯月赏』吗……\n好歌剧，你知道你在说什么吗？\n即便你……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱慕织姬",
+      "Text": "还没赢过？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "咦～？是这样吗？嘛，我倒是觉得，\n只要活着就算胜利了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名将怒涛",
+      "Text": "哦哦哦，好歌剧同学\n已经参加过出道战了，好了不起～。\n我连比赛都还没参加过……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "虽然是同期的几位，但是立场各不相同。\n就这样，他们各自写下了，年初的试笔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "训练员，我写好了！\n请看！这是我写的寄语！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "『一路』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "是想要能够笔直的前进的意思。\n怎么样怎么样？",
+      "ChoiceDataList": [
+        "这句话很适合写在一切的开始呢",
+        "这句话很适合写在一切的开始哦"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "从那整齐的字体里面能看得出成田路的想法，\n这份干劲实打实的传达给了我。",
+      "ChoiceDataList": [
+        "一起前进吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "好，我们两就一起笔直的前进吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "但是，大家，都写了些什么呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "我有点想看。\n也想作为参考……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "确实存在参考价值。\n那让我看看谁的寄语？",
+      "ChoiceDataList": [
+        "在量产作品的好歌剧",
+        "看起来很悠闲的怒涛",
+        "认知中很熟练的织姬"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "量产……？啊，真的吗。\n好歌剧同学，写得非常起劲。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "嗯，这样也不对！这个也不对！\n啊――那就这样吧！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "哦，终于诞生了！\n连普契尼都会忍不住舞蹈的美妙寄语！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "你决定看看那句话。\n好歌剧所写下的寄语――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "『玫』！",
+      "ChoiceDataList": [
+        "……玫？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "是啊！\u3000正是玫瑰的『玫』之意。\n怎么样，很适合我吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "就让今年如这篇文章的开头一般，\n美丽的绽放。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "那，反正全部都是要写『玫瑰』之类的，\n为什么不用汉字来写呢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "汉字！哈~哈哈哈哈，什么奇奇怪怪的\n对细节斤斤计较可不是我的风格。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "接下来要些什么呢。是继续写『瑰』。\n还是按照ba、bi、bu、be、bo\n『笔』……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "『霉比』。\n啊，不明所以！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "哈ー哈哈哈哈！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "放声大笑的好歌剧。\n从头到尾都搞的一团糟，\n不过这种活力是值得我们学习的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "小怒涛……？\u3000啊，她在那边，\n在那边悠闲的写寄语……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "ドトウ"
+      ]
+    },
+    {
+      "Name": "成田路",
+      "Text": "怒涛同学怎么在半纸前停下了？\n发生什么事情了吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "小怒涛，怎么了？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名将怒涛",
+      "Text": "啊，成田路同学。\n其实，那个……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "啊，这是已经写好了的吧。\n写的是什么呢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "欸，写的……不是字而是画的画？\n水坑……是吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名将怒涛",
+      "Text": "不是这样的，只是墨水\n我扑通一下就倒出来了～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名将怒涛",
+      "Text": "不过机会难得，我正在想，\n要不要把名字写在旁边。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "啊哈哈、原来是这样！跟有趣呢。\n把偶然出现的东西变成自己的作品！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "总觉得很让人被治愈了，不管是这个试笔的内容，\n还是能有这样想法的小怒涛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "名将怒涛",
+      "Text": "是这样的吗……诶嘿嘿……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "被夸奖后有些害羞的名将怒涛。\n在这新春的伊始，有这些温馨的对话，\n让人心情也变得好起来。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "名将怒涛"
+      ]
+    },
+    {
+      "Name": "成田路",
+      "Text": "我们去看看爱织同学的吧。\n总觉得爱织同学的字很好看呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "确实有这样的印象在。\n我们决定去看看她写的内容。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田路",
+      "Text": "爱织同学，写的是――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱慕织姬",
+      "Text": "……『奉』。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "奉献的意思。这也就是说――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱慕织姬",
+      "Text": "……不是很正常吗。\n我们不都是为了把胜利奉献给谁而奔跑的吗。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱慕织姬",
+      "Text": "所以就写了这个。……没其他意思。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "爱慕织姬并不喜欢多说什么。\n她大概是把想说的内容全部寄托在文字上了吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "哎呀呀，爱织同学。太棒了\n写的真不错，我真的好感动！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "但是，咦……『奉』？\n爱织同学是想要棒子了吗？\n为什么突然想要那个？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱慕织姬",
+      "Text": "……不需要。\n但是……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱慕织姬",
+      "Text": "我现在又想要了。\n拿来揍你。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "哈ー哈哈哈！那就不要用棒子，\n直接用标枪似乎更好一点！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "突然开始的喜剧。\n还有爱织同学流利的作品，\n好像是个很好的开始。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
