@@ -1,0 +1,190 @@
+{
+    "Title": "4th演唱会，结束！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "4th演唱会很快就来到尾声──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "……各位，感谢你们今天前来观赏。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "粉丝们",
+            "Text": "很精彩──！我们才要道谢～！\n繁星演唱会要加油喔──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "…………\n嗯，谢谢你们。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "无声铃鹿在舞台上站了好一阵子，\n持续听着观众们的声音。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "那么，我先回去啦。\n你现在就去测所有来场的赛马娘的脉搏。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "为了证实我推论出来的假说，\n这种平日的累积可是很重要的。",
+            "ChoiceDataList": [
+                "你想要证实什么？",
+                "你想要证实什么？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "你说呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "……硬要说的话，应该是“祈愿”吧。",
+            "ChoiceDataList": [
+                "祈愿……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……我希望对<chrname>来说，\n粉丝在演唱会中的声援能成为她的力量。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "希望听说了繁星演唱会的事，\n并决定参加的她，\n能在舞台上实现自己的心意。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……会希望如此，\n或许就是自己站在为她加油的立场时，\n心中所怀抱的祈愿。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "……员……\n……练员！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "明亮光晕",
+            "Text": "那个，训练员？\n训练员！",
+            "ChoiceDataList": [
+                "啊……！是，怎么了吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "明亮光晕",
+            "Text": "不好意思，在百忙之中打扰你。\n有件事我无论如何都想先跟你说。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "明亮光晕",
+            "Text": "我这次打算和学园交涉，\n召开“繁星演唱会的说明会”。",
+            "ChoiceDataList": [
+                "说明会？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "明亮光晕",
+            "Text": "是的。透过和大家一起举办宣传演唱会，\n愿意协助我们的赛马娘变多了，\n粉丝也因此增加很多。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "明亮光晕",
+            "Text": "……正因为如此，对于剩下的疑虑，\n我们必须真诚地面对才行。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "明亮光晕",
+            "Text": "我必须向部分人士提出合理的说明，\n来让他们认同举办繁星演唱会。",
+            "ChoiceDataList": [
+                "那些人是……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "明亮光晕",
+            "Text": "对，就是学园里的赛马娘们，\n以及URA的理事会。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "明亮光晕",
+            "Text": "理事会那边我会持续去推动。\n不过，我认为必须要先将自己的想法\n传达给学园的学生们。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "明亮光晕",
+            "Text": "以期望着为了赛马娘与粉丝\n而举办演唱会的……一名粉丝的身份。",
+            "ChoiceDataList": [
+                "我也会去找秋川理事长商量",
+                "我也会去找秋川理事长商量"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "明亮光晕",
+            "Text": "咦？不用啦。训练员到目前为止已经\n帮我很多忙了。不能再继续增加你的负担──",
+            "ChoiceDataList": [
+                "我也是粉丝，所以想要帮忙",
+                "我也是粉丝，所以想要帮忙"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "明亮光晕",
+            "Text": "……！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "明亮光晕",
+            "Text": "……那么，就拜托你了。\n直到最后都还请你多加担待！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "过了几天，我与明亮光晕一起去找\n学园的理事长，并且获得了\n举办繁星演唱会说明会的许可。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这一切都是为了举办繁星演唱会。\n继续用全力去支援她们吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

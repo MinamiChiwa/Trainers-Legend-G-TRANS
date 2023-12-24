@@ -1,0 +1,295 @@
+{
+    "Title": "教学",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "辛苦了。\n我将针对有需求的训练员提供关于\n举办“繁星演唱会”培育的各种说明──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "<username>，\n请问需要听说明吗？",
+            "ChoiceDataList": [
+                "听说明",
+                "不听说明"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "好的，请问你想听哪项说明呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "想了解关于“繁星演唱会”准备期间的\n哪些培育事项呢──",
+            "ChoiceDataList": [
+                "关于繁星演唱会",
+                "关于表现力",
+                "关于练习",
+                "已经没问题了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "你想了解“繁星演唱会”啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "所谓的繁星演唱会，是过去由赛马娘们\n自发性举办的演唱会。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "由于URA主导的胜利演唱会广为人知，\n近年已经不再举办繁星演唱会，\n所以知名度也不是很高。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "所以！为了复办繁星演唱会，\n我们要举办宣传演唱会，\n来提高知名度让新的粉丝知道♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "宣传演唱会总共会举办4次。\n依照各个演唱会上新表演的歌曲数，\n会获得相应的评价！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "举办4次",
+                "新表演的",
+                "歌曲数，会获得相应的评价"
+            ]
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "若举办的演唱会得到高评价，\n赛马娘们就能得到很大的成长。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "为了让繁星演唱会举办成功，\n请以表演更多的歌曲\n为目标来努力吧♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "还有，本次将请各位\n在参加闪耀系列赛的同时，\n进行繁星演唱会的准备。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "参加闪耀系列赛的同时"
+            ]
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "请注意，根据培育的状况，\n就算在繁星演唱会的宣传期间\n也有可能结束培育喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "根据培育的状况，",
+                "就算在繁星演唱会的宣传期间",
+                "也有可能结束培育"
+            ]
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "以上就是\n“繁星演唱会”的说明。\n还想听听其他说明吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "你想了解“表现力”啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "训练成功时，\n能获得5种表现力的其中1种。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "表现力"
+            ]
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "什么训练能获得什么样的表现力\n每一次都不一样，所以请好好确认喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "能获得什么样的表现力",
+                "每一次都不一样"
+            ]
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "此外，随着训练等级和\n一起训练的赛马娘人数不同，\n获得的表现力多寡也会有所不同。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "特别是友情训练成功时，\n似乎可以一次获得2种表现力！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "可以一次获得",
+                "2种表现力"
+            ]
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "此外，发生各种事件时，\n也有机会获得表现力喔♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "有效率地获得表现力，\n用它来学习更多歌曲和演唱会技巧吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "歌曲",
+                "演唱会技巧"
+            ]
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "以上就是“表现力”的说明。\n还想听听其他说明吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "你想了解“练习”啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "在练习中，可以使用\n透过训练获得的表现力，\n来学习歌曲与演唱会技巧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "练习"
+            ]
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "学会歌曲与演唱会技巧时，\n可以获得“学习加成”作为奖励喔♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "学习加成"
+            ]
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "“学习加成”可以提升能力、\n回复体力以及强化训练内容，\n对培育的帮助效果相当可观！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "为了专任赛马娘的成长，\n请一定要活用练习喔♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "另外，透过练习来学会歌曲，\n可以额外获得“演唱会加成”作为奖励。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "演唱会加成"
+            ]
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "新获得的演唱会加成，\n会在定期举办的宣传演唱会中\n表演过后，继续发挥效果。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "继续发挥效果"
+            ]
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "演唱会加成的效果常常与学习加成不同，\n所以也请记得活用喔♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "但是，请注意，\n到各场演唱会为止的期间，\n可学习的歌曲数量是有限的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "到各场演唱会为止的期间",
+                "可学习的歌曲数量是有限的"
+            ]
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "还有，当学习所需的表现力不足时，\n可以使用练习的预约功能喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "预约"
+            ]
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "预约练习后，就能在训练时\n确认还不足够的表现力，\n所以对培育很有帮助喔♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "还不足够的表现力",
+                "确认"
+            ]
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "以上就是“练习”的说明。\n还想听听其他说明吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "真的不用了吗？",
+            "ChoiceDataList": [
+                "是",
+                "否"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "我知道了♪保险起见在此提醒，\n可以由此查看简单统整过的介绍。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "点击左上方的“i图示”，\n即可随时复习刚刚的说明。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "i图示"
+            ]
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "接下来就请努力挑战吧。\n我会在背后声援你的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "我知道了。那就请努力挑战吧！\n我会在背后声援你的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

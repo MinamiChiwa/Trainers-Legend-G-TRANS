@@ -690,7 +690,7 @@
 | 0000 | 通用     | Komoe | Komoe |
 | 0001 | URA      | Komoe | Komoe |
 | 0002 | 青春杯   | Komoe | Komoe |
-| 0003 | Grand Live |       |       |
+| 0003 | Grand Live | Komoe | Komoe |
 | 0004 | 巅峰赛   | Komoe | Komoe |
 | 0005 | Grand Masters |       |       |
 | 0006 | L'Arc    |       |       |
