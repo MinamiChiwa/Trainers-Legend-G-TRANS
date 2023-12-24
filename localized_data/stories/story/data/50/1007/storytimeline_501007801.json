@@ -1,0 +1,773 @@
+{
+    "Title": "海之家（族）",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在集训期间，\n我为了买点东西而来到海之家──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "嘿──欢迎光临！\n请问几位？一位？两位？还是三打？",
+            "ChoiceDataList": [
+                "……你在做什么？",
+                "……你在做什么？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "看就知道是在做生意吧！\n这间海之家已经是\n阿船大人一行的囊中物了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "我们要在这里大赚特赚，赚到把海之家\n一路升级成海之大宫殿，564年后被当成\n海底遗迹挖掘出来！对吧！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "呵，和你联手的话，似乎就不是不可能呢。\n把这个世界做生意的方式……彻底颠覆吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我看了店内一圈，但是找不到店员的身影。\n难道说，真的被她们占领了吗……？",
+            "ChoiceDataList": [
+                "（这、这样没问题吗……！？）",
+                "（这、这样没问题吗……！？）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "不过，你来得正是时候！\n只要有你在，我们海之家族就没有敌手了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "这里有着深海的水压也无法摧毁的情谊……！！\n我们就是最强的家族！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "中山是老爹！我是穷学生！\n那边的海鸥是在暗中守候的女主角，\n训练员是大家爱用的纸杯！！",
+            "ChoiceDataList": [
+                "咦？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "好，先来研发菜色吧！\n总之一定要有1000倍葛拉姆玛萨拉的炒面，\n对吧老爹！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "还有永冻土刨冰、\n鳀鱼盛开炸炸丸……！\n唔喔喔，我的灵感大爆发啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……呵，挺不错的啊。\n就照你喜欢的方式去做吧。",
+            "ChoiceDataList": [
+                "咦！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "从各方面来说都充满了不安……\n但现在已经是中午，可没有时间再烦恼。\n大量的学生正朝着海之家蜂拥而来！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "学生客人们",
+            "Text": "“瀑布烟火炸绒毯”、\n“海洋深层水古代汤”……？\n这是什么料理啊？要点点看吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "……打扰了。阿船做的炒面很好吃……\n让我又想吃了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "喔，大胃王怪物登场啦！\n你这种对手，就是要用阿船特制的\n1000倍葛拉姆玛萨拉炒面来对付！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "唔……！？这、这个……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "……真好吃！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "学生客人们",
+            "Text": "喔喔，连小栗前辈都认可了……！\n看来是真的很好吃呢！\n不好意思，这边也要一份──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "3Q～！那么，为了感谢大家这么捧场，\n接下来的564秒是杀必死时间！\n餐点分量加码到喜马拉雅级喔喔喔喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "学生客人们",
+            "Text": "好耶～！我也要我也要～！",
+            "ChoiceDataList": [
+                "居然在爆卖……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……放手让那家伙自由去做，\n果然比较有趣。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "而且，她还有天生就亲近人的特质。\n……那是和我无缘的天赋啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "欸欸，老爹！还有纸杯！\n别发呆了，快来帮忙！\n要把家族的力量合而为一啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "呵……好，我这就来！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就这样，大盛况一直持续到了营业结束！\n正当我们准备要打烊时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小女孩",
+            "Text": "那、那个……！\n真的很谢谢你们！",
+            "ChoiceDataList": [
+                "呃……你是？",
+                "呃……你是？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小女孩",
+            "Text": "……这间店，是我爷爷的店。\n可是，爷爷他热坏了身子……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小女孩",
+            "Text": "……爷爷说，特雷森学园的大家\n都很期待来这里，所以他不能休息。\n他甚至还勉强要开店营业。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小女孩",
+            "Text": "然后，大姐姐们就过来说，\n包在她们身上──",
+            "ChoiceDataList": [
+                "原来是这样啊……",
+                "原来是这样啊……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……呵，别说了。\n至少我可不是因为同情才帮忙的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "我只是……对她产生了兴趣，\n才试着和这个老是突发奇想，\n摸不透下一步会做什么的家伙共事罢了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "和只是依照惯例，稳当地行事比起来……\n这种做法让我觉得有意思多了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "嘿嘿嘿，你们就好好期待吧！\n明天还会出动挂满灯饰的阿船神轿\n来招揽客人喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小女孩",
+            "Text": "好厉害！那是什么那是什么！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "呵……这家伙的字典里，根本没有惯例呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "──喂。既然如此，\n干脆把神轿跟摊位拼起来，\n弄成移动式海之家怎么样？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "喔，好主意！\n反正喷射引擎还有剩，\n把它也装上去吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小女孩",
+            "Text": "真……真的吗！？\n还有呢还有呢！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "一个突发奇想引发进一步的突发奇想……\n她们两人联手合作，利用集训的空档\n把海之家经营得有声有色。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "嘿──欢迎光临！\n请问几位？一位？两位？还是三打？",
+            "ChoiceDataList": [
+                "……你在做什么？",
+                "……你在做什么？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "看就知道是在做生意吧！\n这间海之家已经是\n阿船大人一行的囊中物了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "我们要在这里大赚特赚，赚到把海之家\n一路升级成海之大宫殿，564年后被当成\n海底遗迹挖掘出来！对吧！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "呵，和你联手的话，似乎就不是不可能呢。\n把这个世界做生意的方式……彻底颠覆吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我看了店内一圈，但是找不到店员的身影。\n难道说，真的被她们占领了吗……？",
+            "ChoiceDataList": [
+                "（这、这样没问题吗……！？）",
+                "（这、这样没问题吗……！？）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "不过，你来得正是时候！\n只要有你在，我们海之家族就没有敌手了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "这里有着深海的水压也无法摧毁的情谊……！！\n我们就是最强的家族！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "中山是老爹！我是穷学生！\n那边的海鸥是在暗中守候的女主角，\n训练员是大家爱用的纸杯！！",
+            "ChoiceDataList": [
+                "咦？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "好，先来研发菜色吧！\n总之一定要有1000倍葛拉姆玛萨拉的炒面，\n对吧老爹！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "还有永冻土刨冰、\n鳀鱼盛开炸炸丸……！\n唔喔喔，我的灵感大爆发啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……呵，挺不错的啊。\n就照你喜欢的方式去做吧。",
+            "ChoiceDataList": [
+                "咦！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "从各方面来说都充满了不安……\n但现在已经是中午，可没有时间再烦恼。\n大量的学生正朝着海之家蜂拥而来！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "学生客人们",
+            "Text": "“瀑布烟火炸绒毯”、\n“海洋深层水古代汤”……？\n这是什么料理啊？要点点看吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "……打扰了。阿船做的炒面很好吃……\n让我又想吃了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "喔，大胃王怪物登场啦！\n你这种对手，就是要用阿船特制的\n1000倍葛拉姆玛萨拉炒面来对付！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "唔……！？这、这个……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "……真好吃！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "学生客人们",
+            "Text": "喔喔，连小栗前辈都认可了……！\n看来是真的很好吃呢！\n不好意思，这边也要一份──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "3Q～！那么，为了感谢大家这么捧场，\n接下来的564秒是杀必死时间！\n餐点分量加码到喜马拉雅级喔喔喔喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "学生客人们",
+            "Text": "好耶～！我也要我也要～！",
+            "ChoiceDataList": [
+                "居然在爆卖……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……放手让那家伙自由去做，\n果然比较有趣。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "而且，她还有天生就亲近人的特质。\n……那是和我无缘的天赋啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "欸欸，老爹！还有纸杯！\n别发呆了，快来帮忙！\n要把家族的力量合而为一啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "呵……好，我这就来！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就这样，大盛况一直持续到了营业结束！\n正当我们准备要打烊时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小女孩",
+            "Text": "那、那个……！\n真的很谢谢你们！",
+            "ChoiceDataList": [
+                "呃……你是？",
+                "呃……你是？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小女孩",
+            "Text": "……这间店，是我爷爷的店。\n可是，爷爷他热坏了身子……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小女孩",
+            "Text": "……爷爷说，特雷森学园的大家\n都很期待来这里，所以他不能休息。\n他甚至还勉强要开店营业。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小女孩",
+            "Text": "然后，大姐姐们就过来说，\n包在她们身上──",
+            "ChoiceDataList": [
+                "原来是这样啊……",
+                "原来是这样啊……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……呵，别说了。\n至少我可不是因为同情才帮忙的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "我只是……对她产生了兴趣，\n才试着和这个老是突发奇想，\n摸不透下一步会做什么的家伙共事罢了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "和只是依照惯例，稳当地行事比起来……\n这种做法让我觉得有意思多了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "嘿嘿嘿，你们就好好期待吧！\n明天还会出动挂满灯饰的阿船神轿\n来招揽客人喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小女孩",
+            "Text": "好厉害！那是什么那是什么！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "呵……这家伙的字典里，根本没有惯例呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "──喂，等一下。这里可是海边。\n要我说的话，肯定是做成灯饰船才好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "啊？弄成船的话，就没办法装履带了啊！\n这我可不能接受！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "呵……那么，就用比赛决定怎么样？\n就来看看，是履带还是螺旋桨比较厉害……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "两人在共鸣的同时，也互相切磋──\n多亏了她们，海之家即使过了今天\n也依然盛况空前。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "嘿──欢迎光临！\n请问几位？一位？两位？还是三打？",
+            "ChoiceDataList": [
+                "……你在做什么？",
+                "……你在做什么？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "看就知道是在做生意吧！\n这间海之家已经是\n阿船大人一行的囊中物了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "我们要在这里大赚特赚，赚到把海之家\n一路升级成海之大宫殿，564年后被当成\n海底遗迹挖掘出来！对吧！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "呵，和你联手的话，似乎就不是不可能呢。\n把这个世界做生意的方式……彻底颠覆吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我看了店内一圈，但是找不到店员的身影。\n难道说，真的被她们占领了吗……？",
+            "ChoiceDataList": [
+                "（这、这样没问题吗……！？）",
+                "（这、这样没问题吗……！？）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "不过，你来得正是时候！\n只要有你在，我们海之家族就没有敌手了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "这里有着深海的水压也无法摧毁的情谊……！！\n我们就是最强的家族！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "中山是老爹！我是穷学生！\n那边的海鸥是在暗中守候的女主角，\n训练员是大家爱用的纸杯！！",
+            "ChoiceDataList": [
+                "咦？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "好，先来研发菜色吧！\n总之一定要有1000倍葛拉姆玛萨拉的炒面，\n对吧老爹！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "还有永冻土刨冰、\n鳀鱼盛开炸炸丸……！\n唔喔喔，我的灵感大爆发啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……呵，挺不错的啊。\n就照你喜欢的方式去做吧。",
+            "ChoiceDataList": [
+                "咦！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "从各方面来说都充满了不安……\n但现在已经是中午，可没有时间再烦恼。\n大量的学生正朝着海之家蜂拥而来！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "学生客人们",
+            "Text": "“瀑布烟火炸绒毯”、\n“海洋深层水古代汤”……？\n这是什么料理啊？要点点看吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "……打扰了。阿船做的炒面很好吃……\n让我又想吃了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "喔，大胃王怪物登场啦！\n你这种对手，就是要用阿船特制的\n1000倍葛拉姆玛萨拉炒面来对付！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "唔……！？这、这个……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "……真好吃！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "学生客人们",
+            "Text": "喔喔，连小栗前辈都认可了……！\n看来是真的很好吃呢！\n不好意思，这边也要一份──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "3Q～！那么，为了感谢大家这么捧场，\n接下来的564秒是杀必死时间！\n餐点分量加码到喜马拉雅级喔喔喔喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "学生客人们",
+            "Text": "好耶～！我也要我也要～！",
+            "ChoiceDataList": [
+                "居然在爆卖……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……放手让那家伙自由去做，\n果然比较有趣。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "而且，她还有天生就亲近人的特质。\n……那是和我无缘的天赋啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "欸欸，老爹！还有纸杯！\n别发呆了，快来帮忙！\n要把家族的力量合而为一啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "呵……好，我这就来！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就这样，大盛况一直持续到了营业结束！\n正当我们准备要打烊时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小女孩",
+            "Text": "那、那个……！\n真的很谢谢你们！",
+            "ChoiceDataList": [
+                "呃……你是？",
+                "呃……你是？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小女孩",
+            "Text": "……这间店，是我爷爷的店。\n可是，爷爷他热坏了身子……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小女孩",
+            "Text": "……爷爷说，特雷森学园的大家\n都很期待来这里，所以他不能休息。\n他甚至还勉强要开店营业。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小女孩",
+            "Text": "然后，大姐姐们就过来说，\n包在她们身上──",
+            "ChoiceDataList": [
+                "原来是这样啊……",
+                "原来是这样啊……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……呵，别说了。\n至少我可不是因为同情才帮忙的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "我只是……对她产生了兴趣，\n才试着和这个老是突发奇想，\n摸不透下一步会做什么的家伙共事罢了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "和只是依照惯例，稳当地行事比起来……\n这种做法让我觉得有意思多了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "嘿嘿嘿，你们就好好期待吧！\n明天还会出动挂满灯饰的阿船神轿\n来招揽客人喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小女孩",
+            "Text": "好厉害！那是什么那是什么！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "呵……这家伙的字典里，根本没有惯例呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "好啦，但还是要有点节制啊。\n虽然你的想法很有趣，但要是做过头，\n可就变得不是海之家了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "你什么意思啊，喂！\n不就是因为会进化才有趣吗！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "别忘了还要对店长爷爷交待啊。\n好啦，掌舵就交给我这个“老爹”吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "中山庆典轻拍黄金船的肩膀安抚她。\n在她们两人的合作之下，\n海之家即使过了今天也盛况空前。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "Title": "迎向高松宫纪念",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "播报员",
+            "Text": "──这里是观众云集的中京赛场。\n“高松宫纪念”即将开赛了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "（哇啊啊啊啊啊────！！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众A",
+            "Text": "喔～气氛超热烈的啦！\n这种情况下如果小栗参赛，\n搞不好会变得更惊人喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众B",
+            "Text": "哈哈，要是她连短距离赛事都能参加，\n不就真的要成为最强中的最强啦！\n以后就说“都让小栗跑不就好了？”这样！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "────",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "──我迈向短距离最强选手的路，\n就要从这里开始了。",
+            "ChoiceDataList": [
+                "……怕吗？",
+                "……你会怕吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "不会！我只觉得很期待！！\n浑身热血澎拜！！\n超想赶快上场奔跑的啦！！！",
+            "ChoiceDataList": [
+                "这才是青竹回忆",
+                "这才是青竹回忆呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "嘿嘿──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "那我上场啰！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

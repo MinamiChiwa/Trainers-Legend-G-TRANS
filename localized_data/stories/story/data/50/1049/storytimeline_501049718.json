@@ -1,0 +1,37 @@
+{
+    "Title": "恢复精神",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "嗨，训练员。\n没想到一大早就见到你。",
+            "ChoiceDataList": [
+                "昨天有好好休息了吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "是啊，不用担心。\n现在我的头脑就跟往常一样灵光。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "但这种平稳的日子只要一天就够了。\n我不需要毫无刺激的日常生活。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "中山庆典露出一如往常的笑容，\n看来她有充分休息了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,551 @@
+{
+    "Title": "单向流动的沙漏",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……老师还活着。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "…………她活下来了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "这段时光………………\n还能继续下去──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "经过医院的那番谈话后过了几天。\n中山庆典训练时的表情变得更加凝重。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "吸…………呼…………\n……训练员。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "明年跑完“宝冢纪念”就挑战\n“凯旋门赏”，没问题吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这一年来中山庆典成长了不少，\n我也学到了更多知识。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我们的目标从出道战起\n就不曾改变过，一切都是为了\n跟世界来场盛大的赌局。",
+            "ChoiceDataList": [
+                "（但更重要的是──）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "以前导师的父亲",
+            "Text": "……小女面临的状况还是一样，\n身体随时都有可能出现变化。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──她是不是也发现这件事了？",
+            "ChoiceDataList": [
+                "（但提出的参赛计划的确是可行的目标。）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "先在六月的大奖赛“宝冢纪念”\n跟其他赛马娘较劲后，\n立刻针对前往法国进行调整。这是最佳方案──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "喝！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "世界！既宽广又无尽！\n人人都想征服世界之颠！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "妄想不借助他人光靠自己挑战世界？\n天真！太天真了！就像婴儿一样天真！\n现在的你需要的正是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "团队合作──！！",
+            "ChoiceDataList": [
+                "神鹰！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "嗯嗯，很好很好！\n看来我在“菊花赏”跟“中日新闻杯”中\n没有看错，你把身体锻炼得不错嘛！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "那我们开始吧！小特～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "小特"
+            ]
+        },
+        {
+            "Name": "特别周",
+            "Text": "好～的♪",
+            "ChoiceDataList": [
+                "特别周！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "特别周跟神鹰是同期，\n她在“日本杯”以“日本总大将”之姿\n迎战海外选手──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "特别周",
+                "日本杯",
+                "日本总大将"
+            ]
+        },
+        {
+            "Name": "特别周",
+            "Text": "失礼了～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（抓起！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "哇哇，请别乱动！\n要是跌下来就糟了！",
+            "ChoiceDataList": [
+                "（被、被扛起来了……！）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "喂，你想做什么！？\n不准擅自扛起我家的训练员！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "这是为了赶上起飞时间！\n外出申请书也准备好了！\n只差一个签名就可以交出去～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "中山前辈，\n你想赢得“凯旋门赏”吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "啊？当然想啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "那就请跟我来吧～！\n小神鹰的课外补习要开始啰～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（叽叽────）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "小神～！继续前进～！\n穿过这里后，\n积雪应该会少一点～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "Bueno！小特真可靠！\n别停下来，持续往前走～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……我们到底要去哪里？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "最后我们来到一片开阔的土地。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "嗯……小特的老家附近，\n有各种类型的土地呢～！",
+            "ChoiceDataList": [
+                "好辽阔……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "总之先来测秒数吧。\n先测测看800米，\n麻烦训练员拿码表！",
+            "ChoiceDataList": [
+                "要跑哪条赛道的800米？",
+                "要跑哪条赛道的800米？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "没有什么赛道！\n会场就是这个平原！直直向前冲！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "法国那边的训练设施，\n构造跟大小都跟特雷森学园不一样。\n训练方法当然也不一样。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……！所以你当时进行的训练\n就是“直直向前冲”？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "Bueno！还有，\n别光待在大城市，\n事先习惯乡下小镇的空气也很重要。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "训练员，\n请你到前方800米处等候！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我在神鹰的催促下先到前方\n800米处待机。从这里看去，\n另一头的她们变得跟米粒一样小。",
+            "ChoiceDataList": [
+                "完全看不到她们在做什么……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "“所以等一下我会用电话\n传达起跑讯号！注意听喔！”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "手机传来她的声音。\n以这个距离来说，\n用电话联络的确最为方便。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这样我应该能够\n精准掌握按下码表的时机。",
+            "ChoiceDataList": [
+                "……原来还有这种方法啊",
+                "……原来还有这种方法啊"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "“要开始啰～！预备……！”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "之后神鹰又继续传授了\n许多她独创的训练方式。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "像是开跑前的放松秘方，\n还有在当地邀约并行练跑对手时\n该如何搭话等等。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "曾亲征现场的赛马娘分享的实际经验，\n全都是些超乎意料的新奇资讯，\n跟我至今查到的数据资料大不相同。",
+            "ChoiceDataList": [
+                "（我们还有很多需要学习之处）",
+                "（我们还有很多需要学习之处）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "喂，神神。顺便问一下……\n你为什么要“帮助我们”？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "这样都是我们受惠，\n完全看不出对你有什么好处。\n话说你原本不是很敌视我吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "那已经是过去的事了～！\n而且我刚不是说过了吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "进军海外需要团队合作！\n我要邀请你们加入我的队伍！",
+            "ChoiceDataList": [
+                "所以我们要一起去比赛？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "不，\n跑者只有中山前辈一个人。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……那你呢……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "你可以叫我神神师父喔♪\n十分钟后开始下一波训练！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "小神，辛苦了～！\n你好帅喔，好有老师的样子！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "没有啦，也谢谢小特！\n竟然还麻烦小特妈妈\n开车载我们过来……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "千万别跟我客气！\n我也很想帮上忙。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "进军世界啊……真是怀念呢。\n小神跑到法国挑战的对手，\n之后又来到日本跟我对决。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "……我听小草说了。\n听说你一直在寻找\n能当自己接班人的原石。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "是啊，不过与其说中山前辈是原石，\n更像是凝固的岩浆呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "但是在我至今见识过的所有选手中，\n只有中山前辈在经典三冠上的表现──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "最能令我对未来燃起希望。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "……这样啊，那就只能这样了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "最近我也在想，或许我们这些赛马娘\n就是要跟别人一起做梦、背负他人的梦想，\n最后将梦想托付出去。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "所以我会为你们加油的！\n毕竟小神也曾将梦想托付给我啊！\n我们一起追寻新梦想吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "嗯！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这天我们持续训练到太阳西下。\n我联系过学园后，\n便在当地的住宿处沈沉睡去。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "到了隔天──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "我们回来啦～～！！",
+            "ChoiceDataList": [
+                "昨天真是谢谢你"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "不客气！\n对了，你们意下如何啊？\n想跟我组队吗？",
+            "ChoiceDataList": [
+                "对我们来说是求之不得"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……是啊，我也没有异议。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "Claro！\n组队成功！那么──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（嗡──嗡──）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "喔，是老师打来的。我去接一下。",
+            "ChoiceDataList": [
+                "好，你去吧",
+                "嗯，你去吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "……？老师？\n中山前辈跟班上导师\n这么亲近啊？",
+            "ChoiceDataList": [
+                "不，那不是特雷森学园的老师"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "哦……原来她想让小学时代的老师\n获得活下去的希望……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "原来如此，这下我终于理解\n中山前辈那超乎常人的热情来自何处了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "她可是赌上生命这个最沉重的筹码，\n所以才会如此沸腾。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "更不用说\n她的目的是想带来希望……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "啊哈哈！吓人、惊人、太意外了！\n原来中山前辈跟神鹰我有点像呢！",
+            "ChoiceDataList": [
+                "会吗？我觉得你们的风格差很多"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "这是两回事。\n最重要的是内心深处的事物！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "──而且这下……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "中山前辈更是非赢不可了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

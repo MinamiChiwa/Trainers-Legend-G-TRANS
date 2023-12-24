@@ -1,0 +1,374 @@
+{
+    "Title": "围栏另一端的同期",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我看到中山庆典站在教室门口，\n默默凝视着同学们。",
+            "ChoiceDataList": [
+                "你在这里做什么？",
+                "你在这里做什么？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "我正在抉择\n该去找隔壁班同学，\n还是问问同班同学。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "──问同班同学啊。\n这样的话……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "奇锐骏，我想麻烦你一件事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "哎呀，什么事呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "借我英文课跟数学课的笔记，\n下礼拜要小考。",
+            "ChoiceDataList": [
+                "……中山，你自己没抄笔记吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "呵呵呵，毕竟你上课时总是睡得很香呢。\n好啊，不嫌弃的话，\n我的笔记你就拿去用吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "──谢啦。",
+            "ChoiceDataList": [
+                "呃，等一下等一下！",
+                "呃，等一下等一下！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "少啰唆，奇锐骏都答应了。\n别乱插嘴啦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "没关系啦，毕竟中中\n又要训练又要比赛，一定很忙吧？\n课堂上难免会想打瞌睡嘛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "闪耀系列赛的胜负当然是最重要的，\n我也是一样呀。\n所以我们互相帮忙吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "──不过啊……我不确定\n我的笔记真的能帮得上忙吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……喂，这段是在写什么啊？\n“PR.58～　★时态Q”是什么……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "哦哦，那是在说试题集第58页的\n时态问题与此处有关的意思喔。\n★是指相关练习问题，☆代表参考对象。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……其他也都写满了符号。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "是啊，因为我写字速度不快，\n所以用代表的符号来记笔记。\n你果然看不懂啊……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "──那么，一起来读书吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……什么？不用啦，\n我只是想借笔记来看──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "我自己也要看笔记啊，\n一起读书更可以慢慢来，\n对考试更有帮助呢……对吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……知道了啦。",
+            "ChoiceDataList": [
+                "我也来帮忙！",
+                "我也来帮忙！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……你真的事事都\n爱参一脚耶……那你自己选，\n要念英文还是数学？",
+            "ChoiceDataList": [
+                "为了跨越世界藩篱不可或缺的英文！",
+                "有助于理解战略的数学"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "英文啊……光听就开始想睡觉了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "哎呀，那要不要试试看我的念书方法？\n一瞬间就能赶跑瞌睡虫喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──我边参考奇锐骏的笔记边朗诵起\n课本上的英文，而听着我朗诵的\n中山庆典她们则是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "两人",
+            "Text": "……呼……呼……！\n……喝……喝……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "奇锐骏的念书方法，\n竟然是边进行训练边解题！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……一般来说……这不是\n只有答错时才会进行的处罚吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "那样就不叫训练了啊，\n毕竟这原本就是为了不压缩训练时间\n而想出来的念书方法呀～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "若想在闪耀系列赛上获胜，\n我非得做到这种程度不可。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "…………唔。",
+            "ChoiceDataList": [
+                "问题！Why was Stevie so angry？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "我知道！“He was in a bad\nmood to begin with”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "呵呵呵，我答对了～\n那中中的杠铃重量\n就得增加20公斤。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "啧……好吧，毕竟是我输了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "然后我的杠铃重量要增加30公斤。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "啊？为什么奇锐骏赢了却得\n举得比我还重啊？这不是惩罚游戏吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "因为……把自己逼紧一点，\n比较能提升集中力啊。\n强度越高越有效喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "好啦，快来解下一道问题吧。\n接下来改做全深蹲？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "哈……哈哈、哈哈哈哈哈哈！\n真的假的……太疯狂了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "──不过，有趣！我不会认输的。\n就奉陪到最后吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "中山庆典的双眸燃起熊熊火焰。\n──就这样，她不仅顺利筹备小考\n还锻炼了力量，真是一举两得！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "呵……数学就看我的吧。\n我最近老是下对赌注呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "哎呀，那真是太好了～\n请务必也教教我。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "居然用小考范围来下注，\n这念书方法真的好吗……\n总之先找个可以安心说话的地方。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "──我大胆下注……\n下次小考会考二次不等式！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "所以呢，奇锐骏，告诉我吧。\n老师上课时有强调过哪些题目吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "我想想……把球向上抛的题目跟……\n啊，还说过二次函数也有关连，\n别忘了要一起复习。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "另外就是这道速度问题，\n这也要用二次方程式来解题。",
+            "ChoiceDataList": [
+                "学会计算速度也可应用在比赛中喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "原来如此……那也一起复习这题吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "还有几何图形的叙述题也不少，\n所以也要复习几何图形公式。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……再加上几何图形是吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "还有呢，根据我的笔记──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……喂，这样不就\n考试范围全都得复习了吗！？",
+            "ChoiceDataList": [
+                "这次读书会真是充实呢！",
+                "这次读书会真是充实呢！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……你早就发现了却默不作声？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "抱歉啊，我非得好好复习在意之处，\n不然就会忍不住担心……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……算了，也好。看着奇锐骏，\n我终于理解到心思缜密的人都在想些什么。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "也变得更能判断赌局了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "经过这次读书会，\n中山庆典又更深入理解\n比赛的战术与攻防了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,380 @@
+{
+    "Title": "情人节",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "播报员",
+            "Text": "“中山庆典紧追不放！\n通往世界的门扉就在眼前！”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "播报员",
+            "Text": "“加油啊，中山庆典！！\n只差一点了！\n梦想的头衔如今唾手可得！”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "播报员",
+            "Text": "“中山庆典第二名──！\n难道凯旋门赏就是这么难以攻破吗！？”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "呼啊……呼啊……\n可恶……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "（只差一步，要是我\n还有力气能踏出最后一步──）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……唔！\n…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……可恶。\n竟然做了这么真实的梦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──我在房内专心盯着电脑，\n筛选著远征时的理想落脚处。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "须符合下列条件。\n附近是否有训练设施？\n设施是否提供短期停留者使用……？",
+            "ChoiceDataList": [
+                "（VR赛马娘模拟器十分有帮助。）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "原本我对当地一无所知，\n但有了这个便能实际体会当地气氛，\n一定能协助我更具体地安排行程。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "打扰了。\n训练员。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "你之前透过学园向当地知名\n训练员申请进行共同训练，\n对方有答复了。",
+            "ChoiceDataList": [
+                "谢谢你！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我收下手纲小姐带来的文件，\n看了对方的回复。结果是──",
+            "ChoiceDataList": [
+                "……看来没办法呢"
+            ],
+            "ColorTextInfoList": [
+                "手纲"
+            ]
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "……请别太沮丧。\n听说会答应这种要求的反而比较少见。",
+            "ChoiceDataList": [
+                "说得也是，我再去拜托别人看看"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "但包含这次在内，\n已经被拒绝过十几次了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就对方而言，\n我只是个突然提出申请的新人训练员。\n凭我的实际战绩，对方拒绝也很正常。",
+            "ChoiceDataList": [
+                "（但光烦恼也没用。）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "只能尽力而为做自己该做的事，\n我想尽量帮上中山庆典，\n别让她在今年留下遗憾。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……桌上的萤幕播放着\n“凯旋门赏”的过去比赛影片。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "播报员",
+            "Text": "“勇者从外侧接近！并排了！\n她能领先吗？真的领先了！”",
+            "ChoiceDataList": [
+                "（跑在那种草地上竟然还能轻松加速。）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "见识过后更清楚体认跟世界级的差距。\n我们究竟能够缩短多少距离呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "知道得越多，越能深刻感受到\n那段差距是多么遥远。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……疲劳的时候就该吃甜食。\n拿去。",
+            "ChoiceDataList": [
+                "……咦？谢谢你"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "里面是巧克力。\n只是我买给自己时顺便多买的啦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……欸，训练员。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "我一定要参加“凯旋门赏”，\n而且我一定会获胜。",
+            "ChoiceDataList": [
+                "嗯，我知道",
+                "嗯，我知道"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "知道就好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……我想吃点中山庆典\n送的巧克力提振精神，\n便从包装袋中拿了出来。",
+            "ChoiceDataList": [
+                "（……这是？）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "巧克力包装上写着一句宣传词。\n“温馨的夜晚时光，\n来一段放松时刻”。",
+            "ChoiceDataList": [
+                "……买自己的巧克力时顺便买了这个啊"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "隔天训练前，\n我叫住了中山庆典。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……什么？情人节的回礼？",
+            "ChoiceDataList": [
+                "你不是送了我巧克力吗？",
+                "你不是送了我巧克力吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "其实那可以说只是个送礼的借口。\n我把事先准备好的礼物交给她。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……这是什么？加热眼罩？",
+            "ChoiceDataList": [
+                "是啊，睡觉前用用看吧",
+                "是啊，睡觉前用用看吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……哦～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "你没有要我好好休息呢。",
+            "ChoiceDataList": [
+                "就算这么说你也不会照做吧？",
+                "就算这么说你也不会照做吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……也对。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "现在我们都处在挑战极限的时刻，\n我会心怀感激地使用的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "隔天，中山庆典脸上的气色\n看起来比昨天好了一点。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……什么？之前情人节的回礼？",
+            "ChoiceDataList": [
+                "是啊，想吃什么尽管说吧",
+                "嗯，想吃什么尽管说吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "其实那只是个送礼的借口。\n我提议请她吃饭，希望能让她放松一下，\n就算只有短暂的时光也好──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "………………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……那我想吃粥。",
+            "ChoiceDataList": [
+                "粥、粥吗！？你不选寿司之类的！？",
+                "粥、粥吗！？你不选寿司之类的！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……没错。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看来她真的十分疲劳了。\n当晚我赶紧煮好粥送去给她──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……还真的煮了啊。",
+            "ChoiceDataList": [
+                "当然了，我要送你回礼呀"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "哈……你还真是个\n彻头彻尾的滥好人呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……我吃饱了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "调味还真温和。",
+            "ChoiceDataList": [
+                "我希望能吃起来没有负担"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……没想到真有人\n能相像到这种地步。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "我要睡了。\n明天还有得忙呢。",
+            "ChoiceDataList": [
+                "祝你有个好梦",
+                "祝你有个好梦"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……嗯，你也是。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "一起加油吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "──我不记得那天晚上的梦境内容了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "但既然我能一路熟睡到早上，\n想必一定是个舒畅的美梦吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

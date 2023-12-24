@@ -1,0 +1,489 @@
+{
+    "Title": "夏季集训（第二年）途中",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "夏季集训也过了一半──\n青竹回忆努力进行着严苛训练，\n仿佛要把自己逼到极限。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "抵达终点──！！\n呼呼……呼呼……呼……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "训练不会结束了吧？\n我还能继续喔！",
+            "ChoiceDataList": [
+                "你该让身体休息了，好为明天做准备"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "我不要紧啦！反倒是为了明天做准备，\n我要在集训宿舍先做一些重训！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "今天也谢谢你的指导！\n明天再麻烦你了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "青竹回忆的斗志之所以会沸腾到最高点，\n应该是受到了“日本打比”──\n以及劲敌们精湛表现的影响吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "热衷训练是好事，但我担心她\n因为训练过度导致疲累或受伤……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "她那样，的确是练得太过火了。\n怎么样，要不要交给我们处理看看？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "向我攀谈的是青竹回忆的前辈──\n拥有江户之子特质的稻荷一，\n以及在资深级名闻遐迩的玉藻十字。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "稻荷一",
+                "资深级",
+                "玉藻十字"
+            ]
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "看她把自己逼得那么紧，\n我们实在不能袖手旁观啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "就是说啊！为了可爱的后辈，\n让我们来助她一臂之力吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "“祭典训练”！！\n那是什么！我第一次听说！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "喂喂喂，这可是特雷森学园夏季集训的传统耶。\n你居然不晓得喔？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "特雷森学园"
+            ]
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "一般都是由有经验的人进行邀约，\n看来这是你第一次受到邀请啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "不过，从今天开始还不算太晚！\n“祭典训练”可以效率十足地\n把你锻炼得结实有力喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "结实有力是吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "而且既开心，又不太会造成身体负担！\n是一种能够放心锻炼的优秀方式！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "喔喔！也就是说，\n不会让训练员担心啰！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "我想试试“祭典训练”！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "很好，就等你这句话！\n那么，该帮她锻炼什么地方呢，训练员？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我从来没听过那种训练方式，\n大概是稻荷一她们有什么打算吧。\n就先配合两人的说法好了……！",
+            "ChoiceDataList": [
+                "提升肌力的训练如何？",
+                "提升肌力的训练怎么样？",
+                "就做培养坚毅韧性的那个吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "透过“祭典训练”提升肌力啊！\n我想赶快做做看！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "喔，你很有兴趣嘛！\n好，那我们到训练场去吧～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "喔喔！就是这里……！\n请问，我该做什么好呢！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "喔！那里长著凤梨对吧？我们要开始进行──\n采收凤梨的“丰收祭”啦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "采收凤梨！？\n好奇特的训练喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "那超重的喔！\n半吊子的力量可是搬不动它的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "再来，我们采收完之后要榨凤梨汁，\n制作特别的刨冰！\n说到祭典就少不了刨冰啦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "这还真是不折不扣的“丰收祭”！\n我这就去采收！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "唔喔喔喔喔喔！凤梨我来啦────！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "唔唔唔唔──！奇怪！？\n超硬的耶……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "嘿嘿，那是有诀窍的！\n你别光靠蛮力，\n在拔的时候转动身体看看。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "呃……像这样转动身体──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "喔喔！慢慢拔起来了！\n稻荷前辈，你好厉害！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "稻荷"
+            ]
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "就是这样！然后，铆足全力一拉……！\n唔，呃啊……拉！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "噗，呵呵……！那是怎样～～！\n别逗我笑啦～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "啊哈哈哈！\n不要用力过猛，就这样拔起来！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "好、好的！我要拔啰！\n预────备──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "哎呀～果汁真美味耶！\n感觉再也回不去普通的刨冰了！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "嘿嘿，疲倦的身体都被疗愈了对吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "这就是“丰收祭”的乐趣所在！\n感觉怎么样啊，青竹？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "不但能做重训，还能吃到美味的刨冰，\n简直太棒啦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "那真是好极了！\n接下来也要开心地训练喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "好的！稻荷前辈、玉藻前辈！\n还有训练员！真是谢谢你们！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "玉藻"
+            ]
+        },
+        {
+            "Name": "独白",
+            "Text": "充分体验过“祭典训练”后，\n青竹回忆似乎放松下来了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "“那个”是指什么！？\n我超好奇的耶！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "有个办法可以让你的韧性变得超强！\n你一定会喜欢的～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "特训内容很单纯。\n就是用这玩意拿下“熊次郎”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "……玩具枪？要打靶是吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "没错！每年都有许多强者挑战\n却不幸败阵的巨大玩偶“熊次郎”！\n你要把它拿下！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "是个强敌呢！！\n唔喔喔喔喔喔，我整个热血沸腾起来啦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "首先由我来示范给你看。\n目标是一枪打中要害……这样才够潇洒！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（砰……！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "瞄准底座……！熊次郎在摇晃了！\n它会就这样掉下来吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（停住……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "唔～～～！真可惜！！\n不过，还有机会──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "呵，挑战的机会就只有一次。\n爽快收手也是江户之子的潇洒之处啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "稻荷前辈……！你真是太老练了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "稻荷"
+            ]
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "不，还有子弹却不打，未免太浪费了吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "我可没有那种拘泥！\n只要能拿到小不点们的伴手礼就好！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "喝啊啊啊啊啊啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "好猛的连射！这样的话……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "呃，全都没中嘛！？\n我射得太猛失了准头～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "稻荷一",
+            "Text": "真不愧是熊次郎……跟传闻中一样厉害。\n──不过，想必青竹接下来一定会\n让我们看到盛开的烟火！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "没错！动手吧，青竹！！\n别让我们打的这场仗白费工夫喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "两位前辈……唔──！\n我会做到的！我要满足你们的期待！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "我该做的事情有两件！首先瞄准稻荷前辈\n指示的弱点，也就是底座。接着再像\n玉藻前辈那样，一鼓作气地……射下去！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "玉藻"
+            ]
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "喝啊啊啊啊！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "熊、熊次郎晃得好厉害！\n可以的！你办得到，青竹！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "上啊────！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "玉藻十字",
+            "Text": "感觉真不好意思耶！\n居然把好不容易打到的“熊次郎”让给我。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "请拿去送给你弟弟他们吧！\n我只要打倒熊次郎就很满足了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "……但没办法再和它交战，也是挺寂寞的。",
+            "ChoiceDataList": [
+                "去寻找新的强敌就好了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "……！\n说得也是喔！\n如果是这么开心的挑战，那我很欢迎！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "我们之后再一起锻炼吧！\n“祭典训练”真是太棒了！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在前辈们的协助之下，\n青竹回忆愉快地锻炼出百折不挠的精神。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}
