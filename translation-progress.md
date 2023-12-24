@@ -644,13 +644,13 @@
 | 0013 | 轟け、エール！トレセン学園応援団        | 回响吧，喝彩！特雷森学园应援团   | Komoe | Komoe |
 | 0014 |『刻限』～Silks&Three Riddles～         | 『约定之时』～Silks&Three Riddles～ | Komoe | Komoe |
 | 0015 | シーク・ソルヴ・サマーウォーク！        | 寻求・解答・夏日漫步！           | Komoe | Komoe |
-| 0016 | 大乱闘！？夏色☆バカンス               | 大乱斗！？夏色☆假日             |      |      |
-| 0017 | 鉄翼蒸気奇譚                          | 铁翼蒸汽奇谭                     |      |      |
-| 0018 | デイズ・イン・ア・フラッシュ           | Days in a Flash                 |      |      |
-| 0019 | おもいより、おもいかけ                 | 同心而聚，同心而驰              |      |      |
+| 0016 | 大乱闘！？夏色☆バカンス               | 大乱斗！？夏色☆假日             | Komoe | Komoe |
+| 0017 | 鉄翼蒸気奇譚                          | 铁翼蒸汽奇谭                     | Komoe | Komoe |
+| 0018 | デイズ・イン・ア・フラッシュ           | Days in a Flash                 | Komoe | Komoe |
+| 0019 | おもいより、おもいかけ                 | 同心而聚，同心而驰               | Komoe | Komoe |
 | 0020 | Illuminate the Heart                 | Illuminate the Heart           | 完全翻译√ | *双枪狙击twoguns（Bilibili）、 *シイー(Bilibili) |
-| 0021 | Happy new future ～朝焼けの絆～       | Happy new future ～朝霞之牵绊～ |      |      |
-| 0022 | スイートメモリー・ティータイム         | 甜蜜回忆・茶会时光              |      |      |
+| 0021 | Happy new future ～朝焼けの絆～       | Happy new future ～朝霞之牵绊～ | Komoe | Komoe |
+| 0022 | スイートメモリー・ティータイム         | 甜蜜回忆・茶会时光              | Komoe | Komoe |
 | 0023 | Leap into a New World!               | Leap into a New World!         |      |      |
 | 0024 | されば君、かなし                      | 正因如此，你才美丽              |      |      |
 | 0025 | 神算鬼謀！？春祭！熱闘鬼ドッジ         | 神算鬼谋！？春日祭！热血激斗躲鬼球 |      |      |
