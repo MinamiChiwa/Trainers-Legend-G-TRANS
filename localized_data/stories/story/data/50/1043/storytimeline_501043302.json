@@ -1,0 +1,588 @@
+{
+    "Title": "抽奖试手气！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我和新光风一起外出后回程的路上。\n经过傍晚时的商店街……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "嗯？那边聚集了人潮。\n是在做什么吗……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "看过来看过来，现正举办新春大抽奖～！\n特奖可是“温泉旅游券”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "温泉旅游券"
+            ]
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "一奖是“特等胡萝卜汉堡排”，\n二奖是“一整堆胡萝卜”，\n三奖则是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "来喔来喔，是好玩的抽奖活动喔！\n任何人都可以来抽喔～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "哦哦～！？\n手下快看！有抽奖活动耶！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "大叔大叔！\n也让风风抽啦～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "哈哈哈，真是活泼啊～\n你有抽奖券吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "没有就不能抽吗？\n唔唔唔唔……！",
+            "ChoiceDataList": [
+                "买东西好像就会拿到了喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "是吗？\n怎么不早说啊──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "好──！\n那我们赶快去买点什么吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "嘿嘿嘿～～！\n看风风把好奖给抽走～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就这样，\n新光风用得到的抽奖券，\n得意洋洋地转动抽奖机的把手！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "结果是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "天啊！恭喜────！！\n抽到特奖“温泉旅游券”了～～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "新光风",
+            "Text": "──唔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "唔喔喔喔喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "好棒好棒！太棒啦～！\n风风是不是抽到最棒的奖了！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "也就是说、也就是说……！\n风风可以去温泉旅行了！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "太好了！宽敞的温泉跟美味的料理，\n还有软绵绵的睡床都是我们可以独享的了♪",
+            "ChoiceDataList": [
+                "我们独享？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "？不就是风风跟你一起……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "唔！！那、那那那那是因为！\n上面写着“双人同行”啊！\n就是不能一个人去的那种啦！",
+            "ChoiceDataList": [
+                "你没有其他想一起去的人吗……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "少、少啰唆啦～！\n风风就是需要一个帮忙拿行李的人啦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "风风的个性呢，\n是不会主动去邀约谁的啦！\n但是风风又需要一个帮忙拿行李的人！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "准备工作、导览工作、回程的整理工作，\n全～～～～都是你要负责做的，\n做好心理准备吧～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "说完，\n新光风就硬把温泉旅游券塞到我手中。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "敢弄丢，风风就“啊姆”咬你一口。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "等风风的行程都告一段落之后，\n你就要负责带风风去喔！\n知道了吗？",
+            "ChoiceDataList": [
+                "真的要跟我一起去啊？",
+                "真的要跟我一起去呀？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "唔唔…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "你不想吗……？",
+            "ChoiceDataList": [
+                "没有不想，我觉得很开心！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "……唔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "哼哼──♪那就这么说好了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "因此，旅游券就暂时交由我保管了。\n等她完成远大的目标后，\n就带她去玩当作庆祝吧……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "恭喜抽到一奖～！\n奖品是“特等胡萝卜汉堡排”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "新光风",
+            "Text": "喔喔喔～！看起来很好吃耶！\n真大～！（流口水……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "光看着就觉得肚子饿了！\n快点带回去吃吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "于是，\n我们在商店街买了沙拉、饭团跟甜点，\n准备带回训练员室里一起想用。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "唔唔，好香喔……刀在哪？\n快点快点！我们一人一半～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "开动了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "啊姆、啊姆……嗯嗯嗯！\n这、这是……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "风风喜欢的那种！\n“比较有口感的汉堡排”！",
+            "ChoiceDataList": [
+                "你说什么？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "风～风～说～！\n喜欢这种比较有嚼劲跟肉感的啦。\n就是比较少面粉跟蛋液的味道。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "胡萝卜也没有煮得太软，\n甜度也刚刚好……哼哼♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "跟风风的妈妈做的有点像啦！\n虽然还是妈妈做的比较好吃就是了！",
+            "ChoiceDataList": [
+                "原来如此"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就这样一边了解到新光风对食物的喜好，\n一边一起享用了和乐的晚餐。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "二奖～！！\n奖品是“一整堆胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "新光风",
+            "Text": "喔喔～这么多的胡萝卜……！\n二奖也挺不错的嘛。",
+            "ChoiceDataList": [
+                "可以随意吃个够了",
+                "可以随意吃个够了呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "嗯嗯，可以爱吃多少就吃……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "不对！这么多的胡萝卜，\n只是拿来吃就太可惜了！",
+            "ChoiceDataList": [
+                "咦？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "嗯嘿嘿嘿～～！！\n风风要用来恶作剧啦～～～！！！",
+            "ChoiceDataList": [
+                "你、你想做什么……！？",
+                "你、你想做什么……！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（──叩叩。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "来了……呃，没有人……？\n真奇怪……咦？这是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "What !?地上有胡萝卜！\n是surprise吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "──欸，新光风！是你吧？\n最近在大家房门口放胡萝卜，\n玩那种敲了门就跑的游戏的人！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "哼──风风才不知道你在说什么勒～！\n才不是风风做的啦～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "哈哈哈，我是在鞋柜里面找到胡萝卜的。\n真是惊天动地的场面。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "啊，什么嘛！\n原来会长是有发现胡萝卜的嘛！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "因为都没来跟风风说什么，\n风风还以为是胡萝卜放太深没被看到……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "才──────怪！\n风风什么都不知道啦～～～～～！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "呵呵，换作是平常的话，\n的确是要因为恶作剧而给你适当的惩罚……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "草上飞",
+            "Text": "呵呵呵，但因为大家收到都很开心嘛～\n谢谢你分享胡萝卜给我喔。\n新光风前辈。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "哼──！\n才不是风风做的勒～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "真是的……就是爱嘴硬……\n把东西分享给大家，\n就让你这么不好意思承认吗……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "──风风就做了像这种感觉的\n恶作剧啦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "呵呵呵！整个美浦宿舍现在都在讨论\n“偷放胡萝卜魔人”的话题喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "新光风一脸得意的模样。\n幸好是个让大家都开心的恶作剧……！\n我默默在心里庆幸著。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "三奖～！\n奖品是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "新光风",
+            "Text": "胡萝卜……就一根而已……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "是──────喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "风风是愿意收下啦，但……\n亏我们还特地去买东西换抽奖券的说……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "都特地买东西了说……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "唔唔唔……唔啊啊啊──────！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "新光风突然从胡萝卜的顶部\n开始一口一口地吃了起来！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "──噗哈！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "哼！风风一口气吃掉了！",
+            "ChoiceDataList": [
+                "吃得真是豪迈……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "因为风风是坏蛋啊！\n所以就豪迈地吃了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "这就是让风风失望的惩罚！\n那根胡萝卜就乖乖成为坏蛋赛马娘的养分吧～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "新光风因为吃了点心而显得满足。\n我心里则是期望她可以多吃多长大。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "很可惜，没抽中！\n参加奖是“卫生纸”喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "新光风",
+            "Text": "是……卫生纸……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "唔唔唔，无聊死了啦……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "风风想要的、想要的是……\n“砰！”地一次就中大奖的感觉啦……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "唔～～～！风风要回去了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "新光风看起来很不开心地\n开始朝着学园的方向\n走去。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,533 @@
+{
+    "Title": "圣诞节",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "训练员！\n圣诞快乐哩！",
+            "ChoiceDataList": [
+                "圣诞快乐！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "今天是圣诞节。\n为了慰劳彼此一路以来的努力，\n我跟雪之美人一起开了圣诞派对。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "不过，我真是吓了一跳。\n没想到你把这里装饰得这么漂亮。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "像是墙上挂的彩带，还有圣诞树……\n这些全都是你一个人布置的吗？",
+            "ChoiceDataList": [
+                "我想说雪之你应该会很开心吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "那还用说！\n我超开心的喔～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "这让我想起了\n以前在老家开的派对呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "记得当时一走进房间，\n就有种好～温暖的感觉。",
+            "ChoiceDataList": [
+                "太好了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "虽然算不上什么谢礼……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "不过，我试着煮了盛冈的乡土料理！\n是我打电话请妈妈教我的喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "其实我不太会做菜，\n原本是想买些现成的熟食过来……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "但又觉得还是妈妈的味道最好吃。\n想说既然都要准备，就努力试试看好了！",
+            "ChoiceDataList": [
+                "谢谢你，我好期待",
+                "谢谢你，我好期待"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "耶嘿嘿，希望你给评语的时候\n别太严苛喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "刚才我把料理先放在走廊了，\n我去拿一下！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "（喀啦啦啦……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "不行……这些是别人的食物，\n别人的食物……别人的……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "嗳哟哟哟！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "──真的非常抱歉……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "不会啦～！\n小栗你只是盯着料理看而已啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我被雪之美人的声音吓一跳，于是急忙赶过去，\n结果在走廊上看到了──小栗帽。",
+            "ChoiceDataList": [
+                "（“怪物”小栗帽……）"
+            ],
+            "ColorTextInfoList": [
+                "小栗帽"
+            ]
+        },
+        {
+            "Name": "",
+            "Text": "她也是来自地方的偶像赛马娘。\n雪之美人之所以会掀起热潮，\n可说是因为她的关系……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "她是最先走上与雪之美人相同道路的前人。\n雪之美人在感到挫折的时候，\n也曾在心里想像过小栗帽的身影。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "──你刚才发出了我从来\n没听过的惨叫声……\n我应该吓到你了吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "那、那算是我故乡的方言啦……\n而且我这个人反应本来就比较大。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "我还打断了你们的派对，\n真的是非常非常抱歉……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "不会啦，这些都是可以重新加热的料理。\n小栗你要吃了再走也可以喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "不，我不能吃。\n这些是你为了训练员准备的吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "我并没有饿到连别人的心意也要吃下肚。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "（咕噜噜噜……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "……虽然没有那么饿，\n但可以让我吃点什么吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "当然可以！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "──我吃饱了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "哎呀……你真的很能吃呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "别人常这么说我，\n但其实我并没有自觉……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "因为我还在笠松的时候，\n一直都是这样吃的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "笠松……是小栗的故乡对吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "雪之，你是从盛冈来的对吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "咦？原来你知道啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "当然了。\n最近我常听到你的名字。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "你好像很努力呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "哇哇！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "那、那个小栗……\n竟然夸奖我了……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "其实我被小玉骂了一顿，\n所以才知道你的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "嗯？\n你的意思是……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "……？",
+            "ChoiceDataList": [
+                "你为什么会被骂？",
+                "你为什么会被骂？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "好像是因为我总是心不在焉，\n不太注意周遭的事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "所以她叫我要多关注……\n跟在我后面的后辈。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "原来如此，\n毕竟真的有很多人在追随着你嘛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "但“跟在我后面”\n这点让我很不解。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "无论是我还是其他任何人，\n都不可能跟在谁后面。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "大家应该都是跑在自己的路上才对啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "不过小玉那样跟我说之后，\n我就开始注意周遭了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "然后就知道了你的活跃表现。\n你从很远的地方来，并且抓住了大家的心。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "你也获得了\n大家非常多的爱啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "……是的。\n非常多！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "为了那些支持你的人，\n今后也要继续努力喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "好的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "天啊～\n小栗果然好帅喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "不过，能让她知道我现在的表现……\n我觉得好高兴。",
+            "ChoiceDataList": [
+                "你充满了干劲呢",
+                "你充满了干劲呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "是啊，我要成为不输小栗的\n强大赛马娘～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "……呃，啊啊！\n料理！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "现在我要赶快去加热，\n我去一下厨房喔！",
+            "ChoiceDataList": [
+                "我来帮你吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "啊……那就麻烦你了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "这让我想起了\n以前妈妈跟爸爸的互动呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "妈妈常会对爸爸生气地说：\n“不过就只是把菜拿去热而已，\n别一副了不起的样子。”这样喔。",
+            "ChoiceDataList": [
+                "抱歉……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "啊啊！？\n我不是那个意思……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "哇啊，请不要觉得沮丧馁～～！\n把菜拿去热，这样就很够了啦～！",
+            "ChoiceDataList": [
+                "……哈哈",
+                "……呵呵"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "啊，你是在捉弄我吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "就这样，圣诞节的夜色\n在热闹的气氛下逐渐转深──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "那么～我已经先热好料理了，\n我们赶快来吃吧。",
+            "ChoiceDataList": [
+                "咦？你什么时候热的……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "我趁刚才训练员送小栗出去的时候，\n稍微准备了一下。",
+            "ChoiceDataList": [
+                "手脚真快呢",
+                "手脚真快呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "嗯哼！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "这三年来，\n我可不是只有在发呆而已喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "我也成长了很多哩！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "……我是这么想的啦。\n你觉得呢……？",
+            "ChoiceDataList": [
+                "真的成长了很多喔",
+                "真的成长了很多喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "耶嘿嘿。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "有时候，我还是需要别人推我一把，\n才有办法对自己有自信……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "今后可以继续请你\n帮我这个忙吗？",
+            "ChoiceDataList": [
+                "当然！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "谢谢你哩！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "那我们继续来开派对吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "就这样，我们度过了一个\n愉快的圣诞节。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

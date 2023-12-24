@@ -1,0 +1,461 @@
+{
+    "Title": "抽奖试手气！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我和山人西风一起外出的回程上，\n看见商店街的一处特别热闹。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "呵呵，如同百花齐放般热闹呢。\n就像吹着青岚之风的感觉。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "看过来看过来，现正举办新春大抽奖～！\n特奖可是“温泉旅游券”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "温泉旅游券"
+            ]
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "一奖是“特等胡萝卜汉堡排”，\n二奖是“一整堆胡萝卜”，\n三奖则是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "来喔来喔，是好玩的抽奖活动喔！\n任何人都可以来抽喔～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "……哎呀，那间旅馆是……",
+            "ChoiceDataList": [
+                "怎么了？",
+                "怎么了吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "我曾听人说过，\n它座落在四周环山\n且吹着舒适惠风的地方。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "听说那里栖息著许多森林里的动物……\n各种小动物、小鸟。",
+            "ChoiceDataList": [
+                "要抽奖看看吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "呵呵，也好。\n就相信这个机遇是祥风吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "于是，\n我们去买了日用品来获得抽奖券──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "山人西风转动了\n抽奖机的把手！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "结果是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "天啊！恭喜────！！\n抽到特奖“温泉旅游券”了～～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "山人西风",
+            "Text": "……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "哎呀，真是吓到我了。\n竟然真的抽中了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "就像冬天吹起白南风；夏天吹起寒风……\n呵呵，真是令人意想不到呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "那我们该怎么办才好呢？\n要在薰风之时去呢？还是秋风之时去呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "难得有这样的机会，\n希望能在像槐月南风般\n悠闲日子的时候再去呢……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "现在每天都忙于训练跟比赛。\n若硬是安排旅行，\n或许只会徒增疲劳也不一定。",
+            "ChoiceDataList": [
+                "在有空之前先收著，你觉得呢？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "等到有空之后……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "嗯，这样也好，就这么决定吧。\n毕竟是难得的瑞风，等到合时之风吹起再去吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "……呵呵。\n往后每一天都像是在等待春节东风般。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "真是令人期待呢，训练员。",
+            "ChoiceDataList": [
+                "我也要一起去吗？",
+                "我也要一起去吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "当然。\n一起迎来这阵祥风的是我跟你啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "……你不想去吗？",
+            "ChoiceDataList": [
+                "没有，我不是这个意思……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "那就一起去吧。\n爽籁之旅在等着我们呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就这样，我们约好，\n等行程空下来后要一起去温泉旅行。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "恭喜抽到一奖～！\n奖品是“特等胡萝卜汉堡排”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "山人西风",
+            "Text": "一奖……\n看来是还差一步。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "不。\n这也已经是十足的好风了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "就像在自然无为的日子里，\n突然落下一道迅雷般。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "那么，如此难得的好运……\n希望能在凉风中好好享用呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "可以的话，你要不要也一起呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "于是，在她的引领下，\n我们来到景色辽阔的高地──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "来吧，坐这边。\n我还准备了茶喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "──真是美丽的红色云彩。\n即将黄昏。就要吹起榆风了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我们就这样一边欣赏美景，\n一边一起享用了汉堡排。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "二奖～！！\n奖品是“一整堆胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "山人西风",
+            "Text": "哎呀，错过了祥风呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "呵呵，这么多漂亮的胡萝卜。\n这可不是那么容易入手的呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "就像瑞风般\n水嫩的根与菜叶。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "我一个人吃不完，\n跟训练员两个人吃也是有点太……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "……呵呵，我想到好办法了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──隔天。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "早安。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "我做了些手工胡萝卜蛋糕放在那边。\n不嫌弃的话素质也请用吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "咦？那么多的蛋糕，\n都是西风做的啊！？\n哇，我要吃我要吃～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "西风的料理总是给人温柔的感觉，\n吃了会很暖心呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "哎呀，真是和风般的称赞……\n谢谢你。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "暖心……\n那我待会也拿一份去给训练员吃好了。\n呵呵。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "三奖～！\n奖品是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "山人西风",
+            "Text": "哎呀，居然是三奖……\n距离特奖是八重海风般遥远呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "抽奖就像风车一样。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "虽然早知道这个道理……\n呵呵，过于期待还是不太好呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "话虽如此，这也是难得的机缘。\n一根胡萝卜。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "……既然得到了，\n那就用来做点什么吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "于是，\n她决定用胡萝卜来做晚餐──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "炖胡萝卜与野草，\n配上当季的鱼跟白饭。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "心存感激地开动吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就这样，\n我们一起享用了令人暖心的晚餐。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "很可惜，没抽中！\n参加奖是“卫生纸”喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "山人西风",
+            "Text": "哎呀……\n没有抽中啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "……不对，是否把这阵风视作黑风，\n全取决于自己采用什么观点。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "不能沉浸在失望之中。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "很快地，\n就会再吹起新的风。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──山人西风虽这么说，\n却看起来还是难掩落寞。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

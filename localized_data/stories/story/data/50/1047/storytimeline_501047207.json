@@ -1,0 +1,342 @@
+{
+    "Title": "迎向天皇赏（秋）",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "那是距离“天皇赏（秋）”一个礼拜前，\n早上的训练时段发生的事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "荒漠英雄比预定时间提早一点现身，\n脸上表情异常僵硬──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "那个……训练员。\n开始训练前……\n我想拜托你一件事。",
+            "ChoiceDataList": [
+                "拜托我？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "是的。那个──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "……我想麻烦你把我接下来说的话\n写进《英雄传说》里。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "可以的话最好独立写成新的篇章，\n越显眼越好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "……可以麻烦你吗？",
+            "ChoiceDataList": [
+                "好，我知道了",
+                "嗯，我知道了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我点点头，\n拿出那本写着《荒漠英雄传说》的笔记本。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这是我们从出道前就开始动笔书写的，\n全世界只有一本的英雄传说。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "……谢谢你。\n那……我要开始说了喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "“我们即将前进天皇赏（秋）。\n为了拿下秋季奖牌的荣耀──”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "“我发誓绝对要拿下那份荣耀。\n为此，英雄此刻唯有胜利一途。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "“其后是日本杯。接着是有马纪念。\n──同样地，唯有胜利一途。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "日本杯"
+            ]
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "……“唯有胜利”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我赶紧照抄下来后抬头望向她。\n老实说我十分震惊。\n这──看这描述，简直就像──",
+            "ChoiceDataList": [
+                "英雄，你──！",
+                "英雄，你──！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "是的。……没错，训练员。\n我一定要办到。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "──我要称霸“秋季资深三冠”！",
+            "ChoiceDataList": [
+                "……！！"
+            ],
+            "ColorTextInfoList": [
+                "秋季资深三冠"
+            ]
+        },
+        {
+            "Name": "独白",
+            "Text": "我一时语塞。“秋季资深三冠”。\n若想获得此称号，唯有称霸闪耀系列赛最顶尖的\n强者们云集的三场比赛──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "唯有在“天皇赏（秋）”、“日本杯”，\n以及“有马纪念”全都夺冠一途。\n",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "历史上曾经出现过无数英杰，然而直到此刻，\n只有唯一一位选手能够获得此称号──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "那就是曾缔造除了“皇帝”鲁道夫象征以外\n至今无人能及的七次称霸GⅠ纪录，并且\n全年无败绩，以压倒性的实力留名于历史的──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "皇帝"
+            ]
+        },
+        {
+            "Name": "独白",
+            "Text": "“世纪末霸王”好歌剧而已。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "而荒漠英雄却亲口说出\n要达成如此艰难的“秋季资深三冠”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "……我发现……\n我一直以来都太天真了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "我竟然觉得即使不起眼也要脚踏实地努力。\n我竟然觉得这样有朝一日就能实现梦想──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "真的是……太过天真了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "在我默默努力的时候，\n经典级选手们迅速夺走人们的目光。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "不知不觉发现自已引发不了任何话题，\n就连新手级选手都比我还受瞩目。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "到最后──\n终于连英雄的称号都不得不拱手让人。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "我绝对不要这样！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "这两个字、这个称号！！\n我绝不让给别人，绝不能让给其他选手！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "我知道这样很丢人、很固执。\n我知道我太过执著，但是！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "因为……那是……我的梦想啊！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "训练员！请照着写下来！\n你有在写吗！？",
+            "ChoiceDataList": [
+                "──有！",
+                "──嗯！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "“英雄是我才对。”\n“我才是英雄。”\n“我才是真正的英雄！”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我将荒漠英雄的话语\n一一写进《英雄传说》。\n每句话都不加修饰、洋溢着激情。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "“光跑在平庸的道路上是写不出好故事的”！\n",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "“若想得到珍贵的收获、\n若想颠覆眼前这个时代，\n就必须展现出──压倒性的存在感”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我眨眨眼睛。荒漠英雄的身影变得模糊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "真是不可思议，她明明身穿平时那件运动服、\n站在平时的训练场地，\n但此刻我眼中的她──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "“我将高高举起手中之剑、\n高举英雄的象征！\n我将比谁都坚强、犀利地！”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "“高举这把剑──直至万众瞩目！”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──正是全世界最强的英雄。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "──所以我要在此宣言。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "从此刻起，本人荒漠英雄\n将为了达成“秋季资深三冠”开始做准备！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者们",
+            "Text": "（哦哦哦哦……！？）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "到了“天皇赏（秋）”当天。\n接受媒体访问时，被问到今日抱负的\n荒漠英雄充满自信地开口宣告。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "记者们一阵哗然，相机快门声此起彼落。\n人们对她投向好奇、兴奋，\n还有──质疑的眼光。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "不过，即使身处这些反应之中，\n荒漠英雄仍然勇敢地高声宣言。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "因此……回到一开始的提问，\n关于我对“天皇赏（秋）”的抱负……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "我绝对会赢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "……此刻我站在这里就是为了赢，\n这是我唯一的目的！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

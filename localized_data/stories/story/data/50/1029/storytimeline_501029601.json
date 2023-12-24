@@ -1,0 +1,44 @@
+{
+    "Title": "这次一定要获胜！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "鞋带好好地绑紧了，\n出发前也喝过特制苹果汁了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "训练也很扎实，\n这次应该能跑赢……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "嗯～该做的我都已经做了……！\n不，万一我还漏掉了什么──",
+            "ChoiceDataList": [
+                "别忘了还要保持冷静喔",
+                "别忘了还要保持冷静喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "好、好的……！\n我要冷静、冷静……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "虽然我平常爱在路上逗留，但比赛就不同了！\n目标只有第一名，我要上了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

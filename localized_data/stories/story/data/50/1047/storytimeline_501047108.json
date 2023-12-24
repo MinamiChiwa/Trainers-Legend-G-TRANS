@@ -1,0 +1,581 @@
+{
+    "Title": "粉丝感谢祭",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "今天是春季粉丝大感谢祭！\n荒漠英雄将参加队伍竞技，\n因此我来到现场为她加油──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "活动播报员",
+            "Text": "注意看了，战况越来越激烈了！\n队伍对抗赛．VR游戏“寻找宝珠！”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "活动播报员",
+            "Text": "本项竞赛将以通关花费的秒数来决定排名！\n下一队挑战者是──\n这四位选手！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "好耶──────！\n不管魔王还是巨龙都尽管上吧──！\n",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "我会努力让大家看得开心！\n当然也会努力获得最佳成绩喔♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "嗯，我就看情况尽量加油啰～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "（好惊人的欢呼声……！\n毕竟同队前辈们都很有实力，\n观众也对她们期待有加……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "那个，我会努力帮上大家的忙！\n我会全力以赴辅助各位──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "很好！拜托你啦，队长！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "…………咦？队长？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "因为不倒翁朝着你的方向停下来了嘛！\n这可是神明的启示喔，\n看你的啦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "活动播报员",
+            "Text": "好的，那么荒漠英雄队……\n开始挑战！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "剑士荒漠英雄",
+            "Text": "咦咦咦咦咦……！？\n啊啊，开始了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艺人黄金船",
+            "Text": "很好，上啊啊啊──！\n揍飞所有敌人──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "魔法师樱花桂冠",
+            "Text": "呵呵，请多指教啰，小英队长♪\n事不宜迟，你有什么作战？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "剑士荒漠英雄",
+            "Text": "呃、呃呃，那个……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "剑士荒漠英雄",
+            "Text": "（虽、虽然有点不安……\n但既然身为队长，\n我得好好辅助各位前辈……！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "剑士荒漠英雄",
+            "Text": "总、总之先收集情报吧……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就这样，\n队伍就在队长．荒漠英雄的指挥之下展开了挑战──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "村民",
+            "Text": "“海蓝色宝珠”？\n打倒飞龙就拿得到啦。\n听说剑士们常常打到宝珠带回镇上卖呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "剑士荒漠英雄",
+            "Text": "（既然如此，\n直接去找卖家买应该比较节省时间吧……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艺人黄金船",
+            "Text": "飞龙！？\n可恶的飞龙竟然还活着！\n我们立刻就去打倒它！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "剑士荒漠英雄",
+            "Text": "（咦！？……啊，不过这样也能让观众们\n看得比较开心……应该比较符合\n“粉丝感谢祭”的宗旨吧……可是……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商人青云天空",
+            "Text": "等一下～你们不嫌战斗太麻烦了吗？\n去镇上逛逛，直接用买的吧～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艺人黄金船",
+            "Text": "你说什么！？天空，你是慵懒系角色啊！？\n懒懒天空吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "魔法师樱花桂冠",
+            "Text": "呵呵，\n无论要去打倒飞龙还是跟店家买，\n我觉得两种方法都会很有趣──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "魔法师樱花桂冠",
+            "Text": "所以就交给队长做决定吧。\n小英，你觉得呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "剑士荒漠英雄",
+            "Text": "啊……这个嘛，\n我想，去找有卖的店家应该比较节省时间……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艺人黄金船",
+            "Text": "啧～既然队长都这样说了也只能听话。\n现在我只是一个小小基层员工……\n老板，你说什么我都听！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "剑士荒漠英雄",
+            "Text": "（──刚刚能做出正确选择\n都是天空跟桂冠的功劳呢……\n我、我真的得振作起来了！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "公鸡型怪物",
+            "Text": "咕咕咕────！\n宝珠！交出宝珠！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商人青云天空",
+            "Text": "呜哇～遇到战斗了啊。\n没想到会在这里遇上阻碍～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "剑士荒漠英雄",
+            "Text": "（战、战斗……！身为队长，\n我得负责思考合作战术对吧……！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "剑士荒漠英雄",
+            "Text": "（我想想，桂冠是魔法师，让她负责在\n后方支援……？黄金船是艺人，具体来说\n艺人有哪些技能啊……我想想我想想……！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "魔法师樱花桂冠",
+            "Text": "两位，请后退一点！\n看我的～防御魔法！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艺人黄金船",
+            "Text": "很好，笨公鸡吃我这招！\n魅力攻击．阿船镜～球～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（咚────！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "剑士荒漠英雄",
+            "Text": "对、对不起，对不起……！\n我完全派不上用场……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "魔法师樱花桂冠",
+            "Text": "没这回事！\n小英也尽了队长的职责努力思考战略啊。\n就快到达终点了，耐住性子继续前进吧♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "一行人就这样顺利地赢得战斗，\n应该快要接近终点了──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "巨龙",
+            "Text": "咕喔喔喔喔喔喔喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "活动播报员",
+            "Text": "喔喔，最终头目终于登场了～！\n目前到达这里的队伍还没有一队成功打倒它！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "活动播报员",
+            "Text": "没错，只要等待一段时间巨龙就会睡着！\n但这项竞技比的是通关时间……她们会选择\n赌上一切进行战斗吗？还是稳健地等龙睡着！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "魔法师樱花桂冠",
+            "Text": "哇啊，看起来好强喔……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "魔法师樱花桂冠",
+            "Text": "嗯～要是想确实到达终点，\n乖乖等它睡着才是明智之举吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "剑士荒漠英雄",
+            "Text": "啊，但既然对手是龙──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "剑士荒漠英雄",
+            "Text": "（……不对，不能保证这条龙的习性也相同……\n要是弄错反而添了更多麻烦怎么办……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "有那么一瞬间荒漠英雄似乎正要挺身而出，\n却又陷入了犹豫。不过……她原本就\n兼具知识与勇气，我相信她一定──！",
+            "ChoiceDataList": [
+                "英雄！你一定办得到！",
+                "英雄！你一定办得到！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "剑士荒漠英雄",
+            "Text": "啊──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "剑士荒漠英雄",
+            "Text": "（……没错。我理想中的自己\n根本不会因为这种事犹豫不决……！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "剑士荒漠英雄",
+            "Text": "（──我读过这么多奇幻作品。\n论起龙族的特征……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "剑士荒漠英雄",
+            "Text": "我一定──知道得比谁都清楚！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艺人黄金船",
+            "Text": "喂，这家伙到底哪时才会睡着啊？\n难道它是换了枕头就睡不着的那种龙？\n拿记忆绵枕头来！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "剑士荒漠英雄",
+            "Text": "──大家请后退！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "剑士荒漠英雄",
+            "Text": "现在我们手上没有传说中的剑……\n既然这样就借鉴鞋匠的智慧吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "剑士荒漠英雄",
+            "Text": "天空！\n你身上有没有带粉末类道具？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商人青云天空",
+            "Text": "粉末类啊～～\n我手上有些刚刚在镇上买来当火药的硫磺喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "剑士荒漠英雄",
+            "Text": "请把粉末丢进龙的嘴巴里！\n",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商人青云天空",
+            "Text": "嘴巴里……OK，我尽量试试！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "剑士荒漠英雄",
+            "Text": "这样龙应该会感到非常口渴！\n桂冠，请你用魔法喂它喝水！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "魔法师樱花桂冠",
+            "Text": "呵呵，了解！看我的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "巨龙",
+            "Text": "咕噜咕噜……咕噜……噗！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "活动播报员",
+            "Text": "哦哦！？巨龙大口大口地喝水──\n然后像颗气球似地不断膨胀！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "剑士荒漠英雄",
+            "Text": "黄金船！\n你身上有没有类似卷轴类的道具！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艺人黄金船",
+            "Text": "卷轴……？\n──这、这是……成为贤者之路……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "贤者黄金船",
+            "Text": "唔喔喔喔喔喔！我开悟了！\n贤者黄金船诞生────！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "剑士荒漠英雄",
+            "Text": "──太好了，转职成功了……！\n接着只要把膨胀成气球的巨龙刺破就好了！\n",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "贤者黄金船",
+            "Text": "交给我吧，队长！\n看我的高等魔法──穿刺冰锥！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "剑士荒漠英雄",
+            "Text": "也吃我这招──！\n喝啊啊啊啊啊啊啊啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（倒下──！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "活动播报员",
+            "Text": "抵达终点────！\n不仅打倒最终头目，秒数也相当优秀！\n表现得太精彩了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "活动播报员",
+            "Text": "英雄选手的身手真是了得！\n面对前辈们也毫不畏缩，\n果断地指挥队员的模样，简直可谓为勇者！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "！？　居、居然说我是勇者……那个……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "你刚刚真的很帅气喔！\n简直就像驱除巨龙的专家呢♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "嗯嗯，\n没想到小英也有这么勇猛的一面啊，\n我好惊讶～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众们",
+            "Text": "（你好厉害喔，小英～！）\n（唔喔喔～勇者！勇者！！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "活动播报员",
+            "Text": "勇者荒漠英雄！\n请告诉大家你的感想！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "啊……呃呃……那个，这个嘛……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "很、很高兴能派上用场！\n谢谢大家……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "活动播报员",
+            "Text": "哎呀～英雄选手逃走了～！\n看来她十分害羞呢～！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "荒漠英雄的活跃表现掳获了众多观众的心，\n然而她仍不习惯面对群众，\n慌慌张张地退场了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "我……我是……勇者……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "什么嘛，英雄！\n我看你前世一定是传说中的硫磺专家！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "呵呵，你的领导风范真是出色。\n下达指令时也很确实，真令人佩服呢♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "嗯嗯，观众们也看得很高兴喔。\n一切都多亏了小英的精彩表现～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "不，我怎么敢当……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众们",
+            "Text": "（做得太好了，荒漠英雄～！）\n（小英好帅气喔～！）",
+            "ChoiceDataList": [
+                "表现得很棒喔，英雄！",
+                "表现得很棒喔，英雄！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "（啊……训练员的声音……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "活动播报员",
+            "Text": "勇者荒漠英雄！\n请告诉大家你的感想！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "那个……我感到无上光荣，\n但这绝对不是我一个人的功劳。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "还要感谢各位队员，还有──\n出声为我们加油的各位。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "谢谢大家……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "经过游戏中的一番激战，\n荒漠英雄稍微变得更加可靠了。\n",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,362 @@
+{
+    "Title": "在光环当中",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "（这个奇妙的相是怎么回事……？\n看起来是在暗示不久后的将来──）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "（会出现了一道光，那是巨大的光之漩涡。\n不过，那个漩涡……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "（中央带有小小的黑影。\n就像是“光之甜甜圈”？）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "不过，并没有什么不好的感觉，\n反而比较偏向是吉利的象征。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "大吉利即将到来！\n而且是我从未体验过的巨大幸运……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "一场大骚动突然来临，\n吞噬了小林历奇和我的日常生活。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "小林历奇小姐，拜托了！\n请你接受采访！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "咦……训练员，怎么会聚集这么多人？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "请务必跟我们分享风水的话题！\n我们最近收到许多读者的要求！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "节目工作人员",
+            "Text": "那个！\n可以请你上电视吗？\n我们想请你在节目上谈论风水。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "上电视～！？\n训练员，这是！？",
+            "ChoiceDataList": [
+                "嗯，风水最近好像大受欢迎",
+                "嗯，风水最近好像大受欢迎"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "“日本打比”的事情成为了导火线，\n如今火势终于蔓延了。\n没错，每个人──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "都开始被“风水”这个不曾出现在\n闪耀系列赛中的要素深深吸引。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "这样啊！太好了！\n大家终于察觉到风水的魅力了！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "我可以全部答应吧！？可以吗、可以吗？\n这种超级好机会，不会再有第二次了☆",
+            "ChoiceDataList": [
+                "好，就答应吧！",
+                "嗯，就答应吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "这对小林历奇来说，\n是求之不得的机会。此时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北幸樽前",
+            "Text": "历奇……？这个骚动是怎么回事？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "啊，樽前。\n抱歉，打扰到你了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "你看，\n来了好多对风水有兴趣的媒体人呢～♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北幸樽前",
+            "Text": "是吗……虽然不太清楚是怎么回事，\n但你别花太多心思在闲事上喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北幸樽前",
+            "Text": "要是害自己太累，或是因此没空训练，\n可就得不偿失了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北幸樽前",
+            "Text": "历奇动不动就会勉强自己，\n至少要注意身体健康喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北幸樽前",
+            "Text": "……啊，我该走了！\n我要去为了“帝王赏”进行准备计划……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "帝王赏"
+            ]
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "“帝王赏”？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北幸樽前",
+            "Text": "嗯，是在大井举办的沙地GⅠ。\n我必须在那场比赛中跑出好成绩。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "小林历奇和北幸樽前\n各自朝着自己的目标，\n开始了四处奔走的日子。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "训练员！？接下来的行程是什么？\n演讲？还是讨论书的事情？",
+            "ChoiceDataList": [
+                "接下来是会谈！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "原来要先会谈！这样可能会来不及耶。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "计程车！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "另一方面，北幸樽前则是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者",
+            "Text": "北幸樽前小姐，你漂亮地称霸了\n“帝王赏”！第三名的奇锐骏小姐\n也表现得非常出色。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者",
+            "Text": "北幸樽前小姐，\n作为上半期的新沙地王者，\n可以请你对着镜头说几句话吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北幸樽前",
+            "Text": "对镜头说话……太好了……\n我总算能宣传故乡了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北幸樽前",
+            "Text": "侬是北幸樽前！\n正在担任苫小牧观光大使！\n今后请多多指教！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "每天的时间都过得飞快，\n然后，某天上电视节目时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "节目主持人",
+            "Text": "哎呀～小林历奇小姐，最近风水蔚为风潮呢。\n现在到处都在讨论风水的话题喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "嗯！总算能让大家知道风水的事情，\n我也感到非常开心呢☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "然后，为了让大家更加了解风水，\n下次──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "我会参加年底的“日本冠军C”！\n用风水之力挑战樽前☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "节目主持人",
+            "Text": "喔～你要挑战赢了\n“帝王赏”的北幸樽前小姐吗？\n真是太热血了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "嗯！如果在那场比赛中跑出好成绩，\n就能把风水推广给更多人！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "节目主持人",
+            "Text": "啊哈哈，在这空前绝后的大热潮下，\n应该已经没有人不知道风水了吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "节目主持人",
+            "Text": "不过，我很期待你在比赛中的表现喔。\n加油！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "嗯、嗯……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "（已经没有人不知道风水了……\n这样啊，推广风水一直是我的目标……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "（但原来风水已经这么广为人知了啊，\n那么……我的愿望是不是几乎都实现了呢？）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "训练员，事情的发展真是太出乎意料了。\n没想到在那场“日本打比”之后，\n情况会变成这样。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "原本完全没人关注的风水，\n居然突然变得大受欢迎。照这样下去……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "听我说，训练员，我跑步的目的，\n是希望能让大家相信风水的力量，\n然后变得happy──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "但假如大家都已经相信风水了，\n我该为了什么而参赛呢？",
+            "ChoiceDataList": [
+                "这个嘛……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我无法回答。如果梦想真的已经实现，\n那对小林历奇来说，\n就像是已经抵达了终点。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "如果是这样，那小林历奇是不是\n不需要再继续跑了？\n她目前的愿望都已经实现了──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "（哔哔哔哔哔……哔哔哔哔哔……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "啊，闹钟响了！对了！\n该去参加下一个电视节目！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "训练员，我们走吧！\n现在不是想事情的时候！",
+            "ChoiceDataList": [
+                "是啊，没错",
+                "嗯，没错"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我们不晓得未来会如何发展，\n现在只能尽全力继续前进了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

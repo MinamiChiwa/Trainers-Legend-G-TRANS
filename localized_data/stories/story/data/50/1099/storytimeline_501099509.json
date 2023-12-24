@@ -1,0 +1,49 @@
+{
+    "Title": "连续参赛……",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我打算到学生餐厅稍作休息时，\n遇到了北幸樽前。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北幸樽前",
+            "Text": "唉……蓝靛果真好吃……\n……好像很久没像这样悠闲地品尝了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北幸樽前",
+            "Text": "真怀念丰收祭……\n和大家……一起吃得饱饱的……\n或是做个日光浴…………唉……",
+            "ChoiceDataList": [
+                "你是不是累了？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北幸樽前",
+            "Text": "唔──！？训练员！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北幸樽前",
+            "Text": "没、没有！我很好！\n只是有点怀念过去而已！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她嘴上这么说，表情却满是疲倦。\n看来连续参赛让她累积了不少疲劳，\n或许我该重新调整今后的预定赛程……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,316 @@
+{
+    "Title": "捣蛋鬼出征",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这一天我和新光风一起出门，\n但……",
+            "ChoiceDataList": [
+                "你有什么烦恼吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "……身为大坏蛋，\n风风自认是已经做得不错了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "但能好好操纵手下，就像是……大人物那样！！！\n好像还不够──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "！！！！那是什么东西！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我看向她指的方向……应该是之后要办祭典吧，\n路边放着一台花车。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "那个……就是那个！！\n风风需要的就是那个啦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "只要把那又大又花俏的偷来，\n让它变成风风的东西的话……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "风风一定就会成为大人物！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "好啦，手下！\n快点去把那台花车给偷来！！",
+            "ChoiceDataList": [
+                "嗯、嗯……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "毕竟也不能真的去偷花车，\n所以我去向商店街人员拜托，\n看能不能借我抬一下……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员A",
+            "Text": "喔喔！那太好了！\n我们正缺人手一起抬呢～！",
+            "ChoiceDataList": [
+                "咦？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员B",
+            "Text": "来吧，祭典差不多要开始了！\n你抬那边！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街的人们",
+            "Text": "嘿咻、嘿咻～～！",
+            "ChoiceDataList": [
+                "嘿、嘿咻──！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "你、你怎么跟他们一起在抬啊～～！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "风风是叫你把它给偷来耶！\n真是的，所以才不能把事情交给手下──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "！……不过，好像……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "熬夜魔buono",
+            "Text": "呵呵呵～！\n你刚才打倒的不过是我的手下而已～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "（没错！就跟那场秀是一样的情况！\n先让手下去被打倒，然后就──）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "轮到大坏蛋帅气登场啦！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街的人们",
+            "Text": "好耶！\n来到大路上了！声音要喊出来──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "等一下────！！",
+            "ChoiceDataList": [
+                "新光风！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "风风登场啦！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "虽然你们打败了风风的手下……\n但老大不是这么容易会被打倒的！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "嘿！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "说完，\n新光风跳到了花车上！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "好啦！被风风占领啦！\n现在给风风全速前进吧──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街的人们",
+            "Text": "喔喔，这次是来了个骑手加入啊！\n不错喔，看来今年的祭典会很热闹！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街的人们",
+            "Text": "今年的花车真是热闹耶──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "哈──哈哈哈！！\n看到了没！？风风好威风啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "风风占领了花车，\n让所有人都怕得只敢乖乖听话！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "这就是符合大坏蛋的威风事迹啦！",
+            "ChoiceDataList": [
+                "所有人都盯着你看呢",
+                "所有人都盯着你看呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "嗯嗯！大家都盯着风风看……\n真的是太棒了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "手下，你做得很好喔！\n尤其是你表现脆弱跟努力的样子！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "因为你拼了命的表现，\n才突显了风风的厉害！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "今后也要继续为了老大\n做更多努力喔！",
+            "ChoiceDataList": [
+                "吱吱──！（是的老大！）",
+                "做好事不会感觉更痛快吗……？",
+                "身为手下，我会更进步的！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "嗯嗯！\n这个应答方式也越来越熟练了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "果然邪恶组织就是不能少了\n手下俐落的回答啦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "好──一边练习发声一边回去吧！\n跟着老大走──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "哈──哈哈哈──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "于是我们就这样一起发出邪恶组织的笑声，\n一边一起走回学园。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "？你在说什么啊？\n像这样做坏事才更开心勒！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "风风之后也要继续\n走在邪恶的道路上啦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "你也要好好跟上才行喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她本人似乎把这次的事情也当作坏事看待。\n像这样各方面都让人无法置之不理的她，\n我决定今后也要继续在身旁支持她。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "喔喔！\n看来你已经有身为手下的自觉了嘛！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "这也是老大教育成功的证据！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "好啦，\n继续继续称赞风风吧！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "因此，\n身为手下的我决定今后也要继续支持老大。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

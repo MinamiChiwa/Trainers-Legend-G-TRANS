@@ -1,0 +1,49 @@
+{
+    "Title": "缺席的理由……",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "新光风没来参加训练。\n因为担心，\n而正四处找她时……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "唔！你来得正好！\n锵锵──！你看这个！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "怎么样！舞狮变得亮晶晶的了吧──！\n风风可是花了好几个小时弄的喔！",
+            "ChoiceDataList": [
+                "……你不训练吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "咦……？训练……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "……啊啊啊！？\n风、风风忘记啦──！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "后来，我严正劝导新光风\n今后不能再因为热衷做某件事而忘记训练。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

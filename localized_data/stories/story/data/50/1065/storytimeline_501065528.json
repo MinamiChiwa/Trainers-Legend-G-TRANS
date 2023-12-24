@@ -1,0 +1,284 @@
+{
+    "Title": "水果三明治派对DAY★",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "某一天，我和大德太阳一起去贩卖部时……\n看到店员脸色苍白。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "阿姨你怎么了？\n这么消沉地哭哭。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "贩卖部阿姨",
+            "Text": "太阳……！\n那、那是……那是因为……！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "贩卖部阿姨",
+            "Text": "我不小心搞错了订货量，\n不能放太久的水果三明治，\n比平常多订了一百倍──！",
+            "ChoiceDataList": [
+                "一百倍……！？！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "那是一直摆在这里卖的东西吧？\n那个多了一百倍？啊哈哈，超猛～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "贩卖部阿姨",
+            "Text": "我已经打半价了！\n拜托～！大家快来吃……！",
+            "ChoiceDataList": [
+                "这样的话会大亏本……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "什么什么？真的很困扰吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "总之就是卖很多出去就OK了吗？\n好，我去狩猎一下！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "多、多出来的话那也没办法。\n让我尽量做出一些贡献吧……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "生野狄杜斯",
+            "Text": "我也来帮忙吧。\n首先要以消费为优先，我也去找一下其他人。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "那我午餐就吃这个吧。\n虽然不知道这样能不能帮上忙。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "互相帮助会让人心情良好，\n然后纪律也会变得良好！我也来帮忙！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "如何？减少了很多吧！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "贩卖部阿姨",
+            "Text": "真是感激不尽……\n不过还剩下很多呢……",
+            "ChoiceDataList": [
+                "只在学园里卖还是有极限吗……",
+                "只在学园里卖还是有极限吗……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "那就开间二号店吧★",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "HEY YO！！Come here！！\n用水果三明治让心情嗨起来吧☆★",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "太阳&艾尼",
+            "Text": "喔耶──☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艾尼风神",
+            "Text": "太阳，就让我来当店员吧！\n让你见识一下我在熟食区培养出来的技能～～！\n",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "还要继续接着卖喔～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "Come on☆大家靠过来、靠过来～～！",
+            "ChoiceDataList": [
+                "……直播！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "太阳的粉丝A",
+            "Text": "太阳～！我看到影片啰！\n真的发生了危机吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "哇──啊！太感谢了超爱你们～～☆\n真的就是那样！超不妙！",
+            "ChoiceDataList": [
+                "越来越多人聚集过来了……！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "贩卖部阿姨",
+            "Text": "销售的速度变快了！\n接下来……就是跟时间赛跑了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "好耶！来做最后的收尾吧！\nLet's party～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "演唱会────！！！",
+            "ChoiceDataList": [
+                "你动作也未免太快了吧！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "一瞬间就准备好了简易舞台。\n还有一瞬间就聚集起来的粉丝们。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这就是……她现在的人气。\n这些都是她吸引来的粉丝吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "喔耶喔耶～☆\n不用客气！嗨起来吧～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "尽情地舞动身体，让肚子饿吧～！\n用水果三明治开派对吧──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "贩卖部阿姨",
+            "Text": "卖、卖完了……！太好了！\n水果三明治卖完了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "喔耶──☆★\n演唱会时的热销度真不妙──！恭喜卖完──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "太阳的粉丝B",
+            "Text": "太阳──！！能见到你我好高兴──！\n下次也要举办盛大的活动喔──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "太阳的粉丝C",
+            "Text": "我是被他邀来的，\n不过真的好开心啊！我变成你的粉丝了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "真的吗？太感谢了☆★\n全人类都是我永远的朋友☆★☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "啊，不妙……\n总觉得大家太厉害了，我要哭了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "训练员！\n就这样直接去卡拉OK再狂欢一下吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "大德太阳引起了许多人的关注，\n完成了一项几乎不可能的任务。\n",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "被她带去卡拉OK的路上，\n我再次深刻体会到她的厉害之处。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "咦？奇怪？好像剩了一些……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "贩卖部阿姨",
+            "Text": "居然在这种角落里……一、二……三个。\n我没发现就直接关店了呢。",
+            "ChoiceDataList": [
+                "这里的三人份，让我来请客吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "咦、骗人！？真的吗！？\n咦──！你是神──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "那就！感谢招待！\n庆功宴here we go☆★",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "大德太阳凭着友情和粉丝的力量解决了问题。\n我再次对她的人气感到瞠目结舌……\n",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

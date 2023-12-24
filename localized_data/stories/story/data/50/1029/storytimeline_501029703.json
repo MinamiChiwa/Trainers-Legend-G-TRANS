@@ -1,0 +1,283 @@
+{
+    "Title": "跟城市进行魔鬼特训呗！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "在我和雪之美人外出后的回程路上──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "啊，抱歉呐，今天我们可以在这里就解散吗？\n我想先做些特训再回去……",
+            "ChoiceDataList": [
+                "是什么特训呢？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "演员特训！\n虽然只是擦到一点边，\n但我毕竟也要加入演员行列了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "之前雪之美人看到电视剧的拍摄过程，\n被演员们散发出的光芒深深吸引。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是她鼓起勇气去参加征选配角的试镜，\n并在前些日子顺利地通过了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "我拜托了城市，请她帮我做特训，\n让我在演戏的时候能好好地发挥出演技。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "我想要尽一切努力，\n让自己在正式演出的时候\n能发挥帅气的演技……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "雪之美人充满了干劲。\n身为她的训练员，我无论如何都想在旁守候。\n于是我拜托她，让我观摩她们进行特训。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "痛痛痛……\n手、手臂都在发抖了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "演员也跟模特儿一样，\n如果站姿不优美，就不上相了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "所以除了核心肌群之外，\n也会进行全身锻炼，像是髋关节跟脚趾──\n为的是能长时间维持各种姿势。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "好的……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "目光随时看着前方，姿势保持一直线。\n手脚要彻底向外伸展，\n把肩膀跟髋关节想成是支点，从支点开始动。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "要把身体挺直对吧……！\n那我从那边走过来，请看一下我的姿势！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "动作还是满僵硬的呢。\n要适度放掉一些力气，让动作流畅优美。\n你照这个要领动动看。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "做发声练习时也要注意姿势。\n出声的时候，用跟走台步时一样的感觉，\n像是朝远方拉出一条直线那样。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "声音如果很虚、飘忽不定，会很难听清楚，\n所以就算是要诠释畏畏缩缩的感觉，\n也要记得用有穿透力的声音说话。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "原、原来是这样～！\n我会持续做发声练习，\n直到能大声发出声音为止的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "如何摆姿势、如何走路、做发声练习──\n雪之美人在接受严格指导的同时，\n也逐渐熟悉了这些项目。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "好，现在刚好告一段落，\n我们休息一下吧。\n记得要喝水喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "好的！还要把刚刚学到的东西记录下来，\n整理成笔记才行……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "……怎样？\n看你从刚刚就一直有话想说的样子。",
+            "ChoiceDataList": [
+                "我只是在想，你非常认真地在指导她呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "……算是吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "之前她跟我说，“希望你能帮我做特训，\n我要变得跟你还有那些演员们一样。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "她说她“要变得”跟我们一样，\n而不是“想变得”跟我们一样。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "她都下定决心要跟我们站在同一个舞台了，\n还用朋友间相处的感觉随便教她也太失礼了吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "……城市。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "哦，你已经回来啦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "因为我想尽量多做点特训，\n赶快学会城市教我的东西……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "在我到达能让城市认可的程度前，\n我要持续练习才行！",
+            "ChoiceDataList": [
+                "你的心态俨然已经是一位演员了呢",
+                "你的心态俨然已经是一位演员了呢",
+                "你别太勉强自己喔",
+                "你别太勉强自己喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "在我到达能让城市认可的程度前，\n我要持续练习才行！",
+            "ChoiceDataList": [
+                "你的心态俨然已经是一位演员了呢",
+                "你的心态俨然已经是一位演员了呢",
+                "你别太勉强自己喔",
+                "你别太勉强自己喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "是、是这样吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "虽然要加强的地方很多，不过你确实有在进步喔。\n资质算是挺不错的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "谢、谢谢你哩！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "不过我会加油，不会得意忘形的！\n我要把你教我的东西全都学会！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "雪之美人再次下定决心，继续进行特训，\n那模样看上去十分可靠。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "谢谢你的关心哩！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "可是，既然有了想成为的理想模样，\n就要积极挑战才行……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "如果不跨越高墙，\n就没办法成长了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "是呀，毕竟也只有自己\n才能让理想化为现实。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "是的！为了能拿出让训练员跟城市\n看了都心儿怦怦跳的演技，我会努力的……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "呵呵，我很期待。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "看到雪之美人朝着目标笔直迈进，\n让我内心温暖了起来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

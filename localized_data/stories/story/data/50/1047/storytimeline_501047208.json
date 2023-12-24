@@ -1,0 +1,302 @@
+{
+    "Title": "迎向日本C",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──“日本杯”前一天。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "──那我先告辞了，我会为你加油的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "好的，谢谢……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（碰……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "呼……！\n刚刚应该就是今天的最后一场访谈吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "今天来了一、二、三、四……五家媒体！\n没想到我也有接受这么多媒体采访的一天……\n",
+            "ChoiceDataList": [
+                "这代表你越来越受到瞩目了",
+                "这代表你越来越受到瞩目了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "……你说得对。\n我也这么想。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "……对了，训练员，你注意到了吗？",
+            "ChoiceDataList": [
+                "咦？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "刚刚那位记者以前也曾经来访问过一次喔。\n",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "就是那次啊，我出道前──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "哎呀，真可爱！\n你该不会是还没出道的赛马娘吧？\n我都没注意到还有这位选手……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "那时候……\n我想他根本不知道世界上有我这个选手，\n更遑论知道我的名字了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "……但今天他却专程来到\n我们的房间进行采访呢……！",
+            "ChoiceDataList": [
+                "真令人感慨"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "是啊……！\n这代表了我与训练员\n正在一点一滴地向前迈进……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "所以……\n明天的“日本杯”我也一定会赢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "为了不辜负至今的所有努力……\n也为了不让这一切挑战在明天终结，\n我一定会赢……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "眼前的荒漠英雄燃起熊熊斗志，\n她真的成为一位可靠的赛马娘了，\n不过──",
+            "ChoiceDataList": [
+                "不过你可别独自背负一切喔",
+                "不过你可别独自背负一切唷"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "咦──",
+            "ChoiceDataList": [
+                "因为我也打算跟你一起战斗啊",
+                "因为我也打算跟你一起战斗呀"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "训练员……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "我好高兴。\n不过──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "这一路上我们不都是一起走来、一起训练……\n一起创作著这篇故事吗？\n",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "所以……\n我希望你别说“打算”跟我一起战斗。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "那个……我希望你可以更肯定地说\n“我们正在一起战斗”……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "……不行吗？",
+            "ChoiceDataList": [
+                "我们正在一起战斗！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "是的。\n……明天也要一起加油喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "播报员",
+            "Text": "这一天终于到了！\n世界强豪云集的GⅠ“日本杯”，\n选手即将进入围场！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "播报员",
+            "Text": "说到最受瞩目的赛马娘，果然还是\n宣告目标为称霸秋季资深三冠的荒漠英雄！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "解说员",
+            "Text": "她是否能继“天皇赏（秋）”之后连续夺冠，\n为三冠这个伟大成就凑出听牌呢──\n真是值得期待呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "粉丝A",
+            "Text": "喔喔！她来了她来了，\n是荒漠英雄！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "粉丝B",
+            "Text": "英雄────！！\n今天也很期待看到精彩的胜利场面喔──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "粉丝A",
+            "Text": "让我们亲眼看到你称霸秋季资深三冠吧～！！\n",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（喔喔喔喔喔喔喔！！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "！　──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "（期待……重重地压上双肩。\n我感到血液仿佛从脚底开始逐渐冷却。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "（回想起来我一直都这是这样。\n明明想成为英雄，却害怕受到瞩目。\n我没有……敢成为理想中自己的勇气。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "（我当然知道“日本杯”有多困难。\n世界级的顶尖赛马娘也被邀请至此，\n一同在东京的草地上展开2400米激战。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "（这里跟“天皇赏（秋）”同为东京赛场，\n但距离不同……得用耗尽体力的身体迎接\n525米的最后直线，这距离能消磨掉心志。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "（因此人们都说只有货真价实的\n强者赛马娘才能称霸这场比赛──）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "（──不过！！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "……谢谢大家的声援！\n各位，敬请期待。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "我将在赛道上讲述一篇勇猛的英雄传说！！\n",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（哇啊啊啊啊啊啊──！！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "（身负沉重期待、面对严苛战役！\n但我……依旧真切地向前迈进。\n一步步走在能得到珍贵收获的道路上！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "（而且，无论何时──）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "（我都不会是一人孤军奋战。）\n",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

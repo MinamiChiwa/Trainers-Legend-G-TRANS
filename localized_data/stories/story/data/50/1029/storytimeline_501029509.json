@@ -1,0 +1,43 @@
+{
+    "Title": "连续参赛……",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "今天我们要做什么训练哩？\n跟之前一样的可以呗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "？\n你为什么露出这个表情哩……\n是我哪里不太对劲呐？",
+            "ChoiceDataList": [
+                "感觉你今天口音有点重……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "咦！？我口音有那么重吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "真对不起哩！\n这样子我可当不成“都市女孩”呀！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "连续参赛似乎让雪之美人感到相当疲劳。\n看来我该重新审视今后的参赛计划了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

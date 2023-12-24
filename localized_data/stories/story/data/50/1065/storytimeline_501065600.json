@@ -1,0 +1,46 @@
+{
+    "Title": "临阵抖擞",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "比赛开始前，\n大德太阳有节奏地上下摇晃着身体。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "Hey hey，等著瞧吧，我要击败你们，\n耶──！超级无敌嗨爆比赛！",
+            "ChoiceDataList": [
+                "怎、怎么突然说这个？",
+                "怎、怎么突然说这个？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "我身体里的疯狂节奏停不下来！\n真的是一直在共鸣！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "让我的跑法在网络上爆红吧！\n认真地瞄准第一名！喔──！！",
+            "ChoiceDataList": [
+                "耶──────！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "喔耶──☆谢啦，训宝～～！\n我去秀一波！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

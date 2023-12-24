@@ -1,0 +1,43 @@
+{
+    "Title": "连续参赛……",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "啊……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "刚才……好像吹来了一阵魔风……",
+            "ChoiceDataList": [
+                "窗户是关着的……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "这样啊……那可能是我多想了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "不过还是感觉不太舒服呢。\n毕竟风之所以吹拂都是有其理由的……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看来是因为连续参赛的关系，\n所以累积了疲劳吧……\n或许应该要重新调整参赛计划。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

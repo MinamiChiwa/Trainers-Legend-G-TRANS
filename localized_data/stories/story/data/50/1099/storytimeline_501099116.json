@@ -1,0 +1,507 @@
+{
+    "Title": "你的故乡",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "“川崎纪念”的几天后──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "──我来啦，北海道～☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "北幸樽前带着醒目飞鹰，\n准备一起前往苫小牧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "这件事的起因，\n要从我在学园和醒目飞鹰聊过的隔天说起──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北幸樽前",
+            "Text": "……你是说苫小牧之旅？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "嗯！飞飞想请小樽\n帮忙导览苫小牧☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "……北幸樽前刚来到训练员室，\n醒目飞鹰就这样向她提议。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北幸樽前",
+            "Text": "……我明白了。\n既然是飞飞的请求，\n我可没办法拒绝。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北幸樽前",
+            "Text": "因为我也……\n想稍微休息一下……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "太好了～！\n谢谢小樽☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北幸樽前",
+            "Text": "──接下来，\n飞飞想去什么样的地方？\n有很多推荐的观光景点喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "这个嘛～\n飞飞想去小樽充满回忆的地方耶。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北幸樽前",
+            "Text": "充满回忆的地方……吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "嗯！例如老家附近～或学校附近之类的，\n常去的店或常去玩的地方，\n诸如此类的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北幸樽前",
+            "Text": "嗯……\n我当然不介意带你去……\n但还有比这些更好玩的地方喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "谢谢♪\n但我今天想去的就是那些地方。",
+            "ChoiceDataList": [
+                "带她去吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北幸樽前",
+            "Text": "我、我明白了。\n既然飞飞想去的话──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "──这里就是小樽常来玩的公园啊～\n好多大自然景观，\n感觉是很令人放松的地方呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北幸樽前",
+            "Text": "是的。景色也会随着四季产生一些变化，\n欣赏这些变化也很有趣。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "苫小牧市民A",
+            "Text": "咦？小樽！\n吓我一跳，你回来啦！\n那位是学校的朋友吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北幸樽前",
+            "Text": "我回来了。\n我今天是回来带前辈参观苫小牧的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "苫小牧市民A",
+            "Text": "我老公很担心你呢，\n他说小樽从前阵子\n就不怎么更新Umatter！你还好吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北幸樽前",
+            "Text": "我没事，\n只是想稍微休息一下。\n也请帮忙转告叔叔我很好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "苫小牧市民A",
+            "Text": "那就好！\n不过在这个地方见到小樽，\n就让人想起以前的事呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "苫小牧市民A",
+            "Text": "你会戴着喜欢的帽子，\n活力充沛地在公园里到处跑，\n笑咪咪地向我打招呼。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "啊哈，真可爱！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北幸樽前",
+            "Text": "阿、阿姨！\n讲以前的事太让人难为情了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "接着我们继续逛\n北幸樽前充满回忆的地方──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "面包店老板",
+            "Text": "──我们大家一起看了之前的“川崎纪念”喔！\n你彻底成为一流的沙地赛马娘了呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北幸樽前",
+            "Text": "老板！\n在飞飞面前说这种话有点……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "不会不会！\n我很期待小樽作为沙地赛马娘\n日后的表现喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "面包店老板",
+            "Text": "喔喔！\n真不愧是小樽，\n居然能让醒目飞鹰这么说！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "面包店老板",
+            "Text": "啊，这是我们做的蓝靛果果酱。\n不介意的话，请你们品尝！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "哇！可以吗！？\n谢谢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "苫小牧市民B",
+            "Text": "──直到今天，我都还记得\n小樽的第一场演唱会喔。她拼命唱着歌，\n大家一起声援了努力的她呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北幸樽前",
+            "Text": "那个不是演唱会，\n是演唱会的练习才对吧？\n但大家却都聚集过来了──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "那样就变得像真正的演唱会啦！\n呵呵，大家都很疼爱你呢☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "嗯～！能看见海真棒啊～！\n虽然这个季节有点冷就是了☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北幸樽前",
+            "Text": "……飞飞。\n今天真的逛这些地方就满足了吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "嗯！谢谢你为我带来最棒的旅程♪\n多亏你的帮忙──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "我对小樽和小樽的故乡，\n有了非常多的了解喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北幸樽前",
+            "Text": "咦──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "好了，接下来──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "我刚才找到一间有兴趣的店，\n我先去那里买闪耀的伴手礼！\n晚点再联络喔～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北幸樽前",
+            "Text": "啊──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北幸樽前",
+            "Text": "……我的故乡……",
+            "ChoiceDataList": [
+                "──我也和她一样",
+                "──我也和她一样喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北幸樽前",
+            "Text": "咦……？",
+            "ChoiceDataList": [
+                "我一直都想看看你的故乡",
+                "我一直都想看看你的故乡喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我回想起北幸樽前第一次告诉我\n她对苫小牧的心意，\n和奔跑的理由那天──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "……那天，她对我诉说了\n她对最爱的苫小牧的回忆，\n和想要帮助心爱故乡的心情。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "从那一刻起，\n苫小牧这个词对我而言，\n就成了“北幸樽前的故乡”──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我就是从那时候开始……\n想支持她对故乡的浓厚情感和温情。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "而且在和北幸樽前相处的日子里，\n我也直接了解到苫小牧\n这片土地的美好与温暖──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "回过神来，\n我已经喜欢上苫小牧，\n就像它成了“我心目中的故乡”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我现在能明白，\n那一定是因为我陪伴在北幸樽前身边时，\n也一起接触到与苫小牧有关的一切。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "所以，若北幸樽前想实现自己的梦想，\n她接下来该做的就是──",
+            "ChoiceDataList": [
+                "也向大家介绍你的故乡吧",
+                "也向大家介绍你的故乡吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "让大家以你对苫小牧的情感\n为起点接触苫小牧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "这是只有北幸樽前\n才有办法传达的苫小牧魅力──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "对支持北幸樽前的人们而言，\n肯定会是最适合了解苫小牧的契机。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北幸樽前",
+            "Text": "把我的故乡……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北幸樽前",
+            "Text": "…………嗯，没错。\n原来是这么一回事。\n为什么我一直没发现呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北幸樽前",
+            "Text": "我至今……一直都……\n只推广和苫小牧有关的“资讯”……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北幸樽前",
+            "Text": "我汇集了苫小牧令人自豪的部分，\n只顾著向别人传达……\n苫小牧是个很好、很厉害的地方──",
+            "ChoiceDataList": [
+                "那也很重要喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "多亏北幸樽前，\n我现在有自信说自己对苫小牧这座城市的\n优点了若指掌。不过──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北幸樽前",
+            "Text": "……顺序错了对吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北幸樽前",
+            "Text": "在告诉大家这些之前……\n还有其他该做的事──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北幸樽前",
+            "Text": "但我却误以为会不受大众欢迎，\n所以擅自把个人相关的部分删减了──",
+            "ChoiceDataList": [
+                "仍然有机会"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "北幸樽前这段时间努力\n掌握到的那些粉丝的关注，\n一定还能变换成各种形式。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "如果能了解到她更真实的一面，\n肯定会让人觉得更亲近她和苫小牧。\n现在仍然有胜算……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北幸樽前",
+            "Text": "────",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北幸樽前",
+            "Text": "唔喔喔喔──！！",
+            "ChoiceDataList": [
+                "……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北幸樽前",
+            "Text": "樽前大笨蛋！猪头！傻瓜！！！\n悲观大魔神！！\n现在不是做蠢事的时候了！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北幸樽前",
+            "Text": "快点转换心情吧！！\n必须做的事！该去做的事！！\n你不是都已经明白了吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北幸樽前",
+            "Text": "──训练员！！",
+            "ChoiceDataList": [
+                "之后会办“粉丝感谢祭”喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "若想对更多人传达北幸樽前的心意，\n最好要活用这个机会。",
+            "ChoiceDataList": [
+                "而且本来就打算开一场小型演唱会嘛！",
+                "而且本来就打算开一场小型演唱会嘛！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北幸樽前",
+            "Text": "……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北幸樽前",
+            "Text": "…………我好开心。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北幸樽前",
+            "Text": "训练员是因为我……\n才喜欢上了苫小牧──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "醒目飞鹰",
+            "Text": "──呵呵。\n真温馨啊，太温馨了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "怀抱着想传达的想法，为了改变未来，\n我和北幸樽前展开了行动──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

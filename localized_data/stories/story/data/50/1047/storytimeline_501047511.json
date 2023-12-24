@@ -1,0 +1,288 @@
+{
+    "Title": "图书室的实验",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "书名有“红”这个字，\n描述少女从龙的威胁中拯救世界的英雄传说是？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "我想想……\n是不是《红色火焰与青龙》？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "答对了。十七年前出版，\n以人鱼作为题材的蓝色封面儿童文学是？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "是《海洋细语season1》吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "答对了！\n这下就连续答对十题了……太优秀了！",
+            "ChoiceDataList": [
+                "你们在做什么？",
+                "你们在做什么？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "这个嘛……我们在做“实验”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "我正在研究记忆的机制！\n我在观察当突触因受到伴随正面情感的\n神经传导刺激而发生各种变化时的变化程度。",
+            "ChoiceDataList": [
+                "……也就是说？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "我正在验证此一假设。\n……对于喜好的事物能够记得更清楚。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "嘿嘿嘿……反正现在图书室没人，\n我想我应该能帮得上忙。",
+            "ChoiceDataList": [
+                "原来如此……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "……嗯，数据收集得差不多了！进入第二阶段吧！\n记忆经过强化后若又加上“紧张”变因，\n会得到什么结果──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "好啦，英雄。\n我听到一个传闻喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "据说要是把图书室所有书架尺寸都调整个几公分，\n藏书数量便可变为1.3倍。\n而这正是你的心愿。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "啊……不过这件事已经被否决了……\n听说更换所有书架难度太高了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "要是我有办法实现呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "咦……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "我看否决的原因不外乎就是预算跟时间吧？\n我有这方面的人脉。我去请人帮忙。\n……只要你能答对接下来的问题。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "好、好的……！\n请务必让我挑战……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "呵呵！这样才对！来吧，还要先换个地方！\n得让你“紧张”起来才行！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "听好，只念一次题目喔。“于前年发行的游记，\n内容描写了鱼类料理，这本书的书名是？”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "描写了鱼类料理……\n…………",
+            "ChoiceDataList": [
+                "……英雄？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "……我心中出现两个答案。\n正解会是哪一个呢……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "一是《三毛猫流浪记》。\n描述聪明的猫咪在世界各处解开谜团的游记。\n或者是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "曾当过厨师的老婆婆走访全大陆\n吃遍各种滋补健康料理的美食游记！\n《阿菊吃遍全大陆》……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "只要确定发行年分……啊啊，可是！\n……我、我太紧张了，记忆一片混乱……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "……训、训练员……\n可以请你决定答案吗……！？",
+            "ChoiceDataList": [
+                "这样好吗！？",
+                "这样好吗！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "拜托你了。要、要是让我继续烦恼下去，\n我一定永远做不了决定……！",
+            "ChoiceDataList": [
+                "那就……《三毛猫流浪记》",
+                "我选《阿菊吃遍全大陆》！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "喔……这样啊这样啊！\n能够筛选到剩下两个选项，\n但却无法自己做出最后的判断啊……有趣！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "……那个，请问……\n结果答案是什么？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "咦？这个嘛，答错啰。",
+            "ChoiceDataList": [
+                "抱歉！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "啊……！别、别这么说！\n我才要道歉，竟然麻烦你决定……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "…………\n那个……速子……要是还有下次机会，\n可以再让我挑战看看吗……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "我还不够用功，真是不甘心……\n下次挑战之前，我要把这里的书全部重读一次！",
+            "ChoiceDataList": [
+                "全部吗……！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "喔……全部啊！你脑中的兴奋机制真是有趣，\n务必请挑战看看！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "谢、谢谢你……！\n好，就先从那一整柜开始……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这天起，\n人们不时目击到她以惊人速度专心读书的模样……\n令见者深刻感受到文艺少女的真本事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "请问正确答案是……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "答对了！太漂亮了！\n……选择将最后决定权交给他的\n这个行动也颇值得深究呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "答对了！太漂亮了！\n……选择将最后决定权交给他的\n这个行动也颇值得深究呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "太、太好了！\n你答对了呢，训练员……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "几天后，\n图书室悄悄开始进行起替换所有书柜的计划──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "这一本跟这一本……\n还有这本书也很不错呢……呵呵♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "喂喂，这么多啊？这下书柜成本就……\n看来回老家时势必要被念几句了。我是没差啦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "之后我看到图书股长一脸开心地物色著新的书籍。\n",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

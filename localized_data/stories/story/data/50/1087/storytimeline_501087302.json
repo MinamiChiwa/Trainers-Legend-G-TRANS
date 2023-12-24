@@ -1,0 +1,508 @@
+{
+    "Title": "抽奖试手气！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "与奥斯顿真弓外出后的回程路上。\n我们看到商店街一角气氛热闹非凡",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "唔，再举办抽奖活动啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "看过来看过来，现正举办新春大抽奖～！\n特奖可是“温泉旅游券”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "温泉旅游券"
+            ]
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "一奖是“特等胡萝卜汉堡排”，\n二奖是“一整堆胡萝卜”，\n三奖则是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "来喔来喔，是好玩的抽奖活动喔！\n任何人都可以来抽喔～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "我去弄一张过来。",
+            "ChoiceDataList": [
+                "……嗯？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "抽奖券。",
+            "ChoiceDataList": [
+                "你想抽奖啊？",
+                "你想抽奖呀？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "当然想。\n抽到“温泉旅游券”就代表──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "闪闪发光的旅馆、美食、温泉。\n枕头战、女孩们一起谈天。\n没错，根本就是装满回忆的宝箱。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "想到这些还有办法不抽吗？\n……没办法，一定要抽。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我赶紧跟奥斯顿真弓一起去\n弄了张抽奖券回来──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "我要抽了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "奥斯顿真弓斗志昂扬地\n转动了抽奖机的把手！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "结果是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "天啊！恭喜────！！\n抽到特奖“温泉旅游券”了～～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "…………哇啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "哇，好厉害喔。\n真弓，你太厉害了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "再问问伏特加她们有没有空，\n三个人一起去泡暖呼呼的温泉──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "啊啊，对不起啊。\n这是双人套票啦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "咦？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "原来是双人套票啊。\n这样就不能三个人一起去了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "真伤脑筋。",
+            "ChoiceDataList": [
+                "总之先收起来，之后再看看吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "说得也是。\n总有一天一定用得上。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "就先收在房间……\n不，收在训练员室好了。",
+            "ChoiceDataList": [
+                "收在训练员室？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "是的。\n裱框起来摆在训练员室吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "慎重地摆出来就不会搞丢了。\n而且每次看到画框就会想起这件事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "这样自然也不会忘记使用。\n完美的计划。",
+            "ChoiceDataList": [
+                "原来如此……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "得去买个\n大大的画框来装……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "就这样，实际出发去旅行前，\n“温泉旅游券”便暂时\n成了训练员室内的摆饰。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "恭喜抽到一奖～！\n奖品是“特等胡萝卜汉堡排”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "唔……就只差一个奖项。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "不过奖品看起来真好吃。\n而且分量好大喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "……训练员，\n你决定好晚餐要吃什么了吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "（……嚼）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "……！这、这味道……",
+            "ChoiceDataList": [
+                "真是美味"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "没错，简直就像一场革命。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "太美味了……这下非得把今天\n订为胡萝卜汉堡排之日才行。",
+            "ChoiceDataList": [
+                "胡萝卜汉堡排之日"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "也就是说，明年的今天也一样是\n胡萝卜汉堡排之日。后年也是。\n每年到了这一天都要享用胡萝卜汉堡排。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "然后总有一天成为习俗，\n一百年后我就会登上教科书。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "我将被称为\n制订胡萝卜汉堡排之日的\n伟大赛马娘．奥斯顿真弓。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "……这就有点太夸张了。呵呵。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我们边谈天说地，\n边一起享用了这份\n特别的胡萝卜汉堡排。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "二奖～！！\n奖品是“一整堆胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "唔唔……没抽到。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "但居然抽到一整堆胡萝卜，\n这该怎么办呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "真弓跟训练员……加起来只有两个胃，\n我们真的吃得完吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "……嗯，我想到了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "突袭直播。\n你好，我是奥斯顿真弓。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "其实呢，发生了一起胡萝卜事件。\n没错……现在我手边有大量胡萝卜。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "光靠训练员跟真弓的胃\n实在消化不完。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "要是有特雷森学园的学生\n愿意帮忙吃，请务必\n助我们一臂之力。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "特雷森学园"
+            ]
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "有兴趣的同学请前往真弓的房间。\n我等你们喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "之后，\n听说那一整堆胡萝卜\n转瞬间就被闻风而来的赛马娘们扫空了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "三奖～！\n奖品是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "呜呜……三奖……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "我就收下这一根胡萝卜了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "该怎么办呢？\n当成今天晚餐吃掉也不错……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "……啊，我想到了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "呼呼，好吃吗？\n白雪跳跳子。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "兔子",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "很好吃啊？这样啊？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "饲养员",
+            "Text": "哈哈哈，它吃得很投入呢。\n谢谢你啊，真弓。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "不客气。\n真弓也很高兴。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "那天，\n奥斯顿真弓跟好朋友\n一直玩到了夕阳西下。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "很可惜，没抽中！\n参加奖是“卫生纸”喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "Ouch。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "没抽中啊。\n呜呜，怎么会这样。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "不过……这样也好，\n惨痛经验更适合作为漫画题材呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "你觉得把这件事画成四格漫画如何？\n一定能让心情好起来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "起，真弓看到抽奖活动好开心。\n承，真弓转动抽奖机。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "转，从抽奖机掉出一颗球……\n合，没抽中！\n真弓拿着卫生纸擦眼泪。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "……我觉得更加难过了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "奥斯顿真弓踏着悲伤的步伐\n踏上归途……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

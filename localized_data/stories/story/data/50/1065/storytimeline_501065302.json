@@ -1,0 +1,710 @@
+{
+    "Title": "抽奖试手气！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "训练结束后，\n我陪着大德太阳进行突如其来的行动时……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "啊！！！！",
+            "ChoiceDataList": [
+                "！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "看过来看过来，现正举办新春大抽奖～！\n特奖可是“温泉旅游券”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "温泉旅游券"
+            ]
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "一奖是“特等胡萝卜汉堡排”，\n二奖是“一整堆胡萝卜”，\n三奖则是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "来喔来喔，是好玩的抽奖活动喔！\n任何人都可以来抽喔～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "哦？这不是太阳吗！\n喔耶！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "太阳"
+            ]
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "大叔喔耶～～！",
+            "ChoiceDataList": [
+                "（人脉真广啊）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "来试一下抽奖吧，喔耶☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "不错喔！\n很罕见呢！反而觉得很崭新！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "反而觉得……？\n话说太阳，你有抽奖券吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "什么，我不知道！\n找找看的话应该会有吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "大德太阳把口袋翻了一遍。\n拿出古早味零食店的收据、口香糖、棒棒糖、\n断掉的橡皮筋、拍贴这些东西之后……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "──找到了～～～～！！\nHere we go！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "大德太阳有点嗨地转动了抽奖机的把手！\n",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "结果是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "天啊！恭喜────！！\n抽到特奖“温泉旅游券”了～～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "温泉──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "不妙，\n我是不是超神的～！？！？",
+            "ChoiceDataList": [
+                "恭喜你！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "真不愧是太阳！\n不过不知道你会不会开心呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "什么？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "那里真的就只有温泉而已。\n对太阳这样年轻的孩子来说，\n可能会很无聊……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "咦！\n我超喜欢温泉！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "只要能大闹就会是最棒☆\n而且训宝也在啊！",
+            "ChoiceDataList": [
+                "……咦？是这样吗？",
+                "……咦？是这样吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "当然☆\n我们一路走来都是一直在一起吧！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "我不可能会抛下你的☆\n",
+            "ChoiceDataList": [
+                "太阳……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "就是这样！\n大叔也要一起来吗？",
+            "ChoiceDataList": [
+                "咦"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "咦！？不、不用了，\n大叔没有跟你一直在一起吧！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "笑死！我们商店街的开朗组合\n不也是一起打拼过来的吗！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "你说得也是没错啦……\n训、训练员……这样好吗？",
+            "ChoiceDataList": [
+                "她就是这样的孩子……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "是说旅馆是不是被我们包场了！？\n温泉祭典！我是天才吗～！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "把全部死党都叫来！\n一百度的温泉地狱行程也很可以吧！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在那之后，\n大德太阳想到的点子持续增加──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "──了解！\n那我就先跟训宝一起去勘查场地吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "为了以万全的状态举办温泉季典，\n这次就先去温泉勘查场地……以这样的方式，\n总算是把这些乱七八糟的提议做了总结。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "啊！\n是花店的小彻！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "不过你真厉害啊，训练员。\n居然能够顺利地引导太阳的心情……\n根本办不了什么温泉祭典吧。",
+            "ChoiceDataList": [
+                "会办喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "咦？什么，那你打算……\n真的要去勘查场地吗？",
+            "ChoiceDataList": [
+                "因为感觉很有趣啊"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "……真令人惊讶。\n你……果然是太阳的训练员呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "训宝～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "小彻说要送花给我！\n选什么好──！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "就我个人看来，干脆就多买一些，\n然后变得像森巴那种感觉！",
+            "ChoiceDataList": [
+                "我现在就过去，你先停下来！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "哎呀，\n这就是爱……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "恭喜抽到一奖～！\n奖品是“特等胡萝卜汉堡排”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "不妙！\n好像很好吃～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "啊，不妙，口水流出来了。",
+            "ChoiceDataList": [
+                "收回去、收回去"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "好的好的！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "不过这外型也太适合拍美照了吧！？\n不愧是派对咖小镇的美照专家☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "嘿嘿，对吧？我想说要是能让大家开心就好了～\n结果完全没有掀起话题。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "这一定会爆红的吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "训练员！\n帮我拍ー☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "立刻上传～♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "谢谢招待！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "──嗯嗯！\n真好吃～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "训练员也吃吃看！\n啊，在那之前先拍照！拿来发限时动态的！",
+            "ChoiceDataList": [
+                "单纯拍照就可以了吗？",
+                "单纯拍照就可以了吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "确实！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "那就像这样～一边跳舞一边拍～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "接下来是Umatok～♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "Umatok"
+            ]
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "真～好吃啊～～♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "大德太阳吃了很多，也拍了很多照片。\n结果──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "街上的人A",
+            "Text": "──我要抽奖！\n目标是特等汉堡排……流口水！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "街上的人们",
+            "Text": "我也要！我也要──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "怎、怎么突然变得这么忙啊！？\n嘿嘿，真是件值得高兴的事啊！\n好啦，全部的人都快点动起来──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "二奖～！！\n奖品是“一整堆胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "哇哈哈！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "这也堆太高了吧☆\n服务精神满点！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "……果然有点太多了吗？\n这样也很难带回去呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "我最近一直在想这个问题。\n虽然我认为这样很好，\n但感觉只是把我的想法强加在别人身上。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "才没有这种事呢！\n不管什么都是越多越好啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "是这样吗……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "真假！？\n你不相信我吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "总之就交给我这个派对咖吧☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "太阳的朋友A",
+            "Text": "谢太阳招待～！\n这个胡萝卜好好吃！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "对吧！？\n再多吃一点！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "喔喔……好厉害，\n越来越多朋友聚集过来了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "大叔～！\n胡萝卜超受欢迎！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "大家都说很好吃喔～！\n果然堆得满满就是最棒的☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "对啊！说得对！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "……训练员。\n太阳真的是个好孩子呢。",
+            "ChoiceDataList": [
+                "是啊"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就这样，\n那一整堆胡萝卜，\n一瞬间就被带着笑容的赛马娘们扫空了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "三奖～！\n奖品是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "一根！\n砰～砰砰☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "那就把这个当成麦克风～\n训宝拿好☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "快点，来采访我！",
+            "ChoiceDataList": [
+                "采访？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "问什么都可以唷～☆\n快点快点！",
+            "ChoiceDataList": [
+                "……你现在感觉如何？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "好的。那个，\n我觉得肚子很饿──！",
+            "ChoiceDataList": [
+                "你想吃什么呢？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "面类！\n乌冬面或拉面或荞麦面！",
+            "ChoiceDataList": [
+                "如果必须从中选出一个，你会选哪个呢？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "嗯～！\n真是个好问题！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "果然还是拉面吧！\n要是叉烧爆量拍起来很上相的那种☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "好的，下一个！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在这之后，不断被她要求提出问题──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "──豆沙我喜欢白色的那种！\n请继续下一个问题☆",
+            "ChoiceDataList": [
+                "还要问吗！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "到我腻了为止──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "结果，回到学园之后，\n这个莫名的访问也持续了一阵子。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "很可惜，没抽中！\n参加奖是“卫生纸”喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "没抽中……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "是说卫生纸很有用吧？？\n才不是没抽中呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "大叔，拿出自信吧！\n最好的是什么奖啊……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "……什么！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "咦，真假？\n搞不好可以抽中温泉旅行吗！？",
+            "ChoiceDataList": [
+                "是啊",
+                "是呀"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "我完全没看到！\n真假？咦，实在是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大德太阳",
+            "Text": "哭哭！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "大德太阳经过了一段时间后，\n才感到失望开始哭哭……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,316 @@
+{
+    "Title": "这就是自然",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "小哔，你──在──哪──？\n小──哔──────！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "某天夜晚回家的路上。我看向传来声音的方向，\n看见了有点难得的三人组合。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "我正想着感觉到一阵熟悉的凯风……\n原来是训练员啊。",
+            "ChoiceDataList": [
+                "小哔是谁？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "就是小雏雏。",
+            "ChoiceDataList": [
+                "…………小雏雏是谁？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "帝王光辉",
+            "Text": "是唐怀瑟这几天\n在学园里发现的雏鸟，\n但似乎从今天早上就没看到它。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "唔唔，我本来还想说今天一定要跟它成为好朋友，\n让它站在我的肩膀上的说～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "小哔所感受到的风跟我们完全不一样。\n它非常脆弱，接触不同的世界就会被彻底影响，\n让它再也回不到原本的地方──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "风一旦变质之后，\n要再回到原本的模样是很困难的。",
+            "ChoiceDataList": [
+                "意思是受到人类照顾之后就很难回归野生了？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "是的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "是、是喔……不知道它现在还好吗？\n会不会受伤了，\n或是遭遇到什么不好的事情？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "就算不能把它留在身边……\n但至少也希望看见它健健康康的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "……这样啊。\n如果只是想确认\n它是否遭遇到暴风的话……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "暴风……？\n啊，西风等等我啦～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "不明的叫声",
+            "Text": "咯咯咯咯咯！\n呱────！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "帝王光辉",
+            "Text": "呀啊！？\n这是什么声音啊……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "该、该不会有鬼吧？？\n刚才那边传来了奇怪的声音……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "帝王光辉",
+            "Text": "不、不不不会吧……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "就算真的是鬼……\n也不需要感到害怕。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "阳风是风；阴风也是风。\n大家都是在地球这个摇篮里的生命。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "祂们和我们在自然界里都是平等的，\n大家都共生共存……\n就算有差异也仅是些微的等级。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "只要不心存排斥，接纳祂们最自然的模样，\n微风就会为我们吹散恐惧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "帝王光辉",
+            "Text": "原来如此……\n不愧是自然派的西风，真有说服力。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "嗯嗯！\n我好像也不那么害怕了喔！",
+            "ChoiceDataList": [
+                "西风看起来真可靠"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "是吗？\n能消除大家的不安，\n那就是瑞风了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "啊啊，唐怀瑟。\n在那边的是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "是小哔！\n……可是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "帝王光辉",
+            "Text": "看起来它跟整群的鸟待在一起呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "小哔……\n原来你是想来见朋友们啊……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小哔",
+            "Text": "啾──啾──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "小哔像是打招呼般地\n在我们身边盘旋了一会，\n然后就跟着鸟群一起朝山的方向飞去。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "看来，\n小哔回到原本属于它的地方了呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "呜呜，小哔啊啊啊……",
+            "ChoiceDataList": [
+                "还会再见的",
+                "已经发生的事情就坦然接受吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "是啊……\n毕竟我们之间相连着同一阵风。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "只要跟着大自然前进，\n有一天一定会再相遇的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "帝王光辉",
+            "Text": "是啊。\n只要跟西风一起爬山的话，\n说不定它随时都会出现打招呼呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "嗯，说得也是……\n谢谢你们！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "呜……\n回去之后，\n也要跟小咕它们分享这件事情才行……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "是啊。\n那两只还留在树上──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "帝王光辉",
+            "Text": "原……原来还有其他只啊……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我默默在心里\n对帝王光辉的吐槽表示赞同。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "是的。\n对小哔来说，跟鸟群在一起是本能，\n也是对它来说最幸福的状况。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "这样喔……\n毕竟要是叫我跟朋友们分开的话，\n我也会感到寂寞的嘛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "那我就应该要\n笑着送小哔离开才对……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "不明的声音",
+            "Text": "打起……精神……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "呃……\n刚才是西风或帝帝在说话吗？\n还是西风的训练员？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山人西风",
+            "Text": "都不是。\n大家还记得我先前说过的话吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼唐怀瑟",
+            "Text": "不、不心存排斥，\n接纳祂们最自然的模样……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "帝王光辉",
+            "Text": "呃，这太刁难人了啦──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我赶紧拉着愣在原地的山人西风的手，\n一行人急急忙忙逃离现场。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

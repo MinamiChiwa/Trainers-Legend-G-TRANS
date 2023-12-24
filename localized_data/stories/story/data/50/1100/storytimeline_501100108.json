@@ -1,0 +1,436 @@
+{
+    "Title": "粉丝感谢祭",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──粉丝感谢祭。\n是欢迎粉丝进入特雷森学园参观的体育祭典。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "而奇锐骏要挑战的竞技项目是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "其实这个我稍微打过唷。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "姿势……是不是这样摆呀？\n唔唔唔唔……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──具有历史传统的运动“高尔夫”。\n虽然她曾经打过这件事令我很意外……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "怪了？是说，训练员呀。\n我要瞄准的球门在哪里呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……她似乎跟槌球搞混了。\n看来她并不会打高尔夫球。\n这样的话──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "太好了──！果然还是这个才对。\n没错没错，就是拳击才对！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "怪了？\n仔细一看竞技名称好像不太一样呢？\n“艺术拳击”？",
+            "ChoiceDataList": [
+                "是啊，是一种拳击风格的健身运动",
+                "嗯，是一种拳击风格的健身运动！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "不是靠对打定胜负，\n而是取决于双方的“动态美感”和“持久力”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "而那些强劲的对手们──\n已经开始比赛了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "哈，艺术拳击吗。\n只要运用我的法国踢腿术就绰绰有余了吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "呼、喝喝、呼！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──拥有法国防身术“法国踢腿术”经验的\n天狼星象征。以及──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "我以前有一段时间，\n也曾把拳击加入塑身用的训练项目中喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "──一、二！一、二！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "兼职当模特儿的黄金城市。\n比赛的最终判决是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "评审",
+            "Text": "两位选手到此为止。\n辛苦了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "啊？不能晋级决赛？\n为什么啊？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "评审",
+            "Text": "天狼星象征选手\n是因为偶尔会加入踢击的动作。\n而黄金城市选手……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "评审",
+            "Text": "每个动作之间的视线跟定格姿势太显眼了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "唔……不小心犯了职业病……\n还真是困难呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "川上公主",
+            "Text": "一、二！一、二！\n公主☆打脸拳──！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（击中声！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "评审",
+            "Text": "川上公主丧失资格～\n不可以真的打中围栏！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──在各种情感交错的场景上演的同时，\n奇锐骏稳扎稳打地晋级，\n然后来到了决赛──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "──请多指教，奇锐骏。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "居然对上真正有拳击经验的对手──\n让我感觉要打起精神更认真应战呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "喔喔喔，八重。请多指教呢。\n无论何时你的站姿都是如此威风凛凛～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "对手是八重无敌。\n是一名精通古武术的赛马娘。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "漂亮的套路，稳定的呼吸……\n不论哪项都近乎完美。\n于是两人之间无止境的演武就这样开始了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "哼……喝！\n嘿呀……喝！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "我只需要保持精准的动作──直到最后！\n能够撑到最后的就是赢家！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "一、二──！\n三、四──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "（小八真厉害。\n她竟然连一滴汗都没有流～）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "（这可能不好对付……但我……\n可是前拳击手的女儿！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "一、二……！\n三、四……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "奇锐骏拼命地紧咬对手不放。\n看见她这副模样，我不禁──",
+            "ChoiceDataList": [
+                "赢过她！你要赢过她啊，奇锐骏！",
+                "赢过她！你要赢过她呀，奇锐骏！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "（训练员！？谢谢你帮我加油呢。\n我……我……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "会熊熊燃烧到极限的──！\n呜喔──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她持续出拳，直到用尽最后一分力气。\n而比赛的结果──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "评审",
+            "Text": "获胜者是──八重无敌选手！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "那个……奇锐骏，你还好吗？",
+            "ChoiceDataList": [
+                "振作啊，奇锐骏！",
+                "振作呀，奇锐骏！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "训练员……八重……\n我……我呀……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "已经燃烧成灰烬了～\n哎呀呀呀～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "虽然没赢，\n现场观众仍对撑到最后一刻的奇锐骏\n报以温暖的掌声──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "粉丝感谢祭就这样落幕了。\n我们就学小拳王走泪桥回家吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "奇锐骏拼命地紧咬对手不放。\n看到老奶奶挑战屹立不摇的古武术之王……\n",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "粉丝A",
+            "Text": "奇锐骏，加油！\n还可以……你还可以的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "粉丝B",
+            "Text": "就是说啊！你还没有输！\n奇锐骏！奇锐骏！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "粉丝们",
+            "Text": "──奇锐骏！奇锐骏！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "（这些……加油的声音是……？）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "即便已经站不稳了，也撑著没倒下，\n继续演武的奇锐骏，\n她的姿态打动了所有人──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "然后终于──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "呼……呼……呼……呼吸……已经……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "难以置信。身体都已经晃成那样了……\n居然不会喘不过气来……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "（已经……都看不清楚了……\n脚也感觉好沉重，可是……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "我还要继续下去唷！\n一、二！一、二！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "评审",
+            "Text": "到此为止──！\n获胜者是奇锐骏！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（哇啊啊啊啊啊啊啊啊！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "现场欢声雷动。\n粉丝们上前围住奇锐骏。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我在人潮推挤中想办法靠近她。\n",
+            "ChoiceDataList": [
+                "奇锐骏！奇锐骏！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "训练员～！训练～员！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "现场的气氛来到了最高点。\n没错，胜负结果已经不是重点了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "训练员！我成功了喔！\n我尽全力做到了喔～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "现场响起的音乐，是献给坚持到极限者的──\n一首不折不扣的人生赞歌。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "相当精彩。恭喜你，奇锐骏，\n不过……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "轰动成这样好像太夸张了点。\n这应该只是小小的演武比赛吧……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在众多粉丝的鼓励下，\n奇锐骏就这样荣登\n艺术拳击的世界冠军？宝座了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

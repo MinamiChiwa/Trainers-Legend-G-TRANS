@@ -1,0 +1,299 @@
+{
+    "Title": "幽灵骚动也能靠风水解决！？",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "某天晚上，\n我回校舍拿忘记的东西时──\n突然出现许多人影将我制服……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "活泼的声音",
+            "Text": "呼，总算抓到幽灵了！！\n啊啊，不过拜托你，\n不要诅咒我喔……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "有气质的声音",
+            "Text": "既然连续好几天晚上都在学园里哭泣，\n你一定有什么感到悲伤的事情吧？\n尽管说出来，然后安心成佛吧！",
+            "ChoiceDataList": [
+                "你们是谁！？幽灵又是什么意思！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "熟悉的声音",
+            "Text": "等等、等等────！\n这好像是我认识的人！？\n你……是训练员吧！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "果然是训练员！\n对不起，吓到你了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "对不起！我们正在找幽灵，\n刚好看到可疑的人影，\n还以为是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "最近有个传闻，\n说只要晚上到我们班的教室，\n就会听见幽灵啜泣的声音。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "因为有很多人感到害怕……\n所以我就和小北一起来拜托幽灵成佛。",
+            "ChoiceDataList": [
+                "原来如此……那历奇为什么也在这里？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "我也一样！是来解决大家的不安，\n让大家变得happy的☆\n而且我也想帮可爱后辈的忙呀。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "虽然原因不一定是幽灵就是了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "啊！方便的话，\n训练员可以一起来吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "只要有“相生”的训练员在，\n应该就能完美地解决这场骚动！",
+            "ChoiceDataList": [
+                "可以先让我去拿忘记的东西吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "当然可以！\n干脆我们一起去拿吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "于是──我顺利拿回忘记的东西后，\n就来到了北部玄驹她们的教室，\n据说这里有啜泣的幽灵出没。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "现在……\n好像还听不到幽灵的哭声呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "希、希望不是邪恶的幽灵……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "嗯～关于这件事，\n那个声音的真相，\n或许跟幽灵没关系喔。",
+            "ChoiceDataList": [
+                "什么意思？",
+                "什么意思？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "原因应该跟教室内气的流向有关。\n从风水的观点来看，\n那方面的可信度比幽灵高多了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "有不好的气沉积在教室里，\n让来到这里的人感到疲惫──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "人一疲惫就容易往不好的方向想，\n甚至偶尔会因此产生幻听。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "所以，我打算用风水的方式打扫教室，\n只要打扫干净，让好的气进到这个空间，\n或许就能解决问题了☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "当然，原因也可能真的是幽灵，\n所以如小北和小钻所说，\n来找幽灵或许也不错──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "不，先来打扫吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "这样也能让教室变干净，\n可以说是一举两得，\n而、而且我也比较希望原因不是幽灵……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "呼。我整理了叠在角落的物品，\n然后把观叶植物移到东北方了！\n再来是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（……咿……咿咿咿……）",
+            "ChoiceDataList": [
+                "这个声音该不会……是幽灵？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "不！这个声音应该不是幽灵！\n是关不紧的门窗造成的──\n啊！那扇窗户……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "原来如此……有点歪掉了呢。\n因为叠起来的物品遮住了窗户，\n才没有人发现窗户的问题。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "多亏大家一起整顿了环境，\n才能够找到原因！",
+            "ChoiceDataList": [
+                "风水派上用场了呢！",
+                "风水派上用场了呢！",
+                "你立了大功呢！",
+                "你立了大功呢！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "多亏大家一起整顿了环境，\n才能够找到原因！",
+            "ChoiceDataList": [
+                "风水派上用场了呢！",
+                "风水派上用场了呢！",
+                "你立了大功呢！",
+                "你立了大功呢！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "嗯！\nRickey☆Lucky☆完美解决！！",
+            "ChoiceDataList": [
+                "希望这能让大家意识到风水的实用性",
+                "希望这能让大家意识到风水的实用性"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "是啊……不过，\n只要能先让大家变得happy，\n这样就够了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "因为我想做的事情，\n就是用风水把happy带给大家！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "这种精神真是太了不起了！\n我会把今天的事情告诉班上同学们！\n让大家知道风水的厉害！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "虽然会招来悲伤的魔咒应该被破除……\n但我觉得能唤来幸福的风水很棒呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "真的吗！？\n小北、小钻，谢谢你们！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "两人对风水的认同，\n让小林历奇感到非常开心，\n在一旁看着的我也觉得内心温暖起来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "嘿嘿♪就这样保持下去，\n让学园变得越来越happy吧～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "我赞成！\n我也想帮所有感到困扰的人，\n解决他们的烦恼！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "我也赞成！因为我也想帮大家的忙，\n而且今天的活动……真的让我很开心。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "好～！那特雷森学园助人小队，\n在此正式成立～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "喔喔，特雷森学园助人小队！！\n真是个好主意！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "大家一起消除所有unhappy，\n让学园变得happy吧！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看着三人兴奋的样子，\n我心里感到十分温馨。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

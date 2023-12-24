@@ -1,0 +1,349 @@
+{
+    "Title": "该不会……是那样吧！？",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "某天，\n我因为快赶不上会议而在广场上奔跑──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "……就是现在！！\n看风风从地下冒出来啦──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "怎么样！\n你是不是吓到腿都软了──",
+            "ChoiceDataList": [
+                "抱歉！我赶着要去开会……！",
+                "抱歉！我赶着要去开会……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "咦、咦咦…………？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "喂、喂！是怎样啊！！\n反应怎么这么差劲！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "哎呀？What's up ?新光风？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "！？你、你是──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "会议结束，暂时从忙碌中解放。\n于是我回到了训练员室。",
+            "ChoiceDataList": [
+                "那就稍微休息一下……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "两人",
+            "Text": "Help me !训练员！！\n不好了──训练员！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "发生emergency的事情了！\n训练员！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "风风跟大树撞在一起之后，\n身体就对调了啦──！！",
+            "ChoiceDataList": [
+                "什么！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风？",
+            "Text": "Ye……呃，这不是在恶作剧啦──！\n相信风风啦──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车？",
+            "Text": "Yes ! very yes !\n这真的是serious的状况！！",
+            "ChoiceDataList": [
+                "那我们赶快去医院……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车？",
+            "Text": "咦！？那可不行！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车？",
+            "Text": "……不可以！！\nNo no ! 不需要去医院喔──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风？",
+            "Text": "没有错喔……！\n……我们已经查到变回来的方法了啦！\n现在就是需要你帮忙啦！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "虽然不能理解发生了什么事情……\n但又不能放任不管，只好照她所说的做。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车？",
+            "Text": "我们现在只需要\n重复撞到时的样子就可以了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风？",
+            "Text": "我们是在走廊奔跑的时候撞到的，\n现在只需要重复做一次就好了啦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车？",
+            "Text": "训练员就扮演当时在场的路人，\n走在我们中间就可以了──！",
+            "ChoiceDataList": [
+                "这样很可怕耶！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车？",
+            "Text": "嘻嘻嘻！no problem !\n我们会尽量不要撞到你的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车？",
+            "Text": "呃──一直变不回来呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风？",
+            "Text": "对啊！接下来就换吃彼此爱吃的东西吧！\n说不定就能变回来了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车？",
+            "Text": "流口水！Nice idea !\n那我希望你去帮忙买jerky呢～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车？",
+            "Text": "风风听说理事长办公室里面\n有能治百病的零食喔！我们现在就──",
+            "ChoiceDataList": [
+                "再怎么样都不能偷东西啦！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "不──可──以！是谁啊？\n这里不可以擅自进入喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "后来也一直持续给很多人造成麻烦，\n我也不停地向人道歉──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车？",
+            "Text": "啊啊，完全变不回来。\n训练员，你有觉得头痛吗～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这说话方式听起来非常不对劲……\n我想，应该又是在“那个”了吧。\n既然如此──",
+            "ChoiceDataList": [
+                "我觉得超头痛的！该怎么办才好啊～"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车？",
+            "Text": "是喔是喔……呵呵。\n呵呵呵呵！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "两人",
+            "Text": "啊──哈哈哈哈哈！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "恶作剧大成功啦──！！\n完全上当了！！",
+            "ChoiceDataList": [
+                "（我就知道是这样──！！）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "对啊！希望你不要生气！\n这其中是有一个很deep的理由──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "原～来如此，\n所以你才会看起来这么沮丧啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "因为因为，风风觉得很无聊嘛……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "因为那家伙吓到的表情很有趣！\n所以风风才想要恶作剧的说～～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "我懂喔！没有reaction的时候，\n会觉得很落寞的嘛！所以──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "我们一起想一个\n绝对会让他吓到的恶作剧吧──！！",
+            "ChoiceDataList": [
+                "（原来是这么一回事……）",
+                "（原来是这么一回事……）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "反正已经看到了很棒的反应了，\n这次就先这样放过你吧！但是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "敢随便敷衍风风的恶作剧，\n下场就会是这个样子啦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "以后要注意点喔你！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "虽然希望她能表达得直率一点，\n但这也算是她的风格。\n我就好好地接纳吧。",
+            "ChoiceDataList": [
+                "随时奉陪！",
+                "随时奉陪！",
+                "我要好好锻炼瞬间反应能力才行",
+                "我要好好锻炼瞬间反应能力才行呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "虽然希望她能表达得直率一点，\n但这也算是她的风格。\n我就好好地接纳吧。",
+            "ChoiceDataList": [
+                "随时奉陪！",
+                "随时奉陪！",
+                "我要好好锻炼瞬间反应能力才行",
+                "我要好好锻炼瞬间反应能力才行呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "你说的喔──！\n那风风可就要不眠不休地进攻了喔──？",
+            "ChoiceDataList": [
+                "我对体力还是有自信的"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "唔唔唔，\n风风才比你更更更──有自信啦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "啊哈哈！\n你们两个感情真好呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "那风风会赶在你的反应之前再来一个恶作剧啦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "Oh ! Bad……\n那样你不就看不到reaction了吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "咦！？那可不行！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "你现在的表现已经很好了！\n就保持这个样子继续被整！！知道吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看来我今后也要继续\n做好被新光风恶整的准备才行。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

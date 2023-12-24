@@ -1,0 +1,503 @@
+{
+    "Title": "新年参拜",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "新的一年，\n我和奥斯顿真弓一起来新年参拜。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "──麦克风测试。\n午安，晚安，我是真弓。\n今天我跟训练员一起来新年参拜。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "这里人山人海的，\n搞不好会被大家发现\n真弓人在这里喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "还有好多小吃摊贩。\n机会难得，我就买些东西来吃吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "以上就是奥斯顿真弓的新年。\n下次见啰～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看来她正在从事她的兴趣之一，\n录语音备忘录。",
+            "ChoiceDataList": [
+                "（……似乎颇适合当作四格漫画的题材）",
+                "（……似乎颇适合当作四格漫画的题材）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "自从她在“短途跑者S”表现亮眼后，\n这一年来点阅数也增加了不少。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "希望今年也能\n维持这个气势持续向上成长。\n即使速度不快也无所谓。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "好啦。\n该吃些什么呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "哇，好香喔。\n不好意思，请给我一份鲷鱼烧～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "店员A",
+            "Text": "来，你的鲷鱼烧……咦？\n你是不是奥斯顿真弓？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "！嘿嘿嘿，没错。\n我是奥斯顿真弓。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "店员A",
+            "Text": "天啊，哎呀哎呀！\n我在电视上看到你的比赛喔！\n你在“短途跑者S”跑得好精彩啊～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "嘿嘿嘿嘿。今年我也会\n更加更加努力的。请多多指教──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "粉丝们",
+            "Text": "呀──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我看向尖叫声的来源……\n稍远之处出现大量人潮，\n人潮中央是两张熟悉的面孔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加的粉丝A",
+            "Text": "我去看了“秋华赏”跟“有马纪念”！\n充分感受到你们之间的强烈竞争意识！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "有马纪念"
+            ]
+        },
+        {
+            "Name": "大和赤骥的粉丝A",
+            "Text": "今年也很期待看到\n你们之间的对决～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加的粉丝B",
+            "Text": "请问请问，听说你们在学校也老是吵架，\n是真的吗！？但你们还是\n一起来新年参拜呀！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "大、大家冷静点！\n太吵闹会给别人添麻烦的……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "不好意思，我们正在休假。\n要是想知道我们接下来的消息可以阅读杂志──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "好啦好啦，稍微陪她们聊聊也好嘛！\n大家也是因为支持我们才这么热情的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "我们就回答一个问题！\n回答完就乖乖解散！可以吧！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "伏特加的提议让现场热闹非凡，\n粉丝们纷纷举手。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "好，那位粉丝请说！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥的粉丝B",
+            "Text": "请问资深级之中，最不想把优胜\n拱手让给对方的比赛是？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "资深级"
+            ]
+        },
+        {
+            "Name": "两人",
+            "Text": "…………\n资深级中最不想把优胜让给对方的比赛……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "两人",
+            "Text": "……“天皇赏（秋）”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "天皇赏（秋）"
+            ]
+        },
+        {
+            "Name": "大和赤骥＆伏特加",
+            "Text": "你说什么！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "粉丝们",
+            "Text": "呀──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "…………\n女孩们的尖叫声。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "奥斯顿真弓远远看着热闹地欢庆新年的人群……\n轻轻叹了一口气。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "看来想独占大家的注意力\n还真没那么简单呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "店员A",
+            "Text": "……去年她们的确很引人注目。\n光是劲敌间的对决\n就很有看头了嘛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "店员A",
+            "Text": "不过你也不输她们啊。\n你不也在经典级大展身手吗？\n就像“短途跑者S”那天啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "经典级"
+            ]
+        },
+        {
+            "Name": "店员A",
+            "Text": "别那么沮丧嘛。\n你也有支持你的粉丝啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "店员A",
+            "Text": "所以呢……来，多送你一个鲷鱼烧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "店员将装着两个鲷鱼烧的袋子\n塞进一脸困惑的奥斯顿真弓手里。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "店员A",
+            "Text": "加油喔，我会声援你的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "……嘿嘿嘿，谢谢。\n真弓会加油的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "今天吃掉一个……\n另一个留着当明天的点心。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "……嗯，不对，这样好了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "给你。\n训练员，我们一起吃吧。",
+            "ChoiceDataList": [
+                "！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这是否代表我们之间稍微拉近了距离呢……？\n我细细品尝著这份喜悦\n收下了鲷鱼烧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "好烫好烫。\n……好好吃喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "原本还有点小小不甘心，但已经\n跟热呼呼的鲷鱼烧一起被我吞下肚了。",
+            "ChoiceDataList": [
+                "太好了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "我决定了，\n真弓还是维持真弓的作风就好。\n现在我得好好重视身边的好朋友──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "……啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "我还没跟好朋友们拜年！",
+            "ChoiceDataList": [
+                "好朋友？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "就是总是为我打气的克萝依．贺伯小姐、\n天才流浪猫服部忍丸，\n与身怀无限可能性的蚁村！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "我想想，总之呢……\n该从谁开始……",
+            "ChoiceDataList": [
+                "拜访总是为她打气的克萝依．贺伯小姐",
+                "拜访天才流浪猫服部忍丸",
+                "拜访身怀无限可能性的蚁村"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "也对，果然就该\n第一个拜访克萝依小姐！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "新年快乐。\n今年也请多多指教。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "家人们都好吗？\n你们去参拜过了吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乌鸦",
+            "Text": "嘎～！嘎～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "这样啊，\n看你这么有精神真是太好了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在我们忙着跟好朋友拜年时，\n夕阳逐渐西下──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "天快黑了，差不多该回去了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "好啦……我们回去吧，训练员。",
+            "ChoiceDataList": [
+                "好",
+                "嗯"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我们并肩一同踏上归途，\n脚下道路被新年的夕阳染得鲜红。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "好主意。\n我们去拱廊式商店街吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "服部忍丸～喵喵……\n……不见猫影呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "……嗯？那是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "……呵呵！找到了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "在睡午觉呢，缩成一团看起来好像年糕。\n刚好新年应景？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在我们忙着跟好朋友拜年时，\n夕阳逐渐西下──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "天快黑了，差不多该回去了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "好啦……我们回去吧，训练员。",
+            "ChoiceDataList": [
+                "好",
+                "嗯"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我们并肩一同踏上归途，\n脚下道路被新年的夕阳染得鲜红。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "……也好。虽然能遇见它的几率不高……\n正因为不容易碰面\n所以才该第一个去找它！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "……嗯～\n平时它应该都在这里的啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "哈啰哈啰，蚂蚁们。我记得你们是……\n蚁田、蚁园、蚁木对吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "你们知道蚁村在哪里吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在我们忙着跟好朋友拜年时，\n夕阳逐渐西下──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "天快黑了，差不多该回去了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "好啦……我们回去吧，训练员。",
+            "ChoiceDataList": [
+                "好",
+                "嗯"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我们并肩一同踏上归途，\n脚下道路被新年的夕阳染得鲜红。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

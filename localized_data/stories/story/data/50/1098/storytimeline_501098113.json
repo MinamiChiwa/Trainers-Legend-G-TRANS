@@ -1,0 +1,593 @@
+{
+    "Title": "旧情如同流动的沙",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "于是为了变强，\n小林历奇开始寻找愿意协助自己的赛马娘……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北幸樽前",
+            "Text": "咦，“要我帮忙你训练”？\n我确实是有说过\n有人帮忙自己是很重要的……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北幸樽前",
+            "Text": "但是对不起……我没办法帮你。\n我已经针对目标排好了行程，\n现在没有那个余力。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "喔喔，要我陪你一起训练吗？\n我当然是很乐意～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "真的吗！？谢谢你，锐骏☆\n那赶紧来进行模拟赛……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "喝啊啊啊啊啊啊啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "呜呜呜……\n训练员，她太强了，我根本不是对手～",
+            "ChoiceDataList": [
+                "我想也是……",
+                "我想也是……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──奇锐骏。虽然她的个性\n像个温柔的老奶奶，\n但却是沙地屈指可数的强者之一。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她参加过将近三十场比赛。虽然不曾赢过GⅠ，\n但拿过两次第二名，并赢过三场主要竞赛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "GⅠ"
+            ]
+        },
+        {
+            "Name": "独白",
+            "Text": "她也曾与沙地的知名赛马娘醒目飞鹰，\n进行过不分轩轾的激烈对决。\n以训练对象来说，她实在强过头了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "醒目飞鹰"
+            ]
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "嗯～就算对方愿意帮忙，\n我也无法与太强的赛马娘建立能够\n相互切磋砥砺的“相生”关系……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "对象必须是跟我一样刚出道不久，\n或是尚未出道的赛马娘才行。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "但我又想不到还有哪个赛马娘力量够强，\n跑起沙地来也能保持游刃有余。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "除了北幸樽前和奇锐骏以外，\n一时确实想不到其他人选。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "不过，\n如果硬是要找出线索的话……",
+            "ChoiceDataList": [
+                "有没有什么风水方面的提示？",
+                "有没有什么风水方面的提示？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "提示……这么说来，\n我算出自己的幸运色是“黑色”……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "“黑色”似乎是其中一条线索。\n我决定先去寻找和黑色有关的赛马娘，\n然后带来这里。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "……！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "历奇！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "小北！\n对喔，还有小北在啊☆",
+            "ChoiceDataList": [
+                "你们难道认识？"
+            ],
+            "ColorTextInfoList": [
+                "小北"
+            ]
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "嗯！其实我们小时候，\n经常一起在同一座公园玩呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "小北，是这样吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "嗯！那时候我还没遇见小钻！\n我们曾经一起赛跑过！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "小钻"
+            ]
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "我以前在沙坑弄丢的玩具，\n历奇一下就帮我找到了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──北部玄驹。\n她年纪比小林历奇小，\n是个被称作助人大将的热心赛马娘。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "北部玄驹"
+            ]
+        },
+        {
+            "Name": "独白",
+            "Text": "因为她名字里的“玄”是“黑色”的意思。\n我试着把这位赛马娘带来后……\n才发现她们两人之间早已相识。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "而另一位赛马娘是里见光钻。\n她是里见集团的大小姐，\n同时也是北部玄驹的好友。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "里见光钻"
+            ]
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "小北，其实我正在找愿意\n陪我一起训练的赛马娘。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "你愿意帮忙吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "好，当然没问题！助人的事情，\n就放心交给我吧♪而且……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "历奇以前常陪我玩，\n又非常照顾我，\n我当然很乐意帮忙！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "谢谢你☆不过真令人怀念呢。\n我们以前一起玩的那座公园……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "我记得总是很多有温柔的叔叔和大姐姐，\n在一旁照看着我们。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "管理员叔叔",
+            "Text": "为了方便你们玩耍，\n我事先帮你们把危险的栅栏拆掉了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "管理员叔叔",
+            "Text": "这样你们就能够尽情奔跑，\n不用担心会撞到了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "是啊！他对我们非常好。\n托他的福，我们才能每天尽情奔跑！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "小北，让我们再像那时候一样跑吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "嗯，身为在同一座公园长大的赛马娘，\n我们一起加油吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "那个，既然如此，\n可以让我也一起帮忙吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "咦，小钻也要帮忙吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "嗯。毕竟有些训练的种类，\n有三个人在会比较好做嘛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "我也希望能够帮上忙。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "嗯，谢谢你！\n那也要请小钻多多指教啦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "北部玄驹的好友里见光钻，\n也积极地表示愿意帮忙。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "三人的关系就这样越变越好──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "历奇，今天也请多指教！\n我从一早就等不及了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "今天的风水谕示是什么！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "呃，今天是……“金克木”。\n小钻今天跟木的契合度似乎不是很好呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "今天跟木的关系不好……！既然如此！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "就来跑木屑赛道吧！好吗？\n我这边没问题喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "历奇的风水真的很厉害，\n非常灵验，所以……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "很适合作为破除魔咒的考验呢！\n真的是太棒了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "啊哈哈……历奇，\n看来她变得非常喜欢你呢……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "嗯～\n有种小钻被人抢走的感觉～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "里见光钻是个\n对破除魔咒异常执著的赛马娘。\n她与小林历奇在这方面相当契合。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "训练员！托她们的福，\n我现在干劲十足☆我们三个人可以一起合作♪",
+            "ChoiceDataList": [
+                "嗯，一起锻炼跑法吧！",
+                "嗯，一起锻炼跑法吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "三人形成出色的相生关系。\n是能够互相竞争和切磋砥砺的三人组合。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得新的情谊后，\n让小林历奇的前途变得更加开阔了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "然后，在当天回程的路上──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "啊……那个女孩……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "小林历奇突然在校门口停下脚步。\n在她视线的前方──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "有一对正在互相告别的\n赛马娘和训练员。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "离开的赛马娘",
+            "Text": "一直以来，受你照顾了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "送行的训练员",
+            "Text": "嗯，真是遗憾。\n没想到你要主动退出……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "离开的赛马娘",
+            "Text": "这也没办法。即使把伤治好，\n照现在这样还是……再见了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "赛马娘行礼后就离开了。\n看着她的背影……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "请问──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "小林历奇忍不住上前搭话。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "你在跑步方面遇到了什么问题吗？\n如果是无法维持积极的心态……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "离开的赛马娘",
+            "Text": "仅止于心态上出现问题……\n对我来说已经是半年前的事情了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "咦……半年前……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "离开的赛马娘",
+            "Text": "一开始确实只是心情的问题，\n之后我的食量变小，晚上也开始失眠……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "离开的赛马娘",
+            "Text": "虽然训练员也有陪我商量，\n但给他添麻烦，反而让我感到更难受。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "这样啊……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "那个！既然如此……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "离开的赛马娘",
+            "Text": "我已经确定要去工作了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "……咦？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "离开的赛马娘",
+            "Text": "所以，我打算藉这个机会重新开始。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "离开的赛马娘",
+            "Text": "我想，一定是我天赋不足吧。\n我已经看开了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "离开的赛马娘",
+            "Text": "对不起啊，让你担心了。\n再见。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "啊……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "那个赛马娘露出有些寂寞的笑容后，\n就离开了。这在特雷森学园，\n算是相当常见的事情……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "特雷森学园"
+            ]
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "我原本……应该能帮到她的。",
+            "ChoiceDataList": [
+                "你是说刚才那个赛马娘？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "嗯，例如“在东边放红色物品”，\n或是试着每天在日出的时间起床。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "透过这种小小的心态转变重新振作，\n是很常见的事情。不过……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "如果无法向对方伸出援手，就只能旁观而已。\n自从我进了特雷森学园后，\n已经遇过好几次这种事。所以……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "即使现在无能为力，我还是想尽可能\n在能力范围内做点什么。所以……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "我想变强，然后推广风水！\n为了能够尽快帮助许多人！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "训练员，我必须加油才行！\n和小北与小钻一起！",
+            "ChoiceDataList": [
+                "……是啊！",
+                "……嗯！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "寻求不只用来获得胜利，\n也能用来支持某人的温柔力量。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在追求这种力量的小林历奇眼中，\n燃起了比艳红的夕阳还要火热的激情。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

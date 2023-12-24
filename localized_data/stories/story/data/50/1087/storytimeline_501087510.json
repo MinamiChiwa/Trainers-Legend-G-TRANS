@@ -1,0 +1,263 @@
+{
+    "Title": "我成了都市传说？",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "欸欸欸，你知道\n最近很有名的都市传说吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘B",
+            "Text": "我知道我知道！从萤幕的另一端\n对观众穷追不舍的神秘赛马娘！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘B",
+            "Text": "听说……\n只要跟萤幕中的赛马娘对上眼，\n不管再怎么转台都会一直看到她？",
+            "ChoiceDataList": [
+                "（……她们在说什么？）",
+                "（……她们在说什么？）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我边疑惑地听着走廊传来的谈话声，\n边打开电视确认天气──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气象主播",
+            "Text": "今明两天东京都内天气都十分晴朗！\n可以放心地洗晒衣物。",
+            "ChoiceDataList": [
+                "（咦？真弓？）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采访者",
+            "Text": "这里的拉面吃得到浓郁海鲜汤头风味，\n堪称极品！也难怪总是大排长龙！",
+            "ChoiceDataList": [
+                "（又看到她了？）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我看到一双圆滚滚的眼睛\n从萤幕的另一端凝视着自己。\n都市传说的真相该不会是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "什么？真弓被当作都市传说了？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "这可不能坐视不管呢。\n真弓明明就是可爱的吉祥物。\n我不能接受被当成灵异现象。",
+            "ChoiceDataList": [
+                "说起来，你为什么要一直上镜头？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "简单来说，这是宣传活动的一环。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "真弓能感应到\n哪些地方正在大受众人瞩目。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "我会赶到现场突袭入镜，一次次地\n进入观众的视野，让大家记住我……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "没错！这正是将真弓植入潜意识作战！",
+            "ChoiceDataList": [
+                "原来如此……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "我原本是这么打算的啦……嗯嗯，\n看来状况跟想像中有点不一样呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "听说“传闻中的赛马娘”又出现了……！\n一看到她就会连续一个礼拜都一直看到她！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "（小小声……\n悄悄话……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "咦，真的吗！？\n你的意思是……欸？人呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "原来是这样啊！\n唉，这样我就放心了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "西野花",
+            "Text": "班上同学也都在流传……\n我去告诉大家！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "好的，麻烦你了。",
+            "ChoiceDataList": [
+                "你们在聊什么？",
+                "你们在聊什么？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "呵呵呵呵呵呵。\n别急别急，有耐心点。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "然后呢，听说看到就会遇到好事……\n这不就是现代版座敷童子吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘B",
+            "Text": "什么？那我反倒想主动找找看了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘C",
+            "Text": "听说她比较常出现在白天的电视节目。\n还有人说她穿着我们学校的制服喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "嗯嗯，\n这样应该就没问题了。",
+            "ChoiceDataList": [
+                "你好像很习惯处理这种事……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "有吗？\n……或许真的是喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "人们常会吉祥物产生各种想像。\n要是粉丝能借此获得乐趣\n我也很高兴……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "但真弓想维持漂亮可爱的形象，\n所以稍微修正了一下方向。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "“听说那个神秘赛马娘的传闻其实不恐怖喔？”\n“听说看到会发生好事？”\n“那我也来找找看吧”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "等大家都记住我的脸后……才会知道！\n听说那个赛马娘其实叫做真弓喔！\n这下脸跟名字都被记住了，可喜可贺。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "……事情就是这样，我打算\n继续努力实行“突袭入镜”作战。",
+            "ChoiceDataList": [
+                "迅速移动或许会是不错的训练……",
+                "你拟定的作战太优秀了！",
+                "你拟定的作战太优秀了！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "……事情就是这样，我打算\n继续努力实行“突袭入镜”作战。",
+            "ChoiceDataList": [
+                "迅速移动或许会是不错的训练……",
+                "你拟定的作战太优秀了！",
+                "你拟定的作战太优秀了！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "原来如此，还有这层好处啊。\n真弓恍然大悟。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "呵呵呵，\n有个明理的训练员真是太好了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这个插曲让我体会到，\n虽然她看似虚无飘渺又难以捉摸，\n但其实心中自有许多考量……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "呵呵。\n这是世界级吉祥物必备的技能。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奥斯顿真弓",
+            "Text": "做事不能欠缺计划。\n但太拘泥于计划也行不通。\n就保持这样悠哉地继续努力吧～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这个插曲让我体会到，\n虽然她看似虚无飘渺又难以捉摸，\n但其实心中自有许多考量……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}
