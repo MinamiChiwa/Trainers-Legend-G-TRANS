@@ -1,5 +1,5 @@
 {
-    "Title": "迎向日本打比",
+    "Title": "迎向日本德比",
     "TextBlockList": [
         {
             "Name": "",
@@ -69,7 +69,7 @@
         },
         {
             "Name": "中山庆典",
-            "Text": "“──来吧，下次的打比，\n我要让你们看到希望。”",
+            "Text": "“──来吧，下次的德比，\n我要让你们看到希望。”",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -129,13 +129,13 @@
         },
         {
             "Name": "赛马娘A",
-            "Text": "欸，\n到时一起去看打比吧！",
+            "Text": "欸，\n到时一起去看德比吧！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "赛马娘B",
-            "Text": "嗯，得好好观摩才行！\n我有一天也要参加打比～！",
+            "Text": "嗯，得好好观摩才行！\n我有一天也要参加德比～！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -165,7 +165,7 @@
         },
         {
             "Name": "播报员",
-            "Text": "“日本打比”等等就要开始！\n一年一度的赛马娘祭典即将开幕！",
+            "Text": "“日本德比”等等就要开始！\n一年一度的赛马娘祭典即将开幕！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -183,7 +183,7 @@
         },
         {
             "Name": "",
-            "Text": "──“日本打比”。",
+            "Text": "──“日本德比”。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -195,7 +195,7 @@
         },
         {
             "Name": "中山庆典",
-            "Text": "那么，终于来到三冠路线的中间点。\n今天就是打比啦。",
+            "Text": "那么，终于来到三冠路线的中间点。\n今天就是德比啦。",
             "ChoiceDataList": [
                 "让世界见证你的实力吧",
                 "让世界见证你的实力吧"
@@ -206,7 +206,7 @@
             "Name": "中山庆典",
             "Text": "没问题，\n该做的事情已经摆在眼前。",
             "ChoiceDataList": [
-                "只要成为打比赛马娘就能得到认同"
+                "只要成为德比赛马娘就能得到认同"
             ],
             "ColorTextInfoList": []
         },
@@ -238,15 +238,15 @@
         },
         {
             "Name": "杂志报导",
-            "Text": "──“迈向世界的赛马娘特辑，\n呼声最高的是奥克斯赛马娘。”",
+            "Text": "──“迈向世界的赛马娘特辑，\n呼声最高的是橡树大赛赛马娘。”",
             "ChoiceDataList": [],
             "ColorTextInfoList": [
-                "奥克斯"
+                "橡树大赛"
             ]
         },
         {
             "Name": "杂志报导",
-            "Text": "“她的霸气是否能超越\n未来的打比赛马娘！？\n现今最值得注目的后冠路线！”",
+            "Text": "“她的霸气是否能超越\n未来的德比赛马娘！？\n现今最值得注目的雌马三冠路线！”",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -264,7 +264,7 @@
         },
         {
             "Name": "",
-            "Text": "──经典赛三冠路线\n第二战“日本打比”就此展开。",
+            "Text": "──经典赛三冠路线\n第二战“日本德比”就此展开。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         }
