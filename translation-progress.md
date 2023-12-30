@@ -110,6 +110,7 @@
 | 1081 | Glorious Moment！                | 完全翻译√ | 毫毛                         |
 | 1082 | L'Arc de gloire                  | 完全翻译√ | *Kitasanゞ卫ちゃ（Bilibili） |
 | 1083 | トレセン音頭                      | 完全翻译√ | *Kitasanゞ卫ちゃ（Bilibili） |
+| 1084 | ソシテミンナノ                    | 完全翻译√ | *Kitasanゞ卫ちゃ（Bilibili） |
 
 ## 角色及皮肤名
 
