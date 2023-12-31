@@ -1,0 +1,493 @@
+{
+    "Title": "抽奖试手气！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "傍晚时分。正当我与小林历奇\n走在回特雷森学园的路上时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "咦？前面聚集了好多人！\n发生什么事了？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "应该……不会是意外。\n毕竟我有确实避开运气不好的路。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "看过来看过来，现正举办新春大抽奖～！\n特等奖可是“温泉旅游券”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "温泉旅游券"
+            ]
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "一等奖是“上等胡萝卜肉排汉堡”，\n二等奖是“一筐胡萝卜”，\n三等奖则是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "来喔来喔，好玩的抽奖活动！\n欢迎大家来抽喔～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "是抽奖～♪啊，训练员！\n你看那个抽奖机的外形！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "不觉得长得有点像“八卦”吗？\n是个完美的八角形☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "或许抽奖跟风水有什么渊源呢！",
+            "ChoiceDataList": [
+                "有这个可能性喔",
+                "有这个可能性呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "虽然没有确切的证据，\n但或许和抽签与神道有关连。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "是抽奖在呼唤我们，\n还是我们在追求抽奖呢？\n虽然不知道其中的因果，不过！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "既然都遇上了，没道理不抽♪\n训练员，把力量借给我吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是，我和小林历奇\n一起握住抽奖机的把手──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "中奖是八卦！不中奖也是八卦！\n抽奖啊，显示我们的运势吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "喝啊啊啊啊啊啊啊啊！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我们一起转动抽奖机。\n结果──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "天啊！恭喜────！！\n抽到特等奖“温泉旅游券”了～～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "哇啊☆太棒了──！！！！！\n没想到会抽到特等奖，实在太厉害了！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "这一定不是偶然，是运势的启示。\n也就是说──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "要我们去温泉地，尽情吸收溶入温泉里的\n大地之力，然后活用在大家身上……\n应该是这个意思吧♪",
+            "ChoiceDataList": [
+                "好，那赶紧来预约……",
+                "好～那赶紧来预约……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "等一下！虽然我也很想这么做……\n但风水有一条跟温泉有关的教诲。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "据说“只要在三月时，泡进位于吉位的\n温泉，就一辈子都不会缺和服”呢。",
+            "ChoiceDataList": [
+                "和服……是指不会缺衣服的意思吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "不是啦，这里的和服指的是各种财产。\n也就是如果希望将来能变有钱，\n等三月再去会比较好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "不过，今年的那段时期，\n已经排满了各种行程。\n而且前后都有大型竞赛……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "确实是这样没错。\n这种时候──",
+            "ChoiceDataList": [
+                "就等龙脉沉静下来吧",
+                "就等龙脉沉静下来吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "嗯，没错！以风水来说，这才是正确答案☆\n等顺利克服激烈的赛季后──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "也就是明年三月的时候，\n我们再来悠闲地调整经脉比较好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "呵呵，呵呵呵呵☆",
+            "ChoiceDataList": [
+                "……你好像很开心呢",
+                "……你好像很开心啊"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "啊，一不注意就～毕竟再怎么说，那个……\n我们可是要去温泉旅行嘛♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "等努力过后，再尽情地玩吧！\nRickey☆Lucky☆超级happy～♪☆★",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "她难掩满心的喜悦。为了明年能够\n毫无顾忌地出门，先累积多一点成绩吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "恭喜抽到一等奖～！\n奖品是“上等胡萝卜肉排汉堡”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "哇～好厉害☆\n这感觉是个不错的幸运食物喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "嗯～搞不好想出这个汉堡排的人，\n其实懂风水喔。",
+            "ChoiceDataList": [
+                "你怎么会这么想？",
+                "你怎么会这么想？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "你仔细看这个奖品。\n在深褐色的肉排中央，\n插了一根橘色的胡萝卜对吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "这大幅改善了气的流向，\n运气也提升了，再加上──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "营养也很丰富！吃了这道料理后，\n身体一定由内到外都会变得很有精神～☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "如果和要好的对象一起开心享用，\n更是会变得超级happy♪\n训练员，我们快回去吃吧☆",
+            "ChoiceDataList": [
+                "好！",
+                "嗯！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "汉堡排包含的运气和营养都非常充足。\n这个幸运食物，\n替小林历奇带来了许多活力。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "二等奖～！！\n奖品是“一筐胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "唔哇～多到这种程度，\n连颜色都变得好有压迫感呀！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "胡萝卜……橘色……橘色啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "对了，在吃之前！",
+            "ChoiceDataList": [
+                "你想到什么了吗？",
+                "你想到什么了吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "嗯！训练员，\n你的房间可以借我用一下吗？",
+            "ChoiceDataList": [
+                "──咦！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "呼，这样就行了。\n只要在吃之前，先像这样放在玄关！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "就一定能把好的气吸引过来！\n因为玄关是幸运的入口♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "啊，不过幸运的通道“lucky zone”\n还是稍微得收拾干净一点比较好喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "训练员，在吃饭之前，\n我顺便去打扫一下房间喔♪\n交给我吧，我很擅长做这种事！",
+            "ChoiceDataList": [
+                "好，谢谢你",
+                "嗯，谢谢你"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是我们在变干净的房间里，\n一起大吃胡萝卜。\n不可思议的是，美味度也大幅提升了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "三等奖～！\n奖品是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "一根胡萝卜！？\n这该不会……！！",
+            "ChoiceDataList": [
+                "从风水来看不太好吗？",
+                "从风水来看不太好吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "嗯！\n因为只能得到一根啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "感觉好遗憾，\n而且非常不甘心！",
+            "ChoiceDataList": [
+                "呃，也是啦……",
+                "嗯，也是啦……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "感觉这和风水……没什么关系，\n单纯只是情绪方面的问题。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "先不开玩笑了……但运势确实产生了\n不好的变化，得小心一点才行。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "（噗噗──！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "训练员，有车！小心一点！",
+            "ChoiceDataList": [
+                "呼，好险啊……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "你看吧。即使只是小事，\n也能看出吉凶。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "今天就乖乖回家吧。\n还有，尽量什么事都不要做。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "状况不好的日子，最好别做多余的事情。\n我们将胡萝卜对半分着吃完后，便早早就寝了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "很可惜，没抽中！\n参加奖是“卫生纸”喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "卫生纸……虽然是个会令人\n感到遗憾的结果，不过……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "这在风水上还满有用的。",
+            "ChoiceDataList": [
+                "有什么用？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "你想想看，通风不好时，\n室内难免会变得潮湿吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "卫生纸能用来驱除那些\n不好的湿气和水分。例如──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "……要用来擦掉不甘的泪水的时候。\n呜呜呜呜……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "虽然嘴巴上说不会遗憾，\n但她的内心似乎不这么想。\n即使能擦掉眼泪，也擦不掉不甘。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

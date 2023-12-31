@@ -1,0 +1,50 @@
+{
+    "Title": "因头痛而忧郁",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "这里没有卖梅干吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "呜呜，那怎么办……",
+            "ChoiceDataList": [
+                "你怎么了吗？",
+                "你怎么了？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "没有，我头很痛，\n所以想找梅干贴在头上……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "在我故乡那边，都说把梅干贴在\n太阳穴上头就不会痛了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "好痛喔……我要快点找到梅干才行……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "雪之美人似乎正为头痛所苦……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

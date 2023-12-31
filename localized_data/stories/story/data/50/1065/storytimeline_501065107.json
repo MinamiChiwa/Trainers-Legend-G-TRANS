@@ -1,0 +1,678 @@
+{
+    "Title": "情人节",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "训宝──！！\n这个巧克力不错吧！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "世间正值情人节。是个向照顾过自己的人和\n重要的人表达感谢之意的机会──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "红红的很有大小姐的感觉吧！？\n还是莓果系的！超可爱！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "大拓太阳神也不例外……\n因为她想送巧克力给第一红宝石，\n于是我就来跟她一起挑选。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "分量好像还很多呢！\n能吃到很多会比较开心对吧？",
+            "ChoiceDataList": [
+                "她应该是重质不重量的类型吧",
+                "她应该是重质不重量的类型吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "说得没错！！\n来问问专家吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "请问！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "店员",
+            "Text": "来了，请问有什──太、太阳神！\n哇啊，我是你的超级粉丝……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "真假？谢啦！\n现在有空吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "店员",
+            "Text": "请问需要什么？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "我想送我的好姐妹巧克力！\n然后她是个超级大小姐的感觉～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "我一直以来都是收礼的那一方！\n所以不太懂这些。\n然后，因为～那个……",
+            "ChoiceDataList": [
+                "你想送她哪种巧克力呢？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "对耶！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "请给我会让好姐妹喜欢上我的巧克力！\n",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "店员",
+            "Text": "我知道了！\n我会铆足全力地挑选！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "谢谢！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "嘿嘿──♪\n好期待情人节！",
+            "ChoiceDataList": [
+                "能顺利买到真是太好了",
+                "能顺利买到真是太好了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "嗯！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "大小姐会不会爱上我的品味啊？\n希望她会──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这时我突然浮现了一个单纯的疑问。\n如果第一红宝石真的真的爱上了，\n大拓太阳神打算怎么做呢？",
+            "ChoiceDataList": [
+                "太阳想跟红宝石成为什么样的关系呢？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "什么？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "成为什么样，是什么意思？\n什么都不会改变吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "好姐妹指的是～\n最喜欢的人对吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "会想让最喜欢的人，\n笑最开心对吧？？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "我总是跟训宝还有死党还有善信\n一起笑个不停对吧？就是那样！",
+            "ChoiceDataList": [
+                "如果两情相悦的话，就能看见她的笑容……吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "说得没错☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "我跟大小姐根本完全相反～\n这点我还是知道的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "虽然大小姐认为那是代表我们“不一样”。\n不过我们只是相反，没有不一样吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "我绝对会让她露出跟我一样的笑脸的。\n绝──对会！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "大拓太阳神如此极力主张。\n如果对方收下了巧克力的话，\n应该能够踏出缩短距离的第一步吧。",
+            "ChoiceDataList": [
+                "希望她收到巧克力会开心",
+                "希望她收到巧克力会开心"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "嗯♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "然后到了情人节当天。\n我一边祈祷着大拓太阳神能够成功，\n一边处理着工作──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "被打枪了──！！",
+            "ChoiceDataList": [
+                "什么！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "超级难过的哭哭，\n冷冰冰的回答～～！！",
+            "ChoiceDataList": [
+                "……善信，发生什么事了？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "嗯。\n刚才去送巧克力给红宝石的时候……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "──虽然非常过意不去，\n但我不能收下。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "……咦？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "咦咦咦咦咦咦咦咦咦！？\n为什么！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "咦？你不喜欢巧克力吗？\n甜食不行吗？这样的话──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "“一起在短距离嗨起来吧。”\n你之前这样跟我说过吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "嗯！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "因为大小姐也来这边了嘛☆\n我还想说能不能一起创个太阳红宝石频道呢♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "我不是自愿过来的，是坠落下来的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "什么？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "不管怎样，我赌上自己的一切，\n要在今后参加的所有比赛中留下成绩。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "因此我不能接受你的心意……\n不对，是不会接受。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "希望……\n你能够理解。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "彻底地！！\n被打枪了──！！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "嗯……\n我觉得你应该不是被打枪了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "红宝石只是拒绝了跟你一起嗨的这件事吧？\n",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "怎么可能──！\n没有人会讨厌嗨起来吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "……我大概能够理解红宝石的心情。\n",
+            "ChoiceDataList": [
+                "可以说来听听吗？",
+                "可以说来听听吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "就是，\n我好歹也是名门赛马娘对吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "不过像是经典三冠之类的，\n那些正统比赛我都没有参加。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "虽然都是我自己决定的事，\n但我偶尔还是会这样想。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "要是我能回应大家的期待就好了，\n之类的。",
+            "ChoiceDataList": [
+                "善信……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "啊！\n不过我现在一点都不后悔喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "不过……或许红宝石并不是这样。\n对她而言这可能不是个正向的选择。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "即使如此她还是决定在这条路上继续前进，\n一定是下了很大的决心吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "所以她才会表明了她不会享受的决心吧。\n虽然都只是我自己的猜测。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "……也就是说。\n善信，我……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "嗯。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "其实还有机会吗！？",
+            "ChoiceDataList": [
+                "真是乐观！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "嗯！\n还有机会的吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "好耶！！\n有机会────！",
+            "ChoiceDataList": [
+                "……你有好好理解善信说的话吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "嗯！虽然不知道红宝石怎么了，\n但她不能嗨对吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "那只要跟我一起跑就好了吧☆\n我超擅长嗨起来的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "话说要不要开派对？\n巧克力派对如何？毕竟今天是情人节嘛！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "我也买了训宝跟善信的份喔！",
+            "ChoiceDataList": [
+                "什么时候买的……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "这是企业机密！\n一种类似忍术的感觉！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "虽然这么说，\n但其实只是昨天偷偷跑去买的☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "谢谢你，太阳神！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "当然，我也有准备喔！\n我选了最棒的一个！",
+            "ChoiceDataList": [
+                "我也有买喔",
+                "我也有买唷"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "不愧是你！\n这样就能开派对了呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "有好麻吉&训宝真好～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就这样，\n我和完全恢复精神的大拓太阳神，\n以及目白善信一起开了一个小小的巧克力派对。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "喔──不错呢！\n今天是难得的情人节嘛。",
+            "ChoiceDataList": [
+                "来办派对吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "喔耶～！\n那就立刻开始！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "虽然说是派对，\n但应该是像交换礼物之类的活动吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "跟大拓太阳神一起度过的第三年。\n我跟目白善信的想法还是太天真了──\n",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "──很好！！\n铆足全力上吧！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "太阳的朋友A",
+            "Text": "尽管来吧──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "太、太阳……这是什么……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "是巧克力派对啊！\n“超巨大巧克力喷泉派对”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "大拓太阳神所准备的是……\n看起来像是要碰到体育馆天花板的\n巨大巧克力喷水池！",
+            "ChoiceDataList": [
+                "这个，有获得许可吗……！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "理事长说──！",
+            "ChoiceDataList": [
+                "理事长！！"
+            ],
+            "ColorTextInfoList": [
+                "理事长"
+            ]
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "可以从楼梯间沾来吃，\n也可以用梯子！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "不过不可以游泳！！\n要珍惜食物！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "啊，\n有特别的巧克力要给善信跟训宝喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "欸，\n你说的该不会是吊在天花板上的……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "对！\n那个超级无敌大的爱心！",
+            "ChoiceDataList": [
+                "咦咦咦咦！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "大拓太阳神指着的前方……\n有个吊在天花板上的超巨大爱心。\n仔细一看包装纸上写着收件人的姓名。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "好大……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "你们愿意收下我的love吗？\n",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "唔！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "满心期待……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "训练员！",
+            "ChoiceDataList": [
+                "好，我要开动了！！",
+                "嗯，我要开动了！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "──肚、肚子好撑……",
+            "ChoiceDataList": [
+                "对啊……",
+                "对呀……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "嘻嘻嘻☆\n很幸福吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "呵呵……是啊，\n很幸福！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "我也很幸福～☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在这个情人节，\n我收到了大拓太阳神多到满出来的爱。\n",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

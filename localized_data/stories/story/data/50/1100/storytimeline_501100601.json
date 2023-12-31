@@ -1,0 +1,37 @@
+{
+    "Title": "这次一定要获胜！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "因为最近一直输嘛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "得趁这次赢一次才行呢～\n",
+            "ChoiceDataList": [
+                "有信心吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "没信心的话，\n不可能会说想要赢吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "好──跑赢这场比赛来扭转局势吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

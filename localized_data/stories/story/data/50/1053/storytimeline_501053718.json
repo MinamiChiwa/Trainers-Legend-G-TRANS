@@ -1,0 +1,50 @@
+{
+    "Title": "恢复精神",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "早安！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "一大清早，\n门口就已经传来青竹回忆的大声问候。\n",
+            "ChoiceDataList": [
+                "你今天特别早啊",
+                "你今天特别早耶"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "是的！\n多亏我有好好休息的关系！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "其实我今天起得比闹钟还早喔！\n不但一大早就赢了比赛，\n状况也完美无缺！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "好啦，\n今天起我要继续加紧努力啰！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看来青竹回忆有好好休养到了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

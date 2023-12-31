@@ -1,0 +1,228 @@
+{
+    "Title": "结局（普通）",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "今天我跟中山庆典一同\n起程前往法国。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "我只能跟到这里！\n接下来你们就自己好好加油啦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "没问题，接下来不需要护送了。\n……佐敦也回去吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "佐敦"
+            ]
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "……呜，要加油喔……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "都还没出发就这么激动做什么？\n真拿你没办法……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山以前的导师",
+            "Text": "训练员、庆典，\n请跑出一场毫无遗憾的比赛喔。",
+            "ChoiceDataList": [
+                "好的！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山以前的导师",
+            "Text": "呵呵，\n要是我也能一起去观赛就好了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……这样就够了，老师。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "记得看我的比赛喔，\n请你守候我到最后。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山以前的导师",
+            "Text": "好的，没问题。\n这样你才赢得了赌局嘛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山的母亲",
+            "Text": "……庆典！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "老妈？\n你怎么特地跑来……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山的母亲",
+            "Text": "抱歉啊，最后一刻才赶到！\n来，我做了便当！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山的母亲",
+            "Text": "你跟训练员等登机的时候\n饿了就一起吃吧！\n不能给训练员添麻烦喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "好、好啦……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我代替一脸傻眼的中山庆典\n从她母亲手中收下纸袋。",
+            "ChoiceDataList": [
+                "谢谢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山的母亲",
+            "Text": "别客气，我才要请你多多关照！\n还有……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山的母亲",
+            "Text": "庆典，小心别受伤喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我们在大家的目送下通过安检站，\n来到机场休息室等待登机。",
+            "ChoiceDataList": [
+                "……登机时间快到了呢",
+                "……登机时间快到了呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……是啊。",
+            "ChoiceDataList": [
+                "要吃你妈妈做的便当吗？",
+                "要吃你妈妈做的便当吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "剩下没多少时间了，哪吃得完。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "登机后再慢慢享用吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "…………\n……以前啊……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "我一定让家人伤透了脑筋。\n这个女儿突然变得这么难搞。",
+            "ChoiceDataList": [
+                "你的叛逆时期？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "是啊，毕竟我可是长女。\n第一个小孩进入反抗期时，\n一定让老妈很不知所措。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "我家一直是个很普通的家庭。\n就是老妈会三不五时抱怨\n老爸薪水太少的那种普通家庭。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "但从某天起，\n家里女儿开始令人伤透脑筋，\n三不五时就要到学校赔不是。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……不过当我说想参加赛跑特训班时，\n他们都没有反对半句。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "每个月都帮我缴特训班费用，\n连学园的学费都分毫不差地准备好──",
+            "ChoiceDataList": [
+                "他们一直很支持你呢",
+                "他们一直很支持你呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……是啊……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "我身边真的全是一些\n好到夸张的滥好人呢。",
+            "ChoiceDataList": [
+                "将大家的心意化做力量赢得胜利吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "是啊，只能前进了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "──去赢得最棒的结果吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

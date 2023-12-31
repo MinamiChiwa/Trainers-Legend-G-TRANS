@@ -1,0 +1,330 @@
+{
+    "Title": "用特别创意来咬住大家的心啦！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "夏季集训开始了。\n这期间本该专注在训练上的，但──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "呼、呼！风风的表现怎么样！\n海边的视线是不是都在风风身上──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "小微看起来非常投入耶！\n好──我也不可以输给她！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘B",
+            "Text": "加油吧！我也要像那边的三人组一样……\n一定要称霸沙土的比赛！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "根本没有──！\n唔唔唔唔唔……既然如此～！",
+            "ChoiceDataList": [
+                "不可以恶作剧喔！",
+                "不可以恶作剧唷！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "讨厌──！！\n心情好差喔──！！夏季集训好讨厌──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "因为没有受到瞩目而失去干劲。\n甚至连集中力都跟着下降……看来这个夏天也不轻松。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我本来是这么认为的──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "咦？夏日祭典取消了？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "嗯……\n说是因为刚好跟隔壁城市的夏日祭典撞期了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "就算如期举办，人潮也是被隔壁城市的吸引走，\n所以今年就不办了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘B",
+            "Text": "但我们如果去隔壁城市的祭典又怕赶不上门禁时间……\n唉～看来今年是没有夏日祭典可以去了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "…………是──喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我原本也打算带新光风去夏日祭典，\n当作是认真训练的奖励……只好作罢了。",
+            "ChoiceDataList": [
+                "呃，新光风？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "即便到了晚上，也还是不见新光风回到集训宿舍。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我走在没有街灯的田间小径上寻找她的身影。\n这时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "呀──！？",
+            "ChoiceDataList": [
+                "刚才的是……尖叫声！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "呀──！！请、请饶了我吧──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "昏暗的树林里不断传来尖叫声。\n难道是发生什么事情了？该不会她也被卷入其中──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "村长",
+            "Text": "唔喔～～～～！真是刺激啊！\n我的大脑受到了强烈的刺激！！",
+            "ChoiceDataList": [
+                "……嗯？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "哇──哈哈哈！\n快点快点，还没完呢！这里也要好好玩个够──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我跟随热闹声前进，走到一个充满照明、挂着手工旗帜的地方。\n──这里正举办一个小规模的祭典。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "嗯？啊，训练员！！\n风风的祭典看起来怎么样？很热闹吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "章鱼烧里面包的是辣椒！抽签全都是头奖！\n舞台上还办了恐怖箱的活动！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "只要有风风的恶作剧，\n根本就不会输给隔壁城市的祭典～！",
+            "ChoiceDataList": [
+                "所以刚才的尖叫声是──"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "村民A",
+            "Text": "呀────！！\n啊──选到里面包辣椒的章鱼烧了啦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "村民B",
+            "Text": "咿────！？\n这箱子里面装着什么啊？湿湿黏黏还冰冰的～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "快点快点，要努力猜出来啊～♪\n猜中了还有风风特制的恶作剧小物在等你呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "村民C",
+            "Text": "像这样的祭典还是第一次呢！真的是充满了娱乐性！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "村民D",
+            "Text": "真的耶！这样绝对不会跟隔壁城市的一样了吧？\n以前从来也没有过这种的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "村长",
+            "Text": "既然特雷森学园的学生都帮忙出主意了，\n我们也没有理由不办了，对吧？各位！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "村民们",
+            "Text": "喔喔──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这件事情很快就传到了集训宿舍，\n陆续有更多的赛马娘前来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "谢谢你，风风！\n全程都超级新鲜刺激的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘B",
+            "Text": "那个包辣椒的章鱼烧也是风风的主意吗！？\n好有创意喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "村民A",
+            "Text": "我们根本想不到这样的做法。\n明年也会沿用看看的，谢谢你喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "……嘻嘻嘻♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "呼──结束啦～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "事后的整理工作有点麻烦耶……",
+            "ChoiceDataList": [
+                "不过，大家都玩得很开心，真是太好了！",
+                "不过，大家都玩得很开心，真是太好了！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "那当然啰！\n风风可是恶作剧的天才耶！你也知道吧？",
+            "ChoiceDataList": [
+                "这我深切地领教过了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "……你之前不也说过吗？\n说风风的创意很了不起。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "毕竟风风是大坏蛋嘛。\n当然要有无限的创意啰。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "然后呢，就是……\n风风可以自由自在地展现创意……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "只是怎么说……对啦！\n创意多到不行啦！新的想法源源不绝！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "所以才想说，分享一点点给别人，\n好像也没什么关系～这样。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "……也就是说呢！风风愿意提供恶作剧的想法给需要的人！\n这样就能让大家依赖风风，全都变成风风的手下！",
+            "ChoiceDataList": [
+                "今后说不定还会有很多人需要你帮忙喔",
+                "今后说不定还会有很多人需要你帮忙唷"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "嗯！\n大家很快就会需要风风的恶作剧了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "到时候可能就会需要人手帮忙，\n所以风风任命你为永久帮忙委员！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "……开心吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看到她得意又充满期待的脸庞，\n让我毫不犹豫地点头……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

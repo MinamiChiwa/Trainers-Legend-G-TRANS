@@ -1,0 +1,25 @@
+{
+    "Title": "迎向高松宫纪念",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "我即将前往国外！国内的最后一场比赛，\n必须拿出最好的表现才行！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "今天的劲敌，是崇拜英雄的微光飞驹。\n我not英雄。就用这场比赛，让她知道我是谁吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "微光飞驹"
+            ]
+        }
+    ]
+}

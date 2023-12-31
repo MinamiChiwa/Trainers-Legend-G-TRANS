@@ -1,0 +1,43 @@
+{
+    "Title": "肤况不太好……",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "训练员，我们要去采草莓了哦！！",
+            "ChoiceDataList": [
+                "这么突然！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "我最近肌肤状况不太好……！\n不知道是不是因为太热衷于比较各种红茶的味道，\n导致摄取了过多的咖啡因……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "所以我要去采草莓！\n一起去补充维他命吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "如果我的肌肤再继续荒芜下去……\n不要啊～～that's scary！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看来采珠正为肤况不好而烦恼……\n总之先来调查哪里可以采草莓吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

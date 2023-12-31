@@ -1,0 +1,273 @@
+{
+    "Title": "一直一直 绽放光辉 Forever",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "在丸善斯基的邀约下，\n我前来参加度假饭店的试营运活动。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "哎呀～好多人啊！\n好，来场以一敌百的真人将棋怎么样？\n我当玉将，你则是明星美容师！",
+            "ChoiceDataList": [
+                "人、人真的多到好像办得起来耶！",
+                "人、人真的多到好像办得起来耶！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "唔嗯～我是听说饭店翻新过才来的，\n可是看起来还是老样子嘛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者B",
+            "Text": "听说丸善斯基可是担任了宣传大使，\n结果却是这个样子，真令人失望。\n她也拗不过饭店的请求吗……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "那、那个……！\n丸姐才不是那种人──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "嗨！各位！\n感谢大家远道前来本度假饭店！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "那么，现在就请各位好好享受\n翻新之后的重头戏！\n这个特别活动叫做──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "“一日千金＆少爷”体验！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "从现在起的一整天，\n每位客人都会有一位管家在旁服侍♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "担任管家的工作人员",
+            "Text": "贵宾<username>，\n今天由我随侍在您身旁。\n若有任何需求，请尽管吩咐。",
+            "ChoiceDataList": [
+                "麻、麻烦你了……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "首先是SPA时间！\n请好好地消除平日的疲劳喔♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "担任管家的工作人员",
+            "Text": "大小姐，请问水温如何呢？\n需不需要为您准备什么饮料？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金船",
+            "Text": "喔喔，很机灵嘛！\n那我要关东煮的汤汁，\n而且要冰冰凉凉的喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "担任管家的工作人员",
+            "Text": "遵命。请您稍待片刻。",
+            "ChoiceDataList": [
+                "有办法准备吗……！？",
+                "有办法准备吗……！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "还、还好啦……这点程度的服务，\n有心要做的饭店每一间都做得到。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "接着，请各位在这个曾经作为绅士名媛\n社交场所的房间，好好享用下午茶！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "哇～居然没有使用点心架。\n可见这是很正统的下午茶呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "连茶杯和银制餐具都是一流的用品──\n感觉得到这里的讲究呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "饭店经理",
+            "Text": "承蒙赞美，实在不敢当。\n其实，大正时代曾有一本私小说，\n就是以本馆的下午茶为题材──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者B",
+            "Text": "咦！？那部名作的舞台就是这里吗！？\n竟然能品尝到跟作品相同的味道……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "接下来是拍照时间！\n请各位从这里的衣柜\n自行挑选喜欢的服装和饰品！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "哇～这些衣服都好好看，好难决定喔！\n该说是“美丽的衣裳胜过猫咪的肉球”吗……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "原来如此。“在鲜少有机会穿着正装的现代，\n这场体验显得格外新鲜”……好，就这样写。\n……请问，这个活动开放多少人参加呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "就这样，丰富的千金＆少爷体验活动\n持续了一整天──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "好的，今天的活动到此结束！\n最后，由饭店经理为大家致词！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "饭店经理",
+            "Text": "……感谢各位参加今天的活动。\n在潮流不断变化的现代，\n或许本馆已经“落伍”了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "饭店经理",
+            "Text": "不过，我们坚信，\n即使时代有所改变，人心也不会改变。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "饭店经理",
+            "Text": "能够掳获各位的心，让各位怦然心动的事物，\n与新旧毫无关系。重要的是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "饭店经理",
+            "Text": "它具有“真材实料”，彻底地讲究细节，\n并经过千锤百炼而成。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "饭店经理",
+            "Text": "我们正是秉持这个想法，以这样的方式，\n让各位体验我们所淬炼出的待客之道。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "……本馆的工作人员相信自己内心的悸动，\n并努力维持着这份信念至今──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "如果各位能感受到他们的热忱和自豪，\n我会非常开心。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "全体工作人员",
+            "Text": "我们恭候着各位的光临。\n还请不吝赐教……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "（……啪啪啪啪！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "哎呀，真是太棒了……！\n我感受到了旅馆的历史和大家的热情……\n该怎么说呢，内心好像受到洗涤了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者B",
+            "Text": "我要以“知名度假胜地复活”\n写一篇精彩的特辑！",
+            "ChoiceDataList": [
+                "我一定会再来的！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "饭店经理",
+            "Text": "！！\n谢、谢谢你们……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我正在做回程的准备时，\n看见丸善斯基伫立在海边。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "呼～这里的风真舒服……！\n我还是最喜欢这片大海了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "这片海洋既安静又辽阔，而且──\n感觉今天特别耀眼。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "我会永远相信内心的悸动。\n就算是旧了或落伍了，也不会改变。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "我也得更加珍惜\n自己心目中的流行呢♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,590 @@
+{
+    "Title": "大事件",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "──终于来到了表演赛当天。\n新光风正在摄影棚内\n接受访问。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "哼哼～♪因为风风是很强的，\n所以一定会轻松跑赢的啦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "主持人A",
+            "Text": "喔喔～！不愧是获得最高支持度的！\n自信满满的呢。\n有没有特别让你在意的对手呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "风风才不管那些！别管其他人的事情了，\n快给风风更多的镜头啦──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "艺人A",
+            "Text": "哈哈哈，已经很久没有见到这样说大话的人了！\n现在的年轻人都走谦虚乖巧的路线，\n她反而让人觉得很有新鲜感呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "主持人A",
+            "Text": "啊哈哈哈！我懂你的意思～！\n……呃，支持度第二名的是七号的大和玛琳！\n她的表现也是很值得注意的喔～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "──摄影棚内的拍摄结束后，\n大家移动到了赛场上。\n这场表演赛也终于要开始了──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众们",
+            "Text": "冲啊──！加油────！！\n新光风～～～！我很支持你喔────！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "呼……呼……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "（唔……！那家伙……！\n怎么会跑得这么快啊！？）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "实况",
+            "Text": "哎呀，\n新光风以她利落的尾段加速突破重围了！\n要从这里追上领先的选手了吗──！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "（风风要追过她！快点、快点……！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "奇、奇怪……？呼、呼……！\n唔……可恶……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "（距离怎么没办法缩短……！\n明明就只差一点点而已了……！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "（不可能……这太奇怪了……\n赢家应该要是风风才对的……！\n风风才是最强的！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "（不要……不要不要不要不要！\n风风才不要跑输…………！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "（风风明明……做了那么多的训练了！\n早上、中午、晚上都做训练……！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "（已经下定决心一定要赢了！\n风风还有“野心”要实现的！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "（要是在这里输了的话……\n根本不可能流传到“一百年后”了……！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "～～～～～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众们",
+            "Text": "会是谁！？会是谁！？\n可以可以！追上她啊──！冲啊──！\n玛琳快甩开她────！大和玛琳──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "──吵死了！吵死了──！\n不准你们喊别人的名字啦────！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "唔啊啊啊啊啊啊啊────！！",
+            "ChoiceDataList": [
+                "──新光风！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "──啊姆！！",
+            "ChoiceDataList": [
+                "──唔！！？？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和玛琳",
+            "Text": "呀啊啊啊──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "实况",
+            "Text": "大和玛琳这是怎么了！\n速度突然加快了……咦？\n怎么会！居然被咬了……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "大和玛琳就这样以第一名之姿冲过终点。\n因为咬人而身体失去平衡的新光风\n成为了第二名。",
+            "ChoiceDataList": [
+                "怎、怎么会这样……！",
+                "怎、怎么会这样……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "实况",
+            "Text": "呃──这是前所未闻的状况……\n目前正在确认重播画面──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "审议的结果……\n没被判定为“妨碍”行为。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "因为被咬的选手没有受伤，\n且因为这个行为促使她赢得了比赛。\n因而判定“并非是造成对方不利的行为”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "虽然新光风并没有因此被判降格或失格，\n但还是受到了严重的警告……\n",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "………………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众B",
+            "Text": "喂，不是吧！她在搞什么啊？\n她刚刚不咬人的话，应该就赢了吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "那、那是……那是因为……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "…………唔！",
+            "ChoiceDataList": [
+                "（新光风……！）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "“咬人事件”\n瞬间在全日本传开来……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女性A",
+            "Text": "欸，你看新闻了吗──？超扯的。\n名字是叫做新光风吧？\n真的是笑死耶！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女性B",
+            "Text": "我才不觉得好笑勒。\n听说她本来就不是什么正经的个性，\n但没想到还会咬人……真不知道在想什么──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名嘴A",
+            "Text": "学园的指导方式真的没有疏失吗？\n居然会在比赛中出现这种暴力行为──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "网络上的留言",
+            "Text": "“因为是个活泼外向的赛马娘……”\n“大和玛琳根本赚到wwwww”\n“咬人新光风，这名字可爱到爆笑”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "…………呼────",
+            "ChoiceDataList": [
+                "新光风，你有在听吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "有在听啦。\n不就是在说比赛中不可以咬人、\n万一跌倒了就会很危险……这些吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "比赛的隔天，我严格地劝导她。\n看起来是有在反省的模样……\n但她却没有要多做解释的感觉。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "抱歉，稍微打扰一下。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "微光飞驹",
+            "Text": "新光风前辈！我看到新闻了……\n你怎么会做那种事……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "………那还不是……因为觉得火大……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "微光飞驹",
+            "Text": "就算是因为火大，\n咬人这种事情也是绝对不──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "…………嗯……\n……风风……都知道。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "微光飞驹",
+            "Text": "前辈…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "微光飞驹",
+            "Text": "…………唔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "微光飞驹",
+            "Text": "既然你知道……嗯……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "……风风现在很忙，\n你去别的地方啦……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "风风等一下要跟训练员一起\n带着点心去道歉。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "微光飞驹",
+            "Text": "……！好、好喔……！",
+            "ChoiceDataList": [
+                "所以，真的不好意思，晚点再聊吧",
+                "所以，真的不好意思，晚点再聊吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "是喔。在出门前打扰真是不好意思。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "……训练员。\n她的事情就麻烦你多多照顾了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "我们也会尽量多帮忙的。\n好吗……？",
+            "ChoiceDataList": [
+                "谢谢你们关心她"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "没什么，好歹我们也是沙土的好伙伴嘛。\n而且，除了关心，\n我们也没什么其他能帮忙的了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "微光飞驹",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "微光飞驹",
+            "Text": "前辈她……虽然做了很不好的事情……\n但是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "──几个小时后。\n我们和受害选手及她的训练员约在饭店的大厅，\n慎重地向他们赔罪……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和玛琳",
+            "Text": "哇、哇，这么慎重，谢谢……！\n我其实也完全没有受伤，\n甚至是多亏了她才赢得第一名的……",
+            "ChoiceDataList": [
+                "真的非常抱歉"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我鞠躬道歉后，看向了新光风。\n她似乎看起来有话要说的样子，但……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "……唔唔…………",
+            "ChoiceDataList": [
+                "新光风，快……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和玛琳",
+            "Text": "那个……新光风自己还好吗？\n社会舆论的状况让我觉得很担心……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "完、完全……不觉得怎么样啦！\n因为风风是坏蛋嘛！\n才不会在意那些事情勒～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "可是……那个……就是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "比赛的时候咬人，\n这真的是不对的行为。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "风、风风因为觉得不甘心、\n因为追不上你……也不应该做那种事情……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "那是很危险的行为。\n也拖累了自己的成绩。\n所以……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "对不起。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "她虽然不善表达，\n但还是努力用自己的方式道歉了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和玛琳",
+            "Text": "是……我完全接受到你们的心意了。\n有机会的话，希望我们能再一起跑一场好比赛！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "……她是一个超级大好人。",
+            "ChoiceDataList": [
+                "能获得原谅真是太好了",
+                "能获得原谅真是太好了呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "嗯…………\n给手下你惹麻烦了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "那家伙……明明实力那么强，\n个性竟然还这么好……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "她一定……\n做了跟风风一样多，\n或是更多的训练吧……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "风风却……没有想过别人的努力，\n居然就……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "因为不甘心、觉得火大……\n想着一定要赢就“啊──！”地咬人家……\n当时风风真的是因为不知道该怎么办……",
+            "ChoiceDataList": [
+                "所以就咬下去了……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "嗯……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我想这一定是她\n“过于强烈的竞争意识”导致的……\n也代表她是如此认真地想要跑赢。",
+            "ChoiceDataList": [
+                "只要你懂得反省就一定没问题的"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "………………",
+            "ChoiceDataList": [
+                "别担心"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "……风风知道……当然知道。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "风风绝对不会再在比赛的时候\n咬人了。",
+            "ChoiceDataList": [
+                "说好了喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "嗯……打勾勾。\n风风可是遵守约定的坏蛋。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "咬人只在赛道以外的地方咬。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "只要能控制好她的竞争意识，\n就应该不会再犯下同样的错。\n而引导她走向正确的道路是我的责任……！",
+            "ChoiceDataList": [
+                "重新整理好心情吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "嗯，下次……\n一定要好好地跑完、一定要赢……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "下一个目标是重赏比赛的“独角兽S”。\n打起精神全力以赴吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "Title": "睡眠不足……",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "也文摄辉",
+            "Text": "……嗯嗯，呼啊……",
+            "ChoiceDataList": [
+                "你是不是没睡好？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "也文摄辉",
+            "Text": "是的……难得休假，\n原本想尽情地感受风的，\n没想到却一直无风。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "也文摄辉",
+            "Text": "我就一直等着，\n不知不觉就熬到了天亮……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "没能如预期好好享受假日的也文摄辉\n似乎因此而睡眠不足。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

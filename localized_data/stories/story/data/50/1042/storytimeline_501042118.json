@@ -1,0 +1,259 @@
+{
+    "Title": "为这个world献上花冠",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "──我们达成了意外的壮举。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "回首采珠在经典之路走过的轨迹……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "从“橡树大赛”进军英里路线吧。\n我果然还是最擅长跑英里！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "将“秋华赏”从目标中删除。\n我们已经无法从这条路迈向世界了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "训练员，\n我之前说过这样的话，对吧？",
+            "ChoiceDataList": [
+                "嗯，你有说过",
+                "嗯，你有说过"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "然而……你是devil吗！？\n还是demon！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "居然要我跑完雌马三冠。\n害我也不禁认真起来……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "结果居然全都赢了！\n只要努力就做得到呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我们奇迹似地达成了目标。\n当然，这也是多亏了\n我们有针对这个目标进行训练。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "采珠漂亮地获得了雌马三冠。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "呵～呵呵呵！开庆功宴了！\n我的同期们，集合了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "真是的……说到底，\n采珠还是很强呢。\n真的是败给她了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "是啊～\n虽然我们是跑经典三冠，\n所以无法和她一起参赛～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼福来",
+            "Text": "是啊是啊！\n不过反正我是比较擅长像“菊花赏”那样，\n宛如在爬又长又弯的参拜道路般的竞赛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "菊花赏"
+            ]
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "……真的可以吗？\n我明明连些像样的成绩都没留下，却邀请我来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "当然没问题。\n既然经典之路已经结束，\n同期之间的竞争也就是the end了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "来吧，让我们畅谈彼此奔驰过的\n青春回忆吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "目白多伯、目白光明、\n待兼福来，以及无声铃鹿。\n这些都是与采珠一起跑过经典级的赛马娘。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "待兼福来",
+                "无声铃鹿"
+            ]
+        },
+        {
+            "Name": "",
+            "Text": "她与大家一起举办了一场热闹的派对，\n等宴会结束后──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "采珠？你怎么一个人待在这里？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "多伯……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "呵呵，wonderful……\n真的是太棒了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "咦，你是指什么？\n达成雌马三冠这件事吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "不，不是那个。\n让我觉得很棒的是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "每个人都能以雌马三冠为目标的\n这个world。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "咦，每个人都能……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "每位赛马娘都能以雌马三冠为目标，\n这不是理所当然的事情吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "是啊，理所当然。\n……But。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "你不觉得在某个地方，\n也存在着不容许他人挑战的世界吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "因为出生成长的环境而无法参赛。\n在奔跑前就失去了机会……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "我总觉得在某个地方，\n存在着那样的世界或时代。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "采珠还真是说了件奇妙的事情呢。\n不过……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "即使真的有那样的世界或时代，\n只要一点一点地改变就行了吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "是啊。不过假如revolution……\n假如改革进行得太慢……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "或许我就无法像现在这样，\n和多伯你一起竞争雌马三冠了也说不定。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "也有这样的可能性啊……\n那么……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "我很庆幸我们能够出生在这个世界呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "是啊，所以我要献上最大的bless！\n比起我的达成雌马三冠──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "我更想将祝福献给能与你们这些同期，\n一起笑着竞争的world。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,563 @@
+{
+    "Title": "圣诞节",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "太阳&善信",
+            "Text": "圣诞快乐～～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "众人",
+            "Text": "圣诞快乐！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "今天是圣诞节。\n大拓太阳神召集了伙伴一起开派对。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "很好！涡轮！\n跳舞吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "交给我吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "训宝也快点跳！\n不要呆呆站着！",
+            "ChoiceDataList": [
+                "好，来跳舞吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "喔，很配合嘛！\n喔耶～～☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼诗歌剧",
+            "Text": "我也要～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼诗歌剧",
+            "Text": "Wow～wow～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "很棒呢～☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "Wow～wow～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就这样，\n以大拓太阳神为中心，\n在热闹的气氛下度过圣诞节的夜晚──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "呼～☆\n好开心呀！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "都收拾完了！\n回去吧！",
+            "ChoiceDataList": [
+                "好快就解散了呢",
+                "好快就解散了呀"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "因为是大拓太阳神，\n我还以为她会开个通宵派对呢……\n没想到就连目白善信都回去了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "那是因为有惊喜啊☆",
+            "ChoiceDataList": [
+                "惊喜？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "不妙。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "……呜喵？",
+            "ChoiceDataList": [
+                "！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "呜喵？\n呜喵呜喵～？？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "呜喵……",
+            "ChoiceDataList": [
+                "太、太阳……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "呜喵！！",
+            "ChoiceDataList": [
+                "太阳神！？！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "Surprise────☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "圣诞快乐！\n以及谢谢你一直以来的照顾☆",
+            "ChoiceDataList": [
+                "太阳……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "哇哈哈哈，从蓝底肌变成黄底肌了☆\n训宝真的超有趣！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我打开了礼物……\n里面装的是五彩缤纷的固态入浴剂。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "你平常总是很累吧？\n用这个嗨起来洗个澡吧！",
+            "ChoiceDataList": [
+                "谢谢你……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "啊，莫非这是正确答案吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "我一开始想说要塞满恶作剧道具。\n像是虫或是蛇之类的玩具！\n那应该会超好笑的吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "不过善信说送这个比较好～",
+            "ChoiceDataList": [
+                "谢谢你，善信……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "然后！\n我还有一些事要做。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "呜喵……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "……不对。\n这时候不要闹会比较好吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "咳咳。\n嗯──训宝！",
+            "ChoiceDataList": [
+                "在"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "我们之间已经超越了挚友，\n已经像是自己人了吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "嗯，就是啊！\n我们已经是自己人了，所以──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "要不要跟我戴一对的？\n",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "递给我的礼物里面是……\n和大拓太阳神戴着的耳套完全一模一样设计的──\n",
+            "ChoiceDataList": [
+                "耳罩？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "就是那个！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "因为人类不会套住耳朵对吧？\n所以才会用这个呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "上面还挂着耳环喔！\n很棒的设计吧☆",
+            "ChoiceDataList": [
+                "是啊，真棒……！",
+                "嗯，真棒……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看来这是大拓太阳神亲手制作的。\n不过，为什么是耳罩呢？像是手环之类的\n也可以做成完全一模一样的设计……",
+            "ChoiceDataList": [
+                "为什么送我耳罩？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "因为训宝没有像我一样可爱的耳朵，\n也没有漂亮的尾巴对吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "所以反过来说！\n送了我有但是训宝没有的东西。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "这样的话就一样了吧？\n没有不同的地方了！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "……我很努力地说明了，\n能懂吗？",
+            "ChoiceDataList": [
+                "是“不一样却也一样”的意思吧。"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "没错！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "刚好也冬天了！\n多跟我一起用一对的吧☆",
+            "ChoiceDataList": [
+                "谢谢你，太阳神！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "然后！\n我还有一些事要做。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "我还邀请了奇迹跟红宝石！\n",
+            "ChoiceDataList": [
+                "是“有马纪念”的宣传吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "对！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "不让她们两个看到的话就没意义了！\n",
+            "ChoiceDataList": [
+                "路上小心"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "喔耶☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "咦！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "奇迹呢？\n我明明叫你们一起来的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "她要去医院一趟，\n于是拜托我向你道歉。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "总觉得好像跟平常相反呢？\n真稀奇……不如说真感动！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "大小姐居然来了！！\n这还是第一次吧！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "……我听说你要参加“有马纪念”。\n",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "啊，就是啊！\n想跟你们说～要来看我比赛喔☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "以客观角度看来，你能获胜的机会很低。\n为什么还是决定要参加比赛呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "因为我喜欢红宝石！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "什么？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "我很喜欢红宝石对吧？\n但是红宝石很没劲对吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "是因为奇迹很消沉对吧？？？\n那只能让奇迹嗨起来对吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "那就只能开派对啦～～！？\n有马，here we go的感觉！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "非常感谢你特意说明，\n但很遗憾我完全无法理解。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "总之你看了就知道！\n也帮我跟奇迹说一声，叫她一定要来看！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "就让我来创造奇迹吧！\n",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "……你在说什么呢。\n奇迹……是不会发生的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "为什么？\n说得这么肯定才奇怪吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "不试试看的话怎么会知道呢！\n因为我们拥有的只有现在而已喔！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "谁都不晓得明天会发生什么事！\n所以只能全力以赴了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "我一定会创造奇迹！\n所以，来吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "……唔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "……我没办法相信你所看到的东西。\n我跟你是不一样的──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "是一样的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "刚才我们的眼神交会了！\n而且也呼吸着相同的空气不是吗？\n我刚才说的那些话也传达给你了！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "我知道我们不一样！\n但也是一样的吧！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "我完全……不懂你的意思。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "所以说！\n你已经知道你不懂了啊！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "你不相信我也没关系！\n我会让你明白的，就是这样！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,290 @@
+{
+    "Title": "Fantastic的茶会",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "Hi，训练员！\n我今天收到一封很棒的邀请函！\n跟我来吧！",
+            "ChoiceDataList": [
+                "咦……咦！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "Let's go！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "欢迎光临，采珠。\n还有训练员。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我们前来参加名门目白家的茶会……！\n突然置身这种庄严的气氛，\n不免让我感到紧张……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "Hi，多伯！\n谢谢你今天邀请我们来！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "啊，是的！\n请好好享受这场茶会。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "呵呵，\n没想到多伯会邀请采珠来参加茶会。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "嗯。因为她前阵子陪我并跑练习……\n算是向她道谢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "我听多伯说你们常举办茶会，\n所以才拜托她让我也一起参加。　",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "啊哈哈，原来如此！\n多伯泡的红茶非常好喝，\n你们一定要品尝看看！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "嗯～～delicious！你泡的红茶真是太棒了！\n这浓郁的风味……是阿萨姆吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "幸好你喜欢喝……\n你说得没错，\n今天泡的是阿萨姆奶茶。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "这次茶会的茶叶和点心，\n全都是多伯亲自挑选的对吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "那个松露巧克力的奶味也很浓郁，\n非常好吃呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "哎呀，味道真的相当excellent呢！\n这个费南雪的奶油味也口齿留香，\n与阿萨姆形成的层次感非常搭配呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "善信上个周末在做什么啊？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "我去高尔夫练习场打了整天的球。\n我想拉长开球距离～\n但真的很困难呢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "哎呀，那要不要试试看用更强、\n更powerful的力道，用力把球打出去呢！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "咦，采珠，你会打高尔夫吗！？\n我想用一号木杆把球打得更远一点，\n可以请你帮忙指导我一下吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "为了陪目白善信练习空挥，\n两人来到庭园。\n我从来没听说过采珠会打高尔夫球……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "虽然我的杆面方向都没问题，\n但杆头速度一直无法提升……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "如果想提升速度，\n最好的方法就是全力挥杆！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "用瞬间的爆发力──打出全垒打！",
+            "ChoiceDataList": [
+                "（全垒打！？）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "原来如此……换句话说，\n关键就在于下杆时的爆发力吧……！\n全力……意思是手臂肌肉也很重要呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "你想要锻炼出兼具爆发力的肌肉吗？\n那我建议你锻炼拮抗肌！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "以手臂为例，主动作肌是肱二头肌，\n拮抗肌是肱三头肌，\n可以将这两种肌肉搭配在一起锻炼！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "简单来讲，就是搭在一起会更有效果吧！\n速食也是点套餐比单点划算，\n这是世间常态呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "没错没错，\n这是非常有效的锻炼方式！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "只要锻炼拮抗肌，肌肉就会更加稳定，\n同时还能提升主动作肌的柔软度。\n这么一来，也能大幅提升爆发力！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "嗯～great！\n肌肉隐藏着许多可能性呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "嗯，你说得没错！\n没想到采珠也能理解肌肉的魅力～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "总觉得双方的对话莫名地搭不起来……\n但神奇的是，\n她们好像还是聊得非常开心。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "训练员，关于肱二头肌的可能性，\n你有什么想法吗！？",
+            "ChoiceDataList": [
+                "应、应该是无限大……！？",
+                "或许将来有机会赢大猩猩？开玩……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "Of course，你说得没错！\n可能性无论何时都是无限大！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "就是啊！\n好～我也要挑战肱二头肌的极限！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "不，雷恩！根本就没有什么极限。\n尽情飞跃到任何地方吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "！\n好的，那我们就彻底进行训练吧！\n首先从哑铃开始！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "正合我意！\n我们要练得既强健！又powerful！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "虽然这场茶会，\n就这样在不知不觉间变成了重训大会，\n但她们都非常享受这次的交流。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我本来想接着说，我只是在开玩笑──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "真是个eccentric的想法呢！\n不愧是训练员！",
+            "ChoiceDataList": [
+                "咦？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "锻炼出能够战胜大猩猩的力量。\n然后……与大猩猩比赛摔角！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "呵呵，真有趣，感觉充满了challenging！\n赶紧去跟动物园交涉──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "等、等等，采珠！\n那实在是太……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "因为这个挑战实在太危险，\n我便赶紧和目白多伯一起努力让采珠冷静下来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

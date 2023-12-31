@@ -1,0 +1,284 @@
+{
+    "Title": "新年参拜",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──新春祈愿。首先前往新年参拜，\n祈求奇锐骏在古马级的活跃与成功吧。",
+            "ChoiceDataList": [
+                "我们去神社吧，奇锐骏！"
+            ],
+            "ColorTextInfoList": [
+                "古马级"
+            ]
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "啊～抱歉呢……\n虽然我也想去……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "但我今天身体动不了呢～\n因为太冷了……\n我从早上鼻水就流个不停～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "……所以就麻烦你谅解一下了～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……看来她非常怕冷的样子。\n这样是没法去新年参拜了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "喔，对了。我想到一个好方法。\n没办法去见神明的话……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "能不能让神明自己来找我们呢？\n就由训练员来扮演神明。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "我想到我以前备好的一件衣服。\n我织了很久很久后，做出来的一件，\n很像神明穿的衣服。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就这样被强迫换了衣服。\n然后──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "喔喔喔，很适合你……\n看起来就像是弥勒佛唷。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "这样就能在房间里膜拜了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她把我打扮成神明，\n不过……意外地感觉不坏。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "哈──哈哈哈！你也觉醒了吗？\n懂得穿戏服的乐趣了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "也许我的内心深处\n被好歌剧影响了也不一定。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "感谢神明、感谢神明……\n话说～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "神明你能做一些像神明的事情吗？\n",
+            "ChoiceDataList": [
+                "我可以变出跟新年有关的东西！",
+                "我可以变出跟新年有关的东西！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "喔喔喔，那还真是厉害呢！\n太惊人了～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……一时冲动就脱口而出了，\n但既然已经说了，\n总得变出些什么东西来才行。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "所以，你要变出什么东西来呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "跟新年有关的东西……\n想来想去后，决定给她这个──",
+            "ChoiceDataList": [
+                "热呼呼的包子",
+                "幸运手杖",
+                "今年的记事本"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "喔喔喔，肉包！\n这不是热呼呼的肉包吗。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "嚼嚼嚼……\n真好吃呢，真感激呢。\n从肚子整个暖了起来呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看她开心吃着的模样，我突然想到──",
+            "ChoiceDataList": [
+                "还有豆沙包，要吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "喔喔喔，豆沙包……！\n要我选的话，我更喜欢豆沙包喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "可是你有吗？",
+            "ChoiceDataList": [
+                "有喔，去买就有了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "全能的神明只要去一趟便利商店，\n就能获得各种中式包子。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "喔喔喔～没想到还能吃到豆沙包～\n真的很感谢，太谢谢你了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "感激到开始觉得，\n训练员看起来越来越像真的神明了唷。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就这样，奇锐骏吃饱了。\n虽然受到便利商店店员的嘲笑……\n但她这么高兴就值得了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "喔喔喔，幸运手杖……！\n神明身上还有这么厉害的东西啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "喜欢这类型东西的赛马娘是……\n对了，我也把她找来一起过新年好了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "小历呀小历，\n你常说的“风水之力”就是这回事吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "哔哔哔哔哔～时间啊停止吧～\n镜饼啊分成两半吧～然后……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "黄豆粉啊，\n打喷嚏也不准被吹起～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "不对啦～\n风水之力才不是像这样的……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "不过，这样感觉也挺好玩的呢，\n奇锐骏☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看来奇锐骏对风水的认知似乎有出入，\n不过……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "奇锐骏对这种事毫不在意，\n而是挥动着手杖，\n享受获得全能之力的乐趣。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "喔喔喔，日记本……！\n有了这个就能把今年的目标都写进去了呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "嗯嗯，把预定计划给排好的话，\n一定就能变强唷。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "一定要记在上面的是……\n比赛的日期，还有……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "奇锐骏",
+            "Text": "……酱油好像没了吧。\n酱油……还有超值增量包的火腿……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "连购物清单都写上了。\n把各种事情都记在上面的话，\n应该就不怕忘记重要的事了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

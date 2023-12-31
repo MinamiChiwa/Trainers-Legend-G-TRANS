@@ -1,0 +1,339 @@
+{
+    "Title": "温泉旅行",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "与大拓太阳神一起夺得无数次比赛胜利后的\n某一天──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "喔～～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "超有旅馆气氛的！！\n是在UG上看过的地方！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "用了之前抽奖时抽中的券，\n我和大拓太阳神来了一场温泉旅行。\n",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "话说已经不是旅馆而是城堡了吧！？\n训宝来拍照！",
+            "ChoiceDataList": [
+                "用什么姿势比较好？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "用公主的感觉！\n我要当派对咖殿下！",
+            "ChoiceDataList": [
+                "公主！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "喔耶～～☆",
+            "ChoiceDataList": [
+                "（公主……！！）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "哇哈哈哈，\n训宝超像公主☆好可爱☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "好，\n勘查场地吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "是说旅馆是不是被我们包场了！？\n温泉祭典！我是天才吗～！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "为了实现大拓太阳神突发奇想的点子──温泉祭典，\n因此我们来这里勘查场地。\n这也是这趟旅行的意义。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "总之先泡澡吧！！\n这里可是温泉☆",
+            "ChoiceDataList": [
+                "去悠闲地泡个澡吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "悠闲地……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "是什么感觉？",
+            "ChoiceDataList": [
+                "……感动时的感觉！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "原来！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "了解！\n那就好好吵闹之后感动地泡个澡吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "泡温泉中……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "呼～～♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "训宝也要来一下泡完澡的那个吗？\n牛奶！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "那个真的很棒呢～☆\n可以说是澡堂的核心！",
+            "ChoiceDataList": [
+                "你经常会去澡堂吗？",
+                "你经常会去澡堂吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "嗯！\n总觉得很赞呢──☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "我有常去的澡堂！\n在澡堂每秒都会增加死党呢♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "无论动机是什么，就算是陌生的事物，\n她也会产生兴趣然后加入其中……\n这也是她的魅力之一。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "祭典时也想要有牛奶～！\n牛奶浴……不太对啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "是说不能直接从水龙头流出牛奶吗？？\n放个饮水机之类的～",
+            "ChoiceDataList": [
+                "有种叫牛奶罐的东西喔",
+                "有种叫牛奶罐的东西唷"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "什么！！绝对是那种比较好！！\n那就把那个并排在柜台──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在那之后，\n我也引导着大拓太阳神，\n让她想到的点子往容易实现的方向前进──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "──咦，好像……\n完成了呢！！",
+            "ChoiceDataList": [
+                "太好了",
+                "太好了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "果然是这样吗☆",
+            "ChoiceDataList": [
+                "什么？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "训宝啊～～\n真的是～☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "因为刚刚的事我已经都知道了！\n你就从实招来吧♪",
+            "ChoiceDataList": [
+                "你在说什么……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "训宝，你其实……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "──是个活动策展人吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "而且还知道世界上全部有趣的事情，\n是个资深派对咖对吧！？",
+            "ChoiceDataList": [
+                "什么！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "总觉得我自从遇见训宝以来，\n说过的事情都会成真。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "难道是我太会工作了吗～？\n虽然我也这样想过……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "不过如果是因为训宝知道所有有趣的事情，\n那就合理了！",
+            "ChoiceDataList": [
+                "不，我是──",
+                "不，我是──"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "嗯！？！？",
+            "ChoiceDataList": [
+                "……被发现了吗！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "我就知道～～！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "呵呵呵～果然是这样！\n毕竟你是最&棒的训练员嘛！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "可以把嗨变成超嗨～\n又很聪明～又可爱又帅～\n还超级喜翻我～☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "而且训宝每天都会帮我修图，\n还会帮我套上最强的滤镜对吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "我意外的是会注意到这种事的类型唷☆\n",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "从一直以来的感谢，\n到love you～♪",
+            "ChoiceDataList": [
+                "太阳……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "啊，稍微换个话题，\n温泉的成分可以改变吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "那种美白或是美肌之类的感觉很可以，\n可以拥有美丽气质的温泉不是很好吗？",
+            "ChoiceDataList": [
+                "……愿闻其详！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "喔耶～～～☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我在这段时光中，\n深刻地感受到了\n与大拓太阳神之间无可取代的情谊……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

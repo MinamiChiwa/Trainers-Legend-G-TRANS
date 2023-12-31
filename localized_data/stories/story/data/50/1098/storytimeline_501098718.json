@@ -1,0 +1,38 @@
+{
+    "Title": "恢复精神",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "训练员，早安！",
+            "ChoiceDataList": [
+                "你昨天有好好休息吗？",
+                "你昨天有好好休息吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "嗯！因为刚好有空，\n我还好好打扫了房间！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小林历奇",
+            "Text": "因为整顿了气的流向，我变得精神百倍！\n从今天起又要继续努力啰～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看来小林历奇尽情享受了她的假日！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,405 @@
+{
+    "Title": "温泉旅行",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "中山前辈！我听说啰！\n你们决定好远征行程了啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "小鹰，你的消息真灵通啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "我的耳朵可是很灵的喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我们即将出发迈向长期远征。\n这次我们预计一跑完\n春季的比赛就立刻出国。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "对了，训练员。\n你跟小神鹰我的朋友联络上了吗？",
+            "ChoiceDataList": [
+                "嗯，我用通讯软件向对方打过招呼",
+                "嗯，我用通讯软件向对方打过招呼"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "远征期间将在陌生的国度生活，\n能照应的朋友还是越多越好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "而且还是经由神鹰介绍的。\n能在当地有个安心信赖的朋友，\n令我很感激。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "Bueno──！那么中山前辈，\n今天训练结束后就由小神鹰我\n来为你上堂法语课吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "首先就是这句万用招呼语！\n“La victoire est à moi！”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……“别得意忘形”。\n我才不会上当，\n自己可是也学了一些法文。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼城茶座",
+            "Text": "………………先好好休息吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "呃！？咖啡前辈！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼城茶座",
+            "Text": "要是你们……想去那里的话……\n得先消除疲劳才行。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "哦哦……咖啡前辈跟中山前辈\n最近好像感情变得不错啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "是啊，从感谢祭之后开始的。\n她房间还挺舒适的喔。",
+            "ChoiceDataList": [
+                "……说到休息"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我打开皮夹。\n里头塞着被我们\n拿来下赌注的旅游券。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "还真亏你想得起来，\n明明是将近一年前抽到的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "也就是说我缔造了\n可以使用这张旅游券的成绩啊。",
+            "ChoiceDataList": [
+                "是啊，你赢得了这张旅游券",
+                "嗯，你赢得了这张旅游券"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "旅馆客人A",
+            "Text": "咦……那该不会是中山庆典！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "旅馆客人B",
+            "Text": "真的耶！她、她一定是私下来放松的！\n不能打扰到她……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "旅馆客人B",
+            "Text": "她可是肩负着全日本的梦想，\n私人时间就让她尽情放松一下吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "旅馆客人A",
+            "Text": "嗯嗯！！\n我们能帮上忙的也只有这样了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……让人听得一清二楚。",
+            "ChoiceDataList": [
+                "就承蒙他们的好意好好休息吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "也是，\n我要泡在温泉里舒展全身。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "泡温泉中……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "温泉疗效让我感到肩膀放松，\n身体也轻盈了起来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我回房打开冷气，\n顺便取出包包里的电脑。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "呼……好棒的温泉……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "喔，已经先开好冷气啦，\n你还真机灵。",
+            "ChoiceDataList": [
+                "你还真自然地闯进我房间啊",
+                "你还真自然地闯进我房间啊"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "好啦好啦，又没关系。\n你正在工作？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（叮咚！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "手机收到电子邮件的来信通知。\n根据上头显示的电子信箱，\n寄件者是神鹰的朋友。",
+            "ChoiceDataList": [
+                "是啊，我想回一些讯息",
+                "是啊，我想回一些讯息"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（嗡──嗡──）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……哦？换我手机响了。\n是桂冠跟小特传来的……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（嗡──嗡──）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "喂喂，还有啊？\n老爸、佐敦……\n这莫名其妙的昵称一定是阿船吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "手机响个不停呢。",
+            "ChoiceDataList": [
+                "代表你很受大家期待"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "……是啊，连小鹰跟咖啡也是。\n还有在这间旅馆巧遇的客人们。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（叮咚！叮咚！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "还有你联络的那些当地人士……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（叮咚！叮咚！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（叮咚！叮咚！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "讯息也太多了吧！\n喂，训练员！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "我们出去啦，去外面！\n把电脑跟手机都丢在房间！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "今天不是要休息吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "受到期待我很高兴，\n但是麻烦事也会变多。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "不是有人要来采访、\n就是有人想主动提供赞助。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "要是我在这时突然消失，\n大家应该会很生气吧？",
+            "ChoiceDataList": [
+                "你觉得压力很大？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "是啊，觉得太过束缚无法呼吸时，\n逃跑或许也是一种选择呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "…………\n到时你也会一起逃吗？",
+            "ChoiceDataList": [
+                "咦？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "哦，海浪真美。\n训练员，快点！手给我！！",
+            "ChoiceDataList": [
+                "什么！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "中山庆典抓着我的手，\n跑过沙滩继续往前冲。\n我们直直冲入海中。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "啊哈哈哈哈！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "海水浸湿了鞋子、然后是膝盖。\n──我们就这样扑进海水里。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "两人都湿透了，哈哈哈！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "衣服湿透，每走一步鞋子就发出水声。\n刚泡完温泉干干净净的身体，\n也被海风吹得黏答答的。",
+            "ChoiceDataList": [
+                "为什么要做这种事……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "因为我知道你一定不会放手。",
+            "ChoiceDataList": [
+                "咦？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "你可是说要跟我一起做梦的人，\n如果我说要逃跑跳进海里，\n你应该也会跟着一起跳下去吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "──下次再一起弄得全身湿透吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我在这段时光中，\n深刻地感受到了与中山庆典之间\n无可取代的情谊……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

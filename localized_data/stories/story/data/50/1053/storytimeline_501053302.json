@@ -1,0 +1,454 @@
+{
+    "Title": "抽奖试手气！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我和青竹回忆外出购物的回程上……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "看过来看过来，现正举办新春大抽奖～！\n特等奖可是“温泉旅游券”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "温泉旅游券"
+            ]
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "一等奖是“上等胡萝卜肉排汉堡”，\n二等奖是“一筐胡萝卜”，\n三等奖则是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "来喔来喔，好玩的抽奖活动！\n欢迎大家来抽喔～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "喔～！训练员！\n新年一开始就遇到了这么热血无比的场景耶！",
+            "ChoiceDataList": [
+                "是、是这样吗？",
+                "是、是吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "是啊！人家不是都说，\n这很看平常的做人处事吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "换句话说！\n这是个测试的好机会！\n看我这个纠察队长有没有当好大家的榜样！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "因此！\n刚刚买东西拿到的抽奖券！\n我要全部赌在这上面！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "哎呀～不过自从遇见你之后，\n纠察队的任务跟比赛，\n我都表现得更加卖力呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "所以如果是现在的我，\n神明一定也会赐予好结果当成礼物的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "青竹回忆双眼发亮。\n我很希望她这份热忱能获得回报，但结果──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "好～！！那我要抽啰～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是，\n青竹回忆精神百倍地大幅转起抽奖机的把手！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "超．旋．转！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "究竟会是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "天啊！恭喜────！！\n抽到特等奖“温泉旅游券”了～～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "喔、喔……喔喔～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "太好了！\n训练员，你看你看！\n是特等奖耶～～～～！！",
+            "ChoiceDataList": [
+                "太好了！",
+                "太好啦！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "唔喔喔～！幸好我一路以来都很认真～！\n神啊，谢谢你！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "嘿嘿嘿，感觉充满无限想像耶！\n不晓得伴手礼有没有木刀之类的……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "──不对！我可不能得意忘形！\n难得的旅行，我得确实订好计划，\n留下最棒的回忆！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "训练员！\n我想请你暂时保管一下这张旅游券！",
+            "ChoiceDataList": [
+                "为什么？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "我一直以来是很努力没错啦……\n但我觉得自己还没拿出足以获得奖励的成绩！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "能够让我认为有铆足全力\n和劲敌们跑出一场精彩绝伦的比赛！\n那就是我心目中的必要条件！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "达成之后，\n想必温泉旅行也会成为最棒的回忆！",
+            "ChoiceDataList": [
+                "既然如此，那我就帮你保管吧",
+                "既然如此，那我就帮你保管吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "谢谢！\n为了能在火热的温泉里沉浸于火热的回忆中，\n我会更加精益求精的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "嘿嘿嘿……到时候，\n训练员一定要跟我一起回忆过去喔！\n我们说好啰！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "那请你好好保管旅游券吧！\n这是灵魂的约定～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "为了让未来的旅行成为最棒的回忆，\n青竹回忆再次发誓要继续热血地努力。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "恭喜抽到一等奖～！\n奖品是“上等胡萝卜肉排汉堡”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "喔喔！特等！！\n虽说是一等奖，却是特等……\n这已经是实质上的特等奖不是吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "哎呀～\n感觉很好吃耶～！\n好吃到我一个人品尝就太可惜了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "训练员！要不要一起吃呢！\n就像是吃炸猪排祈求胜利那样，\n我想边吃边祈祷比赛顺利！",
+            "ChoiceDataList": [
+                "好主意！",
+                "好耶！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "好～那我们赶紧回学园，\n迅速做好准备吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "──让你久等了！\n热腾腾的汉堡排上桌啰～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "呵呵呵，\n我连祈愿要说的话都想好了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "“汗”如雨下努力！\n“保”持威风凛凛！\n“排”除万难奔跑！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "哎呀～连我自己都觉得浑然天成耶！\n你觉得呢！？训练员！",
+            "ChoiceDataList": [
+                "……不错啊！",
+                "……不错耶！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "那么……我要开动啰～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "这块汉堡排蕴含了青竹回忆\n“无论如何全力以赴吧”这一祈愿。\n它的味道，无庸置疑是“特等奖”等级的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "二等奖～！！\n奖品是“一筐胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "喔喔！收下这么多胡萝卜可以吗！？\n谢谢你！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "唔～嗯\n一筐胡萝卜一个人可吃不完……！\n这一定是那个对吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "是神明的热情鼓励！\n要我和劲敌一同分享，借此养精蓄锐！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "所谓打铁要趁热！\n我们赶快搬回学园，把大家叫来吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "──来喔来喔，\n这是我们家特制的精力胡萝卜料理！\n尽管吃吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "小栗帽",
+            "Text": "喔喔……\n装满整个大盘子的胡萝卜料理……（流口水）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "感觉非常能补充精力呢。\n真是太感谢了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "──我会吃下它，\n培养重新迈出步伐奔跑的力量。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "是的！\n正所谓“平日累积的胡萝卜终会硕果累累”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "为了往后也能继续热血奔驰……\n青竹回忆和劲敌们借此来养精蓄锐了一番。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "三等奖～！\n奖品是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "喔～！错过特等奖虽然可惜……\n不过这根胡萝卜长得真好啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "唔～嗯！抽到这个，\n一定是神明要我把能量补满的意思吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "这种东西就是要豪迈地直接啃最好！\n那我立刻就来享用──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "──哎呀，在这里吃的话，\n会变成现买现吃……\n不对，是现得现吃？还是现中现吃？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "身为纠察队长，不该有这样的行为！\n所以──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "我要全力冲刺回学园！\n之后再来享用！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是，\n青竹回忆全力奔驰回去后……\n怀着感恩的心情吃掉了胡萝卜。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "很可惜，没抽中！\n参加奖是“卫生纸”喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "哎呀……！居然没抽中～！\n这让人好不甘心啊～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "……唔～不过即便是卫生纸！\n或许是神明要我跑赢比赛后，\n拿来擦汗喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "……不然，\n就是要我用来擦干\n没抽到奖品的悔恨泪水吧……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "……青竹回忆总是很正面积极，\n但抽奖活动以彻底落空告终，\n似乎让她有些受伤。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

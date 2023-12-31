@@ -1,0 +1,314 @@
+{
+    "Title": "结局（普通）",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我跟真弓快车一同顺利地\n在闪耀系列赛力争上游……\n过了一阵子后的某一天──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "主持人A",
+            "Text": "本周我们请到话题人物！\n堪称今年世代代表的三位选手来到现场～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "三人",
+            "Text": "请多多指教！\n多多指教啦！\n请多多指教。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "节目导播",
+            "Text": "──好的！谢谢三位！\n请移步到这边的位置。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "主持人A",
+            "Text": "下一个问题！\n请告诉大家属于三个人的深刻回忆！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "对我来说是“樱花赏”吧。\n当时我在“郁金香赏”跑输伏特加，\n正感到干劲高涨不能服输。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "又听到真弓也发出宣战，\n更是刺激了我的斗志，\n抱着一定要赢的决心挑战比赛！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "我的话，说到三个人的回忆啊，\n应该就是真弓决定放弃雌马三冠路线的时候吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "看到她那么干脆地下定决心，\n毫无留恋的样子，\n我觉得超帅气的～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真弓快车",
+            "Text": "真弓也有很多回忆，\n但说到印象最深刻的……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真弓快车",
+            "Text": "还是我们三个一起拍摄的独立电影了吧。",
+            "ChoiceDataList": [
+                "（竟然是那个？）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "主持人A",
+            "Text": "所以呢！\n其实我们请真弓快车小姐\n提供了当时拍摄的影片！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "两人",
+            "Text": "啥！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "大和赤骥与伏特加顿时僵住，而摄影棚内仿佛\n无视两人意愿地开始播放起当时拍摄的影片。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "“哈哈哈～！”\n“站住，技术高超的间谍真弓！\n今天绝不让你逃掉！”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真弓快车",
+            "Text": "这是最初期的作品。\n大家同心协力拍出来的杰作。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "这、这真的要会节目上播出吗……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "节目导播",
+            "Text": "录影结束后还可以后制换掉影片，\n要是不想播出请告诉我们。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "呜，麻烦你了……！\n但又不好意思给你们添这么多麻烦──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "两人",
+            "Text": "我还是不想！\n我真的不想啦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "真的很不好意思，\n但还是请工作人员帮忙换成别的影片吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真弓快车",
+            "Text": "但影片中的两人\n看起来都很兴致勃勃喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "拍摄的时候是很有趣啊！但事到如今！\n我才不想被看到那么拙劣的演技！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "“绯红女王”的形象都荡然无存了呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "绯红女王"
+            ]
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "你自己还不是演技超差！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "真的要用影片当材料的话，\n至少找找其他影片嘛！\n干脆交给我来挑选吧？拜托？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "等一下，让我来选！\n交给你我可不放心。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "不行，你一定只会选一些\n耍帅影片吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "你还不是只想选\n严肃无聊的影片！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真弓快车",
+            "Text": "那果然还是原本的电影最适合呢。\n不会过于耍帅又不太过严肃，又可爱。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "两人",
+            "Text": "绝对不要！\n绝对不行……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真弓快车",
+            "Text": "……嗯。\n不然就用比赛来决定吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真弓快车",
+            "Text": "比赛的赢家最了不起。\n其他人都没资格抱怨。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真弓快车",
+            "Text": "……对吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大和赤骥",
+            "Text": "好主意，我愿意！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "要是跑输可别哭哭啼啼的啊～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "录影结束后，我等着那三人收好东西，\n准备接她们回去。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……但她们却迟迟不现身。\n反倒是外头传来一阵吵杂声。\n我带着不好的预感外出一看──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她们三人竟然正在\n花式自由赛场上做伸展运动……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真弓快车",
+            "Text": "顺时针1600米……\n嗯，我绝对不能输。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真弓快车",
+            "Text": "啊，训练员。",
+            "ChoiceDataList": [
+                "你们在做什么？",
+                "你们在做什么？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真弓快车",
+            "Text": "生涯数一数二的重大比赛，\n赢家可获得影片播放权。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真弓快车",
+            "Text": "训练员觉得谁会赢呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真弓快车",
+            "Text": "是伏特加、赤骥，还是真弓？",
+            "ChoiceDataList": [
+                "那当然是──"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "喂～真弓！\n快点入闸啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真弓快车",
+            "Text": "呵呵，真可惜。\n之后再告诉我答案吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真弓快车",
+            "Text": "恭喜你啊，真弓。\n……他很信任你喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──然后比赛开始了。\n三人的身影互相缠斗。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "究竟谁跑得最快？谁才是最强？\n我们很快就能知道答案了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

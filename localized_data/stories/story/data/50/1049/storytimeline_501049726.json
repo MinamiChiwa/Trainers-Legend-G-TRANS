@@ -1,0 +1,55 @@
+{
+    "Title": "挑战夹娃娃机！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "某一天，\n我跟中山庆典一起外出──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "呵呵，这还真怀念。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我往中山庆典指示的方向看去，\n那里有一台装有赛马娘主题玩偶的夹娃娃机。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "以前我常翘课\n跑来玩这个打发时间呢。",
+            "ChoiceDataList": [
+                "要不要赌谁能夹到比较多？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "哦？胆识不赖嘛。\n丑话说在前头，我的技术可是不差喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中山庆典",
+            "Text": "先展现你的实力吧。\n可要令我热血沸腾啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──这个挑战，不能失败！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "Title": "挑战夹娃娃机！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "某天，\n在我跟也文摄辉外出时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "也文摄辉",
+            "Text": "啊啊，真是太可怜了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我往她面对的方向看去，\n看见一台装有赛马娘主题玩偶的夹娃娃机。\n",
+            "ChoiceDataList": [
+                "你是指那个玩偶吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "也文摄辉",
+            "Text": "是的，就那样被关在玻璃里面，\n完全感受不到风……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "也文摄辉",
+            "Text": "要是我能把它救出来，\n让它们也感受到风就好了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "也文摄辉",
+            "Text": "但我又没什么经验，\n肯定会失败收场的。",
+            "ChoiceDataList": [
+                "我来帮你夹吧？",
+                "我来帮你夹吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "也文摄辉",
+            "Text": "可以吗？\n那就拜托你了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──这个挑战，不能失败！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

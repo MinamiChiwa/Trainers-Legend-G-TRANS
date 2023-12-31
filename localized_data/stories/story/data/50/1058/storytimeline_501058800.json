@@ -1,0 +1,337 @@
+{
+    "Title": "友谊的万圣节游行",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "首先要去体育馆──不对……\n……唔唔，为什么我都会忘记呢？",
+            "ChoiceDataList": [
+                "你在这里做什么？",
+                "你在这里做什么？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "啊，训练员。我在复习明天要做的事情。\n彩排一直很不顺利……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "明天是举办招待学园外人士的万圣节游行的日子。\n她负责的工作是带前来要糖果的\n小朋友们参观学园。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "一想到要面对很多小朋友，\n我就会开始觉得很紧张……\n该说的话跟该走的路线都会忘光光～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "嗯嗯嗯嗯……！再、再复习一次……！\n这次一定要集中精神好好记住～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "小涛～！\n我们也来陪你一起练习了……哦？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼城茶座",
+            "Text": "……怒涛。\n你怎么戴着南瓜……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "啊，呃，因为这样就会比较冷静，\n感觉比较能专注……\n我想说就戴着复习要导览的路线……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼城茶座",
+            "Text": "原来如此……\n挡住视线能让你变得冷静啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "！！　就是这个了！\n游行当天也戴着南瓜就不会紧张了吧！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "是、是这样吗……！？\n但我这个样子会不会吓到小朋友啊……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "那就改变游行时的装扮，\n让小朋友们都沉浸在万圣节的世界里吧！\n大家一起打扮成鬼怪来演绎万圣节！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "这么一来怒涛的装扮就不会显得可怕了！\n大家一起登上舞台表演吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路&咖啡",
+            "Text": "不错耶！\n我明白了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "你们……为、为了我……！\n呜呜……谢谢你们～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "万圣节游行当天。\n好歌剧出现在众多的小朋友面前！\n",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "欢迎你们，鬼怪小朋友们！\n我是鬼怪之王。你们都喜欢吃点心吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "孩子们",
+            "Text": "超喜欢────！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "那就好！\n万圣节就是最适合获得点心的日子！\n我的手下们会告诉你们该怎么做。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼城茶座",
+            "Text": "我是黑暗精灵。教你们一句咒语吧……\n“不给糖．就捣蛋”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼城茶座",
+            "Text": "这是……能够钻进人心弱点的咒语。\n能够让大人们被黑暗迷惑……\n一不小心，你们看……就拿出点心来了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "大家都记住了吗？\n没自信的小朋友跟有自信的小朋友，\n都一起跟着我──鬼怪队的队长一起练习吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "大家一起成为了不起的鬼怪吧！\n“不给糖．就捣蛋”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "孩子们",
+            "Text": "“不给糖．就捣蛋”～～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "哈──哈哈哈！！说得好！\n那么，接下来就听从我的另一个同伴，\n照着她的指示去做吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "（轮到我了……！没、没事的。\n我现在戴着南瓜呢……可以的……！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "接、接下来就由我──\n南瓜鬼来为大家带路～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "不、不不、不嫌弃的话，那个。\n我希望你们可以……\n随意地叫我“南瓜姐姐”喔～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "孩子们",
+            "Text": "啊哈哈！她说她叫南瓜姐姐耶！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "哇啊……嘿、嘿嘿嘿……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "接下来我们就要进入充满点心的世界了。\n大家都准备好要念咒语了吗？\n那我们就朝校门前进啰～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "孩子们",
+            "Text": "好────♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "在名将怒涛的引领下，\n孩子们兴奋又欢乐地开始收集点心！\n",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "名将怒涛顺利地完成了游行。\n她的表情看起来相当地满足！",
+            "ChoiceDataList": [
+                "你做得很好呢！",
+                "你做得很好呢！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "南瓜的力量让我变得不紧张了～\n没想到竟然可以零失误地完成导览……呵呵。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "……不过，今天要是只靠我一个人就不一样了。\n大家赶着帮忙写出剧本，\n还陪我一起练习到很晚……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "……大家那样帮我的忙，\n真的让我觉得好开心～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "喂──怒涛！\n一起来为庆祝活动成功干杯吧！\n跟大家一起去体育馆的派对了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "咦咦咦～～！？好、好歌剧她们竟然特地……！\n来、来来邀请我……！？",
+            "ChoiceDataList": [
+                "快去吧！",
+                "你拥有很棒的朋友们呢",
+                "你拥有很棒的朋友们呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "咦咦咦～～！？好、好歌剧她们竟然特地……！\n来、来来邀请我……！？",
+            "ChoiceDataList": [
+                "快去吧！",
+                "你拥有很棒的朋友们呢",
+                "你拥有很棒的朋友们呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "好、好的！\n请等我一下～～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "呼哇啊啊啊～～！？哎唷哎唷哎唷！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "小涛……！危险！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "──你能赶上真是太好了。\n慢慢来也没关系的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "又、又受到帮助了……！\n每次每次真的都……\n真的都很感谢你们……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "这、这是真的！\n成田路一直陪着我彩排直到最后一刻──\n",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "曼城茶座她自己明明已经很累了，\n却还是在练习的过程中煮咖啡给我喝……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "更重要的是好歌剧还特地为了我\n创作了一个剧本……！\n你们真的都是最棒的朋友……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "被、被你说成这样，我……！\n哇──脸都热起来了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼城茶座",
+            "Text": "……不要逗我了。\n不过……听了觉得很开心……呵呵。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "好歌剧",
+            "Text": "哈──哈哈哈！\n你的赞美就像香草让人感到舒心！\n继续接着说下去吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "名将怒涛",
+            "Text": "好、好的！\n还有好多事情可以讲呢～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,309 @@
+{
+    "Title": "新年参拜",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "训练员，New Year到了！\n我在古马级的这一年，\n终于要飞往欧洲了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "古马级"
+            ]
+        },
+        {
+            "Name": "采珠",
+            "Text": "我们先去神社──\n“求God保佑”吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "求God保佑……\n这应该就是采珠语的“新年参拜”吧。",
+            "ChoiceDataList": [
+                "你还有其他新年用语吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "这个嘛。有很多呢。\n例如“看first sun”、“买chaos袋”……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "再来就是“压岁cash”。\n我也收美金喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她似乎把压岁钱称作“压岁cash”。\n虽然只是一份薄礼，\n但我把事先准备的红包交给她。",
+            "ChoiceDataList": [
+                "采珠，这个给你……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "哎呀，要给我吗？\n我明明不是child，真不好意思呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她收下红包，确认内容。\n然后……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "纸……？不是纸钞，真的只是张纸呢。\n上面好像写了什么……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "这是……！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "上面只用墨笔写了一个词──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "“杰克莫华赏”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "杰克莫华赏"
+            ]
+        },
+        {
+            "Name": "采珠",
+            "Text": "在夏天于法国举办的英里GⅠ！\n训练员……这是！",
+            "ChoiceDataList": [
+                "是我给你的压岁钱",
+                "是我给你的压岁钱"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我交给她的是欧洲GⅠ的竞赛名称。\n那是我挑选的今年最大目标。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "训练员！！太棒了！！\n居然送我这种大礼！\n我的情绪已经高涨到忍不住──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "呵～呵呵呵！！！！！！\n呀～哈哈哈！！！！！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她的情绪过于亢奋，\n连笑声都跟着变奇怪。\n看来她真的很高兴。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "不过，\n“杰克莫华赏”可是个大目标呢……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "在法国的英里GⅠ中，\n那也是被称为双璧的big race之一。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "我想只要赢下这场比赛，\n就会毫无疑问地被认定为世界级赛马娘吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "虽然草地茂密的1600米赛道，\n是一道相当大的难关……",
+            "ChoiceDataList": [
+                "你想参加简单一点的比赛吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "Non！不足的部分，\n可以之后再填补。而且……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "我一定会实现梦想！\n让全世界的人们看见希望！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "好，既然已经决定目标了，\n就来求God保佑我胜利吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──就这样，我和采珠一起完成了新年参拜。\n然后……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "地点是在不熟悉的法国……\n如果想在那里取得好成绩，\n除了求God保佑以外，还需要模拟。",
+            "ChoiceDataList": [
+                "模拟？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "没错！\n就是准备对上法国赛马娘的对策！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "训练员，这个新年假期，\n我该做什么才好？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "为了让她习惯法国，\n我想了很多方法。例如……",
+            "ChoiceDataList": [
+                "品尝法国料理",
+                "化身为法国人",
+                "日法游戏对决"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "法国料理！说得也是，\n习惯当地的饮食比什么都重要。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "趁现在品尝各种食物，让舌头提早习惯吧！\nLet's cuisine！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "呃～这道是法式酥饼，\n这道是油封料理，这道则是香煎料理……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "原来如此……\n我understand法国料理的特征了……",
+            "ChoiceDataList": [
+                "你知道什么了吗？",
+                "你知道什么了吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "简单来讲，就是不用在意调理方式！\nFood就是food！我说得没错吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "只要好吃就行了。\n好，把脑袋放空，开始享用吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "采珠什么都没想，就开始大吃特吃。\n虽然她没学到料理知识，\n但获得了活力。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "化身为法国人！说得也是，\n融入当地people的生活非常重要！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "今年就用法国人的方式来过新年吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "Hey！Hey，chocolatier！\n我想吃好吃的巧克力，s'il vous plaît.",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "Oui oui，OK，蒙布朗！\n呵呵，这么一来我就从双语人士，\n成长为三语人士了呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "采珠的胆量又变得更大了。\n不过，她之所以能够与任何人沟通无碍……\n完全是仰赖她的肢体语言能力。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "日法游戏对决！说得也是，\n我完全不了解其他国家的fighter们如何战斗。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "好！就用大逃杀游戏来击溃他们吧。\n训练员，我们要去窝网咖啰！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "唔，掩护得真是巧妙！\n法国流行这种战术吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "训练员，手榴弹！快丢手榴弹！\n我的grandmother以前\n教了我many偷袭敌人的方法！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "采珠学会了各种游戏技巧。\n她应该能把这些想法运用在竞赛上吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

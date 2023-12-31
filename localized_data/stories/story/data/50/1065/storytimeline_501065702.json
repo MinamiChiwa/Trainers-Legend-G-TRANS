@@ -1,0 +1,324 @@
+{
+    "Title": "只要结局好就OK！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "和大拓太阳神一起外出后的回家路上，\n她的手机响了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "喔，是死党传来的♪\n是想邀我一起玩吗～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "……突发活动！？真假！？\n超不妙，神降临了！",
+            "ChoiceDataList": [
+                "有喜欢的名人要来吗？",
+                "有喜欢的名人要来吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "对！我推的DJ。\n除了去以外，没有其他选项了吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "总之立刻前往隔壁镇上的俱乐部！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "似乎是大拓太阳神喜欢的DJ要举办活动。\n……跟她一起去的话，\n搞不好就能更了解她。",
+            "ChoiceDataList": [
+                "我可以一起去吗？",
+                "我可以一起去吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "当然当然当然～～！！\n一定会很嗨的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "Hey hey hey──！计程车快来～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "噗哈，都被抢先一步了吗？\n计程车全灭真哭哭～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "去跑赛马娘专用道好了，Check it☆",
+            "ChoiceDataList": [
+                "我不能跑赛马娘专用道喔……",
+                "我不能跑赛马娘专用道唷……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "啊哈哈哈哈！\n我完全忘记了，笑死！\n训宝不是赛马娘啊！",
+            "ChoiceDataList": [
+                "你一个人去应该会比较好吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "那是最不可能的～～♪\n除了一起去嗨一波以外没有其他选择！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "总之去搭电车！总会有办法的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "工作人员",
+            "Text": "特别DJ活动的门票已经卖完了～！\n非常抱歉！\n目前已经卖完了～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "结果，还是没有赶上活动……\n在俱乐部外面，\n到处都能看见无法参加活动的粉丝。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "人多到不妙！超有领袖魅力！小鹰神～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "是说竞争率也太高了吧，真没劲～\n太哭哭了，太扯了～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘B",
+            "Text": "大家都没办法进场吗～？\n真down啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "如果只有大拓太阳神一个人的话，\n或许还能来得及参加活动。\n我果然不应该跟来……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "稍等一下！好像开始了哦？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "真的呢……唔哇～真的是好听到不可思议～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "超感动！赞到快要升天！\n果然现场听最棒了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "太猛了～！！真的很不妙啊！？",
+            "ChoiceDataList": [
+                "咦……？你们听到什么了……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "里面的声音。啊──训宝听不见吗？\n对喔，连我们都是勉强才能听到──",
+            "ChoiceDataList": [
+                "我一直破坏气氛，抱歉……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "不明的道歉行为！\n训宝，总之先嗨起来吧～～！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "我真的好感动，感动到要死了！\n下一次一定要参加到！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "就是啊！！大家一起参加吧！\n从早上就开始待命吧！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘B",
+            "Text": "一大早超狠的──！我是会去啦。\n是说没有全员参加的话可不行喔♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "我一定会参加！\n话说会有人不参加吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘B",
+            "Text": "没有、没有！\n参加吧参加吧～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "虽然我很担心自己泼了大家冷水，\n但大拓太阳神好像很开心，真是太好了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "拿去吧，训宝！我把这首歌的影片传给你了！\n预习时必备！",
+            "ChoiceDataList": [
+                "谢、谢谢……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我播放了大拓太阳神传给我的影片。\n是一首……\n身体会自然地跟随着节奏摆动的歌曲。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "如何？真的是感动度up up！\n情绪都飞到天上去了吧～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "现在开始嗨起来吧～～！！\n喔耶喔耶～～☆",
+            "ChoiceDataList": [
+                "没错，真的是超级帅气的曲子啊！",
+                "嗯，真的是超级帅气的曲子呢！",
+                "好想快点在俱乐部里听……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "现在开始嗨起来吧～～！！\n喔耶喔耶～～☆",
+            "ChoiceDataList": [
+                "没错，真的是超级帅气的曲子啊！",
+                "嗯，真的是超级帅气的曲子呢！",
+                "好想快点在俱乐部里听……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "对吧！这样人生就可以快乐十倍了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "说得没错！尽情地听吧～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "随着手机里播放的音乐律动着，\n让我感觉好像融入了大家的圈子。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "喔！脚上已经跟上最棒的节奏了呢～！\n把我的歌单传给你好了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "今天一整天要疯狂播放喔♪\n好了，就这么说定了，砰砰砰──☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "了解大拓太阳神的喜好，\n这个最重要的目的已经达成了。\n不过，接下来我想和她一起享受这些歌曲。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "啊！我想到了一个好主意！\n搞不好超神的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "我们把DJ找来办活动的话，\n立刻就能参加了吧！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "对，超神的！没有错！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "场地就选在巨蛋吧！？\n可以容纳一百万人！超不妙！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "那个DJ有在玩LANE吗！？\n问问看吧！不对，要怎么问啦笑死～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "大拓太阳神谈论着天马行空的计划，\n看起来非常开心。\n下次我也想跟她一起参加。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

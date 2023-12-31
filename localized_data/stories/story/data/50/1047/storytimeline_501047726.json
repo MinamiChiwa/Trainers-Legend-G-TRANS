@@ -1,0 +1,64 @@
+{
+    "Title": "挑战夹娃娃机！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "某天，\n我跟荒漠英雄一起出门时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "我记得那是……“嘚嘚玩偶”？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我往荒漠英雄指示的方向看去，\n那里有一台装有赛马娘主题玩偶的夹娃娃机。\n",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "……要是把它们摆上书柜，\n一定能让房间的气氛变得明亮活泼……",
+            "ChoiceDataList": [
+                "我去夹来给你吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "咦，那怎么好意思……太麻烦你了……！",
+            "ChoiceDataList": [
+                "别担心，看我的吧！",
+                "别担心，看我的吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "真、真的可以吗……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "那就……那就麻烦你了！\n训练员，我会为你加油的……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──这个挑战，不能失败！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

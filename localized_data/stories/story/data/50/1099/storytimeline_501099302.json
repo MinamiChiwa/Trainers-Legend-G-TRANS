@@ -1,0 +1,442 @@
+{
+    "Title": "抽奖试手气！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "和北港火山购买完训练用品的\n回程路上──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "看过来看过来，现正举办新春大抽奖～！\n特等奖可是“温泉旅游券”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "温泉旅游券"
+            ]
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "一等奖是“上等胡萝卜肉排汉堡”，\n二等奖是“一筐胡萝卜”，\n三等奖则是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "来喔来喔，好玩的抽奖活动！\n欢迎大家来抽喔～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北港火山",
+            "Text": "喔～在办抽奖活动呢。\n让我想起老家的抽奖大会了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北港火山",
+            "Text": "那种活动几乎没有人中过奖，\n但总是会被抽奖人员鼓励说“下一把就会中！”\n对吧──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "说到这里，我想起刚才买东西时\n拿到了一张抽奖券。",
+            "ChoiceDataList": [
+                "你要抽抽看吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北港火山",
+            "Text": "这样啊。刚才拿到抽奖券了是吗？\n要是能抽中什么就太好了！",
+            "ChoiceDataList": [
+                "……火山要抽抽看吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北港火山",
+            "Text": "咦？但那是训练员买东西得到的吧？\n我来抽不会很奇怪吗……？",
+            "ChoiceDataList": [
+                "今天买的东西也是火山要用的"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北港火山",
+            "Text": "这是什么歪理啊……？",
+            "ChoiceDataList": [
+                "现在正是报仇雪恨的时机！",
+                "现在正是报仇雪恨的时机喔！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北港火山",
+            "Text": "别、别说得这么难听嘛！\n我可没有因为没中奖\n而积怨在心喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北港火山",
+            "Text": "…………唉，我明白了，总而言之，\n训练员无论如何\n都想要让我来抽吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北港火山",
+            "Text": "那我们一起抽怎么样？\n这样用训练员的歪理也说得过去吧？",
+            "ChoiceDataList": [
+                "OK！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北港火山",
+            "Text": "既然要抽，我们就抽个大奖吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北港火山",
+            "Text": "──不好意思！可以抽一次吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我和北港火山一起\n斗志昂扬地转动了抽奖机的把手！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "结果──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "天啊！恭喜────！！\n抽到特等奖“温泉旅游券”了～～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "北港火山",
+            "Text": "……………………什么？",
+            "ChoiceDataList": [
+                "你办到了！！",
+                "你办到了！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北港火山",
+            "Text": "原、原来这种东西真的会中奖。\n我有点惊讶──",
+            "ChoiceDataList": [
+                "想用的话随时都可以用喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北港火山",
+            "Text": "…………等一下。\n训练员不会是打算\n让我一个人用这张券吧？",
+            "ChoiceDataList": [
+                "毕竟是火山抽到的"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北港火山",
+            "Text": "……你是不是忘记我们刚才的对话了？\n这是我们一起抽的，\n哪有可能我自己一个人使用。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北港火山",
+            "Text": "所以，我们一起\n用这张券才合理不是吗？",
+            "ChoiceDataList": [
+                "好、好喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北港火山",
+            "Text": "真是的，受不了你──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北港火山",
+            "Text": "不过说真的，很难决定什么时候用呢……\n唔──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北港火山",
+            "Text": "……训练员，\n这张温泉旅游券可以先请你保管吗？",
+            "ChoiceDataList": [
+                "我是不介意啦──"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北港火山",
+            "Text": "……现在是很重要的时期，\n虽然难得有机会去温泉旅行，\n但我觉得这样不妥。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北港火山",
+            "Text": "所以虽然不晓得会是什么时候，\n但等各方面的工作都告一个段落的时候，\n我们再一起讨论去的日子吧。",
+            "ChoiceDataList": [
+                "我知道了！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北港火山",
+            "Text": "呵呵。希望用它的时候，\n就像是办“特大庆功宴”的感觉。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "恭喜抽到一等奖～！\n奖品是“上等胡萝卜肉排汉堡”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "北港火山",
+            "Text": "咦，不会吧！？太好了！！",
+            "ChoiceDataList": [
+                "中大奖了！",
+                "中大奖了呢！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北港火山",
+            "Text": "呵呵，这个量真是惊人呢……！\n而且看起来还很好吃！",
+            "ChoiceDataList": [
+                "真期待享用它"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北港火山",
+            "Text": "……话先说在前头，\n训练员也要一起吃喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北港火山",
+            "Text": "毕竟这是我们两个人\n一起抽到的。",
+            "ChoiceDataList": [
+                "可以吗？",
+                "可以吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北港火山",
+            "Text": "那还用说！\n真是的──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北港火山",
+            "Text": "……好了！我们快点回去吃吧！\n感觉肚子有点饿了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "之后我们两人一起享用了战利品，\n让它变成了明天的活力……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "二等奖～！！\n奖品是“一筐胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "北港火山",
+            "Text": "太好了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北港火山",
+            "Text": "──这个量比想像中还多呢……！\n我们要吃完这些可能有点辛苦──",
+            "ChoiceDataList": [
+                "那就分给别人吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北港火山",
+            "Text": "……！　就这么办！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北港火山",
+            "Text": "我立刻联络看看历奇！\n也问问奇锐骏和飞鹰子──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "历奇"
+            ]
+        },
+        {
+            "Name": "独白",
+            "Text": "之后，我们开了一场临时的胡萝卜派对，\n北港火山和她的朋友们一起\n开心地把胡萝卜吃光了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "三等奖～！\n奖品是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "北港火山",
+            "Text": "呵呵，中奖了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北港火山",
+            "Text": "──虽然中奖是好事，\n但只有一根胡萝卜让人有点为难呢。",
+            "ChoiceDataList": [
+                "火山吃掉它不就好了吗？",
+                "火山吃掉它不就好了吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北港火山",
+            "Text": "不行！\n这是我们一起抽奖得到的奖品，\n所以不能只有我一个人享用！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北港火山",
+            "Text": "……嗯～\n不如加进某种料理吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北港火山",
+            "Text": "然后一起吃那道料理，\n这感觉是最合理的做法了──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "之后，我们一起\n喝了北港火山做的蔬菜汤，\n身心都被温暖了──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "很可惜，没抽中！\n参加奖是“卫生纸”喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "北港火山",
+            "Text": "呜呜……没抽中……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北港火山",
+            "Text": "虽然明白没中的几率高多了，\n但果然还是会有点遗憾……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北港火山",
+            "Text": "……不过这是我们一起抽奖拿到的卫生纸。\n就放在训练员室里一起用吧。",
+            "ChoiceDataList": [
+                "你、你真是耿直呢……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北港火山",
+            "Text": "──早安。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北港火山",
+            "Text": "啊……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北港火山",
+            "Text": "…………唔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "之后的一段时间里，每当北港火山\n看到训练员室的卫生纸，\n就会想起没中奖的遗憾──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

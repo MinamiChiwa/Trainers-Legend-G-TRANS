@@ -1,0 +1,49 @@
+{
+    "Title": "因头痛而忧郁",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "新光风的样子\n看起来和平常不太一样……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "唔……",
+            "ChoiceDataList": [
+                "……你还好吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "风风吃了妈妈给的药了。\n所以一定很快就会好──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "啊呜……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "要是有妈妈摸摸头的话……\n什么痛都会消失的说……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "新光风就这样\n为头痛所苦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

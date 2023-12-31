@@ -1,0 +1,284 @@
+{
+    "Title": "告诉你恢复活力的秘诀",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我在指导<chrname>的时候\n不小心扭到脚，所以来到医院──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骨科医师",
+            "Text": "看起来是轻微的扭伤呢。\n这两三天别勉强乱动，\n让学生进行自主训练比较好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "──不好意思，请问你还好吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "抱歉突然跟你搭话，\n因为你看起来没什么精神……\n不介意的话，回去路上可以跟我聊聊喔？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "原来是这样……\n因为有段时间没办法上课，所以有点焦虑。\n嗯……对训练员来说这个状况确实不好受。",
+            "ChoiceDataList": [
+                "……不知道能不能稍微活动一下"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "──训练员，不可以喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "现在要让身体好好休息……\n这段期间内，就先让你的想法继续前进吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "这样的话，\n身体一定也会追上你的想法！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "听说樱花桂冠从小脚部便不太好，\n与同期相比也显得落后，\n但她还是靠着努力走到了这一步。",
+            "ChoiceDataList": [
+                "你说起来真有说服力",
+                "你说起来真有说服力"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "嗯，因为是我的亲身体验嘛。\n对落后感到焦躁，只能忍耐而感到不甘，\n还有……只要努力就能往上爬。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "当我感到快要无法坚持下去的时候……\n是歌曲给了我勇气。",
+            "ChoiceDataList": [
+                "歌曲……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "是以前俱乐部的大家常唱的幸福之歌。\n或许也能带给你一些活力。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "“──樱花一定会在未来绽放～♪”",
+            "ChoiceDataList": [
+                "（她的歌声真是感染力十足……）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "嗨嗨嗨！\n我还想说这首歌听起来真耳熟，原来是桂冠！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "进王、小千！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "听到这首歌就想起以前在俱乐部的时候呢！\n大家一起唱歌，到处乱跑……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "是啊！\n只要哼这首歌就比平时更加爆进！\n是很棒的爆进歌！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "两人",
+            "Text": "“胜利前进～精神十足～♪\n朝目标而去～不屈不挠～♪”",
+            "ChoiceDataList": [
+                "……好像真的从你们身上得到活力了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "呵呵，那就好。\n……以前我只能待在一旁看着大家，\n那时她们跑来我身边唱歌──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "我也非常喜欢跟俱乐部的人一起唱歌。\n不管以前还是现在都一样，永远不变。",
+            "ChoiceDataList": [
+                "这间俱乐部真棒",
+                "这间俱乐部真棒",
+                "现在好想看你的演唱会"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "我也非常喜欢跟俱乐部的人一起唱歌。\n不管以前还是现在都一样，永远不变。",
+            "ChoiceDataList": [
+                "这间俱乐部真棒",
+                "这间俱乐部真棒",
+                "现在好想看你的演唱会"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "嗯，真的非常棒。\n每天都很热闹，大家感情也很好──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "俱乐部的孩子们",
+            "Text": "各就各位！\n预备，开始！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "年幼的桂冠",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "年幼的千代王",
+            "Text": "啊，找到了找到了！桂冠！\n我想了新的格言，你听我说好不好？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "年幼的进王",
+            "Text": "我也想到很爆进──不对！\n我也想到超级无敌霹雳爆进的名言了！\n哼哼！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "年幼的桂冠",
+            "Text": "……呵呵，两边我都很好奇呢～\n快告诉我快告诉我♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "──多亏活泼的进王跟小千陪在我身旁，\n所以我没有太多闲暇时间沮丧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "该道谢的是我！\n桂冠不管碰到什么状况都不会气馁，\n是你坚定的模样一直带给我勇气……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "桂冠同学积极爆进，完美实现心愿──\n你是“胜利俱乐部”的骄傲！\n也是我的骄傲！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "因为我想快点跑得像你们一样呀。\n现在能像这样跟你们一起跑步，\n我真的非常开心。",
+            "ChoiceDataList": [
+                "真是太好了",
+                "真是太好了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "是呀，所以训练员也不要气馁，\n只要继续迈进一定会有好结果。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "属于你和学生的樱花，一定会绽放。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我点头同意樱花桂冠的话，\n怀抱着积极的心踏上归途。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "那我会赢得许多比赛的优胜，\n让你看见很多场精彩的胜者舞台♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "哇，我好期待！\n比赛的时候我们会冲去帮你加油！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花进王",
+            "Text": "嗯！我们会唱“胜利俱乐部”的加油曲，\n让你充满活力！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "两人",
+            "Text": "“克服困难，掌握荣耀～\n没错，我们就是胜利～～～♪”",
+            "ChoiceDataList": [
+                "这首歌真不错",
+                "这首歌真不错"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "嗯。\n这首歌充满了回忆，而且非常重要。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "对了！训练员要不要一起唱？\n这样可能会更有精神喔！",
+            "ChoiceDataList": [
+                "那我就恭敬不如从命了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我跟樱花桂冠一行人哼着歌，\n心情愉快地回到学园。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

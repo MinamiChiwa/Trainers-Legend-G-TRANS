@@ -1,0 +1,863 @@
+{
+    "Title": "你是我的……",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白家的粉丝A",
+            "Text": "麦昆～！\n秋季也要加油喔～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白家的粉丝B",
+            "Text": "我已经准备好了横布条。\n这可是用配得上麦昆的闪耀光辉的\n最高档金丝做的喔～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "哎呀……！谢谢你们。\n为了回应大家的期待，\n我会持续精进自己的。",
+            "ChoiceDataList": [
+                "（她的粉丝好热情……！）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白家的粉丝C",
+            "Text": "啊……连挥手的姿态也美丽动人……\n麦昆的气质之高，仿佛看不见顶端啊～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白家的粉丝D",
+            "Text": "虽然还没有和指导她的训练员直接对话过……\n不过，他一定也非常优秀吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白家的粉丝D",
+            "Text": "虽然还没有和指导她的训练员直接对话过……\n不过，他一定也非常优秀吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白家的粉丝E",
+            "Text": "那个人想必是礼仪和威严兼备！\n对方可是麦昆选择的对象，\n不可能说出什么平庸的话！",
+            "ChoiceDataList": [
+                "（平庸的话！？）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我感到背脊一阵寒毛直竖。\n要是因为什么阴错阳差，\n而让目白麦昆的粉丝对我幻灭，甚至……",
+            "ChoiceDataList": [
+                "（对麦昆也感到幻灭的话……！）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "训练员？\n怎么了吗？",
+            "ChoiceDataList": [
+                "没、没有什么值得您挂心的事！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "……训练员？\n你的说话方式是怎么了？",
+            "ChoiceDataList": [
+                "抱、抱歉！很奇怪对吧！",
+                "抱、抱歉！很奇怪对吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这样的失态未免也太荒唐。\n我得尽快让自己的言行举止\n变得有气质才行……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "……真是的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白家的粉丝们",
+            "Text": "（……人声嘈杂、窃窃私语）",
+            "ChoiceDataList": [
+                "（今天也遇到了麦昆的粉丝们……）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "训练员，你听好啰？\n今天我有个提议。",
+            "ChoiceDataList": [
+                "什、什么？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "在那之前，我们先换个地方如何？\n在这里会太过显眼。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "……到这一带的话，就不会有人了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "那么──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "看招！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（啪唰！！）",
+            "ChoiceDataList": [
+                "好冰！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "来吧，给你用的水枪也准备好了！\n尽管对着我开枪吧！",
+            "ChoiceDataList": [
+                "咦，什么意思？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "就是字面上的意思。\n你看你，全身都是破绽喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "看招、看招！！",
+            "ChoiceDataList": [
+                "等、等一下！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "我不等！\n呵呵……来，快点！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看来目白麦昆不打算听我说话。\n既然如此，我就如她所说──",
+            "ChoiceDataList": [
+                "我知道了。那你也没得“等一下”啰！",
+                "我知道了。那你也没得“等一下”啰！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "好，尽管来吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "都湿透了呢……",
+            "ChoiceDataList": [
+                "抱歉……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "……呵呵。请别道歉。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "就是因为你总是认真地面对我，\n我才能一直做我自己。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "训练员，你原本就是个很优秀的人，\n所以没有必要硬逼自己。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "因为，你是由我选择的\n“目白麦昆的训练员”。",
+            "ChoiceDataList": [
+                "……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "为了让你随时都能想起这件事，\n要不要把你现在的表情拍成照片？",
+            "ChoiceDataList": [
+                "……不用，我不会再忘记了",
+                "……不用，我不会再忘记了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "呵呵，那就好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白家的粉丝A",
+            "Text": "呀啊！麦昆你怎么全身湿透了！？\n那个样子到底是……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "！\n啊，嗯……这是因为……",
+            "ChoiceDataList": [
+                "这是为了迎战秋季所做的特训"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白家的粉丝B",
+            "Text": "哎呀呀！这样啊！\n不愧是麦昆和训练员！\n真是深谋远虑呢～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "……呵呵。\n训练员真是的……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "果然那个时候，\n还是拍下照片比较好吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "……你的表情变得\n比之前更有气概了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白家的粉丝B",
+            "Text": "我已经准备好了横布条。\n这可是用配得上麦昆的闪耀光辉的\n最高档金丝做的喔～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "哎呀……！谢谢你们。\n为了回应大家的期待，\n我会持续精进自己的。",
+            "ChoiceDataList": [
+                "（她的粉丝好热情……！）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白家的粉丝C",
+            "Text": "啊……连挥手的姿态也美丽动人……\n麦昆的气质之高，仿佛看不见顶端啊～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白家的粉丝D",
+            "Text": "虽然还没有和指导她的训练员直接对话过……\n不过，他想必也非常优秀吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白家的粉丝D",
+            "Text": "虽然还没有和指导她的训练员直接对话过……\n不过，他想必也非常优秀吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白家的粉丝E",
+            "Text": "那个人想必是礼仪和威严兼备！\n对方可是麦昆选择的对象，\n不可能说出什么平庸的话！",
+            "ChoiceDataList": [
+                "（平庸的话！？）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我感到背脊一阵寒毛直竖。\n要是因为什么阴错阳差，\n而让目白麦昆的粉丝对我幻灭，甚至……",
+            "ChoiceDataList": [
+                "（对麦昆也感到幻灭的话……！）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "训练员？\n怎么了吗？",
+            "ChoiceDataList": [
+                "没、没有什么值得您挂心的事！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "……训练员？\n你的说话方式是怎么了？",
+            "ChoiceDataList": [
+                "抱、抱歉！很奇怪对吧！",
+                "抱、抱歉！很奇怪对吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这样的失态未免也太荒唐。\n我得尽快让自己的言行举止\n变得有气质才行……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "……真是的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白家的粉丝们",
+            "Text": "（……人声嘈杂、窃窃私语）",
+            "ChoiceDataList": [
+                "（今天也遇到了麦昆的粉丝们……）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "训练员，你听好啰？\n今天我有个提议。",
+            "ChoiceDataList": [
+                "什、什么？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "在那之前，我们先换个地方如何？\n在这里会太过显眼。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "……到这一带的话，就不会有人了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "那么──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "看招！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（啪唰！！）",
+            "ChoiceDataList": [
+                "好冰！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "来吧，给你用的水枪也准备好了！\n尽管对着我开枪吧！",
+            "ChoiceDataList": [
+                "咦，什么意思？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "就是字面上的意思。\n你看你，全身都是破绽喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "看招、看招！！",
+            "ChoiceDataList": [
+                "等、等一下！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "我不等！\n呵呵……来，快点！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看来目白麦昆不打算听我说话。\n既然如此，我就如她所说──",
+            "ChoiceDataList": [
+                "我知道了。那你也没得“等一下”啰！",
+                "我知道了。那你也没得“等一下”啰！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "好，尽管来吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "都湿透了呢……",
+            "ChoiceDataList": [
+                "抱歉……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "……呵呵。请别道歉。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "就是因为你总是认真地面对我，\n我才能一直做我自己。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "训练员，你原本就是个很优秀的人，\n所以没有必要硬逼自己。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "因为，你是由我选择的\n“目白麦昆的训练员”。",
+            "ChoiceDataList": [
+                "……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "呵呵……说是这么说，\n我们还是有点玩过头了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "这也是你的关系吗？\n……开玩笑的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "到了隔天──",
+            "ChoiceDataList": [
+                "麦昆，成绩很好喔！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白家的粉丝A",
+            "Text": "哇～！麦昆的训练员也是一样，\n一举一动都充满气概呢～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白家的粉丝B",
+            "Text": "就算不去谈话，也看得出\n他们之间的坚定情谊！太美丽了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "……呵呵。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "──我说，训练员。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "不用如此精神紧绷，像平常一样就好了。\n我的训练员相当优秀，对吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "所以，请不要再勉强自己了。",
+            "ChoiceDataList": [
+                "好，我知道了",
+                "嗯，我知道了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "呵呵，那就好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "因为，要是你太一板一眼──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "──总觉得会有点寂寞。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白家的粉丝B",
+            "Text": "我已经准备好了横布条。\n这可是用配得上麦昆的闪耀光辉的\n最高档金丝做的喔～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "哎呀……！谢谢你们。\n为了回应大家的期待，\n我会持续精进自己的。",
+            "ChoiceDataList": [
+                "（她的粉丝好热情……！）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白家的粉丝C",
+            "Text": "啊……连挥手的姿态也美丽动人……\n麦昆的气质之高，仿佛看不见顶端啊～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白家的粉丝D",
+            "Text": "虽然还没有和指导她的训练员直接对话过……\n不过，他想必也非常优秀吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白家的粉丝D",
+            "Text": "虽然还没有和指导她的训练员直接对话过……\n不过，他想必也非常优秀吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白家的粉丝E",
+            "Text": "那个人想必是礼仪和威严兼备！\n对方可是麦昆选择的对象，\n不可能说出什么平庸的话！",
+            "ChoiceDataList": [
+                "（平庸的话！？）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我的背脊窜过一阵战栗。\n要是因为什么阴错阳差，\n而让目白麦昆的粉丝对我幻灭，甚至……",
+            "ChoiceDataList": [
+                "（对麦昆也感到幻灭的话……！）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "训练员？\n怎么了吗？",
+            "ChoiceDataList": [
+                "没、没有什么值得您挂心的事！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "……训练员？\n你的说话方式是怎么了？",
+            "ChoiceDataList": [
+                "抱、抱歉！很奇怪对吧！",
+                "抱、抱歉！很奇怪对吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这样的失态未免也太荒唐。\n我得尽快让自己的言行举止\n变得有气质才行……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "……真是的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白家的粉丝们",
+            "Text": "（……人声嘈杂、窃窃私语）",
+            "ChoiceDataList": [
+                "（今天也遇到了麦昆的粉丝们……）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "训练员，你听好啰？\n今天我有个提议。",
+            "ChoiceDataList": [
+                "什、什么？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "在那之前，我们先换个地方如何？\n在这里会太过显眼。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "……到这一带的话，就不会有人了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "那么──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "看招！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（啪唰！！）",
+            "ChoiceDataList": [
+                "好冰！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "来吧，给你用的水枪也准备好了！\n尽管对着我泼水吧！",
+            "ChoiceDataList": [
+                "咦，什么意思？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "就是字面上的意思。\n你看你，全身都是破绽喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "看招、看招！！",
+            "ChoiceDataList": [
+                "等、等一下！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "我不等！\n呵呵……来，快点！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看来目白麦昆不打算听我说话。\n既然如此，我就如她所说──",
+            "ChoiceDataList": [
+                "我知道了。那你也没得“等一下”啰！",
+                "我知道了。那你也没得“等一下”啰！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "好，尽管来吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "都湿透了呢……",
+            "ChoiceDataList": [
+                "抱歉……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "……呵呵。请别道歉。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "就是因为你总是认真地面对我，\n我才能一直做我自己。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "训练员，你原本就是个很优秀的人，\n所以没有必要硬逼自己。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "因为，你是由我选择的\n“目白麦昆的训练员”。",
+            "ChoiceDataList": [
+                "……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "呵呵……说是这么说，\n我们还是有点玩过头了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "这也是你的关系吗？\n……开玩笑的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "到了隔天──",
+            "ChoiceDataList": [
+                "麦昆，成绩很好喔！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白家的粉丝A",
+            "Text": "哇～！麦昆的训练员也是一样，\n一举一动都充满气概呢～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白家的粉丝B",
+            "Text": "就算不去谈话，也看得出\n他们之间的坚定情谊！太美丽了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "……呵呵。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "──我说，训练员。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "不用如此精神紧绷，像平常一样就好了。\n我的训练员相当优秀，对吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白光明",
+            "Text": "哎呀～？雷恩姐姐，\n为什么不让我通过呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白赖恩",
+            "Text": "那、那是因为……\n麦昆他们现在的气氛正好啊……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白多伯",
+            "Text": "？\n跟平常差不多吧？\n跟她在一起的，不就是她的训练员吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "……不对，现在的气氛可不一样。\n麦昆一定正在期待训练员的下一句话……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "呵呵。善信，冷静下来。\n你继续把身体探出去的话，\n就会被他们两位发现喔？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "为什么你们会在这里啊～！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白家的大家",
+            "Text": "呀啊啊～～！？\n哇啊啊啊啊啊～！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "目白麦昆红着脸，朝着躲在岩石后面的\n目白家赛马娘们跑过去。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

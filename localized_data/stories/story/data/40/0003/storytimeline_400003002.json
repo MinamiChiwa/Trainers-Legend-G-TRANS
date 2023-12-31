@@ -1,0 +1,60 @@
+{
+    "Title": "说明≠命令",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我把接下来为了复办Grand Live，\n而要举办宣传演唱会，并进行相关训练\n的计划告诉美浦波旁。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "美浦波旁"
+            ]
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "指示已确认。\n已接受命令。",
+            "ChoiceDataList": [
+                "不，这不是命令，而是在和你商量",
+                "不，这不是命令，而是在和你商量"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "……商量？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "轻柔致意说过，“Grand Live是\n为了传达感谢而举办的演唱会”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "所以我希望她不是因为命令，\n而是以“自己的意志”\n以及“情感”登上舞台。",
+            "ChoiceDataList": [
+                "你可以先观摩，之后再决定就好"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美浦波旁",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "如果有一天，\n美浦波旁主动表示想要参加的话……\n到时候就让她也登上舞台吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

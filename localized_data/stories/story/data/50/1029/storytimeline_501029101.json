@@ -1,0 +1,604 @@
+{
+    "Title": "新年抱负",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "新年快乐哩！\n今年也请多多指教！",
+            "ChoiceDataList": [
+                "请多指教！",
+                "请多指教！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "新的一年到来，\n雪之美人立刻来找我拜年，但……",
+            "ChoiceDataList": [
+                "你为什么穿运动服……？"
+            ],
+            "ColorTextInfoList": [
+                "雪之美人"
+            ]
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "因为我希望你能严格锻练我！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "今年开始就要升上经典级了，\n我也终于要……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "经典级"
+            ]
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "──挑战雌马三冠哩……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "跟“阪神JF”那时相比，\n一定会有更多闪亮亮的选手。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "我一定要更拼命、更努力，\n才有办法跑赢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "所以，我们现在就来训练吧……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "有气势、有干劲是很好，\n但她本来就已经很努力了。\n新年期间我倒希望她能好好放松休息。",
+            "ChoiceDataList": [
+                "你一直以来都很努力，也不急着现在训练！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "是……这样吗？\n呃，那……今天休息……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "……嗯？\n休息的话，要做什么呗？",
+            "ChoiceDataList": [
+                "咦！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "本来我今天是打算要进行训练的，\n所以其他的备案我完全没有想好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "我也已经跟宿舍的大家一起煮过年菜跟年糕汤\n来吃了，要说其他有新年气氛的事……",
+            "ChoiceDataList": [
+                "你在老家都怎么过新年？",
+                "你在老家都怎么过新年？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "嗯～我会跟美冬一起玩，照顾妹妹……\n还会躺着发懒之类的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "然后……应该还是躺着发懒吧，\n待在暖炉桌里最棒了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "但是！都难得来到都市了，\n我得离开暖炉桌才行！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "还有没有什么能做的事呢？",
+            "ChoiceDataList": [
+                "无拘无束尽情玩！！",
+                "悠闲地喝杯咖啡",
+                "学模特儿怎么度过新年"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "有道理！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "我本来就很喜欢活动身体。\n来到东京之后，有个对这方面很熟悉的前辈，\n跟我分享了很多相关的资讯。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "其实有个运动公园就在附近喔！\n我们一起去吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "怎么样？感觉不错对吧？\n那我们──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "是小雪！！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "小雪"
+            ]
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "太厉害了！怎么这么巧！\n新年快乐～！！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "奖券藏～！新年快乐！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "奖券藏"
+            ]
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "训练员！这位是奖券藏，\n就是她告诉我这个地方的喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "我是胜利奖券～～！！\n我最喜欢跑步了，赢得德比是我的梦想！\n还请多多指教～～～～～～～！",
+            "ChoiceDataList": [
+                "好、好的！",
+                "好、好的！"
+            ],
+            "ColorTextInfoList": [
+                "胜利奖券",
+                "德比"
+            ]
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "奖券藏，你也是来活动身体的吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "是啊！懒散久了，\n就忍不住想动动身体！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "而且我今年不是要挑战德比了吗？\n哪静得下来！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "然后今天我本来是想训练的，\n但却被训练员说“你昨天也训练到很晚，\n所以今天休息”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "啊啊～！我懂……！\n其实我本来也想训练的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "这样啊！我记得小雪今年\n也要挑战雌马三冠对吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "我们都要为了实现梦想好好努力喔！\n加油，喔──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "喔──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "然后啊！\n既然我们难得遇到，要不要一起玩？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "当然好！\n请多多指教！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "──那接下来，我们去爬那座山好了！\n走吧，小雪！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "好的！\n训练员也一起来吧～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是我也跟着参加了\n身强体健的两人之间的游戏……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "──那个，训练员……\n你还好吗？看你都走不稳了。",
+            "ChoiceDataList": [
+                "可、可能不太好……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "胜利奖券",
+            "Text": "那不然，还是我抱着你走？\n训练员一个人而已很轻的啦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "我也没问题！\n那我们一起抱吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是我被两名赛马娘轮流抱着走，\n新的一年就这样热闹地揭开了序幕。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "啊～原来如此。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "要慢慢来，这点很重要对吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "前阵子，我的室友咖啡\n告诉了我一间不错的吃茶店！\n感觉去那里可以很悠闲。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "咖啡"
+            ]
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "觉得怎么样？\n气氛不错吧？",
+            "ChoiceDataList": [
+                "是不错……但你为什么说话这么小声？",
+                "是不错……但你为什么说话这么小声？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "我想说在这种店里，\n还是表现得稳重成熟一点比较好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼城茶座",
+            "Text": "……请不用在意，\n这间吃茶店走随兴路线。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼城茶座",
+            "Text": "你好，雪之。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "啊，咖啡！\n这是早上出宿舍后我们第一次碰面呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼城茶座",
+            "Text": "是的……\n看来你很喜欢这间吃茶店。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "因为你之前推荐给我的圣代真的非常好吃！\n我也想介绍给训练员吃吃看。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼城茶座",
+            "Text": "这样啊。\n……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼城茶座",
+            "Text": "……你知道这里除了圣代之外，\n也有其他好吃的甜点吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "什么！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼城茶座",
+            "Text": "就是这里的布丁。它从用料就很讲究，\n所以每天都是限量制作。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼城茶座",
+            "Text": "……今天来店的客人比较少，\n我想现在应该还有吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "布丁……！",
+            "ChoiceDataList": [
+                "就点吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "太好了！\n那就麻烦了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼城茶座",
+            "Text": "那么我先失陪了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "咦，你要走了吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "我想说你如果不介意，\n我们三人可以一起……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼城茶座",
+            "Text": "难得你们两位一起来，\n不如悠闲地度过两人时光如何？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "如果你也愿意加入我们，\n一定会更开心的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "你说对吧，训练员！",
+            "ChoiceDataList": [
+                "当然了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼城茶座",
+            "Text": "……那么，\n我就稍微坐一下吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "请坐我旁边！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是，我们三人一起悠闲地迎接了新年。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "哇啊～！\n训练员，这点子不错。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "之前有一本杂志访问过城市，\n里面介绍了度过假日的方式……\n我有把那篇剪贴起来！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "我去把那篇找来看看，\n请稍微等我一下！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "──都市真的很惊人耶。\n新年期间也有店家营业。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "城市好像常常会去看化妆品，\n我也在这里找找有没有可爱的化妆品吧……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "咦，是雪之。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "喔？真的耶。\n新年快乐～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "哇、哇啊……！\n新、新年快乐哩！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "新年快乐，你怎么会在这里……\n啊，是要买东西吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "你好注重自己的外观喔！\n哪像我们现在正要去吃拉面，\n吃饭杀时间。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "就跟你说我不去吃了。\n不过这件事不重要。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "……那边那个系列，平价而且品质也不错，\n如果你有兴趣可以看看。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "咦？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "你是来看化妆品的对吧？\n那算是……我推荐的商品吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "啊……谢谢你！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "……哦～？\n人怎么这么好～\n",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "欸～总觉得你对我的态度就不是这样耶～\n太明显了～不公平～你好诈～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "什么？\n我不是都会给你试用品吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东瀛佐敦",
+            "Text": "不是那个啦，我也想要你对我温柔一点，\n跟我讲话的时候要更、有、爱☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "黄金城市",
+            "Text": "有够烦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "……好厉害，真正的辣妹们\n就算新年时也很有精神呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "雪之美人",
+            "Text": "真是学到了一课。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是我跟雪之美人愉快地度过了新年。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

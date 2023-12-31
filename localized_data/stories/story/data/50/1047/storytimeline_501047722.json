@@ -1,0 +1,62 @@
+{
+    "Title": "因头痛而忧郁",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我来到图书室找荒漠英雄……\n",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "好……痛……！",
+            "ChoiceDataList": [
+                "你头痛吗？",
+                "你头痛吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "是、是的……从今天早上起就有点痛……\n血液循环不良时偶尔就会发作。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "谁叫我阅读时都维持着相同姿势。\n虽然我自认有注意要偶尔转动颈部……\n",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "就算头痛发作，身为图书委员还是得清点藏书，\n不能偷懒──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "──好痛……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "唔唔……这样根本无法好好工作……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "荒漠英雄就这样暂时为头痛所苦……\n",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

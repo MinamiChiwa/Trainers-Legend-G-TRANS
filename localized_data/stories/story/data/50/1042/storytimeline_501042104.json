@@ -1,0 +1,517 @@
+{
+    "Title": "夏季集训（第二年）途中",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "呵～呵呵呵！尽情游完泳后，\n就来简单并跑练习一下吧♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "Hey friends！\n有本事的话，就跟上来吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "喝啊啊啊啊啊啊啊啊啊啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "好、好快！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘B",
+            "Text": "呜──我～不～行～了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "采珠跑得飞快。\n她的实力远远胜过其他赛马娘。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她的速度正可谓逐渐逼近世界级水准。\n而当我看着那道可靠的背影时……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "喝啊啊啊啊啊────！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "──！？\n是谁……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "唯独有一名赛马娘，\n持续紧追着采珠不放。\n她就是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "你是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "呵呵呵～♪\n后辈、新马级、女子摔角选手！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "我就是大名鼎鼎的神鹰──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "小鹰……是你啊。\n呵呵，跑得很棒嘛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "神鹰比采珠晚一个世代，\n是一名国外出身的活泼蒙面赛马娘。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "出道前，就有传言说她将来能成长为\n一只怪鸟，可说是黄金雏鸟。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "采珠前辈！其实我一直躲在树上，\n等待趁虚而入！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "刚刚总算是让我逮到机会，\n所以就这样跑来挑战你了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "从树上？喔～所以刚才一直在看我的人，\n就是你啊。但为什么要这么做？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "这是因为……采珠前辈，神鹰我……\n小神鹰对你……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "小神鹰"
+            ]
+        },
+        {
+            "Name": "神鹰",
+            "Text": "崇拜、瞻仰、尊敬！我非常尊敬\n你这位以迈向世界为目标的前辈！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "请你在这个夏天，\n陪我一起训练！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "哎呀……我被一只厉害的雏鸟喜欢上了呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "训练员，你觉得如何？\n刚才并跑练习时，只有小鹰跟得上我。",
+            "ChoiceDataList": [
+                "好，一起训练吧",
+                "好～一起训练吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "虽然还年轻，但她的才能无可挑剔。\n我决定让她们一起度过这个夏天。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠&神鹰",
+            "Text": "喝啊啊啊啊啊啊啊啊啊啊！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "小鹰，你真有一套！\n即使在沙土上奔跑，双脚也完全不受影响！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "那当然！\n没有我这只黄金雏鸟无法奔跑的地方！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "呵呵，看来是这样呢。\n不过──好戏才正要开始喔！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "喝啊啊啊啊啊啊啊啊啊啊！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "──！？\n唔──采珠前辈，跑得好快……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "即使如此，两人的实力还是有一段差距。\n但她们互相刺激，提升彼此的实力。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "呼、呼、呼……\n多亏了和采珠前辈一起并跑练习，\n小神鹰的才能完全觉醒了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "非凡、天才、神圣！\n只要有这份才能，就等于是稳赢了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "是啊，小鹰。\n你的才能确实非常出色。不过……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "Long nose！不可以得意忘形。\n不能忘记体贴弱者的心情和立场……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "即使是你能理所当然地做到的事情，\n还是会有人因为办不到而苦恼。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "有人因为办不到而苦恼……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "没错，而且赛马娘的价值并非取决于才能，\n而是能从自己的“my line”飞到哪里。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "欸？能从自己的my line飞到哪里……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "没错，每个人都要面对才能的差距。\n条件比较有利的人在一开始就能获得胜利，\n是件很理所当然的事，对吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "所以要竞争的是──成长的幅度。\n应该自豪的，\n是运用天生的能力fly high了多远。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "这才是我们该有的骄傲。\n才是能够打动人心的真正力量。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "只有能办到这点的赛马娘，\n才能挑战世界级的舞台……Understand？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "采珠前辈……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "Bueno！我明白了！\n如果办不到这点，\n就无法变得跟采珠前辈一样──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "神鹰会做到的！\n不骄傲、不懈怠、不大意！\n然后飞得比任何人都要高！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "呵呵，这样就对了。\n抱着这种精神追上我吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "采珠个性强势，但绝对不会自满。\n她对神鹰来说，\n是非常好的模范。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "训练员。训练完后，\n我有点hungry了。差不多该吃饭……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "啊，采珠前辈，不如这样好了！\n我们去找食材来办场烧烤吧！\n神鹰有带烧烤用的……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "生命莎莎酱过来！\n现在只缺食材！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "啊～这是那个death spicy的酱料吧。\n哦～感觉味道应该会很震撼。\n呵呵，对夏天来说真是just fit呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "那么，训练员。我们该找什么样的烧烤食材呢？\n有什么健康的食材吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我开始思考。说到能在严苛的夏季集训中，\n对身体有帮助的食材……",
+            "ChoiceDataList": [
+                "野生的森林恩泽",
+                "很难采到的贝类"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "野生的森林恩泽……！说得也是，\n森林里有许多能增强活力的食材。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "我们走吧。\n去跟lovely的野兽们激烈fight一场！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山猪",
+            "Text": "噗喔～！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "Come on！来吧，山猪！\n我可不会输给你。因为──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "我进入森林后，状态就变好了！\n小鹰，快趁我跟它战斗的时候，\n去采野菇吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "Sí！训练员，动作快！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "多亏了一进森林就变强的采珠，\n我们顺利采到了野菇。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "很难采到的贝类……！\n说得也是，珍珠也是产自贝类。\n果然还是贝类最好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "小鹰，一起去趁退潮时捡贝类吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "采珠前辈～我一挖洞，就被贝类喷水反击了～\n全身都湿答答的……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "天真！太天真了，小鹰！\n如果被喷水……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "就要回以million倍的反击！\n这是看谁先撑不住的毅力对决！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "呵──呵呵呵呵呵呵呵！\n呵呵～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "采珠vs贝类的激烈对决，\n在经历漫长的战斗后，\n最终是由采珠获胜。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──然后，我们开始试吃。\n在将新鲜的食材烤熟后，\n淋上死亡辣酱送进口中……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "噗──！！Unbelievable──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "采珠前辈！你没事吧！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "Heaven……我看见heaven了……\n不过，这味道感觉会让人上瘾。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "小鹰，我要继续吃了！\n这个夏天就尽情burning吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "Sí！熊熊燃烧吧！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她们不管吃什么都会淋上死亡辣酱，\n并对这顿炙热的餐点乐在其中。然后──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "呼，度过了一段美好的时光呢。\n小鹰……要好好看我之后的精彩表现喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "我一定──会称霸欧洲GⅠ给你看。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "为了我自己、注视我的某人，\n以及──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "采珠",
+            "Text": "后进的赛马娘们。这就是我身为seeker……\n身为探求者必须履行的约定。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "好的，采珠前辈！神鹰相信你！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "神鹰",
+            "Text": "特雷森学园第一个在欧洲GⅠ中获胜的人，\n一定就是采珠前辈！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "采珠对着夜空发誓，\n然后背负着后辈的期待，朝未来迈进。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

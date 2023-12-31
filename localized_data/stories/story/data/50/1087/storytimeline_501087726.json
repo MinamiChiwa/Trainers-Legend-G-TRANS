@@ -1,0 +1,64 @@
+{
+    "Title": "挑战夹娃娃机！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "某天，\n我跟真弓快车一起出门时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真弓快车",
+            "Text": "啊，是“嘚嘚玩偶”呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我往真弓快车指示的方向看去，\n那里有一台装有赛马娘主题玩偶的\n夹娃娃机。",
+            "ChoiceDataList": [
+                "你想要吗？",
+                "你想要吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真弓快车",
+            "Text": "我想调查这些玩偶大受欢迎的秘密。\n因为它们可是真弓布偶的竞争对手呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真弓快车",
+            "Text": "我有好多想确认的地方。例如摸起来的\n触感、弹性、车工的坚固度……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真弓快车",
+            "Text": "光是把真弓的周边商品送到每个人手上还不够。\n我想让每个人获得\n最幸福的时光。",
+            "ChoiceDataList": [
+                "那我夹给你吧，希望可以协助你研究。"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真弓快车",
+            "Text": "真的吗？那我跟真弓布偶一起为你加油。\n加油！加油！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──这个挑战，不能失败！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

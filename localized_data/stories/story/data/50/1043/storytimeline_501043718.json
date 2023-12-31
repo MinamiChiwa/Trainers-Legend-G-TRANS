@@ -1,0 +1,44 @@
+{
+    "Title": "恢复精神",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "唔，是你啊！\n呵呵呵，昨天真的玩得很开心喔～！",
+            "ChoiceDataList": [
+                "看来你度过了一个充实的休假呢",
+                "看来你度过了一个充实的休假呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "对啊，风风看了一部反派是主角的电影！\n那家伙随心所欲地到处作乱！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "随意乱挥舞武器！\n把正义的伙伴打得落花流水！\n看谁不顺眼就揍飞谁！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新光风",
+            "Text": "真的是非常令人痛快的电影喔！\n风风也要像那样子大闹一番啦～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "新光风尽情享受假日，\n似乎恢复了精神。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

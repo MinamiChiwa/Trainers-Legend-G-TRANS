@@ -1,0 +1,368 @@
+{
+    "Title": "那一定，比未来的蓝图更……",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在集训的休息期间，\n目白麦昆看着一本很厚的书。",
+            "ChoiceDataList": [
+                "那本书是？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "哎呀，训练员也有兴趣吗？\n要不要一起看？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "目白麦昆向我招手，于是我走到她的身边。\n原来那本书是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "这里面收藏着拥有目白家\n荣耀历史的照片。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "这张照片也是。\n经历3200米的严酷赛程，而得到的奖牌……\n对奶奶来说，也是相当重要的回忆。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "目白家有着由自尊崇高的赛马娘们\n筑起的道路。所以，总有一天我也──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "──我也想站上同样的顶点。\n这也是为了将梦想托付在我身上，\n并爱着这份梦想的每个人。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她用珍爱的眼神，一张一张地浏览着\n相簿中的照片。那举动仿佛表现出\n她强烈的向往之情……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "……？",
+            "ChoiceDataList": [
+                "怎么了吗？",
+                "怎么了？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "没有，只是有张照片的感觉，\n跟其他照片不太一样。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "那张照片拍的是一个美丽的高台。\n光是看着，仿佛就能听见风声──",
+            "ChoiceDataList": [
+                "……真是漂亮的地方",
+                "……真是漂亮的地方"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "哎呀……是目白家的先进们\n在夏季集训拍的照片呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "啊，阿尔丹？\n你是什么时候来的……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "呵呵。要不要我告诉你们，\n要怎么去照片上的地方呢？\n……虽然那是条相当艰险的路。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "目白阿尔丹说，\n路途的艰险程度甚至能当作训练。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "根据她提供的资料，进入左边的树丛，\n再沿着坡道爬到顶端就是了。\n来吧，我们赶快出发！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "呼、呼……这里的风真舒服……♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我和心情大好的目白麦昆，\n朝着照片里的地点前进。不过──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "呼……呼……训练员，\n还有、一段路喔……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "呀啊啊！？是黄蜂！",
+            "ChoiceDataList": [
+                "快逃吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "呼……呼……\n草很茂密，虫也很多……\n该说是很原始吗……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "即使如此，目白麦昆仍然努力前进。\n于是，我也看着地图，为她指出绕道方式。\n不过──",
+            "ChoiceDataList": [
+                "（……我不想让她继续勉强自己了）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "前面恐怕也都是没有铺整的道路。\n再说……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "抵达目的地后，在那里看到的景色\n应该就和照片一模一样。\n就算那片景色再怎么漂亮──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "咿……这、这是桥吗……！？\n……（吞口水）",
+            "ChoiceDataList": [
+                "……现在就回头也没关系"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "……但是，我们还没抵达\n照片上的那个地方。",
+            "ChoiceDataList": [
+                "你为什么那么想看照片中的景色呢？",
+                "你为什么那么想看照片中的景色呢？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "！\n因为我觉得……这也是一样的道理。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "如果只停留在照片和想像，\n那就不是现实，\n而不过是一场名为憧憬的梦罢了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "没问题的，训练员。\n即使老旧的桥梁让人不安，\n只要你牵着我的手，我就能前进。",
+            "ChoiceDataList": [
+                "……我知道了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我牵着她的手，渡过桥梁、翻越山丘。\n我们完全不回头，只是不断地向前进──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "────",
+            "ChoiceDataList": [
+                "这里就是照片上的地方……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "……是、是啊……\n不过，比照片还要──",
+            "ChoiceDataList": [
+                "漂亮好多……",
+                "漂亮好多呢……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "眼前的风景明明和照片一样，\n但实际的景色却显得更加鲜明，\n而且还有花香钻进鼻腔──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "……我果然不能以照片或梦境作结。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "因为，不实际来到这里的话，\n我就永远不会知道盛开花朵的香气，\n和树叶摩擦的声音，实际上有多美妙。",
+            "ChoiceDataList": [
+                "……麦昆？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "如果说，现实比照片、比想像、比梦境，\n远远美妙得多──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她此刻所看着的，\n是比这里更遥远的“彼方”景色。\n那是她的梦想之路的方向。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她的视线所捕捉的，是远比来到这里的路途\n艰险许多的3200米舞台。",
+            "ChoiceDataList": [
+                "（她正在看着的，一定是──）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "──我果然还是想拿下\n“天皇赏（春）”的第一名。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "我想要将奶奶和为我加油的人们，\n透过我看见的梦想景色化为现实。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "然后像今天这样，\n让他们亲身、亲眼感受到……\n现实的光景比想像更加美好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她的目标从我们相遇以来就未曾改变。\n目白家的宿愿，是赢得天皇赏的奖牌。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "……呵呵。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "虽然感觉很害羞，但也有点飘飘然的。\n因为这里离天空更近，感觉很舒服。",
+            "ChoiceDataList": [
+                "前辈们或许同样也谈论过梦想呢",
+                "前辈们或许同样也谈论过梦想呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "！\n原来如此，所以才会特地在\n相簿里留下这里的照片……",
+            "ChoiceDataList": [
+                "我们也把今天下的决心留在照片里吧",
+                "我们也把今天下的决心留在照片里吧",
+                "把这片景色烙印在眼底吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "！\n原来如此，所以才会特地在\n相簿里留下这里的照片……",
+            "ChoiceDataList": [
+                "我们也把今天下的决心留在照片里吧",
+                "我们也把今天下的决心留在照片里吧",
+                "把这片景色烙印在眼底吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "……嗯，说得也是。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "希望我们不会忘记今天感觉到的决心。\n我还希望，未来有一天──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "会有后辈像今天的目白麦昆这样，\n产生想亲眼看见这片景色的愿望，\n并且在这里对梦想起誓。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "……是啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "先进们留存在照片里的风景，\n实际上到底有多么美丽，\n现在就用这双眼睛记下来吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白麦昆",
+            "Text": "这也是为了让我们一起实现比照片、\n比在梦中描绘的，都更加鲜明的景色。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "之后的一段时间，\n我和目白麦昆一起\n持续看着这片景色。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}
