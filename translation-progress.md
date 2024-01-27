@@ -59,7 +59,7 @@
 | 角色档案                           | 翻译中（长期） | ███、[萌娘百科](https://zh.moegirl.org.cn/%E8%B5%9B%E9%A9%AC%E5%A8%98_Pretty_Derby/%E8%AF%91%E5%90%8D%E5%AF%B9%E7%85%A7%E8%A1%A8)、*伊洛伊白（Bilibili）、[B站赛马娘中文WIKI](https://wiki.biligame.com/umamusume)、Chihyuen |
 | 闪耀期刊                           | 翻译中（长期） | Komoe                                                         |
 | 支援卡小故事                       | 翻译中（长期） | 南千和、Komoe、Chihyuen、███                               |
-| 主页日常对话                       | 翻译中（长期） | Komoe                                                         |
+| 主页日常对话                       | 翻译中（长期） | Komoe、*双枪狙击twoguns（Bilibili）                            |
 | 剧情活动介绍文                     | 翻译中（长期） | Komoe、[B站赛马娘中文WIKI](https://wiki.biligame.com/umamusume)、Chihyuen |
 
 ## 图像资源
