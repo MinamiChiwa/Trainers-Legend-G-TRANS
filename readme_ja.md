@@ -27,4 +27,4 @@ GitHub以外のプラットフォームからの翻訳もあります。詳細�
 このリポジトリに貢献をするには [`バーベキューのチュートリアル`](https://docs.qq.com/doc/DYk1Ia3h4UHRocGVJ)をご確認ください。 [`QQ`](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&inviteCode=1olqdK&from=246610&biz=ka)のチャンネルに参加をして、翻訳を行なうためのツールを手に入れましょう。
 
 # スポンサーシップ
-このプロジェクトは、2023年1月以降のスポンサーシップの受付を終了しました。 [`スポンサーシップの説明と支出の内訳`](/donate_readme.md)は引き続きご覧いただけます。
+このプロジェクトは、2023年1月以降のスポンサーシップの受付を終了しました。 [`スポンサーシップの説明と支出の内訳`](https://github.com/MinamiChiwa/Trainers-Legend-G/blob/main/donate_readme.md)は引き続きご覧いただけます。
