@@ -111,8 +111,8 @@
 | 1082 | L'Arc de gloire                  | 完全翻译√ | *Kitasanゞ卫ちゃ（Bilibili） |
 | 1083 | トレセン音頭                      | 完全翻译√ | *Kitasanゞ卫ちゃ（Bilibili） |
 | 1084 | ソシテミンナノ                    | 完全翻译√ | *Kitasanゞ卫ちゃ（Bilibili） |
-| 1088 | 爆熱マイソウル                    |           |                             |
-| 1089 | U.M.A. NEW WORLD!!               |           |                             |
+| 1088 | 爆熱マイソウル                    | 完全翻译√ | *Kitasanゞ卫ちゃ（Bilibili） |
+| 1089 | U.M.A. NEW WORLD!!               | 完全翻译√ | *Kitasanゞ卫ちゃ（Bilibili） |
 
 ## 角色及皮肤名
 
