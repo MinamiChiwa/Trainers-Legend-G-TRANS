@@ -1,0 +1,525 @@
+{
+  "Title": "Let's Gorgeous Party♪",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "过去的三年里，\n强击沿着雌马三冠路线迈进……\n留下了十分精彩的成绩。",
+      "ChoiceDataList": [
+        "（想为她庆祝一下）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "为了让喜好气派的她高兴，\n我决定租个场地，邀请客人，\n举办上流的派对——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "谢谢大家今天能来到这里！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "干杯！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "客人们",
+      "Text": "干杯♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "我邀请的都是和强击一样\n活跃在雌马三冠路线上的赛马娘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西野花",
+      "Text": "三年以来辛苦了，\n强击小姐！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美妙姿势",
+      "Text": "你的话，无论去哪个国家比赛，\n都一定能有出色的表现♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "西野花，她用小小的身躯取得了巨大的胜利。\n美妙姿势，来自爱尔兰的她给人留有强烈印象。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "西野花",
+        "美妙姿势"
+      ]
+    },
+    {
+      "Name": "东商变革",
+      "Text": "你是用了什么魔法啊……？\n互相学习一下吧，\n我的魔法也可以教给你!",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "这位是东商变革，任性但又取得了多次胜利。\n曾被评为“最优秀的古马级女王”。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "东商变革"
+      ]
+    },
+    {
+      "Name": "强击",
+      "Text": "魔法？\n诶——，是什么呢～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "……可能是爱吧！\n欸嘿♡",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "被华贵的朋友包围着，强击开心地聊着天。\n到目前为止一切都很顺利。接下来就是——",
+      "ChoiceDataList": [
+        "（对于那个“撒娇”的回应！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "啊，对了训练员亲！",
+      "ChoiceDataList": [
+        "（……来了！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "呐呐，\n训练员亲～！",
+      "ChoiceDataList": [
+        "是，大小姐"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "！",
+      "ChoiceDataList": [
+        "有什么事还请尽管吩咐"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "呀～♡\u3000训练员亲，好会演～！\n超——有那种感觉的！",
+      "ChoiceDataList": [
+        "（……呼）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "『把我当成大小姐对待』——\n这是之前的派对上强击提出的请求。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "你看你看，这套装超好看的！\n丝绸的光泽恰到好处地丰富～\n鲜艳的蓝色也很棒～!",
+      "ChoiceDataList": [
+        "……有点太花哨了吧？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "有何不可呢？\n绝对很适合你的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "雌马三冠路线中超努力的我，\n不是超上流的吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "所以——\n我希望训练员亲也能帅气地守护我♡",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "就拜托你试穿了！\n我等着哦～♡",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "虽然多少有些被玩弄的感觉，\n但想到是强击想做的事，\n我便一边配合她一边进行准备——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "对了！\u3000美妙小姐这么上流，\n你看一下训练员亲的穿着，觉得完成度怎么样！？",
+      "ChoiceDataList": [
+        "诶"
+      ],
+      "ColorTextInfoList": [
+        "美妙"
+      ]
+    },
+    {
+      "Name": "独白",
+      "Text": "我有听说过美妙姿势是\n和某国的王族相关的高贵马娘。\n被这样的人评价压力很大，不过――",
+      "ChoiceDataList": [
+        "（为了强击，拼了！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美妙姿势",
+      "Text": "……呵呵。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美妙姿势",
+      "Text": "我看看，\n已经是一个非常出色的随从了呢♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "呀～果然！",
+      "ChoiceDataList": [
+        "……真的吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美妙姿势",
+      "Text": "嗯。因为，\n为“大小姐”着想的心意已经传达到了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "美妙姿势",
+      "Text": "看到你们今天的举止，\n我算是明白了……\n你们是如何走上了这条充满荣光的道路♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "欸嘿嘿……这样啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "没错！\u3000我的训练员亲，\n超为我着想，超温柔的♡",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "那么，训练员亲！\n可以拜托你为各位客人服务吗～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "你的决心，\n也把它展现给大家吧♡",
+      "ChoiceDataList": [
+        "明白了，大小姐"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "就这样，我们度过了一个热闹的派对。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "这时我想起了一件事——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "不好意思，我迟到了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "呜，舞会竟然迟到了！不配做公主啦～！",
+      "ChoiceDataList": [
+        "只是个轻松愉快的聚会，没关系的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "新来的是目白多伯、\n川上公主以及大和赤骥——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "目白多伯",
+        "川上公主",
+        "大和赤骥"
+      ]
+    },
+    {
+      "Name": "独白",
+      "Text": "都是在雌马三冠中取得二冠，\n留下了伟大战绩的赛马娘们。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "你们也来了啊！我超开心的♡",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤骥",
+      "Text": "当然要来了。除了雌马三冠，\n还赢了这么多GⅠ赛事！\n你这不是很厉害嘛！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤骥",
+      "Text": "因为走过同样的道路，\n所以我很清楚。\n现在的你就是第一。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "赤骥小姐……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "赤骥"
+      ]
+    },
+    {
+      "Name": "强击",
+      "Text": "……你这话，\n都说的我心痒痒了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤骥",
+      "Text": "是吗，你明白了就好！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大和赤骥",
+      "Text": "第一除了我以外还有其他人什么的……\n我可不要这样！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "川上公主",
+      "Text": "没错！\u3000我们的祝福……\n就先放在一边！\u3000来比赛吧～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "现在，有点太晚了吧？\n不过，要是强击不介意的话……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "不过……看到在雌马三冠路线上\n取得如此胜利的你之后，\n其实我也想来较量一下。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "大家……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "追上姐姐的步伐，\n看来还只是开始……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "雌马三冠，\n果然很帅气啊♡",
+      "ChoiceDataList": [
+        "那么您准备好了吗，大小姐？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "不愧是训练员亲！\n嗯，大家的祝福，我会好好接收的♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "就这样，我们转移了派对场所……\n华丽地进行了之后的活动。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "嗯，那边的是——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白高峰",
+      "Text": "派对会场是在这里吗？",
+      "ChoiceDataList": [
+        "（目白高峰……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "眼前的是目白高峰……\n史上最早达成雌马三冠，只要出场就\n能够吸引所有人目光的“魔性”赛马娘——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "目白高峰"
+      ]
+    },
+    {
+      "Name": "强击",
+      "Text": "训练员亲，\n你连高峰小姐都邀请了吗！？",
+      "ChoiceDataList": [
+        "我没有啊……"
+      ],
+      "ColorTextInfoList": [
+        "高峰"
+      ]
+    },
+    {
+      "Name": "目白高峰",
+      "Text": "我对你产生兴趣了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白高峰",
+      "Text": "雌马三冠路线，GⅠ七胜……\n真是载入史册的功绩啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白高峰",
+      "Text": "如此高的成就……\n其中的秘诀，可以披露一下吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "这个嘛……\n……训练员亲～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "强击向我求助，我思考着这个问题的答案。\n她无疑拿出了伟大的成果。\n而其中的理由，完全是因为——",
+      "ChoiceDataList": [
+        "我认为是因为强击很努力"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "！\n训练员亲……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "……要这么说的话，\n我觉得秘诀是训练员亲！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "我的任性要求，训练员每次都会听……\n然后和我一起努力！\n所以，我――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白高峰",
+      "Text": "——……啊，这样啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "诶？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白高峰",
+      "Text": "也就是说，这是“你俩”努力的结晶。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白高峰",
+      "Text": "那么，我就先失陪了。\n――下次就，跑场上见吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "……高峰小姐她，\n真的很不可思议啊！",
+      "ChoiceDataList": [
+        "是啊……不对，您所言极是",
+        "嗯……不对，您所言极是"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "……那个，训练员亲。\n名流游戏，已经可以结束了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "我这么任性给你添麻烦了！\n不过……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "我果然还是，\n最喜欢平时的训练员亲了♡",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
