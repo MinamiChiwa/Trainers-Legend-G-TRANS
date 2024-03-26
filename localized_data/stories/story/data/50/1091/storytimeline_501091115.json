@@ -1,0 +1,547 @@
+{
+  "Title": "Keep Going",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "进入经典级后，我们针对雌马三冠路线\n逐渐地提高了训练强度。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "哈～～～～",
+      "ChoiceDataList": [
+        "稍微休息一下吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "没事，我还可以……\n再来一次～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "训练强度提高的同时也会变得容易疲劳。\n强击现在这么疲惫，原因就在于此。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "但是――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "唔……嗯……\n呼，呼……",
+      "ChoiceDataList": [
+        "（……诶？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "强击无意识地在摸自己的肚子，\n呼吸声也变得和平时不一样。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "……唔欸……哈……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "哈……训练员亲，我还是，\n稍微休息一下……",
+      "ChoiceDataList": [
+        "不，今天就到此为止吧",
+        "不，今天就到此为止吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "诶？",
+      "ChoiceDataList": [
+        "去保健室看一下吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "……我没事！\n休息一下就好了。",
+      "ChoiceDataList": [
+        "还是去确认一下有没有问题吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "但是――",
+      "ChoiceDataList": [
+        "拜托了，就听听我说的话吧",
+        "拜托了，就听听我说的话吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "保健室医生",
+      "Text": "嗯…………还是去医院\n详细地检查一下比较好。",
+      "ChoiceDataList": [
+        "！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "保健室医生",
+      "Text": "反复出现腹痛，呼吸声也不正常……\n大概是患有多个症状。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "保健室医生",
+      "Text": "还是暂时观察一段时间比较好。\n据我看来……完全痊愈可能需要半年。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "半年……\n这样的话，就真的……",
+      "ChoiceDataList": [
+        "……对不起，强击！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "诶……",
+      "ChoiceDataList": [
+        "没注意到异常真的很抱歉"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "轻视征兆的天真，\n没想过和强击商量的不可靠。\n事情变成这样都是我的责任。",
+      "ChoiceDataList": [
+        "真的很对不起"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "……不是的。\n你听我说，训练员——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "——强击！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "姐姐？\n为什么……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "训练员告诉我了。\n比起这个，你没事吧！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "嗯，现在冷静下来了。\n已经没事了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "是吗，太好了……\n……那个，强击。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "你其实……是知道自己\n状态不好的吧？",
+      "ChoiceDataList": [
+        "！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "你是个聪明的孩子。\n不可能会注意不到的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "……我是真的觉得身体没问题的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……是吗。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "训练员，稍微过来一下。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "训练员，那孩子藏着不说的理由\n你知道吗？",
+      "ChoiceDataList": [
+        "也许是因为雌马三冠吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "强击对雌马三冠的念想一天比一天深。\n她大概是意识到说了就没法参赛了吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……居然都执着到这个程度了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……作为前辈赛马娘，\n请让我说说我的想法。",
+      "ChoiceDataList": [
+        "你说吧",
+        "你说吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "还是不要让强击比赛了。",
+      "ChoiceDataList": [
+        "！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "闪耀系列赛是很残酷的。\n现在的她也不知道能不能受得住。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "边治疗边比赛是不现实的。\n在完全恢复之前还是休息比较好。",
+      "ChoiceDataList": [
+        "……这确实也是一种方法",
+        "……这确实也是一种方法"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "正好我也在考虑类似的事情。\n回避最近的『樱花赏』和『日本橡树大赛』\n视情况『秋华赏』也休息——",
+      "ChoiceDataList": [
+        "为了前往迪拜这个重要的梦想——"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "不要！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "！\n你先听我说——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "我一定要参加雌马三冠！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "啊！",
+      "ChoiceDataList": [
+        "我去追她吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "我不要。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "我才不要！\n绝对不要休息！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……抱歉，擅自就和训练员商量。\n我只是想用你能接受的方式告诉你——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "不要！\n我不想听～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "一直以来都很率真的强击……\n现在变得固执了起来。",
+      "ChoiceDataList": [
+        "强击……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "那个，就稍微——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "不行！！\n我想赢下雌马三冠！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "毕竟！\u3000姐姐你……\n不是已经没法再实现它了吗。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "诶…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "姐姐的事，我一直都看在眼里……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "你有多想赢下雌马三冠……\n为此又做了多少努力！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "我一直都觉得……\n姐姐才是最厉害！最帅气的！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "！\n强击……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "……我虽然不是姐姐。\n但是，能成为姐姐的，\n一定只有我。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "最喜欢姐姐的大家，\n也把这个心愿托付给了我！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "姐姐的梦想，要由我来实现！\n不然的话——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "不然的话，\n实现自己的梦想什么的，\n是不可能的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "强击……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "这是我第一次感受到，强击内心深处的热情。\n『帮姐姐雪耻』……这句话\n包含着对姐姐满满的爱。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "那个，训练员的话……\n应该明白的吧？",
+      "ChoiceDataList": [
+        "……看来你已经做好觉悟了啊",
+        "……看来你已经做好觉悟了啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她现在的身体状况，只是参加比赛的话\n还是可以的。但她的目标是雌马三冠……\n想要胜利需要相当大的努力。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "要在不造成过多身体负荷的状况下\n变得更强，需要比以往更高的集中力。\n说不定还会对将来造成影响。",
+      "ChoiceDataList": [
+        "即便这样，也要继续吗？",
+        "即便这样，也要继续吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "嗯！\n当然！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "等一下，训练员……！",
+      "ChoiceDataList": [
+        "还请让我和她一起努力"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "没有实际成果的你，\n说的话要让我怎么信任呢？",
+      "ChoiceDataList": [
+        "那妹妹呢？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "诶？",
+      "ChoiceDataList": [
+        "强击你也不信任吗？",
+        "强击你也不信任吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "姐姐……！\n我绝对不会乱来的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "雌马三冠和迪拜，我都不会放弃的！\n所以……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "………………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……这也太狡猾了。\n要是这样还说不行的话，\n就好像是真的不信任你了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "姐姐……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "训练员。要是这孩子有个万一的话……\n我可不会原谅你。",
+      "ChoiceDataList": [
+        "……嗯！",
+        "……嗯！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "强击。你也要好好听训练员的哦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "因为训练员要负全部的责任……\n这是我和他的约定，明白了吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "嗯！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "训练员！\n……请多多指教！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "第二天——强击正式表示\n将按照原计划参加雌马三冠。\n粉丝们知道后都非常高兴——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

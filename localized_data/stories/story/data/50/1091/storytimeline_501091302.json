@@ -1,0 +1,761 @@
+{
+  "Title": "抽奖试手气！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "某天，和强击买东西回去的路上——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "哦哟？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "训练员亲，\n那边好像有什么活动！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人员",
+      "Text": "看过来看过来，现在正在举办新春大抽奖～！\n特等奖可是『温泉旅游券』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "温泉旅游券"
+      ]
+    },
+    {
+      "Name": "商店街人员",
+      "Text": "一等奖是『上等胡萝卜肉排汉堡』，\n二等奖是『一筐胡萝卜』，\n三等奖则是『一根胡萝卜』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人员",
+      "Text": "来来来，是很开心的抽奖哦！\n不论是谁都可以试一下～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "哇！\n好厉害好厉害♡",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "呐呐，\n要不要去试一下？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "说不定就能抽中温泉旅游券呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "这种事情整个家里就数我最拿手了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "呐，就试一下吧！\n呐，呐！",
+      "ChoiceDataList": [
+        "好，试试看吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "刚才买的东西，正好附带了一张抽奖券。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "好耶♡\n来吧……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "……呐呐，小哥哥。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人员",
+      "Text": "……嗯？\n我、我吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "嗯。\n那个，我有个小请求～……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "盯～～……♡",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人员",
+      "Text": "扑通……！？\n那、那个……",
+      "ChoiceDataList": [
+        "撒娇也不会送你特等奖的啊",
+        "撒娇也不会给你特等奖的哦"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "诶——？\n不行吗～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "不过也没事，我有抽奖券♡\n来试试看吧——！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "强击干劲十足地转动了抽奖机的把手！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "结果是——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人员",
+      "Text": "居然！\u3000恭喜────！！\n抽到特等奖『温泉旅游券』啦～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "获得了『<itemname>』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "强击",
+      "Text": "噢噢噢噢～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "训练员亲～～！",
+      "ChoiceDataList": [
+        "不愧是你，手气很好啊",
+        "不愧是你，手气很好啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "快看，快看，不得了啊！\n太厉害了～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人员",
+      "Text": "恭喜你！\n真是太好了啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "谢谢～♡\n说不定也有小哥哥的功劳呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "你悄悄为我祈祷了一下，希望我抽中吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人员",
+      "Text": "啊哈哈……只是祈祷的话，\n应该不算不正当吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "嗯嗯。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "要是小哥哥能为我应援的话，\n感觉我什么都能做到♡",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人员",
+      "Text": "是、是吗……？\n好，比赛我也会为你应援的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "呀～\n谢谢你～",
+      "ChoiceDataList": [
+        "（还是这么会撒娇……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "这下就～\n不加油不行了呢，训练员亲！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "但是，要努力的话还需要有体力。\n所以……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "首先要去泡温泉，\n养精蓄锐♡",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "接下来还有重要的比赛等着强击。\n本来现在应该是集中精力训练的时候，\n不过……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "骗你的，毕竟还有重要的比赛。\n以后再说啦。",
+      "ChoiceDataList": [
+        "……好啊，去吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "诶？",
+      "ChoiceDataList": [
+        "去泡温泉吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "可以吗？\n之后可是还要比赛的。",
+      "ChoiceDataList": [
+        "这段时间也确实辛苦了",
+        "这段时间也确实辛苦了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "要说的话，\n是没怎么休息过。而且强击也很努力了，\n倒不如说我一直有要慰劳她一下的想法。",
+      "ChoiceDataList": [
+        "就当是给你的奖励吧！",
+        "就当是给你的奖励吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "奖励……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "……",
+      "ChoiceDataList": [
+        "得更改训练计划了，打算什么时候去？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "……那就现有计划的最后吧！",
+      "ChoiceDataList": [
+        "诶？那不就是……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "嗯，这样就好。\n还是全部完成之后再去比较好！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "我现在已经从训练员那里得到奖励了。",
+      "ChoiceDataList": [
+        "诶？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "训练员亲不是每天都会表扬我很多次吗？\n这样就够了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "所以温泉就……\n作为我和训练员亲一同努力过后的奖励吧！",
+      "ChoiceDataList": [
+        "我的……？",
+        "我的……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "嗯！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "训练员亲也很努力。\n我希望你也能得到实际的奖励！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "从明天开始，还要多多努力……\n奖励，就敬请期待吧，训练员亲！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "知道了她体贴的想法后，\n我把温泉旅游券悄悄夹在了\n日程簿的最后一页。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人员",
+      "Text": "恭喜您，中了一等奖～！\n奖品是『上等胡萝卜肉排汉堡』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "获得了『<itemname>』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "强击",
+      "Text": "噢噢～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "呐呐，很厉害吧！\n我手气不错吧～？",
+      "ChoiceDataList": [
+        "很厉害",
+        "很厉害"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "对吧对吧～♡",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "嘿咻——，肉排汉堡，\n超美味——♡",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "那我打个电话～",
+      "ChoiceDataList": [
+        "打个电话？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "嗯！\n因为这个看起来超好吃啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "我想让我最喜欢的人也尝尝。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "喂，是姐姐吗？\n你可以过来一下吗～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "嗯～！\n好吃吧，姐姐♡",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "嗯，是啊……\n味道调得好的同时\n还能感受到肉本身的美味。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "姐姐也太会做美食评价了吧！\n不愧是你！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "训练员亲，你也来评价一下！",
+      "ChoiceDataList": [
+        "……肉汁很多汁！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "噗哈。\n感觉像讲了个冷笑话～！",
+      "ChoiceDataList": [
+        "（我想的很认真的……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "欸嘿嘿，真开心。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "要是骏逸亲也在的话，\n就更完美了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "骏逸的的那份，\n我已经交给她室友了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "谢谢姐姐。\n你行动很迅速呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "味道这么好～，\n骏逸亲肯定会马上吃掉的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "只要你们觉得好吃，\n我就感觉超幸福♡",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人员",
+      "Text": "是二等奖～！！\n奖品为『一筐胡萝卜』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "获得了『<itemname>』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "强击",
+      "Text": "哇～！\n好多胡萝卜！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "给这么多真的可以吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人员",
+      "Text": "嗯，当然了！\n好好品尝吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "太好了～！\n谢谢♡",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "呐呐，训练员亲！\n既然都有这么多萝卜了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "不如～开个派对怎么样！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "第二天——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "——没错，这就是我做的胡萝卜蛋糕！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "摩耶重炮",
+      "Text": "诶～好厉害！\n做成了一口就能吃下去的形状，太可爱了♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里见皇冠",
+      "Text": "……放了不一般的香料吧？\n做的很时尚呢，这是你自己的想法吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "嗯，做的时候想着要带点迪拜风味~♡",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "以Spice Souk*为印象，\n试着混合了各种香料♪\n（*迪拜香料市集，迪拜的传统市场之一）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "……不过制作的部分基本都是\n姐姐和训练员亲完成的♡",
+      "ChoiceDataList": [
+        "哈哈……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "大家都用萝卜做了什么呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "就这样，花园派对华丽地进行了下去。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人员",
+      "Text": "是三等奖～！\n奖品为『一根胡萝卜』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "获得了『<itemname>』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "强击",
+      "Text": "哎呀～才三等奖啊。",
+      "ChoiceDataList": [
+        "不过，也算是中奖了",
+        "不过，也算是中奖了哦"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "嗯～～可是我想中点厉害的啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "……啊，对了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "……嗯哼~",
+      "ChoiceDataList": [
+        "……嗯？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "训练员亲，\n来夸夸我吧～",
+      "ChoiceDataList": [
+        "……那个，你努力了呢！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "…………",
+      "ChoiceDataList": [
+        "用尽全力转了转盘，真了不起！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "…………",
+      "ChoiceDataList": [
+        "……只要是你抽的都是一等奖！",
+        "……只要是你抽的都是一等奖！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "啊哈哈！\n训练员亲真是的～～♡",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "……欸嘿，\n抽到什么都已经无所谓了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "小哥哥。\n请给我一等奖的胡萝卜。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "虽然还没搞清状况，不过强击很高兴地\n接受了这根胡萝卜。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人员",
+      "Text": "很遗憾，没中！\n是参与奖『卫生纸』哦～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "获得了『<itemname>』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "强击",
+      "Text": "诶～！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "骗人的吧～～～～！\n怎么会这样！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "偏偏是……\n参与奖！？",
+      "ChoiceDataList": [
+        "这就是所谓的运气不好吧……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "但是但是，要是有上流的“手气”\n就会中奖吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "那这么说，我不是完全不上流的嘛！\n真讨厌～～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "强击的心情变得低落了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

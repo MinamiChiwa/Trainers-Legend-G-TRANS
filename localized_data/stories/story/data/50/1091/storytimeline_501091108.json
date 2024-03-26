@@ -1,0 +1,553 @@
+{
+  "Title": "粉丝感谢祭",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "今天是举办粉丝大感谢祭的日子！\n为了回馈粉丝，马娘们会在这天\n进行各种各样的比赛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "而强击选择的比赛项目则是——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "训练员亲，\n我会加油的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "要好好看着我！\n为我应援哦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比赛实况",
+      "Text": "——那么，『妹妹争霸赛』！\n终于到了决赛的时刻！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比赛实况",
+      "Text": "特雷森学园的马娘们有着丰富多彩的个性。\n其中以“妹妹”为焦点的这场比赛——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比赛实况",
+      "Text": "将要决出最强的妹妹！",
+      "ChoiceDataList": [
+        "（这要怎么比赛？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比赛实况",
+      "Text": "接下来，请进入决赛的妹妹们\n到舞台上来！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真机怜",
+      "Text": "果然，结果和我预想的一样♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比赛实况",
+      "Text": "这样的妹妹真的存在吗！？\n以堂堂的可爱君临天下，初代的妹妹王者，\n真机怜！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "真机怜"
+      ]
+    },
+    {
+      "Name": "真机怜",
+      "Text": "要挑战机怜的……\n是现在势头正旺的你呢♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "机怜"
+      ]
+    },
+    {
+      "Name": "强击",
+      "Text": "机怜小姐！\n我超荣幸的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比赛实况",
+      "Text": "要挑战绝对王者的是，强击！\n这位有着两个亲姐姐的最强妹妹，\n能否打破真机怜筑起的可爱之墙呢！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "为了这场比赛，\n我有一直努力到今天哦！",
+      "ChoiceDataList": [
+        "（有这回事吗？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "作为姐姐们的妹妹！\n我绝对不能输！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "还请手下留情哦！\n机怜小姐♡",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真机怜",
+      "Text": "我才是♡\n还请多关照啦，强击妹妹！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "盯～～",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真机怜",
+      "Text": "盯——……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比赛实况",
+      "Text": "俩人相互之间寸步不让……！\n看来较量已经开始了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "没问题的强击。\n你一定能获胜！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "因为，你和骏逸毫无疑问都是最可爱的妹妹。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱慕织姬",
+      "Text": "……机怜她在这个大会上\n可是至今还没败过的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "嗯？织姬小姐，来给机怜小姐加油吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "织姬"
+      ]
+    },
+    {
+      "Name": "爱慕织姬",
+      "Text": "只是碰巧路过而已。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "是吗……这样的话，\n即使我家强击打败了机怜小姐\n也没关系的吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱慕织姬",
+      "Text": "……还请随便。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比赛实况",
+      "Text": "——好了，准备已经完成了！\n接下来，就来发表决赛的课题吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比赛实况",
+      "Text": "直截了当地说就是『撒娇』！\n“不由得就让人想什么都听她的”，\n这样的魅力正是最适合妹妹的武器。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比赛实况",
+      "Text": "观众的尖叫声大的一方即为胜者！\n也就是本次活动的最强妹妹！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比赛实况",
+      "Text": "首先是先攻者，\n绝对王者真机怜！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真机怜",
+      "Text": "好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真机怜",
+      "Text": "嗯——，我想想——\n既然是对手是强击妹妹的话…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真机怜",
+      "Text": "啊，极峰小姐！\n可以过来一下吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "……诶！？\n为、为什么——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真机怜",
+      "Text": "姐姐。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "！！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真机怜",
+      "Text": "我知道姐姐已经有了重要的妹妹了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真机怜",
+      "Text": "不过呢，机怜……\n也想成为姐姐的妹妹哦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真机怜",
+      "Text": "可以吗……？\n姐姐？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比赛实况",
+      "Text": "这、这是……！？\u3000真机怜她居然，\n在对手的立场上展开了正面对决——！\n身为王者的她，展现出了如此贪婪的灵魂！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "观众们",
+      "Text": "真机怜可爱！！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比赛实况",
+      "Text": "观众们的尖叫声已经传过来了！\n马上测量一下音量！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "呣呣呣～～！\n居然向姐姐撒娇……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "讨厌！\n明明是我的姐姐！",
+      "ChoiceDataList": [
+        "（吃醋了啊……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "强击现在处于焦躁状态。\n这么看来是不能冷静地\n像平时一样『撒娇』了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "姐姐，不行！",
+      "ChoiceDataList": [
+        "啊！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "姐姐她，\n可是我的姐姐。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……真是的，强击。\n这不是理所当然的吗。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "而且，你也不应该从舞台上下来吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "诶？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比赛实况",
+      "Text": "太遗憾了，强击小姐由于出了场外，\n所以不战而败。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "诶——！？\n还有这样的规则吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比赛实况",
+      "Text": "不过这绝不是她自发走下舞台的。\n作为事件的主角……\n她照样还是有妹妹的资质！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "搞不懂！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "……算了不管了。\n只要姐姐还是最喜欢我的就好♡",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "嗯，那当然了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……不过再多一个妹妹，\n倒是也可以。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "姐姐！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "呵呵，开个玩笑啦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "结果这个比赛是变成了什么状况，\n我也搞不明白了……\n不过好在强击看起来很满足。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "姐姐～！",
+      "ChoiceDataList": [
+        "等一下，强击",
+        "等一下，强击"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "训练员亲！\n可是，姐姐她！",
+      "ChoiceDataList": [
+        "你想成为最强妹妹吧？",
+        "你想成为最强妹妹吧？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "虽然不太明白，不过强击她……\n看起来有为了这一天而努力。\n那么就要冷静地找到胜算。",
+      "ChoiceDataList": [
+        "『撒娇』这方面，你可是最强的",
+        "『撒娇』这方面，你可是最强的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "训练员亲……",
+      "ChoiceDataList": [
+        "（我在说什么呢……）",
+        "（我在说什么呢……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "说的是啊。\n到现在为止，我都不知道撒了多少次娇了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "谢谢你，训练员亲！\n我已经没事了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比赛实况",
+      "Text": "强击转为了迎击态势！\n那么，她会向我们展示怎样的『撒娇』呢！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "……那个。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "我啊……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "要把大家都当作我的姐姐来撒娇。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "姐姐！\n我是你的第一吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "你会喜欢上我吗……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "观众们",
+      "Text": "……！！\n哦哦哦哦哦哦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "观众们",
+      "Text": "我是……我是……！\n我是强击的姐姐啊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比赛实况",
+      "Text": "居然采取了正面进攻的策略！\n多么正统的撒娇！\n这简直就是最强的终极妹妹啊～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "这些人在说什么啊。\n强击的姐姐，明明应该是我和骏逸才对。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱慕织姬",
+      "Text": "……机怜。\n被自己过高的自尊妨碍了呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比赛实况",
+      "Text": "现在正在测量欢呼声！\n好了，胜者到底会是谁呢……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比赛实况",
+      "Text": "强击，是强击！\n她打败了绝对强者，成为了国民妹妹！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "太好了～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真机怜",
+      "Text": "真可惜，我输啦！\n不过，我很开心♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "真机怜",
+      "Text": "所谓可爱，只有面对强大的对手\n才能更好地磨练出来。\n明年，我会赢回来的哦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "好呀！\n不过，我也不会输的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击＆机怜",
+      "Text": "盯～～……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "就这样，强击成为了这次比赛的\n最强妹妹……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

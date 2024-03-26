@@ -1,0 +1,464 @@
+{
+  "Title": "圣诞节",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "今天是圣诞节。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "强击一家邀请我去她家的别墅，\n参加了他们的家庭派对。",
+      "ChoiceDataList": [
+        "不好意思，打扰到你们了……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "姐妹们的母亲",
+      "Text": "别在意，毕竟是我们邀请你来的。\n倒不如说还要谢谢你能来！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "姐妹们的父亲",
+      "Text": "往年圣诞节都过得豪华隆重，\n今年应强击的要求办的比较简洁！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "姐妹们的父亲",
+      "Text": "虽然比较微薄，\n但也准备了料理！\n还请务必尝尝！",
+      "ChoiceDataList": [
+        "谢谢您的招待"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "看着眼前摆着的料理。\n大只的火鸡、盛的满满的沙拉、\n一大锅的汤、自助式的小碟子——",
+      "ChoiceDataList": [
+        "……微薄？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚骏逸",
+      "Text": "诶？啊，那个……\n这个确实是很微薄……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚骏逸",
+      "Text": "话说……\n姐姐你为什么穿着校服啊？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "我待会有事要去学园。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……要为下次的比赛做准备。\n为自己雪耻。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚骏逸",
+      "Text": "！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚骏逸",
+      "Text": "……我也是。\n我也得去训练。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "姐妹们的母亲",
+      "Text": "看起来，大家要忙的事都很多……\n要不天黑之前就解散吧！",
+      "ChoiceDataList": [
+        "（虽说是没办法的事……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "非常喜欢家人，\n会因为大家都聚在一起而高兴的强击。\n她在这时会不会感到孤单呢——",
+      "ChoiceDataList": [
+        "说起来，强击呢？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "圣诞快乐～♪\n圣诞圣诞快快乐～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "突然，房间完全暗了下来。\n之后一道微弱的光\n伴随着强击的歌声慢慢接近了……",
+      "ChoiceDataList": [
+        "蛋糕……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "灯光亮起之后，\n桌子上放着一个不太好看的圣诞蛋糕。\n洁白的奶油上摆着的是——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚骏逸",
+      "Text": "这个人偶一样的……\n难道是，我们吗……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "嗯！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "第一个是爸爸，第二个是骏逸亲，\n第三个是姐姐，第四个是妈妈！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "然后，中间那个最小的是我！",
+      "ChoiceDataList": [
+        "那，旁边的就是……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "当然是训练员亲啦！\n我称之为『“最喜欢”蛋糕』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "这是你做的吗？\n都是你一个人完成的？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "对呀！\n找朋友问了菜谱——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "之后就都是自己做的了！\n中间还失败了很多次来着。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "该怎么说呢，我……从心里深深地觉得。\n你们都是我最喜欢的人！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "如果有了很多“最喜欢”的回忆的话，\n即使分开也不会觉得孤单吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "我想只要让今天\n成为那样的日子就好了！\n所以我没关系的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "因为我和你们，一直都是在一起的啊♡",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "强击……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "姐妹们的母亲",
+      "Text": "嗯嗯嗯，小强击。\n你真的————长大了呢～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "姐妹们的父亲",
+      "Text": "随你的便吧，虽然很想这么说！\n可是还是会很寂寞的啊……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "姐妹们的父亲",
+      "Text": "撒娇也好任性也好，\n你以后继续这样也可以的！\n强击～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "哎呀，爸爸你真是的。\n强击已经成长…………",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……呜呜。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚骏逸",
+      "Text": "姐、姐姐……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚骏逸",
+      "Text": "……嘛……我也明白的，可是。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "哎呀——，你们都怎么了！？\n我什么都没变哦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "我能撒娇和任性的人还多了一个呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "所以没事的！\n对吧训练员亲♡",
+      "ChoiceDataList": [
+        "……我吗！？",
+        "……我吗！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "训练员亲会一直陪着我的！\n因为我们是赛马娘和训练员啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "所以你们就安心吧♡",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚骏逸",
+      "Text": "怎、怎么说呢……这种心情。\n本来应该安心才对……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "训练员……\n那就请你多多关照了……",
+      "ChoiceDataList": [
+        "好、好的……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "就这样，随着属于家人的圣诞派对\n热闹地进行——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "再见了——！\n大家——！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "哈——\n过的很开心♡",
+      "ChoiceDataList": [
+        "……不会感到寂寞吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "嗯——，当然会寂寞了！\n虽然很想多和他们在一起……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "不过我说过的吧？\n和训练员亲在一起的话就没问题的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "那个，还有时间的吧？\n稍微再去玩会儿吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "机会难得，\n我想玩点上流的！",
+      "ChoiceDataList": [
+        "不是说今天要“简洁”地过吗？",
+        "不是说今天要“简洁”地过吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "这个嘛——，\n还是想转换一下心情♡",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "听我说哦，\n有个在名流之间很流行的东西！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "好像是叫丑毛衣*来着？\n也给训练员亲准备了一件，我们一起穿吧♡\n（*圣诞节时期流行的一种服装款式）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "啊哈哈哈！\n训练员亲，像棵圣诞树一样！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "就这样，和强击一起愉快地游玩到了傍晚。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "呐呐，这么难得的机会，\n我们出门去吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "就这样，\n从别墅出发接连坐了汽车和电车后，\n去到的地方是……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "呀——\n好热闹啊～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "训练员亲！\n这里是圣诞市场诶！",
+      "ChoiceDataList": [
+        "欸～卖的种类很多啊",
+        "欸～卖的种类很多啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "是啊——。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "说起来迪拜的圣诞节也很热闹哦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "那边因为现在比较暖和，\n所以可以穿着短袖见到圣诞老人♪",
+      "ChoiceDataList": [
+        "是吗……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "怎么样？\n是不是有兴趣了？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "是不是在想哪天要一起去迪拜\n过圣诞节了？",
+      "ChoiceDataList": [
+        "感觉有难度啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "迪拜的比赛在3月份。\n圣诞节的话，离远征还早得很。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "这样的话在那里住下不就好了♡",
+      "ChoiceDataList": [
+        "住下？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "要住在迪拜的梦想，\n我可还没放弃哦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "家里人一起的话，可能比较难做到……\n如果是新的家人的话，应该能实现吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "……怎么样♡\n训练员亲～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
