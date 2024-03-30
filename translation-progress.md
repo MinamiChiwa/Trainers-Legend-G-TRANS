@@ -547,6 +547,7 @@
 | 0005 | scenery         | Scenery            | 完全翻译√              | *凉月crella（Bilibili）、南千和 |
 | 0006 | 夢の原石         | 梦之原石           | 完全翻译√              | *凉月crella（Bilibili）、毫毛   |
 | 0006 | 煌めきはどこまでも| 辉煌永存           | 完全翻译√              | *凉月crella（Bilibili）、毫毛  |
+| 0201 | ヒカリ射し、芽吹くとき！ | 新芽萌动，熠熠生辉！ | 完全翻译√ | *双枪狙击twoguns（Bilibili） |
 
 ### 角色个人剧情
 
