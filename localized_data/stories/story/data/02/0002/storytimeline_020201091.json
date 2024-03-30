@@ -9,7 +9,7 @@
     },
     {
       "Name": "西沙里奥",
-      "Text": "哈……哈。\n啊…………。……呃……。",
+      "Text": "哈……哈。\n啊………………呃……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -27,7 +27,7 @@
     },
     {
       "Name": "西沙里奥",
-      "Text": "……………………………………。",
+      "Text": "……………………………………",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -39,7 +39,7 @@
     },
     {
       "Name": "",
-      "Text": "胜者在喝彩中受人赞扬，败者在阴影中泪湿脸庞。\n一生一次，『樱花赏』的战斗就这样闭幕了……。",
+      "Text": "胜者在喝彩中受人赞扬，败者在阴影中泪湿脸庞。\n一生一次，『樱花赏』的战斗就这样闭幕了……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
@@ -98,13 +98,13 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "福永",
+      "Name": "<username>",
       "Text": "莱茵。好像不止对手们……其他还有很多人，\n为了祝贺你正在赶过来哦？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "福永",
+      "Name": "<username>",
       "Text": "莱茵。好像不止对手们……其他还有很多人，\n为了祝贺你正在赶过来哦？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
@@ -146,19 +146,19 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "福永",
+      "Name": "<username>",
       "Text": "好像她原来就很憧憬东商变革。\n不仅如此，气槽和菱亚马逊――",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "福永",
+      "Name": "<username>",
       "Text": "好像她原来就很憧憬东商变革。\n不仅如此，气槽和菱亚马逊――",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "福永",
+      "Name": "<username>",
       "Text": "被历代『女王赛马娘』这样围着，\n会慌张也是没办法的吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
@@ -305,7 +305,7 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "福永",
+      "Name": "<username>",
       "Text": "（没怎么跟她说上话……我知道的，自己有愧于她。\n看到她笑着为战友送上祝贺的样子，我更加对不起她了……）",
       "ChoiceDataList": [
         "……西沙里奥――"
@@ -335,7 +335,7 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "福永",
+      "Name": "<username>",
       "Text": "（西沙里奥的话中像是察觉到了什么，那我……\n不能再沉默下去了）",
       "ChoiceDataList": [
         "……对不起，西沙里奥。其实――"
@@ -343,7 +343,7 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "福永",
+      "Name": "<username>",
       "Text": "（西沙里奥的话中像是察觉到了什么，那我……\n不能再沉默下去了）",
       "ChoiceDataList": [
         "……对不起，西沙里奥。其实――"
@@ -378,7 +378,7 @@
     },
     {
       "Name": "西沙里奥",
-      "Text": "……说真的我自己也不清楚。就算我提前冲刺了，\n我能超过如此有韧性的莱茵吗……。",
+      "Text": "……说真的我自己也不清楚。就算我提前冲刺了，\n我能超过如此有韧性的莱茵吗……",
       "ChoiceDataList": [
         "……但是。果然我，还是对你――",
         "……但是。果然我，还是对你――"
@@ -419,7 +419,7 @@
     },
     {
       "Name": "西沙里奥",
-      "Text": "训练员。我有种感觉……只要和莱茵一起，\n就能实现美好的未来……。",
+      "Text": "训练员。我有种感觉……只要和莱茵一起，\n就能实现美好的未来……",
       "ChoiceDataList": [
         "未来？"
       ],
@@ -464,7 +464,7 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "福永",
+      "Name": "<username>",
       "Text": "……好。不要再为『樱花赏』懊悔了。\n下次比赛……再努力一把，好好为她们提供指导吧！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
@@ -478,13 +478,13 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "福永",
-      "Text": "……果然。根据过去的记录……在2000m以上的距离中，\n莱茵几乎没有赢过西沙里奥……。",
+      "Name": "<username>",
+      "Text": "……果然。根据过去的记录……在2000m以上的距离中，\n莱茵几乎没有赢过西沙里奥……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "福永",
+      "Name": "<username>",
       "Text": "……『距离适性』吗――",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
