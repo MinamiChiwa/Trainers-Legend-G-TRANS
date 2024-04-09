@@ -722,7 +722,7 @@
 | 0031 | A Gleaming Mejiro Gala               | 流光溢彩，目白晚会              | 完全翻译√ | *双枪狙击twoguns（Bilibili） |
 | 0032 | ワタシモミンナノ                      | 我也是，大家的爱马              | 完全翻译√ | *双枪狙击twoguns（Bilibili） |
 | 0033 | おでんせ！和みの幸味庵                | 欢迎光临！温馨的幸味庵           | 完全翻译√ | *双枪狙击twoguns（Bilibili） |
-| 0034 | 彗星蘭の君へ～Let's dance now!～      | 致彗星兰的你～Let's dance now!～ |       |      | 
+| 0034 | 彗星蘭の君へ～Let's dance now!～      | 致彗星兰的你～Let's dance now!～ | 完全翻译√ | *双枪狙击twoguns（Bilibili） | 
 
 ### 周年庆剧情
 
