@@ -690,6 +690,7 @@
 | 04   | 巅峰赛   | Komoe | Komoe |
 | 05   | Grand Masters |       |       |
 | 06   | L'Arc    |       |       |
+| 07   | U.A.F.   | 完全翻译√ | Hacinsl |
 
 ### 活动剧情
 
@@ -767,6 +768,7 @@
 | 0004 | 巅峰赛   | Komoe | Komoe |
 | 0005 | Grand Masters |       |       |
 | 0006 | L'Arc    |       |       |
+| 0007 | U.A.F.   | 翻译中 | Hacinsl |
 
 ### 角色固定育成事件
 
