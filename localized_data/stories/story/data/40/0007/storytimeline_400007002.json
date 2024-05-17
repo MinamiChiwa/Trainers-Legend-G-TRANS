@@ -1,0 +1,507 @@
+{
+  "Title": "相信可能性！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "<chrname>的出道战结束后，\n过了一段时间的某一天。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『U.A.F.』的举办已经公开宣布，\n同时也发布了测试大会的消息——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尔菲的粉丝A",
+      "Text": "上次艾尔菲在直播中宣传的大会……\n『U.A.F.』对吧。那个，你觉得怎么样？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尔菲的粉丝B",
+      "Text": "嘛，新奇倒是很新奇。\n但是，老实说，会有很大反响吗——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尔菲的粉丝C",
+      "Text": "——毕竟有了闪耀系列赛，\n内容已经很丰富了，不是吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "闪耀系列赛"
+      ]
+    },
+    {
+      "Name": "艾尔菲的粉丝D",
+      "Text": "就是说啊～！\n如果想看到赛马娘的活跃表现，\n大家还是会去看赛跑吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "听到外界对『U.A.F.』的看法有些微妙……\n我感到些许困惑。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "在这样的变化中，\n我和<chrname>——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索侬艾尔菲",
+      "Text": "大家好！\n今天也辛苦了！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "——今天，在特雷森学园的场地内，\n参加测试大会的选手们\n进行了又一次联合训练。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索侬艾尔菲",
+      "Text": "——训练员先生，辛苦了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "都留岐涼花",
+      "Text": "很抱歉在练习后打扰您休息，\n可以给我一些时间吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "都留岐涼花",
+      "Text": "其实……有件事情，\n想要和训练员先生商量。",
+      "ChoiceDataList": [
+        "是什么呢？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索侬艾尔菲",
+      "Text": "——能不能请<chrname>\n和我一起拍视频呢？",
+      "ChoiceDataList": [
+        "什么！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "都留岐涼花",
+      "Text": "——艾尔菲。还是先和训练员先生\n说明情况比较好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索侬艾尔菲",
+      "Text": "啊！\n对不起，我有些太着急了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "都留岐涼花",
+      "Text": "训练员先生。\n请允许我解释说明一下。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "都留岐涼花",
+      "Text": "目前，为了提高『U.A.F.』的知名度，\n我们正在进行各种宣传活动。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "都留岐涼花",
+      "Text": "其中之一就是艾尔菲制作的，\n有关『U.A.F.』的比赛演示\n和解说的视频——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "都留岐涼花",
+      "Text": "如果可以的话，\n我们希望<chrname>也可以参与其中。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "都留岐涼花",
+      "Text": "——闪耀系列赛现役选手的参加，\n对于『U.A.F.』具有非常重要的意义。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "都留岐涼花",
+      "Text": "通过和艾尔菲一同出镜，\n我们希望更广泛地向外界宣传\n此次比赛的选手阵容之雄厚。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索侬艾尔菲",
+      "Text": "——还有，我想采用实战的形式拍摄！\n这样一来，比赛的热情和紧张感才能\n更好地传达出来！",
+      "ChoiceDataList": [
+        "那么，对手是<chrname>吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索侬艾尔菲",
+      "Text": "没错！见识到<chrname>充满热情的的训练后，\n我很看好她！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "都留岐涼花",
+      "Text": "目前看来，只有在联合训练中\n才会有和其他选手竞争的机会。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "都留岐涼花",
+      "Text": "这将是宝贵的实战机会……\n您觉得怎么样？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "确实，以接近正式比赛的形式竞争的机会\n现在还不是那样。\n我觉得有接受提案的价值……。",
+      "ChoiceDataList": [
+        "和<chrname>商量一下！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "——后来，经过与<chrname>的商量，\n我们决定参加视频的拍摄。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "后来的某天，和艾尔菲一起，\n我们开始了实战形式的\n竞技介绍视频的拍摄——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索侬艾尔菲",
+      "Text": "——那么首先，从投掷名为\n『动力之锤』的巨大锤子开始吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "动力之锤"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "『动力之锤』是一项投掷大小数倍于人类\n所用的锤子的物体，\n来比试飞行距离的竞技。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "正是因为马娘独具的力量，\n才体现出其名称中的“动力”。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索侬艾尔菲",
+      "Text": "那我先来了哦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索侬艾尔菲",
+      "Text": "——哦哦哦哦哦哦哦哦哦！！！\n来了——————————！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "艾尔菲投掷的巨大铁锤，\n描绘出了优美的抛物线——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（咚！！！！！！！！！！！！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "伴随着摇动大地的轰鸣声，\n打出了我从未见过的记录！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索侬艾尔菲",
+      "Text": "呼……——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "接下来的竞技是『神速空手道』。\n参赛者需要在限定的时间内\n破坏周围的木板。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "神速空手道"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "这是一场可以尽情展现\n马娘独有的爆发力和力量的项目——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索侬艾尔菲",
+      "Text": "我上了！！\n——啊啊啊啊啊啊啊啊啊！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（哒哒哒哒哒哒哒哒哒！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "——艾尔菲用像是拥有分身一样的速度，\n把周围的木板几乎全部击碎了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "——之后，到了最后一项竞技，\n『地狱水球』的拍摄。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "地狱水球"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "选手需要在岸上拿球，然后进入泳池，\n向水面上的目标投篮。\n比试的是在规定时间内完成的次数。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "多次往返于水中和岸上需要极高的耐力和速度，\n这项竞技即使是看着也让人窒息——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索侬艾尔菲",
+      "Text": "——啊啊啊啊啊啊啊啊啊！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "艾尔菲以几乎不曾降低的速度，\n连续将球准确地投进了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索侬艾尔菲",
+      "Text": "……好啦！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索侬艾尔菲",
+      "Text": "……终于完成了～！我拼尽全力啦～！",
+      "ChoiceDataList": [
+        "（好厉害……！！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "赛后的总结表明，艾尔菲在这15项竞技中\n表现惊人。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "<chrname>虽然也全力参加了比赛，\n但在综合得分上还是被\n艾尔菲拉开了很大的差距……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索侬艾尔菲",
+      "Text": "训练员先生，<chrname>同学！\n今天真的辛苦了！",
+      "ChoiceDataList": [
+        "今天的成绩很不错呢！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索侬艾尔菲",
+      "Text": "嘿嘿，谢谢！\n这都是因为可以和<chrname>同学\n全力竞争才有的呢！而且——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索侬艾尔菲",
+      "Text": "我，作为一名运动员，\n同时也是『U.A.F.』的招牌，\n不愿遭遇失败！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索侬艾尔菲",
+      "Text": "希望和大家一起举办精彩的大会……！\n成为No.1的马娘运动员！",
+      "ChoiceDataList": [
+        "哦……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我突然很好奇，拥有如此体能和热情的她，\n为什么要成为一名马娘主播呢？",
+      "ChoiceDataList": [
+        "我想请教一些事情"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索侬艾尔菲",
+      "Text": "在！什么事情呢！？",
+      "ChoiceDataList": [
+        "……为什么要成为马娘主播呢？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索侬艾尔菲",
+      "Text": "当然是为了向全世界传播体育的乐趣！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索侬艾尔菲",
+      "Text": "……话是这么说，\n我一开始并不是想成为马娘主播的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索侬艾尔菲",
+      "Text": "训练员先生可能也知道，\n我原来是特雷森学园的学生——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索侬艾尔菲",
+      "Text": "……从小就喜欢运动的我，\n对赛跑有着相当的憧憬。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索侬艾尔菲",
+      "Text": "所以，当我拼命考进了特雷森的时候，\n我真的很开心——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索侬艾尔菲",
+      "Text": "结果，在比赛中，作为一名选手，\n我始终无法取得突出的成绩。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索侬艾尔菲",
+      "Text": "但是，我并没有后悔。\n相反，我有种悸动……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索侬艾尔菲",
+      "Text": "进行真正的比赛……挑战自己的极限……！\n通过竞技让大家建立联系……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索侬艾尔菲",
+      "Text": "能够让我做到这一点的体育，\n果然是最棒的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索侬艾尔菲",
+      "Text": "正是因为在特雷森学园的生活，\n遇到的很多拼命努力的人，\n才让我有了这样的想法！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索侬艾尔菲",
+      "Text": "——所以，在升入大学后，\n我开始尝试各种各样的体育项目，\n每一个都是那么有趣……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索侬艾尔菲",
+      "Text": "……但是在这样做的过程中，\n我还是觉得『有些可惜』。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索侬艾尔菲",
+      "Text": "赛马娘也应该可以享受赛跑之外的运动。\n大家也都是可以兴奋起来的啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索侬艾尔菲",
+      "Text": "所以，我开始了以传播体育乐趣为目标的\n马娘主播之路。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索侬艾尔菲",
+      "Text": "而『U.A.F.』正是我所追求的，\n让马娘在体育项目中展现新可能的机会……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索侬艾尔菲",
+      "Text": "我想把『U.A.F.』打造成一个\n让马娘在赛跑之外也可以闪耀的，\n世界级的大会！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "对于艾尔菲的这番话，\n我作为一个体育从业者，\n很难不感到认同……！",
+      "ChoiceDataList": [
+        "——让我们一同将『U.A.F.』变成一场精彩盛会吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "索侬艾尔菲",
+      "Text": "！没问题！\n今后也请多多关照！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……就这样，在被艾尔菲的热情所触动之余，\n我和<chrname>也找到了需要改进的地方——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我再次受到了鼓舞，\n决心和<chrname>一起努力，\n将『U.A.F.』打造成一场精彩的比赛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
