@@ -54,12 +54,12 @@
 | 比赛实况`race_jikkyo_message.json` | 完全翻译√      | 南千和、毫毛、Chihyuen                                       |
 | 比赛解说`race_jikkyo_comment.json` | 完全翻译√      | 南千和、毫毛、Chihyuen                                       |
 | 单格漫画标题                        | 完全翻译√      | *-CLCL-（Bilibili）、南千和、Chihyuen                        |
-| 秘密                               | 完全翻译√      | 南千和、Chihyuen、*双枪狙击twoguns（Bilibili）                |
-| 技能名及描述                       | 翻译中（长期） | [B站赛马娘中文WIKI](https://wiki.biligame.com/umamusume/%E6%8A%80%E8%83%BD%E9%80%9F%E6%9F%A5%E8%A1%A8)、*伊洛伊白（Bilibili）、 *双枪狙击twoguns（Bilibili）、 *シキ_（Bilibili）、南千和、毫毛 |
+| 秘密                               | 完全翻译√      | 南千和、Chihyuen、双枪狙击twoguns                |
+| 技能名及描述                       | 翻译中（长期） | [B站赛马娘中文WIKI](https://wiki.biligame.com/umamusume/%E6%8A%80%E8%83%BD%E9%80%9F%E6%9F%A5%E8%A1%A8)、*伊洛伊白（Bilibili）、 双枪狙击twoguns、 *シキ_（Bilibili）、南千和、毫毛 |
 | 角色档案                           | 翻译中（长期） | ███、[萌娘百科](https://zh.moegirl.org.cn/%E8%B5%9B%E9%A9%AC%E5%A8%98_Pretty_Derby/%E8%AF%91%E5%90%8D%E5%AF%B9%E7%85%A7%E8%A1%A8)、*伊洛伊白（Bilibili）、[B站赛马娘中文WIKI](https://wiki.biligame.com/umamusume)、Chihyuen |
 | 闪耀期刊                           | 翻译中（长期） | Komoe                                                         |
 | 支援卡小故事                       | 翻译中（长期） | 南千和、Komoe、Chihyuen、███                               |
-| 主页日常对话                       | 翻译中（长期） | Komoe、*双枪狙击twoguns（Bilibili）                            |
+| 主页日常对话                       | 翻译中（长期） | Komoe、双枪狙击twoguns                            |
 | 剧情活动介绍文                     | 翻译中（长期） | Komoe、[B站赛马娘中文WIKI](https://wiki.biligame.com/umamusume)、Chihyuen |
 
 ## 图像资源
@@ -94,7 +94,7 @@
 | 1030 | 涙ひかって明日になれ！            | 完全翻译√ | *匿名萌娘百科用户 |
 | 1031 | BLAZE                             | 完全翻译√ | *雪村あおいaoi（Bilibili）    |
 | 1032 | ユメヲカケル！                    | 完全翻译√ | TV动画第二季、南千和         |
-| 1033 | KIRARI MAGIC SHOW                | 完全翻译√ | *Kitasanゞ卫ちゃ（Bilibili） |
+| 1033 | KIRARI MAGIC SHOW                | 完全翻译√ | Kitasanゞ卫ちゃ |
 | 1034 | ぴょいっと♪はれるや！             | 完全翻译√ | 南千和                       |
 | 1035 | WINnin’ 5 －ウイニング☆ファイヴ－ | 完全翻译√ | 南千和                       |
 | 1036 | GIRLS' LEGEND U                   | 完全翻译√ | 毫毛                         |
@@ -104,15 +104,16 @@
 | 1051 | 笑顔の宝物 -Beyond The Future!-   | 完全翻译√ | *凉月crella（Bilibili）、毫毛 |
 | 1053 | Gaze on Me!                      | 完全翻译√（待改进） | 南千和 |
 | 1054 | Ms. VICTORIA                     | 完全翻译√ | 毫毛                         |
-| 1058 | Everlasting BEATS                | 完全翻译√ | *Kitasanゞ卫ちゃ（Bilibili） |
-| 1059 | Overrunner!                      | 完全翻译√ | *Kitasanゞ卫ちゃ（Bilibili） |
+| 1058 | Everlasting BEATS                | 完全翻译√ | Kitasanゞ卫ちゃ |
+| 1059 | Overrunner!                      | 完全翻译√ | Kitasanゞ卫ちゃ |
 | 1060 | DRAMATIC JOURNEY                 | 完全翻译√ | 毫毛                         |
 | 1081 | Glorious Moment！                | 完全翻译√ | 毫毛                         |
-| 1082 | L'Arc de gloire                  | 完全翻译√ | *Kitasanゞ卫ちゃ（Bilibili） |
-| 1083 | トレセン音頭                      | 完全翻译√ | *Kitasanゞ卫ちゃ（Bilibili） |
-| 1084 | ソシテミンナノ                    | 完全翻译√ | *Kitasanゞ卫ちゃ（Bilibili） |
-| 1088 | 爆熱マイソウル                    | 完全翻译√ | *Kitasanゞ卫ちゃ（Bilibili） |
-| 1089 | U.M.A. NEW WORLD!!               | 完全翻译√ | *Kitasanゞ卫ちゃ（Bilibili） |
+| 1082 | L'Arc de gloire                  | 完全翻译√ | Kitasanゞ卫ちゃ |
+| 1083 | トレセン音頭                      | 完全翻译√ | Kitasanゞ卫ちゃ |
+| 1084 | ソシテミンナノ                    | 完全翻译√ | Kitasanゞ卫ちゃ |
+| 1088 | 爆熱マイソウル                    | 完全翻译√ | Kitasanゞ卫ちゃ |
+| 1089 | U.M.A. NEW WORLD!!               | 完全翻译√ | Kitasanゞ卫ちゃ |
+| 1126 | Ready!! Steady!! Derby!!         | 完全翻译√ | Kitasanゞ卫ちゃ |
 
 ## 角色及皮肤名
 
@@ -285,7 +286,7 @@
 | 109101 | [Voyage étincelant]          | [Voyage étincelant]     | ヴィブロス         | 强击                           |
 | 1092   |                              |                         | ダンツフレーム     | 烈焰快驹                        |
 | 109301 | [Prism]                      | [Prism]                 | ケイエスミラクル   | 凯斯奇迹                        |
-| 1094   |                              |                         | ジャングルポケット | 森林宝穴                        |
+| 109401 | [王者の喊声]                  | [王者的呐喊]            | ジャングルポケット | 森林宝穴                        |
 | 1096   |                              |                         | ノーリーズン       | 莫名其妙                        |
 | 1097   |                              |                         | スティルインラブ   | 爱如往昔                        |
 | 109801 | [陰陽八卦☆開運衣]            | [阴阳八卦☆开运衣]       | コパノリッキー     | 小林历奇                        |
@@ -318,7 +319,7 @@
 | 9003   |                              |                         | 乙名史記者         | 乙名史记者                      |
 | 9004   |                              |                         | 桐生院トレーナー   | 桐生院训练员                    |
 | 9005   |                              |                         | 安心沢刺々美       | 安心泽刺刺美                    |
-| 9006   |                              |                         | 樫本理子           | 樫本理子                        |
+| 9006   |                              |                         | 樫本理子           | 㭴本理子                        |
 | 9007   |                              |                         | ビューティー安心沢 | 美丽安心泽                      |
 | 9008   |                              |                         | ライトハロー       | 轻柔致意                        |
 | 9040   |                              |                         | ダーレーアラビアン | 达利阿拉伯                      |
@@ -500,7 +501,7 @@
 | 109101 | 强击         | 完全翻译√        | loschi                                                |
 | 1092   | 烈焰快驹     |                  |                                                      |
 | 109301 | 凯斯奇迹     |                  |                                                      |
-| 1094   | 森林宝穴     |                  |                                                      |
+| 109401 | 森林宝穴     |                  |                                                      |
 | 1096   | 莫名其妙     |                  |                                                      |
 | 1097   | 爱如往昔     |                  |                                                      |
 | 109801 | 小林历奇     | 完全翻译√        | Komoe、*易妮子（Bilibili）                            |
@@ -529,7 +530,7 @@
 | 9003   | 乙名史记者   | Komoe            | Komoe                                                |
 | 9004   | 桐生院训练员 | 完全翻译√         | Aili1104、毫毛                                       |
 | 9005   | 安心泽刺刺美 | 完全翻译√         | Aili1104、毫毛、Chihyuen                             |
-| 9006   | 樫本理子     | 完全翻译√         | Aili1104、毫毛、Komoe                                |
+| 9006   | 㭴本理子     | 完全翻译√         | Aili1104、毫毛、Komoe                                |
 | 9007   | 美丽安心泽   |                  |                                                      |
 | 9008   | 轻柔致意     | Komoe           | Komoe                                                |
 | 9040   | 达利阿拉伯   |                  |                                                      |
@@ -561,7 +562,7 @@
 | 0005 | scenery         | Scenery            | 完全翻译√              | *凉月crella（Bilibili）、南千和 |
 | 0006 | 夢の原石         | 梦之原石           | 完全翻译√              | *凉月crella（Bilibili）、毫毛   |
 | 0006 | 煌めきはどこまでも| 辉煌永存           | 完全翻译√              | *凉月crella（Bilibili）、毫毛  |
-| 0201 | ヒカリ射し、芽吹くとき！ | 新芽萌动，熠熠生辉！ | 完全翻译√ | *双枪狙击twoguns（Bilibili） |
+| 0201 | ヒカリ射し、芽吹くとき！ | 新芽萌动，熠熠生辉！ | 完全翻译√ | 双枪狙击twoguns |
 
 ### 角色个人剧情
 
@@ -656,7 +657,7 @@
 | 1085 | 第一红宝石 |                  |                                                          |
 | 1086 | 目白高峰   |                  |                                                          |
 | 1087 | 真弓快车   | Komoe            | Komoe                                                    |
-| 1088 | 里见皇冠   | 完全翻译√        | *双枪狙击twoguns（Bilibili）                              |
+| 1088 | 里见皇冠   | 完全翻译√        | 双枪狙击twoguns                              |
 | 1089 | 高尚骏逸   | 完全翻译√        | 毫毛                                                     |
 | 1090 | 极峰       |                  |                                                          |
 | 1091 | 强击       | 完全翻译√        | loschi                                                    |
@@ -723,23 +724,23 @@
 | 0017 | 鉄翼蒸気奇譚                          | 铁翼蒸汽奇谭                     | Komoe | Komoe |
 | 0018 | デイズ・イン・ア・フラッシュ           | Days in a Flash                 | Komoe | Komoe |
 | 0019 | おもいより、おもいかけ                 | 同心而聚，同心而驰               | Komoe | Komoe |
-| 0020 | Illuminate the Heart                 | Illuminate the Heart           | 完全翻译√ | *双枪狙击twoguns（Bilibili）、 *シイー(Bilibili) |
+| 0020 | Illuminate the Heart                 | Illuminate the Heart           | 完全翻译√ | 双枪狙击twoguns、 *シイー(Bilibili) |
 | 0021 | Happy new future ～朝焼けの絆～       | Happy new future ～朝霞之牵绊～ | Komoe | Komoe |
 | 0022 | スイートメモリー・ティータイム         | 甜蜜回忆・茶会时光              | Komoe | Komoe |
 | 0023 | Leap into a New World!               | Leap into a New World!         |      |      |
 | 0024 | されば君、かなし                      | 正因如此，你才美丽              |      |      |
 | 0025 | 神算鬼謀！？春祭！熱闘鬼ドッジ         | 神算鬼谋！？春日祭！热血激斗躲鬼球 |      |      |
 | 0026 | 宣誓、戦う君へのプロポーズ             | 誓约，向奋战的你献上爱意        |       |      |
-| 0027 | #summer #besties                     | #summer #besties               | 完全翻译√ | *双枪狙击twoguns（Bilibili） |
-| 0028 | 夏の陽は、青く凪ぐ                    | 夏日炽阳，止于浩渺              | 完全翻译√ | *双枪狙击twoguns（Bilibili） |
-| 0029 | フェアウェルを継ぎ接いで              | 于离别中重“缝”                  | 完全翻译√ | *双枪狙击twoguns（Bilibili） |
-| 0030 | 秋さびて、想ひ綴る                    | 寂寥秋色，连缀思念              | 完全翻译√ | *双枪狙击twoguns（Bilibili） |
-| 0031 | A Gleaming Mejiro Gala               | 流光溢彩，目白晚会              | 完全翻译√ | *双枪狙击twoguns（Bilibili） |
-| 0032 | ワタシモミンナノ                      | 我也是，大家的爱马              | 完全翻译√ | *双枪狙击twoguns（Bilibili） |
-| 0033 | おでんせ！和みの幸味庵                | 欢迎光临！温馨的幸味庵           | 完全翻译√ | *双枪狙击twoguns（Bilibili） |
-| 0034 | 彗星蘭の君へ～Let's dance now!～      | 致彗星兰的你～Let's dance now!～ | 完全翻译√ | *双枪狙击twoguns（Bilibili） |
-| 0035 | 下剋上、兵どもが鬨の声                | 下克上，骁兵勇将齐战吼           | 完全翻译√ | *双枪狙击twoguns（Bilibili） |
-| 0036 | 拝啓、波真珠の私より                  | 敬启，独一无二的我               | 完全翻译√ | *双枪狙击twoguns（Bilibili） |
+| 0027 | #summer #besties                     | #summer #besties               | 完全翻译√ | 双枪狙击twoguns |
+| 0028 | 夏の陽は、青く凪ぐ                    | 夏日炽阳，止于浩渺              | 完全翻译√ | 双枪狙击twoguns |
+| 0029 | フェアウェルを継ぎ接いで              | 于离别中重“缝”                  | 完全翻译√ | 双枪狙击twoguns |
+| 0030 | 秋さびて、想ひ綴る                    | 寂寥秋色，连缀思念              | 完全翻译√ | 双枪狙击twoguns |
+| 0031 | A Gleaming Mejiro Gala               | 流光溢彩，目白晚会              | 完全翻译√ | 双枪狙击twoguns |
+| 0032 | ワタシモミンナノ                      | 我也是，大家的爱马              | 完全翻译√ | 双枪狙击twoguns |
+| 0033 | おでんせ！和みの幸味庵                | 欢迎光临！温馨的幸味庵           | 完全翻译√ | 双枪狙击twoguns |
+| 0034 | 彗星蘭の君へ～Let's dance now!～      | 致彗星兰的你～Let's dance now!～ | 完全翻译√ | 双枪狙击twoguns |
+| 0035 | 下剋上、兵どもが鬨の声                | 下克上，骁兵勇将齐战吼           | 完全翻译√ | 双枪狙击twoguns |
+| 0036 | 拝啓、波真珠の私より                  | 敬启，独一无二的我               | 完全翻译√ | 双枪狙击twoguns |
 
 ### 周年庆剧情
 
@@ -751,8 +752,8 @@
 | 0001 | 1周年    | Komoe | Komoe |
 | 0002 | 1.5周年  | Komoe | Komoe |
 | 0003 | 2周年    |      |      |
-| 0005 | 2.5周年  | 完全翻译√ | *双枪狙击twoguns（Bilibili） |
-| 0006 | 3周年    | 完全翻译√ | *双枪狙击twoguns（Bilibili） | 
+| 0005 | 2.5周年  | 完全翻译√ | 双枪狙击twoguns |
+| 0006 | 3周年    | 完全翻译√ | 双枪狙击twoguns | 
 
 ### 特别活动对话
 
@@ -785,7 +786,7 @@
 | ------ | ---------- | --------- | ----- |
 | 100101 | 特别周     | Komoe     | Komoe |
 | 100102 | 特别周     | Komoe     | Komoe |
-| 100103 | 特别周     | Komoe     | Komoe、*双枪狙击twoguns（Bilibili） |
+| 100103 | 特别周     | Komoe     | Komoe、双枪狙击twoguns |
 | 100201 | 无声铃鹿   | Komoe     | Komoe |
 | 100202 | 无声铃鹿   |           |       |
 | 100301 | 东海帝王   | Komoe     | Komoe |
@@ -823,7 +824,7 @@
 | 101702 | 鲁道夫象征 | Komoe     | Komoe |
 | 101801 | 气槽       | Komoe     | Komoe |
 | 101802 | 气槽       | Komoe     | Komoe |
-| 101901 | 爱丽数码   | Komoe     | Komoe、*双枪狙击twoguns（Bilibili） |
+| 101901 | 爱丽数码   | Komoe     | Komoe、双枪狙击twoguns |
 | 101902 | 爱丽数码   | Komoe     | Komoe |
 | 102001 | 青云天空   | Komoe     | Komoe |
 | 102002 | 青云天空   |           |       |
@@ -873,7 +874,7 @@
 | 104301 | 新光风     | Komoe     | Komoe |
 | 104401 | 东商变革   | Komoe     | Komoe |
 | 104402 | 东商变革   |           |       |
-| 104501 | 超级溪流   | Komoe     | Komoe、*双枪狙击twoguns（Bilibili） |
+| 104501 | 超级溪流   | Komoe     | Komoe、双枪狙击twoguns |
 | 104502 | 超级溪流   | Komoe     | Komoe |
 | 104503 | 超级溪流   |           |       |
 | 104601 | 醒目飞鹰   | Komoe     | Komoe |
@@ -891,8 +892,8 @@
 | 105301 | 青竹回忆   | Komoe     | Komoe |
 | 105302 | 青竹回忆   |           |       |
 | 105401 | 微光飞驹   |           |       |
-| 105501 | 美丽周日   | 部分翻译  | *双枪狙击twoguns（Bilibili）      |
-| 105601 | 待兼福来   | Komoe     | Komoe、*双枪狙击twoguns（Bilibili） |
+| 105501 | 美丽周日   | 部分翻译  | 双枪狙击twoguns      |
+| 105601 | 待兼福来   | Komoe     | Komoe、双枪狙击twoguns |
 | 105602 | 待兼福来   |           |       |
 | 105701 | 千明代表   |           |       |
 | 105801 | 名将怒涛   | Komoe     | Komoe |
@@ -950,7 +951,7 @@
 | 109101 | 强击       | 完全翻译√ | loschi |
 | 1092   | 烈焰快驹   |           |       |
 | 109301 | 凯斯奇迹   |           |       |
-| 1094   | 森林宝穴   |           |       |
+| 109401 | 森林宝穴   |           |       |
 | 1096   | 莫名其妙   |           |       |
 | 1097   | 爱如往昔   |           |       |
 | 109801 | 小林历奇   | Komoe     | Komoe |
@@ -1037,7 +1038,7 @@
 | [トレセン学園]               | [特雷森学园]待兼诗歌剧                |
 | [トレセン学園]               | [特雷森学园]八重无敌                  |
 | [トレセン学園]               | [特雷森学园]荒漠英雄                  |
-| [トレセン学園]               | [特雷森学园]樫本理子                  |
+| [トレセン学園]               | [特雷森学园]㭴本理子                  |
 | [トレセン学園]               | [特雷森学园]采珠                      |
 | [トレセン学園]               | [特雷森学园]樱花千代王                |
 | [トレセン学園]               | [特雷森学园]川上公主                  |
@@ -1197,7 +1198,7 @@
 | [押して忍べど燃ゆるもの]     | [按捺着燃烧之物]八重无敌              |
 | [夢はホントに叶うんだ！]     | [梦想是会真正实现的！]胜利奖券        |
 | [幸せは曲がり角の向こう]     | [幸福就在转角的前方]米浴          |
-| [徹底管理主義]               | [彻底管理主义]樫本理子                |
+| [徹底管理主義]               | [彻底管理主义]㭴本理子                |
 | [絶対皇帝]                   | [绝对皇帝]鲁道夫象征                 |
 | [今ぞ盛りのさくら花]         | [正是樱花盛开时]樱花千代王            |
 | [花嫁たるもの！！]           | [作为新娘！！]川上公主                |
