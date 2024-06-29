@@ -1,0 +1,357 @@
+{
+  "Title": "记忆！回想起那天的事",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "某一天――我想找一些\n对工作有帮助的书籍但很迷茫，秋川理事长就\n带我去了她常光顾的书店。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "发现！\u3000<username>训练员，\n在这边的书架！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "这本就是我参考过的营养学书籍。\n旁边那本我也很推荐。好像是在日高做实地考察的\n教授写的。还有……。",
+      "ChoiceDataList": [
+        "（全都是很有帮助的书啊……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "哇哈哈哈！\u3000买了这么多书啊，\n<username>训练员！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "纸袋里的书接近10本。\n还挺沉的……但有了这些资料，\n一定能为<chrname>做出好的指导。",
+      "ChoiceDataList": [
+        "理事长，您对营养学很了解呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "赛马娘的成长就是我的愿望。\n因此必须要学习！\u3000你说是吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "和非常努力的你有着同样的理由――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "……――啊。",
+      "ChoiceDataList": [
+        "……理事长？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "这，这香味――\n……是妈妈！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我跟着秋川理事长，\n进到了一家精品店。\n看见她在摆放香皂的货架前呆呆站着。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "<username>训练员！\n谢，谢罪！\u3000抱歉丢下你跑掉了！\n但是――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "――但是这香味。\n和我母亲的香味太相像了……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "秋川理事长的母亲，\n也是前学园理事长。如今她\n离开了学园，听说经常乘坐飞机往返于世界各地。",
+      "ChoiceDataList": [
+        "（理事长是被这股香味吸引了……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "店员",
+      "Text": "这些是北美运过来的\n进口商品！\n虽然数量有限，但广受顾客好评！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "店员",
+      "Text": "您要不要试用一下？\n我们准备有试用装哦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "试用！？\u3000不，不不不！\n试用什么的从来没想过！",
+      "ChoiceDataList": [
+        "您不是喜欢这样的香味吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "是喜欢！\n不管是这边的扑鼻浓香，\n还是那边的淡淡幽香……都是妈妈的香味。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "因，因此！\u3000尚早！\n我用这种香味还是太早了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "像妈妈那样优秀，受人敬仰，\n只有那样的大人才配拥有的香气――！！",
+      "ChoiceDataList": [
+        "――理事长您也很优秀啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "诶……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我心里清楚，没有比秋川理事长更适合\n当理事长的人选了。尽管是\n短暂的时间，但我在她身边见证了她的努力――",
+      "ChoiceDataList": [
+        "至少我觉得您很优秀",
+        "至少我觉得您很优秀"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我伸手拿货架上的香皂。\n价格也实惠。就当是今天理事长陪我买书的\n答谢，也许这个礼物正好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "……<username>训练员？",
+      "ChoiceDataList": [
+        "购买让身心放松的幽香香皂",
+        "购买让精神振奋的浓香香皂"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "店员",
+      "Text": "多谢惠顾～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "真，真的可以吗……。\n让我收下这个……。",
+      "ChoiceDataList": [
+        "是的，您能收下这个吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "……嗯，当然可以。\n那我就收下了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "……妈妈她，经常在休息日\n用这种香皂。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "『我拿到休假了，一起去看比赛吧！』\n妈妈经常这样子\n带我去赛场看比赛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "……然后握着我的手，\n一个劲的一个劲的为赛马娘们加油。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "扯着嗓子大声呐喊，非常拼命。\n用尽全力为奔跑的少女们\n送去充满热情的声援――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "――和赛马娘一起欢笑，一起流泪。\n那是属于我们的幸福。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "……呵呵。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "是妈妈的香味――……。",
+      "ChoiceDataList": [
+        "理事长您很喜欢母亲呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "……嗯呣。最喜欢了。\n我最喜欢妈妈了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "……谢谢你，训练员。\n我会好好珍惜你给我的香皂。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "――对了！\n下次有机会和妈妈见面的话，\n就用一下这个香皂吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "也许妈妈就会夸我，长大了，\n能和妈妈用一样的香皂了呢……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "店员",
+      "Text": "多谢惠顾～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "真，真的可以吗……。\n让我收下这个……。",
+      "ChoiceDataList": [
+        "是的，您能收下这个吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "……嗯，当然可以。\n那我就收下了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "……妈妈她经常，去工作时\n用这种香皂。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "『来创造一个更精彩的未来吧』\n这句话是妈妈的口头禅。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "只要是能帮助赛马娘的改革，\n母亲什么都愿意尝试。保守派的反对意见\n她也会亲自听取，花好几个小时磋商。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "然后和大家齐手并进，将学园发扬光大。\n她的侧脸――真的很帅。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "到现在我迷茫的时候，还是会想起那天的妈妈。\n――她是指引我前行的明灯。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "……呵呵。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "――……果然，这是妈妈的香味。",
+      "ChoiceDataList": [
+        "理事长很敬仰自己的母亲呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "……嗯呣。作为她的女儿，\n我感觉非常的骄傲。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "……谢谢你，训练员。\n我会好好珍惜你给我的香皂。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "为了成为配得上这香味的理事长，\n我发誓今后一定会再接再厉。",
+      "ChoiceDataList": [
+        "不，不用那么严肃"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "哈哈哈！\n对我来说，\n就是这么重要的充满回忆的香味。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "……――然后有机会，能再见到妈妈时，\n就用上这个香皂。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "――到那时候，希望妈妈\n能夸夸我长大了吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
