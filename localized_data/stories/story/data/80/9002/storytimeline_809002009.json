@@ -1,0 +1,276 @@
+{
+  "Title": "安息！然后迎接明天",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "与<chrname>的三年时光\n暂时告一段落的某天。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "提议！\u3000<username>训练员！\n这个周末你有空吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "让我带你去，\n我的珍藏地点吧！",
+      "ChoiceDataList": [
+        "珍藏地点……！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "让秋川理事长都这么说的地方。\n我满怀期待，等到了约定那天――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "盛况！\u3000今天这里也很热闹啊！\n大家等着看比赛都快等不及了！",
+      "ChoiceDataList": [
+        "没想到这里就是珍藏地点……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "哈哈哈！\u3000不好意思！\n是不是太过熟悉了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "但是也是非常重要的地方吧？\n不管是对我们来说，还是对赛马娘们。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "――我说，<username>训练员。\n你还记得<chrname>的\n出道战吗？",
+      "ChoiceDataList": [
+        "当然记得！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我还记得。第一次进入休息室时的紧张。\n还有目送<chrname>前往\n大舞台时的心情。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我还记得。观众的热情欢呼。\n还有<chrname>的奔跑。全都记得。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "嗯，我也还记得。\n<chrname>她们，还有你们的样子。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "哼哼，这可不是比喻哦？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "……虽然不如你们训练员，\n但毕竟我也是亲眼见过，\n学生们努力的样子的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "今后也会是这样。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "展示台的赛马娘A",
+      "Text": "我会加油的ーー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "――哦！\u3000有朝气！\n第一场比赛的赛马娘已经出场了呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "呵呵。\n那个学生早上打招呼的声音也很大啊。\n不错！\u3000比赛时也很有气势。",
+      "ChoiceDataList": [
+        "诶！是这样啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "嗯呣！\u3000不仅是那孩子，\n她的训练员也挺有精神的――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中坚训练员",
+      "Text": "冲啊ーーー！\n你绝对会是第一！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "他们挺相似的吧？",
+      "ChoiceDataList": [
+        "确实！真的很像！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "――哦，第二位赛马娘也出来了！\n那个学生还是挺强的啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西装训练员",
+      "Text": "别，别别别……别紧张哦~~！\n就，就就像平常那样，深呼吸……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "展示台的赛马娘B",
+      "Text": "我准备很充分啦，训练员！\n别担心――好好看着我吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "哈哈哈！\u3000爱操心的训练员，\n靠两个人独一无二的信任组成的搭档！\n这种凹凸关系也是十分美好！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "然后是第三位赛马娘，那个学生特别机灵。\n她的老师也经常夸――",
+      "ChoiceDataList": [
+        "等等，理事长！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "嗯？",
+      "ChoiceDataList": [
+        "难道说您记得我们所有人的样子――！？",
+        "难道说您记得我们所有人的样子――！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "当然了！\u3000赛马娘也好训练员也好，\n你们都是学园的一份子啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "你们的模样还有平时的表现，我都记在心里呢！",
+      "ChoiceDataList": [
+        "真，真的吗……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "――哈哈。\n嗯，千真万确。所以――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "加油啊，训练员。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "你们跨过高山大海，\n拿到今天的成绩，一切都有人看在眼里。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "那个人至今为止，还有从今往后。\n都会相信你们，能克服一切困难。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "请你们也在心里记住。\n记住一直有人在相信并支持着你们。",
+      "ChoiceDataList": [
+        "……理事长"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "然后我和秋川理事长一起，\n观看完了赛马娘们的出道战。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "……好！\u3000那训练员哟！",
+      "ChoiceDataList": [
+        "我在，理事长！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "记得抽空出来玩啊！",
+      "ChoiceDataList": [
+        "好！……嗯！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "哈哈哈！\n不管成长了多少，休息总是必要的！\n这点一定要记住哦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "所以今后也多出来玩吧。\n……偶尔，我们也可以一起出个门。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "而且！\u3000我现在，\n特别想吃香草冰淇淋。……你怎么说？",
+      "ChoiceDataList": [
+        "我想想……那就一起去吃吧？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "感谢！\u3000那接下来，\n就带你去我“珍藏”的\n咖啡馆吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
