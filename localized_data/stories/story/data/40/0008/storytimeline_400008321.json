@@ -1,0 +1,332 @@
+{
+  "Title": "厨房即战场",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "某天中午。特别周\n来到了常光顾的西餐厅。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "食堂服务员",
+      "Text": "不好意思久等了～，小特！\n这是你的水！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "没事！\u3000……今天看起来\n比平时都要忙，发生什么了吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "食堂服务员",
+      "Text": "其实，这家店上电视了！\n现在人手严重不足啊～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "啊，原来是这样啊！\n嗯嗯ー……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "――请问！\n我可以帮到什么吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "欢迎光临ー！\n这是您的水――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "诶，哇！\u3000是西沙里奥～！\n下午好！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "西沙里奥"
+      ]
+    },
+    {
+      "Name": "西沙里奥",
+      "Text": "诶，特前辈！？\n为什么您在端水……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "嘿嘿。我是临时帮手！\n店里太火爆了，人手不足。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "食堂服务员",
+      "Text": "小特～！\n不好意思厨房需要帮忙ー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "好的！！\u3000我这就来！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西沙里奥",
+      "Text": "…………。\n那个，我也来帮忙！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "厨师长",
+      "Text": "喂，炸虾已经出锅了！\n套餐里的蛋包饭还没好吗！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "不，不好意思现在在做！\n――唔噢噢噢噢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西沙里奥",
+      "Text": "奶汁烤菜做好了～♪\n麻烦送到5号桌！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西沙里奥",
+      "Text": "特前辈。我现在有空，下个订单\n――汉堡肉让我来做吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "哇，不愧是西沙里奥！\n做事真快啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "不过我没问题的！\u3000我会……\n嗯！\u3000我会想办法的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "比起这个！\u3000新来的服务员，帮客人点单时\n陷入困难了，你去帮帮忙吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西沙里奥",
+      "Text": "……好的，我知道了。\n援助新人就交给我吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "食堂服务员",
+      "Text": "抱歉哦小特！\n厨房本来就忙……谢谢你来帮我……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "哪里哪里！\u3000大家都忙！\n不说了我们先度过高峰期吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "客人",
+      "Text": "服务员～，\n我想点B套餐！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "好的！\u3000现在就做！\n唔噢噢噢噢ーー！\u3000拼毅力ーー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西沙里奥",
+      "Text": "……好厉害……\n嗯，我也……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "那么大家，辛苦了！\n干杯！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大家",
+      "Text": "干杯！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "店主",
+      "Text": "哎呀ー，特别周，\n还有西沙里奥，太感谢你们了！\n真是帮大忙了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "哪里哪里！\u3000虽然有些手忙脚乱，\n但是我们也很开心！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "而且……呵呵！\u3000给客人上菜的时候，\n我看到了好多笑容――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "顾客",
+      "Text": "那边的小姐姐！\u3000可以打扰一下吗！\n――蛋包饭真是太好吃了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "诶！？\u3000真的吗！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "顾客",
+      "Text": "嗯，好久没吃过这么好吃的蛋包饭了！\n帮忙告诉做蛋包饭的人，蛋包饭太棒了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "（呜哇，笑得好开心！\n居然会露出这样的笑容……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "……谢谢你！\n您能这么说我很高兴！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "其实做蛋包饭的是我……！\n我深切体会到，\n料理能给大家带来笑容！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "虽然很忙碌，但一想到客人们的\n笑容，就完全！\u3000感觉不累了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西沙里奥",
+      "Text": "呵呵。我非常懂那种心情！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西沙里奥",
+      "Text": "我也经常给同宿舍的人做饭吃，\n她每次都吃得津津有味。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西沙里奥",
+      "Text": "好吃美味的料理，\n虽然自己吃也不错。\n但为别人做料理吃――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西沙里奥",
+      "Text": "别人的一句『真好吃』，\n会带来很大的满足感呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "没错！\n料理真的非常有意义呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "切菜、煮菜、炒菜……\n虽然都很花时间。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "但是辛苦过后――客人露出笑容时，\n真的真的！\u3000太开心了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "对了！\u3000下次在宿舍也做点料理吧！\n要是能让大家高兴的话――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "平常的一天。进入午休时间，\n正在想吃什么――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "训练员。我做了便当！\n要不要一起吃？",
+      "ChoiceDataList": [
+        "诶，我可以收下吗？",
+        "诶，我可以收下吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "当然可以！\u3000虽然我的手艺\n还不太行，但我花了心思做哦！",
+      "ChoiceDataList": [
+        "谢谢！那我就――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "……怎，怎么样？\u3000我自己\n试做了很多次，也尝了\n很多次味道……那个……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "你觉得好吃吗？",
+      "ChoiceDataList": [
+        "嗯，很好吃哦！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "太好了！！\n……嘿嘿，那我就有动力了。\n以后还想听这句话！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
