@@ -1,0 +1,285 @@
+{
+    "Title": "天知地知美丽知",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "前往训练员室的途中，\n我看见无精打采的重炮。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "重炮",
+            "Text": "唉…………",
+            "ChoiceDataList": [
+                "（她好像很沮丧……）",
+                "（她好像很沮丧……）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "有人无精打采吗？包在我们身上！",
+            "ChoiceDataList": [
+                "是、是谁！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "我们是“栗东宿舍打气大队”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "送重炮一份美丽，\n让她变得美丽吧☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "训练员，\n这次需要你的力量！\n请问你愿意助我们一臂之力吗？",
+            "ChoiceDataList": [
+                "好，我能帮上忙的话一定帮",
+                "好，我能帮上忙的话一定帮"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "很好～！\n大家一起为小重补充活力吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "小重喜欢成熟的东西吧？\n做成微苦的口味吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "不对！这次要送她甜美的美丽☆\n还要放上用砂糖做成的小动物！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "嗯，我知道了！\n那就做成超甜口味吧☆",
+            "ChoiceDataList": [
+                "真的不用做成大人口味吗？",
+                "真的不用做成大人口味吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "真的不用！好啦，\n训练员负责盯着烤箱温度☆",
+            "ChoiceDataList": [
+                "喔，好……！",
+                "嗯，好……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "而我负责护送她过来这里吧。\n要让她享受到宛若公主的待遇──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "我建议用背背的方式来护送！\n富士，可以麻烦你背他吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "呵呵，没问题。\n由我来送上特别款待！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "麻烦训练员在前面开路，\n防止她们跌倒啰♪",
+            "ChoiceDataList": [
+                "（这种方式感觉也很不像大人……？）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "……或许她自有考量吧。\n我边观察状况边帮忙着手准备──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "重炮",
+            "Text": "咦？要送人家礼物？\n……我现在应该高兴不起来吧……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "没关系没关系！\n开始享受美丽的款待吧～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "来吧，公主。请到我背上来。\n我会护送您到屋顶上！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "重炮",
+            "Text": "……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "嘿咻……请问搭乘起来还舒适吗，公主？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "重炮",
+            "Text": "嗯嗯……还不错……不过……\n给人背背太幼稚了啦～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱曙",
+            "Text": "锵锵──♪\n甜蜜又buono的蛋糕！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "重炮",
+            "Text": "哇，好缤纷的装饰！\n……有小熊……还有猫咪……",
+            "ChoiceDataList": [
+                "……还是你喜欢更成熟的风格？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "重炮",
+            "Text": "不！我不是那个意思！\n只是吓了一跳……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "重炮",
+            "Text": "好怀念喔……\n小时候爸爸买给我的蛋糕上\n也放着砂糖做的小熊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "重炮",
+            "Text": "我哭着说“人家要猫咪啦！”，\n结果爸爸就把我背在背上……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "……虽然我们无法取代你的爸爸妈妈，\n但是不是至少让你觉得美丽一点了？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "重炮",
+            "Text": "嗯！非常美丽！\n就跟爸爸妈妈一样温暖……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "重炮",
+            "Text": "谢谢你，美美！还有大家！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "──话说这次真是多亏了你呢，\n居然能立刻就发现重炮在想家？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "嗯～算是直觉吧？？\n因为她最近常常聊到家人啊☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "而且她仰望天空时\n视线都朝着老家的方向☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "居然光靠重炮消沉地步行的模样\n就能看出这么多资讯……！",
+            "ChoiceDataList": [
+                "好想变得跟你一样聪明……",
+                "好想变得跟你一样聪明……",
+                "真是难为你了，辛苦了！",
+                "真是难为你了，辛苦了！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "居然光靠重炮消沉地步行的模样\n就能看出这么多资讯……！",
+            "ChoiceDataList": [
+                "好想变得跟你一样聪明……",
+                "好想变得跟你一样聪明……",
+                "真是难为你了，辛苦了！",
+                "真是难为你了，辛苦了！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "很简单！\n该做的不是拼好拼图，\n而是要用颜料创造颜色☆★",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "对吧？这下你也能够更加美丽☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "这领域真不是一时之间就能轻易到达的。\n我只能对她表达我的讶异与钦佩！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "训练员跟大家都很美丽☆\n光靠我是无法成功的喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "这美丽的队伍要继续拯救更多人喔！\n还有没有正在烦恼的栗东宿舍同学啊～？？？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "“栗东宿舍打气大队”……只要有她们在，\n相信栗东宿舍就能永保和平！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

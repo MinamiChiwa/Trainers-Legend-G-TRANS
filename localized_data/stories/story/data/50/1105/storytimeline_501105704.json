@@ -1,0 +1,374 @@
+{
+    "Title": "“连结”游戏",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我和新宇宙出门后，在回程路上──\n她突然停下脚步。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新宇宙",
+            "Text": "──训练员，\n新宇宙想“尝试”“胡萝卜猜拳”。",
+            "ChoiceDataList": [
+                "咦？怎、怎么这么突然？",
+                "咦？怎、怎么这么突然？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新宇宙",
+            "Text": "爱丽数码的“发言”──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新宇宙",
+            "Text": "“胡萝卜猜拳是回家路上必玩的经典游戏”。\n所以，想玩。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "难得她会对游戏感兴趣，\n无论如何我都想实现这个愿望。\n但是这个游戏要多一点人来玩才有趣。",
+            "ChoiceDataList": [
+                "那再找几个人来──"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "胡萝卜猜拳！\n勾起我的兴趣了呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "踢踏城市",
+            "Text": "我来这边之后认识的同伴曾经提过。\n奇奇，我们也一起玩吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "啊哈，好呀～反正宿舍要的东西也采买完了。\n胡萝卜猜拳真让人怀念耶。",
+            "ChoiceDataList": [
+                "谢谢你们！那我们开始吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "所有人",
+            "Text": "胡萝卜猜拳，剪刀石头布！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新宇宙",
+            "Text": "──“布”。\n是新宇宙“胜利”，对吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新宇宙",
+            "Text": "凤、梨──\n这样是新宇宙“领先”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "好～尽管来！\n剪刀石头──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新宇宙",
+            "Text": "──最佳答案为纳许均衡。\n从行动几率“归结”下一步为……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "踢踏城市",
+            "Text": "布！\n──What the hell？\n又是宇宙一个人赢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "然后训练员是最后一名啊～\n差距很大呢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "踢踏城市",
+            "Text": "哈哈，大概差了30米？\n输得倒是很彻底！",
+            "ChoiceDataList": [
+                "啊哈哈，输惨了～！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新宇宙",
+            "Text": "──？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新宇宙",
+            "Text": "训练员……很“开心”……？\n现况明明是“败北”……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "嗯～不过差距越来越大了耶。\n差不多该补救一下了～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "我想想～那从现在开始，\n平手的时候只有最后一名可以前进～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "所有人",
+            "Text": "剪刀石头布！！",
+            "ChoiceDataList": [
+                "平手！胡、萝、卜！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "喔喔～！\n追上很多了呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新宇宙",
+            "Text": "与新宇宙的距离为3米……\n是“快速前进”呢。",
+            "ChoiceDataList": [
+                "谢谢！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新宇宙",
+            "Text": "──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新宇宙",
+            "Text": "……？　胸口“数值”上升……？\n“侦测”到不明感觉……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "踢踏城市",
+            "Text": "原来如此，这就是补救方案啊。\n不过这样就不知道谁输谁赢了，\n很有趣呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "对啊对啊！而且大家热热闹闹地玩在一起，\n有种暖暖的感觉～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新宇宙",
+            "Text": "……！\n“温暖”……这就是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "踢踏城市",
+            "Text": "好耶，到了！\n这场竞争真是让人热血沸腾！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "就是说啊，哎呀～\n好久没玩得这么疯了～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新宇宙",
+            "Text": "运动量低于“日常”，但是……\n“温暖”还没有消失……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新宇宙",
+            "Text": "这是什么……？",
+            "ChoiceDataList": [
+                "这就是“开心”吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新宇宙",
+            "Text": "“开心”……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新宇宙",
+            "Text": "训练员有变得“开心”吗？\n“温暖”……？",
+            "ChoiceDataList": [
+                "嗯嗯，跟宇宙一起玩很开心",
+                "嗯嗯，跟宇宙一起玩很开心"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新宇宙",
+            "Text": "──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新宇宙",
+            "Text": "“开心”……还是“暗物质”。\n但是……新宇宙也一样。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新宇宙",
+            "Text": "“温暖”……\n“开心”……跟大家一样。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新宇宙",
+            "Text": "达成“通讯”……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "新宇宙缓缓回味这种感受。\n不知道有没有让她稍微体会到\n“一般孩子拥有的温暖回忆”。",
+            "ChoiceDataList": [
+                "赢得游戏的人必须要有奖品",
+                "赢得游戏的人必须要有奖品",
+                "以后我们也要一起创造很多这样的回忆",
+                "玩完游戏之后要吃点心才对",
+                "玩完游戏之后要吃点心才对"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "新宇宙缓缓回味这种感受。\n不知道有没有让她稍微体会到\n“一般孩子拥有的温暖回忆”。",
+            "ChoiceDataList": [
+                "赢得游戏的人必须要有奖品",
+                "赢得游戏的人必须要有奖品",
+                "以后我们也要一起创造很多这样的回忆",
+                "玩完游戏之后要吃点心才对",
+                "玩完游戏之后要吃点心才对"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "嗯嗯，没错！\n以前会请对方吃点心之类的～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "今天的第一名是小宇宙，\n那要好好请一顿才行。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "所以～\n这是我要送你的点心，收下吧～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "踢踏城市",
+            "Text": "那我给你面包吧！",
+            "ChoiceDataList": [
+                "我送你果汁！",
+                "我送你果汁！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新宇宙",
+            "Text": "──Sphilar。\n这是……“重要”，对吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新宇宙",
+            "Text": "Affirmative。\n想要……“创造回忆”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "踢踏城市",
+            "Text": "那接下来我教你\n美国小孩会在户外玩的游戏吧？\n然后这次要认真比一场！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新宇宙",
+            "Text": "──！\n“认真比一场”……这也是“通讯”，对吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "踢踏城市",
+            "Text": "先玩跳格子！\n去广场比较好，走吧！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──就这样，\n我们在外面一路玩到日落。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在外面玩到累之后吃些点心，\n这也是小孩子必做的事情呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "真不错呢～\n有一间什锦烧店我很推荐喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "真的超级好吃的！\n难得大家聚在一起，我们去吃吧～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新宇宙",
+            "Text": "“推荐”的“共享”……\n这真是sphilar。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就这样，\n我们四个一起去什锦烧店──\n共享菱奇迹充满回忆的味道。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

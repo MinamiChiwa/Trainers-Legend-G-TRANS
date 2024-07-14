@@ -1,0 +1,31 @@
+{
+    "Title": "临阵抖擞",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "比赛、比赛！！\n唔喔喔喔！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "训练员，涡轮会好好表现，\n让你见识涡轮有多厉害！！\n你可别被吓到跌倒啰！！",
+            "ChoiceDataList": [
+                "我很期待！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "嗯！！好好看着喔！！\n要上啰～！！\n涡轮引擎全开～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

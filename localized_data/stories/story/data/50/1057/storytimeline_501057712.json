@@ -1,0 +1,77 @@
+{
+    "Title": "缺席的理由……",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "千明代表没有来训练。\n我担心地在校内寻找她的时候，\n有同事来向我搭话。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "同事训练员",
+            "Text": "你的训练项目果然很棒！\n能感觉到不愧是你不惜牺牲睡眠时间\n设计出来的成果呢。",
+            "ChoiceDataList": [
+                "但我还在反复摸索中就是",
+                "但我还在反复摸索中就是"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "同事训练员",
+            "Text": "这样你负责的选手也──才刚说到她，\n人就来了。希望她会喜欢这些训练项目，再见！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "…………",
+            "ChoiceDataList": [
+                "太好了，你看起来很有精神",
+                "太好了，你看起来很有精神"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "嗯，对不起。\n我实在提不起劲去训练。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "随便消磨一下时间，结果就翘掉了训练。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "那个，我刚才有稍微听到你们的谈话。\n……你帮我设计了新的训练项目对吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "我下次会好好参加训练的，\n而且也很在意是什么样的训练项目。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "真的很对不起。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "个性自由奔放的她似乎自己反省过了，\n所以我只提醒她以后要多注意一点。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

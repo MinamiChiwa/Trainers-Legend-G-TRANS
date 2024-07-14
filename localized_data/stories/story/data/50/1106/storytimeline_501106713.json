@@ -1,0 +1,113 @@
+{
+    "Title": "保重身体！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "因为菱奇迹受伤，\n我立刻带她来到保健室。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "不好意思让你担心了～\n看起来不是什么严重的伤。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "那我们就回去继续训练吧。",
+            "ChoiceDataList": [
+                "已经没事了吗？",
+                "已经没事了吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "是的，已经不会痛了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "啊，当然，我会一边训练\n一边好好注意自己的状况，不行吗？",
+            "ChoiceDataList": [
+                "以防万一，还是休息吧",
+                "如果是轻度的训练……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我告诉菱奇迹，\n我不能忽视她伤势会因此恶化的风险。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "说得也是，就算很轻微，但我还是受伤了。\n我也不想因为小看伤势而尝到苦头。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "我知道了，\n暂时静养一下吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "好的。我没问题。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "呼、呼。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "呜呜～刚刚受伤的地方，\n好像有点刺痛……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "对不起，我还以为没关系，\n不过这样看来还是不要动会比较好……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "菱奇迹由于伤势恶化，\n决定暂时安静地休养……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "──嗯，跟我想得一样，看起来没问题。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "不是什么严重的伤真是太好了，\n就照这样继续努力吧～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "菱奇迹在这之后克服了伤势，\n顺利地重新回到了跑道上。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

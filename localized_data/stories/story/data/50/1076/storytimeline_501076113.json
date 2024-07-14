@@ -1,0 +1,598 @@
+{
+    "Title": "前辈们的纪录",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "来了！就是她！\n现在进入围场的选手\n以前也是我们胜利俱乐部的成员……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "胜利俱乐部"
+            ]
+        },
+        {
+            "Name": "樱花蓦进王",
+            "Text": "请训练员也跟着我们一起喊！\n要喊啰～！预备～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "三人",
+            "Text": "加油～～！",
+            "ChoiceDataList": [
+                "加、加油──！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "……我被樱花桂冠她们影响，\n跟着努力大声呐喊。\n这一切都是因为这天──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我应樱花桂冠等人的邀请，\n一同前来观赏这场主要竞赛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "主要竞赛"
+            ]
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "训练员，\n今天谢谢你陪我们来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "虽然你们已经见过了，\n但还是再正式介绍一次……这位是蓦蓦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "蓦蓦"
+            ]
+        },
+        {
+            "Name": "樱花蓦进王",
+            "Text": "你好！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "而这位是小千！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "小千"
+            ]
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "今天请多指教！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "她们是专攻短距离比赛的樱花蓦进王，\n以及打比赛马娘樱花千代王。\n两人都已相当有名气。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "樱花蓦进王",
+                "樱花千代王"
+            ]
+        },
+        {
+            "Name": "",
+            "Text": "而她们跟樱花桂冠的共通点就是──",
+            "ChoiceDataList": [
+                "是叫做“胜利俱乐部”对吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "没错！她们都跟我一样\n毕业于专门培育赛马娘的俱乐部“胜利俱乐部”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "她们都很贴心喔。\n只要一有时间就会到比赛会场\n替俱乐部毕业生加油……是不是啊♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花蓦进王",
+            "Text": "哈──哈哈！\n毕竟我是班长嘛，自然气度过人！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花蓦进王",
+            "Text": "对了！\n训练员你觉得下一场比赛谁会获胜呢！？",
+            "ChoiceDataList": [
+                "咦！？这个嘛……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花蓦进王",
+            "Text": "答案是速度最快的赛马娘获胜！",
+            "ChoiceDataList": [
+                "（根本不给我时间思考！！）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "呃，那个～！虽然都是速度，\n但这次可能不光跑步速度，\n还很需要不同方面的速度喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "因为从过去资料跟赛道形状看来，\n可以看出取位也至关重要。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "……原来如此。\n所以思考速度也很重要。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花蓦进王",
+            "Text": "没错，速度最重要！\n速度可以征服一切！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花蓦进王",
+            "Text": "例如我们两人也比桂冠同学还快出道！\n这也是重要关键！",
+            "ChoiceDataList": [
+                "（我们是在聊这个吗……？）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "她、她的意思是，\n我跟蓦进王在比赛方面算是桂冠的“前辈”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花蓦进王",
+            "Text": "没错！\n今天参赛的那位来自我们俱乐部的选手也是一样！",
+            "ChoiceDataList": [
+                "是你们一直在替她加油的那位选手吧？",
+                "是你们一直在替她加油的那位选手吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "……她曾因为“脚的状况不佳”\n而休养了一阵子无法参赛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "希望那位前辈英勇奋战的模样能为桂冠带来力量。",
+            "ChoiceDataList": [
+                "……！　你的意思是……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "胜利俱乐部的毕业生中不乏各方面的先驱者。\n其中也有克服伤势重新振作的赛马娘。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花蓦进王",
+            "Text": "所以呢！有需要时请尽情仰赖我们这些──\n桂冠同学的“前辈”！！",
+            "ChoiceDataList": [
+                "你们……",
+                "你们……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "……看吧？她们真的很优秀吧。\n胜利俱乐部的成员真的全都是优秀的好孩子喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "我想妈妈一定也是因为知道这点\n才会建议我加入胜利俱乐部。",
+            "ChoiceDataList": [
+                "令堂是俱乐部的相关人士吗？",
+                "令堂是俱乐部的相关人士吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "她好像曾经颇受俱乐部某位成员关照。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "妈妈在法国与爸爸相遇，\n直到我出生后，\n原本全家仍然一起留在法国生活。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "但听到我说出“想要进入竞赛世界”后，\n隔年她就带着我来到日本。\n……请爸爸独自留在法国工作。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "妈妈说“胜利俱乐部一定会认真看待你的梦想。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "实际来到俱乐部后，\n那里的朋友跟老师们真的教了我很多事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "虽然我的双脚很脆弱，\n但大家还是……\n教了我该如何用这双脚进行训练。",
+            "ChoiceDataList": [
+                "……原来是这样啊",
+                "……原来是这样啊"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "而桂冠自己也是\n曾震撼了整个俱乐部的风云人士啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "大家第一次听到你的目标时，\n都惊讶得瞪大双眼呢。\n那目标到现在还是没变吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "世界最高峰的舞台──“凯旋门赏”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "嗯！我要去“凯旋门赏”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "既然想实现梦想，就要迈向最高处。\n我要像爸爸一样追求在擅长领域站上顶尖地位。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "我……我要用最热爱的跑步……\n站上世界第一巅峰。",
+            "ChoiceDataList": [
+                "（凭借自己热爱的事物成为世界第一……）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "樱花桂冠无畏地说出远大梦想，\n那坚定的姿态看起来无比耀眼──",
+            "ChoiceDataList": [
+                "我能做些什么来协助你实现梦想呢？",
+                "我能做些什么来协助你实现梦想呢？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花蓦进王",
+            "Text": "喔！言下之意是！？",
+            "ChoiceDataList": [
+                "比如说……我想找出获胜的方法！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花蓦进王",
+            "Text": "原来如此原来如此！\n具体来说！？",
+            "ChoiceDataList": [
+                "我想知道有助于赢得凯旋门赏的资讯！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花蓦进王",
+            "Text": "你这是在向我们胜利俱乐部寻求协助吗！？",
+            "ChoiceDataList": [
+                "是的，要是有曾参赛过凯旋门赏的前辈──",
+                "嗯，要是有曾参赛过凯旋门赏的前辈──"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花蓦进王",
+            "Text": "唔……！",
+            "ChoiceDataList": [
+                "咦！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花蓦进王",
+            "Text": "没有……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花蓦进王",
+            "Text": "非常遗憾……未曾有过……！！\n胜利俱乐部成员至今未曾去到那里……！",
+            "ChoiceDataList": [
+                "什么……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "过了几天后──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "啊！桂冠的训练员！\n你手中那些是……",
+            "ChoiceDataList": [
+                "这些是研究“凯旋门赏”用的",
+                "这些是研究“凯旋门赏”用的"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "哇啊啊……真对不起。\n前几天我们还狂妄地摆出前辈的架子……",
+            "ChoiceDataList": [
+                "别这么说！反倒督促我更加认真了！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "就连曾培育出好几位知名赛马娘的胜利俱乐部\n至今都无人能够参赛“凯旋门赏”……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "这更加证明“凯旋门赏”是多么艰困的一道高墙。\n可不能天真地以为只要在原地\n等待有用资讯从天而降就好。",
+            "ChoiceDataList": [
+                "我觉得自己也该更加努力才行"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "……所以你才收集了这么多资料啊。\n…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "那个，训练员！\n虽然胜利俱乐部目前还没有……\n曾到达过“凯旋门赏”的前辈。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "但我们的历史中一定有什么能够帮得上你们的！\n比如说──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "啊！俱乐部老师们至今教导过无数学生。\n他们应该知道些我们还不知道的预防受伤的方法！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "俱乐部老师",
+            "Text": "……原来如此，\n所以千代王才会这么积极联络俱乐部啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "俱乐部老师",
+            "Text": "对了，训练员，\n请问你对桂冠的身体状况了解多深？\n可以告诉我你的心态吗？",
+            "ChoiceDataList": [
+                "我已下定决心无论何时都会尽力辅助她"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "俱乐部老师",
+            "Text": "…………无论何时……吗？\n……………………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "俱乐部老师",
+            "Text": "明白了，我愿意帮忙。\n我会从本俱乐部传承下来的指导用资料中\n尽可能整理出能够外借的部分提供给你。",
+            "ChoiceDataList": [
+                "……！　非常感谢！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "俱乐部老师",
+            "Text": "绝不允许任何人扼杀她们刚萌发的新芽。\n这是我们时时铭记在心的原则。\n那我就将一切郑重托付于身为指导者的你了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "俱乐部老师",
+            "Text": "毕竟训练员负责守护她的未来，\n你有义务……事先了解各种案例。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "回到家后，\n我坐在书桌前翻开为了前进“凯旋门赏”\n而从胜利俱乐部借来的资料。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "俱乐部历史悠久，累积的资料量也十分庞大。\n我慎重地翻开第一页……",
+            "ChoiceDataList": [
+                "这是……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "书页上记载着对抗病痛的壮烈纪录。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "仅仅因为一次疏忽造成的\n不成比例的惨痛代价及伤痛。\n曾含泪离开舞台的选手们。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "……资料中深刻地记载着\n至今历代竞赛选手们肩负的沉痛风险。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "──当晚我做了一个梦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "“训练员，我一定……\n会去拿下通往梦想的入场券！”",
+            "ChoiceDataList": [
+                "好，加油！",
+                "嗯，加油！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "那天樱花桂冠获得了支持度第一名。\n当地的播报员也不断喊着她的名字。\n她的表现备受瞩目！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "照这步调继续下去，她无疑能够拿下第一名。\n樱花桂冠冲过赛道，破风前行──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "播报员",
+            "Text": "“Sakura Laurel ne parvientpas\nà rattraper les autres!\nElle ralentit!”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "播报员",
+            "Text": "“Le peloton de tête lui,\nn'a pas changé……”",
+            "ChoiceDataList": [
+                "（……咦？）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "樱花桂冠她……突然慢了下来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "“呼……呼……\n训练……员，唔……”",
+            "ChoiceDataList": [
+                "桂冠！？桂冠！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "当地工作人员",
+            "Text": "“Une civière, vite!\nEt toi, tu serais pas son\ncoach par hasard?”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "当地工作人员用急躁的表情对我抛出问句，\n似乎想确认些什么。",
+            "ChoiceDataList": [
+                "这是怎么回事！？你们要对桂冠做什么！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "当地工作人员",
+            "Text": "“Mais reprends tes esprits!\nIl faut que tu te\nfasses soigner, et vite!”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "当地工作人员",
+            "Text": "“Direction l'hôpital!\nSi on ne fait rien,\nje crains pour le pire……”",
+            "ChoiceDataList": [
+                "请等一下，桂冠她──！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "…………",
+            "ChoiceDataList": [
+                "……是梦啊"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "背上布满了汗水，\n冰冷地使我开始颤抖。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "而心里的不安躁动好一阵子都没能平静下来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

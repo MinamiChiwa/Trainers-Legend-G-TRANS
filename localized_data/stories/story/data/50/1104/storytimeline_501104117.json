@@ -1,0 +1,588 @@
+{
+    "Title": "直冲天际，燃起火焰",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "──公开训练？",
+            "ChoiceDataList": [
+                "因为收到很多来自荣主粉丝的要求"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "为了激发对“天皇赏（秋）”的期待，\n我向葛城荣主提议\n可以试着考虑回应粉丝的要求──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "……嗯～\n毕竟大家都特地跑来\n看我这种人的训练了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "──我知道了！\n反正机会难得就办一下吧，公开训练。\n感觉也能帮助我绷紧神经。",
+            "ChoiceDataList": [
+                "（好……！）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──到了公开训练的当天。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣主的粉丝A",
+            "Text": "啊，来了……！\n葛城荣主！！今天谢谢你──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣主的粉丝B",
+            "Text": "你辛苦了──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "粉丝们",
+            "Text": "（人声吵杂……！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "等等，咦──太多了吧！？\n训练员！我还以为只有\n集训宿舍附近的粉丝会来──",
+            "ChoiceDataList": [
+                "抱歉，结果全国各地的粉丝都跑来了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "啥！？你说全国──",
+            "ChoiceDataList": [
+                "这还只是其中一部分而已"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "真的假的！虽然我很感激，不过……\n为什么会这么──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣主的粉丝C",
+            "Text": "葛城荣主，开始训练前，\n我们想代表在座所有粉丝\n对你说几句话。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣主的粉丝C",
+            "Text": "今天来到这里的所有人……\n都是为了传达对你的支持与感谢\n而齐聚一堂的……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "感谢……？",
+            "ChoiceDataList": [
+                "你就稍微听一下吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "……………………我知道了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "……把大家想对我说的话，\n告诉我吧──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "从粉丝之中走出了几个人，\n他们向葛城荣主和粉丝们行礼后，\n开始说话……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣主的粉丝代表A",
+            "Text": "──几年前，我离开乡下来到东京，\n虽然找到了梦寐以求的工作，\n但职场的竞争非常激烈。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣主的粉丝代表A",
+            "Text": "我是乡下人，又不谙世事，老家也很穷，\n所以每天都觉得自己跟周围格格不入，\n不过我有想实现的梦想，所以才能努力下去。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣主的粉丝代表A",
+            "Text": "但渐渐地，不顺心的事情越来越多……\n想努力的心情也\n在不知不觉间渐渐消退……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣主的粉丝代表A",
+            "Text": "──就在那时，\n我偶然看了你的比赛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣主的粉丝代表A",
+            "Text": "看着你拼命呐喊著，不断向前奔跑的姿态，\n我受到了极大的冲击。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣主的粉丝代表A",
+            "Text": "我觉得很在意，于是开始查起你的事情，\n发现你的经历实在非常厉害……\n就擅自产生了共鸣。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣主的粉丝代表A",
+            "Text": "我开始关注你的比赛后，\n便从你的跑姿和战斗之中\n获得勇气──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣主的粉丝代表A",
+            "Text": "不知不觉中，\n我开始觉得想向你看齐，\n坚持“必须战斗”才行……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "……我奔跑的样子──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣主的粉丝代表B",
+            "Text": "我也一样。出生和成长\n都没有值得自豪的地方，这一直是我的心结，\n我也一直过着消极的生活──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣主的粉丝代表B",
+            "Text": "当时我闲得发慌，\n不经意地常跑赛场看比赛时\n正好看到了你的出道战。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣主的粉丝代表B",
+            "Text": "说实话，你的经历和其他同期选手相比\n并不是那么引人注目，\n但看到你拼命奔跑，朝着未来努力的样子──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣主的粉丝代表B",
+            "Text": "我不禁好奇“你还能坚持努力到什么时候呢”。\n基于负面的好奇心，我开始关注你。\n不过那时你却开始崭露头角──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣主的粉丝代表B",
+            "Text": "最后，你终于能以时代中心的身份而战！\n这真的非常帅气……我很感动……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣主的粉丝代表B",
+            "Text": "于此同时──\n我开始觉得自己真的是太逊了……！\n居然用如此消极的原因追着你──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣主的粉丝代表B",
+            "Text": "我想改变……！我想战斗……！！\n我也想像葛城荣主一样……\n朝着未来前进……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣主的粉丝代表B",
+            "Text": "是你给了我……想战斗的心情！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣主的粉丝代表A",
+            "Text": "在这里的每个人，\n不仅仅只是支持着你。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣主的粉丝代表A",
+            "Text": "你到今天为止走的每一步，\n都让这里的人产生共鸣……\n然后从中获得了勇气。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "────",
+            "ChoiceDataList": [
+                "……大家有个东西想让你看看",
+                "……大家有个东西想让你看看"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣主的粉丝们",
+            "Text": "预────备！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "葛城荣主的粉丝们\n合力立起了一根\n宛如要直冲天际的长铁棒。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "然后，迎著风──\n巨大的旗帜在夕阳下奋力地飘扬著。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "“葛城”……“荣主”……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "那是一面画着勇猛的龙，\n大大地绣著“葛城荣主”的旗帜。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这面旗帜是粉丝们根据葛城荣主的\n决胜服设计而制作而成，\n寄托著对她的激励与感谢之意。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣主的粉丝代表A",
+            "Text": "我们会以你为榜样！\n会像你一样奋战！！所以！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣主的粉丝们",
+            "Text": "加油────！加油────！\n葛城荣主！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣主的粉丝们",
+            "Text": "加油──！！不能输──！！\n我们的“王牌”！！！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣主的粉丝代表B",
+            "Text": "……现在的闪耀系列赛\n并不是只有千明代表或\n鲁道夫象征而已。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣主的粉丝代表B",
+            "Text": "我们相信，\n葛城荣主一定能够打破大家\n对千明等人的期待。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣主的粉丝代表A",
+            "Text": "请你记住这一点。\n我们所有人都最喜欢你的\n跑法跟生存方式……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "…………唔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "──各位。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "真的──\n非常感谢你们！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "我收到了。\n收下了大家的……所有心意！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "请大家好好看着我。\n我一定会展现给你们看……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "看着谁将成为顶点……！\n谁将成为赛马娘界的“王牌”……！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "不管是不可能，还是“另一个世界”！\n我会全部破坏掉！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "葛城荣主就在这里！！！\n我会将大家的心意化为旗帜！！！！\n大声地呐喊！！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "那瞬间，葛城荣主的眼中燃起火焰……\n充满着仿佛要焚烧天地般的\n熊熊烈火……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──隔天。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "呼……呼……呼……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "喝……呼……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "戴黑框眼镜的赛马娘",
+            "Text": "所以小荣你也要加油喔……！\n作为我们的──“王牌”！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "红色缎带的赛马娘",
+            "Text": "看到荣荣帅气的背影，\n让我们觉得不能就这样放弃……！\n谢谢你！我们的“王牌”！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣主的粉丝们",
+            "Text": "加油──！！不能输──！！\n我们的“王牌”！！！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "（……真不可思议。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "（我只是不断地向前奔跑而已，\n但在不知不觉中，\n大家都开始称呼我为──“王牌”。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "（我并不因此感到负担──\n反而能感受到力量涌现……\n让我热血沸腾……！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "──我想回应他们。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "不对，我得回应他们……！一定要……！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "──你的表情不错呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "千明……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "如何？跑一下吧。\n跑到那里为止。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "…………好啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "──我先走了！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "哈哈，不错呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "呼、呼、呼、呼──！\n唔，千明────！！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "在“天皇赏（秋）”──一决胜负吧──！！\n我────绝对────会赢！！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "啊哈哈哈哈！！\n我也是！！！我不会输的──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "一决胜负吧──！！荣主！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "好啊！！一决胜负吧────！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "呼……呼……呼……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "──已经等不及了呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "自从看到荣主在\n“大阪杯”和“宝冢纪念”上奔跑后……\n我就一直都很想参加比赛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "……虽然我觉得不用每次都说出口，\n但也不希望被你误解，\n所以还是先说一声。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "从决定跟你在经典级以三场决胜负起，\n不管别人怎么说，\n我的竞争对手就是荣主你。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "并不是谁都可以。\n现在的我只想跟你──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "我想跟葛城荣主比赛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "────",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "──别忘了这一点。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "…………嘿嘿。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "怎么可能会忘记啊……！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "（谢谢你们。\n所有支持我的人……\n千明……训练员──）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "葛城荣主朝着天空举起了拳头。\n太阳今天依旧照耀着整个世界──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

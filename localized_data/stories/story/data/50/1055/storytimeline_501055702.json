@@ -1,0 +1,280 @@
+{
+    "Title": "美丽未来日记　Intro",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我跟美丽周日一起外出，\n正当我们边走边讨论著午餐该吃什么时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "哈啰～～！富士，你们在做什么～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "哦，是美丽啊。\n我跟菱亚正在讨论该吃什么。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "既想吃西餐，但中华料理也难以割舍。\n啊──要是能一次吃到所有料理就好了啊～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "听我说～☆我有个好点子喔！\n先在这本日记里──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "写下“跟全世界各国人士一起开派对\n好好玩喔！”这样就可以吃到各种料理喔！",
+            "ChoiceDataList": [
+                "明明是日记却先写下预定？",
+                "明明是日记却先写下预定？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "没错！这样一定会很美丽！\nLet's go☆★美丽go☆★",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "类似许愿仪式之类的？\n好吧，希望能找到理想的餐厅啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "唔唔唔！侦测到美丽反应☆",
+            "ChoiceDataList": [
+                "呃，蔬果店……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "嗯，你看嘛你看嘛！\n如此美丽的蔬菜──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "蔬果店",
+            "Text": "欢迎光临。请慢慢挑选。\n反正我闲得很……真伤脑筋。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "怎么会～～！？\n明明每种蔬菜都闪闪发光又新鲜！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "那我来帮忙招揽客人吧！\n让美丽传递出去☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "也好，看到别人遇上困难可不能坐视不管。\n我也来帮忙！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "走过路过不要错过～☆\n要不要买点美丽的蔬菜啊～！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "看看这表面光泽！\n营养满分喔，今天晚餐吃点蔬菜吧！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "这里原本空无一物，\n天啊，太神奇了！\n这杯现榨胡萝卜汁可到此处购买喔♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "蔬果店",
+            "Text": "哦哦，居然来了这么多客人……！\n欢迎光临！欢迎光临！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "还不只这样呢，美丽才正要发威☆\n那边那位大哥哥，要不要买点蔬菜啊～！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "外国男性",
+            "Text": "啊哈哈！好热闹的蔬果店啊。\n我看看──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "看啊，这些蔬菜不用刷洗就很有光泽！\n根本不需要任何手法或魔术！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "外国男性",
+            "Text": "──Oh！？Beautiful……！！\n太棒了！！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "对吧！\n用这些蔬菜煮出来的料理保证美丽☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "外国男性",
+            "Text": "Yes！\n我的厨师之魂被点燃了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "外国男性",
+            "Text": "今晚的美食派对就用这些蔬菜当食材吧！\n我想招待各位一同前来参加！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "太、太夸张了！不仅摆满山珍海味……\n甚至还有好莱坞巨星出席！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "原本只是在帮忙蔬果店而已，\n回过神来时却已正在出席派对……！\n这时我突然发现，这样不就是──",
+            "ChoiceDataList": [
+                "写在日记里的事情成真了……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "啊，“跟全世界各国人士一起开派对”！\n真的发生了跟那句话一样的状况！\n好惊人的巧合啊──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "──这不是巧合喔？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "无论过程再曲折，美丽最终一定\n会到达美丽！原理就是这样☆★",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "比如说，有很多种计算方法\n都能得出“1”这个答案吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "无论是1÷1，还是1的999次方，\n或是sin2乘以θ＋cos2乘以θ，\n虽然过程不同，但终点都是同一个──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "──美丽最终注定到达美丽喔☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "脑袋越来越混乱了啦！\n简单解释一下究竟是怎么回事？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "啊哈哈哈！\n不用想得太复杂喔☆",
+            "ChoiceDataList": [
+                "难道你那本日记拥有特别的力量！？",
+                "难道你那本日记拥有特别的力量！？",
+                "难道你能看见未来……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "啊哈哈哈！\n不用想得太复杂喔☆",
+            "ChoiceDataList": [
+                "难道你那本日记拥有特别的力量！？",
+                "难道你那本日记拥有特别的力量！？",
+                "难道你能看见未来……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "嗯？这本日记是贩卖部商品喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "很方便书写又美丽☆\n推荐给训练员！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "既然原因不是日记，难道是因为\n美丽周日拥有不为人知的预言能力？\n谜团越来越难解了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "嗯～与其说是看得见，\n不如说是我“使其成真”？",
+            "ChoiceDataList": [
+                "（！？那不就是超能力吗……）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "啊！我闻到五香粉的味道☆\n训练员，我们走！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "难道她真的拥有超越人智的能力……？\n我禁不住地想去探究事实，\n甚至忘了要享受美食。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

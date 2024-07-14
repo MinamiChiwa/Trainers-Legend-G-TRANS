@@ -1,0 +1,288 @@
+{
+    "Title": "侦探琴蕾．最后？的事件",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我和谷水琴蕾外出后，在回程路上\n捡到一张不知道从哪里飞来的旧报纸。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "──“展览的抽象画竟然是赝品”？\n这……！\n这不是之前我跟你一起去的美术馆吗？",
+            "ChoiceDataList": [
+                "咦？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "“根据馆方的说法，画作的取得途径明了，\n因此一开始应该不是赝品……”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "“目前正在调查详情”、“正在广求访客或\n附近居民看见可疑人物的目击情报……”\n嗯……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这意思是\n“画作不知道什么时候变成了赝品”吗？\n……这么说起来──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "那一天，那幅画不知道为什么“倒了过来”。\n虽然职员们说大概是有人恶作剧，\n但是……",
+            "ChoiceDataList": [
+                "该不会那个时候就已经……！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "会不会是“画作已经被调包成赝品”？\n有可能是犯人把赝品挂到墙上时，\n因为太着急而搞错了方向……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "──喔！原来是这样啊！\n训练员！现在立刻前往美术馆吧！",
+            "ChoiceDataList": [
+                "好！",
+                "嗯！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "虽然我的记忆……没有像名侦探那么清晰，\n但是我还记得画颠倒过来的时间，\n这个证言应该多少可以派上点用场……但是！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "那边那位职员，把大家叫过来。\n谜题已经全部解开了！",
+            "ChoiceDataList": [
+                "咦！？我们不是只要提供资讯而已吗……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美术馆职员",
+            "Text": "什么！？难道你是说赝品调包事件吗！？\n你究竟是……？总之先请进吧……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美术馆馆长",
+            "Text": "──你说事件的谜底已经解开是真的吗？\n我们现在已经是病急乱投医的状态……\n请说看看吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "呵……那么现在就开始推理吧！",
+            "ChoiceDataList": [
+                "（感觉好像变得不可收拾了！）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我想说我们的结论肯定一样，\n所以没有商量过，急匆匆地就跑来了……\n她到底会说出什么样的推理呢……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "为什么那幅画会颠倒呢……？\n是因为犯人太着急吗……？不！\n还是说犯人不知道哪个方向是正确的呢……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "不……！既然犯人都准备了赝品，\n肯定相当熟悉那幅画。也就是！\n他陷入了“无法以正确的方向摆放作品”的状况！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "接着是“现在仍然找不到可疑人物”的原因……\n让我们反过来思考，假设──\n“这号人物根本不存在”！换句话说──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "犯人“使用了障眼法，\n不用进入馆内也能调包画作”！",
+            "ChoiceDataList": [
+                "咦咦……！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "那幅抽象画画框上的小刮痕……\n肯定是“用金属绳索绑过的痕迹”。\n犯人其实是从天花板的排风扇犯案的！",
+            "ChoiceDataList": [
+                "……！？！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "虽然用金属绳索垂吊的画会转来转去，\n但是就算上下颠倒，也不会立刻被发现。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "而不会曝光身份的好处更吸引犯人！\n于是犯人就这样调包作品，\n带着真迹直接从排风扇逃到外面去了！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "你们去调查通风管道吧！！\n从痕迹自然能查明犯人的身份！！",
+            "ChoiceDataList": [
+                "怎、怎么可能……！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "现在谜底已经被拖出了潘朵拉的盒子！！\n哈──哈哈哈哈────！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美术馆馆长",
+            "Text": "原……原来如此……！？！？\n原来是用这个障眼法蒙蔽我们……！\n虽然还有很多不清楚的部分……",
+            "ChoiceDataList": [
+                "但是应该可以缩小“犯案时间”的范围……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "对……这个人说得没错。\n刚才的推理只是在“寻找可能性”，\n但是我可以说只有时间是确切的事实。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我向馆长表示，\n总之透过我们的目击情报应该能查到些什么……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美术馆馆长",
+            "Text": "说得也是……好！\n我们会告知警方画作颠倒的日期与时间，\n请他们再次调查！这样应该会有些进展……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "这样做比较好。\n接下来就是警察的工作了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "呵呵呵……\n侦探不会动腿，只会动脑……！\n收集证据的事情就交给警方了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美术馆职员",
+            "Text": "为什么她能这么坦荡……！？\n但是到这个地步反而很帅……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "这段时间还真是刺激呢。\n这样一来事件应该会落幕吧。",
+            "ChoiceDataList": [
+                "算是告一段落了吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "侦探不用参与到最后也没关系，只需静静离去。\n我相信警方与美术馆职员的热情，\n对于把剩下的工作交给他们没有半分迟疑。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "毕竟……\n我的双腿必须留给比赛才行。",
+            "ChoiceDataList": [
+                "真、真帅……！",
+                "不愧是名侦探",
+                "用无酒精鸡尾酒来干杯吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "呵……！\n看来你也因为我精彩的推理陷入酩酊了啊……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "呵哈哈……！\n灵光一现的瞬间！那道电击！\n这就是脑细胞炸裂的飨宴！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她的推理很精彩也很荒谬……\n她强烈的个人风格似乎胜过道理，\n解决了事件……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "这没什么，也是多亏有优秀的华生帮忙。\n要是又遇到事件发生，\n你只要像这次一样，跟着我走就行。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "我会用华丽精彩的推理\n让你一次又一次地沉醉不已……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就这样，\n侦探谷水琴蕾的事件簿潇洒地迎向了尾声！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "嗯……哈哈哈！\n今天原本要跟你度过平稳的一天，\n却被意外卷入惊人的事件。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "我们到老地方重新喝一杯吧。\n让我们回想事件，用美酒干杯吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就这样，侦探与助手一同走向酒吧。\n在工作告一段落后享受的无酒精鸡尾酒\n尝起来格外美味……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

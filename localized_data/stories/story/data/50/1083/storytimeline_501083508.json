@@ -1,0 +1,43 @@
+{
+    "Title": "参赛的疲劳",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "某天，\n克莉斯耶丝象征正在补充水分……",
+            "ChoiceDataList": [
+                "你今天不是喝水啊？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "克莉斯耶丝象征",
+            "Text": "是啊，我今天──\n想喝点甜的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "克莉斯耶丝象征",
+            "Text": "平时……我不太喜欢。\nBut，现在──身体渴望甜味。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "克莉斯耶丝象征",
+            "Text": "……还不够。\n需要──更多糖分……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……我曾听说会渴望糖分是因为疲劳的关系，\n看来有必要重新审视今后的参赛计划了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

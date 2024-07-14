@@ -1,0 +1,464 @@
+{
+    "Title": "迎向日本C",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "在“日本杯”前不久的某一天──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "好～我们到了！",
+            "ChoiceDataList": [
+                "这里很安静，空气也很清澈呢……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "因为真的什么都没有啊～\n也完全感受不到都市的喧嚣。\n不过晚上时青蛙会很吵就是了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "……我和葛城荣主一起\n来到了她的故乡。\n事情的起因要追溯到之前──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "暂时停止训练，休息一下……！？\n那是什么意思啊……！",
+            "ChoiceDataList": [
+                "现在这状况只能算是空焦急而已",
+                "现在这状况只能算是空焦急而已"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "首先作为前提，现在的葛城荣主的\n身体和精神已经足够强大，\n能够参加“日本C”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "虽然还没拟定必胜的策略，但我判断要是\n继续像这样盲目地进行训练跟摸索的话，\n不但效果不明显，甚至还会带来风险。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "……重点就是，太过焦急的话搞不好会受伤，\n所以干脆去转换一下心情吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我点头表示肯定。\n而且在正式比赛前休养，\n让身心获得充分休息也是提升胜率的关键。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "…………我知道了！\n既然训练员这么说的话，那就转换心情吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "也好，老实说\n我也感觉似乎已经到了极限，\n一直觉得“这样下去很不妙”呢……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "就这样，我和葛城荣主临时决定\n将行程改为好好休养──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "──不过，妈妈是什么时候跟训练员联络的啊？\n我真的吓了一大跳呢～！\n我就说“怎么会是跟那边联络啊！？”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主的母亲",
+            "Text": "因为就算要你“偶尔回老家一趟”，\n你也一定会拒绝啊！\n所以我就抱着姑且一试的心态！",
+            "ChoiceDataList": [
+                "我也要对此表示感谢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我也觉得如果想让葛城荣主好好休养，回老家\n是最好的选择，前几天她母亲在电话中\n对我提出这件事时简直就像一场及时雨。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主的父亲",
+            "Text": "不过，“日本杯”啊～\n你真是到了一个不得了的地方呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主的母亲",
+            "Text": "大家在电视上看到你活跃的表现后，\n都觉得很不可思议呢。\n想着“原来电视的另一边也是现实啊～”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主的父亲",
+            "Text": "最近这附近的小孩，\n很多女孩都很憧憬你喔？\n她们说着“我总有一天也要参加比赛”呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "────",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "……那样的话，我会很高兴的──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "──嗯～～！\n这里不管什么时候来都没变呢！",
+            "ChoiceDataList": [
+                "这里就是你说过的地方？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "对，我还小的时候，\n每天都会在这里跑到倒下为止。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "不管什么时候跑都很舒畅呢。\n该怎么说呢，仿佛能够沉浸其中……\n又像其他事情都逐渐离我远去──",
+            "ChoiceDataList": [
+                "……要不要稍微跑一下？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "真的可以吗？\n……其实我有点蠢蠢欲动呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "呼──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "──啊────！！！\n果然超棒的──────！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "葛城荣主一边跑步一边开心地大叫。\n不顾一切朝着前方奔驰的她，\n就像是在不断地加速著──",
+            "ChoiceDataList": [
+                "（……不对！她真的不断地加速著……！）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "喔喔喔喔喔喔喔喔！！！！\n不够不够不够，还没完呢────！！！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "或许是因为此刻并非比赛或训练，\n现在没有任何的限制条件，\n她跑出了连我都未曾知晓的跑法。",
+            "ChoiceDataList": [
+                "（难道说，这就是荣主的──）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "──抱歉，训练员！\n好久没来这里，我有点兴奋起来了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "哎呀，真是危险啊──好危险──\n差点又要忘记回头，\n跑到倒下为止了。",
+            "ChoiceDataList": [
+                "──关于“日本杯”我有个提议",
+                "──关于“日本杯”我有个提议"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "什么，提议是指──\n你想到什么策略了吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我点头表示肯定。\n然后尽可能简洁地说明我的想法。",
+            "ChoiceDataList": [
+                "比赛时只要盯着前方向前跑就好"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "盯着前方……？",
+            "ChoiceDataList": [
+                "跑步时不要在意鲁道夫和千明",
+                "跑步时不要在意鲁道夫和千明"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "这、这样真的可以吗！？\n如果不好好留意身后的人──",
+            "ChoiceDataList": [
+                "那样根本就不是荣主的风格啊",
+                "那样根本就不是荣主的风格呀"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "我的风格……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "包含我在内，支持葛城荣主的所有人，\n都被她那即使面对逆境或障碍时，\n依旧不屈不挠持续奋斗的生存方式所吸引。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "而且这一点，在跑步时也是一样的──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "她那如同突破困难的先锋一样\n不停向前迈进的坚定跑法，\n同样也带给了人们勇气。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "她的生存方式和跑法鼓励著观众，\n让人们背负着这股意志向“前方”迈进。\n这正是葛城荣主的本质──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "换个角度看，才让我重新意识到\n盯着“前方”奋战时，\n才是葛城荣主最强的时候。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "──盯着“前方”奋战时……",
+            "ChoiceDataList": [
+                "不要因为在意“后方”而“逃跑”"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "如果太在意鲁道夫象征或千明代表\n这些紧追在后的竞争对手，\n只会让自己跑起来畏畏缩缩的并削弱气势。",
+            "ChoiceDataList": [
+                "专注看着“前方”，“前进”吧……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "只要以最快速度跑向“前方”。\n跑步时只想着往终点迈进。\n就算感觉双脚快要停下来了──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "相信葛城荣主一定将至今为止\n托付给她的心意转化成力量继续向前迈进。\n不对，她一直都在前进。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "这就是葛城荣主现在\n能够采取的最强战术──",
+            "ChoiceDataList": [
+                "这是只有你才能做到的“王牌”跑法！",
+                "这是只有你才能做到的“王牌”跑法！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "────",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "………………“王牌”跑法。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "……我本来就是从一无所有的地方开始跑到今天。\n既然要赌一把，\n那还是听值得信赖的人所说的话最好……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "我会试试看的，训练员。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "我会在“日本杯”时，\n专注看着“前方”迈进……！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "然后比其他人更快到达终点，获得胜利！！\n──以“王牌”的跑法！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "──坚定地说完后，\n葛城荣主的眼里寄宿着火焰，\n比以往更加强烈、炽热地熊熊燃烧着。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "──然后到了“日本杯”当天。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "红色缎带的赛马娘",
+            "Text": "我、我开始紧张了～！\n这可是超大舞台，对手都超超超不妙的啊！\n荣荣她没问题吧～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "戴黑框眼镜的赛马娘",
+            "Text": "没问题，她一定会充满力量地奔跑。\n她一直以来不都是这样吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "椎名弗雷瑞斯",
+            "Text": "是啊，她肯定会这么做的。\n作为“王牌”──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "（哇啊啊啊啊啊啊────！！！！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "──如此泰然自若，真了不起啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "你会这样还真少见啊。\n凌厉的气势根本藏不住呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "这代表在此地的赛马娘，\n包含你在内，都是相当强大的对手。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "（──唰！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "……唔！？\n怎么回事，这股气息是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "──哈哈！好厉害啊……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "看来我还是太低估她了呢。\n这就是……你真正的姿态吗……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "────",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "（所有支持着我的人们。\n我会将大家的心意全都转化成力量──）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "各位……跟我一起战斗吧。\n我会开辟出一条道路……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "我是葛城荣主！\n今天我会比任何人都更快地“向前迈进”──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "我就是“王牌”！！！！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

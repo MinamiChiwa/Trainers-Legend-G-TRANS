@@ -1,0 +1,655 @@
+{
+    "Title": "粉丝感谢祭",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──粉丝感谢祭。\n这场活动会邀请粉丝进入特雷森学园，\n是个开心的活动，但是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "特雷森学园"
+            ]
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "小克……\n今天也会很受欢迎吧。\n会被许多粉丝包围……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "啊～不要想这些，不要想这些……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……自从升上资深级以后，\n菱奇迹越来越在意\n她跟克莉斯耶丝象征之间的差距。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她还是相当缺乏自信，\n如果想用粉丝感谢祭建立自信的话……",
+            "ChoiceDataList": [
+                "我说，你要不要参加这个比赛？",
+                "我说，你要不要参加这个比赛？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "咦，这个比赛是……\n是写在海报上的这个吗？比赛名称是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "“兴奋又刺激☆3000millions”。\n虽然不太懂这是什么～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "不过好像很有趣，\n好啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我当然早就知道了比赛的内容跟参赛者。\n接着我们两个人一起前往比赛会场。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "咦，奇怪？\n大家好像都在认真地准备跑步？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "看起来不太像是\n兴奋又刺激的气氛啊……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "奇奇！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "咦，你是？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "是小路吗？\n难不成你也要参加这个比赛吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "小路"
+            ]
+        },
+        {
+            "Name": "成田路",
+            "Text": "是的！虽然只是祭典活动，\n但我想粉丝们应该还是最想看到\n我们认真奔跑的样子吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "能够认真奔跑的比赛，\n也只有这个项目。\n使用赛道跑3000米。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "使用赛道跑3000米……\n而且对手还是认真起来的小路……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "那样的话！\n已经算是模拟赛了吧～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这可不是普通的模拟赛，\n没错，对手可是成田路──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她还是经典级的时候，在“菊花赏”\n赢过好歌剧、爱慕织姬等众多强者，\n是正统派的长途跑者。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "能和成田路在3000米\n竞争的话，要说这是一场GⅠ级别的\n赛跑也不为过。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "GⅠ"
+            ]
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "训练员……？\n你该不会～早就已经知道了吧？",
+            "ChoiceDataList": [
+                "～～～♪"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "为什么吹起了口哨～？\n呜呜呜，我只是想开心地玩乐～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "虽然这一点都不让人觉得兴奋又刺激……\n不过……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "我知道了，\n那我就跟小路一起跑吧～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "说实话……我也想让她参加更轻松的比赛。\n但是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这也是为了要让她建立自信，\n让她的心情能够变得轻松一点。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "发令员",
+            "Text": "那么，全员各就各位！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "（小路……\n要说对于比赛的“觉悟”，\n她是跟小克不相上下的赛马娘……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "（一直都很认真，一直都是全力以赴……\n跟我完全相反，不过……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "（总觉得……不想输给她……\n我还是有不想输的心情呢。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "奇奇，请多多指教！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "小路……嗯……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "发令员",
+            "Text": "──预备！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "啊～真是的，船到桥头自然直！！\n什么都不要想了，只要努力就好！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "发令员",
+            "Text": "──开始！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "呼──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "成田路的作战跟平常一样。\n她跑在前列，\n守住前方的良好位置。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看起来就是模范生的比赛。\n另一方面，菱奇迹则是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "呼、呼、喝、喝……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这边也跟平常一样，从缓慢的起跑开始，\n以自己的步调想办法跟上。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就这样，比赛以缓慢的步调进行着，\n然后到了后期──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "在最后的直线前──拉开距离！！\n喝啊啊啊啊啊啊啊啊啊啊！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "参赛赛马娘A",
+            "Text": "呜哇，小路，\n居然在这个时机～！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──先发制人。\n成田路毫不留情地加速，然后──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "（现在追上去……还太早了吗？\n不，如果是训练员的话，\n他一定会说可以追。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "从这里开始进行长距离冲刺。\n冲啊啊啊啊啊啊！！！！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "──！？\n奇奇……！？已经开始冲刺了吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "这种胆量跟自信是怎么回事──！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "然后，两人就这样一同冲刺──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "发令员",
+            "Text": "抵达终点！！优胜者是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "发令员",
+            "Text": "成田路！\n成田路获得了胜利──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（哇啊啊啊啊啊啊啊啊啊！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "菱奇迹以些微之差落败，\n不过……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她得到的热烈掌声\n完全不输给优胜者，想必粉丝们\n也被她卖力的表现所感动。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "呼……呼……好不甘心～！\n不过也只差一点点而已……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "没想到没有任何觉悟的我，\n差点就能获胜了呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "没有任何觉悟……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "听见菱奇迹随口说说的一句话之后，\n成田路说道……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "奇奇，我觉得没有这回事，\n我敢保证。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "咦？小路……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "没有任何觉悟的人，\n不会像那样无所畏惧地发动进攻。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "那种冲刺是\n只有以自身的意志进行挑战，\n并突破极限的人才能做到的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "如果说奇奇觉得自己没有觉悟的话，\n那一定……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "只是你自己没有发现而已，\n你并不是没有觉悟。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "不仅如此，你的跑法在资深级也能继续奏效，\n你绝对有成为一流长途跑者的资质。\n所以──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "我觉得你应该要对自己更有自信！\n──你跑得超棒的喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "小路……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "成田路充满自信地如此断言。\n菱奇迹被她这么一说……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就连道谢都说不出口，只是呆呆站在原地。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "发令员",
+            "Text": "菱奇迹！\n菱奇迹获得了胜利──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（哇啊啊啊啊啊啊啊啊啊！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "虽然只是场友谊赛，\n但粉丝的掌声大小\n就好像这不只是一场友谊赛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这两个人非常认真地奔跑，\n想必粉丝们也感受到了她们的信念。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "呼……呼……赢了……\n我赢了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "没有任何觉悟的我，\n赢了有最强觉悟的小路……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "没有任何觉悟……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "听见菱奇迹随口说说的一句话之后，\n成田路说道……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "奇奇，我觉得没有这回事，\n我敢保证。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "咦？小路……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "没有任何觉悟的人，\n不会像那样无所畏惧地发动进攻。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "那种冲刺是\n只有以自身的意志进行挑战，\n并突破极限的人才能做到的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "如果说奇奇觉得自己没有觉悟的话，\n那一定……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "只是你自己没有发现而已，\n你并不是没有觉悟。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "不仅如此，你的跑法在资深级也能继续奏效，\n你绝对有成为一流长途跑者的资质。\n所以──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "我觉得你应该要对自己更有自信！\n──恭喜你获得胜利！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "小路……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "成田路充满自信地如此断言。\n菱奇迹被她这么一说……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就连道谢都说不出口，只是呆呆站在原地。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "呀呼～训练员，\n来跳舞吧，跳舞！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──然后到了后夜祭。\n菱奇迹的心情很好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "训练员，\n我好像也有一点点的“觉悟”呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "还有还有，\n那位小路居然对我说，\n我绝对有长途跑者的才能。",
+            "ChoiceDataList": [
+                "是啊，这还用说，你当然有！",
+                "嗯，这还用说，你当然有！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "耶嘿嘿，当很多人都这么说的时候，\n就会觉得好像是真的呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "虽然我还是无法认为……\n只要有觉悟就能赢过小克！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "不过，今年的春天……\n感觉状态也不错，或许能赢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "菱奇迹的眼神，\n似乎又恢复了轻松的神情。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "首先是……“天皇赏（春）”吧。",
+            "ChoiceDataList": [
+                "对",
+                "嗯"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "那里的话，\n小克应该不会参赛吧？",
+            "ChoiceDataList": [
+                "嗯，大概吧",
+                "嗯，应该吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "去年，克莉斯耶丝象征没有参加\n3000米的“菊花赏”，\n她似乎认为比起长距离，中距离才是最佳选择。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "而且从目前报导的动向来看，\n参加“天皇赏（春）”的\n可能性似乎也不大。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "这样的话，\n一定能够克服“天皇赏（春）”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "好，我一定要赢──！！\n因为我已经说过我会赢了！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "菱奇迹以自己的方式尽全力帮自己打气，\n她的声音回响在后夜祭的天空中。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

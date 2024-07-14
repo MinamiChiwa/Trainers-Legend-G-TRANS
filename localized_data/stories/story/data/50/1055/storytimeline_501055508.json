@@ -1,0 +1,54 @@
+{
+    "Title": "参赛的疲劳",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "当我跟美丽周日在河边\n寻找美丽事物时……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（啪唰──！！）",
+            "ChoiceDataList": [
+                "有东西从河里跳起！会是什么呢？",
+                "有东西从河里跳起！会是什么呢？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "…………",
+            "ChoiceDataList": [
+                "……美丽？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "…………咦？训练员，怎么了吗？",
+            "ChoiceDataList": [
+                "刚刚有东西从河里跳起……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "真的吗！？我感受到美丽预感☆\n走吧走吧，我们快去看看★",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "美丽周日的反应很迟钝，\n或许她累积了不少疲劳吧。\n看来有必要重新审视今后的参赛计划了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

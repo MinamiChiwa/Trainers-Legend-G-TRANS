@@ -1,0 +1,467 @@
+{
+    "Title": "抽奖试手气！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在我陪天狼星象征\n买完东西的回程路上。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "怎么了？真是吵闹啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "看过来看过来，现正举办新春大抽奖～！\n特奖可是“温泉旅游券”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "温泉旅游券"
+            ]
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "一奖是“特等胡萝卜汉堡排”，\n二奖是“一整堆胡萝卜”，\n三奖则是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "来喔来喔，好玩的抽奖活动！\n欢迎大家来抽喔～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "是喔。\n……这么说来，刚才有拿到一张抽奖券。",
+            "ChoiceDataList": [
+                "要不要抽抽看？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "不，我就不抽了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "你抽吧，\n让我见识一下你的运气如何。",
+            "ChoiceDataList": [
+                "我、我吗？",
+                "我、我吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "话虽如此，但用她的抽奖券让我觉得很不好意思。\n就在我犹豫不决的时候──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "不用害怕，\n就算没抽中我也不会踢你的。",
+            "ChoiceDataList": [
+                "不是这样的──我是希望让你来抽。",
+                "不是这样的──我是希望让你来抽。"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "喔，想要求我做事？\n你变得很了不起呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "我的回答是no，我觉得这不有趣。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "首先，这张抽奖券是我的东西，\n想怎么用都随我高兴，对吧？",
+            "ChoiceDataList": [
+                "不过──"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "知道的话就握住把手，\n老爹，我要抽一次。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我还来不及反驳她，就被迫握住了把手，\n无法反抗地──转动了抽奖机！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "结果──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "天啊！恭喜────！！\n抽到特奖“温泉旅游券”了～～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "……呵呵，啊哈哈！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "抽到特奖了呢，\n真是惊人的好运啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "旅行目的地也还算是有名的旅馆，\n你就尽情地享受吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "然后，天狼星象征就理所当然地\n把“温泉旅游券”递给我。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "但这本来就是用她的抽奖券抽到的东西。\n再怎么样我都不能收下。",
+            "ChoiceDataList": [
+                "你拿去用吧",
+                "你拿去用吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "啊啊？我都说要给你了，\n闭上嘴乖乖收下。",
+            "ChoiceDataList": [
+                "不，可是──"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "……真是的，真拿你没办法啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "那我就先留着当作你的奖励吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "毕竟照顾自己养的狗是主人的责任嘛，\n有需要的时候再给你吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "在那之前，拼命努力地摇著尾巴吧。\n小狗狗。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就这样……我被安排了一个\n出乎意料的“奖励”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "恭喜抽到一奖～！\n奖品是“特等胡萝卜汉堡排”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "喔，不错的结果啊。\n仔细一看使用的都是一流食材呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "吃的时候要好好品尝喔。",
+            "ChoiceDataList": [
+                "不，这是你的啊",
+                "不，这是你的啊"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "……很遗憾，\n我可是象征家的有钱小孩。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "比起让我吃，\n用来培养你的味觉更有用。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "对了，别忘了跟我报告\n它的美味之处喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "不然可学不到东西呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在那之后，\n我乖乖地品尝了“特等胡萝卜汉堡排”──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "实在是好吃到难以置信的程度，\n我忍不住当场打电话向她报告。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "啊哈哈哈！是吗，有那么好吃吗？\n那真是太好了呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "……呵呵，不妙了，给他食物这件事\n会令人上瘾呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "二奖～！！\n奖品是“一整堆胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "我想还算可以吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "一整堆胡萝卜啊。\n你应该吃不完吧？",
+            "ChoiceDataList": [
+                "是啊……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "好不容易抽中的奖品，说来可惜，\n但看来难以避免浪费食材了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "我也想避免摄取过多营养，\n老爹，不好意思，这些就──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "……不，没事。\n我想到办法了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星的后辈们",
+            "Text": "真的可以吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "是啊。\n想要多少就尽管拿去吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星的后辈们",
+            "Text": "谢谢──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "天狼星象征看着开心的后辈们，\n似乎相当心满意足。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "三奖～！\n奖品是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "嗯，顶多就是这样吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "不过，一根胡萝卜啊。\n要直接给你也是可以啦……\n但这样就太没创意了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "好。\n让我见识一下你的烹饪技巧吧。",
+            "ChoiceDataList": [
+                "咦？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "营养管理也是训练员的工作。\n这应该难不倒你吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "煮得够好吃的话我会夸奖你。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "于是就这样决定了，\n我得用一根胡萝卜做出一道菜。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "──哦。",
+            "ChoiceDataList": [
+                "你、你觉得怎么样呢……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "太慢了，而且火侯也不太够，\n外观也不算太好看啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "……不过，倒是很好地活用了食材。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "原本还想说不知道会怎样，\n但她似乎相当满意的样子。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "很可惜，没抽中！\n参加奖是“卫生纸”喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "嗯，反正打从一开始我就没有期待。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "不过啊……\n虽然我并不真心相信所谓的运气──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "但抽到写着“没中”的东西，\n还是让人感觉不太好呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "隐约感到天狼星象征\n似乎有点沮丧的样子……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

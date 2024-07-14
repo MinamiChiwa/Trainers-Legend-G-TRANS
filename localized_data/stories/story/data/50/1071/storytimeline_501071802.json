@@ -1,0 +1,346 @@
+{
+    "Title": "深闺千金……？",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "某天，我要与早一步出门的\n目白阿尔丹会合，一起去采购。\n当我到了会合地点时……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "行人A",
+            "Text": "哇……好漂亮的女孩，\n就像是深闺里的千金小姐……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "行人B",
+            "Text": "确实有股不食人间烟火的气质，\n感觉不太懂人情世故呢～",
+            "ChoiceDataList": [
+                "（不食人间烟火的气质吗……）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "训练员。",
+            "ChoiceDataList": [
+                "！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "……怎么了吗？",
+            "ChoiceDataList": [
+                "没事……抱歉让你久等了",
+                "没事……抱歉让你久等了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "我也才刚到而已。\n来，我们走吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是我跟目白阿尔丹\n一起去采购训练时需要的东西。然后──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "──比原定时间还早结束呢。",
+            "ChoiceDataList": [
+                "是啊",
+                "是呀"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "……难得有这机会，\n要不要绕远路回去呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "毕竟今天都一直在谈公事，\n我们可以聊点轻松的话题。",
+            "ChoiceDataList": [
+                "就这么做吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是我跟她随意地走着，不断前行，\n结果──",
+            "ChoiceDataList": [
+                "（我们跑到可疑的地方来了……）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "这附近……气氛真独特呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "目白阿尔丹就好像看到新奇东西一般，\n在昏暗的小巷四处张望。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "行人B",
+            "Text": "确实有股不食人间烟火的气质，\n感觉不太懂人情世故呢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "……或许她在陌生的地方会感到不安。\n我开始觉得，自己必须要保护她──",
+            "ChoiceDataList": [
+                "不管发生什么事我都会保护你！",
+                "跟我来！",
+                "跟我来！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "……或许她在陌生的地方会感到不安。\n我开始觉得，自己必须要保护她──",
+            "ChoiceDataList": [
+                "不管发生什么事我都会保护你！",
+                "跟我来！",
+                "跟我来！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "……好的。\n拜托你了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "为了不让她感到更不安，\n我尽可能选择明亮的路──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "哎呀，这条路是……",
+            "ChoiceDataList": [
+                "走到我们熟悉的地方了呢！",
+                "走到我们熟悉的地方了呢！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "是啊。",
+            "ChoiceDataList": [
+                "你很怕吧",
+                "你很怕吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "不会，我一点都不怕。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "因为有一位可靠的骑士保护了我。",
+            "ChoiceDataList": [
+                "……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "这么说来，\n刚才在气氛烘托下，我竟然说了那种话……\n事到如今，我开始难为情起来──",
+            "ChoiceDataList": [
+                "我、我们回去吧──"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "！\n危险！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "──没事吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我急着动身结果失去平衡，\n就在差点要跌倒时，\n目白阿尔丹扶住了我……",
+            "ChoiceDataList": [
+                "抱歉，谢谢你……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "……呵呵。",
+            "ChoiceDataList": [
+                "阿尔丹？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "不好意思，\n总觉得你很可爱……",
+            "ChoiceDataList": [
+                "！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "你不用跟我道谢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "因为我也想要保护你呀。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "训练员？",
+            "ChoiceDataList": [
+                "跟紧我！",
+                "跟紧我！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我抓着目白阿尔丹的手臂跑了起来。\n一口气冲到底，尽快逃离这里吧──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "就在我这么想的时候……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "──请等一下。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "既然这样，应该是跟紧“我”才对。",
+            "ChoiceDataList": [
+                "阿尔丹……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "请把手给我，\n跟我来吧。",
+            "ChoiceDataList": [
+                "咦──"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我才刚会意到自己的手臂被抓住后，\n接着便换成了她在前头拉着我跑……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "──呼……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "抱歉，由于这附近有些昏暗……\n我就想我们循原路回去比较好。",
+            "ChoiceDataList": [
+                "呼……呼……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "你没事吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "我尽量把速度控制在\n轻度慢跑的程度了……",
+            "ChoiceDataList": [
+                "我、我没事"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "这样吗？\n稍微休息一下再回去吧。",
+            "ChoiceDataList": [
+                "可是为什么……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "你是问……为什么要换我领路吗？\n因为──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "既然要跑步，\n那么带领你便是我的职责。",
+            "ChoiceDataList": [
+                "！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "不过……这样说或许不妥，\n但我很享受……那样的状况。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "如果你不排斥……我下次还想要绕远路。\n到时候我一样会带领你的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

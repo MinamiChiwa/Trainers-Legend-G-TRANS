@@ -1,0 +1,292 @@
+{
+    "Title": "一起体验野地生活",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "因为千明代表的露营话题听起来实在太有趣了，\n使我不禁想亲身体验看看，便来到了山上──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "结果完全迷路了啊。\n原来如此，幸好我刚好经过呢。",
+            "ChoiceDataList": [
+                "真没面子……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "有兴趣不是件坏事喔。\n毕竟露营真的很开心。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "我要先回营地一趟，\n训练员要一起来吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我毫不犹豫地点头，\n请千明代表让我一起同行。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "好，到了。",
+            "ChoiceDataList": [
+                "那个……露营道具呢？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我们抵达的地方既没有搭帐篷，也没看到火炉。\n而千明代表身上的行李就只有一个背包……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "当然是接下来开始准备啊！\n食材和露营要用的东西，\n都要靠自己采集和制作。很有趣喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "管理员先生！\n我会帮忙修剪枯枝，\n多余的树枝可以让我用在露营上吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "山区管理员",
+            "Text": "嗯，好啊。\n你可以自由使用回收的树枝。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "好，训练员也拿一把修枝剪吧。\n我们去收集椅子和篝火的材料。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "嗯，获得不错的树枝了。\n那么就把这个拿出来──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "千明代表从背包里拿出厚布，\n穿过立起来的枯枝，\n做成简单的椅子。",
+            "ChoiceDataList": [
+                "好，我也来做！",
+                "好，我也来做！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "哦，感觉还不错呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "机会难得，也想品尝一下当季的食材呢～\n现在这个季节──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "喔，找到看起来很好吃的山菜了！",
+            "ChoiceDataList": [
+                "那边的叶子也能吃吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "啊～那个不能吃。\n长在脚边的这个可以。\n而且味道非常独特呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "哇啊，那里有条大鱼！\n就把那个当作今天的主食吧！",
+            "ChoiceDataList": [
+                "咦？可是没有钓竿……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "用手抓就行了！快点快点，\n要是被它逃掉，主食就只有山菜了喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我可不想只吃山菜。既然如此，\n无论如何都要抓到才行……！\n于是我全神贯注地瞄准那条鱼──",
+            "ChoiceDataList": [
+                "我的主食──！！",
+                "我的主食──！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "啊哈哈，你喊的那是什么口号！\n而且还确实抓到了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "恭喜你。\n训练员，你立下大功了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "──那么，开始料理吧！\n等生好火后，就用树枝把刚才采到的食材串起来。",
+            "ChoiceDataList": [
+                "了解！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "处理好食材后，我们一起坐在简易椅子上，\n静静看着鱼和山菜慢慢地被烤熟。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "因为在山里面到处走动，\n我现在已经精疲力尽了，\n但是这种疲惫感也不坏。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "差不多烤好了吗。\n训练员也来吃吃看吧。",
+            "ChoiceDataList": [
+                "嗯…………好吃！！",
+                "嗯…………好吃！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "好吃吧？\n我也来吃。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "嗯～这就是大自然的恩惠！\n果然现采现烤最好吃了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "……吃饱饭就想睡了。\n呼啊……我稍微休息一下～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我也效法她坐着闭上眼睛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "远离热闹的市区，在安静的山上自给自足──\n像这样忘记时间生活，\n就会觉得自己好像也成为了大自然的一部分。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "啊～睡得好饱！\n差不多该回去了。",
+            "ChoiceDataList": [
+                "真庆幸今天有来",
+                "我还不想回去……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "啊哈哈，你明明差点就遇难了耶？",
+            "ChoiceDataList": [
+                "所以我才能和千明一起享受山上的时光"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我本来想提议下次再一起来……\n但最后还是把话吞了回去。\n因为我觉得立下束缚她的约定不太好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "……\n我偶尔会来这里。\n所以──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "如果下次又遇到，就请多关照了。",
+            "ChoiceDataList": [
+                "……嗯！我才要请你多多关照！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "顺着当下的状况和心情前进，\n如果能再次像这样相遇就好了──\n我怀抱着小小的期待，踏上归途。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "呵呵，那要就这样住在山里吗？\n晚上的山很危险喔。\n有时候天气会很差──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "面对千明代表恶作剧般的笑容，\n我连忙摇头否定。",
+            "ChoiceDataList": [
+                "我要回去！我想在你的身边看着梦想！",
+                "我要回去！我想在你的身边看着梦想！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "……是吗？\n那往后也请多指教啦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "千明代表非常轻快地吹着口哨，\n随心所欲地踏出步伐。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "这段如梦般的时光到此结束，\n为了继续在她身上看见梦想，\n我连忙追上她的背影。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

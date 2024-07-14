@@ -1,0 +1,330 @@
+{
+    "Title": "各种疗愈之旅",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "训练员～关于前阵子讨论过的\n“疗愈训练”的事──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "天气也很好，这之后就出发如何？",
+            "ChoiceDataList": [
+                "……！那就拜托你了！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "看来菱奇迹还记得，\n上一次我发现自己“不擅长放松”这件事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "难得她要教导我……\n我今天要好好地学起来，\n然后在未来好好活用！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "那么，野餐垫也铺好了，\n暂时先躺在这里滚来滚去吧～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "菱奇迹带我来到山丘上，\n我立刻躺在野餐垫上，\n望着天空。",
+            "ChoiceDataList": [
+                "（真适合训练的天气啊……）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "──不对！\n今天是为了疗愈而来的，\n必须忘记训练的事好好休息。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "（～～～♪）",
+            "ChoiceDataList": [
+                "……音乐？到底是从哪里传来的──"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "其实，在不远处有个\n祭典的会场喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "隐约从远处传来的BGM，\n我觉得这个感觉相当不错～",
+            "ChoiceDataList": [
+                "这种感觉确实很疗愈呢～"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "喔喔，接得好～\n狗狗们跑得好快啊～",
+            "ChoiceDataList": [
+                "是个有遛狗场的公园啊",
+                "是个有遛狗场的公园呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "狗",
+            "Text": "汪汪！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "狗的饲主",
+            "Text": "啊，慢著！真是的，对不起。\n这孩子好像想跟你们一起玩……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "啊，别在意──\n难得来了，当作是饭后运动一起玩如何？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "狗",
+            "Text": "汪汪！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "等、等一下！我现在就丢球！\n不……不要跑来追我啊～！",
+            "ChoiceDataList": [
+                "被追赶时的那个加速……真不错！",
+                "被追赶时的那个加速……真不错！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "呼啊～好凉快。\n运动过后的“足浴咖啡厅”最棒了~",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "……从训练员看来觉得如何？\n最后的疗愈景点，“足浴咖啡厅”～",
+            "ChoiceDataList": [
+                "从下次开始休息日就来这里吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "可以舒缓双脚的疲劳，还有时髦的料理\n让心情嗨起来！简直是一举两得的地方！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "──呵呵，真不愧是\n奇奇的“疗愈之旅”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "真巧啊！我们也正在进行\n奇奇亲自传授的“疗愈之旅”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "生野狄杜斯",
+            "Text": "话说回来，今天的“主题”是？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "嗯～今天的主题是……\n“努力过头的那个人最后也会变得懒散！\n魔性的疗愈景点！”吧～",
+            "ChoiceDataList": [
+                "魔性的疗愈？……啊！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "对了，现在是“疗愈训练”中啊！\n从中途开始我就忘得一干二净，\n只想着工作的事情。",
+            "ChoiceDataList": [
+                "（奇怪？不过──）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "原来如此！奇奇的训练员，\n也是非常努力不懈的人呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "没错没错～我认为还算蛮有效的，\n从训练员看来觉得如何？有感到疲劳吗？",
+            "ChoiceDataList": [
+                "其实，完全没有……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "一边听着音乐，\n一边想着工作……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "在跟狗玩耍时，\n也能找到训练的灵感。",
+            "ChoiceDataList": [
+                "明明是在工作，却完全不会累……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "生野狄杜斯",
+            "Text": "我的主题是“让双腿休息但手不要停下来”，\n也是一个能够兼顾工作和休息的最佳主题。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "生野狄杜斯",
+            "Text": "多亏这样，我才没有停下用来参赛的双脚，\n一路跑到了这里。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "“打赤脚对你的双脚和内心最好！”也是\n非常适合有过劳倾向的我呢！",
+            "ChoiceDataList": [
+                "“疗愈方式”也有这么多类型……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "对啊～？\n毕竟也有分适合跟不适合嘛！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "如果你觉得自己有恢复精神的话，\n那今天这种感觉\n或许就很适合训练员喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "其实，在辨别这件事上，\n我比普通人还要更有一点～点自信。",
+            "ChoiceDataList": [
+                "你真是非常能干的训练员啊！",
+                "你真是非常能干的训练员呢！",
+                "你考虑了很多事情呢",
+                "你考虑了很多事情呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "其实，在辨别这件事上，\n我比普通人还要更有一点～点自信。",
+            "ChoiceDataList": [
+                "你真是非常能干的训练员啊！",
+                "你真是非常能干的训练员呢！",
+                "你考虑了很多事情呢",
+                "你考虑了很多事情呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路&生野",
+            "Text": "能干的训练员？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "啊～那个……训练员这个称呼，\n是训练员擅自这样叫的～",
+            "ChoiceDataList": [
+                "因为你是我的“疗愈”训练员啊",
+                "因为你是我的“疗愈”训练员呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "真不错呢！\n我也觉得你是很能干的训练员喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "真是的──！\n就算这样捧我，也不会有什么好处喔～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "虽然这么说，\n但其实我也只是凭感觉随便决定──",
+            "ChoiceDataList": [
+                "真想再泡一次足浴呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我想再多享受一下，\n她努力帮我设计的疗愈体验。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "不错呢～\n难得来了，你们两个也一起来泡吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "（咚……♪）",
+            "ChoiceDataList": [
+                "啊～好幸福～～～"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱奇迹",
+            "Text": "真幸福呢～～～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田路",
+            "Text": "呵呵呵！他们这样的关系，\n会不由得让人感到憧憬呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "生野狄杜斯",
+            "Text": "是啊，光是看着也会被疗愈，\n或许真的有这种效果呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

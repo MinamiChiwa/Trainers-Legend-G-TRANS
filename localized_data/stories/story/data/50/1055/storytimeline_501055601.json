@@ -1,0 +1,38 @@
+{
+    "Title": "这次一定要获胜！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "啊哈哈！比赛就要开始了☆\n准备万全★也上过厕所了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "上次我没能跑赢！不过也因为这样，\n要是今天赢了就能创造出更巨大的美丽☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "训练员！这次我一定会\n为大家带来满满的美丽☆★☆",
+            "ChoiceDataList": [
+                "我很期待喔！",
+                "我很期待喔！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "嗯！我出发了～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

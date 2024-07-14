@@ -1,0 +1,73 @@
+{
+    "Title": "挑战夹娃娃机！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "某天，\n我跟克莉斯耶丝象征一起外出时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "克莉斯耶丝象征",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我往克莉斯耶丝象征的视线前方看去，\n那里摆了一台\n里面装着赛马娘主题玩偶的夹娃娃机。",
+            "ChoiceDataList": [
+                "你对玩偶有兴趣吗？",
+                "你对玩偶有兴趣吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "克莉斯耶丝象征",
+            "Text": "……这玩偶以赛马娘──为原型。\n大家都因为抓到玩偶──而开心。",
+            "ChoiceDataList": [
+                "嗯，看起来挺受欢迎的呢",
+                "嗯，看起来挺受欢迎的呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "克莉斯耶丝象征",
+            "Text": "受欢迎……\n与带动竞赛界──息息相关。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "克莉斯耶丝象征",
+            "Text": "我──必须了解。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看来克莉斯耶丝象征，\n似乎想要多了解一点那些玩偶。\n既然如此──",
+            "ChoiceDataList": [
+                "我去挑战看看能不能抓到！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "克莉斯耶丝象征",
+            "Text": "──拜托了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──这个挑战，不能失败！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,429 @@
+{
+    "Title": "抽奖试手气！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我跟谷水琴蕾在商店街买完东西，\n准备回去时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "嗯？那是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "一奖是“特等胡萝卜汉堡排”，\n二奖是“一整堆胡萝卜”，\n三奖则是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "看过来看过来，现正举办新春大抽奖～！\n特奖可是“温泉旅游券”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "温泉旅游券"
+            ]
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "来喔来喔，好玩的抽奖活动！\n欢迎大家来抽喔～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "抽奖……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "……呵呵，如箭一般的东西啊。",
+            "ChoiceDataList": [
+                "箭？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "没错。\n以偶然与必然决定命运之物。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "这就是箭。\n现在可以说是那颗小球背负着这责任。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "那颗球只要落下一次，\n便会决定吾等的命运吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "虽然不太明白，但是她对抽奖兴趣……\n应该是这样吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "幸好刚才得到供品时获得了“弓”──\n也就是抽奖券。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "所以我们试射看看吧。\n前来造访的是救赎？还是破灭？\n……哈哈哈哈！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "谷水琴蕾斗志昂扬地\n转动了抽奖机的把手！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "结果──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "天啊！恭喜────！！\n抽到特奖“温泉旅游券”了～～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "──唔！！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "我们被方舟选中了……！！\n训练员，我们被选中了！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "我们获得权力，\n可以前往名为温泉的全新地平线！！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "呵呵，哈哈哈──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "哇哈哈！！啊──哈哈哈！！\n啊────────哈哈哈！！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "走吧，前往炽热的大地！！\n迈向泉源失控喷发之地！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "话说回来──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "根据概要内容，方舟似乎是给两个人搭的。\n训练员，我们要怎么办？",
+            "ChoiceDataList": [
+                "怎么办……这是什么意思？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "我们同是搭乘方舟的人，\n我想问问你的看法。",
+            "ChoiceDataList": [
+                "咦？意思是我要跟你一起去！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "当然，你在这里看到了我的命运。\n既然如此，我们很适合一起去。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "但是……我们正在战斗。\n我认为现在不应该停下脚步。\n你怎么想？",
+            "ChoiceDataList": [
+                "嗯，我觉得这样做很好"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "……呵呵，看来我是多问了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "那就交给未来的吾。\n等时候到了我会再考虑。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "恭喜抽到一奖～！\n奖品是“特等胡萝卜汉堡排”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "这真是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "多么知性的造型！！\n简直就是文明开化！时代的黎明──！！",
+            "ChoiceDataList": [
+                "咦，是、是吗……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "当然是！你看这配色！\n沉稳的锈色搭配生命力十足的橘色！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "从中世纪到近代，\n橘色都是用来加强印象，但是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "如此大胆的用法\n会不会是头一遭……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "换句话说，\n没有知性是不可能做出这个造型的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "啊哈哈哈！！真是太出色了！！\n我就小心收下了！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在那之后，\n谷水琴蕾在回去的路上\n说了许多她自己的美学给我听。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "二奖～！！\n奖品是“一整堆胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "呵呵，\n看来我们深受丰收女神的喜爱啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "不过这分量真多。\n该怎么处理──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "──啊！！怎么会这样……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "你看，你右手拿着的胡萝卜！！\n那胖胖的形状就像多立克柱式！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "然后左手的胡萝卜！\n那长著娇嫩叶子的形状就像科林斯柱式圆柱！",
+            "ChoiceDataList": [
+                "……咦？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "换句话说──呵呵，我懂了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "将这些柱子作为基底，打造神殿……\n丰收女神是这个意思吧？",
+            "ChoiceDataList": [
+                "什么！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "哈哈哈哈！！好啊！！\n就依照女神的期望，盖座神殿吧！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在那之后，\n我听着谷水琴蕾讲解胡萝卜神殿的设计图，\n步上通向学园的道路。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "三奖～！\n奖品是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "……嗯。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "虽然不到心满意足……\n不过用来做一人份的饮料应该足够。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "训练员，\n我们今天走了很多路。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "换句话说，\n你的肉体现在应该正在索求缓和干渴的水滴。\n……对吧？",
+            "ChoiceDataList": [
+                "好像确实有点渴"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "呵呵，那我们踏上归途吧。\n回去的路上把你的喜好仔细说给我听。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我一边跟谷水琴蕾聊加了胡萝卜的饮料，\n一边走回学园。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "很可惜，没抽中！\n参加奖是“卫生纸”喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "……这就是结果啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "真可惜，\n看来箭矢没有射中标靶呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "不过我们跟那位威廉泰尔不同，\n永远都会有新的机会。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷水琴蕾",
+            "Text": "那么现在就收下这些卫生纸……\n然后为下次的机会做好准备吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

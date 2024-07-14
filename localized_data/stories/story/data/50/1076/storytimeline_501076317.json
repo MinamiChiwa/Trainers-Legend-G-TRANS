@@ -1,0 +1,360 @@
+{
+    "Title": "即使冬天造访我们",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "“菊花赏”比赛前的一个礼拜。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "跟樱花桂冠讨论过后，\n我们决定放弃参加“菊花赏”。\n但取而代之地──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "但我还是要去观摩，不能放过任何机会！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "好的，赶紧来安排行程吧。\n搭乘开赛三小时前的新干线……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "……咦？这新闻──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新闻节目",
+            "Text": "“快报。原定参赛天皇赏（秋）的\n琵琶晨光于记者会宣布将暂时住院。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "天皇赏（秋）"
+            ]
+        },
+        {
+            "Name": "记者A",
+            "Text": "晨光小姐！\n这次之所以决定住院是否因为受伤？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "……不是的。我只是想以最万全的状态挑战比赛，\n所以决定专心疗养。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "不知是否因为今年夏天过于炎热，\n我的状态一直稍显低落。\n希望能借由这次机会调整回原本状态。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "我预定于“菊花赏”当天出院。因为秋季过后的\n下一场比赛就是白仁预计参赛的有马了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "看来小晨光也很期待跟白仁展开姊妹间的决战呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "……不知道究竟是谁会赢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我跟樱花桂冠一同期待着未来的比赛。\n然而与此同时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "网络上却充斥着各种留言，\n都在讨论琵琶晨光暂时住院一事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "网络上的留言",
+            "Text": "“晨光究竟怎么了？竟然需要住院？”\n“只是为了有马专心休养吧，没事啦。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "网络上的留言",
+            "Text": "“我觉得记者会上的她看起来肌肉不太结实。”\n“老实说我也很担心白仁。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "京都赛场上空乌云密布。\n我跟樱花桂冠抵达“菊花赏”现场后──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众A",
+            "Text": "到最后都一直没有晨光的后续消息啊。\n她应该预定于今天出院的说……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众B",
+            "Text": "我不是说了吗～～她出院时新闻自然会报导！\n现在重点是看着白仁的表现吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众C",
+            "Text": "白仁大人一定没问题的。\n白仁大人一定没问题的……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "这天观众席的每一位皆显得有些浮躁不安。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "……小晨光不都在记者会上解释得很清楚了吗？\n只是“想以最万全的状态挑战比赛”啦。",
+            "ChoiceDataList": [
+                "嗯，是啊",
+                "嗯，是呀"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "但即使理智上明白，\n仍旧难以避免受到身边人群的窘迫气氛感染。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "成田白仁就在这异样的气氛之中进入闸门──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "播报员",
+            "Text": "琵琶晨光之妹没问题！妹妹办到了！！\n成田白仁第一名！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "成田白仁仿佛像要划开累积已久的乌云般\n勇猛地冲过了终点……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "……哼。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众们",
+            "Text": "白仁！白仁！\n白仁！白仁！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "播报员",
+            "Text": "呼喊“白仁”的声音在会场中回荡！\n这就是独一无二的最强！现任最强的赛马娘！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "……好厉害。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "训练员，\n白仁真的好厉害……",
+            "ChoiceDataList": [
+                "是啊，居然能以七身距差赢得“菊花赏”──",
+                "是呀，居然能以七身距差赢得“菊花赏”──"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "没错。除了成绩惊人……就连四周观众也──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众D",
+            "Text": "白仁～～！\n你真的太帅了～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众E",
+            "Text": "就是这个！\n这就是我们的成田白仁！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "此刻的气氛早已跟比赛前截然不同。\n大家都被白仁深深吸引，陷入狂热。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "──我也想变得更强，\n想像她一样能用自己的双脚翻转一切。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "我也想绽放出不输她光辉的光芒。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众们",
+            "Text": "白仁──！看这边──！\n你就是我们的最强赛马娘──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "听说了吗？\n成田白仁好像要继续走上中长距离的主流路线！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者B",
+            "Text": "听说了，演唱会结束后我会去确认。\n看来她今年会以“有马纪念”作结，\n明年以“天皇赏（春）”开始吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "……“天皇赏（春）”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "到了明年春天，\n我这双脚的悬念是不是就能完全解决了呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "“天皇赏（春）”为属于长途跑者的顶尖决定战。\n虽说樱花桂冠的确拥有长距离资质──",
+            "ChoiceDataList": [
+                "……你想参赛？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "呵呵。\n先等我的脚痊愈。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "我并不急于明年就能参赛天皇赏（春）。\n即使再延到下一年也无妨。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "因为──\n我知道她无论何时都会坚持跑在我前方。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "为了确实超越她，我想慎重做好准备，\n将状态调整得万无一失再去挑战♪",
+            "ChoiceDataList": [
+                "也好",
+                "也好"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "好的！我会熬过冬天，\n在春天灿烂盛开！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "行人A",
+            "Text": "……！\n听说琵琶晨光照原定计划出院了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "行人B",
+            "Text": "喔，太好了！\n被我说中了吧～根本不用担心嘛～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "行人A",
+            "Text": "白仁这里也进展顺利。\n等她跑完“天皇赏（秋）”后，\n姊妹终于要在“有马纪念”──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新闻节目",
+            "Text": "……好的，接着下一则新闻。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新闻节目",
+            "Text": "……！　嗯，临时变更内容，\n让我们先关注这则新闻。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新闻节目",
+            "Text": "快报。\n原定参赛天皇赏（秋）的琵琶晨光──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新闻节目",
+            "Text": "宣布因左脚受伤，\n“决定取消目前的所有参赛计划”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新闻节目",
+            "Text": "众人原本期待她将在“有马纪念”\n与成田白仁展开正面对决，\n但她已取消包含有马纪念在内的所有参赛预定。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

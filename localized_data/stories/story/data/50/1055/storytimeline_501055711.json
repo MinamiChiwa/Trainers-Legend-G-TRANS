@@ -1,0 +1,76 @@
+{
+    "Title": "下次不会输了！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "比赛结束，美丽周日回到休息室后\n口中念念有词……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "嗯……嗯……",
+            "ChoiceDataList": [
+                "你还好吗……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "……嗯？我？我很好啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "跟你说喔，我正在思考。\n想着该怎么做才能赢得比赛呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "我不想再继续连败了。\n因为这样的我根本无法传递美丽。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "所以我想变得更强。\n训练员，我该怎么做才好？",
+            "ChoiceDataList": [
+                "一点一滴地累积努力吧！",
+                "一起重新锻炼吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "──嗯，我知道了。\n别心急，脚踏实地慢慢来对吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "每踏出一步都能创造明天的美丽！\n一切都是为了成就巨大的美丽★",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "──嗯。那就麻烦你安排\n最适合我的训练项目啰！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "下次一定会赢！一定要将美丽传递出去！\n加油加油，喔────☆★☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

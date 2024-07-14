@@ -1,0 +1,44 @@
+{
+    "Title": "睡眠不足……",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "红宝的管家",
+            "Text": "──劳烦您从半夜便开始应对，\n真是辛苦了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝",
+            "Text": "我只是尽了应尽的责任。\n……那我出发了。",
+            "ChoiceDataList": [
+                "你该不会几乎没休息到吧？",
+                "你该不会几乎没休息到吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝",
+            "Text": "……早安。\n因为有紧急案件需要处理。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝",
+            "Text": "不过，我还是有做最低限度的休息，\n所以不需要调整练习内容……待会见。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看来，第一红宝因为忙着\n处理紧急状况而睡眠不足。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

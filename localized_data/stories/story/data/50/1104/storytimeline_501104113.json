@@ -1,0 +1,551 @@
+{
+    "Title": "相邻的现实",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "葛城荣主的出道战即将到来，\n就在某一天──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "──好，这就是最后一次了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "（嘿嘿，多亏有训练员，\n自主训练的品质真的提高了很多呢……！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "（以前我只能向教官\n询问训练的方法，他们也只会\n教我一些基础的东西而已……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "（这种情况下，有些人会加入俱乐部，\n有些人会找身边和赛事相关的亲朋好友，\n借此进行更适合自己的专业训练。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "（但是我没有那些机会。\n所以只能拼命地练习\n教官教我的基础训练……不过──）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "（现在我身边有训练员在！\n他会以适合我的方式，思考我需要的锻炼方法，\n是个非常可靠的存在！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "等著瞧吧……！\n现在开始我会一口气变得更强……！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "红色缎带的赛马娘",
+            "Text": "──喔，荣荣──！\n你很努力在自主训练呢～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "荣荣"
+            ]
+        },
+        {
+            "Name": "戴黑框眼镜的赛马娘",
+            "Text": "小荣，辛苦了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "喔，怎么了怎么了？\n你们两个也要自主训练吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "（──这两位是从我来到学园以后，\n就跟我一直感情很好的死党。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "（然后从今年起我们也成了比赛的同期。\n也就是说同时也是竞争对手。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "红色缎带的赛马娘",
+            "Text": "不不不，我们是来激励你的啦！\n荣荣现在正要休息对吧？\n要不要闲聊一下？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "戴黑框眼镜的赛马娘",
+            "Text": "小荣，我们听说你的出道战即将到来……\n所以想跟你聊聊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "戴黑框眼镜的赛马娘",
+            "Text": "──话说回来，\n我们真的很幸运呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "嗯？幸运？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "戴黑框眼镜的赛马娘",
+            "Text": "你看，我们全都找到了训练员，\n然后也都可以出道不是吗？\n我认为……这是一件很厉害的事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "红色缎带的赛马娘",
+            "Text": "说得没错！\n而且我们还成为了同期，\n真是个奇迹呢～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "戴黑框眼镜的赛马娘",
+            "Text": "……我一直都觉得很不安。\n……搞不好我会永远无法出道。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "戴黑框眼镜的赛马娘",
+            "Text": "……明明是受到俱乐部人们的\n支持和期待而入学的，我无论如何都不希望……\n直到毕业都没能参加任何比赛……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "红色缎带的赛马娘",
+            "Text": "我懂～我也觉得既然都来到这里了，\n真的不想就这样半途而废啊～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "戴黑框眼镜的赛马娘",
+            "Text": "对吧，所以当我被挖角的时候，\n真的好开心啊！\n我心想这样就可以在闪耀系列赛中奔跑了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "戴黑框眼镜的赛马娘",
+            "Text": "心想，终于…………实现了梦想──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "……喂喂！你说反了吧？\n不是终于实现了，\n而是现在正要开始去实现吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "红色缎带的赛马娘",
+            "Text": "对啊对啊──！接下来一定会更嗨！\n总之先在出道战好好努力吧──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "红色缎带的赛马娘",
+            "Text": "不过──跟千明同期\n也是挺不走运的。\n只能祈祷不会在比赛时遇到她吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "戴黑框眼镜的赛马娘",
+            "Text": "……说得也是。\n嗯，首先呢……跑就对了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "────",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "…………",
+            "ChoiceDataList": [
+                "……今天发生了什么事吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "葛城荣主很难得会在训练时\n露出忧虑的表情，\n于是我忍不住这么问她。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "哈哈，没事啦。\n只是稍微在想一些事情而已……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "…………抱歉。\n其实真的发生了一些事。",
+            "ChoiceDataList": [
+                "不介意的话，可以跟我说喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "……嘿嘿。\n这样啊，那我就全都说给\n可靠的训练员听听吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "之后，\n葛城荣主告诉我白天时\n她和两位朋友之间的对话内容──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "……训练员，\n听完刚刚的话之后，你发现了吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "我的死党，那两个人……\n从来没说过“想赢”，\n从来没有表达过想赢的心情。",
+            "ChoiceDataList": [
+                "────"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "刚成为死党的时候，\n那两个人跟现在完全不同──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "戴黑框眼镜的赛马娘",
+            "Text": "──然后啊，我就在欢送会上发出宣言。\n说要赢得主要竞赛，\n成为能够挑战经典三冠的优秀赛马娘……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "主要竞赛",
+                "经典三冠"
+            ]
+        },
+        {
+            "Name": "红色缎带的赛马娘",
+            "Text": "我跟你完全相反～！\n大家都对我说“你一定要成为GⅠ赛马娘啊”，\n用这句话送我启程！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "GⅠ"
+            ]
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "是喔～你们两个的都很棒耶！\n我则是被说“不要勉强自己”之类的，\n没人对我抱期待呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "戴黑框眼镜的赛马娘",
+            "Text": "呃，毕竟小荣有点特殊嘛，\n该怎么说呢……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "──不过重点还是那个吧。\n既然都来到特雷森学园了，\n那就要一直赢下去，打响自己的名号！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "红色缎带的赛马娘",
+            "Text": "没有错！\n让我们不断获胜，以顶点为目标吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "戴黑框眼镜的赛马娘",
+            "Text": "嗯……！\n我也想拿出能让俱乐部的人们\n引以为傲的战绩……！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "──想获胜，想要成为强大的赛马娘。\n当时她们两个人还能表达这样的心情，\n普通地说出这些话。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "不过……随着在学园里的日子一天天过去──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "──呀啊啊啊啊！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（喔喔～～！！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "丸善斯基",
+            "Text": "──呼～！今天天气也超赞的！\n速度也会越来越快喔♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "围观的赛马娘A",
+            "Text": "不愧是丸善前辈……！\n在训练时就已展现出压倒性的强大……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "围观的赛马娘B",
+            "Text": "说起来，\n丸善前辈的家里好像也很厉害对吧？\n总觉得啊……或许这就叫做天选之人吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "红色缎带的赛马娘",
+            "Text": "……那就是学园里的顶尖强者……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "红色缎带的赛马娘",
+            "Text": "哈哈！\n…………根本不是同个等级啊──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "围观的赛马娘A",
+            "Text": "──欸，那两个人真的还没出道吗？\n刚才的并行练跑……也太夸张了吧……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "围观的赛马娘B",
+            "Text": "那也是当然的嘛，她们可是象征家跟目白家喔？\n从入学前的环境就已经截然不同了。\n……那就是真正的“精英”吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "戴黑框眼镜的赛马娘",
+            "Text": "…………真正的精英……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "…………前辈，你真的要离开了啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣主的前辈赛马娘",
+            "Text": "嗯……\n我应该……已经没办法出道了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣主的前辈赛马娘",
+            "Text": "不过！在一般家庭长大的\n赛马娘就是这样啦！\n不如说光是能入学就已经很幸运了呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣主的前辈赛马娘",
+            "Text": "而且我也顺利找到工作了。\n哎呀～真庆幸自己有好好念书呢～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣主的前辈赛马娘",
+            "Text": "荣主要好好加油喔！\n因为你真的很有毅力！\n绝对会有训练员愿意陪着你！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "……唔，好的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荣主的前辈赛马娘",
+            "Text": "那……我要走了。\n我很期待看到荣主出道后\n大展身手的样子喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "──我们就这样，\n一路面临过许多现实。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "然后……也经历了同样多，\n或许更多的挫折与离别──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "……训练员也很清楚吧。\n在这所特雷森学园，\n这些现实和挫折算不上太稀奇。",
+            "ChoiceDataList": [
+                "……是啊"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "身为一名训练员我非常理解。\n要进入特雷森学园真的非常困难，\n虽然聚集了全国各地才华洋溢的赛马娘们──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "但在这种情况下，\n真正能在比赛的世界中\n大放异彩的人屈指可数。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "为了成为那少数的存在，\n出生的地方和成长环境\n是无法避免的重要因素。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……真要说起来，不如说在比赛世界中\n“一次都没获胜就这样引退”\n还比较像是“常识”──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "再说还有很多人甚至没能出道\n就离开了学园。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在特雷森学园和比赛的世界里，\n都包含着许多像这样的“现实”，\n无法否认这里就是个严苛的地方──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "──所以我\n是不会停下脚步的……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "我曾在这所学园中见识过许多现实。\n体会到了无数次\n出生和成长造成的差异。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "但正因为如此，\n我才要向前迈进，不能停下脚步──\n我不想就此接受这些，我要奋战……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "训练员。\n我……想要获胜。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "我要顺利跑完出道战，\n我想证明我是个能获胜的赛马娘！",
+            "ChoiceDataList": [
+                "是啊，我知道……！",
+                "嗯，我知道……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我想我已经知道葛城荣主\n想要打破的东西是什么了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "而且我也和她一样，就算知道了现实，\n也完全不打算就此乖乖接受。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我已经做好和葛城荣主一起\n对抗严苛现实的觉悟……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "嘿嘿──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "谢谢你愿意听我说这些话！\n多亏这样，我感觉舒畅多了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "……好！我要成为能获胜的赛马娘，\n向死党们证明\n“我们也做得到！”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城荣主",
+            "Text": "首先就是──尽全力跑完出道战！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我们怀抱着与“现实”对抗的决心，\n再次朝着出道战前进──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}
