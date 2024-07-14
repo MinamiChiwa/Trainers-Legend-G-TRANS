@@ -1,0 +1,217 @@
+{
+    "Title": "LESSON.3　来进行款待吧",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "到了与粉丝的茶会当天。\n东海帝皇等人为这场活动筹备许久，\n而我也受邀来到现场……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "粉丝A",
+            "Text": "终于等到了今天……\n幸好我抽中资格了～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "粉丝B",
+            "Text": "可是，我没参加过茶会，\n不知道礼仪上没问题吗？要是失礼的话──",
+            "ChoiceDataList": [
+                "（许多来客都很紧张呢……）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝皇",
+            "Text": "啊哈哈，关于这点不用担心。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝皇",
+            "Text": "因为今天是由我东海帝皇\n来款待各位！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "粉丝A",
+            "Text": "！！！！\n东、东海帝皇……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝皇",
+            "Text": "首先请喝迎宾茶，\n希望能合各位的口味。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "粉丝B",
+            "Text": "啊，有水果的香气，\n好好喝……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝皇",
+            "Text": "配些小点心如何？\n从下到上依序是三明治、司康、糕点，\n吃的时候基本上是要从最下层开始拿取──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝皇",
+            "Text": "不过其实只要随当下的心情\n来决定拿取的顺序就可以了！\n不会违反礼仪的喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "粉丝A",
+            "Text": "是这样啊！\n好像比想像中还要简单……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝皇",
+            "Text": "嘻嘻嘻！你们看，我就说没问题吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝皇",
+            "Text": "毕竟我们是为了让各位粉丝开心，\n才会举办这场茶会嘛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝皇",
+            "Text": "你们可要放松心情，\n享受这跟平时不同的气氛哦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "你好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "愿意的话，可以跟我共舞一曲吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "粉丝A",
+            "Text": "！？！？！？\n这、这是少女漫画的世界吗……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝皇",
+            "Text": "啊哈哈，平常可没有这种机会吧。\n所以趁着这次茶会来体验一下如何？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝皇",
+            "Text": "你要不要也来跳舞？\n我来当你的舞伴吧？",
+            "ChoiceDataList": [
+                "我不知道能不能跳得好，不过……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "让客人单纯体验茶会的形式就好……\n原来如此，看来进行得很顺利呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "气槽",
+            "Text": "保有茶会的气氛，同时让客人乐在其中──\n一开始听到她这么提议时，我很惊讶，\n但以粉丝活动来说，我想是非常合适的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "……你顺利地让自己的淘气升华了呢，帝皇。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "帝皇，茶会顺利结束了呢！\n粉丝们也都很满意！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝皇",
+            "Text": "嘻嘻嘻♪这还用说，\n毕竟是我负责款待的嘛！",
+            "ChoiceDataList": [
+                "我玩得很开心喔！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝皇",
+            "Text": "嗯嗯，无须多礼！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝皇",
+            "Text": "……开玩笑的。你看了也知道，\n我最讨厌不自在的感觉了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝皇",
+            "Text": "学习礼仪的时候也是，光是接受指导，\n根本不知道为什么要那样做。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝皇",
+            "Text": "就算实际参加舞会，\n也只觉得限制一堆很无聊，最后从会场飞奔出去。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝皇",
+            "Text": "……可是听了麦昆的话，我才察觉到，\n那些不自在都是有理由的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝皇",
+            "Text": "能够理解这件事，\n代表我也成长了呢！\n怎么样？我很成熟吧？",
+            "ChoiceDataList": [
+                "很成熟也很帅气！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝皇",
+            "Text": "嘻嘻嘻！好～把刚才这番话也告诉会长吧！\n会长～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "除了与生俱来的朝气，\n东海帝皇也开始对自己千金小姐的身份\n有所自觉了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她的成长，\n让我有种欣慰的感觉。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}
