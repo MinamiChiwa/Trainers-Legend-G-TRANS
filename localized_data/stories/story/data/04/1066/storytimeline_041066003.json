@@ -1,0 +1,343 @@
+{
+    "Title": "脚质？涡轮爱怎么跑就怎么跑！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我想教双涡轮能获胜的跑法。\n为此，我只能想方设法请她接受训练了。",
+            "ChoiceDataList": [
+                "你想不想接受训练？",
+                "你想不想接受训练？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "训练！？涡轮不要！\n涡轮讨厌被人啰哩啰嗦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "唉～真可惜。凭你的才华，\n稍微找人教你，或许就能赢过帝皇的说～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "赢过帝皇！？真的！？\n那涡轮要接受训练～！",
+            "ChoiceDataList": [
+                "（优秀素质……！）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "耶嘿嘿，做得不错吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "因为这机智的一句话，\n我们总算能以搭档身份开始前进了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "所以，训练是要做什么呢？",
+            "ChoiceDataList": [
+                "首先来确认“脚质”吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "脚质……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "就是要看“领头”、“前列”、“居中”跟“后追”，\n哪个跑法最适合你。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "首先是“前列”或“居中”……试试看在队列中段等待时机吧。\n来吧，涡轮！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "涡轮，在我前面一点，或后面一点的地方占位！\n姑且哪边都可以！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "前面一点……或后面一点……\n唔唔唔……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "（素质，好可怕……跑在她旁边好像会撞上……\n唔、唔唔唔……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "唔哇啊啊啊啊啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "咦，等等！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "虽然想让双涡轮保留体力，\n但她却完全无法压抑自己。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "那～个～不好意思，涡轮小姐？\n你为什么……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "因为涡轮无法说停就停呀！\n嗯哼！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "欸，别理直气壮的好吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "训练员……",
+            "ChoiceDataList": [
+                "看来她会害怕其他赛马娘……",
+                "看来她会害怕其他赛马娘……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "逞强是胆小的另一种表现。在上次的模拟赛中，也能看到\n她排斥其他赛马娘的迹象。看来跑“前列”跟“居中”很困难。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "涡轮才没有害怕……只是觉得不喜欢而已。\n不然涡轮来跑后追。",
+            "ChoiceDataList": [
+                "“后追”实在有点……",
+                "“后追”实在有点……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "训练员觉得她没办法跑后追吗？",
+            "ChoiceDataList": [
+                "是啊，速度的绝对值并不够",
+                "是呀，速度的绝对值并不够"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这也是看之前的模拟赛就知道了。从分段时间的数据看来，\n她跑完终点前3化朗的时间……也就是“尾段时间”并不优异。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "“前列”、“居中”跟“后追”都不行。\n既然这样──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "嘎啊啊啊啊啊啊啊！\n唔嘎嘎嘎嘎啊啊啊啊啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "噗咻咻咻咻咻咻～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "你又没力了吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "唯一的生路就是“领头”了，但不管让她跑几次都会爆冲。\n她也不是能保留体力领头的类型，目前持久力严重不足。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "唔咕咕咕……嗯咕咕咕咕……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "训练员，这个还要做几次～！？",
+            "ChoiceDataList": [
+                "今天整天都做这个！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "（嚼嚼嚼……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "不是，你不训练在做什么？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "吃鲷鱼烧游戏！素质也要玩吗？",
+            "ChoiceDataList": [
+                "不对，你要深蹲……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "不要不要不～要～！！\n不吃的话鲷鱼烧会冷掉，涡轮就输了～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "想强化持久力，只能脚踏实地持续进行基础训练。\n……但双涡轮一下就腻了，把训练抛在一旁。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "啊哈哈，别那么沮丧嘛，训练员。\n你早就知道她是这样的人了吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "就像让小孩子吃下讨厌的青菜一样。\n要把青菜切碎，想方设法让她吃下去才行……",
+            "ChoiceDataList": [
+                "那……涡轮呢？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "咦，涡轮的话……你看，她在赛道上\n虽然讨厌训练，却是那种静不下来的类型。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "呼呼、呼呼……已经……不行了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "好痛苦喔～喘不过气～\n呼、呼……呼……呼……",
+            "ChoiceDataList": [
+                "……咦？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看着自主训练中的双涡轮，我稍微感到……有别常态的差异。\n只见她嘴上说痛苦，却没有要停下的样子。反而……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "吸……呼……呼……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看起来甚至像在积极挑战极限。\n无穷无尽地……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "啊～她虽然不听别人的话，但只要她想的话，\n就会彻底去做，直到燃烧殆尽。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "你不是看过她在剪辑影片的样子了吗？\n就跟那时候一样。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她的模样，让我感觉看到了一丝曙光。\n如果她并不讨厌跑步本身的话──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "训练员，你要说什么？\n涡轮可不做训练喔！",
+            "ChoiceDataList": [
+                "我们三个人一起去旅行吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "素质&涡轮",
+            "Text": "咦咦咦咦咦！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "旅行！涡轮要去！涡轮要去！\n涡轮最～喜欢出去玩了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "来场伪装成旅行的“集训”，\n试试看能不能顺利让挑食的小孩吃下青菜吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

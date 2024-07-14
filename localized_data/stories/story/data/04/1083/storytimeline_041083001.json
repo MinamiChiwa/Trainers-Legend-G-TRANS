@@ -1,0 +1,321 @@
+{
+    "Title": "Interest",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在我隶属于特雷森学园后不久的某天，\n秋川理事长拜托我为转学生导览，于是我来到学生会办公室。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "感谢你特地前来。\n她就是我从美国招聘而来的赛马娘──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "克莉斯耶丝象征",
+            "Text": "──我是克莉斯耶丝象征。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "克莉斯耶丝，你就去参观一下吧。\n看看这座即将由你带来新气象的学园。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "克莉斯耶丝象征",
+            "Text": "Yes.\n被接纳、招聘至此的──恩情。还有使命──我必定会达成。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "呵……是啊。尽管将你的力量与存在，\n烙印在这个国家的赛场上吧。那就麻烦了──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "克莉斯耶丝象征",
+            "Text": "──导览。\n──拜托了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "克莉斯耶丝象征似乎性格沉默寡言……\n但身处陌生的海外学校，想必也会感到不安吧。那么──",
+            "ChoiceDataList": [
+                "就为她带来一场愉快的导览吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "首先，是特雷森学园引以为傲的训练用健身房！\n彻底讲究的各项器材一定会让她感到十分兴奋！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "克莉斯耶丝象征",
+            "Text": "──很齐全呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "再来是大家最爱的学生餐厅！\n来吃点甜食，感受小确幸吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "克莉斯耶丝象征",
+            "Text": "──No.\n我除了正餐──不太吃东西。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "有时会举办大型活动的校内户外舞台……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "克莉斯耶丝象征",
+            "Text": "……\n──很宽敞。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "下个地方是大家引颈翘望，特雷森学园引以为傲的训练赛道！\n只要是喜爱竞赛的赛马娘，一定会喜欢……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "克莉斯耶丝象征",
+            "Text": "Turf…...\n──草地，真是翠绿。",
+            "ChoiceDataList": [
+                "（有没有让她感到开心呢……？）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "不管向克莉斯耶丝象征介绍哪里，她都面无表情。\n就在我因此感到些许不安时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "资深训练员A",
+            "Text": "欸，她……就是传闻中的那位赛马娘吧？\n从美国招聘来的那个。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中坚训练员A",
+            "Text": "唔哇，真的耶！那个“皇帝”特地找来的人……\n她的实力肯定不同凡响吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中坚训练员A",
+            "Text": "嘿，那位同学！你要不要稍微跑跑看？\n反正场地刚好空着，就当作顺便勘查赛道。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "克莉斯耶丝象征",
+            "Text": "……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "资深训练员A",
+            "Text": "大家可都很感兴趣呢。好奇那位七冠赛马娘鲁道夫，\n究竟是看上你的哪一点才决定要招聘你……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "前辈训练员们看到克莉斯耶丝象征后不断聚集，\n转眼间就将我们包围了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "克莉斯耶丝象征",
+            "Text": "……",
+            "ChoiceDataList": [
+                "你过去没关系，我在这等你"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "克莉斯耶丝象征",
+            "Text": "──No.\n导览──还没结束。",
+            "ChoiceDataList": [
+                "咦……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "克莉斯耶丝象征",
+            "Text": "────继续吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她那不容分说的样子让我险些点头说好──\n但还是急忙反问她。这样真的好吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "克莉斯耶丝象征",
+            "Text": "──你一路上──都仔细地为我导览。\n……我想──听到最后。",
+            "ChoiceDataList": [
+                "我、我知道了……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "避开身后那些前辈们如针刺般的视线后，\n不知为何我们来到了我工作的地方──训练员室。",
+            "ChoiceDataList": [
+                "就这样接着导览真的好吗？",
+                "就这样接着导览真的好吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "如果刚才能在那么多资深训练员面前展现实力，\n受到挖角的几率必定会一口气上升的说。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "克莉斯耶丝象征",
+            "Text": "……\n────嗯。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "“真的好吗？”正当我要如此反问时──\n我注意到克莉斯耶丝象征的眼神里有着些许动摇。",
+            "ChoiceDataList": [
+                "……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "克莉斯耶丝象征",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "克莉斯耶丝象征",
+            "Text": "──这帮了……我。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她终于吐露的话语，听起来依然毫无感情。\n但这段稍长的间隔，正是她在“思考要说什么”的证据。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "克莉斯耶丝象征",
+            "Text": "…………非常多。\n──所以，希望你能继续。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "非常多──这帮了我，非常多。\n她那非常努力加上的修饰语，令我确实感到并不是客套话。",
+            "ChoiceDataList": [
+                "那就好！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "克莉斯耶丝象征",
+            "Text": "────",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "不晓得她是出于笨拙还是重礼节，又或者──只是太温柔了？\n我在感受到某种温暖的同时，继续为她导览著。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "正当我导览结束，稍作休息时──\n鲁道夫象征来到我的身旁，并询问了今天的经过。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "──这样啊。尽管这次委托得如此突然，\n你依然竭尽心力地进行导览呢。非常感谢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "<username>训练员，我有个冒昧的请求……\n如果可以，我希望你今后也继续关照她。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──的确，她是位既温柔却也有些笨拙的赛马娘。\n或许会因此受人误解。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "不论是好是坏，她总是会受到瞩目。所以──",
+            "ChoiceDataList": [
+                "如果你不嫌弃的话，就交给我吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "……感谢你。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "克莉斯耶丝象征。从海外招聘而来的她实力备受肯定，\n同时身上散发着非凡气息──且应该是位温柔的赛马娘。",
+            "ChoiceDataList": [
+                "（虽然跟我这个新人无缘就是了……）",
+                "（虽然跟我这个新人无缘就是了……）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "连知名资深训练员都将目光放在她身上，\n我能当上她专任训练员的可能性相当低。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这让我──感到些许落寞。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

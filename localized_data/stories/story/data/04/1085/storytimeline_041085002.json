@@ -1,0 +1,356 @@
+{
+    "Title": "保持至高",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这场训练员选拔测验为期一段时间，\n期间有许多必须达成的条件。例如有一次──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "红宝的管家",
+            "Text": "用餐时请保持优雅……那位先生，别让餐具发出碰撞声。\n此外，拿玻璃杯时手要握得更下面一点。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新人训练员A",
+            "Text": "呃，啊……我试试……像、像这样？\n啊，敲到了！用餐时怎么可能不让餐具发出声响啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "红宝的管家",
+            "Text": "还有那位小姐，您刚刚一直称之为前菜的料理，\n其实应该叫做开胃小点才对。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "资深训练员A",
+            "Text": "咦？这、这样啊……？开、开胃小点……是什么？\n我是不太懂啦，但不都差不多吗……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "第一红宝丝毫不在乎四周，专注地用餐刀划过餐点。\n餐具没发出一点声响，看着她就仿佛像在观赏一部默片。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就连端著玻璃杯的手指也纤细优雅，普通的水在她手上\n看起来就像一杯白酒。擦拭嘴角时的动作也相当流畅──",
+            "ChoiceDataList": [
+                "好厉害啊……",
+                "好厉害……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看到第一红宝那姿态，在场训练员们无不陷入沉默。\n因为她的一举一动实在太过美丽且毫无破绽。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "还有一次则是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "红宝的管家",
+            "Text": "现在我们要去观赏歌剧。将依照各位的妆容、服装、\n携带物品等进行评分，挑选得宜者能获得高分。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新人训练员A",
+            "Text": "这里挂满了看都没看过的西装……\n总之挑件看起来很昂贵的穿就对了吧？",
+            "ChoiceDataList": [
+                "唔、唔…………"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝",
+            "Text": "……我选这套礼服。配合今天的剧目，避免太过华丽。\n并且卸下腰上的蝴蝶结，来带出稳重感。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "红宝的管家",
+            "Text": "遵命，大小姐。那么首饰就挑选\n这条围兜项链，您意下如何？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝",
+            "Text": "不错，但是要换一颗宝石。\n请帮我把椭圆形珠宝的项链拿过来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "跟毫无头绪，不知从何下手的我不同，\n第一红宝熟练地选出理想的造型。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我们完全是不同世界的人……\n这个念头闪过我的脑海。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "之后，我们又用了好几天学习各种礼仪及知识，\n然后重回护身术课程接受测验，此时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "资深训练员A",
+            "Text": "我放弃……我真的不行了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "新人训练员A",
+            "Text": "我、我也是……话说回来，\n训练员真的有必要学这些东西吗……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "参加者一人接着一人弃权。随着时间逐渐过去，\n在被淘汰前便主动退出测验的人越来越多。",
+            "ChoiceDataList": [
+                "……就是因为有必要才学的啊"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我一直看着第一红宝的举手投足，\n所以很清楚她那足以成为楷模的举止是多么美丽。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "也很清楚站在她身边这件事的意义有多重大。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "资深训练员A",
+            "Text": "不是啦，但这样还是太……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝",
+            "Text": "明天的测验内容是社交舞。请问各位有意愿参加吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "第一红宝毫不在意我们的对话，语气平淡地宣布，\n眼前这模样让人感受不到她在比赛中展现的热情。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝",
+            "Text": "喝啊啊啊啊啊啊！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "当初我抱着一丝希望而决定参加训练员选拔测验，\n但现实却让我体认到自己与第一红宝间的鸿沟。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她是一朵开在高崖之上，无人触碰得到的花。\n要我直接承认配不上她而主动弃权，是再简单不过的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……但第一红宝展现的精湛跑姿，直到此刻仍然\n鲜明地烙印在我眼底，在我脑海中萦绕──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝",
+            "Text": "……你留下来了，代表你打算继续\n参加下一场测验。我没误解吧？",
+            "ChoiceDataList": [
+                "没错！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝",
+            "Text": "────",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我产生了以训练员的身份，在更近的地方看着她，\n并且成为她的力量，助她迈向更高峰的想法。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝",
+            "Text": "……我知道了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝",
+            "Text": "请别忘记事先确认测验曲目等事项。\n……那么，再会。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "第一红宝连一句鼓励的话语都没留下就离开了。\n我目送她离去后，独自跑向体育馆。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我埋头努力练习明天要测验的社交舞。\n不过……",
+            "ChoiceDataList": [
+                "好、好难啊……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "说来也是理所当然，这并非一朝一夕即能习得的才艺。\n总之我只能拼命做好目前能做的事──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝",
+            "Text": "……你还没离开吗？",
+            "ChoiceDataList": [
+                "啊，第一红宝……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝",
+            "Text": "其他人都已经回去，你也该休息了。",
+            "ChoiceDataList": [
+                "请、请问！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……社交舞测验就在明天，现在根本顾不上什么面子了。\n事到如今我只能孤注一掷──",
+            "ChoiceDataList": [
+                "可以请你教我跳社交舞吗……！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝",
+            "Text": "…………",
+            "ChoiceDataList": [
+                "因为，凭我自己怎么练都练不好──"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝",
+            "Text": "……\n……姿势不对。",
+            "ChoiceDataList": [
+                "咦？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝",
+            "Text": "务必随时维持正确姿势。\n边看影片边练习，会无法维持正确姿势。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝",
+            "Text": "你应该已记住了基本舞步。\n那么，请开始跳舞。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "第一红宝严格地指导我的舞步。\n我乖乖听着她的指示，配合音乐舞动身体。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝",
+            "Text": "……把脸抬起来。若想达成什么目标，\n就得随时维持坦荡荡的态度。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝",
+            "Text": "有什么好羞愧的吗？若无就该直视前方，\n抬头挺胸站好，表现出十足的自信。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "听到这句话，我回想起今天一整天\n她那自信又坚定的一举一动。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝",
+            "Text": "没错，请记住这个姿势。若想达成远大志向，\n就得表现出不辜负志向的举止。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝",
+            "Text": "这才是让自己成为理想样貌的方式。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "特训持续了好一阵子，就连厂商进来布置场地，\n我们也改到外面继续练习。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──隔天。多亏第一红宝严格指导，\n我顺利通过测验，得到令人满意的成绩。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}
