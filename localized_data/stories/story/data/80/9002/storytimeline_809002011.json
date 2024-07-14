@@ -1,0 +1,251 @@
+{
+  "Title": "やよいとの絆・これからはっ！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "正月、いつもより静かな広場を歩いていると、\n秋川理事長とたづなさんに出会った。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "おお、君は！\nあけましておめでとうっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "これから、理事長と一緒に\n近くの神社を何箇所か回りに行くんです。",
+      "ChoiceDataList": [
+        "複数回るんですか？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "はい。なるべくたくさんの神様に、\n日ごろ学園を見守ってくださっている\nお礼を伝えたいので。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "ここで出会ったのも何かの縁だっ！\n君も来るといい！！\u3000はっはっは！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "せっかくの機会、\nここはご一緒させてもらうことにした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "到着ッ！\nでは、さっそく賽銭を――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "……むっ！？\u3000い、いかーん！\n小銭の持ち合わせが皆無ッ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "むむむ……今、持っているものといえば\nカードのみであるが……！\nしかしっ……だが……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "お貸ししますから……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ともかく参拝を済ませ、\nその後も神社を回り――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "――ふぅ。毎年ながらここはすごい混み方……\nでも、どうにか済みましたね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "！？\u3000大変！\n理事長がいません！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "お～い～……こっちだ～！\nひ、人に流される～……助けてくれ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "もう……去年も言ったじゃないですか。\nああいうところでは、しっかり\n手をつないでいてくれないと危ないですよ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "う～む……今年こそは手放しチャレンジを、\nと思っていたのだが……！",
+      "ChoiceDataList": [
+        "あとは帰るだけですか？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "……否ッ！\u3000あと1箇所ッ！\nいつも、たづなと2人で行く場所があってな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "そして着いた先は、学園近くの街中に\nひっそりとたたずむ、小さな神社だった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "ここを知っていたかね？\u3000ほとんど、\n生徒たちにも知られていない神社でな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "とはいえ、学園すぐ近くの神社に\n誰もお参りしないのでは神様に失礼ッ！\nそう思い、たづなと毎年来ることにしている。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "ここなら、ゆっくり落ち着いて\n神様へご挨拶ができますしね。ふふっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "ご利益ゆえか、去年も学園は無事であった。\n今年のことも、しっかりお願いせねばな！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "そして賽銭を捧げ、\n<chrname>の夢のために祈った。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "さて。ずいぶんと神社を回ったが――\n君は、何を神に祈った？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "――などと、聞くのは野暮ッ！\n君ほどのトレーナーであれば、\n担当への加護を祈るに決まっているからな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "……しかし、正月にたづなと\nこの神社に来るようになって、\nどれくらい経つだろうな？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "ふふ、さて。\nもうずいぶんになりますね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "ふ～む。日々仕事に追われていると、\n1年1年が矢のようにバタバタと\n過ぎていってしまうな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "だが……我々が、決して忘れてはいかんのは。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "その全てが、生徒たちにとっては\n生涯において1度きりの時間――\nということだな。",
+      "ChoiceDataList": [
+        "……そうですね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "君たちトレーナーは、もっとも近くで\n彼女たちと時間を共にし支え合っている。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "その姿は――あまりにも、眩い。\n君たちに、羨ましさすら覚えるほどにな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "――だが、同時に！\n心に湧き上がるのは、圧倒的な嬉しさっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "理事長として……君たちの働きに、\nただただ感謝するっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "……と、何やら締めの言葉のように\nなってしまったな！\u3000はっはっは！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "まぁ、なんだ。これからも\n<chrname>のことを、\nよく支えてあげてくれたまえ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "では、学園に帰還ッ！\nたづなが今朝作ってくれた雑煮があるぞ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "お餅もたくさんありますから。\nよろしければ、おしるこでも海苔餅でも、\n好きなものをお作りしますよ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "そんなわけで――秋川理事長たちとともに、\n熱いお餅に舌鼓を打ったのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
