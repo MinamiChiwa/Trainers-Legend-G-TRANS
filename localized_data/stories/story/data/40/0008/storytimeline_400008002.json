@@ -1,0 +1,354 @@
+{
+  "Title": "教程",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "辛苦了。\n现在正在为有需要的人进行『大丰食祭』\n的详细说明——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "<username>先生，需要说明吗？",
+      "ChoiceDataList": [
+        "听说明",
+        "不听说明"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "那么，请问要说明什么呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "关于『大丰食祭』的育成，我想请问——",
+      "ChoiceDataList": [
+        "关于料理挑战",
+        "关于蔬菜的收获",
+        "关于料理",
+        "关于田地",
+        "已经没问题了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "是关于『料理挑战』吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "『料理挑战』是一项为了加深对食物理解\n的活动，大家会挑战各种料理。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "用培育的蔬菜来制作料理，并且会举行四次\n『试吃会』，让大家品尝。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "根据试吃会前获得的『料理Pt』，在『试吃会』\n上马娘们的满意度会有所不同。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "试吃会前获得的",
+        "『料理Pt』"
+      ]
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "如果让大家大满足的话，大家对料理的\n热情也会提高，制作的料理效果也会改变！\n马娘们也能得到巨大的成长！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "加深对食材和料理的理解——让我们一起用\n更好的料理让马娘们变得更强更健康吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "然后……在古马级12月后半，\n将会举办最后的料理挑战『大丰食祭』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "古马级"
+      ]
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "这是一个充分利用之前积累的食物知识的\n大型活动……请大家一定要向参加者们展示\n自己引以为傲的料理！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "另外，\n这次大家将会一边参加闪耀系列赛，\n一边参加料理挑战。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "一边参加闪耀系列赛"
+      ]
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "根据育成的情况，\n在料理挑战期间也可能终止育成，\n请务必注意哦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "根据育成的情况",
+        "料理挑战期间",
+        "终止育成"
+      ]
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "关于『料理挑战』的说明就到这里。\n还有其他想要了解的吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "是关于『蔬菜的收获』吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "这次，你将收获五种蔬菜，\n一边制作有助于训练的料理，\n一边以达成培养目标为目标。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "收获五种蔬菜",
+        "有助于训练的料理"
+      ]
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "所有种类的蔬菜每4回合收获一次，\n但收获数量会根据各蔬菜的Lv变化。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "每4回合",
+        "收获数量",
+        "各蔬菜的Lv"
+      ]
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "为了提升蔬菜Lv所需的『农田Pt』，\n可以在收获的同时获得。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "在收获的同时获得"
+      ]
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "而且——进行各项训练时，\n可以获得各种蔬菜的『照料印章』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "各种蔬菜的『照料印章』"
+      ]
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "获得照料印章的蔬菜可以比平时收获更多。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "比平时收获更多"
+      ]
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "另外，即使进行『休息』『外出』『保健室』\n『比赛』也能获得照料印章。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "不过……在训练以外获得的照料印章种类\n每次都不同，请仔细确认哦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "此外，满足友情训练等条件时——\n照料印章会变成『悉心照料印章』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "变成『悉心照料印章』"
+      ]
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "悉心照料印章越多，收获数量也会增加！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "收获数量也会增加"
+      ]
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "有效率地收获蔬菜，制作更多料理，\n训练效果也会提升！加油哦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "关于『蔬菜的收获』的说明就到这里。\n还有其他想要了解的吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "是关于『料理』吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "通过消费食谱所需的蔬菜，可以制作『料理』。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "每次制作料理，都可以获得影响『试吃会』\n满意度的『料理Pt』哦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "不仅如此，吃料理还可以获得各种效果！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "比如，提升训练和比赛中获得的基础能力\n和技能Pt、恢复体力等等♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "另外……料理有时会『大成功』。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "从『大成功』的料理中，\n除了普通的料理能得到的效果之外，\n还能获得各种追加效果！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "获得各种追加效果"
+      ]
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "此外，每次试吃会后，\n料理获得的效果也会增加，\n还可以制作新的料理。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "效果也会增大",
+        "新的料理"
+      ]
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "不断积累料理经验，并在训练中加以利用吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "关于『料理』的说明就到这里。\n还有其他想要了解的吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "是关于『农田』的吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "在农田里，通过提升蔬菜Lv，可以增加\n各蔬菜的收获量，提高料理的效果。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "增加收获量",
+        "提高料理的效果"
+      ]
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "提升蔬菜Lv需要在收获时获得的『农田Pt』。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "蔬菜Lv越高，\n需要的『农田Pt』也越多，请务必注意。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "需要的『农田Pt』也越多"
+      ]
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "另外，蔬菜Lv是有上限的……\n但通过让大家在『试吃会』上满足，\n可以追求更高的等级！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "在『试吃会』上满足",
+        "可以追求更高的等级"
+      ]
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "关于『农田』的说明就到这里。\n还有其他想要了解的吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "真的没问题了吗？",
+      "ChoiceDataList": [
+        "是的",
+        "不"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "明白了♪\n为了以防万一，这里有简单总结的内容。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "刚才的说明可以随时通过点击左上角的\n『i按钮』查看。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "i按钮"
+      ]
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "那么，请加油哦。\n我会在背后默默支持你的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "明白了。那么，请加油哦！\n我会在背后默默支持你的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

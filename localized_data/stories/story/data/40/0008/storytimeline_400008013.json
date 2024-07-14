@@ -1,0 +1,549 @@
+{
+  "Title": "开宴！美食发布会！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "有一天，和往常一样在田里忙碌时，\n秋川理事长来了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "大家好，各位！\n和往常一样种出了很好的蔬菜啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "啊，您好！\n理事长您也来干农活吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "呵呵，虽有一部分是这样，\n但我还有一件事想拜托你们！",
+      "ChoiceDataList": [
+        "什么事呢……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "嗯，\n各位这一年来在美食方面表现得非常出色。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "受你们的影响，\n其他同学中也开始有人学习美食了。\n这是很好的趋势！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "所以，举办！\n第一次学园美食发布会！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "这是一个让在一线辛勤耕耘种菜的学生们\n展示自己倾注心血的料理的活动！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "让同学们广泛了解美食的力量！\n希望你们也能参加！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "大家做的美食聚在一起的发布会……\n感觉会很有趣～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城王牌",
+      "Text": "是啊。\n而且我们也一直有在认真举行试吃会！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西野花",
+      "Text": "想把我们学到的成果展现给大家……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "米浴也希望大家能知道我们一起种的\n蔬菜的美味……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "其他同学会拿出什么样的料理呢……！\n我的肚子……不，胳膊已经迫不及待了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "嗯！我相信你们一定会这么说！\n那么，我期待着你们的表现！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "就这样，发布会的准备开始了。\n大量的蔬菜，还有新菜单的披露。\n其中最积极的是——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "——大家～！我送来慰问品了哦～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "哇～！？好多料理啊～～～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "因为现在是寒冷的季节嘛～。\n有暖暖的炖菜、咖喱。拉面，还有加了很多辣椒\n的麻婆豆腐！请大家享用吧～！",
+      "ChoiceDataList": [
+        "好丰盛啊……！",
+        "真丰盛呢……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "发布会可是很难得的机会嘛☆\n希望更多的人能品尝到各种美食！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "话说回来，\n从明天起我要出发旅行一段时间！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "诶！？要、要去哪儿！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "主要是去寻找能最好地衬托我们种的\n蔬菜的食材！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "所以，我会去山啊河啊还有海边之类的☆\n去那些熟悉的美食圣地～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "……我知道她不想妥协。\n但监护人也是必要的，所以自己也跟着冒险了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "哦，看到了伞菌！\n它和意大利面最配了☆\n当然和蔬菜也是绝配！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "蘑菇能强健骨骼，\n对我们赛马娘再合适不过了！\n继续前进吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "越过山越过海越过峡谷～♪\n美味的汤在哪里～♪",
+      "ChoiceDataList": [
+        "发现海带！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "哦～太好了☆\n今天是矿物质丰收的一天！\n做成盐渍海带，当做训练时的补给正合适！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "哈哈～，找到了很多好食材呢～。\n学园的同学们一定会惊讶的～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "蘑菇和富含钙的蔬菜搭配，\n做成防止受伤的菜单也不错。\n盐渍海带可以做成沙拉～。",
+      "ChoiceDataList": [
+        "很有想象力啊",
+        "很有想象力呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "是吗？\n呵呵，看来对食材的看法也在改变呢～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "——这种想象力！不妥协的行动力！\n真是太棒了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "诶～，理事长！？您怎么会在这里！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "哎呀，虽然很辛苦……！\n但有些东西早早交给你们比较好！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "这只是个提示……\n但我相信你们一定会取得优秀的成果！\n拜托了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "随着发布会的临近，\n学园的参与者们为了展示料理而进行着激烈的比拼——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼诗歌剧",
+      "Text": "做好了哦～！\n待兼家特制，鸡肉炖菜工作餐完成了～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "待兼"
+      ]
+    },
+    {
+      "Name": "待兼福来",
+      "Text": "然后，再加上这个秘传的祈祷——\n营养多多，蛋白质多多……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "森林宝穴",
+      "Text": "吃下这个吧！这是我的拿手绝活——\n我罗武魔娑螺天顶火零啊——！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回忆",
+      "Text": "什么！？我的……\n漩涡火焰拉面的气场，被香料的香气吞没了！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "森林宝穴",
+      "Text": "嘿嘿——\n发布会的焦点，我就靠这个拿下了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "然后——终于到了发布会的日子！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "那么，开会！\n大家，请尽情展示你们骄傲的蔬菜吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "哇，摆满了料理……！\n啊，还有制作者的名牌。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "……咦！？\n这张桌子上的，还有那边，那张桌子的料理，\n全都是……同一个名牌！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "呵呵呵，没错！\n这些都是我们的料理哦～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "比如，那边的料理是给短距离选手准备的！\n特制咖喱里含有适量的蛋白质和糖分，\n满足爆发力的需求！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "马娘A",
+      "Text": "诶！？那，长距离适性的料理也有吗！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西野花",
+      "Text": "啊，那就请尝试这道富含铁质的蔬菜披萨吧！\n里面有去油的金枪鱼和蛤蜊哦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "还请看一下食谱！\n上面还写了用餐时间和生活节奏的安排……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "嗯嗯……这个必须要记笔记！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "樱花千代王",
+      "Text": "不过话说回来……不仅质量高，\n还这么丰富多样，真是想不到啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西野花",
+      "Text": "嘿嘿……\n回想起来我们这一年真的学了很多东西。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "是啊。从波旁同学的事情开始——\n我们学到了跑步和吃饭有很深的关系。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西野花",
+      "Text": "不仅是身体，连心灵也要得到满足。\n也感受到了美食的深奥。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "所以，想让大家品尝到我们全部的美味～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "我们品尝大家做的美味，大家品尝我们的美味！\n互相学习美味——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "大家都能做出更美味的东西！\n在比赛中也能全力以赴！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "嗯！这次的发布会，\n就像是大家一起做的相扑火锅一样☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小栗帽",
+      "Text": "什么！？原来如此……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "玉藻十字",
+      "Text": "别从字面上理解啊！\n不过菱曙你真有豪气……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "嘿嘿。因为这不仅仅是我们的心意。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "其实呢……\n理事长把同学们的烦恼都记在了笔记本里！\n为了制作料理而告诉我们了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "学生们",
+      "Text": "啊，理事长！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "学生们",
+      "Text": "啊……我也记得我填过问卷！\n烦恼也被认真听取了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "咳、咳……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "那、那么。\n这次的发布会的目的！\n已经由菱曙同学完美地表达了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "菱曙"
+      ]
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "从大家的脸上可以看出，\n大家从互相的料理中受到了很大的启发，\n对美食的热情更加高涨！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "我也想做……！能打造强壮身体的料理！\n好，我要加油了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "东海帝王",
+      "Text": "让帝王大人的招牌蜂蜜运动饮料\n在学园里流行起来！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "帝王大人"
+      ]
+    },
+    {
+      "Name": "鲁道夫象征",
+      "Text": "嗯。我出品的『加了高野豆腐的炖菜』\n也还有改进的空间。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鲁道夫象征",
+      "Text": "“不是只有羊羹才有营养价值”\n——我会更加努力钻研的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "……多亏了大家种的蔬菜，\n学园里的疾病和受伤的情况都在减少。\n统计数据也清楚地显示了这一点！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "作为理事长，真心感谢！\n希望你们能继续努力！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "最后，我要表达谢意！\n—菱曙，拜托了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "好—！那么大家！\n把你们的蔬菜都放进这个大锅里吧～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青竹回忆",
+      "Text": "诶？为什么？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "哈哈～这是最后的环节！\n把大家的美味合在一起！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "好！\n学园里的美味相扑火锅炖菜完成了～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西野花",
+      "Text": "大家请在这里排队！\n有盛菜的盘子哦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "米浴",
+      "Text": "小心不要洒出来……啊啊，好香～……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大家",
+      "Text": "我开动啦～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大家",
+      "Text": "好美味～……！\n每一口都让全身暖和起来……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "呵呵，当然啦☆\n这是集合了大家的美味的百倍美味火锅！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "菱曙",
+      "Text": "今后大家也一起做更多美味的东西吧！\n让学园充满美味！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "于是，发布会在一片欢声笑语中结束了——\n这成为了学园中美食热潮的开端。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
