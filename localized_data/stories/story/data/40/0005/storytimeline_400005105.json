@@ -1,0 +1,660 @@
+{
+    "Title": "当代奔驰者的始祖",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "达利阿拉伯",
+            "Text": "呼……！你觉得怎么样？\n我对刚才的表现还满有信心的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "达利阿拉伯",
+            "Text": "更重要的是，这是我和训练员\n一起磨练至今，最棒的武器啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "我觉得还有改善的余地！\n小羊，再继续磨练吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "达利阿拉伯",
+            "Text": "好过分！你老是叫我小羊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "达利阿拉伯",
+            "Text": "我总有一天要让你大吃一惊！\n那我再跑一趟吧！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "听好了。即使体力已经到达极限，\n也不能让心到达极限。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "拜耶尔土耳其",
+            "Text": "好……好的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "就算遇到瓶颈，也不需要被负面情绪淹没。\n变强吧！这样未来才能继续跑下去！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "拜耶尔土耳其",
+            "Text": "……变得更强！强到足以将我的……\n将我们奔跑的身影……\n深深烙印在大家心里！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "高多芬柏布",
+            "Text": "呼……呼……\n我已经能够做到这种程度了～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "嗯，\n看来带你踏入竞赛的世界果然是正确的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "高多芬柏布",
+            "Text": "真的……很感谢你找到了我──\n并一直守护着我。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "呵呵……因为你一脸想跑步的样子。\n让我觉得你应该很喜欢跑步。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "今后也一起奔跑吧。\n我会一直在你身边守护着你，小莎姆──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在“SWBC”留下好成绩后，\n“顶尖大师赛”的日子终于即将来临。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我原本是想用模拟器补充不足的知识……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "与三女神的交流，\n赛马娘们留下的历史对话──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "超越了时代，\n为奔驰于现在的赛马娘留下了许多东西。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "支援赛马娘与训练员的终极AI，\n“Mega Dream Supporter”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "为了让训练员能与赛马娘继续奔驰，\n三女神不仅传授了知识，\n还教导了其他重要的事情。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "因此，\n我们想透过“顶尖大师赛”向三女神展现──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "让培育了我们的三女神，\n能够好好看到我们成长后的样子。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "为此，\n拥有我们现在最需要的知识的女神是──",
+            "ChoiceDataList": [
+                "达利阿拉伯",
+                "达利阿拉伯",
+                "高多芬柏布",
+                "高多芬柏布",
+                "拜耶尔土耳其",
+                "拜耶尔土耳其"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "达利阿拉伯",
+            "Text": "嗨，你们来啦。太阳也──\n嗯，看起来已经升到天空的正中央了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "达利阿拉伯",
+            "Text": "──那就开始吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "达利阿拉伯",
+            "Text": "该怎么办才好呢？\n你们想怎么做？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "达利阿拉伯",
+            "Text": "哈哈哈，你们已经决定好啦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "达利阿拉伯",
+            "Text": "嗯。我尊重你们的意思。\n更进一步地说──是尊重你们鲜明的个性。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "达利阿拉伯",
+            "Text": "你们也知道所谓的可能性，\n只要一断绝就再也无法恢复。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "达利阿拉伯",
+            "Text": "失去的个性，\n只会消失在黑暗当中。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "达利阿拉伯",
+            "Text": "所以，只要继续延续下去就好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "达利阿拉伯",
+            "Text": "由你们来继承和延续。\n你的个性只属于你一个人，\n然后托付给后世的人们。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "达利阿拉伯",
+            "Text": "只要你成为连接的桥梁，\n今后想必会有多采多姿的未来在等着你吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "达利阿拉伯",
+            "Text": "来，把手伸出来。\n──未来才刚开始呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "",
+            "Text": "我们确实获得了三女神传授的睿智──\n收下了她们的心意，\n我们要在“顶尖大师赛”证明这一点！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "达利阿拉伯",
+            "Text": "嗨，你们来啦。太阳也──\n嗯，看起来已经升到天空的正中央了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "达利阿拉伯",
+            "Text": "──那就开始吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "达利阿拉伯",
+            "Text": "该怎么办才好呢？\n你们想怎么做？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "达利阿拉伯",
+            "Text": "哈哈哈，你们已经决定好啦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "达利阿拉伯",
+            "Text": "嗯。我尊重你们的意思。\n更进一步地说──是尊重你们鲜明的个性。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "达利阿拉伯",
+            "Text": "你们也知道所谓的可能性，\n只要一断绝就再也无法恢复。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "达利阿拉伯",
+            "Text": "失去的个性，\n只会消失在黑暗当中。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "达利阿拉伯",
+            "Text": "所以，只要继续延续下去就好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "达利阿拉伯",
+            "Text": "由你们来继承和延续。\n你的个性只属于你一个人，\n然后托付给后世的人们。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "达利阿拉伯",
+            "Text": "只要你成为连接的桥梁，\n今后想必会有多采多姿的未来在等着你吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "达利阿拉伯",
+            "Text": "来，把手伸出来。\n──未来才刚开始呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "",
+            "Text": "我们确实获得了三女神传授的睿智──\n收下了她们的心意，\n我们要在“顶尖大师赛”证明这一点！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "高多芬柏布",
+            "Text": "风已经预告了你们的来访。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "高多芬柏布",
+            "Text": "来，我们走吧。\n前往风的源头。前往初始之地──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "高多芬柏布",
+            "Text": "──这里就是风的诞生之地。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "高多芬柏布",
+            "Text": "直到抵达于此地，\n一路上有着许多美好的愿望以及心意呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "高多芬柏布",
+            "Text": "想要守护遥远后世的心意。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "高多芬柏布",
+            "Text": "希望后人无论在何时何地，\n都能健康生活的愿望。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "高多芬柏布",
+            "Text": "然后现在，我在此许愿。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "高多芬柏布",
+            "Text": "希望大家的愿望、想要守护后人的心意，\n以及美好的愿望──能够顺利传达。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "高多芬柏布",
+            "Text": "请你千望别忘记，\n曾经有许多人，\n期盼你能获得幸福。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "听了高多芬柏布的话后，\n我和专任赛马娘一起点头。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "高多芬柏布",
+            "Text": "……谢谢你。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "高多芬柏布",
+            "Text": "在此为你献上祝福。\n希望你能获得永恒的幸福……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "",
+            "Text": "我们确实获得了三女神传授的睿智──\n收下了她们的心意，\n我们要在“顶尖大师赛”证明这一点！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "高多芬柏布",
+            "Text": "风已经预告了你们的来访。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "高多芬柏布",
+            "Text": "来，我们走吧。\n前往风的源头。前往初始之地──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "高多芬柏布",
+            "Text": "──这里就是风的诞生之地。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "高多芬柏布",
+            "Text": "直到抵达于此地，\n一路上有着许多美好的愿望以及心意呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "高多芬柏布",
+            "Text": "想要守护遥远后世的心意。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "高多芬柏布",
+            "Text": "希望后人无论在何时何地，\n都能健康生活的愿望。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "高多芬柏布",
+            "Text": "然后现在，我在此许愿。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "高多芬柏布",
+            "Text": "希望大家的愿望、想要守护后人的心意，\n以及美好的愿望──能够顺利传达。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "高多芬柏布",
+            "Text": "请你千望别忘记，\n曾经有许多人，\n期盼你能获得幸福。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "听了高多芬柏布的话后，\n我和专任赛马娘一起点头。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "高多芬柏布",
+            "Text": "……谢谢你。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "高多芬柏布",
+            "Text": "在此为你献上祝福。\n希望你能获得永恒的幸福……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "",
+            "Text": "我们确实获得了三女神传授的睿智──\n收下了她们的心意，\n我们要在“顶尖大师赛”证明这一点！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "拜耶尔土耳其",
+            "Text": "……呵。\n我听见了在大地上奔驰的声音。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "拜耶尔土耳其",
+            "Text": "──走吧。\n前往万物扎根之地。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "拜耶尔土耳其",
+            "Text": "──名为赛马娘的种族，\n从一开始就具备“想要奔跑”的本能。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "拜耶尔土耳其",
+            "Text": "而我们至今仍持续在奔驰。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "拜耶尔土耳其",
+            "Text": "支持这种本能的就是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "拜耶尔土耳其",
+            "Text": "──强悍。那并不是单指蛮力，\n也不只是坚定的信念。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "拜耶尔土耳其",
+            "Text": "因为许多历史互相交叠，\n我们赛马娘才获得了真正的强悍。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "拜耶尔土耳其",
+            "Text": "继承这些历史，然后延续下去。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "拜耶尔土耳其",
+            "Text": "只要这份强悍依然坚定，\n我们就必定能获得亘古不变的荣耀。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "拜耶尔土耳其",
+            "Text": "来，收下吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "拜耶尔土耳其",
+            "Text": "──收下所有的力量。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "",
+            "Text": "我们确实获得了三女神传授的睿智──\n收下了她们的心意，\n我们要在“顶尖大师赛”证明这一点！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "拜耶尔土耳其",
+            "Text": "……呵。\n我听见了在大地上奔驰的声音。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "拜耶尔土耳其",
+            "Text": "──走吧。\n前往万物扎根之地。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "拜耶尔土耳其",
+            "Text": "──名为赛马娘的种族，\n从一开始就具备“想要奔跑”的本能。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "拜耶尔土耳其",
+            "Text": "而我们至今仍持续在奔驰。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "拜耶尔土耳其",
+            "Text": "支持这种本能的就是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "拜耶尔土耳其",
+            "Text": "──强悍。那并不是单指蛮力，\n也不只是坚定的信念。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "拜耶尔土耳其",
+            "Text": "因为许多历史互相交叠，\n我们赛马娘才获得了真正的强悍。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "拜耶尔土耳其",
+            "Text": "继承这些历史，然后延续下去。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "拜耶尔土耳其",
+            "Text": "只要这份强悍依然坚定，\n我们就必定能获得亘古不变的荣耀。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "拜耶尔土耳其",
+            "Text": "来，收下吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "拜耶尔土耳其",
+            "Text": "──收下所有的力量。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "",
+            "Text": "我们确实获得了三女神传授的睿智──\n收下了她们的心意，\n我们要在“顶尖大师赛”证明这一点！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        }
+    ]
+}
