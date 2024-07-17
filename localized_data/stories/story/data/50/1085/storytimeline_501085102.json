@@ -27,11 +27,11 @@
         },
         {
             "Name": "电视节目主持人",
-            "Text": "──先从知名的目白家看起！\n目白麦昆与目白雷恩相当值得期待！",
+            "Text": "──先从知名的目白家看起！\n目白麦昆与目白赖恩相当值得期待！",
             "ChoiceDataList": [],
             "ColorTextInfoList": [
                 "目白麦昆",
-                "目白雷恩"
+                "目白赖恩"
             ]
         },
         {
@@ -44,13 +44,13 @@
         },
         {
             "Name": "电视节目主持人",
-            "Text": "至于目白雷恩！虽然她接连惜败，\n但是在经典三冠路线的表现依然亮眼！\n今年她将创下怎么样的成果呢？",
+            "Text": "至于目白赖恩！虽然她接连惜败，\n但是在经典三冠路线的表现依然亮眼！\n今年她将创下怎么样的成果呢？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "电视节目主持人",
-            "Text": "接着！突然宣布转为短距离路线，\n而在去年掀起话题的“华丽一族”\n第一红宝也很值得注意！",
+            "Text": "接着！突然宣布转为短距离路线，\n而在去年掀起话题的“华丽一族”\n第一红宝石也很值得注意！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -71,7 +71,7 @@
         },
         {
             "Name": "电视节目主持人",
-            "Text": "──最后再把焦点放到这位赛马娘身上吧！\n东海帝皇！",
+            "Text": "──最后再把焦点放到这位赛马娘身上吧！\n东海帝王！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -97,12 +97,12 @@
         },
         {
             "Name": "独白",
-            "Text": "“玫瑰S”那场记者会落幕后，\n第一红宝的选择令世人陷入一阵困惑。\n我想过完年后，这阵骚动就会平息。不过──",
+            "Text": "“玫瑰S”那场记者会落幕后，\n第一红宝石的选择令世人陷入一阵困惑。\n我想过完年后，这阵骚动就会平息。不过──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "第一红宝",
+            "Name": "第一红宝石",
             "Text": "──在受到关注的这段期间，\n没有任何问题。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
@@ -114,7 +114,7 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "第一红宝",
+            "Name": "第一红宝石",
             "Text": "反倒是更该把握这段期间，\n把该做的事做好。",
             "ChoiceDataList": [
                 "该做的事……"
@@ -122,7 +122,7 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "第一红宝",
+            "Name": "第一红宝石",
             "Text": "训练员，\n你有什么想法？",
             "ChoiceDataList": [
                 "把速度……磨练至极致吧"
@@ -136,7 +136,7 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "第一红宝",
+            "Name": "第一红宝石",
             "Text": "好的。当我成就这股意志之时，\n一定能再度广受众人期待吧。",
             "ChoiceDataList": [
                 "没错！",
@@ -151,19 +151,19 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "大德太阳",
+            "Name": "大拓太阳神",
             "Text": "新年快乐────！！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "大德太阳",
+            "Name": "大拓太阳神",
             "Text": "大小姐！大小姐的训练员！\n新年快乐！请多指教～！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "第一红宝",
+            "Name": "第一红宝石",
             "Text": "新年快乐。",
             "ChoiceDataList": [
                 "新年快乐"
@@ -172,7 +172,7 @@
         },
         {
             "Name": "独白",
-            "Text": "派对玩咖突然现身，但她仍然面不改色。\n世上究竟有什么事物能撼动第一红宝呢……\n不，想必没有吧。",
+            "Text": "派对玩咖突然现身，但她仍然面不改色。\n世上究竟有什么事物能撼动第一红宝石呢……\n不，想必没有吧。",
             "ChoiceDataList": [
                 "有什么事吗？",
                 "有什么事吗？"
@@ -180,13 +180,13 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "大德太阳",
+            "Name": "大拓太阳神",
             "Text": "耶嘿，\n我太想来见大小姐了……☆",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "大德太阳",
+            "Name": "大拓太阳神",
             "Text": "所以我就闪过一个念头，\n决定也要参加今年的“高松宫纪念”啦！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
@@ -195,7 +195,7 @@
             "Name": "独白",
             "Text": "“高松宫纪念”为GⅠ竞赛，\n并不是心血来潮就能参赛。换句话说，\n她具备参赛资格──也就是足够的实力。",
             "ChoiceDataList": [
-                "（大德太阳啊……）"
+                "（大拓太阳神啊……）"
             ],
             "ColorTextInfoList": []
         },
@@ -211,19 +211,19 @@
             ]
         },
         {
-            "Name": "第一红宝",
+            "Name": "第一红宝石",
             "Text": "劲敌……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "大德太阳",
+            "Name": "大拓太阳神",
             "Text": "耶嘿耶嘿☆\n你也这样觉得啊？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "大德太阳",
+            "Name": "大拓太阳神",
             "Text": "我跟大小姐真的很配吧！\n身高差了十五公分～代表色又是红跟蓝～♪",
             "ChoiceDataList": [
                 "呃，我不是那个意思"
@@ -231,25 +231,25 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "第一红宝",
+            "Name": "第一红宝石",
             "Text": "我认为只有自己才是\n自己真正的劲敌。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "大德太阳",
+            "Name": "大拓太阳神",
             "Text": "哦哦？\n这意思是？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "第一红宝",
+            "Name": "第一红宝石",
             "Text": "我难以理解将全副注意力\n集中在同一人身上这种概念。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "第一红宝",
+            "Name": "第一红宝石",
             "Text": "平等地分析每一位对手，藉以战胜自己。\n我认为这才是能确保胜利的方法。",
             "ChoiceDataList": [
                 "（这么说来，她之前也提过呢……）"
@@ -257,25 +257,25 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "大德太阳",
+            "Name": "大拓太阳神",
             "Text": "太酷了～～～～",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "第一红宝",
+            "Name": "第一红宝石",
             "Text": "我想你已经达成了来见我的目的。\n那么请回去，路上小心。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "大德太阳",
+            "Name": "大拓太阳神",
             "Text": "And～好冷淡～",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "第一红宝",
+            "Name": "第一红宝石",
             "Text": "那我也该──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
@@ -287,7 +287,7 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "第一红宝",
+            "Name": "第一红宝石",
             "Text": "……",
             "ChoiceDataList": [
                 "怎么了吗？"
@@ -295,19 +295,19 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "第一红宝",
+            "Name": "第一红宝石",
             "Text": "稍后安排的课程，\n因为老师身体不适而延期了。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "我立刻想到，这代表第一红宝接下来的\n行程有空档……自律的她想必会说要去\n自主训练，但难得有时间……！",
+            "Text": "我立刻想到，这代表第一红宝石接下来的\n行程有空档……自律的她想必会说要去\n自主训练，但难得有时间……！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "第一红宝",
+            "Name": "第一红宝石",
             "Text": "……我想想，那就改为自主训练──",
             "ChoiceDataList": [
                 "空出来的时间可以交给我安排吗？",
@@ -316,7 +316,7 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "第一红宝",
+            "Name": "第一红宝石",
             "Text": "……你的意思是？",
             "ChoiceDataList": [
                 "距离下一个行程还有多少时间？"
@@ -324,7 +324,7 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "第一红宝",
+            "Name": "第一红宝石",
             "Text": "大约一个小时。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
@@ -346,7 +346,7 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "第一红宝",
+            "Name": "第一红宝石",
             "Text": "不好意思，\n恕我难以理解此话含意。",
             "ChoiceDataList": [
                 "总、总之我们出去吧！"
@@ -366,7 +366,7 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "第一红宝",
+            "Name": "第一红宝石",
             "Text": "你好，美妙。\n新年快乐。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
@@ -394,13 +394,13 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "第一红宝",
+            "Name": "第一红宝石",
             "Text": "……感谢你的邀约。\n刚好我目前有空──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "第一红宝",
+            "Name": "第一红宝石",
             "Text": "麻烦你了。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
@@ -442,7 +442,7 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "第一红宝",
+            "Name": "第一红宝石",
             "Text": "……是啊。",
             "ChoiceDataList": [
                 "那个，红宝……"
@@ -451,24 +451,24 @@
         },
         {
             "Name": "独白",
-            "Text": "第一红宝的表情显得比平时更加僵硬……\n正当我打算问她，\n要不要帮忙把拉面吃掉时──",
+            "Text": "第一红宝石的表情显得比平时更加僵硬……\n正当我打算问她，\n要不要帮忙把拉面吃掉时──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "第一红宝",
+            "Name": "第一红宝石",
             "Text": "我时不时要因应客人期望，\n用日本民间料理款待对方。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "第一红宝",
+            "Name": "第一红宝石",
             "Text": "所以我也很熟悉品尝这类餐点时\n应有的礼仪，请放心。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "第一红宝",
+            "Name": "第一红宝石",
             "Text": "我要开动了。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
@@ -480,14 +480,14 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "第一红宝",
+            "Name": "第一红宝石",
             "Text": "呼……呼……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "那天我亲眼看见第一红宝以完美的举止\n品尝拉面。真是个宝贵的经验。",
+            "Text": "那天我亲眼看见第一红宝石以完美的举止\n品尝拉面。真是个宝贵的经验。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -498,13 +498,13 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "第一红宝",
+            "Name": "第一红宝石",
             "Text": "……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "第一红宝",
+            "Name": "第一红宝石",
             "Text": "我知道了。",
             "ChoiceDataList": [
                 "你愿意啊！？",
@@ -513,7 +513,7 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "第一红宝",
+            "Name": "第一红宝石",
             "Text": "无妨。\n我陪你一起去。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
@@ -567,7 +567,7 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "第一红宝",
+            "Name": "第一红宝石",
             "Text": "我只是陪训练员来的。",
             "ChoiceDataList": [
                 "你不参拜吗？",
@@ -576,7 +576,7 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "第一红宝",
+            "Name": "第一红宝石",
             "Text": "不。我没有要许的愿望。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
@@ -603,7 +603,7 @@
         },
         {
             "Name": "独白",
-            "Text": "于是我就在第一红宝的守候下，\n向神明祈祷她能在今年更上一层楼。",
+            "Text": "于是我就在第一红宝石的守候下，\n向神明祈祷她能在今年更上一层楼。",
             "ChoiceDataList": [
                 "（希望红宝的努力能开花结果）"
             ],
@@ -632,7 +632,7 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "第一红宝",
+            "Name": "第一红宝石",
             "Text": "……原来如此。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
@@ -644,13 +644,13 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "第一红宝",
+            "Name": "第一红宝石",
             "Text": "不。\n我还是不需要依靠神明。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "第一红宝",
+            "Name": "第一红宝石",
             "Text": "不过我明白了……对某些人来说，\n向神许愿一事拥有莫大的效果。",
             "ChoiceDataList": [
                 "！"
@@ -658,13 +658,13 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "第一红宝",
+            "Name": "第一红宝石",
             "Text": "……请务必铭记\n今天在此许下的愿望。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "第一红宝",
+            "Name": "第一红宝石",
             "Text": "……",
             "ChoiceDataList": [
                 "呃，不对！刚刚那是……！"
@@ -678,7 +678,7 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "大德太阳",
+            "Name": "大拓太阳神",
             "Text": "我又登场了～～！！",
             "ChoiceDataList": [
                 "果然是你！！",
@@ -687,7 +687,7 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "大德太阳",
+            "Name": "大拓太阳神",
             "Text": "先让你们以为我走了～但我又回来啦！！\n还是要有我在才行吧！？",
             "ChoiceDataList": [
                 "但你是怎么办到的……"
@@ -695,7 +695,7 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "大德太阳",
+            "Name": "大拓太阳神",
             "Text": "看来训练员也是派对玩咖吧？",
             "ChoiceDataList": [
                 "！？"
@@ -703,27 +703,27 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "大德太阳",
+            "Name": "大拓太阳神",
             "Text": "那就来开趴啰！？\n要吗？要吗～！？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "第一红宝",
+            "Name": "第一红宝石",
             "Text": "……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "第一红宝似乎随时会转身离去。\n我可能得现在就解除派对玩咖的诅咒……\n事到如今，干脆一鼓作气！",
+            "Text": "第一红宝石似乎随时会转身离去。\n我可能得现在就解除派对玩咖的诅咒……\n事到如今，干脆一鼓作气！",
             "ChoiceDataList": [
                 "来举办一场正式派对吧！"
             ],
             "ColorTextInfoList": []
         },
         {
-            "Name": "大德太阳",
+            "Name": "大拓太阳神",
             "Text": "耶～干杯～！",
             "ChoiceDataList": [
                 "干杯！"
@@ -731,20 +731,20 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "第一红宝",
+            "Name": "第一红宝石",
             "Text": "……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "大德太阳",
+            "Name": "大拓太阳神",
             "Text": "欸欸，虽然超临时决定，\n但这派对办得有模有样呢！？",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "大德太阳跟我办了一场\n目前所能办到的最强派对。\n纵然比不上第一红宝熟知的派对──",
+            "Text": "大拓太阳神跟我办了一场\n目前所能办到的最强派对。\n纵然比不上第一红宝石熟知的派对──",
             "ChoiceDataList": [
                 "今天由我来款待你！",
                 "今天由我来款待你！"
@@ -752,19 +752,19 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "第一红宝",
+            "Name": "第一红宝石",
             "Text": "……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "第一红宝似乎尚在观望情况。\n她很注重礼貌，应该不会立刻离开。\n得让她感到这段休息时光深具意义才行──",
+            "Text": "第一红宝石似乎尚在观望情况。\n她很注重礼貌，应该不会立刻离开。\n得让她感到这段休息时光深具意义才行──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "大德太阳",
+            "Name": "大拓太阳神",
             "Text": "这里有些小点心！\n也有能量棒喔～！",
             "ChoiceDataList": [
                 "材料是满满的胡萝卜，营养丰富喔"
@@ -772,19 +772,19 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "第一红宝",
+            "Name": "第一红宝石",
             "Text": "我知道。我曾经从该制造商那边收到产品，\n当时就听过产品说明。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "大德太阳",
+            "Name": "大拓太阳神",
             "Text": "真假！？\n那不就随你吃到饱……！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "大德太阳",
+            "Name": "大拓太阳神",
             "Text": "那台萤幕正在播放\n我的比赛影片～！\nPhoto by 善善☆",
             "ChoiceDataList": [
                 "可以当作短距离比赛的参考"
@@ -792,25 +792,25 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "第一红宝",
+            "Name": "第一红宝石",
             "Text": "……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "独白",
-            "Text": "我们就这样用临时准备的各种事物\n款待了第一红宝。",
+            "Text": "我们就这样用临时准备的各种事物\n款待了第一红宝石。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "第一红宝",
+            "Name": "第一红宝石",
             "Text": "……我接下来还有事，\n差不多该告辞了。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "大德太阳",
+            "Name": "大拓太阳神",
             "Text": "真假！？\n时间过得真快……",
             "ChoiceDataList": [
                 "你觉得还满意吗……？"
@@ -818,19 +818,19 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "第一红宝",
+            "Name": "第一红宝石",
             "Text": "我未曾出席过这种风格的派对，\n因此不知该以何基准来评分。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "大德太阳",
+            "Name": "大拓太阳神",
             "Text": "爆哭！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "第一红宝",
+            "Name": "第一红宝石",
             "Text": "不过，我有感受到训练员与太阳\n你们两位主人的待客之心了",
             "ChoiceDataList": [
                 "咦……"
@@ -838,7 +838,7 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "第一红宝",
+            "Name": "第一红宝石",
             "Text": "我想，这就足以称之为款待。\n辛苦两位了。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []

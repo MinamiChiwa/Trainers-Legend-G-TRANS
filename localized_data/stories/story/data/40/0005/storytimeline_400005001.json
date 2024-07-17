@@ -29,23 +29,23 @@
         },
         {
             "Name": "模拟器的声音",
-            "Text": "“快乐温顺，刷新纪录──”",
+            "Text": "“快乐米可，刷新纪录──”",
             "ChoiceDataList": [],
             "ColorTextInfoList": [
-                "快乐温顺"
+                "快乐米可"
             ]
         },
         {
             "Name": "桐生院训练员",
-            "Text": "辛苦了，温顺。\n有因为VR而头晕吗？",
+            "Text": "辛苦了，米可。\n有因为VR而头晕吗？",
             "ChoiceDataList": [],
             "ColorTextInfoList": [
-                "温顺",
+                "米可",
                 "VR"
             ]
         },
         {
-            "Name": "快乐温顺",
+            "Name": "快乐米可",
             "Text": "……没问题。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
@@ -72,7 +72,7 @@
         },
         {
             "Name": "桐生院训练员",
-            "Text": "我正在用“VR赛马娘模拟器”分析温顺的跑法。",
+            "Text": "我正在用“VR赛马娘模拟器”分析米可的跑法。",
             "ChoiceDataList": [],
             "ColorTextInfoList": [
                 "VR赛马娘模拟器"
@@ -355,11 +355,11 @@
             ]
         },
         {
-            "Name": "高多芬柏布",
-            "Text": "我叫高多芬柏布哦。\n让我来守护赛马娘们走过的轨迹吧。",
+            "Name": "高多芬阿拉伯",
+            "Text": "我叫高多芬阿拉伯哦。\n让我来守护赛马娘们走过的轨迹吧。",
             "ChoiceDataList": [],
             "ColorTextInfoList": [
-                "高多芬柏布"
+                "高多芬阿拉伯"
             ]
         },
         {
@@ -411,7 +411,7 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "高多芬柏布",
+            "Name": "高多芬阿拉伯",
             "Text": "呵呵，尽管依靠我们吧。\n赛马娘们写下的历史──女神睿智，\n会一直支持你们的。",
             "ChoiceDataList": [],
             "ColorTextInfoList": [
