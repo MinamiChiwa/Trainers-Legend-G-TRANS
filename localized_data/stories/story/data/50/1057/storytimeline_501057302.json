@@ -1,0 +1,417 @@
+{
+    "Title": "抽奖试手气！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "去商店街买完东西后的回程路上，\n我遇到了千明代表，\n于是便和她一起走──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "……嗯，怎么回事？\n那里好像很热闹呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "看过来看过来，现正举办新春大抽奖～！\n特等奖可是“温泉旅游券”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "温泉旅游券"
+            ]
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "一等奖是“上等胡萝卜肉排汉堡”，\n二等奖是“一筐胡萝卜”，\n三等奖则是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "来喔来喔，好玩的抽奖活动！\n欢迎大家来抽喔～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "哦～是抽奖啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "那个轻快的旋转声，\n听起来真不错呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "一想到不晓得会抽中什么，就让人很期待呢。\n去看看好了。",
+            "ChoiceDataList": [
+                "那我跟你一起去"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我刚才买东西的时候，\n应该有拿到抽奖券。\n于是我将抽奖券交给她。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "哇，谢谢。\n那我就接受你的好意了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "过不久就轮到了我们──\n千明代表轻快地转动抽奖机的把手！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "结果──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "天啊！恭喜────！！\n抽到特等奖“温泉旅游券”了～～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "千明代表",
+            "Text": "温泉啊，不错呢。听起来很让人兴奋！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "哦～位于自然环境丰富的地方。\n当地还有自豪的温泉和料理……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "呵呵，好像很有趣！\n感觉能获得平常体验不到的经验。",
+            "ChoiceDataList": [
+                "你真幸运！",
+                "你真幸运！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "嗯，你也是啊。",
+            "ChoiceDataList": [
+                "咦？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "这个券是两人份，\n所以一张是你的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "不过……要怎么办呢。\n我感觉没有想要立刻就去。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "而且我现在还有很多想做的事情──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "──嗯，\n就先暂时放着吧。",
+            "ChoiceDataList": [
+                "那我也这么做吧",
+                "那我也这么做吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我表示自己现在想要全力支持\n千明代表“想做的事”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "等我们各自想去的时候再用吧。\n如果时间能够配合，也可以一起去呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我梦想着有一天能去温泉旅行，\n同时在心里发誓，\n要先专心处理眼前的事情。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "恭喜抽到一等奖～！\n奖品是“上等胡萝卜肉排汉堡”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "千明代表",
+            "Text": "喔～看起来很好吃呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "而且，我还没准备今天的晚餐，\n真是刚好呢。",
+            "ChoiceDataList": [
+                "那要去买些配菜吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "这是个好主意呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "去逛一下超市，\n或是找间熟食店吧──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "啊！对了，机会难得，\n如果你有推荐的店，可以告诉我吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "你也是一个人住，对吧？\n请务必让我参考一下。",
+            "ChoiceDataList": [
+                "那我们就去逛一下吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "之后，我带她去商店街，\n向她介绍我常去的果蔬店和便当店。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "二等奖～！！\n奖品是“一筐胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "千明代表",
+            "Text": "哇啊，好多胡萝卜。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "虽然很开心，但是这该怎么办才好。\n就算两个人分还是很多呢。",
+            "ChoiceDataList": [
+                "做成料理之类的？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "嗯……\n我不太擅长做料理呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "对了，找丸善商量看看吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "丸善"
+            ]
+        },
+        {
+            "Name": "千明代表",
+            "Text": "以前有人送我蔬菜当慰劳品，我找她商量后，\n她立刻就帮我做成能长期保存的食物。\n真的是帮了大忙呢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "好，那么，\n总之先全部带回去吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我想像着各种胡萝卜料理，\n并和千明代表一起将大量的胡萝卜带回去。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "三等奖～！\n奖品是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "千明代表",
+            "Text": "喔，不错呢。\n我正好肚子饿了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "那就一人一半──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "千明代表说完后，\n立即将胡萝卜折成两半──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "（──啃啃啃）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "然后当场吃起了其中一半──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "真好吃。感谢招待。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "咦，怎么了吗？",
+            "ChoiceDataList": [
+                "没事……我只是有点吓到"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "啊，抱歉。吓到你了。\n我只是觉得正好适合拿来当点心。",
+            "ChoiceDataList": [
+                "那我这一半也给你"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我表示自己现在肚子不饿，\n便将剩下的那一半也给了她。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "可以吗？那我就不客气了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我听着千明代表啃胡萝卜的声音，\n并和她一起返回学园。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "很可惜，没抽中！\n参加奖是“卫生纸”喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "千明代表",
+            "Text": "嗯……没抽中啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "不过，算了。\n卫生纸也是很实用。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "总之先放进口袋里，\n有一天就会用到的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "千明代表看起来有些落寞地\n将参加奖的卫生纸塞进了口袋。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,434 @@
+{
+    "Title": "请牵起我的手",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "某天晚上，\n结束下场比赛的准备会议后，\n我将目白阿尔丹送到了宿舍……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "～～♪",
+            "ChoiceDataList": [
+                "……你心情很好啊",
+                "……你心情很好呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "咦……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "啊，我……刚才……",
+            "ChoiceDataList": [
+                "你看起来好像要跳起舞来了",
+                "你看起来好像要跳起舞来了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "……是的。\n我或许，是想跳舞没错。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "其实……我忘不了直舞那时的高昂激情。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "简称直舞的这场舞会，\n每年三月都会在体育馆举行。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "有时候，该说身体会蠢蠢欲动吗……\n我会想要踏起舞步。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "……真像个小孩呢。\n我会在睡前让自己冷静下来的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看着目白阿尔丹的模样，\n我忽然涌上了恶作剧的念头。",
+            "ChoiceDataList": [
+                "……要不要我帮你冷静下来？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "咦──",
+            "ChoiceDataList": [
+                "请与我共舞吧",
+                "请与我共舞吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……于是我邀请了目白阿尔丹一起跳舞。\n但是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "──训练员，看我这边。\n请别客气，将自己委身于我吧……♪",
+            "ChoiceDataList": [
+                "好、好的……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我被跳不惯的舞蹈弄得晕头转向……\n回过神来，才发现自己已经\n让目白阿尔丹领着我跳了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "呼……",
+            "ChoiceDataList": [
+                "呼、呼……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "……你还好吗？",
+            "ChoiceDataList": [
+                "还真消耗体力啊……",
+                "还真消耗体力呢……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "……对吧？\n可是我……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "怎么办？别说冷静下来……\n我的内心反而越来越澎湃了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看来目白阿尔丹还没跳够的样子。\n如果有人能代替我满足她──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "因为在我看了姐姐……家姊的直舞时，\n我就已经把基本设计准备好了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "抱歉，我们就到此──",
+            "ChoiceDataList": [
+                "你要不要跟高峰跳舞？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "跟姐姐……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "如果能与目白高峰跳舞，\n不只是当下……甚至于她“至今为止”的渴望，\n或许也都可以获得满足吧。",
+            "ChoiceDataList": [
+                "现在的你，应该能领舞吧",
+                "现在的你，应该能领舞吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "……嗯。\n是啊，如果是现在的我──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "……虽然有点小题大作，\n但可以请你替我见证吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白高峰",
+            "Text": "……真是个平凡的夜晚。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白高峰",
+            "Text": "是吧？阿尔丹。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白高峰",
+            "Text": "周遭只有你的脚步声作响。\n何等静谧且无趣的夜晚……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "你没发现吗？\n这个脚步声，象征着无趣即将告终──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "──可以请你牵起我的手吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白高峰",
+            "Text": "我可以当作这是请求吗？\n你是下定决心后才过来的吧，既然如此──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白高峰",
+            "Text": "试着争夺主导权吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "……唔。\n好的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白高峰",
+            "Text": "……我说，阿尔丹。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "我明白的，姐姐……！\n现在才要开始……！",
+            "ChoiceDataList": [
+                "（她们都好厉害……）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "目白高峰玩弄着对方，\n目白阿尔丹则紧咬不放……姊妹两人的舞蹈\n就像在互相挑战，其气势令人屏息──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "呼……呼……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白高峰",
+            "Text": "……呼。\n你的热情……是时候了呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白高峰",
+            "Text": "下次──我们就在赛场共舞吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "……！\n好的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "……到时我也会跑在你前面，\n为你领舞的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看来目白阿尔丹还没跳够的样子。\n如果有人能代替我满足她──",
+            "ChoiceDataList": [
+                "要不要去邀请别人──"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千代王&八重",
+            "Text": "那就由我来吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "千代王、八重！\n你们怎么会来这里？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "还有你们这身服装是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "看到你们两位后……\n我就按捺不住了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "我是看到千代王跑过去后，\n就急忙换装赶来了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千代王&八重",
+            "Text": "来跳舞吧！\n来跑步吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "！？\n不是要比赛吗……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "是要跳舞喔～！\n这件是直舞时穿的礼服！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "阿尔丹！那个……你这样不行喔！\n竟、竟然没有立刻想起我！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "能承受你热情的人……\n是我！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "千代王……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "虽然有些自作主张，\n但我把你的服装也带来了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "如果你愿意牵起我的手──\n可以请你接下这礼服吗！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "……嗯，当然。\n也让我承受……你的热情吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "……如果要互相宣泄热情，\n请务必让我也一起参与。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "庆幸的是，我也懂跳舞。\n……请与我较量吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "呵呵……谢谢你。\n那么──我们走吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "于是目白阿尔丹换上西装，\n与她的两名劲敌换了个地方……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "八重无敌",
+            "Text": "在直舞中……是跳双人舞吧。\n……我们三个该怎么跳？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "轮流跳怎么样？\n一开始由我跟千代王──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花千代王",
+            "Text": "“胡萝卜越多越开心！”\n干脆就三个人一起跳吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "呵呵，这是很有趣的尝试呢。\n既然如此……我就把主导权全都夺走吧♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在比赛中激烈竞争的三人，\n度过了一段平静的时光……\n直到门禁时间即将到来为止。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

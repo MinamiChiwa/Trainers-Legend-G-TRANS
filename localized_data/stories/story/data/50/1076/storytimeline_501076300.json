@@ -1,0 +1,156 @@
+{
+    "Title": "夏季集训（第二年）结束",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "夏季集训今天就要结束了。\n当我们正打算搭上回学园的巴士时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "拜托请通融一下！！\n至少让我们问一句话！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "非常抱歉，敬请理解。\n她们刚训练完毕都相当疲劳。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "啊、啊哈哈……手纲小姐真是辛苦呢。\n媒体朋友们的目的想必当然是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "手纲"
+            ]
+        },
+        {
+            "Name": "记者B",
+            "Text": "她来了！！成田白仁小姐！\n你秋天一定会参加“菊花赏”吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "请说说你的抱负！\n只有一句话也好！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "……啧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者C",
+            "Text": "然后你会跟令姊琵琶晨光小姐\n在“有马纪念”一决胜负吗！？\n是否为我们带来初次姊妹对决──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "──呵。",
+            "ChoiceDataList": [
+                "（她笑了……？）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "跟大姐一决胜负吗……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者C",
+            "Text": "……！　白仁小姐！\n刚刚那表情究竟代表着──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "结束！到此结束！\n各位，请停止访问！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "刚刚白仁她笑了吧？",
+            "ChoiceDataList": [
+                "是啊，她听到琵琶晨光的名字就笑了……",
+                "是呀，她听到琵琶晨光的名字就笑了……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "小晨光……\n我记得她在今年的“天皇赏（春）”\n也跑出了强悍的表现。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "晨光",
+                "天皇赏（春）"
+            ]
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "听说她连续赢得好几场比赛，\n跟白仁一样被称为“现任最强”……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "──琵琶晨光。\n“日本德比”前我们也曾受过她的关照。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我回想起她既冷静沉着，\n同时又对妹妹成田白仁怀抱熊熊斗志的模样。",
+            "ChoiceDataList": [
+                "究竟是谁会赢呢……！？",
+                "究竟是谁会赢呢……！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "我懂你的心情！\n“最强姊妹对决”光听就令人兴奋不已呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "训练员，\n到时我们也去观战吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "我想亲眼见证白仁争夺最强宝座的跑姿，\n牢牢记在心里！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "就这样，\n夏季集训在热烈气氛中结束了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

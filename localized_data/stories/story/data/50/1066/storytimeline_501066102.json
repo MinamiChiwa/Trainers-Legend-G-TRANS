@@ -1,0 +1,567 @@
+{
+    "Title": "新年参拜",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "来到了新的一年。\n从今天起双涡轮升上了古马级──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "新年参拜～！\n我们走吧，训练员、素质、诗歌剧～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "诗歌剧"
+            ]
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "真是的……就算升上古马级，\n涡轮你还是没变呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼诗歌剧",
+            "Text": "新年参拜啊～我也得拼命向神明许愿才行。\n毕竟我从今年起就是经典级了嘛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我们带着新伙伴待兼诗歌剧，\n一起前去新年参拜。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "待兼诗歌剧"
+            ]
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "咦？那个人是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "帝王！喂～帝王！\n新年快乐～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "咦，是你们啊，\n连训练员也在。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "东海帝王也来到了同一个神社做新年参拜。\n从她的样子看来，\n脚似乎已经完全恢复了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "你们也是来新年参拜的吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "没错！来许愿。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "虽然我去年也挺努力的，\n但我希望今年能跑出更好的结果。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "今年的我们可不太一样喔。\n毕竟加入了有前途的新人！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "有前途的新人……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "那位有前途的新人待兼诗歌剧，\n已经先去许愿了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼诗歌剧",
+            "Text": "希望今年也有好事发生。\n还有之前比赛的时候，\n波旁完全不把我当对手，希望她能……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（拉铃铛！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（砸下！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼诗歌剧",
+            "Text": "……唔咦咦咦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "待兼诗歌剧",
+            "Text": "呜呜呜呜呜，涡轮～素质～\n铃铛掉到我的脸上了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "喔～你中大奖了耶！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "啊哈哈，这是“不幸的百宝箱”吗。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "感觉又有一位……很有特色的成员加入了呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在介绍完新成员后，\n双涡轮重新向神明许了自己的愿望。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "神明、神明，拜托你……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "让涡轮今年一整年，\n都能全力奔跑！！！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我还以为她会向神明宣誓要“击败帝王”……\n但她的愿望却跟我想的有些不同。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "嗯，怎么了？训练员……一直盯着涡轮看。",
+            "ChoiceDataList": [
+                "你的愿望不是击败帝王吗？",
+                "你的愿望不是击败帝王吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "啊～因为只要涡轮完全燃烧，\n应该就能达成那个目标啦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "涡轮啊，去年跟训练员一起跑步后，\n稍微长大了。然后，也明白了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "不论什么时候，只要涡轮跑到燃烧殆尽，\n完全赢过自己，\n就能在所有比赛都跑出最棒的成果！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "所以涡轮，今年一整年会什么都不想，\n不断燃烧下去喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "先突破五月的目标！\n然后在年末的大比赛完全燃烧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "涡轮要加油！\n一定会成功的，所以你要看好啰！",
+            "ChoiceDataList": [
+                "好，就以这个为目标吧！",
+                "嗯，就以这个为目标吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "双涡轮没有一丝迷惘。\n既然如此，我就只有一心一意为她铺路，\n让她能够狂奔猛进了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "那今天就来预先练习引擎全开吧！\n涡轮想全力玩耍。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "训练员，要做什么要做什么？\n要玩什么啊？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "训练跟玩耍都要全力以赴，\n这就是双涡轮的作风。\n既然如此，今天要做的是……",
+            "ChoiceDataList": [
+                "跟猫狗玩",
+                "超累人体操",
+                "拍一堆影片"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "跟猫狗玩吗？这是个好主意。\n涡轮想玩想玩！",
+            "ChoiceDataList": [
+                "你不怕动物吗？",
+                "你不怕动物吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "一点都不怕！\n涡轮最喜欢动物了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看来双涡轮虽然本性胆小却不怕动物的样子。\n总之我们先前往了附近的牧场，\n这里因为有许多小猫小狗而闻名。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "喔喔喔喔，小狗！小猫！\n涡轮要来大摸特摸啰。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "狗狗～狗狗～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "那个，它的名字不叫“狗狗”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真弓快车",
+            "Text": "它叫做巴哥泽赫尔曼氏。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "喂喂喂，真弓。\n就叫你别取怪名字了。\n而且还这么长。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "真弓"
+            ]
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "叫巴哥仔不就好了。\n对吧，巴哥仔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "巴哥（狗）",
+            "Text": "（汪）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真弓快车",
+            "Text": "咦～\n小真觉得应该叫它巴哥泽赫尔曼氏说。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "有人比我们先来到这里，她们分别是\n美浦宿舍的宿舍长菱亚马逊，\n以及性格温和的怪怪赛马娘真弓快车。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "菱亚马逊",
+                "真弓快车"
+            ]
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "菱亚跟真弓……\n你们为什么会在这里？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "菱亚"
+            ]
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "没有啦～因为这个牧场里，\n收留了很多无家可归的小狗跟小猫。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "嘿嘿，这种小狗跟小猫，\n总让人无法放着它们不管嘛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真弓快车",
+            "Text": "所以小真跟大家都是这里的常客。\n小真也常常跟菱亚在这里巧遇。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "小真"
+            ]
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "这样啊。那从今天起涡轮也会常来这里。\n因为涡轮最喜欢小狗、小猫跟小鸡了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱亚马逊",
+            "Text": "哈哈哈，这里没有鸡啦。\n好啦，你去跟小动物慢慢玩吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "真弓快车",
+            "Text": "大家一起在同个屋檐下，\n悠哉地度过这段时光吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "嗯，涡轮悠哉全开～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "虽然是不可思议的缘分与不可思议的组合，\n但双涡轮却意外地\n与她们相处融洽……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就这样，众人在同个屋檐下\n悠哉地度过了这一天。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "超累人体操？\n要全力做体操吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "好啊好啊，来做来做！\n那我们就去那边的公园！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "到了公园，只见有位不速之客已经先到了。\n一脸认真地在运动的是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "一、二、三、四……\n一、二、三、四……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "是华丽一族的千金小姐，\n第一红宝石。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "第一红宝石"
+            ]
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "咦，红宝？\n你在做什么？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "红宝"
+            ]
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "──我在为新的一年做准备。\n虽然新年才刚开始，但不可安稳度过。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "至少──要稍微做一下柔软件操。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "这样啊。那涡轮也来做吧。\n毕竟有竞争对手就会让人热血沸腾嘛！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "一、二！三四～！\n一、二！三四～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "……………………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "一、二、三、四……\n一、二、三、四……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "唔唔唔，红宝，你的动作真漂亮。\n涡轮也不能输给你！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "三四！三四～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "三、四……三、四……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她不服输的性格受到刺激，全心投入到运动中。\n身心都因此得到强化了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "拍一堆影片吗？\n好啊，反正涡轮很擅长剪辑。",
+            "ChoiceDataList": [
+                "那由我来当摄影师吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "于是我们两人，\n决定一起拍一堆电影风的短影音。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "振作一点，振作起来啊！\n再一下下，就能逃离僵尸群了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "所以站起来，站起来啊～！",
+            "ChoiceDataList": [
+                "别管我了……你快逃",
+                "别管我了……你快逃"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "知道了！涡轮全力冲刺！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "糟糕了，是外星人！\n外星人攻过来了～！",
+            "ChoiceDataList": [
+                "逃到世界尽头吧……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "知道了！涡轮全力冲刺！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "训练员，再来要演什么？",
+            "ChoiceDataList": [
+                "今天要一直演这个系列吗？",
+                "今天要一直演这个系列吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "嗯。就试试看各种剧本，\n直到想不出来为止吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就这样，我们拍了一堆逃亡风影片。\n尝试了许多不同情境的剧本。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

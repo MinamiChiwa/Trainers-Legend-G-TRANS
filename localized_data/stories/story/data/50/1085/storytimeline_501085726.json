@@ -1,0 +1,51 @@
+{
+    "Title": "挑战夹娃娃机！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "某天，\n我跟第一红宝石一起外出时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "……那里有赛马娘玩偶呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我沿着第一红宝石的视线方向看去，\n那里摆了一台\n里面装着赛马娘主题玩偶的夹娃娃机。",
+            "ChoiceDataList": [
+                "那叫做“嘚嘚玩偶”，非常受欢迎喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "这样啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "第一红宝石专注地凝视着嘚嘚玩偶。\n她可能是因为稀奇而产生了兴趣。\n既然如此──",
+            "ChoiceDataList": [
+                "我来挑战看看好了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──这个挑战，不能失败！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

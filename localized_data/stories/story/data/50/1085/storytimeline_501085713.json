@@ -1,0 +1,117 @@
+{
+    "Title": "保重身体！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "第一红宝石受伤了，\n我立即带她到保健室处理伤势。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "谢谢老师为我处理伤势。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "训练员，回去继续训练吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "我们没有时间因为这点痛楚而停滞。",
+            "ChoiceDataList": [
+                "别太心急，先休息吧",
+                "只做可承受范围内的训练的话……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "……恕我难以接受。\n请提出必须休养的根据来说服我。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我早已料到她会这么说，\n于是把事先印好的最新论文摊开给她看。",
+            "ChoiceDataList": [
+                "就算忍痛训练，效率也不会好"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "……我明白了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "那么，我就专心于静养治疗。\n……失陪了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "我明白了。\n那就先从低负担的练跑开始。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "……唔……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她试着跑了几步，就难以维持姿势……\n从表情看来，她自己应该也很清楚\n那是伤势的影响。",
+            "ChoiceDataList": [
+                "就到此为止吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "……我明白了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "之后她立刻开始静养……\n但不知是不是先前试跑的影响，\n她花了一段时间才回到原本的状态。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "…………我回来了。",
+            "ChoiceDataList": [
+                "看来没问题呢！",
+                "看来没问题呢！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "跑起来完全不痛。\n照这个状况看来，应该很快就能复出。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "之后第一红宝石一派轻松地克服了伤势，\n相当顺利地复出。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,241 @@
+{
+    "Title": "No Way Home",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我办完事情回去时，\n在下电车后的月台上──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城王牌",
+            "Text": "下车后搭对面的快车……\n下车后搭对面的快车──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "──葛城王牌没有注意到我，\n从前方走了过来……！",
+            "ChoiceDataList": [
+                "唔哇！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城王牌",
+            "Text": "啊！对不起！\n我在想一些事情……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "啊～抱歉！\n王牌刚才满脑子都在想换车的事情。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城王牌",
+            "Text": "啊，刚才发生的事让我忘记换车路线了！\n呃、呃……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城王牌",
+            "Text": "“下车后搭对面的特快车”──\n……善信，是这样没错吧！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "可惜，不是“特快车”，是“快车”！\n我把换车路线的说明也传给你了，\n不确定的时候就看一下吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城王牌",
+            "Text": "喔，真是帮了大忙！有这个说明的话，\n应该就不用担心会来不及跟人会合了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "广播",
+            "Text": "“电车即将进站──\n请旅客退至黄线内侧。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "那么，路上小心♪\n如果有不懂的地方，就立刻打电话给我吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城王牌",
+            "Text": "嗯……谢谢你还送我来搭车！\n那我就开心地出发了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "王牌很不会换车。她甚至曾经从起点站\n搭到终点站再搭回来呢～\n我是很想相信她今天能顺利换车──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "咦……是王牌打来的电话。\n──喂？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "咦，嗯……我知道了！\n我立刻回去！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城王牌",
+            "Text": "善信！这到底是怎么回事！？\n我怎么又回到原本的车站了～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城王牌",
+            "Text": "我下车后，\n就去搭停在“对面”月台的快车了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "对面月台……你是爬上楼梯，\n去搭隔壁月台的车了吧？\n真可惜～！你要搭的是“对面”的车！",
+            "ChoiceDataList": [
+                "在同一个月台等就行了",
+                "在同一个月台等就行了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城王牌",
+            "Text": "唔哇──！！我又搞砸了～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城王牌",
+            "Text": "可恶～都市的电车太复杂了！\n真的有需要这么多条路线吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城王牌",
+            "Text": "我刚开始在这里搭电车时也是这样……\n本来想出门熟悉环境，\n结果不晓得该怎么回去……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城王牌",
+            "Text": "因为都是没听过的站名，\n就算有广播也没用，\n结果就坐过站了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城王牌",
+            "Text": "虽然后来总算回到了宿舍！\n但却被当成是入住第一天就违反门禁的\n问题人物……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城王牌",
+            "Text": "这次光是没有迷路，\n就已经算比较好了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城王牌",
+            "Text": "但这样下去，\n我迟早会因为搭电车而遇难吧！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "每个人都有不擅长的事情，\n这种时候就让我们互相帮助吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "如果王牌不介意，\n我可以陪你一起搭车到目的地！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城王牌",
+            "Text": "善、善信……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城王牌",
+            "Text": "呜……！\n你真的是最棒的室友……！",
+            "ChoiceDataList": [
+                "现在还来得及跟人会合吗？",
+                "我非常能理解……不擅长搭电车的心情喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城王牌",
+            "Text": "对喔……！\n唔哇，只剩下三十分钟！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "放心吧！下一班电车就要到了！\n顺利的话，应该能够轻松赶上会合时间喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城王牌",
+            "Text": "我老家一小时只有一班车呢……！\n都市真是不得了！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "多亏了目白善信，\n葛城王牌这次没有搭错车，\n顺利和朋友会合了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城王牌",
+            "Text": "训练员也跟我一样吗！？\n太好了～！原来不是只有我这样！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城王牌",
+            "Text": "话说有时候电车搭着搭着\n就会突然变成别条路线！\n那样未免太莫名其妙了吧！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "啊，这我好像稍微能够理解。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "在下一班电车抵达前，\n我们聊着“都市电车常遇到的事情”\n聊得非常热烈！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

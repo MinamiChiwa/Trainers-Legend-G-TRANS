@@ -1,0 +1,709 @@
+{
+    "Title": "宿命论／圈外者之名",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "────当世人仍在为\n谷野美酒的事情吵吵嚷嚷时，\n我正打算跟手纲小姐商量一件事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "手纲"
+            ]
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "训练员要……引退……！？",
+            "ChoiceDataList": [
+                "……对"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "这是因为……\n受到谷野美酒同学的事情影响所作的决断吗？",
+            "ChoiceDataList": [
+                "……有一半是这样"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我向手纲小姐说明没有防止她受伤是我的过失，\n而且我与她都觉得已经达成目标，\n所以才做出这个决定──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "……我明白训练员的想法了。\n请问训练员和谷野美酒同学谈过了吗……？",
+            "ChoiceDataList": [
+                "不──我还没有跟她说"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "…………这样啊，那么──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "恕我僭越，\n请你在做出决定之前，\n和谷野美酒同学好好谈一次。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "如果两位真的下定决心──\n学园会尊重两位的想法。",
+            "ChoiceDataList": [
+                "……我明白了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "────────",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "（本来想纪念可喜的无趣，\n一起享受一杯……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "（可恨的命运……竟然来这招……！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "────不是吧……！\n你……应该不是这样吧……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "……那么我先告辞了──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "骏川手纲",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "与手纲小姐商量完的隔天。\n我下定决心、想好要怎么说之后，\n准备跟谷野美酒谈论自己的去留──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "────训练员，久等了。",
+            "ChoiceDataList": [
+                "不会，我────呃，伏特加？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "……你好！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "抱歉，在我们开始谈之前，\n你可以先听听她的烦恼吗？\n她最近好像陷入瓶颈了。",
+            "ChoiceDataList": [
+                "呃，那个──"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "训练员，不好意思突然来麻烦你。\n我无论如何都想变得更强！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "看过德比之后，\n我很想要像前辈一样……\n跑得那么厉害！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "她问了我不少事情。\n……所以我想与其让我教她，\n你一定更适合。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "毕竟你──\n是让我实现MC参赛计划的\n强大训练员啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "……这件事可以拜托你吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……谷野美酒开口拜托我，\n我不可能有办法拒绝。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "──呼、呼……！！",
+            "ChoiceDataList": [
+                "伏特加，就是现在！！",
+                "伏特加，就是现在！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "是！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "────呜喔喔喔喔喔喔喔！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "哦……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "呵呵，你的冲刺很出色呢。\n而且有维持住最快速度。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "是、是……！\n我也觉得跑起来很轻松……！\n原来从那个时候开始加速比较好啊～！",
+            "ChoiceDataList": [
+                "在弯道时重心摆放的方式也有改善呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "我真的到昨天都还在烦恼，\n不知道要怎么做才能像前辈那样气势十足又利落，\n刚才跑起来感觉好超多的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "这都是多亏了训练员的指点！\n真的很谢谢你！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "…………是啊。\n你们果然……就该这样──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "…………那个，训练员！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "现在不行也没关系，\n以后……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "以后能不能指导我！？\n这样的话────",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "我一定能成为称霸“日本德比”的赛马娘！！",
+            "ChoiceDataList": [
+                "这──"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "我知道这个请求很现实……\n而且超级失礼……！\n这些我都知道！！可是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "我想要指导过前辈的训练员来教我，\n然后在前辈表现得超帅的比赛上──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "也赢得第一名！！！\n我想要成为超厉害的赛马娘！！！",
+            "ChoiceDataList": [
+                "伏特加……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这个请求对我来说相当光荣，\n可是我没有办法带她走向未来。\n因为我已经……停下脚步了。",
+            "ChoiceDataList": [
+                "……对不起，我没办法答应你",
+                "……对不起，我没办法答应你"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "────因为我们还有该做的事情。",
+            "ChoiceDataList": [
+                "咦？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "咦咦！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "呃，可是前辈──\n咦？之前……咦？\n等等，先等一下──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "难道……该不会……！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "前辈，你的意思该不会是……\n难道说────！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "没错。\n────我们接下来的目标是复出。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "阿……阿琴前辈～～～～～～！！！\n太好了────────！！！",
+            "ChoiceDataList": [
+                "为什么──"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "伏特加，不好意思，\n等一下我要跟训练员\n讨论往后的事情。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "今天听到的事情，\n你就暂时藏在心里吧。\n……做得到吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "伏特加",
+            "Text": "可、可以！！\n我不会跟别人说的！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "──乖孩子。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "与难掩喜悦的伏特加道别后，\n只剩下我和谷野美酒两个人──",
+            "ChoiceDataList": [
+                "你到底打算做什么？",
+                "你到底打算做什么？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "……我承认是我做了对不起你的事情，\n利用恶作剧让你陷入了混乱。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "这一点……我很抱歉。",
+            "ChoiceDataList": [
+                "……你会好好解释对吧？",
+                "……你会好好解释对吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "……吾以自己期望的形式\n实现了MC参赛计划。\n对于这一点，吾没有半分后悔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "实现MC参赛计划将会耗尽\n自己的所有可能性……\n吾对此同样没有任何畏惧或后悔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "即使是在不同的世界线里，\n如果我能独自实现MC参赛计划……\n大概会毫不犹豫地置身于暗影之席吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "但是────我的身边有你。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "吾将我的可能性燃烧殆尽并没有关系。\n甚至有种命中注定的感觉。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "但是你不一样……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "……今天看你指导伏特加的模样，令我再次确定，\n对于总有一天会到来的卓越混沌，\n你是不可缺少的存在。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "你身为训练员的可能性以及光芒\n绝对不该在这个时候耗尽……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "更不用说因为吾的行动\n而断了你的可能性──\n这违反了我的美学！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "我绝对不想看到这样的结局！！",
+            "ChoiceDataList": [
+                "────"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我的心里开始涌现一种温暖的感觉，\n但是很快地便被冷冰冰的感情盖过，\n推回内心深处……",
+            "ChoiceDataList": [
+                "可是，我……害你……",
+                "可是，我……害你……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "你觉得自己有责任吗？\n很好，那么──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "你就负起责任，\n再次和我一起走上艰险的道路，\n实现我的理想。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "──我可以达成比MC参赛计划\n更厉害的成就，对吧？",
+            "ChoiceDataList": [
+                "……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "训练员，再来一次，\n再次和我，以及和吾一起编写故事吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "然后以那项壮举……\n赐予霎时的耀眼光芒更永恒的时间！\n延续你的可能性！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──我的心中传出某种东西被破坏的声响。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "……我已经指出了一条路。\n最后做出选择的人……是你。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "你────已经到尽头了吗？",
+            "ChoiceDataList": [
+                "……………………还没！！！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我紧紧抓住谷野美酒的手，\n然后把心底涌现的情绪\n直接说出口。",
+            "ChoiceDataList": [
+                "我！！想要更为你沉醉！！！",
+                "我！！想要更为你沉醉！！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "为了不让话语消失在夕阳之中，\n为了不让谷野美酒消失，\n我用锁链系住她。",
+            "ChoiceDataList": [
+                "所以跟我一起，再挑战一次吧！！",
+                "所以跟我一起，再挑战一次吧！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "布幕于此刻再次升起。\n────我们的第二幕，即将开始。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "……好。\n关于“胜过MC参赛计划的成就”──\n你有什么想法吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……我能想到的只有一个。\n那是极度严苛的参赛计划，\n有机会变成MC参赛计划的延伸。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "只是我有些犹豫，\n不知道该不该提出来。\n这是因为──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "你认为自己没能防止吾受伤，\n所以没有资格提议吗？",
+            "ChoiceDataList": [
+                "（被、被看穿了……！）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "呵，你的表情说明了一切。\n多亏如此，\n我才能确定你的想法跟我一样……！",
+            "ChoiceDataList": [
+                "美酒也……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "好了，来对答案吧。\n说出你想像的毁灭性蓝图吧！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……在她的催促之下，\n我下定决心说出自己的想法。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "“MC参赛计划”的根本是要证明\n一个人与生俱来的天赋。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "其核心思想是让身体尚未成熟的经典级赛马娘，\n证明自己拥有称霸英里的“速度”，\n以及在2400米独占鳌头的“力量”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "如果要以超越MC参赛计划的成就为目标──\n那么除了与生俱来的天赋，\n还得展现经过锻炼的成果……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "换句话说，也就是要以身体已经锻炼完毕的\n古马级赛马娘身份，连续参加英里与中距离，\n取得好成绩。符合条件的舞台是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "古马级"
+            ]
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "从决定英里顶点的比赛迈向\n决定中距离时代最强的庆典。\n极度严苛的水无月连战，也就是──",
+            "ChoiceDataList": [
+                "接连挑战“安田纪念”和“宝冢纪念”……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "呵呵……哈哈哈哈……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "哈──────哈哈哈──！！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "实在是太愉悦了！\n因为之前把那些观测者耍得团团转，\n现在还要选择更加艰难的道路！",
+            "ChoiceDataList": [
+                "────这次我一定会保护你",
+                "────这次我一定会保护你"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "────",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "……眼神不错。\n再次充满了疯狂──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "决定以古马级的“安田纪念”与\n“宝冢纪念”为两大目标后，\n再来要确认为往后回归赛场所采取的行动──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "安田纪念",
+                "宝冢纪念"
+            ]
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "……基本上得静养，\n不过要做些训练当作复健，\n避免身体变迟钝。",
+            "ChoiceDataList": [
+                "今年六月要格外小心"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "是啊，应该避免参加任何比赛，\n在那段期间为我的双腿积蓄力量。",
+            "ChoiceDataList": [
+                "我会在夏季集训期间分段观察恢复状况"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "我没意见。呵呵──\n虽是炎炎盛夏，却如履薄冰啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "那吾的重生舞台要选在哪里？",
+            "ChoiceDataList": [
+                "让“神户报杯”成为你完全复活的舞台吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "“神户报杯”是举办在九月的GⅡ竞赛。\n照理来说以“菊花赏”为目标的赛马娘\n大多会当成中程目标参加──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "神户报杯",
+                "GⅡ竞赛"
+            ]
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "草地2400米……原来如此，\n在与“日本德比”相同距离的比赛中\n取得佳绩，证明吾依然健在……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "而且时间点也不错。\n如果连这一点复活的可能性都没有，\n不管怎样都会无路可走──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "确定了呢。\n那么……一同迈向重生之夏吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就这样，\n我将目标定为在“神户报杯”完全复活，\n与谷野美酒再次迈出步伐……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

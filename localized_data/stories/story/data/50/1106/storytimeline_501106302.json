@@ -1,0 +1,499 @@
+{
+    "Title": "抽奖试手气！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "化妆品店的店员",
+            "Text": "福袋剩下五个！只剩最后五个！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "服饰店的店员",
+            "Text": "限时特卖即将开始──！\n现在只要购买两项三折商品，\n就能够再多打一折喔──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱钻奇宝",
+            "Text": "呼～充满了新年的气氛呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱钻奇宝",
+            "Text": "要不要买点什么回去呢～？\n不过这个月已经快没钱了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱钻奇宝",
+            "Text": "可是又好想买东西啊──\n我也想分享到一些优惠──",
+            "ChoiceDataList": [
+                "那我们一起去看看训练用品吧",
+                "那我们一起去看看训练用品吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱钻奇宝",
+            "Text": "咦，训练员？\n不不不，\n不是那种认真的方向啦～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "然后跟菱钻奇宝一起\n以优惠的价格购买训练用品之后──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "看过来看过来，现正举办新春大抽奖～！\n特等奖可是“温泉旅游券”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "温泉旅游券"
+            ]
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "一等奖是“上等胡萝卜肉排汉堡”，\n二等奖是“一筐胡萝卜”，\n三等奖则是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "来喔来喔，好玩的抽奖活动！\n欢迎大家来抽喔～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱钻奇宝",
+            "Text": "喔喔，抽奖活动！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱钻奇宝",
+            "Text": "训练员，\n你刚刚有拿到摸彩券对吧？",
+            "ChoiceDataList": [
+                "是啊，有一张",
+                "嗯，有一张"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱钻奇宝",
+            "Text": "那就全靠这张了～\n至少来个三等奖，我想带着幸福的心情回家──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我和菱钻奇宝一起排进了抽奖的队列，\n然后终于轮到了我们……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "菱钻奇宝斗志昂扬地\n转动了抽奖机的把手！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "结果──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "天啊！恭喜────！！\n抽到特等奖“温泉旅游券”了～～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "菱钻奇宝",
+            "Text": "咦？\n……咦？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱钻奇宝",
+            "Text": "咦──！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱钻奇宝",
+            "Text": "温泉！是温泉喔！\n训练员，温泉！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱钻奇宝",
+            "Text": "你有看到旅馆的名称吗？\n这里非常有名喔，\n之前还被电视报导过……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱钻奇宝",
+            "Text": "评论也是五星！\n从房间看出去的夜景非常壮观，\n料理也是知名主厨监修的喔～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她的双眼闪耀着光芒，\n看来温泉会是最棒的奖励呢。",
+            "ChoiceDataList": [
+                "那今年你有好好努力的话就去吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱钻奇宝",
+            "Text": "好的──今年──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱钻奇宝",
+            "Text": "今年不是才刚开始吗……？",
+            "ChoiceDataList": [
+                "我很期待你“今年一整年”的努力喔",
+                "我很期待你“今年一整年”的努力呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱钻奇宝",
+            "Text": "咦──？\n那要是我没有好好努力的话……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱钻奇宝",
+            "Text": "呜呜～好过分～\n魔鬼、恶魔、游泳教练～",
+            "ChoiceDataList": [
+                "只要你努力的话，也会给你专用的疗养时间"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱钻奇宝",
+            "Text": "真的吗…………？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱钻奇宝",
+            "Text": "……至少要给我五天的休假喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱钻奇宝",
+            "Text": "行前准备需要两天，\n回来后躺在家里放松也需要两天。\n这部分我是不会妥协的。",
+            "ChoiceDataList": [
+                "当然可以！我答应你"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱钻奇宝",
+            "Text": "嗯……好吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱钻奇宝",
+            "Text": "不准食言喔～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我在记录比赛行程的记事本上，\n写下了她的预定休假日。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在今年年底时，\n我想让她有很多时间可以好好休息，\n因为我相信她一定会非常地努力。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "恭喜抽到一等奖～！\n奖品是“上等胡萝卜肉排汉堡”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "菱钻奇宝",
+            "Text": "什么──太棒了──！\n是一等奖喔！一等奖！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱钻奇宝",
+            "Text": "不妙，今天的我运气超好。\n要不要也去挑战别的抽奖啊？",
+            "ChoiceDataList": [
+                "就这样趁胜追击也不错啊",
+                "就这样趁胜追击也不错啊"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱钻奇宝",
+            "Text": "喔喔～\n你很懂嘛，训练员。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱钻奇宝",
+            "Text": "那就去买个梦想吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "小姐！你忘了拿奖品啰！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱钻奇宝",
+            "Text": "哎呀呀。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱钻奇宝",
+            "Text": "耶嘿嘿，真是不好意思呢……\n多谢多谢，那我先告辞了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就这样，我陪着心情愉悦地\n逛着商店街的菱钻奇宝──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱钻奇宝",
+            "Text": "什么──刮刮乐也全都没中──？\n不会吧──？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱钻奇宝",
+            "Text": "唔唔唔，既然如此──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱钻奇宝",
+            "Text": "那就回家吧，\n反正还有胡萝卜汉堡排。",
+            "ChoiceDataList": [
+                "（好干脆！）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "然后回到房间后，\n菱钻奇宝津津有味地\n享用了美味的汉堡排。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "二等奖～！！\n奖品是“一筐胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "菱钻奇宝",
+            "Text": "咦？哇，好厉害！\n这个分量超多的。",
+            "ChoiceDataList": [
+                "要不要分给其他人？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱钻奇宝",
+            "Text": "嗯～确实。\n也可以这么做呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱钻奇宝",
+            "Text": "总之先分给朋友和\n班上的人吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱钻奇宝",
+            "Text": "嗯～已经送了很多～\n但还有一堆……唉～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱钻奇宝",
+            "Text": "不过今天我已经不行了～\n我累了，先休息一下……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱钻奇宝",
+            "Text": "软绵绵的床铺～\n好幸福……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（咕噜……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱钻奇宝",
+            "Text": "啊啊～我的肚子在叫～\n但是要走到餐厅的话……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱钻奇宝",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱钻奇宝",
+            "Text": "难道就是为了这种时候吗……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "后来，菱钻奇宝向我报告，\n说那一筐胡萝卜非常方便。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "三等奖～！\n奖品是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "菱钻奇宝",
+            "Text": "啊，好厉害，中奖了！\n我成功了！",
+            "ChoiceDataList": [
+                "恭喜你！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱钻奇宝",
+            "Text": "耶嘿嘿，谢啦谢啦，\n有点幸运呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱钻奇宝",
+            "Text": "嗯～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱钻奇宝",
+            "Text": "照这个样子再挑战一次的话，\n会不会抽到更好的奖品啊？",
+            "ChoiceDataList": [
+                "也有可能会没抽中喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱钻奇宝",
+            "Text": "唔哇，感觉超有可能的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱钻奇宝",
+            "Text": "那为了能带着好心情回家，\n今天就到此为止吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "很可惜，没抽中！\n参加奖是“卫生纸”喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "菱钻奇宝",
+            "Text": "算了，这种通常都是拿到\n卫生纸或糖果之类的啦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "菱钻奇宝",
+            "Text": "可是，没抽中啊，唉……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "菱钻奇宝看起来\n非常失落的样子……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

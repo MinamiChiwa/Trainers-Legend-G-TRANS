@@ -1,0 +1,207 @@
+{
+    "Title": "粉丝信",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我跟天狼星象征一起买完东西走在回程路上。\n原本打算回去之后立刻进行训练，不过──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "啊！来了来了！\n喂～！天狼星～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "东海帝王和一个小女孩在校门前。",
+            "ChoiceDataList": [
+                "这个女孩是？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "这孩子说她是天狼星的粉丝喔！\n她想把粉丝信交给你，所以一直在这里等你！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女孩A",
+            "Text": "那、那个……这个！请你收下！\n我一直很崇拜你……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她用颤抖的双手递出了一封信，但是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "……喂，小狗，你收下吧。\n我先走一步了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "咦，等一下，天狼星！？\n……她走掉了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "嗳，那是什么意思啊！？\n也太冷淡了吧～！！",
+            "ChoiceDataList": [
+                "我也不知道，不过……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她那种态度……我觉得应该是有原因的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "可不能就这样结束！\n我们追上去吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "（崇拜……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "等一下～！天狼星～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "……怎样啦？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "这位女孩的粉丝信\n应该由她最崇拜的你亲自收下！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "崇拜啊，居然把自己的感情和理想\n托付给别人，真是无聊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "唔！才不无聊呢！\n我也是因为崇拜会长，\n才能够一路跑到今天啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "那种感情是你自己擅自拥有的，\n跟我完全无关。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "所以我会将训练视为第一优先，\n事情就是这样。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女孩A",
+            "Text": "……！……那、那个！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女孩A",
+            "Text": "那个……我很喜欢天狼星。\n你就像星星一样闪闪发光。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女孩A",
+            "Text": "不管天狼星发生了什么事，\n我都会一直支持你，我已经决定了。所以──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女孩A",
+            "Text": "我会擅自追逐着天狼星……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女孩A",
+            "Text": "所以──我要硬塞给你！\n这封信也是！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "哈哈哈！！嗯，这样啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "我不会为了其他人而跑，\n我对你们那些自私的理想\n完全没有任何兴趣，不过──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "天狼星象征",
+            "Text": "我是天狼星，一等星──\n对那道光有什么想法都是你们的自由。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女孩A",
+            "Text": "耶嘿嘿……好的！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "咦咦，什么嘛～！\n搞得我好像是来衬托你的人，真是的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "不过──虽然不甘心，但真有天狼星的风格啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她们互相理解，交换决心和想法。\n我见识到天狼星象征和\n粉丝之间的情谊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,318 @@
+{
+    "Title": "Similar",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "资深训练员A",
+            "Text": "──那么，吉兆。\n可以告诉我们，你想跟谁搭档吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "今天是吉兆“训练员选拔”结果发表的日子──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "没有参加选拔的我就算待在这里也不可能被选上。\n但是──我知道了她的使命，并许下了愿望。",
+            "ChoiceDataList": [
+                "（我想要自荐，想要被她选上！但是……）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我们四目相交。\n那一瞬间，我终于忍不住脱口而出。",
+            "ChoiceDataList": [
+                "吉兆……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "我选你。",
+            "ChoiceDataList": [
+                "……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "吉兆的双瞳笔直地注视着我。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──你是这里……最理解我的人。\n你尝试──理解我。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "你说──我的存在本身，就是成果。\n还说我……正慢慢地，达成目标。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "所以……若是跟你一起，我就能完成使命。\n──我是这么想的。",
+            "ChoiceDataList": [
+                "（──多么真挚的眼神啊）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "面对她那真挚的神情，我多想抱以真挚回应……\n而我也早已明确地如此许下愿望。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──如何？",
+            "ChoiceDataList": [
+                "……请多多指教！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──所以──抱歉。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看见吉兆鞠躬后，我才猛然回神。\n对喔，我把那些正式候补们的存在全都忘了！",
+            "ChoiceDataList": [
+                "我……我想负责训练她！非常不好意思！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中坚训练员A",
+            "Text": "啊啊，不会啦……没关系没关系。\n毕竟这是她的决定呀，我们不会有意见的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "资深训练员A",
+            "Text": "是啊……而且或许我们和她对方针的想法本身就有些不同。\n吉兆，我们才要跟你道歉呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "…………谢谢各位。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──几天后。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "……那么──最后──我去稍微暖个身。",
+            "ChoiceDataList": [
+                "嗯，慢慢跑个两圈就好"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就在我正开始习惯，与吉兆一边商量，\n一边尽可能减少负担地进行训练时。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "嗨，你真有干劲呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "恭喜你当上签约训练员。\n不过……这其实也在我的预测之内就是了。",
+            "ChoiceDataList": [
+                "预测……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "我之前就觉得你很合适。\n因为你们有些相似。",
+            "ChoiceDataList": [
+                "有、有吗……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "是啊，绝对没错。\n──吉兆差不多要回来吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "打扰到你们可不好，那我先告辞。\n……她就拜托你了，<username>训练员。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──在那之后过了几天，训练结束时。",
+            "ChoiceDataList": [
+                "……你觉得你跟我很相似吗？",
+                "……你觉得你跟我很相似吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "嗯……？为什么问？\n你……很健谈、也常笑。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就健谈程度上确实不太像……但鲁道夫象征所说的\n“你们很相似”这句话，还是让我有些在意。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──不相似……比较好。\n我不希望……连你都受人──误解。",
+            "ChoiceDataList": [
+                "……你被人误解，不会觉得失落吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "虽然前辈训练员们对她的误会已解开了，\n但还是有许多同为学生的赛马娘很怕她。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──有你。有训练员……你在。\n你理解──我。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──要达成使命……只要有你在，\nSufficient──就够了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她表示，理解自己的人只要有一个便足够。\n而她不顾外界眼光，一心一意都要达成的使命──",
+            "ChoiceDataList": [
+                "（……我想助她达成，她的心愿。）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "同时也是我自己的心愿──\n当我的内心如此述说时，我突然发现了一件事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "我决心──成为师父的成果。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "……怎么了？",
+            "ChoiceDataList": [
+                "……如果达成使命是你的心愿",
+                "……如果达成使命是你的心愿"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──？",
+            "ChoiceDataList": [
+                "那我的心愿肯定也与你相同",
+                "那我的心愿肯定也与你相同"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "鲁道夫象征所说的共通点──\n就是能将他人的心愿化作自身心愿这一点。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──这一点很相似？\n很相似──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "…………\n…………没错。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "吉兆点了点头……\n露出心领神会般的表情看向我。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "一模一样。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──相似的两人并肩前进。\n将重要的心愿如宝物般拥入怀中。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "即使那愿望来自他人──\n但冀望实现的心情依然是货真价实的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

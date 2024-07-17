@@ -1,0 +1,271 @@
+{
+    "Title": "夏季集训（第二年）开始！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "特雷森学园的例行活动──夏季集训到来了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "有鉴于美丽周日的身体状况，虽然无法让她\n进行严苛训练，但毕竟来到和平时不同的环境，\n应该能过上一段充实的训练时光。",
+            "ChoiceDataList": [
+                "一起加油吧，美丽",
+                "一起加油吧，美丽"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "Yes・美丽☆\n太阳热辣辣，大海也闪亮亮！\n但我不想输给它们，我也要发光发热★",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摩耶重炮",
+            "Text": "──我也和你一样！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "咦，是重炮啊──！！\n……奇怪了？咦咦咦咦咦☆★☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "重炮！！\n你现在该不会──非常兴奋吧！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摩耶重炮",
+            "Text": "啊哈☆\n美美果然看得出来！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摩耶重炮",
+            "Text": "嗯，我现在很兴奋喔。\n既兴奋，又期待！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摩耶重炮",
+            "Text": "因为人家已经找到了──\n想追上，想超越，绝对不想输的闪亮嘛！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "（议论纷纷！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "现场沸腾般一阵哗然，\n仿佛在回应重炮的宣言。\n而位于人群中心的那位──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "成田白仁小姐！！\n白仁小姐，您愿意接受采访吗？说一句话也好！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者B",
+            "Text": "您因为受伤避开了“天皇赏（春）”一战，\n但已经开始悄悄为复出做准备的事，\n是真的吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "天皇赏（春）"
+            ]
+        },
+        {
+            "Name": "记者C",
+            "Text": "无论粉丝还是训练界相关人士，\n都有相当多人对此表达喜悦之情！\n希望您能向支持者们说句话！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "天晓得。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "已经不痛了，所以能跑了。就这样。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者们",
+            "Text": "喔喔喔喔喔喔……！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "……太好了。当时继富士奇石之后，\n就连成田白仁也……\n大家都因此消沉了好一阵子，但现在──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者B",
+            "Text": "是啊！又能看见“最强”的成田白仁出赛……！\n真令人期待啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摩耶重炮",
+            "Text": "人家想和白仁比赛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摩耶重炮",
+            "Text": "白仁她很强。\n完全搞不懂为什么能这么强！！\n……强到就连人家也完全搞不懂的程度！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摩耶重炮",
+            "Text": "我还是第一次这样！\n遇上自己不懂的事而感到兴奋！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摩耶重炮",
+            "Text": "所以我，只要和白仁一起比赛的话，\n一定能变成最闪闪发亮的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摩耶重炮",
+            "Text": "不行，人家想要闪闪发亮！！\n要有不输给白仁的耀眼！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摩耶重炮",
+            "Text": "人家得变强才行！\n所以，美美陪我一起训练吧！\n要在夏季集训尽可能做满满的训练！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "当然好──☆★☆\n一起训练吧，一起做满满的训练★☆★",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "一起让重炮的美丽增加☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摩耶重炮",
+            "Text": "嗯♪\n美美的训练员也是，\n请多多指教──☆",
+            "ChoiceDataList": [
+                "好，请多多指教喔",
+                "嗯，请多多指教喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "能和同世代，且同样经历过挫折，\n并逐渐在比赛中获得好成绩的她一起奔跑，\n是求之不得的好机会。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "因此我立刻提出了\n共同训练的请求──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "摩耶重炮",
+            "Text": "哇啊，好热～～～\n但这还不算什么呢～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "气势满分，美丽无比☆★☆\n我们继续跑吧，重炮★☆★",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "小美、小重。\n我可以中途加入你们吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "啊，桂冠！！\n是桂冠──☆当然可以啰★",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "谢谢♪\n那就请多多指教了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "桂冠我问你哦，你也因为白仁复出感到兴奋吗？\n会觉得想要变得美丽吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "！\n这个嘛──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "呼……呼……呼……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "──呀啊啊啊啊啊啊！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "……你说得对。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

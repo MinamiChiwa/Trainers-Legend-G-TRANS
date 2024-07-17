@@ -1,0 +1,312 @@
+{
+    "Title": "致幼时的别离",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "那一天，\n谷野美酒硬把两位赛马娘拉来，\n接着宣告──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "我要创造百年难得一见，世上唯一的甘露！！\n所以──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "现在需要寻找甘露的材料……\n冒险者们，踏上旅程吧！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "晨光&白仁",
+            "Text": "──什么？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "……这些就是她委托我们买的所有东西吧？\n抱歉麻烦你了。",
+            "ChoiceDataList": [
+                "不会，毕竟这是美酒要求的！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "谷野美酒突然说要举办无酒精鸡尾酒会，\n而她配合了美酒的要求，\n该道歉的是我才对。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "别放在心上。\n毕竟白仁到最后都不肯帮忙──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "……美酒行事还是一样唐突呢，\n就跟以前一样。",
+            "ChoiceDataList": [
+                "你们以前就认识了吗？",
+                "你们以前就认识了吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "是啊，只不过……不算很熟。\n我跟白仁老家不都是酒铺吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "小时候陪爸爸去工作时曾经见过，只有一次。\n那时候我们拜访了美酒父亲的酒吧。\n已经是很久以前的事情了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "我们几个小孩一起玩了一整天……\n等到准备说再见的时候，\n当时还小的白仁闹了不小的脾气。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "美酒看到她那个样子之后，\n突然跑去厨房做起果汁──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "年幼的美酒",
+            "Text": "来，喝吧！\n虽然我还没有取名字……\n不过这杯饮料是做来致敬我跟你们的别离。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "虽然那就只是一杯综合果汁……\n但是很美味，不会太甜。\n白仁也因此高兴多了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "只不过这是很久很久以前的事了。\n久到连白仁都已经忘了……\n我想美酒大概也不记得了。",
+            "ChoiceDataList": [
+                "这么说那是只存在于记忆里的味道啰？",
+                "这么说那是只存在于记忆里的味道啰？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "是啊……不小心讲了这么久，\n差不多该回去了。\n她们大概等到不耐烦了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就这样，无酒精鸡尾酒会开始了，但是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "…………好甜。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "嗯，只有甘露太甜吗？\n那──这样如何？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "就叫做“柯罗诺斯的眼泪”……\n虽然这不是真的巴克斯，但也值得一喝。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "唔，这味道……确实不甜，但是……！",
+            "ChoiceDataList": [
+                "我喝喝看……好辣！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "…………我要回去宿舍了。\n换个衣服开始自主训练还比较有意义。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "等等。\n……接下来才是压轴。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "谷野美酒微笑着拿出的是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "百年难得一见，世上唯一的甘露──\n“致幼时的别离”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "……！\n这是那时候的……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "不会又是拿来骗小孩的甜腻果汁吧……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "你喝一口看看。\n余味将会带领你──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "存在于那里的过往辉煌\n也会为如今增添光芒。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "──对吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "……嗯……你取的名字真不错。\n味道还是一样出色。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "你们从刚才开始\n到底在讲什么……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "这是我们的事。\n──味道怎么样？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "……没什么特别的。\n……只是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "──莫名有种让人怀念的感觉。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "……是吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "悠闲的时光缓缓流过。\n那一段短暂的回忆，\n对她们三个人来说似乎相当重要呢。",
+            "ChoiceDataList": [
+                "这在你心里也是回忆的味道呢",
+                "这在你心里也是回忆的味道呢",
+                "真好奇是用什么提味的……",
+                "真好奇是用什么提味的……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "悠闲的时光缓缓流过。\n那一段短暂的回忆，\n对她们三个人来说似乎相当重要呢。",
+            "ChoiceDataList": [
+                "这在你心里也是回忆的味道呢",
+                "这在你心里也是回忆的味道呢",
+                "真好奇是用什么提味的……",
+                "真好奇是用什么提味的……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "呵，这段时间不赖吧？\n我也做点什么给训练员吧。\n我想想，如果是给你的──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "……就取名叫做“好日子”吧。",
+            "ChoiceDataList": [
+                "好啊！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "希望有一天这些日子也能变成无可取代的回忆。\n我默默许下这个愿望，\n摇了摇手上的杯子。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "这个不能告诉你！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "呵呵……谜团就该维持它应有的模样，对吧？\n真要说的话……\n谜团本身就是最好的提味秘方。",
+            "ChoiceDataList": [
+                "咦咦～～晨光也想知道吧？",
+                "咦咦～～晨光也想知道吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "琵琶晨光",
+            "Text": "老实说不能知道有些遗憾，不过……\n这很像你的作风，美酒。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "下次再来喝吧。\n──至于能不能做出来，\n就要看酩酊之神的心情了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "平静和谐的时光缓缓流逝……\n希望有一天这些日子也能变成无可取代的回忆。\n我默默许下这个愿望，摇了摇手上的杯子。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

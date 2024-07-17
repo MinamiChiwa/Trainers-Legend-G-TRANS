@@ -1,0 +1,50 @@
+{
+    "Title": "竞赛上榜",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "我成功登上告示板了呢。\n看来训练有所成效！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "虽然没能获得第一名……\n但也多亏如此才能找到目前问题点！",
+            "ChoiceDataList": [
+                "你今天真的很努力了",
+                "努力克服问题点吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "谢谢你。\n呵呵，太好了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "就算进度缓慢也要继续扎实地向前进。\n下次我一定会拿下第一名！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "好的。我们必须认真面对问题，\n找出取胜的方法。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "训练员，\n回去后我想立刻开会讨论问题点及对策！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

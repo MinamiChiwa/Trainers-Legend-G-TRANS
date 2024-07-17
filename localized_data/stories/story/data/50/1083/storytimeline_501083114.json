@@ -1,0 +1,496 @@
+{
+    "Title": "Fatalism",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "激战“日本德比”后，又过了几天──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "主播",
+            "Text": "“──在德比之后，\n谷野美酒突然消失在萤光幕前！\n她现在究竟是怎么了呢……？”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "主播",
+            "Text": "“关于这件事，\n在粉丝间出现各种揣测，蔚为话题……\n棚内的各位有什么看法呢？”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "评论员A",
+            "Text": "“她之前的参赛计划排得相当紧凑～\n是为了秋季进入充电期了吧？”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "评论员A",
+            "Text": "“而且，\n美酒让我们见识了那么强而有力的跑法。\n在秋季以后一定也会大显身手的！”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "评论员B",
+            "Text": "“而且她有其他赛马娘所没有的独特魅力！\n况且还有许多像我一样的死忠粉丝──”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "“日本德比”之后，\n谷野美酒的人气逐日增长，\n人们都以炙热的目光关注着她今后的动态……",
+            "ChoiceDataList": [
+                "（……“狂热”吗？）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……老实说，现在的状况，\n可以说与吉兆相比，\n谷野美酒的今后更加受到期待。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "要让大家对吉兆的强悍留下印象，\n势必需要展现更大的“成果”……",
+            "ChoiceDataList": [
+                "（……我得跟吉兆商量才行）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "训练前，当我正打算与吉兆\n商量今后的目标时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──Suggestion.\n……关于目标，我有提议──想跟你商量。",
+            "ChoiceDataList": [
+                "咦"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "嗯……？怎么了吗──",
+            "ChoiceDataList": [
+                "没事……其实我也正想找你商量这件事",
+                "没事……其实我也正想找你商量这件事"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──我们确认了一下彼此的想法，\n似乎吉兆也是因为相同的原因，\n判断这样下去并不是办法。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──美酒所展现的“资质”，\n就是如此鲜明。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "我们应该要──rewrite.\n展现──超越它的“成果”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "……我想听你的意见。\n在──哪场比赛，\n才会有我们寻求的“成果”──",
+            "ChoiceDataList": [
+                "这个嘛──"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……我原本的预期，\n是考虑参加经典三冠的终点“菊花赏”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "经典三冠",
+                "菊花赏"
+            ]
+        },
+        {
+            "Name": "独白",
+            "Text": "赢下“菊花赏”能够带来的“成果”，\n一定有助于达成使命。\n但是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "但我们现在被要求拿出更为鲜明……\n能够超越经典级的范畴，\n足以撼动时代的“成果”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "想到这里，\n我的脑中浮现了一个答案──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我模仿吉兆的口吻，\n毫不犹豫且坚定地将“它”大方地说了出来。",
+            "ChoiceDataList": [
+                "──“天皇赏（秋）”",
+                "──“天皇赏（秋）”"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "────",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "……也会跟古马级竞争的──\n中距离最高等级比赛──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "…………我有胜算吗？",
+            "ChoiceDataList": [
+                "……想必会是场非常严峻的比赛"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这是不言自明的。\n这场比赛聚集了经验丰富，\n可说是最高水准的古马级赛马娘们。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "但是──\n我这项提议绝非毫无胜算。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "从至今为止的比赛来看，\n我确信吉兆目前正急遽成长。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "只要维持这个状态，\n到“天皇赏（秋）”之前，\n她的实力肯定会成长到能与古马级一战……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "天皇赏（秋）"
+            ]
+        },
+        {
+            "Name": "独白",
+            "Text": "不过，在考虑胜算之前，\n为了达成使命──",
+            "ChoiceDataList": [
+                "──绝对要获胜才行"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "参加本身没有意义。\n只有身为经典级的她超越经验丰富的强者\n并夺下胜利，才是我们寻求的“成果”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "因此我作为她的训练员，\n仿效她坚定的口吻，\n下定决心如此说道：“我们只能赢。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "………………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──我有事要拜托你。",
+            "ChoiceDataList": [
+                "拜托我？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "没错……我现在要开始跑步。\n──全力跑──2000米。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "你──帮我看看吧。",
+            "ChoiceDataList": [
+                "……我知道了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "呼──！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──眼见开始奔驰的吉兆，\n我立刻就明白了。\n她并非只是全力在跑2000米。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "保持自律、累积力量，\n并伺机让那些力量爆发出来。\n仿佛是──在与看不见的对手赛跑一般。",
+            "ChoiceDataList": [
+                "（这难道是──）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──喝啊啊啊啊啊啊啊！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "通过最终弯道后她释放的尾段加速，\n强大到甚至要将映照在我眼中，\n其他赛马娘的幻影抹消殆尽──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……那与我暗自想像的理想跑法十分相近。\n也唯有如此才能在“天皇赏（秋）”中脱颖而出。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "但那个跑法应该只存在于我的脑海……\n我当然也还没有告诉她。\n为什么吉兆会──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──我的想法跟你一样。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "无论是认为──不能这样坐以待毙───\n还是认为“天皇赏（秋）”是，\nbreakthrough──突破口────",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "我也认为，这场比赛非赢不可…………\n还有，也分析出，跑2000米有胜算───",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "……训练员跟我的想法──\n完全一致。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "所以我──开始奔跑。\n……为了展现给你看。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "因为我觉得……这样最能展现──\n我的赞同──与决心。",
+            "ChoiceDataList": [
+                "吉兆──"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "……跟我──一起战斗吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "让我──完成这个跑法。\n为了在“天皇赏（秋）”……获胜──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──为了达成使命。",
+            "ChoiceDataList": [
+                "……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……她以前说过：\n“差异是必要且非常重要的。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她接纳不一样的观点，\n肯定了与自己不同步调的我。\n因此我们才能够一起向前迈进。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "那时我确实因此获得了勇气，\n但是现在──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "当我了解到吉兆\n与我抱持着同样的想法与决心后，\n一股暖流充斥着心头……！",
+            "ChoiceDataList": [
+                "为了获胜！挑战“天皇赏（秋）”吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我们建立共识后，\n开始往“天皇赏（秋）”迈进。得和她一起\n将“通往胜利的跑法”变成更强的型态……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──数日后。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "…………终于找到你了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "呵──你就像一只猎犬呢。\n居然能找到吾。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "作为你成功突破我防备的奖励，\n我就听听你想说什么吧。\n你出现在吾面前的期望是什么？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──我只是来……跟你说。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "我──要跑“天皇赏（秋）”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "喔……！\n呵呵，这还真是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "下个舞台机关开始运转了啊。\n──不过你为什么要告诉我。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "…………我不知道。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "不知为何──\n总感觉──我必须告诉你。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "呵。也可谓为一种内在的呐喊吗？\n又或是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "…………美酒？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "……算了。总有一天我们都会明白的。\n无论如何，你──“开启”了啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "吉兆，迈向你自己的道路吧。\n就好好取悦这个世界吧──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "等等，美酒。\n你…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "…………为什么。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "为什么现在的你──\n如此──冷淡────",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "以“天皇赏（秋）”为目标……\n吉兆的夏天即将开始──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

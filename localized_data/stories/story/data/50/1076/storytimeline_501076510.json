@@ -1,0 +1,286 @@
+{
+    "Title": "由我来治疗♪",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "某天，我来到保健室，\n看到樱花桂冠在照顾好几位面露痛苦神色的学生。",
+            "ChoiceDataList": [
+                "你看起来很忙。发生什么事了？",
+                "你看起来很忙。发生什么事了？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "啊，训练员！事情是这样的，\n有些同学出现了脱水症状。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "看来是因为即将挑战目标竞赛\n而有点努力过头了呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "不过用不着担心！\n我们奉保健室老师之命前来了！",
+            "ChoiceDataList": [
+                "“我们”的意思是──"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特雷森学园学生",
+            "Text": "唉……！头好晕……\n请问……我真的会好起来吗……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "不用担心。\n在你好起来之前我都会紧～紧地握着你的手♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "请喝这瓶口服补水液来补充水分。\n有办法喝吗？我扶着你，来吧──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "就像那些前辈所做的一样，\n守护学生们的健康正是我们保健委员的职责。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "……我、我不用了啦！\n这点小事我会靠自己克服！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "微光飞驹",
+            "Text": "你……你看！\n我已经完全没事了…而且……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "微光飞驹",
+            "Text": "英……英雄……无论碰上什么逆境……\n都……不会……输……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "训练员，我先失陪一下！\n看来保健委员该上场了。",
+            "ChoiceDataList": [
+                "啊，桂冠……！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "哎呀哎呀，你在担心小桂啊？\n别担心，她一定没问题的～♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "小光，你还好吗？\n已经有精神可以动来动去了？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "微光飞驹",
+            "Text": "我、我很好！\n毕竟胡萝卜超人他……就算生病时也……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "……这样啊。\n嗯，的确很难轻易认输呢。不过──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她撩起刘海，\n用额头贴上微光飞驹的额头确认体温──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "……嗯，体温果然还是有点高。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "微光飞驹",
+            "Text": "欸……哇、哇哇……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "微光飞驹",
+            "Text": "你、你贴得太近了啦！桂冠前辈……！\n我早就没事了──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "微光飞驹",
+            "Text": "……咦？凉凉的……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "那是我送你的小礼物。\n凉凉的很舒服吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "……跟你说喔，小光！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "想成为英雄是个很棒的梦想。\n我也觉得很帅气！但是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "永不放弃跟勉强自己这两件事乍看之下很像，\n但其实……完全不一样喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "现在暂且忍耐才能距离梦想更近一步。\n请你相信这点并好好休息，这样一定对你比较好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "我也能理解小光现在有多么不甘心。\n正因为不甘心──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "才要专心恢复到最佳状态，再度重振雄风！\n这样才能成为理想中的自己！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "微光飞驹",
+            "Text": "恢复最佳状态，再度重振雄风……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "微光飞驹",
+            "Text": "这样啊……嗯，你说得对。\n休息并不等于放弃。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "微光飞驹",
+            "Text": "……谢谢你，桂冠前辈！\n我一定会好起来再度开始努力当英雄！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "做得好，桂冠。\n你连心理辅导都做得很完美。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "不敢当，比起前辈们根本还不算什么！\n我还得更加努力才行。",
+            "ChoiceDataList": [
+                "看来保健委员真的帮了大家很多呢",
+                "看来保健委员真的帮了大家很多呢",
+                "桂冠连照顾起病人都很有干劲呢",
+                "桂冠连照顾起病人都很有干劲呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "不敢当，比起前辈们根本还不算什么！\n我还得更加努力才行。",
+            "ChoiceDataList": [
+                "看来保健委员真的帮了大家很多呢",
+                "看来保健委员真的帮了大家很多呢",
+                "桂冠连照顾起病人都很有干劲呢",
+                "桂冠连照顾起病人都很有干劲呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白阿尔丹",
+            "Text": "能得到如此评价是我们的荣幸。\n为了守护特雷森学园所有人的健康──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "高尚、温柔、坚强。\n永远守候在你身边──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "一听到来自痛楚的悲叹便立刻飞奔到你身边──\n这就是我们保健委员的职责！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "……随便说说的啦♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "因为我希望能帮助她尽早重振精神啊。\n等身体完全恢复后再好好加油就行了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "……不过当然还是身体一直健健康康的最好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "所以，需要我照顾时我当然会尽心尽力，\n但还是希望大家一直都很有活力♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……听到她如此温柔的一番话，\n连我都不禁提起了干劲！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

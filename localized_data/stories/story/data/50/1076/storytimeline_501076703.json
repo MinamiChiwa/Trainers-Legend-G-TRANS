@@ -1,0 +1,324 @@
+{
+    "Title": "蜂蜜特饮与樱花",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "哇，好多客人喔，\n难道今天正在举办活动？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "啊，桂冠跟训练员！\n你们该不会什么都不知道就碰巧来到这了吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "活动名称叫“超稠超浓超大量！\n喝光三杯蜂蜜特饮大胃王挑战”！！",
+            "ChoiceDataList": [
+                "分量这么巨大，而且得喝完三杯！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "大胃王挑战……！\n听起来真有趣！我想挑战看看♪",
+            "ChoiceDataList": [
+                "你这么有自信啊？",
+                "你这么有自信呀？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "嗯～其实也不算有自信。\n真要说的话我其实食量很小。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "但正因为这样！\n要是真的挑战成功一定更有成就感！",
+            "ChoiceDataList": [
+                "我知道了，我会为你加油",
+                "我知道了，我会为你加油"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "参赛者",
+            "Text": "唔唔……我、我不行了～～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "男性观众A",
+            "Text": "又有人弃权了……！只剩下两个选手了，\n加油努力达成挑战啊～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "唔呃……只、只剩一点点了……！\n都喝下这么多了，一定要达成挑战不可……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "呼……！真是名不虚传……\n不过我也还没放弃……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "两人的意志力都好惊人……！\n虽然看起来很辛苦，但应该有办法喝光──",
+            "ChoiceDataList": [
+                "嗯……？等等，有什么正朝着这里──"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "宠物狗",
+            "Text": "汪汪汪汪汪！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "男性观众A",
+            "Text": "唔、唔哇！？狗、狗狗冲了进来──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "突然来了只活泼的狗，\n把桌面上的蜂蜜特饮全都扫翻在地！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "饲主",
+            "Text": "啊啊……！对对、对不起！\n我家狗狗太喜欢蜂蜜了……！",
+            "ChoiceDataList": [
+                "没关系没关系！幸好人狗都没受伤。"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "女性观众A",
+            "Text": "但、但这下该怎么办？现在分不清楚谁喝了多少，\n是不是无法再比下去了啊……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "…………店员，不好意思。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "请帮我重做一杯新的。",
+            "ChoiceDataList": [
+                "…………！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "这样就可以继续挑战了吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "什……什么～！？\n你要再从头喝一次同样分量！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "嗯，毕竟都已经喝下这么多了。\n──事到如今我不想放弃挑战！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "老师",
+            "Text": "“竟然在运动会前受伤，真是可惜呢……\n对不起喔，这次没办法让你参加了。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "年幼的桂冠",
+            "Text": "“……别道歉，没关系的！\n就算不能参加，我也会努力帮大家加油！”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "我从小就一直很向往能亲自挑战接力赛、\n小队打仗等比赛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "年幼的桂冠",
+            "Text": "“鬼快要追到你啰～！\n小千，加油啊～！”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "我还想过……\n好想跟大家一起玩鬼抓人玩到筋疲力尽……\n……但真的有很多事都不能如愿。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "所以呢，无论做什么，\n光是能够挑战我就觉得很开心了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "无论何时、何事我都想坚持努力、持续前进。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "无论遭遇几次挫折，只要坚持再站起来……\n最终一定能到达终点吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "喔喔……无论遭遇几次挫折都要站起来啊……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "……哼哼～！当然就是要这样啦！\n我可是无敌的帝王大人嘛！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "不好意思，我也要再来一杯蜂蜜特饮！\n桂冠，一起达成挑战吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "她对“挑战”抱着真挚专注的热情──\n也因此拥有不想放弃的坚强意念。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "既然如此，\n我这个训练员能为她做的就是──",
+            "ChoiceDataList": [
+                "我也来帮忙！",
+                "我也来帮忙！",
+                "我相信你们一定办得到！",
+                "我相信你们一定办得到！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "既然如此，\n我这个训练员能为她做的就是──",
+            "ChoiceDataList": [
+                "我也来帮忙！",
+                "我也来帮忙！",
+                "我相信你们一定办得到！",
+                "我相信你们一定办得到！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我尽力辅助她们，\n希望能尽量减轻两人的负担！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桂冠＆帝王",
+            "Text": "唔～～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "噗哈……！怎么样啊～！\n世上没有帝王大人办不到的事～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "呼……！\n训练员，你看到了吗？",
+            "ChoiceDataList": [
+                "你们两个都好厉害！",
+                "你们两个都好厉害！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "都要感谢训练员陪在我身边帮助我……呵呵♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "……没错。樱花即使经历寒风刺骨的\n冬天终究能够灿烂地盛开。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "桂冠＆帝王",
+            "Text": "唔～～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "围观群众",
+            "Text": "喂、喂喂……\n那两个女孩真的快喝光了……！",
+            "ChoiceDataList": [
+                "加油啊，桂冠！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "……嗯！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "东海帝王",
+            "Text": "太棒了～！挑战成功！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "训练员！我成功了！",
+            "ChoiceDataList": [
+                "恭喜你！你真的好厉害"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "喝到痛苦难耐时，训练员的声音传进我耳里。\n因为有你，我才能坚持到底的喔。\n……呵呵。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

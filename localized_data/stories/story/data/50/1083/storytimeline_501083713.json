@@ -1,0 +1,121 @@
+{
+    "Title": "保重身体！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "因为吉兆受伤，\n我带她来到保健室。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "……处理──完成。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──回归训练。\n今天的目标──还未达成。",
+            "ChoiceDataList": [
+                "伤势恶化的话怎么办",
+                "伤势恶化的话怎么办"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "……那就──改成轻度训练。\n我想将计划失序的程度──维持在最小范围。",
+            "ChoiceDataList": [
+                "在治好以前先静养吧",
+                "如果是可承受范围内的训练……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "可是这样一来，计划就会──",
+            "ChoiceDataList": [
+                "之后我会让你追回进度"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我以“只要重新安排训练项目，\n就能在她痊愈后应对”来说服她。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──我知道了。\n既然这样──我没异议。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "暂时──专心疗养吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "了解。\n那么──就稍微练跑一下。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "呼……呼……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "……唔……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "……再做下去──很危险。\n中止训练。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看来伤势恶化了。\n于是吉兆\n必须暂时静养了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "呼……呼……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "……嗯。没问题。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "就维持这样──进行。\n我会把计划失序的程度──控制在最小范围。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "吉兆就这样克服伤势，\n顺利地重新回到了跑道上。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

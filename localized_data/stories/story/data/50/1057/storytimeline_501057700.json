@@ -1,0 +1,46 @@
+{
+    "Title": "睡眠不足……",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "嗯嗯～",
+            "ChoiceDataList": [
+                "你看起来很困啊",
+                "你看起来很困呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "我是有睡觉啦。嗯……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "我梦到自己在草原上尽情奔跑，\n然后就从吊床上掉下来了。",
+            "ChoiceDataList": [
+                "咦，你没受伤吧！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "我没事。但之后想再继续睡时，\n就一直睡不着。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "千明代表露出困扰的笑容。\n看来她没能好好休息。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

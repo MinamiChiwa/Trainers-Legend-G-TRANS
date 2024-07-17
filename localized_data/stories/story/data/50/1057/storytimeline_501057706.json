@@ -1,0 +1,277 @@
+{
+    "Title": "料理应有的样子",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我和千明代表四处闲晃──\n等回过神时，已经是傍晚了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "已经这么晚啦。\n差不多该解散了吗？",
+            "ChoiceDataList": [
+                "说得也是……啊！",
+                "说得也是……啊！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就在我准备前往学园时，\n肚子突然大声叫了起来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "啊哈哈，我的肚子也饿了～\n找个地方吃完晚餐再回去吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我接受千明代表的好意，寻找价位合适的餐厅──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "嗯～每间餐厅都没位子呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "对了！去我家吧。\n那里离这里很近。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "千明代表说完后，\n就朝商店街的方向走去。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "那么，该吃什么好呢～",
+            "ChoiceDataList": [
+                "关于这件事，可以让我来料理吗？",
+                "关于这件事，可以让我来料理吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "咦？训练员要下厨？",
+            "ChoiceDataList": [
+                "毕竟我是客人，如果你不嫌弃的话"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "……听起来不错呢，感觉很有趣！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "厨房在这里。\n你可以自由使用冰箱里的东西。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "听她这么说，我打开冰箱──",
+            "ChoiceDataList": [
+                "几乎什么都没有！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "嗯……？啊，真的耶。\n只有点心和饮料呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "但包含很辣的外国货在内，\n那个架子上有很多调味料喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "那里的调味料确实非常齐全，\n从常见的到罕见的都有，但量几乎没有减少。",
+            "ChoiceDataList": [
+                "感觉是一时兴起买下来后就放着没用了？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "啊哈，正确答案！\n……觉得傻眼吗？",
+            "ChoiceDataList": [
+                "一点都不觉得"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "那就好！\n我今天想吃咸的，\n味道浓一点比较好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "备好料后，我开始料理。\n这段期间，千明代表一直兴致勃勃地看着。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "感觉好不可思议！\n训练员居然在我家厨房做料理。",
+            "ChoiceDataList": [
+                "看你期待地张望着，就像猫一样"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "啊哈哈，像猫吗？\n饭还没好吗喵～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我瞄了心情愉悦的千明代表一眼后，\n转向锅子。到目前为止都很顺利，\n至于调味──",
+            "ChoiceDataList": [
+                "打安全牌",
+                "试着冒险一下"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "虽然那些陌生的调味料很令人在意，\n但我想做的是营养均衡的美味料理。\n还是打安全牌吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "嗯嗯，好香的味道。\n真期待完成品。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "喔，是青菜炒肉片和韭菜炒蛋。\n我开动了！",
+            "ChoiceDataList": [
+                "我盐巴有少加一点",
+                "我盐巴有少加一点"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "是吗？\n如果味道太淡可能会觉得不太满足──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "嗯……吃起来很入味！\n而且味道和超市的熟食也不一样。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "这种令人怀念的温暖味道……感觉好安心。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "谢谢招待，训练员！\n一下就吃完了呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "像这样一起吃饭，\n感觉也不错呢。\n我下次还想吃吃看别的料理呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看来她对我做的料理很满意，\n之后她偶尔也会要我做料理给她吃。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "许多陌生的调味料映入我的眼中。\n她可是千明代表。\n普通的调味真的有办法满足她吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "不，这样绝对无法抓住她的心！\n这时候应该要冒险一下──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "喔，是青菜炒肉片和韭菜炒蛋？\n不过……闻起来好像有点独特？",
+            "ChoiceDataList": [
+                "我觉得味道挺不错的"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "是吗？\n那我开动了──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "……！！！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "哦──有意思！！",
+            "ChoiceDataList": [
+                "有意思！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "嗯，很少吃到这么刺激的料理！\n你可以引以为豪。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "嗯～这种感觉，好像会上瘾呢。\n我说，你下次再做点别的料理吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "虽然听不太懂她在说什么，\n但她吃得很开心就好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

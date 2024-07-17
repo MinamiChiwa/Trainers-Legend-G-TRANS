@@ -1,0 +1,319 @@
+{
+    "Title": "钓客与樱花",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "“要不要跟我行我素的猫咪一起钓鱼？”\n我答应这个奇妙邀约，\n跟她一同来到海岸边……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "你好，今天天气真适合钓鱼呢，\n这位钓客♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "喔～你来啦～桂冠。",
+            "ChoiceDataList": [
+                "（我行我素的猫咪该不会就是……）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "好啦，这里比较适合资深钓鱼高手，\n我们换到其他钓点吧──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "不要，就在这里钓！\n听说这里有机会钓到珍奇的鱼？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "喔！真有干劲呢。\n那就耐心等着鱼上钩吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "啊，钓鱼线勾到东西了！\n……奇怪？完全拉不起来……？",
+            "ChoiceDataList": [
+                "该不会勾到海草或岩石之类的吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "呀哈哈，简直就像钓到了地球嘛。\n这可严重了，得赶快放回海里才行。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "嗯～放掉真可惜！\n好不容易钓到比刚刚那个空罐更大的猎物呢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "不过下次我一定会钓上真正的鱼！",
+            "ChoiceDataList": [
+                "（太好了。桂冠好像很开心）",
+                "（太好了。桂冠好像很开心）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "看来钓鱼高手用的钓点果真名不虚传，\n樱花桂冠至今仍未钓上任何成果──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "不过看她钓得这么开心，\n看来就算毫无成果也没关系了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "（──哗啦啦啦……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "哎呀～我还在想天象不太对劲呢，\n真的下起雨了啊。",
+            "ChoiceDataList": [
+                "总、总之先去躲雨吧……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "老天爷今天好像心情不佳啊～\n看这雨势应该一时不会停了……",
+            "ChoiceDataList": [
+                "就是啊。桂冠，该回去了……",
+                "就是啊。桂冠，该回去了……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "嗯～这样啊……\n那个，训练员、小天，\n你们可以留在这里休息吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "我要继续钓鱼！",
+            "ChoiceDataList": [
+                "……咦？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "这状况应该很难继续钓了吧～\n你看，雨都下成这样了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "那只要不被雨淋湿就没问题了吧？\n嗯～有没有什么东西可用……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "钓鱼不过是休闲娱乐，\n她却如此坚持想要继续……",
+            "ChoiceDataList": [
+                "原来你这么喜欢钓鱼啊？",
+                "原来你这么喜欢钓鱼呀？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "我钓得很投入喔。\n不过除此之外，还有更重要的理由。",
+            "ChoiceDataList": [
+                "更重要的理由……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "呵呵，就是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "我绝对不能一条都没钓到就空手而归！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "毕竟我辛苦坚持了这么久，\n成功钓起来一定能获得相应的巨大成就感♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "所以请再等我一下！\n我会努力找出能在雨天继续钓鱼的方法。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "啊，前面那位钓客。\n方便请教一些问题吗──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "呀哈哈，\n桂冠还是一样这么积极呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "她常常这样呢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "像是解难度很高的字谜时，\n或是挑战裁缝特殊服装时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "她都说过“要努力到极限为止♪”，\n永远都是那么积极乐观呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "老是挂着清爽的笑容，\n坚持起来却真的丝毫都不退让呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "不过根据名侦探小青的推理──\n那可不光只是因为不服输喔。",
+            "ChoiceDataList": [
+                "……不光只是不服输？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "让你们久等了！\n听说附近的钓具店有在出借雨衣喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "当然，\n我不会连累训练员你们陪我一起受苦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "但我想坚持到钓到为止！\n……不可以吗？",
+            "ChoiceDataList": [
+                "我会陪着你到最后",
+                "可要赶在雨势变大前撤退喔",
+                "可要赶在雨势变大前撤退喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "但我想坚持到钓到为止！\n……不可以吗？",
+            "ChoiceDataList": [
+                "我会陪着你到最后",
+                "可要赶在雨势变大前撤退喔",
+                "可要赶在雨势变大前撤退喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "！……谢谢你。\n我发誓一定会钓到鱼！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "嗯～明明都缠斗这么久了～\n真是棘手呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "……啊，桂冠！\n这该不会……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "这手感……上钩了呢！……呵！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "成功了～～！居然能钓到这么大的猎物，\n真不亏你缠斗这么久啊～",
+            "ChoiceDataList": [
+                "真不愧是桂冠！",
+                "真不愧是桂冠！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "呵呵，终于钓到了。\n……嗯，经历艰苦后有所收获果然很舒畅。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "我知道了！\n那么得先拟定能迅速钓上猎物的作战呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青云天空",
+            "Text": "下雨天也是钓鱼的好机会喔！\n这时钓客较少，\n平时挤满人的热门钓点也比较没人。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "原来如此！那么……说不定\n能找到更容易钓上鱼的钓点喔♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "──之后樱花桂冠她们的作战成功奏效，\n立刻就钓到鱼了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

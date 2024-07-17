@@ -1,0 +1,55 @@
+{
+    "Title": "因头痛而忧郁",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "──那你是要用这封信，\n再次向那个人提出挑战吗……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "很厉害吧！看了涡轮的挑战书后，\n对方就会燃起斗志，对决会变得超精彩的！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "赛马娘A",
+            "Text": "这、这个……有些汉字写错了，\n对方可能……会看不懂吧……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "唔唔唔～！！\n汉字……汉字～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "啊唔、啊唔……",
+            "ChoiceDataList": [
+                "你还好吗……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "头……好痛……\n……汉字……汉字～～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "双涡轮因为动了太多脑，\n就这样为头痛所苦了好一阵子……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

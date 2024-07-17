@@ -1,0 +1,31 @@
+{
+    "Title": "挑战夹娃娃机失败……",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "训练员，真是可惜呢。\n看得我也捏了把冷汗。",
+            "ChoiceDataList": [
+                "真没面子……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "别这么说！\n光是训练员愿意帮忙夹给我，\n我就很高兴了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "留下令人遗憾的结果……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

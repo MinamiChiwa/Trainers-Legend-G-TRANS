@@ -1,0 +1,294 @@
+{
+    "Title": "美丽队长！？",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我跟美丽周日趁着一起外出，\n顺道前来健行──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "抓住猴子了──☆★☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "小骏！\n我们拿回你被偷走的行李啰！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "高尚骏逸",
+            "Text": "谢……谢谢……对、对不起，\n为了我这点行李劳师动众……",
+            "ChoiceDataList": [
+                "别这么说，能拿回来真是太好了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "途中恰巧遇到眼前这些女孩，\n便决定一起行动。\n却没想到接下来遇上的居然是猴子──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "不过……这里究竟是哪里呢？",
+            "ChoiceDataList": [
+                "咦……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "众人",
+            "Text": "这、这情况……我们遇难了～～！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "嗯嗯……还是不行。\n看来这附近完全没有信号。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "高尚骏逸",
+            "Text": "怎、怎、怎么办才好……！？\n求助……该尽早求助才行……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "没事的，别担心☆★\n往这里走喔☆★",
+            "ChoiceDataList": [
+                "咦？你知道怎么走！？",
+                "咦？你知道怎么走！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "嗯！大家跟着我走吧☆★\n快乐冒险开始啰～开始啰～☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "那个，美丽，是我多心了吗？\n我们好像一直在往上爬？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "的确……我听说遇难时最好待在原地，\n别擅自移动比较安全……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "没问题的☆★\n我们的确越来越接近山脚了☆★",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "啊，大家看啊看啊！那草丛中好像有东西！\n我感受到美丽预感☆★☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "咦？啊，真的耶。\n那是……一口井？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "哦～☆也就是说好\n这附近有人类活动的迹象呢！\n附近一定有路可走～★",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "哇啊，一口井就能知道这么多资讯啊？\n真是有趣……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "嗯！这就是冒险的醍醐味☆\n带着美丽心情勇敢前进吧～★☆★",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "高尚骏逸",
+            "Text": "呼……呼……走了好久……\n我们现在究竟在哪里……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "大家辛苦了☆\n稍微绕一下路吧★",
+            "ChoiceDataList": [
+                "绕路？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "哇啊……好大的河川……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "好啦，大家拿出保特瓶跟手帕☆\n一起来收集砂砾跟小石头★☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "把河水净化成饮用水，补充水分再前进☆★",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "咦？净化这条河的水……！？\n好厉害喔，好期待……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "噗哈──！水真好喝～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "话说美丽真是博学多闻呢。\n竟然连净水方法都懂。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "嘿嘿嘿～因为我常常去历史遗迹探险！\n遇难就是我的日常☆\n所以野外求生也是易如反掌★",
+            "ChoiceDataList": [
+                "遇难就是……日常……！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "高尚骏逸",
+            "Text": "好、好厉害……\n难怪你能这么坚定地向前进……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "稍微休息一下后再出发吧☆\n现在太阳在那个位置～\n所以距离日落应该还有一个小时吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "朝着那个方向再走20分钟\n应该就能抵达山脚☆★就快了☆★☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "我一定会把你们平安带回学园的，\n大家放心吧☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "太～帅了～～～～！！\n简直就像探险队的队长……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "三人",
+            "Text": "──我们会跟随你到天涯海角，队长！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "高尚骏逸",
+            "Text": "真、真的……！平安回来了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "大家辛苦了☆★\n真是一场美丽的冒险呢！",
+            "ChoiceDataList": [
+                "虽然很累，但玩得很开心",
+                "虽然很累，但玩得很开心",
+                "真是场美丽的野外求生"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "大家辛苦了☆★\n真是一场美丽的冒险呢！",
+            "ChoiceDataList": [
+                "虽然很累，但玩得很开心",
+                "虽然很累，但玩得很开心",
+                "真是场美丽的野外求生"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "里见光钻",
+            "Text": "是啊，真的！\n走到一半我都忘记我们其实遇难了呢♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "呵呵～看到大家玩得开心我也很高兴！\n太～美丽了☆★☆★",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "美丽周日将意外状况化为了有趣的体验。\n这段时光令我感受到她可靠的一面。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "高尚骏逸",
+            "Text": "找到旧水井、净化河水……\n平、平时应该很难体验到\n这种野外求生吧……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "危机就是美丽的转机☆★☆\n就是因为难以预测状况，\n所以野外求生才这么有趣★",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "北部玄驹",
+            "Text": "原来如此……！\n美丽，下次还有机会的话\n请再教我更多野外求生知识！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "当然好☆★☆★\n下次大家再一起体验野外求生吧♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

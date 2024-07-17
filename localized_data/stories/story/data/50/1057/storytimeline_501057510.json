@@ -1,0 +1,281 @@
+{
+    "Title": "找拉面当早餐",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我因为早起而到街上闲逛的时候──\n看见了千明代表和葛城王牌。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城王牌",
+            "Text": "这条路上好像没有……\n没办法了，去那边找找看吧！",
+            "ChoiceDataList": [
+                "你们在找什么吗？",
+                "你们在找什么吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "嗨，训练员。\n我现在非常想吃拉面呢。",
+            "ChoiceDataList": [
+                "……咦？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城王牌",
+            "Text": "千明好像想吃拉面当早餐。\n我在帮她找拉面店，\n但一直没有找到。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城王牌",
+            "Text": "……因为千明对味道也很挑剔呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "没错。汤头必须爽口又浓郁，\n配料要有海带、菠菜和蛤蜊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "将这些连同细面一起吸入口中～\n我今天想吃这样的拉面。",
+            "ChoiceDataList": [
+                "……感觉连我都想吃了",
+                "……感觉连我都想吃了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城王牌",
+            "Text": "喔！那你也要来帮忙吗？\n俗话说三个人凑在一起，就能打赢什么东西对吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "于是我们三个就这样分头寻找\n从早上开始卖拉面的店家，然而──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城王牌",
+            "Text": "──你那边有找到吗？",
+            "ChoiceDataList": [
+                "没有……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城王牌",
+            "Text": "这样啊……可恶，\n我现在脑袋里也都是拉面的说。\n但还真是难找呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城王牌",
+            "Text": "如果是荞麦面或乌冬面，\n倒是有很多店从早上就开始卖了。\n……对肚子饿的人来说，那味道实在太香了。",
+            "ChoiceDataList": [
+                "还是中午再吃拉面……？",
+                "还是中午再吃拉面……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "嗯，你们不用勉强配合我。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "但我已经决定要吃拉面当早餐了。\n既不是荞麦面，也不是乌冬面。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "我──不能对自己说谎。\n我要继续找下去。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城王牌",
+            "Text": "──唉，我想也是。\n这样才像是千明吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城王牌",
+            "Text": "好！那我就奉陪到底！\n我们一起联手找出最棒的拉面当早餐吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "然后……经过一段漫长的旅程。\n我们终于──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "（闻闻）……是高汤的味道，\n隐约还能闻到鱼贝类配料的味道……\n……绝对就是这个！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "你们看！招牌上写着“早餐时段有提供拉面”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城王牌",
+            "Text": "喔喔喔……！真的假的……！\n我们……成功了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "呵呵呵。我看看，拉面、拉面。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城王牌",
+            "Text": "啊～真好吃……！\n每一口都能感觉到自己的努力获得回报！",
+            "ChoiceDataList": [
+                "热汤温暖了全身……",
+                "热汤温暖了全身……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城王牌",
+            "Text": "是啊！\n来自蛤蜊的鲜味更是一绝……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "嗯。辛香料用得恰到好处。\n这个辣度能让人清醒过来呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城王牌",
+            "Text": "没错，辛香料──嗯？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城王牌",
+            "Text": "你怎么是点咖喱！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "嗯，因为我闻到了咖喱的味道。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城王牌",
+            "Text": "菜、菜单上是有咖喱啦……\n但都到这里了，你真的不吃拉面吗！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "嗯～\n但我现在就是想吃咖喱。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城王牌",
+            "Text": "……真是的，不过也是啦，\n她从以前就是这样的人……",
+            "ChoiceDataList": [
+                "总之先吃东西补充体力吧！",
+                "一大早就走了好多路……",
+                "一大早就走了好多路……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城王牌",
+            "Text": "……真是的，不过也是啦，\n她从以前就是这样的人……",
+            "ChoiceDataList": [
+                "总之先吃东西补充体力吧！",
+                "一大早就走了好多路……",
+                "一大早就走了好多路……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城王牌",
+            "Text": "唉，说得也是呢。\n毕竟这里的餐点很好吃！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "啊，可以分我吃一口吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城王牌",
+            "Text": "嗯，可以喔。\n那我也要吃一口你的咖喱。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──虽然发生了这场令人无言的小骚动，\n但总之我们三人一起享用了早餐。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城王牌",
+            "Text": "就是啊。\n已经等于是做了一点训练。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "葛城王牌",
+            "Text": "好，既然运动过了，就多吃一些！\n不好意思～！\n我也要点咖喱～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "啊，那我也再点一份好了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我因为走路走到肚子饿，\n所以也跟着点了咖喱──\n但我们这时候还没有发现一件重要的事情。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "那就是虽然我们因为早起\n而多了一些空档时间──但今天是平日……\n我们已经快要来不及去上班和上学了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

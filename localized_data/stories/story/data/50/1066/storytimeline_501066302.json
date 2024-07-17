@@ -1,0 +1,477 @@
+{
+    "Title": "抽奖试手气！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "黄昏时分。双涡轮在庶民区四处游玩，\n我则追着她东奔西跑，就在这时……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "啊，训练员！\n涡轮发现了好像很有趣的东西喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "你看，那边那边！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我一看……只见前方好像有人群聚集。\n于是我好奇地一探究竟……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "看过来看过来，现正举办新春大抽奖～！\n特等奖可是“温泉旅游券”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "温泉旅游券"
+            ]
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "一等奖是“上等胡萝卜肉排汉堡”，\n二等奖是“一筐胡萝卜”，\n三等奖则是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "来喔来喔，好玩的抽奖活动！\n那位小小赛马娘，\n要不要来抽抽看啊？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "抽奖！？涡轮要抽！！\n训练员，给我券！",
+            "ChoiceDataList": [
+                "我没券……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "咦咦咦，那不就不能抽了！\n讨厌讨厌讨厌讨～厌～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "庶民区的老婆婆",
+            "Text": "好好好，别哭啰，小姑娘。\n来，这给你用吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "喔！谢谢你，老婆婆！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "在温柔的庶民区老婆婆的好意之下，\n双涡轮得到了一张抽奖券。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "那么训练员，\n就让你跟涡轮一起转转吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "涡轮一定会中一等奖！\n预备～轰隆隆～！！！！！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "她就像是十六汽缸涡轮引擎一样，\n高速转动抽奖机！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "结果──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "天啊！恭喜────！！\n抽到特等奖“温泉旅游券”了～～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "特等奖？什么嘛～\n那就没抽到一等奖了……",
+            "ChoiceDataList": [
+                "这比一等奖更好耶！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "真的吗！！！？那涡轮中大奖了！！！！？\n太棒啦啊啊啊～！！！！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "双涡轮开心不已。\n她漂亮地抽中了温泉旅游券。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "温泉！温泉吗？去了温泉后，\n要做什么呢～？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "首先要突击淋浴区。\n然后跟周围的人互相泼热水～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "啊，煮温泉蛋也不错～\n涡轮要用手捧一堆生鸡蛋直接进去～",
+            "ChoiceDataList": [
+                "这样我不能带你去喔……",
+                "这样我不能带你去唷……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "咦，为什么为什么？\n涡轮很想去耶，为什么不带涡轮去！？",
+            "ChoiceDataList": [
+                "你必须先懂得守规矩"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "在比赛中超乎常轨就算了，\n在公共场合可不能这样。\n她必须好好遵守规矩。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "好～涡轮知道了！\n那涡轮会练习当乖孩子。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "如果合格的话，可以去温泉吗？",
+            "ChoiceDataList": [
+                "好，当然可以！",
+                "嗯，当然可以！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "太棒了！\n那涡轮要赶快去跟进王一起\n静静地在宿舍的大浴池泡澡！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "……不管怎么想，\n都想像不出她们安静泡澡的样子。\n不过我们在未来多了件很值得期待的事！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "恭喜抽到一等奖～！\n奖品是“上等胡萝卜肉排汉堡”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "喔喔喔，涡轮抽中了看起来很好吃的东西耶！！\n太棒了，太棒了～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "难得抽中豪华奖品，\n涡轮想追加更多酱汁与配料，\n让它变得更五颜六色。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "呃……首先是美乃滋，还有芥末酱。\n再来是巧克力……虾子……草莓软糖……",
+            "ChoiceDataList": [
+                "嗯，就随你高兴吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "哼哼～涡轮也会分一半给训练员的！",
+            "ChoiceDataList": [
+                "等一下！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "听到这，我慌忙阻止她。\n之后，我们享用了不加料的原味汉堡排。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "二等奖～！！\n奖品是“一筐胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "喔，抽中了一堆胡萝卜耶！\n太棒了！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "有这么多的话，\n在吃之前可以拿来做很多事呢。\n也可以排在一起玩赛车家家酒。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "啊，应该还可以玩那个！\n模仿素质游戏！",
+            "ChoiceDataList": [
+                "模仿素质游戏？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "没错！把两根胡萝卜直直～地立在头上，\n摆出恶鬼般的表情。然后脸色呢～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "就跟那个夕阳一样红通通！\n跟生气时的素质一模一样！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "哦～？我说涡轮小姐啊，\n你再说一次，跟谁一模一样啊？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "哇，素质！？\n你为什么会在这里！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "优秀素质",
+            "Text": "我随时都在这里好吗？别小看庶民区\n招牌赛马娘啦。喂，涡轮别跑！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "唔啊啊啊啊，\n果然一模一样～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "在吃饭前四处逃窜的双涡轮。\n因为肚子饿了，\n让她更加津津有味地享用了胡萝卜。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "三等奖～！\n奖品是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "咦～只有一根？\n有点无聊耶～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "欸欸欸，训练员。在以前的童话里，\n有在田里让胡萝卜变多的故事，\n那是真的吗？",
+            "ChoiceDataList": [
+                "嗯，那当然是真的啰",
+                "嗯，那当然是真的啰"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "这样啊。\n那或许可以试试那个方法！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "双涡轮从童话中囫囵吞枣学来的增殖方法是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "首先，把胡萝卜种在田里。\n然后浇水……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "胡萝卜就会不断膨胀变大喔。\n然后过一会──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "就会碰～地爆炸，\n从里面跑出许多胡萝卜！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "哼哼～这很有尝试的价值吧？",
+            "ChoiceDataList": [
+                "……不会吧",
+                "……不会吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "咦～为什么～？\n不试试看谁知道！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "……不用试也知道。所以我就让双涡轮乖乖地\n把那根胡萝卜当点心吃掉了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "很可惜，没抽中！\n参加奖是“卫生纸”喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "呜……唔唔……卫生纸……\n而且才一包……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "呜哇～～～！！！！！\n涡轮不要这个、不要、不要，\n不要啦～～～！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "涡轮想要一等奖嘛～！！\n呜哇～～～！！",
+            "ChoiceDataList": [
+                "涡轮，冷静一点！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "不要不要不要不～要～！\n涡轮才不要听话。不～要～！！！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "只抽到一包卫生纸，让她的耍赖模式大爆发……\n一旦变成这样就完全无法控制了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "不要不要不要，不～要～！！",
+            "ChoiceDataList": [
+                "涡轮，来，擤鼻涕"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "双涡轮",
+            "Text": "擤～！！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "即使如此……她还是乖乖地擤了鼻涕。\n这是这包不讨喜的卫生纸唯一的用途了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,531 @@
+{
+    "Title": "夏季集训（第二年）途中",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "夏季集训──\n即使在与平时不同的环境中，\n吉兆仍兢兢业业地进行训练。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──呼。",
+            "ChoiceDataList": [
+                "辛苦了。今天就到此为止了呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "Oh～～吉兆！\n训练结束了吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "那我们来BBQ吧～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "这、这附近，\n好像可以租借BBQ的场地！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "然后我跟大树聊到，\n好想试试正宗的BBQ……\n所以就希望……你也能来！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "大树"
+            ]
+        },
+        {
+            "Name": "大树快车",
+            "Text": "你一定会觉得很怀念的！\n美国是BBQ的国度──\n真是期待家乡味啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "训练员要不要一起来！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "吉兆直盯着我。\n我对正宗BBQ有兴趣……更重要的是，\n这对她或许是一次很好的休息机会。",
+            "ChoiceDataList": [
+                "好啊，我们就去参一脚吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──遵命。\nBBQ──我很擅长。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "Hoo～！这样就对了！\nBBQ party, let's Go!",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "────开始吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "呃，那个……\n换衣服也是BBQ的规矩之一吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──没错……要casual且──\n轻便。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "Yes!\nBBQ是casual home party！\n这才是正宗BBQ☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "原来如此……！\n呵呵，确实让人开始兴奋起来了呢！",
+            "ChoiceDataList": [
+                "那我们先来切蔬菜吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "Wait a moment.\n从现在起──听我指示。",
+            "ChoiceDataList": [
+                "（她突然干劲十足……！？）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "首先──有一件事必须决定。\n──要烤──什么肉？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "BBQ的主角是──肉。\n不决定这件事──就没办法开始烤。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "这……简直就是pitmaster……！\n在日本这种人被称为──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "BBQ奉行！！",
+            "ChoiceDataList": [
+                "BBQ奉行！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "总觉得吉兆看起来精神抖擞呢。\n原来她很喜欢BBQ……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──所以……你们。\n有想吃的──肉吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "Well～……说到BBQ的肉，\n就是肋排、牛胸肉跟手撕猪肉等……\n有很多种类呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "我喜欢肋排！\n既柔软又有咬劲，delicious！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "正宗的肋排……！\n我也想吃吃看！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──知道了，交给我。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──腌肉──完成。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "正宗BBQ果然很费工呢……！\n跟我在书上读到的一样──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "──咦，那、那是？\n吉兆，你在做什么？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──我在做烤窑。",
+            "ChoiceDataList": [
+                "烤窑……！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "啊──这个我在书上看过！\n这是BBQ的起源！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "据说以前会将狩猎到的东西，\n放进挖洞后做出的土窑烘烤……\nBBQ就是这样开始的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "自古以来连绵不绝，传承至今的饮食文化……\n感觉非常浪漫呢……！",
+            "ChoiceDataList": [
+                "原来如此，还真是厉害呢！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──我会让你们见识一下的。\n──等着吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "但要从零开始制作烤窑太花时间了……\n或许租借烤炉也是个办法。",
+            "ChoiceDataList": [
+                "租借大火力的烤炉来用吧！",
+                "大家一起努力制作烤窑吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "大火力──还有这种东西啊──",
+            "ChoiceDataList": [
+                "在租借品一览中好像有"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "这样啊……那就用租的吧。\n──也得留些──时间享受啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "OK！那我去租啰～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "使用租来的烤炉，\n肋排一下子就烤好了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "Oh～！吉兆你看！\n有木片喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──原来如此──可以烟熏啊。\n你们想吃什么？──说吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "Yes ma'am！BBQ奉行大人！\n我想吃猪菲力！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──英雄，你呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "英雄"
+            ]
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "是、是的，奉行大人！那我……\n我想吃以前读过的西部小说中出现的，\n“蒜味虾”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──好──交给我。\n……训练员，你也──决定一下要吃什么。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是吉兆精神抖擞地\n作为BBQ奉行，实现了我们的要求──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "Yes！好主意～！\n大家一起做肯定会乐趣无穷！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "对啊……！\n我也想挑战看看制作烤窑……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──这样啊──那么……\n我们先来──砌砖头。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "排法～是这样吗？\n嗯……感觉凹凸不平呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──用土，来调整──要砌得，整整齐齐。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "就这样，在吉兆的指挥下，\n我们奋力地以砖头制作烤窑──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "完成了呢～！\n这样就能烤肋排烤个过瘾了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──是啊……闷烤──\n需要时间──稍等一下。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "（烤肉声～）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "呵呵♪因为是我们用心地做了准备吗？\n看起来更好吃了呢……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──已经──差不多了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "────完成了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "Hoo~! Good smell, good color!\n看起来超好吃的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "是啊！没想到能吃到这么正宗的BBQ，\n就像在做梦一样呢……！",
+            "ChoiceDataList": [
+                "那我们赶快来吃──"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──Mission Accomplished.\n下次要──进行──BBQ时，\n──再叫我吧。",
+            "ChoiceDataList": [
+                "咦！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "等、等一下！\n吉兆，你不吃吗……！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "What！？为什么！？\n一起来吃啦～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "────？\n为什么……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "什么为什么！？当然是因为我们想跟你一起吃！\n所以才约你来的啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──是这样吗……？",
+            "ChoiceDataList": [
+                "你该不会以为自己只是来负责烤肉的？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "是啊──只要大家满足……\n──就够了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "Of course！好久没用正宗的烤法烤肉了，\n我玩得很开心喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "所以──\n希望你也跟我们一起享受把烤肉吃光光的乐趣！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "荒漠英雄",
+            "Text": "我、我也还，想继续跟你待在一起！\n那个……如果你不嫌弃的话……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──是吗？\n──────",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "……我不理解──你们的用意。\n──是我的行动──有误吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "难道他们想跟我这种人一起吃？\n──她像是要脱口说出这句话般地困惑着。",
+            "ChoiceDataList": [
+                "你没有做错什么喔",
+                "你没有做错什么喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "现在的她，只要理解这一点就够了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "────这样啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大树快车",
+            "Text": "吉兆也来吃肋排吧！\nLet's party！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "────好。\n如果你们──乐意的话。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "她如此说道，并回望着大树快车等人的笑容──\n虽然心中还留有些许困惑，\n但看起来却很满足。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "大树快车"
+            ]
+        }
+    ]
+}

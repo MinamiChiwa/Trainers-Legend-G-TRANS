@@ -1,0 +1,611 @@
+{
+    "Title": "美丽计划前夕",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "即将迎来出道战的忙碌日子里，\n某则新闻在学园里引发了一阵骚动──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "赛马娘一生只能挑战一次的“经典三冠”──\n也就是“皋月赏”“日本德比”\n以及“菊花赏”之中──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "经典三冠",
+                "皋月赏",
+                "日本德比",
+                "菊花赏"
+            ]
+        },
+        {
+            "Name": "",
+            "Text": "“怪物”成田白仁已经连续称霸了\n“皋月赏”和“日本德比”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "只差一步就有机会登上三冠赛马娘宝座的她，\n让竞赛界为之沸腾。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "记者和粉丝也连日不断地来访学园，\n为了维持校园环境的平静，\n不得不对参观和采访进行限制。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "当然也不免俗地在学生之间引起热烈讨论，\n但其中也有显露出不同反应的人──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "嗯～～～～～～～～～？？？",
+            "ChoiceDataList": [
+                "怎么了吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "有小虫子在爬？痒痒的感觉？好奇怪！\n总觉得某处正散发出不美丽的气息！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "训练员有感觉到吗？\n一股沉闷烦躁，\n一点都不美丽的气息！",
+            "ChoiceDataList": [
+                "你说的该不会是──"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁性格内向的同期",
+            "Text": "又来采访了对不对……？虽然真的很厉害，\n可是都只采访白仁同学。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁性格强势的同期",
+            "Text": "有什么办法，她和我们不能相提并论嘛。\n哎～呀……为什么会和她同期啊。\n要是能和她在不同世代的话……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "最近经常听到这类发言。\n成田白仁的跑法强劲，\n似乎开始出现对此感到畏惧的人。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "强烈的光芒对比出昏暗的阴影。尽管如此，\n我想这在胜负的世界里是在所难免的──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "嗨嗨嗨──我问你们！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "为什么这么不美丽呢？？\n你们这么在意白仁吗？？",
+            "ChoiceDataList": [
+                "（美丽她什么时候跑过去了！？）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁性格内向的同期",
+            "Text": "咦……这个人是谁？你认识吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁性格强势的同期",
+            "Text": "蛤？我哪认识她啊──\n而且我可不喜欢这样突然被搭话。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "这个嘛，我叫做美丽周日☆\n我是来传递美丽给你们的★",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "所以告诉我你们的烦恼吧！\n和我一起去寻找美丽！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁性格强势的同期",
+            "Text": "好可怕。\n而且我才不需要。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁性格内向的同期",
+            "Text": "何况就算告诉你了，你也不会理解……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "为什么？不试着说出来\n怎么会知道我能不能理解☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "毕竟白仁她很有名，\n有名到连我也想看她的比赛──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁性格强势的同期",
+            "Text": "啊～烦死了！\n你又不是那个知名“怪物”的同期，\n跟你讲什么都是浪费口水啦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁性格强势的同期",
+            "Text": "毕竟没人对你说过这种话吧！\n这个世代最强的就是白仁，\n没有人赢得了白仁──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁性格强势的同期",
+            "Text": "我们啊，\n可是从出道开始就一直被这样看待！\n白仁很厉害，白仁是世代最强！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁性格强势的同期",
+            "Text": "那我们算什么！？只为了衬托她而存在吗！？\n我们只能负责担任\n跑不赢“最强怪物”的配角吧！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁性格内向的同期",
+            "Text": "就是说啊，不管我们再怎么拼命跑，\n观众感兴趣的都只有\n白仁同学会怎么赢下比赛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁性格内向的同期",
+            "Text": "因为身为配角，我们的努力和梦想，\n对大家来说都没有关注的价值……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁性格强势的同期",
+            "Text": "这种……\n被拿来和受人瞩目的“怪物”做比较的心情，\n从没被比较过的家伙才不会懂！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁性格强势的同期",
+            "Text": "既可悲，又不甘，\n想干脆放弃奔跑的心情，\n你绝对──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "──这样啊，原来白仁\n在你们眼中是如此地耀眼啊☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁的同期们",
+            "Text": "呃……？\n蛤……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "因为你们比任何人都更接近白仁，\n所以才能从白仁身上看到\n只有你们看得到的美丽☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "否则如此辛苦又难受的你们，\n才不可能继续在意着白仁──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "因为和“所有人”相比，\n你们是最无法将视线从白仁身上移开的人嘛☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁性格强势的同期",
+            "Text": "～～～～你在说什么啊，真让人火大！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁性格强势的同期",
+            "Text": "用不着你说我也知道！\n把我拿来和白仁做比较的并不是别人，\n其实是我自己！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁性格强势的同期",
+            "Text": "但我有什么办法！？同期有个“怪物”，\n我怎么能不和她比较！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁性格强势的同期",
+            "Text": "她总是在我的视线哩，成为大家讨论的话题，\n我连假装没看见也做不到！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "嗯，肯定会这样。\n不过，也不仅如此──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "我们走吧──☆★",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁的同期们",
+            "Text": "蛤？呃，你干嘛──！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "来，你们仔细看☆\n白仁就在那里对吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "────",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁",
+            "Text": "──喝啊啊啊啊啊啊！！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁的同期们",
+            "Text": "～～～～唔！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁性格内向的同期",
+            "Text": "果然很厉害……\n这种压到性的气势……太强了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁性格内向的同期",
+            "Text": "那种可怕的跑法，\n在认识白仁之前我从没见过。\n虽然可怕……却叫人无法移开视线──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁性格强势的同期",
+            "Text": "真的好不甘心！\n等回过神来，\n已经拉开了追不回来的距离──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁性格强势的同期",
+            "Text": "明明追不上她！根本接近不了她！\n但无论怎么做，\n都忘不了她的跑法──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁的同期们",
+            "Text": "是啊……其实我也想要像她那样──\n对……其实我也想要像她那样──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁性格内向的同期",
+            "Text": "……注意到这点之后，总觉得自己好逊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁性格强势的同期",
+            "Text": "嗯……结果自己不过是向往能像她那样──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "不对，才没有这种事☆\n这种心情是非～常美丽的★",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "因为向往强者的心情，\n会促使你们继续前进☆★",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁的同期们",
+            "Text": "什么──？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "这种甚至让你们感到痛苦的向往对象，\n将来肯定会在赛马娘历史上留下一笔☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "而能够亲眼目睹这段历史的，\n就只有和令人向往的赛马娘──“成田白仁”\n生在同个时代的赛马娘们☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "她强大的美丽甚至能改变历史★\n所以不朝她追过去就太浪费了喔☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "向往白仁身上强大光芒的你们，\n一定能受到那道光芒的指引，\n变得比现在更加美丽☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "将这份向往变成你们的实力吧☆★\n白仁身上的美丽，\n肯定能引领你们变美丽☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁性格内向的同期",
+            "Text": "……将向往化为力量──\n是吗……用说的是很轻松。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁性格强势的同期",
+            "Text": "算了，总比垂头丧气来得好嘛。\n虽然我距离有资格将她当作目标还远得很。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁性格强势的同期",
+            "Text": "……但总有一天一定能更接近一点──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我无法插嘴，只好静静在一旁看着。\n看来她已经顺利将\n美丽的片鳞半爪传递出去了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "而此刻仍原地远眺成田白仁奔跑的\n前辈赛马娘们侧脸上\n已经再也不见刚才的忧郁。",
+            "ChoiceDataList": [
+                "美丽果然很厉害……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "？？？",
+            "Text": "──嗯，你说得对。美丽非常厉害！",
+            "ChoiceDataList": [
+                "你是……",
+                "你是……"
+            ],
+            "ColorTextInfoList": [
+                "美丽"
+            ]
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "啊哈哈，抱歉突然插话。\n因为我觉得训练员和我有一样的感觉，\n忍不住就说出口了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "前来搭话的是\n和美丽周日同期出道的富士奇石。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "她的跑法华丽且强而有力。\n出道前那天生才能就吸引了许多人，\n大家都期待她的活跃表现。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "她已经开始展露出巨星风范，\n能从她这里获得“很厉害”的评价，\n令我相当讶异──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "我说的话有这么令人吃惊吗？\n美丽她制造出来的笑容，\n真的很棒不是吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "也因为这样，我总是忍不住盯着她看。\n身为一名娱乐表演者，\n我还有很多地方要向她学习呢♪",
+            "ChoiceDataList": [
+                "你这么注意她吗？",
+                "你这么注意她吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "嗯。尤其是像今天这种时候。\n因为她一开始就让人留下深刻印象──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "美丽周日搬进宿舍的时候，\n她身边的那些女孩们\n似乎相当紧张喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "也有很明显地患了思乡病的女孩。\n而我身为宿舍长，\n当然必须注意她们的情况，不过──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "没事的！你要相信自己的美丽☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "这里的你和我，\n是把闪耀系列赛当作梦想的伙伴！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "是要一起实现梦想的人喔☆\n这是一件非常美丽的事★",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "原本很紧张的女孩，\n也被她那股气势震撼得目瞪口呆──\n然后很快就笑了出来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "我从那时就发现了。\n美丽她擅长从眼前的状况中，\n找出正面积极的一面。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "我认为那对站上舞台的人而言\n是不可或缺的能力。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "能和她一起出道也是件幸运的事。\n我想只要和她一起，\n就能跑出令所有人享受其中的比赛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "富士奇石",
+            "Text": "将来在同一场比赛上一起奔跑吧──\n你愿意帮我跟她说吗♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "那天回去的路上。\n我看到了难得站在原地发呆的美丽周日。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "大概是因为出道战就快到了而紧张吧。\n我想到这里，上前试着和她说说话──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "──真的真的很不可思议。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "大家明明都非常美丽，\n为什么会没注意到这点呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "要是大家都能发现到自己的美丽，\n世界就能变得更加、更加闪耀的说──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "──不过，终于可以开始了呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "现在还无法靠自己\n发现美丽的人们也一样──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "只要我们让她们见识到很多美丽，\n她们一定也能注意到自己的美丽！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "将美丽传递出去的梦想，\n终于能踏出第一步了☆★",
+            "ChoiceDataList": [
+                "一起在出道战加油吧！",
+                "一起在出道战加油吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "嗯☆\n要努力让全世界注意到自己的美丽★",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "为了实现这个梦想，\n我要在闪耀系列赛中奔跑☆★",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

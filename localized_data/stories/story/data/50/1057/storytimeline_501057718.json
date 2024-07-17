@@ -1,0 +1,37 @@
+{
+    "Title": "恢复精神",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "啊，训练员。早安。",
+            "ChoiceDataList": [
+                "你昨天有好好休息吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "嗯，我听了丸善斯基借我的流行乐CD，\n在家里放松。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "虽然我不怎么在意流行，\n但确实是首很棒的曲子，难怪大家会喜欢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我对那是否真的是最近流行的曲子感到疑问。\n──无论如何，千明代表似乎好好休息过了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

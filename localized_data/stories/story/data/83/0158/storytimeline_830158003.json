@@ -1,0 +1,335 @@
+{
+    "Title": "顶尖作战",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "今天是休假──\n我去参加赛马娘们自己募集参加者，\n所举办的休闲活动。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "森林宝穴",
+            "Text": "──哦！是之前的训练员！\n我们刚好缺人，\n一起来参加水枪大赛吧！",
+            "ChoiceDataList": [
+                "是可以啦……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "喔～游戏规则是用有颜色的水啊。\n……既然是有颜色的水，\n那么添加药物也不会被发现……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼城茶座",
+            "Text": "…………\n……会场中……有……什么东西在。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "森林宝穴",
+            "Text": "……你是指其他的活动参加者吧？\n对吧？没错吧！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是，我加入森林宝穴她们的队伍，\n一起参赛──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼城茶座",
+            "Text": "啊……从十二点钟方向……过来了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "森林宝穴",
+            "Text": "哦？你是说敌队的人吗！？\n好，看我打爆──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼城茶座",
+            "Text": "不是……是其他的……\n……很多……很多……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "森林宝穴",
+            "Text": "呜哇啊啊啊啊！？\n看招看招看招！！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "欸，胡乱扫射会没水的。\n真拿你没办法，\n就用我事先调合的──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "森林宝穴",
+            "Text": "事先调合的什么！？我不要！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "敌队的赛马娘A",
+            "Text": "哇哈哈，快看，她们自己起内哄！\n攻击，攻击！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "森林宝穴",
+            "Text": "喂！立刻就被包围了！？\n谁来提供一些策略！",
+            "ChoiceDataList": [
+                "……分散作战如何？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "森林宝穴",
+            "Text": "好，就用那个作战！\n速子、茶座，我们执行分散作战！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "宝穴＆速子",
+            "Text": "呼……呼……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "森林宝穴",
+            "Text": "……话说，为什么所有人都往\n同一个方向躲避！根本没有散开啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "必须知道详细作战内容才有办法采取行动。\n就算分散也要有目标吧。\n要逃跑还是要进攻？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼城茶座",
+            "Text": "因为我……听得见“那边”的声音。\n……我反而觉得……大家都……\n跟着我呢……",
+            "ChoiceDataList": [
+                "接下来互相确认彼此的作战吧──"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "森林宝穴",
+            "Text": "…………\n不，我们改变作战。",
+            "ChoiceDataList": [
+                "那下一个作战是……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "森林宝穴",
+            "Text": "我在紧要关头时想到的，\n你们仔细听好，作战是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "森林宝穴",
+            "Text": "──“没有”作战！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "森林宝穴",
+            "Text": "来啊……想打倒我的家伙！\n全部尽管来吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "（哦……宝穴一定会\n一边大吼大叫一边从正面进攻。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "（只要拿她当诱饵──\n就可以从侧面给予有效攻击。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼城茶座",
+            "Text": "（……宝穴和速子都发动攻击了──\n这时候……绝对会吸引众人的注意力……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼城茶座",
+            "Text": "（我要狙击被吸引过来的\n其他队伍……\n“大家”会告诉我敌人的位置……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是……宣告“没有作战”的作战结果，\n是她们三个奇迹似的合作无间，\n漂亮地还击对手！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "森林宝穴",
+            "Text": "好耶！我们的攻势\n势如破竹！",
+            "ChoiceDataList": [
+                "就这样拿下优胜！",
+                "就这样拿下优胜吧！",
+                "这就是合作默契",
+                "这就是合作默契"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "森林宝穴",
+            "Text": "好耶！我们的攻势\n势如破竹！",
+            "ChoiceDataList": [
+                "就这样拿下优胜！",
+                "就这样拿下优胜吧！",
+                "这就是合作默契",
+                "这就是合作默契"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "森林宝穴",
+            "Text": "嗯嗯！要登上……巅峰！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "──之后我们这队\n仍持续突破──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "森林宝穴",
+            "Text": "赞啊！拿到优胜啦──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "嗯～非常有意义的活动。\n集团战……便于仔细观察人们\n处于斗争状态下的心理。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼城茶座",
+            "Text": "我也借此……和这里的“大家”交流……\n觉得很棒。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "森林宝穴",
+            "Text": "哇哈哈，是怎样啦！？\n好不容易拿下优胜，\n各自的感想却那么没默契！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "森林宝穴",
+            "Text": "……不过也没差！\n只要结果开心就好！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "──虽然之后我们这队\n仍持续突破──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "森林宝穴",
+            "Text": "好！打倒十人了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "哎呀哎呀，状态绝佳呢。\n我所认识的宝穴，一定会在\n这个时候高声欢呼。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼城茶座",
+            "Text": "……没错……\n然后就会……轻忽大意……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "森林宝穴",
+            "Text": "唔喔喔喔喔！都不是我的对手──！\n根本不够──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "啊，被打倒了。\n果然跟我们预测的一样。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "森林宝穴",
+            "Text": "──这时候应该提醒我一下吧！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "森林宝穴",
+            "Text": "好，现在应该可以开始采取作战，\n听听我的莒噬无翟破莲华作战，\n或是京添亥蒗诀囵作战──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "爱丽速子",
+            "Text": "放弃吧，你的程度\n还不足以拟定作战。不如\n用我的羟基磷灰石作战──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曼城茶座",
+            "Text": "……用我的……丑时参拜作战……\n如何呢……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "森林宝穴",
+            "Text": "笨蛋，大家都提出意见的话，\n就不知道要采取哪一个作战啦！\n话说──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "敌队的赛马娘A",
+            "Text": "居然自己吵起来了！？\n好，趁现在──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "森林宝穴",
+            "Text": "少啰嗦！外人给我闭嘴！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "──虽然意见难以互相配合，\n却有着神奇的合作默契。之后，\n我们这队的表现依然活跃……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

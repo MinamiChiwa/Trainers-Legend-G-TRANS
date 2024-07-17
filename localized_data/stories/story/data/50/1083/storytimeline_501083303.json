@@ -1,0 +1,536 @@
+{
+    "Title": "出道战结束后．Beginnings",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "（哇啊啊啊啊──！！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "（……身体无异状。\n成功地按照计划跑完了。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "（……出道战，结束。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──下一场。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "参赛赛马娘",
+            "Text": "比赛才刚结束，为什么她能像那样──\n该说是若无其事？还是冷静呢……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众A",
+            "Text": "哎呀～这次也见到了令人期待的明日之星呢～！\n……不过那孩子有点少见呢。\n出道战应该值得更高兴一点啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众B",
+            "Text": "喔～是海外来的选手吗……\n难怪氛围跟其他人有些不同，\n该说是有点冷淡吗──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "呵、呵呵、呵呵呵呵呵──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "哈────哈哈哈哈！！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "有了……我看到了……！感觉到了！！\n就是你……！\n试图阻挡在吾面前的黑云……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "那么接下来，就换吾牵引这条锁链，\n出现在你面前了吧……！\n转动吧，车轮。承载着吾等的命运……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "顺利跑完出道战后，\n吉兆的身心状态，\n平静得令人讶异……！",
+            "ChoiceDataList": [
+                "辛苦了！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──Mission accomplished.\n……请为我评分。",
+            "ChoiceDataList": [
+                "毫无疑问是你现在能跑出的最佳表现"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──这样啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者",
+            "Text": "──打扰了！\n不好意思刚比赛完就来采访！\n可以稍微访问一下吉兆小姐吗……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "……我…………没问题。\n训练员你──",
+            "ChoiceDataList": [
+                "吉兆不介意的话就没问题"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者",
+            "Text": "谢谢！其实是有消息指出，\n你就是鲁道夫象征小姐邀请的留学生──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者",
+            "Text": "简单来说──\n我想请教的就是！\n吉兆小姐你来日本的目的是什么？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──目的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者",
+            "Text": "是的！\n是学习日本竞赛文化，\n并在回国后活用于比赛中之类的吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "……No.\n我──来日本的目的是──“革命”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者",
+            "Text": "咦……革命……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "Yes.……让日本竞赛界──\n达到世界水准──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "为了成为达到目标……所需的“活水”──\n而来到──日本。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "我──会在日本──展现强悍实力──\n掀起……革命。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者",
+            "Text": "那、那还真是……\n宏大的目标呢……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──我必定会……达成。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "当采访结束，我们回到休息室后──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "──抱歉。\n可以打扰一下吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "鲁道夫──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "鲁道夫"
+            ]
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "抱歉如此唐突。\n但我无论如何都想跟你当面对话。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "……我清楚目睹了\n你即使在日本也不受影响，那冷静且大胆的跑法。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "请让我继续期待你今后的出色表现。\n……好好努力吧，吉兆。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "……遵命。\n我会继续──展现“结果”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "呵呵──\n不愧是你的回答呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "出道战在鲁道夫象征的祝福下落幕。\n翌日。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "她在出道战后接受的采访很快地被写成了报导，\n但那篇报导产生了一些意外反响──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "报纸内容",
+            "Text": "“来自海外的刺客！？\n打算改变日本竞赛界！\n吉兆震撼出道！”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "报纸内容",
+            "Text": "“──她的目标居然是提升日本竞赛界的水准！\n因此她夸下海口，\n要展现自己强悍实力──”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "……虽然句句都属实，\n但是这篇报导比我预期的\n更为夸大了她的“革命”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "报导公开后，\n对于吉兆所说的“革命”，\n网络上也出现了认为这是“多管闲事”等意见──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我感觉那篇报导招致了一些过度的批判，\n使得我内心有些难过……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──打扰了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "It's time.\n──开始会议吧。",
+            "ChoiceDataList": [
+                "啊，抱歉。我没注意到时间",
+                "啊，抱歉。我没注意到时间"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "……？\n…………发生什么事了吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "……藏得了一时，藏不了一世。\n我如此判断后，\n便将报导的内容与舆论明确地转述给她──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──这样啊。\n……谢谢你告诉我。",
+            "ChoiceDataList": [
+                "要我去交涉，请对方撤下报导吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──No problem.\n──没必要。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "我──只完成我该完成的。\n最重要的是──“成果”。",
+            "ChoiceDataList": [
+                "────"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "她那毫不动摇的姿态，\n让我深刻地反省，并觉得自己必须效法。\n如她所说，重要的是“成果”。",
+            "ChoiceDataList": [
+                "好！振作起来，开会吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──好。\n──麻烦了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "随后，我们严谨地结束了出道战的检讨会，\n接着开始重新确认今后的目标──",
+            "ChoiceDataList": [
+                "──到明年一月前，都专注在锻炼身体吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "同时，为了让吉兆在这期间\n可以有效率地累积实战经验，\n我提议也要安排适当的出赛计划。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──我明白了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──这种……plan。\n训练与比赛──\n以强化为──目标的计划……方式──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "在日本该怎么称呼才──correct.\n……正确呢？",
+            "ChoiceDataList": [
+                "呃……应该是“武者修行”吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "武者修行。\n──这样啊……真是个好名字。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──现在起，我将执行武者修行。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "决定好关于“武者修行”的方针，\n当我们正要开始今天的训练时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "哈────哈哈哈哈！！！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "──我就亲自祝福你吧，吉兆！\n祝福这个以你为名的世界诞生！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──美酒。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "美酒"
+            ]
+        },
+        {
+            "Name": "",
+            "Text": "突然出现的赛马娘──谷野美酒。\n她是因说话语气独特而小有名气，\n与吉兆同期的赛马娘。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "谷野美酒"
+            ]
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "但是，你明白吧？\n吾等奔驰在相同的时间上，\n命运将无可避免地交错──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "要开始了。\n连诸神之战都为之失色，鲜明且毁灭性的战史！\n谁能让这个世界更加深沉、炙热地酩酊呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "…………The die is cast.",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "没错！我们已经无法回头了！\n今后唯能听从内在灵魂的呐喊，\n对抗时代，向前迈进……！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "你那如冰霜一般冷静透彻的跑法，\n究竟能否阻挡吾燃尽一切的破坏性跑法呢──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "我很期待……\n这个答案揭晓的时刻。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──我要完成我该完成的。\n──达成使命。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "……仅此而已。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "是啊，你这样就好。\n“这样最好”……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "谷野美酒",
+            "Text": "再会了，绝不动摇的漆黑战士！\n你就尽可能地磨尖獠牙吧──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "谷野美酒突然现身，\n留下难解的话语扬长而去，\n只有我一个人对于事情摸不着头绪──",
+            "ChoiceDataList": [
+                "……那个，谷野美酒说的那些是什么意思？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──应该是……encouragement──\n美酒独特的……激励──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "我也……并不是完全理解。\nBut──也有听懂一部分。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "所以我以我的……\nstance.\n以最直接的话语回应了──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "吉兆与谷野美酒。\n感觉上是完全不同类型的赛马娘，\n但有些部分她们似乎靠直觉就能互相理解……",
+            "ChoiceDataList": [
+                "……她或许会成为你的劲敌",
+                "……她或许会成为你的劲敌"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "……是啊。但是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "我该做的事──没有改变。\n现在则该为了使命……进行武者修行。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──开始吧，训练员。",
+            "ChoiceDataList": [
+                "……好！",
+                "……嗯！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "谋面未来必须面对的强敌，\n为了打好基础迎向挑战，\n武者修行就此正式开始！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

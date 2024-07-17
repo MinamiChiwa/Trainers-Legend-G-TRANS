@@ -1,0 +1,538 @@
+{
+    "Title": "突击！商店街特卖",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "跟吉兆出门采购后的回程路上──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美妙姿势",
+            "Text": "哎呀，两位好！\n──你们也是来参加这场特卖会的吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──Sale？\n……这条商店街的吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美妙姿势",
+            "Text": "没错！听说这次各店会拿出滞销商品，\n来场跳楼大拍卖喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──卖剩的……",
+            "ChoiceDataList": [
+                "……你有兴趣吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "…………不──这不在任务范围内。\n──我没有计划参加。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美妙姿势",
+            "Text": "！\n喔……是这样啊～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美妙姿势",
+            "Text": "说到任务，那你更应该参加吧？\n毕竟“特卖会”可是日本文化哦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美妙姿势",
+            "Text": "为了带动日本赛马娘界，\n应该尽可能地体验日本文化……\n不是吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──！\n────说得──也是。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──训练员。\n──交给你──判断。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "看她刚才的样子，\n似乎是对“滞销商品”特别有兴趣──",
+            "ChoiceDataList": [
+                "特卖会可是战场……做好心理准备了吗？",
+                "特卖会可是战场……做好心理准备了吗？",
+                "你就尽情挑战吧",
+                "可是冲动购物是很危险的"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "看她刚才的样子，\n似乎是对“卖剩的东西”特别有兴趣──",
+            "ChoiceDataList": [
+                "特卖会可是战场……做好心理准备了吗？",
+                "特卖会可是战场……做好心理准备了吗？",
+                "你就尽情挑战吧",
+                "可是冲动购物是很危险的"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──嗯。我做好──所有的心理准备了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美妙姿势",
+            "Text": "呵呵，干劲十足呢！\n如果你渴望战场……那参加装肉装到满活动如何？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美妙姿势",
+            "Text": "挑战如何在时限内将更多的肉塞进袋子里……！\n不觉得很令人热血沸腾吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──好。\n────我一定会胜利的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美妙姿势",
+            "Text": "就这么决定了！\n那我们出发吧～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "肉铺店员",
+            "Text": "来来来，骰子牛装到满喔～！\n限时一分钟！预备～～开始！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──动作要快──并且缜密──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美妙姿势",
+            "Text": "嘿咻、嘿咻……嗯～\n不管怎么做都会有空隙呢……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "买客阿姨",
+            "Text": "哎呀，你们两个真不像话！\n想玩装到满，\n要先把袋子拉到最大才行！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──！原来如此──战斗在──\n塞东西前──就已经开始了──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "在阿姨的倾囊相授下，\n两人奋力狂塞──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "肉铺店员",
+            "Text": "──三、二、一、零～！\n时间到～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美妙姿势",
+            "Text": "一转眼就结束了～！\n克莉斯，你的成果如何？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──你看。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美妙姿势",
+            "Text": "哇！超多的！\n毫无空隙地堆得好漂亮……手好巧哦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──因为我得拯救──\n更多肉才行……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──成果──很完美。\n这样……就能──让它们完成义务了──",
+            "ChoiceDataList": [
+                "大获全胜呢",
+                "大获全胜呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "────是啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "她凝视着因塞满肉而鼓起的袋子时，\n眼神看起来非常满足──\n好似充满了慈爱。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──把袋子拉大……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "（破裂！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──！\n破了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "肉铺店员",
+            "Text": "──三、二、一、零～！\n时间到～～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美妙姿势",
+            "Text": "嗯～真可惜。\n想不到要装很多也不简单呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "────我太没用了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "…………战败者……只有离去一途。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "吉兆毫不犹豫地离开战场。\n她的背影看起来有些落寞……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──那么，我出发了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美妙姿势",
+            "Text": "太棒了！\n我们要从哪里逛起？你有想去的地方吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──不──哪里都可以。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美妙姿势",
+            "Text": "…………呵呵。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美妙姿势",
+            "Text": "那么那间杂货店怎么样？\n我觉得会是鲜为人知的好店喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──！\n……好──没问题。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是两人就这样闯进杂货店的特卖会了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美妙姿势",
+            "Text": "咦，那些就是特卖商品吗？\n有好多看起来很有趣的东西呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "────是啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美妙姿势",
+            "Text": "哇，这好厉害！\n是……地球摆饰吗？真有趣～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──上面──有些灰尘……\n…………买下来吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美妙姿势",
+            "Text": "啊，这里有拉面摆饰喔！\n要不要买呢♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美妙姿势",
+            "Text": "大丰收～～！\n好棒喔，买了这么多却超便宜的！",
+            "ChoiceDataList": [
+                "有找到好东西吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──是啊。\n不受欢迎的──商品──全都买了。",
+            "ChoiceDataList": [
+                "会有什么用途吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──嗯──我会找到的。\n我一定会找到──这些东西的──义务。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "So──你们……放心吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "说完，吉兆怜爱地抱起购物袋。\n如果是她，一定会珍惜地使用每个杂货吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "目送吉兆等人离开后，\n过了三分钟──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──我回来了。",
+            "ChoiceDataList": [
+                "真快！？",
+                "真快！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──我好像──吓到其他客人了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──有我在……\n大家都──没办法进到店里──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美妙姿势",
+            "Text": "呵呵，克莉斯真体贴呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美妙姿势",
+            "Text": "她说，有更多其他客人进店里，\n商品才会热卖。\n所以我们就提早买完出来啰。",
+            "ChoiceDataList": [
+                "这样啊……那你买到了什么？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──只有一个……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──剩下的──托付给……其他客人。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "说完，她回头望向杂货店。\n虽然她看起来有点落寞，\n但我尊重她的温柔，今天就此踏上归途。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──冲动购物……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "────也是。\n预定之外的──行动──是risky的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "可是……她为了那些滞销商品感到忧心。\n我无论如何都不想忽视她的这份心情。",
+            "ChoiceDataList": [
+                "那就负责在一旁加油吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "就算吉兆自己没法买，\n也可以在美妙姿势选购滞销商品时在一旁守候。\n当我这样说明后──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──也是……\n那──就让我在这里──守候吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美妙姿势",
+            "Text": "呵呵，那真是令人感到放心！\n我会买一堆滞销商品回来的，\n你等着我哦！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──嗯……拜托了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美妙姿势",
+            "Text": "哇……！人好多……！\n可是可是，我不会输的～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──撑下去，美妙──！\n收银台──就在眼前了──！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "行人们",
+            "Text": "──好像挺热闹的～\n──啊，有特卖会！去看看吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "路过的行人们注意到特卖会后，\n店家的生意也越来越好──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美妙姿势",
+            "Text": "我回来了！大丰收喔！\n我买到了好多滞销商品♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美妙姿势",
+            "Text": "而且……外面排了很多人喔！\n这样一来很快就会卖完了吧！",
+            "ChoiceDataList": [
+                "我们的加油没有白费呢",
+                "我们的加油没有白费呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──是啊…………太好了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──训练员……这都要感谢你。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "望着店里的特卖商品不断卖出，\n吉兆的脸上微微绽放温柔的笑意。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

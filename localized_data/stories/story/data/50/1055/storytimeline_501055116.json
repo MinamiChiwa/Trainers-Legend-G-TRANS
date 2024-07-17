@@ -1,0 +1,574 @@
+{
+    "Title": "照亮你的美丽",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这天，\n她和平时一样活力充沛，蹦蹦跳跳地走──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "不对，\n她用缓慢的步伐走进了训练员室。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "训练员！\n训练员，训练员。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "……训练员。",
+            "ChoiceDataList": [
+                "……？美丽，你怎么了？",
+                "……？美丽，你怎么了？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "听我说。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "……我的脚在痛。这次是左脚。",
+            "ChoiceDataList": [
+                "！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "之后的事我几乎想不起来了。\n大概是叫了出租车，\n和美丽周日一起前往医院。只记得心脏很痛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "等我回过神来时，\n医生已经在我面前──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "对我宣告美丽周日受伤了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "医生",
+            "Text": "只要好好休养几天，\n应该就能顺利恢复\n平时的训练强度了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "医生",
+            "Text": "不过，是否能在十二月的“挑战杯”前痊愈……\n老实说这是在赌博。\n要看她本人的意念，还有接下来的安排。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "医生",
+            "Text": "当然我们也会尽可能给予协助。\n……希望你们别太过泄气。",
+            "ChoiceDataList": [
+                "不好意思，非常感谢您……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "医生",
+            "Text": "……希望美丽周日小姐\n先直接住院检查。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "好的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我办完入院手续并整理好行李，\n将美丽周日留在病房，\n独自踏上归途。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "后悔缠住了我，让我的脚步非常沉重。\n要是我早点发现就好了。\n要是我更细心注意她的状况就好了。",
+            "ChoiceDataList": [
+                "（不……这些全都太迟了……）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "不能一直陷在后悔里。\n必须重新安排接下来的计划。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "虽然心里这么想，但实在没办法\n集中精神工作，就这样过了一夜──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "隔天。一到探望时间，\n我便立刻申请进入病房探病，\n我来到美丽周日的病房──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "……………………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "……………………\n……………………",
+            "ChoiceDataList": [
+                "美……美丽……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "……………………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "……………………？\n……啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "是训练员啊。训练员……\n训练员，训练员……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "──自己一个人，感觉很糟呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "只有我一个人在黑暗中，感觉很糟糕呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "因为感受不到惊喜──感受不到喜悦──\n也没有奇迹──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "美丽……会消失的。",
+            "ChoiceDataList": [
+                "……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……我曾莫名乐观地认为，\n即便情况如此，她也依然会保持笑容。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我以为无论因为身体状况不佳而烦恼多少遍，\n无论放弃原本的目标多少遍，\n她都能够依旧对我露出笑容。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "可是我错了。\n她只是努力以美丽的角度看待世界，\n即使碰上辛苦也努力用积极心态去面对──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "但她并非不会感到辛苦与痛楚。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（啪！！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "──嗯？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我带着惩罚自己和下定决心的心情，\n用双手用力拍打自己的脸颊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "接着对被我的行动吓到的\n美丽周日道歉，并告诉她。",
+            "ChoiceDataList": [
+                "你可以等我一下吗？",
+                "你可以等我一下吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "？？\n……等待就好吗？在这里等？",
+            "ChoiceDataList": [
+                "对",
+                "嗯"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "以前都是她在给予。\n无论对象是谁，她总是非常努力付出。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "所以──这次轮到她来接受了。",
+            "ChoiceDataList": [
+                "（我要把“美丽”传递给她！）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "……好了吗？还没好啊。\n训练员，还没好吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "还没好吗──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "（啊啊，不行，自己一个人。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "（和小时候一样。\n白色的床，白色的天花板，药的气味。\n自己孤零零一个人。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "（又暗──又冷──）",
+            "ChoiceDataList": [
+                "美丽，让你久等了！！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "哇！\n……训练员看起来好累，你还好吧？",
+            "ChoiceDataList": [
+                "我没事！你快看这个"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "这个？……手机？\n啊──是影片？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "咦，这个是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁性格强势的同期",
+            "Text": "──啊，已经开始录了吗？\n呃……那个，你好啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁性格内向的同期",
+            "Text": "不知道你还记得我们吗？\n……不对，我觉得你应该会记得。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁性格强势的同期",
+            "Text": "啊哈，我懂……那个，留消息什么的，\n不是我的风格啦。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁性格强势的同期",
+            "Text": "我要直接跑给你看，看好了喔。\n──开始啰！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "成田白仁的同期们",
+            "Text": "喝啊啊啊啊啊！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "（是之前聊过的白仁的同期们！\n好厉害……速度变快了……变强了。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "（她们没有放弃。\n她们现在也还在继续追逐梦想──！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日的粉丝们",
+            "Text": "真──是──美──丽☆★",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "活动工作人员",
+            "Text": "美丽小姐！\n您的粉丝们教了我许多，\n也给我看了您比赛的影片──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "活动工作人员",
+            "Text": "我现在已经彻底成为您的粉丝了。\n然后，我想起来了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "活动工作人员",
+            "Text": "我开始做这份工作的理由，就是为了\n打造一个让所有人露出笑容的地方！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "活动工作人员",
+            "Text": "所以现在──我负责企划美丽小姐的\n粉丝活动，还有更大型的活动！\n等您康复之后，请让我和您讨论！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曾住院的少年",
+            "Text": "唔，有点难为情啊……咳咳。\n那个……大姐姐，你过得好吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曾住院的少年",
+            "Text": "啊，不对，你都受伤了嘛……\n那个，你一定很难受吧。\n……可是！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曾住院的少年",
+            "Text": "我已经痊愈了喔。而且非常非常努力复健！\n现在我已经可以跑了喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曾住院的少年",
+            "Text": "……让曾经那么消极的我再次跑起来的，\n就是大姐姐你喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "曾住院的少年",
+            "Text": "我保证，你的脚一定会像我一样\n很快就好起来！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "………………\n大家──",
+            "ChoiceDataList": [
+                "……等一下，还有一段"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "还有？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "……啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "（是训练员。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "（是我和训练员经常待的训练员室。\n训练员低着头似乎在害羞，\n但很快就把头抬起来了。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "（在镜头前努力地对我说话。\n虽然这一路上有许多困境要克服，\n也发生过许多不如意的事──）",
+            "ChoiceDataList": [
+                "但是你一直很尽力完成你能做的每一件事喔",
+                "但是你一直很尽力完成你能做的每一件事喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "（训练员说我已经尽力做好了。\n顺利让美丽推广出去了。\n……所以不用担心。）",
+            "ChoiceDataList": [
+                "所以不会有问题的。你接下来也一定做得到。"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "（训练员说要将美丽推广给更多人。\n说我没问题……要和我一起努力。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "真美丽。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "……太美丽了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "呜呜呜呜呜～～～～☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "真──是──美──丽☆★",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "训练员！！\n太棒了☆真的好棒★好棒好棒☆★",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "真的好厉害☆★☆\n其实我现在──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "比起受伤之前！\n现在我感受到了更多美丽！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "虽然受了伤！\n但受伤的我却觉得现在更幸福！\n心中满是喜悦和奇迹！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "所以，你说得没错。\n果然是这样！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "这次受伤也一样是种美丽。",
+            "ChoiceDataList": [
+                "是啊。一定是这样",
+                "是啊。一定是这样喔"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "嗯☆★☆★☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "──训练员。\n那个影片一定要传给我喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "我要把它当作宝物重复看好几遍。\n在孤单一人的时候，不断重复看！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "美丽周日的表情\n顺利恢复光彩。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "虽然“挑战杯”近在眼前。\n但心中已经没有不安。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

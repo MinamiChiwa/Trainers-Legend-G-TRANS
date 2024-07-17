@@ -1,0 +1,375 @@
+{
+    "Title": "Synchronization",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "今晚我与吉兆一同参加某场宴会。\n而这场配合夏季集训举办的宴会是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "接待人员",
+            "Text": "欢迎莅临“竞赛振兴交流会”。\n两位是吉兆小姐与同伴吧？来，请上船。",
+            "ChoiceDataList": [
+                "可以针对训练交换意见，真是令人期待呢",
+                "可以针对训练交换意见，真是令人期待呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──是啊。\n必须──学到东西──越多越好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──会场中，活跃于赛马娘竞赛界，\n赫赫有名的大人物们齐聚一堂。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "像是获奖无数的知名训练员……还有被誉为\n必读竞赛理论书的作者照片上看过的人……诸如此类。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "Excuse me.\n──右边的杯子，给我两个。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "服务生",
+            "Text": "好的。\n……请。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──训练员……这给你。",
+            "ChoiceDataList": [
+                "谢谢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "吉兆带头引领着我。\n或许是因为她很习惯这种场合──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "派对主办者",
+            "Text": "那么──干杯！\n接下来就请各位尽情欢谈吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "竞赛相关人员",
+            "Text": "──你是吉兆小姐对吧？久仰大名。\n前几天的比赛也很精彩呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "Thank you.\n──深感荣幸。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "竞赛相关人员",
+            "Text": "……呵呵，你感觉挺沉稳的呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "竞赛研究者",
+            "Text": "我正在做关于赛马娘锻炼身体的研究，\n请务必让我参考像你这样一流跑者的想法！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "Sure.\n……没问题。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "来宾们一个接一个向吉兆攀谈。\n在她应对众人时，我选择在一旁静静守候。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──宾客们络绎不绝的盛况终于停歇。\n不断开口应对，想必她也有些口渴了吧。",
+            "ChoiceDataList": [
+                "稍微休息一下吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "已经……这么晚了啊。\n──那么，把手给我。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "吉兆拉着我的手，把我带到咖啡休憩区。\n或许是因为来宾大多都在甲板上，这里几乎没有什么人。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──这里……可以坐着。",
+            "ChoiceDataList": [
+                "谢谢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "从船上眺望的夏日夜空，是如此无边无际、璀璨耀眼。\n那些光辉就仿佛是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "？\n…………你在──笑什么？",
+            "ChoiceDataList": [
+                "你在宴会上似乎很乐在其中，真是太好了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "────乐在、其中……？",
+            "ChoiceDataList": [
+                "你的眼睛就如同这些星星一样，闪闪发光哦"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──今天的，宴会……是很重要的场合。\n为了完成我的义务──这是必要的。",
+            "ChoiceDataList": [
+                "但，不只是这样吧？",
+                "但，不只是这样吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "经过相处后我了解到，她并不是只为了义务跟责任而行动……\n她依循着自己的逻辑来行事，并且乐在其中。那时候也是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "“有找到这孩子的义务真是太好了呢。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "“有找到这孩子的义务真是太好了呢。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "……太好了──\n我也……有同感……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "当她找到滞销商品的用途──“义务”时，似乎相当高兴。\n她的情感，都表露在这种些微的态度变化之中。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "尤其像今天，她始终情绪高昂。\n主动地来到现场，并热衷地倾听来宾的话语──",
+            "ChoiceDataList": [
+                "所以我才感觉你今天应该很尽兴吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "…………\n……………………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──专家的见解……让我受益良多。\n最新颖的知识──也很实用。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "一想到，今后──要如何，活用──\n这些新知……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "就会，开始想──接下来要问些什么──",
+            "ChoiceDataList": [
+                "是啊。很令人兴奋对吧？",
+                "嗯。很令人兴奋对吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "………………兴奋。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "……………………\n这样啊……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "我…………其实，很激昂吗──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "你……真厉害呢。",
+            "ChoiceDataList": [
+                "嗯？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "你能理解……我的──情绪。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "没有──说出口的，情感。\n……连我自己──都不明白的──情感。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "以及这股──激昂……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "拼命思考着要如何表达的吉兆，\n忽然望向我。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "我很──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "…………不。\n──就连，这份感情……你也会，明白吧……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她露出心满意足的微笑。\n而那笔直望向我的双瞳──依旧如星辰般璀璨。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "But……\n…………为什么…………你为什么明白……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "吉兆对此感到不可思议，并露出疑惑的神情。\n看见她带有孩子气的表情，我忍不住说道──",
+            "ChoiceDataList": [
+                "其实，我能用魔法读心哦"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "────呵。\n……还──真是厉害呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她的嘴角微微上扬。\n……看来她清楚我刚才是在开玩笑。",
+            "ChoiceDataList": [
+                "只要仔细观察，就会明白的",
+                "只要仔细观察，就会明白的"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "不必透过话语我也能理解。\n她的想法、心愿，以及为何雀跃──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "因为我已向自己发誓──\n我会一直是她身边最理解她的存在。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "────这样啊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "嗯。那还──真是不错──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

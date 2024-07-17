@@ -1,0 +1,555 @@
+{
+    "Title": "抽奖试手气！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我和美丽周日出门购物的回程路上。\n她突然拔腿往其他地方跑去。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "我从那个方向感觉到美丽！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "看过来看过来，现正举办新春大抽奖～！\n特等奖可是“温泉旅游券”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "温泉旅游券"
+            ]
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "一等奖是“上等胡萝卜肉排汉堡”，\n二等奖是“一筐胡萝卜”，\n三等奖则是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "来喔来喔，好玩的抽奖活动！\n欢迎大家来抽喔～！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "哇～～！他说有抽奖耶！\n太美丽了☆★能转动梦想喔，转～呀转☆",
+            "ChoiceDataList": [
+                "要试试看吗？",
+                "要试试看吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "嗯！我要我要！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我从口袋里拿出\n刚才买东西时得到的抽奖券。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "……一张？我来抽的话，\n训练员就没得抽了？",
+            "ChoiceDataList": [
+                "没关系，我的抽奖运很差",
+                "没关系，我的抽奖运很差"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "一开始就放弃的话，\n就没办法发现美丽了喔☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "美丽是会被吸引过来的☆\n所以得到的结果总是很美丽★☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "只要把抽奖前的期待当作一种美丽★\n不管抽奖结果如何，都会非──常美丽！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "担心的话就和我一起抽吧，训练员！",
+            "ChoiceDataList": [
+                "……那就抽抽看吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "美丽☆美丽★欢迎你的到来，\n美──丽──无──比──☆★☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我与美丽周日一起奋力转动了抽奖机的把手！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "结果──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "天啊！恭喜────！！\n抽到特等奖“温泉旅游券”了～～～～！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "喔喔喔喔喔喔～～！",
+            "ChoiceDataList": [
+                "真……真是美──丽！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "因为特等奖令我太过惊讶，\n我不自觉抢在她之前先喊出了美丽……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "是温泉旅行耶，训练员！\n我们什么时候去？",
+            "ChoiceDataList": [
+                "太心急了吧！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "会吗？美丽可是不等人的☆\n打铁要趁热才美丽喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "是哪里的温泉？\n让我看看……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "…………太美丽了。",
+            "ChoiceDataList": [
+                "怎么了？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "啊哈哈哈！原来是这样！\n这就是所谓的“缘分”吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "绕了一圈又和美丽连结在一起了！\n能否变成最棒的光辉，就看我的表现了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "训练员，看来温泉不能现在去。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "就算现在去，等着我们的也只有\n被土石包覆的宝石。它是无庸置疑的宝石，\n却是没有耀眼光泽的原石。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "等做好将它打磨成一颗美丽宝石的准备后，\n我们要一起去喔☆",
+            "ChoiceDataList": [
+                "……我知道了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "虽然听不懂美丽周日说的这番话。\n不过她似乎抱着某种\n相当坚定的意图。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "旅游券就由训练员保管，\n我来保管的话很可能会弄不见。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "──等到时机到来的那一天，\n我一定会邀请你的！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "她没有告诉我距离那一天还有多远。\n不过我认为使用旅游券的机会──\n一定不久后就会到来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "恭喜抽到一等奖～！\n奖品是“上等胡萝卜肉排汉堡”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "好耶好耶～～！\n是胡萝卜汉堡排☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "立在上面的胡萝卜非常美丽☆\n光看着直立的胡萝卜就忍不住期待了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "大家最喜欢的！也是我最喜欢的！\n胡萝卜汉堡排的味道最美丽了☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "从蓬松柔软的汉堡排流出香喷喷的肉汁～～☆\n和多蜜酱混在一起包覆着肉★",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "蹦蹦跳跳，跳到白饭上☆\n吃一口肉，再吃一口多蜜酱肉汁饭★☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "再啃一口胡萝卜☆\n美味×美味！大饱口福真美丽★☆",
+            "ChoiceDataList": [
+                "……连我都想吃了！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "美丽周日对汉堡排的美丽宣传超乎想像。\n害得我现在满脑子都想吃汉堡排了……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "训练员，回去之后一起吃吧！\n胡萝卜汉堡排☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是我和美丽周日快步回学园，\n一起品尝了味道极致美丽的\n胡萝卜汉堡排。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "二等奖～！！\n奖品是“一筐胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "哦哦～有好多胡萝卜！",
+            "ChoiceDataList": [
+                "看来够分给大家吃呢",
+                "看来够分给大家吃呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "！　训练员，真是美丽的点子☆\n我要和宿舍的大家一起吃！",
+            "ChoiceDataList": [
+                "我想大家一定会很高兴"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "嗯！谢谢！\n待会我也会带一些给训练员喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "哎呀～！居然有这么多胡萝卜，\n我真的可以拿吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "嗯，因为我想和大家一起吃！\n所以希望小溪能让胡萝卜\n来个美丽的变身☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "超级溪流",
+            "Text": "呵呵，包在我身上。就做成炒胡萝卜、卤胡萝卜，\n还有杂炊饭和乌贼镶胡萝卜吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "我觉得做成咖喱和炖菜也不错！\n还有绝对少不了的胡萝卜汉堡排！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "铃鹿你想吃什么呢？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "铃鹿"
+            ]
+        },
+        {
+            "Name": "无声铃鹿",
+            "Text": "我吗？我想想……甜点之类的？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "特别周",
+            "Text": "那就是胡萝卜蛋糕和胡萝卜饼干，\n还有胡萝卜奶冻……（流口水）。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "好棒好棒！多亏大家的帮忙，\n做出了好多美丽的料理～☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "确实很美丽呢！\n但首先──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "青竹回忆",
+            "Text": "要为这家伙干杯！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "所有人",
+            "Text": "为美丽干杯～☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "后来美丽周日\n也分送了一份美丽到我这里。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "三等奖～！\n奖品是“一根胡萝卜”！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "哦～～！是一根漂亮的胡萝卜呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "极其鲜艳的橘色！表皮滑溜溜，\n蒂头小小的漂亮孩子☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "非常、非常新鲜的胡萝卜！\n真──美丽☆★☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "训练员，一起吃吧！",
+            "ChoiceDataList": [
+                "现在就直接吃吗！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "因为难得它这么新鲜嘛！\n放一段时间美丽减少的话\n就太可惜了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "果蔬店的老板",
+            "Text": "说得没错！哎呀，你很懂嘛！\n蔬菜就是要趁新鲜吃才好吃！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "对呀☆新鲜的胡萝卜，\n能够品尝到食材本身的美丽滋味☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "果蔬店的老板",
+            "Text": "是啊！来，我帮你切对半。\n你们两人一起品尝新鲜的胡萝卜吧。\n绝对非常美丽喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "哇～！\n果蔬店的大叔，谢谢你！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "我要享用美丽了～～☆★☆",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "于是我们品尝了新鲜的胡萝卜──\n美丽的声音在商店街里回荡了一段时间。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "商店街人员",
+            "Text": "很可惜，没抽中！\n参加奖是“卫生纸”喔～",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "获得了“<itemname>”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "<itemname>"
+            ]
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "是卫生纸～☆★☆",
+            "ChoiceDataList": [
+                "抱歉……都怪我也一起抽了",
+                "抱歉……都怪我也一起抽了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "为什么道歉？这非常美丽哦☆\n方便的卫生纸，\n不管拿到多少都很开心嘛★",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "而且……哈啾！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "哈啾！哈啾！哈啾！",
+            "ChoiceDataList": [
+                "你没事吧！？这个给你用！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "欸嘿嘿，卫生纸派上用场了呢。",
+            "ChoiceDataList": [
+                "不过，已经用完了……抱歉"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "美丽周日",
+            "Text": "………………\n……训练员，你不用道歉。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "──结果有点苦涩……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

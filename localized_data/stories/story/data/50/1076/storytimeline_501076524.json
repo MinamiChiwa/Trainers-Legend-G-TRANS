@@ -1,0 +1,64 @@
+{
+    "Title": "袭来的痛楚",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "早上，当我在训练员室工作时，\n接到樱花桂冠打来的电话。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "“……训练员，对不起。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "其实前几天比赛后，\n我的脚迟迟还没恢复状态……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "我想尽快找你商量比较好，所以打了这通电话。\n……抱歉一早就打扰你。",
+            "ChoiceDataList": [
+                "“我知道了，谢谢你告诉我”"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "……不过！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "“就算脚痛也并非什么都不能做！\n我的手跟脑都能正常运作。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "“……一点点也无妨，我想尽量增进实力。”",
+            "ChoiceDataList": [
+                "……好，我会照你的需求安排训练项目",
+                "……嗯，我会照你的需求安排训练项目"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "看来比赛令樱花桂冠的身体疲惫不堪了。\n……我安排计划时得好好顾虑她的身体状况。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

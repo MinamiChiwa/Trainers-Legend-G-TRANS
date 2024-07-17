@@ -1,0 +1,256 @@
+{
+    "Title": "Onslaught",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我与吉兆一同外出后，\n在回程的路上……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──到这里就好。\n我接下来要去──mall──购物中心。",
+            "ChoiceDataList": [
+                "要去采购的话，我陪你吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "…………我一个人就好。\n会给你──添麻烦。",
+            "ChoiceDataList": [
+                "你想得太严重了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "只是去采购东西，\n应该不会有什么麻烦，\n所以我决定跟她一起去……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "吉兆在甜点店订购了饼干，\n但是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "百货地下商店街店员",
+            "Text": "……呃，大概是这样。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "Much bigger──更大。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "百货地下商店街店员",
+            "Text": "那么……是这样吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "可能是在配合比手势的吉兆，\n店员也开始比手划脚地说明起来了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "────大概这样。",
+            "ChoiceDataList": [
+                "从刚才开始是怎么了？",
+                "从刚才开始是怎么了？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──我订购了饼干……\n可是搞错了──单位。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "我说的是──盎司，\n──他以为是180克，太小了。",
+            "ChoiceDataList": [
+                "原来是这样啊",
+                "原来是这样呀"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "她搞错了要告诉店员的重量单位，\n于是我拜托店员等她计算好。\n然后──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "────五公斤！\n──我想预约五公斤份的饼干。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "百货地下商店街店员",
+            "Text": "好的，五公斤是吗？我明白了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "服饰店店员",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "──在服饰店，\n吉兆将衬衫一件接着一件摊开又折起、\n摊开又折起，不断重复这个动作。",
+            "ChoiceDataList": [
+                "这次又怎么了？",
+                "这次又怎么了？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──这衬衫的领围──\n不可能是──三厘米。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──这是……日本的尺寸吗？\n还是────",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "仔细一看，\n她看的好像是衬衫的尺码。\n难不成日本跟美国的尺寸标示不同吗……",
+            "ChoiceDataList": [
+                "总之先试穿看看吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──原来还有这个方法。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "我想说──我又把单位搞错了。\n──是我想太多了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──原来只要穿上确认一下就好……\n我去试穿了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──果然……给你添麻烦了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "我……对日本──还不熟悉。\n──有很多──不了解的事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "要是一开始──就清楚地──\n跟你说明这件事──就好了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "────真的很抱歉。",
+            "ChoiceDataList": [
+                "下次如果有烦恼就直接告诉我吧",
+                "美国的单位很难懂呢",
+                "美国的单位很难懂呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "────真的很抱歉。",
+            "ChoiceDataList": [
+                "下次如果有烦恼就直接告诉我吧",
+                "美国的单位很难懂呢",
+                "美国的单位很难懂呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──不行。我不能再给你添麻烦了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──但我很感谢──你的体贴。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "她还是一样一丝不苟……\n也正因为这样，让我更担心了……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "对我来说──米跟克──比较难懂。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "────国家不同，单位也不同。\n──真要说的话──会没完没了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──只能习惯了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "她说得没错。\n但是她的个性如此一丝不苟，\n让我有点担心她会为了习惯环境而勉强自己──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

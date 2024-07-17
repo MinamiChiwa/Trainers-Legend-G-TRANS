@@ -1,0 +1,457 @@
+{
+    "Title": "樱花桂冠登场！",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "（──早上睁开眼睛。凝望天空。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "（然后试着想像与这片天空相连的另一端的天空。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "（──我梦想之地上方的天空。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "说是这么说，\n但现在那边应该是晚上吧……呵呵♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "顺带一提，我眼前的空中──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "──正飘舞着樱花花瓣。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "春天真的到了。\n最适合迎接崭新景色的天空……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "今天起我将与签约赛马娘──樱花桂冠，\n一同展开挑战闪耀系列赛的时光。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "樱花桂冠",
+                "闪耀系列赛"
+            ]
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "久等了。\n我都准备万全啰！",
+            "ChoiceDataList": [
+                "没忘了东西吧？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "当然没有。\n好了，我们走吧♪",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "开始训练的第一天，\n我们的第一个目的地是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──医院。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "医生",
+            "Text": "接着开始说明检查结果。\n准备好了吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "好的。\n麻烦也请向训练员说明我的身体状况。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "医生",
+            "Text": "……我知道了。先告知一个前提，\n赛马娘的身体会经历各种独特的成长阶段，\n像“巅峰期”就是最好的例子。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "巅峰期为赛马娘特有的成长期，\n此期间内，赛跑能力将出现大幅成长。",
+            "ChoiceDataList": [
+                "桂冠应该也开始迈入巅峰期了吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "医生",
+            "Text": "是的。经过问诊，\n的确能看出她已经开始出现巅峰期征兆。然而──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "──“各器官发育程度皆晚于其他赛马娘，\n尤其是脚最为明显。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "我没说错吧？医生，我的脚还很脆弱。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "医生",
+            "Text": "……是的。请将她的双腿视作\n随时都有可能受伤的“玻璃细脚”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "玻璃细脚"
+            ]
+        },
+        {
+            "Name": "医生",
+            "Text": "依桂冠的情况而言，\n就连一般选手能够轻松承受的练习量跟负荷\n也有导致她受重伤的风险。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "桂冠"
+            ]
+        },
+        {
+            "Name": "医生",
+            "Text": "……请务必经过万全的考虑后再安排她出道。",
+            "ChoiceDataList": [
+                "……好的"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "……被医生正式警告了呢。",
+            "ChoiceDataList": [
+                "是啊……",
+                "是啊……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "即使医生的说明都是些早就知道的内容，\n但这番警告听在樱花桂冠耳里一定还是相当难受。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "说穿了，这等于宣告她的身体跟其他选手相比，\n脆弱得就连想为了取胜而训练都做不到。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（哒哒哒哒哒哒哒哒！！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "啊……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "是白仁跟小菱……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "白仁",
+                "小菱"
+            ]
+        },
+        {
+            "Name": "独白",
+            "Text": "赛道上是跟樱花桂冠同为今年出道的两位赛马娘，\n成田白仁与菱亚马逊。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "成田白仁",
+                "菱亚马逊"
+            ]
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "她们的跑法都很惊人喔。\n气势强得令人无法移开视线……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "尤其是白仁，总令我看得着迷！\n她居然能以重心极低的姿势一口气加速……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "我也好想跑得像她一样，\n或者该说我也想顺从内心本能尽情奔跑──！",
+            "ChoiceDataList": [
+                "（顺从内心本能尽情奔跑啊……）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "对目前的樱花桂冠来说，\n那正是最该避免的跑法。\n要是毫不克制地尽情出力，她的脚就会……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "……训练员。\n不可以露出悲伤的表情喔。",
+            "ChoiceDataList": [
+                "……！　抱歉！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "呵呵。也别再道歉了。\n现在重要的是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "对了！\n我想先去跑一圈！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "接着樱花桂冠便开始奔跑。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "樱花桂冠以自己的步调跑着……\n表现得跟成田白仁她们截然不同。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "呼～我想，\n以第一次训练来说，跑出这速度已经算不错了吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "好了，训练员！\n请仔～细回想医生说的话。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "即便我身体虚弱，\n但医生并没有说“禁止出道”。",
+            "ChoiceDataList": [
+                "……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "既没禁止我进行训练！\n更没禁止我参加比赛！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "虽然脚的条件不佳，但我仍有资格出道！\n我还有未来！我有权利继续做梦！\n这些──都是无庸置疑的现实！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "所以，训练员，请跟我一起──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "（滴答──滴答──\n滴答──滴答……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "……下雨了？",
+            "ChoiceDataList": [
+                "快躲到屋檐下，别着凉了！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "是！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "呵呵，\n多亏你的提醒我才没淋得太湿。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "毕竟看这雨势感觉很快就会下大了。\n你看，现在天色……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "……咦？",
+            "ChoiceDataList": [
+                "雨早就停了……？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "……真的耶。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "……………………呵。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "呵、呵呵呵！\n真没想到雨这么快就停了。\n啊哈哈！",
+            "ChoiceDataList": [
+                "抱歉！我不该那样催你的"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "别在意，刚刚我也跟你一样惊慌啊。\n呵呵，比起这件事！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "训练员，快过来。\n你看窗外！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "──空中挂着彩虹。",
+            "ChoiceDataList": [
+                "……真的耶"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "“Après la pluie,\nle beau temps!”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "这是法国的一句谚语。\n意思是“雨后必定天晴”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "……训练员。\n我们未来的路上并非每天都是晴空。\n想必时而会受到阵雨袭击吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "可是正因为下过雨才能看到彩虹！\n我们才能一起看见这么美的景色！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "所以请你相信，\n总有一天我们一定能抵达那道彩虹的尽头，\n那里汇集了全世界的梦想……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "我们一定有资格以前进“凯旋门赏”为目标！\n有资格心怀世界顶尖的梦想！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "凯旋门赏"
+            ]
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "……不只这样，训练员。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "其实我也还没放弃“日本德比”跟三冠喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "日本德比",
+                "三冠"
+            ]
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "“皋月赏”、“日本德比”、“菊花赏”──\n既然都要出道了，\n那当然会想挑战经典三冠。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "皋月赏",
+                "菊花赏"
+            ]
+        },
+        {
+            "Name": "樱花桂冠",
+            "Text": "你愿意跟我一步步实现每个梦想……\n陪我一起成长吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "就这样，我跟即使身陷苦境\n仍积极乐观地梦想前进凯旋门赏的赛马娘──\n樱花桂冠一起展开了旅程。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

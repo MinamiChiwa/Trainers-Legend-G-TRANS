@@ -1,0 +1,293 @@
+{
+    "Title": "Question",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "吉兆来到特雷森学园后已有些时日。\n某一天──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "……呼……呼……呼，\n────喝……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "资深训练员A",
+            "Text": "只不过是练习，却有如此魄力……！\n加速也无可挑剔，她的资质果然非常出众！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "吉兆的表现，令顺势聚集的观众都为之沸腾。\n其魄力与能力着实惊人，但是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──",
+            "ChoiceDataList": [
+                "（她的眼神，非常坚定……）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我无法不被那笔直锐利的视线吸引。\n至于那眼光凝视的是什么，我心里有个头绪。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "我一定会──达成──使命。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "一阵强风猛然吹过。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "通过观众席前方，那转眼间就逐渐缩小的背影。\n她所要达成的“使命”究竟是──",
+            "ChoiceDataList": [
+                "（……我想知道）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "资深训练员A",
+            "Text": "吉兆！你跑得真出色，让人深深感受到你的资质。\n尤其是跑直线时强而有力的加速！请务必与我缔结契约──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中坚训练员A",
+            "Text": "不要偷跑好吗？！前辈！\n吉兆，希望你也能听一下我的说明……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……或许是因为吉兆沉默不语，\n使得围绕在她身边的人越来越多。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "资深训练员A",
+            "Text": "不然这样好了？大家决定顺序，\n每个人轮流当一天吉兆的临时训练员。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中坚训练员A",
+            "Text": "原来如此。等她跟每个有意愿者都搭档过后，\n再请她来选出最契合的人……这样可以吗？吉兆？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "忽然，我与吉兆四目相交。\n她的眼神看起来似乎有些困扰──",
+            "ChoiceDataList": [
+                "请、请等一下……！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我不由自主地挤到了前辈们面前。\n应该要再听听吉兆本身的想法吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "No problem.\n──没有问题。",
+            "ChoiceDataList": [
+                "咦……！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "资深训练员A",
+            "Text": "……她都这么说了，就这么决定吧。\n那么关于具体日程──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "结果，为了选出由谁来担任吉兆的签约训练员，\n于是大家决定举办“训练员选拔”。",
+            "ChoiceDataList": [
+                "（尽可能地去参加观摩吧……！）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "毕竟鲁道夫象征曾说希望我能多关照她，\n而且观摩前辈们的指导应该也能学到很多！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "资深训练员A",
+            "Text": "就前几天的表现与数据来看，你的资质似乎适合草地中距离。\n也就是说，我认为你能以经典三冠路线为目标喔。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "资深训练员A",
+            "Text": "所以，我想看看你跑草地2400米──跑德比时的状态。\n然后再以此为基础来思考进攻方式与配速吧！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "……",
+            "ChoiceDataList": [
+                "（……咦？）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "吉兆若无其事地完成了安排好的训练项目……\n看起来是这样没错。但是──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "资深训练员A",
+            "Text": "奇怪……？我原本以为在最后的直线，\n她可以加速得更加猛烈……",
+            "ChoiceDataList": [
+                "（她没有拿出实力……？）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "隔天，她与第二个训练员候补进行训练时也一样──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中坚训练员A",
+            "Text": "依你的体格，以及之前奔跑时所展现的力量！\n我觉得你很适合在出道前就先接受严格锻炼。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中坚训练员A",
+            "Text": "所以你认为从一开始就把坡道训练也纳入训练项目怎么样？\n如果是你的话，肯定能在出道前拉开跟其他人的差距！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "……Sorry.\n这件事，我还──做不到。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中坚训练员A",
+            "Text": "咦，你不喜欢坡道吗？嗯……我觉得一定会顺利的说……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "到了第三天、第四天也一样──\n吉兆看起来，似乎没有跟上训练员的指导。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中坚训练员A",
+            "Text": "……就像这样子，她还会擅自更改训练项目耶。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "中坚训练员A",
+            "Text": "就算问她原因，也只会回答“为了使命”……\n感觉她是那种有些难捉摸的类型呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "资深训练员A",
+            "Text": "同感……原本认为她的加速力很出色，\n结果却不如预期。真不知道该怎么做啊……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我开始担心起吉兆──\n便下定决心直接去找她，听听看她的想法。",
+            "ChoiceDataList": [
+                "那个，关于你训练的情况……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "总感觉她跟训练员有些处不来。莫非是训练方针有问题？\n我如此询问她之后──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "………\n──问题。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "训练员们──本身……没问题。\n──大家都有，替我着想──非常认真地。",
+            "ChoiceDataList": [
+                "那为什么──？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "……我有──想要优先的事。\n────我的……使命。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆的师父",
+            "Text": "──像你这样的赛马娘，必定会在日本竞赛界掀起革命。\n我也深信会有那一天的到来。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "吉兆",
+            "Text": "──为了──带动日本的竞赛界。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我立刻明白她并不是在敷衍我。\n──因为她的眼神是如此率直。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

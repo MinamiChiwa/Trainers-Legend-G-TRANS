@@ -1,0 +1,597 @@
+{
+    "Title": "最后一点天真",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "某天，我回到训练员室时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "旁白",
+            "Text": "“她曾经获得各式各样的评价，\n像是传说中的赛马娘，\n或是创造时代的赛马娘。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "旁白",
+            "Text": "“举例来说……史上第一位经典三冠赛马娘，\n曾被称为是照亮竞赛界的神圣光芒。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "旁白",
+            "Text": "“她超越了那位选手，拿下五场GⅠ胜利。\n这个对竞赛界带来深远影响的成就，\n让她被人们誉为‘神话’──”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "千明代表正在看电视。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "啊，训练员，欢迎回来。\n你来得正好呢。我们一起看吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "这好像是三冠赛马娘的谈话节目。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "旁白",
+            "Text": "“然后是鲁道夫象征，从她的实力和崇高的\n志向来看，她应该也会成为开创新时代的\n其中一人吧。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她的手指向正在播映谈话节目的电视，\n画面上的字幕写着\n“特别来宾，鲁道夫象征”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "旁白",
+            "Text": "“她或许会超越神话，\n成为竞赛世界中绝对的存在。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "……那么！因此，\n我们今天邀请了不败的三冠赛马娘，\n鲁道夫象征小姐来到节目现场！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "请各位多多指教。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "我们就立刻进入正题吧……\n成为光荣的三冠赛马娘后，\n我想你应该受到了比之前更多的关注！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "你现在是否会感到有压力呢……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "真要说的话，\n我将这些关注视为一个好机会。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "我不仅受邀来到这个摄影棚，\n而且接受采访的机会也增加了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "最重要的是，我很感谢能有这个机会，\n让我来对她们诉说我的想法。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "你说的“她们”是指……？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "鲁道夫象征自然地看向了镜头。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "“──电视前面的你。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "“迷失自己跑法的你。\n失去应该追逐的梦想的你。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "“已经厌倦跑步的你。\n因为察觉自身极限而打算远离赛场的你。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "可以请你们等到我登上顶点的那一刻吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "可以请你们等到我成为新神话的那一天吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "记者A",
+            "Text": "……！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "我会改变竞赛界给各位看。\n我会打造一个让赛马娘不用失落地离去的世界。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "鲁道夫象征",
+            "Text": "为了引导所有的赛马娘获得幸福，\n我要成为“皇帝”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "……鲁道夫。\n她真厉害。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "也有人认为她的志向是一种傲慢。\n因为她的梦想就是这么天方夜谭。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "但鲁道夫还是走到了这一步。\n她笔直前进，耿直地持续获胜。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "如果没有非比寻常的决心，是做不到的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "要是能跟拥有如此坚强意志的赛马娘对决……\n一定能会是不同凡响的体验。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──鲁道夫象征当天的发言，\n在所有媒体之间蔚为话题……\n在这样的某一天，出现了一位意外的访客。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "不好意思，\n突然跑来打扰。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "不过，有一件事让我感到非常在意。\n就是……千明小姐的事。",
+            "ChoiceDataList": [
+                "（千明的事……？）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "因为气氛不太寻常，\n我先请她进来训练员室，\n打算仔细听她说明。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "其实……我最近在采访的时候，\n经常听到一件事。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "就是……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众A",
+            "Text": "鲁道夫象征才是新的神话！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众B",
+            "Text": "我也觉得她会成为开创新时代的人物！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "她今年的表现确实特别亮眼，\n也留下了让人感受到王者风范的战绩呢！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众A",
+            "Text": "没错，去年是千明代表炒热了比赛的气氛……\n但现在不同了！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众B",
+            "Text": "千明也一样是非常厉害的赛马娘！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众B",
+            "Text": "但过了一年后，鲁道夫象征就出道了……\n真是有点可惜呢。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众A",
+            "Text": "她们的心态完全相反呢。\n虽然千明很厉害，\n但她并不是为了赢得胜利而参赛的。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "为了赢得胜利而参赛……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众A",
+            "Text": "能够名留青史，缔造传说的赛马娘，\n层级还要再更上一层楼……\n鲁道夫象征让我有这样的感觉。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "……原来如此。\n谢谢你们宝贵的意见。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "要在比赛中寻求什么样的梦想，\n这是观众的自由。我绝对不会加以批评。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "但是最近太常听到这样的意见，\n让我有点担心千明小姐会不会因此感到在意……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这么说来，她之前参加多项目竞技大赛时，\n也曾让周围的观众感到非常失望。\n……不过，她本人看起来并不在意。",
+            "ChoiceDataList": [
+                "她没有特别在意……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "这样啊……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "……那个，如果千明小姐之后有什么烦恼，\n可以请你告诉她吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "虽然那样的意见确实存在，\n但也有许多粉丝热爱着千明小姐的比赛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "乙名史记者",
+            "Text": "我这个记者都这么说了，\n绝对不会错的！",
+            "ChoiceDataList": [
+                "我知道了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "乙名史记者离开训练员室后，\n我开始思考这件事该怎么办才好。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "乙名史"
+            ]
+        },
+        {
+            "Name": "独白",
+            "Text": "我应该为了保险起见，而告诉她吗？\n虽然就算说了，她应该也不会在意，\n但到底该怎么开启这个话题──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "放心吧，训练员。\n我已经听到了。",
+            "ChoiceDataList": [
+                "！？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "因为我的听力很好。\n不过你放心吧，我一点都不在意。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "我只会为了自己而跑。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "……话虽如此，自从升上古马级后，\n她在比赛中追求的事物，\n和周围对她的期许就开始出现明显的落差。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "虽然千明代表是个自由奔放的人，\n但难保她能一直不去在意。",
+            "ChoiceDataList": [
+                "有许多能够采取的对策"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "光是明确表明她的心态，应该就能产生一些效果。\n我试着向她提议后──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "不用了。想怀抱什么样的梦想是个人自由。\n我没有权利阻止别人。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "而且，无论周围的人怎么说，\n我都绝对不会改变。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "因为如果我觉得不开心，\n比赛就没有意义了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "所以，我绝对不会让任何人夺走我的自由。\n放心吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "这段话……\n让我突然想起她过去所说的话。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "──不管发生什么事，都要随心所欲地奔跑。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "绝对不让任何人夺走我的自由。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "她在入学前就这么决定了。\n这表示她一直贯彻自己的信念，\n没有任何改变。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "回想起来……每当我因为粉丝对她抱持\n不同方向的期待，而感到担心时──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "千明代表总是会明确地回答\n“我只会自由地奔跑”。",
+            "ChoiceDataList": [
+                "对不起……你的确是这样的赛马娘没错",
+                "对不起……你的确是这样的赛马娘没错"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "为什么要道歉？",
+            "ChoiceDataList": [
+                "因为我太小看你了",
+                "因为我太小看你了"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "事到如今，已经不用替她担心了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "……帮我排除掉最后一点天真的人，\n就是你啊。",
+            "ChoiceDataList": [
+                "……咦？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "我们约好了吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "不论发生什么事，\n我都会一直是能让你看见梦想的千明代表。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "不论发生什么事，\n我都会一直是能让你看见梦想的千明代表。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "我答应你。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "那个约定……让我变强了很多。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "千明代表刚升上经典级时，\n确实曾和我立下那样的约定。",
+            "ChoiceDataList": [
+                "那个约定居然──"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "我没想到那个约定，\n居然包含了这么重要的意义。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "啊哈哈！\n我有说过那次是特别的吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "我讨厌约定。\n因为我不想被束缚。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "千明代表",
+            "Text": "……怎么，你现在才发现那个约定多重要吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "千明代表看着一脸惊讶的我，\n轻轻笑道。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "──她的视野或许的确没有鲁道夫象征那么开阔，\n可能也没有什么稳定感。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "不过，她无论何时都不会妥协，\n能够相信自己，随心所欲地跑完比赛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "正因为如此，才会令人感到激昂不已，\n让人想在她身上看见梦想。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "接下来的一段期间，\n鲁道夫象征或许会获得比她更多的肯定，不过──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "“对我来说，\n千明代表才是唯一能开创时代的赛马娘。”",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "抱持这种想法的粉丝，\n也绝对不在少数。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}

@@ -1,0 +1,415 @@
+{
+    "Title": "迎向樱花赏",
+    "TextBlockList": [
+        {
+            "Name": "",
+            "Text": "",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "“樱花赏”当天早上──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "凯斯奇迹",
+            "Text": "嗯……红宝？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "（啪嚓……）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "凯斯奇迹",
+            "Text": "呼啊……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "抱歉。\n我吵醒你了吗？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "凯斯奇迹",
+            "Text": "没关系，别介意。\n倒是你……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "……我想先去慢跑。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "凯斯奇迹",
+            "Text": "你今天不是要比赛吗？\n现在开始热身不嫌太早？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "我已经醒来了，\n所以去活动身体反而比较能平静。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "凯斯奇迹",
+            "Text": "这样啊……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "凯斯奇迹",
+            "Text": "红宝，你该不会──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "凯斯奇迹",
+            "Text": "……不，没什么。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "凯斯奇迹",
+            "Text": "我相信……你一定没问题的。\n我会为你加油。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "…………嗯。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "（……没错。我……\n我是“华丽一族”的──）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "阪神赛场挤满观众，\n经典赛的热闹程度可见一斑。\n其中──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "啊！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "善善、善善！\n我找到了，大小姐的训练员在这！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "善善"
+            ]
+        },
+        {
+            "Name": "目白善信",
+            "Text": "你好，训练员！",
+            "ChoiceDataList": [
+                "你好"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "目白善信是出身自名门目白家的赛马娘，\n跟第一红宝石属于同一世代。\n她今天大概是被大拓太阳神带着来看比赛。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": [
+                "目白善信"
+            ]
+        },
+        {
+            "Name": "目白善信",
+            "Text": "哎呀～气氛真是热闹！\n我一路上一直听到大家在讨论红宝喔。",
+            "ChoiceDataList": [
+                "果然啊……"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "一听到“华丽一族”的名号，\n连平时没看比赛的人都来了吧。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "欸欸，\n我到底能不能临时参赛啊！？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "大拓太阳神",
+            "Text": "我想跟大小姐比赛～～～！！\n我要去问问！！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "啊！\n太阳，等一下！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "那么训练员，我们失陪──",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众A",
+            "Text": "──“华丽一族”真的很厉害喔！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众A",
+            "Text": "第一红宝石的母亲当年就是在这场\n“樱花赏”上用惊人跑速领头得胜。\n她的女儿一定也很不得了。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众A",
+            "Text": "她是绝对不可能输的！\n第一红宝石一定能重现那场比赛的风采。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "……真热情～\n听起来应该是老粉丝吧？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众B",
+            "Text": "但要是她真的输了呢？\n虽然她的血统纯正，也很有实力。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "观众A",
+            "Text": "她本身一点问题都没有。\n要是输了……那就是训练员的责任。",
+            "ChoiceDataList": [
+                "！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "目白善信",
+            "Text": "呃……",
+            "ChoiceDataList": [
+                "没关系，他说的是事实。"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "她不仅天生资质优异，而且还非常努力。\n万一没能胜利，人们自然会觉得\n问题出在我的指导方式。",
+            "ChoiceDataList": [
+                "（背负这个责任也是训练员的工作）"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我重振精神回到休息室，\n第一红宝石一如往常，\n毫不动摇地静静等候上场。",
+            "ChoiceDataList": [
+                "今天也一样收到好多花呢",
+                "今天也一样收到好多花呢"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "现在不再像之前那样会有人不请自来，\n唯独花礼是再怎么宣导也抵挡不了，\n而且数量还越来越多，快要占满房间。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "此时我突然注意到，\n平时总是坚定凛然的她显得有些紧绷……\n似乎不是很有余裕。",
+            "ChoiceDataList": [
+                "……难道你在紧张？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "不，我没问题。",
+            "ChoiceDataList": [
+                "……真的吗？"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "今天这场比赛非常重要，\n它将考验我真正的价值，\n看我是否能延续家族的辉煌功绩。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "我早已预料到精神层面多少会有一些起伏，\n所以没有问题。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "在出道战前，\n我也像刚刚一样问过她是否紧张。\n当时她看起来真的很平静。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "然而……现在的她看起来，\n就像在不断说服自己真的“没问题”。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "……我该上场了。\n待会见──",
+            "ChoiceDataList": [
+                "你没问题的",
+                "你没问题的"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "……什么？",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "我也不知道这样是否能帮到她。不过……\n我想告诉她其他人对她的印象，\n来让她明白事实就是如此。",
+            "ChoiceDataList": [
+                "相信你体内的事物吧",
+                "相信你体内的事物吧"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "…………",
+            "ChoiceDataList": [
+                "你体内流着“华丽一族”的血",
+                "你体内流着“华丽一族”的血"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "！",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "独白",
+            "Text": "对她来说，这应该比任何言语\n更能产生自信……并且更值得深信。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "……",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "……我出发了。",
+            "ChoiceDataList": [
+                "……去吧！"
+            ],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "…………",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "",
+            "Text": "（哇啊啊啊啊啊……！）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "（此刻看着我的不仅只有在场观众……\n与“华丽一族”历史有所关联的\n所有人，也都紧盯着我看。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "……呼。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "（我一定能跑出优异表现。我有着……\n令我自豪的血统。）",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        },
+        {
+            "Name": "第一红宝石",
+            "Text": "……现在正是花朵绽放之时。",
+            "ChoiceDataList": [],
+            "ColorTextInfoList": []
+        }
+    ]
+}
