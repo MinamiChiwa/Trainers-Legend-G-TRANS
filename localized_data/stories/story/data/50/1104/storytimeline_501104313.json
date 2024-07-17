@@ -8,7 +8,7 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "播报员",
+            "Name": "实况",
             "Text": "进入600米的标志了！\n来了，是千明代表──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
@@ -38,7 +38,7 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "播报员",
+            "Name": "实况",
             "Text": "千明代表太强了！！只剩100米\n就能决定是否成为菊花赏赛马娘！！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
@@ -50,7 +50,7 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "播报员",
+            "Name": "实况",
             "Text": "千明代表领先抵达终点！！！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
@@ -508,10 +508,10 @@
         },
         {
             "Name": "独白",
-            "Text": "经典级的重要时期正式告一段落，\n为了迎接下一个资深级的大舞台“大阪杯”，\n时间开始前进了──",
+            "Text": "经典级的重要时期正式告一段落，\n为了迎接下一个古马级的大舞台“大阪杯”，\n时间开始前进了──",
             "ChoiceDataList": [],
             "ColorTextInfoList": [
-                "资深级"
+                "古马级"
             ]
         }
     ]

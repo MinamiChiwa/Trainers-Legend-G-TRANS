@@ -39,7 +39,7 @@
         },
         {
             "Name": "谷野美酒",
-            "Text": "──也就是说，从那天起，我便以在刹那间炫目的光辉为基底，\n一直磨练著自己的力量与速度。",
+            "Text": "──也就是说，从那天起，我便以在刹那间炫目的光辉为基底，\n一直磨练着自己的力量与速度。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -87,13 +87,13 @@
         },
         {
             "Name": "中坚训练员B",
-            "Text": "据说前阵子参加一哩赛谷野美酒也会上场。\n真亏她能在这么短的时间内调整过来。",
+            "Text": "据说前阵子参加英里赛谷野美酒也会上场。\n真亏她能在这么短的时间内调整过来。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
             "Name": "中坚训练员A",
-            "Text": "她在一哩赛的精彩表现确实令人惊叹……\n不过，这次的距离就很难说了。毕竟这距离需要优秀的持久力。",
+            "Text": "她在英里赛的精彩表现确实令人惊叹……\n不过，这次的距离就很难说了。毕竟这距离需要优秀的持久力。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -124,7 +124,7 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "播报员",
+            "Name": "实况",
             "Text": "比赛开始！\n谷野美酒位于队列中段。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
@@ -154,7 +154,7 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "播报员",
+            "Name": "实况",
             "Text": "谷野美酒绕到外面，从队列中段朝着好位置冲刺！\n她脱离第四弯道迈向直线赛道！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
@@ -172,7 +172,7 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "播报员",
+            "Name": "实况",
             "Text": "从外侧不断向前飞奔！吉兆──\n以及谷野美酒！剩下不到200米！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
@@ -190,13 +190,13 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "播报员",
+            "Name": "实况",
             "Text": "从外侧追上来的是谷野美酒！谷野美酒！\n谷野美酒冲出跑者群──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "播报员",
+            "Name": "实况",
             "Text": "抵达终点！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
@@ -251,8 +251,8 @@
             "Name": "独白",
             "Text": "听到呼喊声而回头的谷野美酒\n不知道为什么一脸得意地盯着我的脸。",
             "ChoiceDataList": [
-                "我还是想成为你的专任训练员──",
-                "我还是想成为你的专任训练员──"
+                "我还是想成为你的签约训练员──",
+                "我还是想成为你的签约训练员──"
             ],
             "ColorTextInfoList": []
         },
@@ -313,7 +313,7 @@
         },
         {
             "Name": "谷野美酒",
-            "Text": "既然如此，我当然要让等同心腹的专任训练员\n最沉醉其中才行……！",
+            "Text": "既然如此，我当然要让等同心腹的签约训练员\n最沉醉其中才行……！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },

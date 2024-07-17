@@ -9,7 +9,7 @@
         },
         {
             "Name": "樱花桂冠",
-            "Text": "来了！就是她！\n现在进入围场的选手\n以前也是我们胜利俱乐部的成员……！",
+            "Text": "来了！就是她！\n现在进入亮相圈的选手\n以前也是我们胜利俱乐部的成员……！",
             "ChoiceDataList": [],
             "ColorTextInfoList": [
                 "胜利俱乐部"
@@ -162,7 +162,7 @@
         },
         {
             "Name": "樱花千代王",
-            "Text": "她、她的意思是，\n我跟蓦进王在比赛方面算是桂冠的“前辈”！",
+            "Text": "她、她的意思是，\n我跟进王在比赛方面算是桂冠的“前辈”！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -519,13 +519,13 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "播报员",
+            "Name": "实况",
             "Text": "“Sakura Laurel ne parvientpas\nà rattraper les autres!\nElle ralentit!”",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
         {
-            "Name": "播报员",
+            "Name": "实况",
             "Text": "“Le peloton de tête lui,\nn'a pas changé……”",
             "ChoiceDataList": [
                 "（……咦？）"

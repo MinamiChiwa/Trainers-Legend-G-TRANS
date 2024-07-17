@@ -1,5 +1,5 @@
 {
-    "Title": "第一红宝石，华丽地观赏摔角比赛",
+    "Title": "第一红宝石，华丽地观赏摔跤比赛",
     "TextBlockList": [
         {
             "Name": "",
@@ -23,9 +23,9 @@
         },
         {
             "Name": "第一红宝石",
-            "Text": "不，应该不算顺路，\n我要去观赏摔角比赛──",
+            "Text": "不，应该不算顺路，\n我要去观赏摔跤比赛──",
             "ChoiceDataList": [
-                "摔、摔角！？"
+                "摔、摔跤！？"
             ],
             "ColorTextInfoList": []
         },
@@ -37,7 +37,7 @@
         },
         {
             "Name": "神鹰",
-            "Text": "咦？红宝前辈，你怎么会来这个会场？\n难道你也来看摔角……怎么可能嘛～！",
+            "Text": "咦？红宝前辈，你怎么会来这个会场？\n难道你也来看摔跤……怎么可能嘛～！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -58,7 +58,7 @@
         },
         {
             "Name": "神鹰",
-            "Text": "惊讶、惊吓、太惊人了……\n没想到红宝前辈会来看摔角……",
+            "Text": "惊讶、惊吓、太惊人了……\n没想到红宝前辈会来看摔跤……",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -116,7 +116,7 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "播报员",
+            "Name": "实况",
             "Text": "──神秘假面扳回局面了！\n他以惊涛骇浪般的气势连续出手反击！！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
@@ -130,7 +130,7 @@
             "ColorTextInfoList": []
         },
         {
-            "Name": "播报员",
+            "Name": "实况",
             "Text": "利用场边绳索让身体如弹簧般旋转──\n胜负已定──！！",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
@@ -196,7 +196,7 @@
             "Text": "好、好严厉的感想……",
             "ChoiceDataList": [
                 "我还以为你也深受感动呢……",
-                "你觉得摔角没意思吗？"
+                "你觉得摔跤没意思吗？"
             ],
             "ColorTextInfoList": []
         },
@@ -238,7 +238,7 @@
         },
         {
             "Name": "",
-            "Text": "就这样，这场摔角VS千金大小姐的\n跨领域混合赛，就在第一红宝石的\n正常发挥之下落幕了。",
+            "Text": "就这样，这场摔跤VS千金大小姐的\n跨领域混合赛，就在第一红宝石的\n正常发挥之下落幕了。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -256,7 +256,7 @@
         },
         {
             "Name": "神鹰",
-            "Text": "真不愧是摔角运动啊──！\n激烈的比赛让红宝前辈也热血起来──",
+            "Text": "真不愧是摔跤运动啊──！\n激烈的比赛让红宝前辈也热血起来──",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         },
@@ -274,7 +274,7 @@
         },
         {
             "Name": "",
-            "Text": "炽热的比赛也打动不了第一红宝石的心。\n经历这次摔角比赛，\n我再次感受她的内心有多平静。",
+            "Text": "炽热的比赛也打动不了第一红宝石的心。\n经历这次摔跤比赛，\n我再次感受她的内心有多平静。",
             "ChoiceDataList": [],
             "ColorTextInfoList": []
         }
