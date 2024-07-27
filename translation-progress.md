@@ -716,6 +716,7 @@
 | 05   | Grand Masters | Komoe | Komoe |
 | 06   | L'Arc    |       |       |
 | 07   | U.A.F.   | 完全翻译√ | Hacinsl |
+| 08   | 丰食祭   | 完全翻译√ | Hacinsl |
 
 ### 活动剧情
 
@@ -795,7 +796,7 @@
 | 0005 | Grand Masters | Komoe | Komoe |
 | 0006 | L'Arc    |       |       |
 | 0007 | U.A.F.   | 完全翻译√ | Hacinsl |
-| 0008 | 丰食祭   | 部分翻译 | Hacinsl |
+| 0008 | 丰食祭   | 完全翻译√ | Hacinsl、双枪狙击twoguns |
 
 ### 角色固定育成事件
 
