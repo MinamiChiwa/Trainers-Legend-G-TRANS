@@ -114,6 +114,7 @@
 | 1088 | 爆熱マイソウル                    | 完全翻译√ | Kitasanゞ卫ちゃ |
 | 1089 | U.M.A. NEW WORLD!!               | 完全翻译√ | Kitasanゞ卫ちゃ |
 | 1092 | ウマすぎ！グルメパレード           | 完全翻译√ | Kitasanゞ卫ちゃ |
+| 1093 | UMA Summer                       | 完全翻译√ | yingyingyingqwq |
 | 1126 | Ready!! Steady!! Derby!!         | 完全翻译√ | Kitasanゞ卫ちゃ |
 
 ## 角色及皮肤名
