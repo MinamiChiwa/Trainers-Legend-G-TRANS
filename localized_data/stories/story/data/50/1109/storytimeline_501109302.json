@@ -1,0 +1,663 @@
+{
+  "Title": "抽奖试手气！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "某天训练结束后，\n和莱茵力量逛商店街时——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "我们找到了哦，\n训练员！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人员",
+      "Text": "来来来，新春・幸运大抽奖举行中～！\n特等奖可是『温泉旅游券』哦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "温泉旅游券"
+      ]
+    },
+    {
+      "Name": "商店街人员",
+      "Text": "一等奖是『上等胡萝卜肉排汉堡』，\n二等奖是『一筐胡萝卜』，\n三等奖则是『一根胡萝卜』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人员",
+      "Text": "来来来，是很开心很开心的抽奖哦！\n任何人都可以来试试~！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "你看！\u3000刚才在店铺里得到的抽奖券，\n好像能在这里使用！",
+      "ChoiceDataList": [
+        "还好我们绕道了",
+        "还好我们绕道了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "欸嘿嘿，是啊。\n竟然有这么豪华的抽奖。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "还好因为想吃冰淇凌绕了路♪\n要是因此抽到温泉券的话会很棒呢!",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "好，\n要上了——！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "莱茵力量气势十足地转动了抽奖轮盘！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "结果是——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人员",
+      "Text": "不得了！\u3000恭喜二位！！\n抽出了特等奖『温泉旅游券』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "获得了『<itemname>』。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "哇哇哇~~~！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "训、训练员！\n冰淇凌，真的变成温泉了！",
+      "ChoiceDataList": [
+        "太棒了！",
+        "太棒了！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "哇、哇~……！\n这可真是，该怎么办呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "这个……要把它泡在冰淇凌里吗？",
+      "ChoiceDataList": [
+        "嗯——怎么说呢？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "欸嘿嘿，看来不能啊~",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "真让人开心呢，温泉！\n可以给人带来悠闲和温暖♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "对了，\n为了保证不弄丢……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "抱着回去吧！\n紧紧抱住！",
+      "ChoiceDataList": [
+        "紧紧抱住……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "好了，\n顺利到达~！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "温泉旅游券，\n顺利带回！",
+      "ChoiceDataList": [
+        "太好了呢",
+        "太好了呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "就像她说的那样，\n莱茵力量很小心很小心地\n抱着温泉旅游券回到了学园。",
+      "ChoiceDataList": [
+        "看来你很想去呢",
+        "看来你很想去呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "嗯！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "因为，我想把它作为送给训练员的礼物！",
+      "ChoiceDataList": [
+        "诶……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "我们现在，还正处于应该努力的时候！\n所以……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "我要多多取得成果！\n把雌马路线推向高潮，\n然后……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "再和训练员一起，\n慢慢享受！",
+      "ChoiceDataList": [
+        "为什么要算上我？",
+        "为什么要算上我？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "这不是理所当然的嘛！\n因为，你可是『训练员』呀。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "我想，到那个时候，\n我也会稍稍地，\n尽情享受……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "然后什么都不用想，\n好好地休息。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "温暖悠闲的奖励旅行！\n到时候再一起去吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "怎么样？\n有没有很心动了？",
+      "ChoiceDataList": [
+        "嗯，谢谢你！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "莱茵力量的温柔感染着我的内心……\n就这样，温泉旅游券变成了\n向着未来前进的奖励。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人员",
+      "Text": "恭喜二位，是一等奖~！\n奖品是『上等胡萝卜肉排汉堡』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "获得了『<itemname>』。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "哦哦~！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "胡萝卜肉排汉堡诶！\n而且还是上等的……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "总觉得，很厉害啊！\n一定很好吃吧~\u3000呜哇~……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "咕噜噜。",
+      "ChoiceDataList": [
+        "早点回去吃吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "嗯！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "就这样，我们回到了学园……\n在自助餐厅料理了胡萝卜肉排汉堡。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "啊，训练员！\n有香味冒出来了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "应该快了吧，\n应该快了吧♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "已经在滋滋响了……\n口水都要流出来了。",
+      "ChoiceDataList": [
+        "别急，先喝点牛奶吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "嗯。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "呼哇~……\n还没好吗还没好吗♪",
+      "ChoiceDataList": [
+        "……哈哈"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "啊，你刚刚笑了对吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "这可不行哦，\n训练员也应该像我一样\n满怀期待才对。",
+      "ChoiceDataList": [
+        "……还、还没好吗还没好吗♪"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "嗯嗯，\n唱的很棒！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "——啊，来了来了~！\n我开动了——！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "嗯~~~\n好吃——♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "看到莱茵力量大口大口地\n吃着汉堡的幸福表情，\n我便也心满意足了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人员",
+      "Text": "二等奖~！！\n奖品是『一筐胡萝卜』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "获得了『<itemname>』。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "呜哇~",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "好多啊~！\n真的堆成山了。",
+      "ChoiceDataList": [
+        "这下有的吃了",
+        "这下有的吃了呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "是啊。\n太好了~",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "就这样，在我们交替着搬运胡萝卜时——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "幼小的马娘A",
+      "Text": "啊！\n好多胡萝卜——！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "哦呀！\n真有眼光啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "是抽奖中的哦。\n很厉害吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "幼小的马娘B",
+      "Text": "好厉害好厉害！\n真好啊~\u3000水灵灵的看起来好好吃！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "对吧对吧，\n看起来很好吃吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "我给你们分一些吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "幼小的马娘们",
+      "Text": "可以吗！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "哇哇！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "幼小的马娘们",
+      "Text": "——大姐姐，谢谢你！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "要吃的香香的哦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "欸嘿嘿，\n从山变成丘了呢。",
+      "ChoiceDataList": [
+        "但是，送出去的时候很开心呢",
+        "但是，送出去的时候很开心呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "很开心啊~\n因为……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "因为我的开心也和孩子们联系在一起了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "莱茵力量一边说，\n一边看着孩子们欢快的背影，\n她脸上的表情……非常的温柔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人员",
+      "Text": "三等奖~！\n奖品是『一根胡萝卜』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "获得了『<itemname>』。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "太好了——！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "是胡萝卜诶。",
+      "ChoiceDataList": [
+        "一根啊……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "我很开心哦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "能中奖就已经很幸福了。\n对了，我们再稍微绕下路吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "找个地方烤一下……\n来个小野餐！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "嗯~好香！\n好好吃的样子~……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "啊——……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "啊！\n训练员你先吃吧！",
+      "ChoiceDataList": [
+        "不，我还是算了吧",
+        "不，我还是算了吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "诶诶~",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "可是可是。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "……这样真的可以吗？",
+      "ChoiceDataList": [
+        "当然，尽管吃吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "那，我就不客气了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "‌咬♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街人员",
+      "Text": "很遗憾，没抽中！\n参与奖是『卫生纸』哦~",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "获得了『<itemname>』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "没、没抽中……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "怎么会。\n冰淇凌，变成纸巾了……",
+      "ChoiceDataList": [
+        "也不能这么说吧……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "不过，\n卫生纸也是可以用的……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "没错！\n那就用卫生纸造个温泉……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "……怎么看都不行吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "温泉……温泉……\n啊呜~",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "莱茵力量变得心情低落了……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
