@@ -1,0 +1,661 @@
+{
+  "Title": "莱茵力量登场！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "幼时的莱茵",
+      "Text": "妈妈，这边这边！！\n再近一点！\u3000我想近一点看！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "幼时的莱茵",
+      "Text": "快看，赢了的马娘在讲话呢！\n日本橡树大赛马娘在讲话哦！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "日本橡树大赛"
+      ]
+    },
+    {
+      "Name": "幼时的莱茵",
+      "Text": "（眼前的赛马娘……和以前见过的，\n有着精彩跑法的那位赛马娘……\n简直一模一样！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "橡树大赛赛马娘",
+      "Text": "这场胜利……\n我想献给指引了我前进的师父。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "橡树大赛赛马娘",
+      "Text": "像这样在雌马路线奔跑下去，\n总有一天——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "橡树大赛赛马娘",
+      "Text": "我也要像师父那样。\n成为能够给予后继者教导和传承的赛马娘！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "幼时的莱茵",
+      "Text": "哇啊啊啊……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "——“雌马路线赛马娘”",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "雌马路线赛马娘"
+      ]
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "是在众多赛马娘中，\n渴望着“雌马三冠”光辉的赛马娘们！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "由『樱花赏』『日本橡树大赛』『秋华赏』\n组成的雌马三冠，以『伊丽莎白女王杯』\n『维多利亚英里赛』为志向——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "樱花赏",
+        "日本橡树大赛",
+        "秋华赏",
+        "伊丽莎白女王杯",
+        "维多利亚英里赛"
+      ]
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "她们不仅强大。\n还很惹人怜爱，华丽而富有魅力！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "她们都是帅气的前辈！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "……然后。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "我也会从这里启程——！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "今天，是特雷森学园的校园开放日。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "特雷森学园"
+      ]
+    },
+    {
+      "Name": "独白",
+      "Text": "许多以闪耀・系列赛为梦想的幼小马娘\n为此来到了学园。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "闪耀・系列赛"
+      ]
+    },
+    {
+      "Name": "采珠",
+      "Text": "OK，little ponys！\n准备好倾听我的话语了吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "采珠",
+      "Text": "这之后就是！\n『雌马路线赛马娘』的登场了哦~！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "幼小的马娘们",
+      "Text": "呀啊啊啊！\u3000好厉害！！\n是本人啊——！\u3000好棒——！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西野花",
+      "Text": "哇哇！\u3000……欸嘿嘿。\n好棒什么的……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "气槽",
+      "Text": "小花，挺起胸膛别多想。\n对于孩子们来说你毫无疑问也是\n她们憧憬的马娘之一。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "小花"
+      ]
+    },
+    {
+      "Name": "气槽",
+      "Text": "好了……那么首先自我介绍一下。\n我叫气槽。是特雷森学园学生会副会长",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "气槽"
+      ]
+    },
+    {
+      "Name": "气槽",
+      "Text": "在赛场上的主要战绩是——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莫名很了解的马娘",
+      "Text": "我知道我知道！\n母女二人都制霸过『日本橡树大赛』！\n在『日本橡树大赛』很有名对吧！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "气槽",
+      "Text": "……嗯？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "幼小的马娘们",
+      "Text": "诶~！\u3000这样啊——！\n姐姐你好懂！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莫名很了解的马娘",
+      "Text": "诶哼\u3000……而且在『天皇赏（秋）』也是！\n那场胜利后，气槽前辈还被选为了\n年度代表赛马娘！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "天皇赏（秋）"
+      ]
+    },
+    {
+      "Name": "莫名很了解的马娘",
+      "Text": "在雌马路线，这可是史上第二位年度代表！\n真的非常厉害！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "幼小的马娘们",
+      "Text": "哇啊啊啊——！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西野花",
+      "Text": "啊，那，那么……我也！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西野花",
+      "Text": "大、大家好。\n我叫西野花。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "西野花"
+      ]
+    },
+    {
+      "Name": "西野花",
+      "Text": "那个，我的话……\n多亏了许许多多人们的支持，\n我在『樱花赏』取得了胜利！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莫名很了解的马娘",
+      "Text": "我看了我看了！\n继『阪神两岁雌马大赛』之后，\n以第一人气出赛的『樱花赏』……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "阪神两岁雌马大赛"
+      ]
+    },
+    {
+      "Name": "幼小的马娘们",
+      "Text": "诶~第一啊！\n我有听说第一很了不起！\n好厉害好厉害——!",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莫名很了解的马娘",
+      "Text": "没错！\u3000小花前辈以小小的身躯\n背负着大大的期待，那可真是一场\n精彩的比赛——！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "气槽",
+      "Text": "……不对，等一下。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白高峰",
+      "Text": "啊啦，好有热情呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莫名很了解的马娘",
+      "Text": "哇哇哇哇哇！？\n诶，诶，诶，目白高峰前辈！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "目白高峰"
+      ]
+    },
+    {
+      "Name": "莫名很了解的马娘",
+      "Text": "哇……！\u3000居然能得到\n史上最早达成雌马三冠\n的赛马娘的评价……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "气槽",
+      "Text": "等等……先等一下！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莫名很了解的马娘",
+      "Text": "诶？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "气槽",
+      "Text": "……莱茵力量。\n这可是面向开放日参加者们的座谈会。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "莱茵力量"
+      ]
+    },
+    {
+      "Name": "气槽",
+      "Text": "为什么你会在这里！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "欸、欸嘿嘿。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "气槽",
+      "Text": "赶紧给我出去！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "（啪哒！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "啊呜~！\u3000被赶出来了……！",
+      "ChoiceDataList": [
+        "……你在干嘛呢？莱茵？",
+        "……你在干嘛呢？莱茵？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "啊，训练员！\n那、那个……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "想着说不定能听到憧憬的马娘们的讲话！\n就没忍住~\u3000……欸嘿嘿。",
+      "ChoiceDataList": [
+        "所以才想偷偷溜进去啊……",
+        "所以才想偷偷溜进去啊……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "可、可是！\u3000这样的组合\n很珍贵不是吗！？全员都是\n雌马路线的传奇马娘——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西沙里奥",
+      "Text": "……嘛，也不是不能理解你的心情。\n但是，忘记了自己的身份可不好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "！？\u3000诶？西沙里奥！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "西沙里奥"
+      ]
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "（眼前的是西沙里奥。\n和我同年同班，同期出道……\n同时也是我的室友！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "（很会教人，又很会做点心。\n在宿舍时是温柔，软软的甜美马娘——）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "……现在的西沙里奥，是认真模式对吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西沙里奥",
+      "Text": "当然。我得根据状况，\n正确地『切换』。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西沙里奥",
+      "Text": "眼看就要比赛了，\n也柔和不起来吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西沙里奥",
+      "Text": "尤其是——莱茵。\n我们的公开赛马上就要开始了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "莱茵"
+      ]
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "…………？\u3000公开赛？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "……啊啊啊！",
+      "ChoiceDataList": [
+        "赶紧去换服装，莱茵！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "好、好的——！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中救主",
+      "Text": "……距离入闸只剩10分钟了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勇敢之心",
+      "Text": "Oh dear……莱茵也真是的，\n不会就这样不来了吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中救主",
+      "Text": "谁知道呢。……不管怎样，\n我都只要尽我的能力拿出成果。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勇敢之心",
+      "Text": "啊哈哈，I'm with you!\n同感。不来就不来吧——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勇敢之心",
+      "Text": "比赛的主角，就由我们来担当吧。",
+      "ChoiceDataList": [
+        "（她们，好像是一起参加了选拔的——）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "和西沙里奥一样，同年级，同班级，\n同期的空中救主和勇敢之心。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "空中救主",
+        "勇敢之心"
+      ]
+    },
+    {
+      "Name": "独白",
+      "Text": "在为公开赛紧锣密鼓地做好准备\n的她们身边，终于到来的是——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "哈，哈，哈……！\n久、久等了……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "莱茵力量！\n准备好参赛了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "西沙里奥！\n还有救主同学和心心同学！\n还请多多关照。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "救主",
+        "心心"
+      ]
+    },
+    {
+      "Name": "勇敢之心",
+      "Text": "啊啦，勉强赶上了呢！\n还是说，你想表现出大人物的感觉？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "诶！\u3000没、没有啊！？\n我完全没有这种想法……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勇敢之心",
+      "Text": "啊哈哈，也是呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勇敢之心",
+      "Text": "——你本来就是大人物了。\n也用不着刻意表现。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "勇敢之心",
+      "Text": "你的水准之高。也用不着多说。\n但是，我既不会胆怯也不打算输。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中救主",
+      "Text": "这场公开赛的目的，\n你还记得吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中救主",
+      "Text": "是要『展现出未来的\n雌马三冠赛马娘的光辉』。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中救主",
+      "Text": "既然如此，这或许就是我们在经典级\n雌马路线上竞争的开端了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "经典级"
+      ]
+    },
+    {
+      "Name": "西沙里奥",
+      "Text": "……若是如此。\n我自然是不会输的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西沙里奥",
+      "Text": "我才是次世代雌马三冠的合适人选——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西沙里奥",
+      "Text": "我会在此将其证明。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "大家——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "——……嗯。",
+      "ChoiceDataList": [
+        "（……莱茵的眼神变了）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "莱茵力量。\n……是我的担当马娘。\n平时阳光温暖，有些我行我素。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "有着天资充沛的赛跑能力，而且——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "不！\n雌马三冠，我会将其拿到手。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "不管是你们。\n还是大家，我都不会输的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "她的心中燃烧着对雌马三冠强烈，率真的憧憬。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西沙里奥",
+      "Text": "……呼。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "西沙里奥",
+      "Text": "到时间了。\n走吧，莱茵。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "嗯。\n一决胜负吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "四人",
+      "Text": "呀啊啊啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "强大、惹人怜爱又华丽，\n她们在赛场上奔跑着。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "我不由得心跳加速。\n毫无疑问地为之着迷。",
+      "ChoiceDataList": [
+        "这就是，次世代的雌马路线赛马娘——！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "华丽而又残酷的花朵们包围着莱茵力量。\n但是，无论会迎来怎样的时代——",
+      "ChoiceDataList": [
+        "我都要和她一起取得胜利，实现梦想。"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "……我再次发誓道。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
