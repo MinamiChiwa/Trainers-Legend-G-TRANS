@@ -1,0 +1,315 @@
+{
+  "Title": "汝、勿动摇",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "不知为何，我独自一人留在这里已经过去了几十分钟。\n说要很快回来却不见踪影的多旺达，现在究竟在哪里呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "回想起来，今天从早上开始——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "多旺达",
+      "Text": "『训练员殿下！\u3000突然邀请您非常抱歉，\n今天可以陪我一起去看音乐剧吗！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "接到多旺达这样的电话仅仅是几分钟前。\n答应之后，她立刻出现在我面前。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "多旺达",
+      "Text": "我来接您了，我的君主。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "多旺达",
+      "Text": "能陪伴在您身边是我的荣幸。\n今天，请把一切交给我吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "多旺达",
+      "Text": "来吧，我的君主。请上这辆人力车。",
+      "ChoiceDataList": [
+        "这，不会是你拉的吧！？",
+        "这，不会是您拉的吧！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "多旺达",
+      "Text": "是的。\n难得的假日，我希望您能欣赏到路途中的风景。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "多旺达",
+      "Text": "请放心，我的君主。\n多旺达会安全且迅速地将您送到目的地！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "多旺达",
+      "Text": "啊，我竟然忘了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "多旺达",
+      "Text": "您应该口渴了吧，我的君主。\n请放心，我马上去买些饮料回来！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "还没来得及告诉她不用，她便已经风风火火地离开了。\n看来她今天对安排特别上心。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "多旺达",
+      "Text": "让您久等了，训练员殿下。\n水、咖啡、红茶、汽水，您想要什么，请尽管说！",
+      "ChoiceDataList": [
+        "你买了这么多啊！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "多旺达",
+      "Text": "其实……我在问您之前就跑去买了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "多旺达",
+      "Text": "不过您请放心！\u3000我已经把店里的所有种类都买回来了。\n现在您可以随意选择！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "我们终于到达了剧场。\n多旺达说要先去检查一下是否安全，但却一直没回来。",
+      "ChoiceDataList": [
+        "她不会遇到什么麻烦吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "（嗡——嗡——嗡——）",
+      "ChoiceDataList": [
+        "——多旺达？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "多旺达",
+      "Text": "『我的君主，十分抱歉！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "多旺达",
+      "Text": "我本想作为斥候进行安全确认，但进入剧场后——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "多旺达",
+      "Text": "发现今天的票不能中途退场。\n实在抱歉，您能过来吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "多旺达",
+      "Text": "“王”！\u3000我的君主，这边！\n不能亲自迎接您，真的十分抱歉。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "多旺达",
+      "Text": "不过我相信您一定会喜欢这场演出。\n听说这是描绘骑士罗兰生平的精彩演出。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "多旺达",
+      "Text": "啊，我去买节目册！\n您先去座位上休息吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "她似乎非常期待。自从早上起，\n多旺达就一直显得坐立不安，我不禁觉得好笑。不过——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "观众A",
+      "Text": "喂……你听见了吗？\n那个人让赛马娘叫他『王』。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "观众B",
+      "Text": "真的假的……太夸张了吧？\u3000让赛马娘当手下使唤吗？",
+      "ChoiceDataList": [
+        "（唔……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "听到旁人的客观评价，我感到一阵心寒。\n本应是训练员守护赛马娘、支撑她们。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "但让赛马娘侍奉自己，不仅是我自己，\n甚至多旺达也可能因此蒙受不好的名声。",
+      "ChoiceDataList": [
+        "（是不是应该让她不要再叫我“王”了）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "多旺达",
+      "Text": "我的君主，我回来了。……您怎么了？",
+      "ChoiceDataList": [
+        "其实是这样的……",
+        "呃……其实是……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "多旺达",
+      "Text": "——啊，抱歉。演出马上要开始了。\n我们先享受这场演出吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣骑士罗兰",
+      "Text": "王啊，现在让我展现我的忠诚吧！\n以这把『圣剑』和骑士的荣誉，必将为您带来胜利！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "国王查理",
+      "Text": "这才是我的骑士。\n我依赖你的无敌战神之力！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "多旺达",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "听到她无意间发出的声音，我瞥了一眼身旁。\n多旺达目光闪烁，紧紧盯着舞台。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣骑士罗兰",
+      "Text": "……该死，敌军数量如此庞大，被包围了。\n但——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣骑士罗兰",
+      "Text": "在我的『圣剑』面前，无所畏惧！\n只需一刀，便能斩尽敌人！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "多旺达",
+      "Text": "～～～～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "我几乎能听到她的心跳声。\n她的目光中充满了对这段骑士生涯的渴望，她也想变得如此。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "多旺达",
+      "Text": "啊……果然我也……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "听到她那小小的呢喃，我陷入了反思。\n她的愿望，她的憧憬，我怎么能夺走这些呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "多旺达",
+      "Text": "请让我扶您一把，我的君主。这里有台阶。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "多旺达",
+      "Text": "请放心，回去的路上也交给我。\n无论遇到什么障碍，我都会为您清除！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "多旺达",
+      "Text": "——顺便问一下。\n开演前，您好像有什么话要说？",
+      "ChoiceDataList": [
+        "没事，没什么",
+        "嗯，没关系"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "多旺达",
+      "Text": "……是吗？\n如果有什么事，请毫不犹豫地下达命令吧。",
+      "ChoiceDataList": [
+        "我依赖你。很高兴你是我的骑士",
+        "我依赖您。很高兴您是我的骑士"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "多旺达",
+      "Text": "……过奖了，承蒙厚爱。\n今后我会更加努力的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "多旺达",
+      "Text": "我再次发誓，我的君主。\n我必将成为您最杰出的骑士！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "她那双坚定的眼睛高声宣誓。\n我暗自发誓，必定守护她这份信念不被动摇。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
