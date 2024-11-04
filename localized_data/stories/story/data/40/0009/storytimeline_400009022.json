@@ -1,0 +1,593 @@
+{
+  "Title": "3.2 計算外の推進力",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ST-2（サティ）",
+      "Text": "はあっ、はあっ……タイムは悪くない。\nでも、まだ――まだまだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ST-2（サティ）",
+      "Text": "もう1本！\u3000はあああっ！！",
+      "ChoiceDataList": [
+        "気合い入ってるな、ライツ博士……！",
+        "気合い入ってるね、ライツ博士……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ST-2が最終形態にアップグレードして以降、\nライツ博士の研究に対する熱意は\nさらに強くなった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "ふむ、最終形態でテストを重ねてきたが、\n数字的には……停滞気味だな。",
+      "ChoiceDataList": [
+        "……原因はわかっているのか？",
+        "……原因はわかっているの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "いや、それがどうも……。\n何が原因で頭打ちになっているのか……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ST-2（サティ）",
+      "Text": "くそ……くそう……。なぜだ……。\nわからない。どうしてなんだ……！",
+      "ChoiceDataList": [
+        "どうか根を詰めすぎずに……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ST-2（サティ）",
+      "Text": "トレーナー……。そうだな、すまない。\nまたみんなの知恵を貸してほしい……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "足りないのは、\n最後の最後で追い込む力だと思う。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "ロボのことはよくわからないけど、\n緊急ブースターとかを使えば……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "いや、それでは走る感触が損なわれる。\nやはり平均的な出力の底上げを……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "ハード面は限界だって言ってンだろ。\nそれより“ソフト”の\nバージョンアップを……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "――――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "さまざまな意見を持ち寄ったものの、\n光明は見えない。\nはたして改善の方法はあるのか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "車輪の姫、もう1度見せてみろ。\n今できる、至高の走りを。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "ああ、わかった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ST-2（サティ）",
+      "Text": "ハァアアアアアア！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "速く――なっているな。遥かに。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "うん、ここまで走れるなら……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "付け焼き刃じゃどうしようもねェ。\nヘンなものを足せば、かえって悪くなる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "では、どうすれば……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "タニノギムレットだけが何も言わない。\nただじっと、ST-2を見つめ、そして……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "ブリキ缶――だな。",
+      "ChoiceDataList": [
+        "ギムレット？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "まだブリキ缶だ。見た目は\n完璧な彫像の如く磨かれた。だが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "機械神にはほど遠い。\nならば――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（バサァッ）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "答えを啓示してやる。\nこの俺が――いや、ワタシが。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "ギムレット、併走――する気か。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ST-2（サティ）",
+      "Text": "タニノギムレット……\n君にはわかるというのか。\n私に足りないものが。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "如何にも。だがその前に……\n先導者とタイシン――来るがいい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……タニノギムレットに呼ばれて、まずは\n3人で、併走の仕方を軽く打ち合わせた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "――というわけだ。\n俺と博士が先に走り、そして――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "角笛は先導者に委ねよう。\n進軍の刻が来たら、鳴らすがいい。",
+      "ChoiceDataList": [
+        "……わかった"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "……アタシも了解。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "こうして、まずは――\nST-2とタニノギムレットが併走することに。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ナリタタイシンは、コース脇に待機させた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ギムレット＆ST-2",
+      "Text": "ハァァァアアアア！\nたぁああああああ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "フッ、やるようになったな、ブリキ缶。\nだが――まだまだだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ST-2（サティ）",
+      "Text": "なめるな。今のST-2は\n最初のような不完全体ではないぞ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "速度は大して変わらないな。\n驚きだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "ああ。But――\nレースはspeed比べ……ではない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ギムレット＆ST-2",
+      "Text": "ハァアアアアアア！\nウォオオオオオオ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "ウオラアアアアアアッ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ST-2（サティ）",
+      "Text": "うぉ……くぅ……！？\n少しずつ……差が……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "こんなものか、ブリキ缶。\n為す術もなく、理の泥海に呑まれるか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "このままだと、ST-2は\n確実に置いていかれる。なら――",
+      "ChoiceDataList": [
+        "今だ、タイシン！",
+        "今だよ、タイシン！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "うん！\u3000ハァアアアアア！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――すかさずナリタタイシンを投入。\n追走させる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ナリタタイシンはたちまち追いつき、\nそして――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "やぁああああああ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ST-2（サティ）",
+      "Text": "――！？\u3000タイシン！？\n最終直線で……飛び入りだと？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ST-2（サティ）",
+      "Text": "このケタ違いのスピード……。\nいや、スピードではない。\n私とまったく違うのは……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "追いつくために、一気に脚は使った。\nでも最終直線での勝負なら――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "アタシは――負けない！\n負けるものかァァァッ！！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ST-2（サティ）",
+      "Text": "この“闘志”は……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ST-2（サティ）",
+      "Text": "（そもそもの……質が違う……。\nST-2の走りとは、根本的に……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ST-2（サティ）",
+      "Text": "（私は言わば“乗り物に乗っている”だけ。\nだがタイシンは……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "うああああああああああああッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ST-2（サティ）",
+      "Text": "（……気持ちだ。\n気持ちがそのまま、走りになっている！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ST-2（サティ）",
+      "Text": "（この境地に至らなければ……\n壁など越えられるわけがない）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "そう、鍵となる熱情は、ブリキの体にはない。\nそれを持つのは――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "オマエだ、車輪の姫！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "飛びたければ――喰い千切れ。\n心を縛る、繋がれし姫君の鎖を。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "そうだ……私は今まで\n理性で走ろうとしていた。だが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "ST-2が真にウマ娘と等しく走るためには――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "理性だけでは――届かない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "気持ちで走ってこそ、気持ちに応えてこそ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ST-2（サティ）",
+      "Text": "うおおおおおおおおおおおおおおおッ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "フッ――覚醒したか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ST-2（サティ）",
+      "Text": "私はぁぁぁ、\n私はッ……もっと心のままにーッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "フム、変わったな――走りが。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "ああ、超えやがった……数値の限界を……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "こうなるのも当然か。本気のタイシンに\n追われれば、こうならざるを得ない……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "まさに小さな弾丸。自分の存在全てを懸けた、\nあの追い込みに突き上げられて、\n火がつかない者などいるわけがない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "私もチケットも、あの熱に追われて、\n強くなってきた。そして今……博士も。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "Hm.\nST-2はもう……machineではない。\nそう――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "Realウマ娘だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "こうしてST-2はタニノギムレットと\nナリタタイシンとの併走の中で、\n今までにない爆発力を見せた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ST-2（サティ）",
+      "Text": "はぁ、はぁ、はぁ。結局勝てなかった。\nだが……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ST-2（サティ）",
+      "Text": "潤滑油が……熱い。\nこれがST-2なのか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "なるほど……。今の併走を見て、\nハッキリと原因が解析できました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ST-2（サティ）",
+      "Text": "ふむ、気持ちの問題……ではないのか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "雑に言ってしまえばそうですが……\n正確には――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "博士はまだ“制御”しようとしていたのです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "今までは義体であるST-2を、\n意識的に動かそうとしていました。しかし――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "ウマ娘も人も、わざわざ意識的に\n歩いたり走ったりはしません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "全ての動作は“無意識”。\nだからこそ反応が速く、伸び幅も大きい……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "博士に足りなかったのは、ST-2を信じ、\n本能に委ねることだったのです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ST-2（サティ）",
+      "Text": "そうか、本能……。\nそれが理由で……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "追走させたのがタイシンだったのも、\n最適でした。彼女は最終直線、\nいつも本能全開で走ります。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "その本能に、博士も感化されたのでしょう。\n追わせる指示のタイミングもベストでした。",
+      "ChoiceDataList": [
+        "まあ……あそこしかなかったよな",
+        "まあ……あそこしかなかったよね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "追わせるなら、ライツ博士が諦めかけた時。\nこちらの判断にも迷いはなかった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "フッ、かくして――禁忌の門は\n開かれたようだな。ならば――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "行くとしよう。\nさらに先の、地平の果てへ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

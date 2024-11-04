@@ -1,0 +1,679 @@
+{
+  "Title": "4.1 研究レポートの配布",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ある日。ライツ博士が、廊下に散らばった\n書類を拾っているところに出くわした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "やれやれ……\nこの量を1人で運ぶのは、無謀だったか。",
+      "ChoiceDataList": [
+        "手伝います！どこに運ぶんですか？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "！\u3000すごいタイミングだな、トレーナー。\n君たちのもとへだよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "これは<chrname>たちの研究データ。\n併走を繰り返す中で収集した情報を、\nみんなに還元しようと思ってね。",
+      "ChoiceDataList": [
+        "なおのこと、手伝わせてください"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "ふふ、ああ。とても助かる。\nでは誰から渡しに行こうか……。",
+      "ChoiceDataList": [
+        "ビワハヤヒデ",
+        "ナリタタイシン",
+        "エアシャカール",
+        "シンボリクリスエス",
+        "タニノギムレット",
+        "ライツ博士"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "さすがです。自分なりにデータは集めて\nいましたが、より細かな統計を知れました。\n参考にいたします。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "そうか。\n力になれたのなら、よかった……うん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "……。\n博士、少しこちらを見ていただけますか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "やはり、目が少し充血している。\nこれをまとめるのに、無理をしましたね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "えっ……あ、いや。そんなことはないぞ。\n……ほんの少し、就寝が遅くはなったが。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "乳製品とバナナの菓子がある。\nそれを渡しましょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "それらに含まれるトリプトファンは、\n睡眠の質を上げる成分のもとになる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "3食、食事は摂っていますか？\u3000忙しさに\nかまけて、食をないがしろにしてはダメです。\n食べるための時間を作る意識を持って――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "あ、ああ。わかった……。\nそうだな。気をつけるよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "…………あ。\nすみません。どうにも、心配症で……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "え？\u3000……ああ、いやいや。\n反省する必要はないぞ、ハヤヒデ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "それは、君の美点でもあるのだから――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "……まずいな。ひと雨きそうだ。\n車椅子を、濡らしたくはないが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "――やはり、まだいらしたんですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "先ほどの測定に、納得がいっていない\n様子だったので。もしかして、と。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "傘は私が。\nさあ、思う存分データの検証をしましょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "改めて思ったよ。君のその思慮深さがあった\nから、私たちはここまで来られたのだとね。",
+      "ChoiceDataList": [
+        "君のそれは、短所じゃなくて長所だよ",
+        "貴方のそれは、短所じゃなくて長所だよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "……そうか。視点を変えれば、そうだな。\nふ……気づかされたよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "それでは、ご自身のために……\n適度な休息を、取っていただけますか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "ぐっ……確かに、睡眠は大事だからな。\n私のほうこそ、反省しよう……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "はあっ、はあっ……。\nもう少し……あと、少しで……。",
+      "ChoiceDataList": [
+        "タイシン！ライツ博士がレポートくれたよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "……。\nそこ、置いといて。",
+      "ChoiceDataList": [
+        "あっ、タイシン！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "……ふふ。真摯に打ち込んでいるんだな。\nであれば、私はこれで失礼するとしよう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "んくっ……んくっ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "そういえば……博士たち、来てたな。\n……レポート？\u3000がどうとか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "…………え。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "こんなの……こんな、データ。\n……数日じゃ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ある日。ライツ博士と今後の予定について、\n話し合っていると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "…………これ。",
+      "ChoiceDataList": [
+        "……え？そのお弁当、どうしたんだ？",
+        "……え？そのお弁当、どうしたの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "驚き、ライツ博士と顔を見合わせる。\nこれは一体どういうことなのか、\n混乱していると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "……サンドウィッチ、作りすぎたってだけ。\nいらないなら持って帰る。",
+      "ChoiceDataList": [
+        "いやいやいや！ありがたくいただくよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "その通りだ……！\u3000こんなに文化的な\n食事を口にする機会は、いつ以来だ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "はあ？\u3000文化的って……\n切って挟んでるだけなんだけど。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "…………容器。\n洗って返してよ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "……アア。\nそこ、置いといてくれ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "……ところで、それ。何をしているんだ？\n3Dモデルの設計図のようだが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "オイ、勝手に見てンじゃねえよ。\n……ただの趣味だ、ンなの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "完全自立型併走ロボット。フラッシュ\nアイディアだが、構想自体はあった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "リターンに見合わないと思って、\n長ェこと凍結してたが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "……まあ。\n片手間に作るくらいなら、な。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "フフ……そうか。シャカールもようやく、\nロボットを作る楽しさに目覚めたか！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "よし、そういうことであれば――\n先駆者として、私がアドバイスしよう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "……教えてくれなンて言ってねェけど。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "これで、3Dモデリングまわりの助言は\nひと通りしたかな。OSに関しては……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "――『Parcae』を乗せる。\nオレを知り尽くした相棒だ。適役だろ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "……これで、完成に近づいた。",
+      "ChoiceDataList": [
+        "上手くいくといいな！",
+        "上手くいくといいね！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "アア？\u3000どういう意味だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "彼女は片手間の趣味だと言っていたが……\nエアシャカールの打ち込みようを見ていれば、\nそんなことはないとすぐわかった。",
+      "ChoiceDataList": [
+        "ロボット作り、すごく真剣みたいだから！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "……チッ。\nやめろ、そのノリ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "ただ……ライツ博士に、\n不可能じゃねェと証明された。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "だから、やってるだけだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "口では気だるそうな彼女の瞳には、\n確かな熱意が宿っているのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "Report――助かる。これで、\ntraining――より、効率的に――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "君には世話になったからな。というか、\n今もまだ、世話になっているが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "……――やるか？\u3000今日も。",
+      "ChoiceDataList": [
+        "え……何を？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "1……2……3……4……\nペース、乱れている――徐々に。",
+      "ChoiceDataList": [
+        "（筋トレだった！しかも、すごい真剣！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "Keep――テンポを、意識しろ。\n急いで、おろさず――slowly……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "くぅぅぅ……！！\nこ、こうか……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "――No.\u3000もっとだ。\n今の、貴方なら――更に――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "…………いや。\nなんでも――ない。",
+      "ChoiceDataList": [
+        "……？急にどうしたんだ？",
+        "……？急にどうしたの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "……指導。――私の、やり方では――\n怖がらせてしまうことが――多い。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "後輩が――いつも、怯える。だから――\n――気をつけていた、のだが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "すまない……。",
+      "ChoiceDataList": [
+        "なるほど、そういう……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "……。\nクリスエス、見ていてくれ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ライツ博士はそう告げると、どこからか\n数枚の瓦を持ってきて――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "ふぅーーー……はあっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（ガシャアアアン！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "これが、証明だ。君がどれだけ、実直で――\n優秀な指導者であるかのな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "だから、頼む。私には、気を使わずに……\n君の思う“指導”を、続けてくれないか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "……博士……――そうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "なら……続けよう。\n――次は、クランチだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そう告げるシンボリクリスエスの表情は、\n心なしか……笑っているようにも見えた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "ハァーッハッハッハァ！\u3000俺の蹄跡を刻んだ、\n全を記した書が完成したか！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "感謝を、車輪の姫。これで俺はより速く、\n黄昏の娘たちの園へと向かえる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "――さて、貯蔵庫から大樽を吟味するか。\n此度の礼として、オマエに出すべきは――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "――『Dum spiro, spero.』\nゴールデン・ドリームのノンアルツイストだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "……おお！\u3000甘みが強いな。\nけれど、くどくない……。",
+      "ChoiceDataList": [
+        "ああ！飲みやすくて美味しい！",
+        "うん！飲みやすくて美味しい！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "ああ、本当に……こんなものをササッと\n作ったのか君は！？\u3000すごいな！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "いや。熟成には時をかけた。――2度だ。\n2度、月が欠け――満ちるを見た。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "……2か月ほど前から、ということか？\nどうして、そんなことを――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "フ……わからないか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "理と知の獣が、ST-2を解明した、あの日――\n太陽にさえ手が届くと、俺に確信させた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "そう！\u3000オマエは常に、美学を示し続け――\nここに至った！\u3000有翼のサンダルを手にした！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "だからこそ――美学には、美学で。\nワタシなりに、応えたまでだ。",
+      "ChoiceDataList": [
+        "ギムレット……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "彼女の想いに、自分もつい胸を打たれる。\nそれは、彼女らしい“祝いの一杯”だった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "……ありがとう。まさか、こんな素敵な\nものを……一体、どう返したらいいか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "ククッ。終演を称えるには、まだ早い。\nお代はいずれ頂くさ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "いずれ来る、終末の日に。\n――東京レース場でな！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "献身的なライツ博士に対して、荷物運びだけ\nではその心遣いに応えきれない。そこで――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "ありがとう、トレーナー。\nおかげで、全員分渡すことができた。",
+      "ChoiceDataList": [
+        "いえ、感謝するのは俺のほうです",
+        "いえ、感謝するのは私のほうです"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "<chrname>用のレポートを自分も\n確認したが……とても有益な内容だった。\nだから、少しでも恩を返すために――",
+      "ChoiceDataList": [
+        "……ちょっとだけ、お時間もらえますか？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "……これは？",
+      "ChoiceDataList": [
+        "俺なりにまとめた、ST-2のレポートです",
+        "私なりにまとめた、ST-2のレポートです"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "とはいっても、自分がトレーニング中に\nしていたメモをまとめただけの、急造だ。\n彼女のレポートとは比べるべくもないが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "…………いや、いいよ。\nうん……いい。とても。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "研究者としての目線じゃない。\nまるでST-2を、1人のウマ娘みたいに……\nそんな視点が、ここにはあって――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "ああ、そうか……ふふっ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "君は、私のトレーナーでもあったんだな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+{
+  "Title": "3.1 補講：体育",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ある日の研究会にて――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "さて、今日も進めていこう。\nいよいよ開発も佳境だが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "ますます……意欲……的に……。\nはぁ、ふぅ……。",
+      "ChoiceDataList": [
+        "ライツ博士、大丈夫ですか？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "いや、ここのところ疲れが激しくてな……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "設計して、開発して、ダイブして。\n以前は平気だったのだが、どうも負荷が……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "そっか……。それって単に\n作業量が増えたからってこと？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "それだけじゃねェ。スペックが高いものを\n動かすには、それなりの体力や集中力が\n要求されるからな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "押し寄せる滂沱。\nそこから救いの川に至るには――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "……トレーニングをするしかないかも\nしれませんね。博士本体の。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "私の？\u3000ST-2ではなく？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "はい、ST-2が第二形態になり、\n出力も上がった関係で、\nフルダイブの負荷も上がりました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "その負荷に耐えられるように、\n博士の体も鍛えなければなりません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "なるほど……bodyの強化――か。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "し、しかし私は自由に動けない。\nトレーニングといっても……。",
+      "ChoiceDataList": [
+        "……やりましょう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "トレーナー？",
+      "ChoiceDataList": [
+        "補助は自分がすれば、なんとか！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "そ、そうか……。専門家の君が\nついていてくれるなら……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "わかった。これも開発の一環だ。\nよろしく頼む。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "こうしてライツ博士本人のトレーニングが\n始まったが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "くぅぅ……やはり……キツいな。もう2度と、\nこの体でトレーニングすることはないと\n思っていたが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "まさか再び、やることになるとは……。\n以前より重量も……軽いが……。",
+      "ChoiceDataList": [
+        "バランスに気をつけて！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "そうだな。\n踏ん張りが利かない分、どうにか……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "やっているか、博士、トレーナー。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "シンボリクリスエス……。\n応援に来てくれたのか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "応援……ではない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "これを――作ってきた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "それは……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "Training menuだ。\nトレーナーは正しい。だが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "ウマ娘にしか……わからないこともある。\nとくに――ケガの時は。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "それでわざわざメニューを作ってくれたのか。\nありがとう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "確かにシンボリクリスエスの言う通り、\nハンデを抱えたウマ娘の心境は\nわからないことも多い。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "補完のトレーニングを提案してもらえるのは、\n実にありがたかった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "よし、次はそれをやろう。\nこの体がヘタっていては、ST-2を\n十全に動かすこともできないしな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "はぁ、はぁ、はぁ……。\nいち……にぃ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "さすがは……クリスエスのメニュー。\n生半可では……ないな……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "昔の私なら……このくらい……\nできたかも……。だが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "負ける……ものか。力は戻らなくても、\nせめて……心は……。",
+      "ChoiceDataList": [
+        "もう1セットいきましょう！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "ああ……トレーナー……。\n鼓舞してくれて……助かる……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "そうだ、頑張らなければ、な……。\nくぅぅぅぅ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "やはりライツ博士の体力は、\n現役のウマ娘に比べて、相当低い。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "それでも想いだけは負けていない。\nST-2を介して、全力で走ろうとする\n想いだけは。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "博士……\n今はdifficultかもしれないが。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "I believe.\n信じている――克服を。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "ああ、クリスエス。\n昔の私だったら、と思わないこともない。\nが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "あの時の傷はとっくに癒えた。\nそう、今、私は……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "未来のために……未来のためだけに\n頑張っている！\u3000希望しか……ない！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "私はやり遂げる！\n誰も創れなかったメカウマ娘を創り――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "成し遂げる……！\n前人未踏の……発明を！\u3000私の……夢を……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "そうか、博士……。\nYou're also……。\nだから、こんなに……。",
+      "ChoiceDataList": [
+        "クリスエス……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "同じだ……。\nとても……似ている……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "私は、この国に、\nレースのrevolutionを起こすため……\nやってきた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "似ている……。\n使命を背負って来た私と。\nそして――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "クリスエスの師匠",
+      "Text": "僕の使命はね、クリスエス。\n日本のレース界に、革命を起こすことだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "クリスエスの師匠",
+      "Text": "そのために……世界レベルのウマ娘を、\n世界中から日本へ招いている。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "私を見つけ、育ててくれた……師匠と。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "博士の使命は……走りのevolution。\nあるいは、それも……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "私たちは――Same。\n私はこのbodyで。博士はmechaで。",
+      "ChoiceDataList": [
+        "クリスエス、君は……",
+        "クリスエス、貴方は……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "どうやらシンボリクリスエスは、\nライツ博士の夢に共通点を見出したようだ。\nそう――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "たとえ走るのはメカの体でも、\n血の通ったテクノロジーが、\n“走ること”を変えていく。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そして地道なトレーニングを\n続けた後――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ST-2（サティ）",
+      "Text": "やぁああああああああ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "全員",
+      "Text": "おおお……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ST-2（サティ）",
+      "Text": "どうだ、ほら！\n体力もまだ平気だし、息切れもしていない！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ST-2（サティ）",
+      "Text": "トレーニングの成果だな。\nこれなら、もう大丈夫だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "Good job.\n博士、近づいたな――Revolutionに。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ST-2（サティ）",
+      "Text": "ああ、ありがとう……クリスエス！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "こうしてライツ博士は、新しいST-2に\n負けない体力を身につけたのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

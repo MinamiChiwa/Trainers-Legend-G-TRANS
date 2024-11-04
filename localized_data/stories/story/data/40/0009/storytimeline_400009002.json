@@ -1,0 +1,319 @@
+{
+  "Title": "チュートリアル",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "お疲れ様です。現在、希望される方に\n『メカウマ娘』の\n詳しい説明を行っているところなのですが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "<username>さん、\n説明は必要ですか？",
+      "ChoiceDataList": [
+        "説明を聞く",
+        "説明を聞かない"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "それでは、何をご説明いたしましょう？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『メカウマ娘』の\n育成について聞いておきたいことといえば――",
+      "ChoiceDataList": [
+        "UGEについて",
+        "研究Lvについて",
+        "チューニングについて",
+        "オーバードライブについて",
+        "もう大丈夫です"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "『UGE』についてですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "『UGE』"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "UGE、正式名称『Upgrade Exam』は、\nメカウマ娘の研究の進み具合を\n確かめるための試験です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "UGEは計5回行われ、\nそれぞれの期間内の研究Lv合計が、\n評価となります。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "UGEは計5回行われ、",
+        "それぞれの期間内の研究Lv合計"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "高い評価を得るためには、\nトレーニングのバランスが大切なんですよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "また、今回みなさんには\nトゥインクル・シリーズに参加しながら、\nUGEにも参加していただきます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "トゥインクル・シリーズに参加しながら"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "育成の状況次第では、\nUGEの開催期間中であっても\n育成終了となりますのでご注意くださいね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "育成の状況次第では、",
+        "UGEの開催期間中であっても",
+        "育成終了"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "『UGE』についての\n説明は以上となります。\nほかに聞きたいことはありますか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "『研究Lv』についてですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "『研究Lv』"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "研究Lvには『スピード』『スタミナ』\n『パワー』『根性』『賢さ』の\n5種類があります。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "『スピード』『スタミナ』",
+        "『パワー』『根性』『賢さ』の",
+        "5種類"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "研究Lvは様々なトレーニングで上昇します。\nどのトレーニングで、どの研究Lvが\n上昇するかは、確認してみてくださいね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "研究Lvは、一緒にトレーニングする\n研究メンバーとサポートカードの人数が\n多いほど上昇します。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "一緒にトレーニングする",
+        "研究メンバーとサポートカードの人数が",
+        "多いほど上昇"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "また逆に、研究Lvが上昇すると、\nウマ娘たちのトレーニング効果も\n上昇するんですよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "研究Lvが上昇する",
+        "ウマ娘たちのトレーニング効果も",
+        "上昇"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "研究Lvには、育成期間ごとに\n上限があります。偏りすぎに注意しながら、\n育成目標を達成しましょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "育成期間ごとに",
+        "上限"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "『研究Lv』についての説明は\n以上となります。\nほかに聞きたいことはありますか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "『チューニング』についてですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "UGEが終わったあとは、\nメカウマ娘のチューニングを行えます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "UGEが終わったあと"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "メカウマ娘には『頭部』『胸部』『脚部』の\n3種類のコアがあり、\n各コアには3つずつチップがあります。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "『頭部』『胸部』『脚部』の",
+        "3種類",
+        "各コアには3つずつチップ"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "メカエナジー、略してメカENを、\nその各チップに割り振ることを、\nチューニングといいます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "メカエナジー、略してメカEN"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "割り振ったメカENが多いほど、チップによる\nトレーニング補助効果は上昇します。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "また、メカENは、UGE終了ごとに\n割り振りなおすこともできるんですよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "UGE終了ごとに",
+        "割り振りなおす"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "メカENの獲得量は、UGEによって\n変わるので、思い通りのチューニングを\n行うためにも、高評価を目指してくださいね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "獲得量は、UGEによって",
+        "変わる"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "『チューニング』についての説明は\n以上となります。\nほかに聞きたいことはありますか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "『オーバードライブ』についてですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "『オーバードライブ』"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "オーバードライブとは、発動することで、\nより大きな効果が得られる特別なモードです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "大きな効果が得られる特別なモード"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "オーバードライブのゲージは、\nメカギアが付与されたトレーニング。\nあるいは――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "メカギア"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "お休み、おでかけ、レース出走などで\n上昇します。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "オーバードライブゲージを\n最大にすることで、オーバードライブを\n発動させられるようになるんですよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "オーバードライブゲージを",
+        "最大にする",
+        "オーバードライブを",
+        "発動"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "オーバードライブ発動で得られる効果は、\n各コア毎の、設定とメカENの合計で\n決まります。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "各コア毎の",
+        "設定",
+        "メカENの合計"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "発動回数は、貯めておくこともできます。\n2回までチャージできますので、\n狙ったタイミングで使うのもオススメです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "2回までチャージできますので、",
+        "狙ったタイミングで使う"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "『オーバードライブ』についての説明は\n以上となります。\nほかに聞きたいことはありますか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "本当に大丈夫ですか？",
+      "ChoiceDataList": [
+        "はい",
+        "いいえ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "わかりました♪\u3000念のためお伝えしますと\n簡単にまとめたものがこちらにあります。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "今の説明は、左上の『iボタン』を押せば\nいつでも見ることができますよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "iボタン"
+      ]
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "それでは、がんばってください。\n陰ながら応援しています。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "わかりました。それでは、がんばって\nくださいね！\u3000陰ながら応援しています。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

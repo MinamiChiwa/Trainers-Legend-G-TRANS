@@ -1,0 +1,378 @@
+{
+  "Title": "1.1 開発開始",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（ガシャーン、ガシャーン！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "ふむ、慣らし運転はこんなものか。\nでは――いくぞ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（ブオオオン、キュイーン！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "フム…… You saw something?\nギムレット、トレーニング場で――\n何を見たと？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "ギムレット"
+      ]
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "フハハハハ！\u3000聴け！\n俺が視た、あるいは観たのは――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "さまよえる“ブリキ缶”！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "え、ロボットが現れた？\nトレーニング場に？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "ああ、手足のついた金属の塊が\n歩いていたらしい。目撃情報が多数あってな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "ハヤヒデ……。清掃マシーンとかなら\nまだわかるけど、さすがにロボなんて……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "ハヤヒデ"
+      ]
+    },
+    {
+      "Name": "理事長の校内放送",
+      "Text": "『あーあー、\nトレセン学園の生徒諸君、傾注ッ！\n理事長の秋川だ』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "トレセン学園",
+        "秋川"
+      ]
+    },
+    {
+      "Name": "理事長の校内放送",
+      "Text": "『皆に見せたいものがある。\n手の空いている者は、\nトレーニング場に集合ッ！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "チッ、集合だと？\n一体なンだってンだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "秋川理事長からの呼び出し。\nそしてトレーニング場で\n『ロボを見た！』という奇妙な噂。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "いろいろと気にかかる。\n自分も外へ急ぐことにした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "大儀ッ！\u3000皆よく集まってくれた。\n今回は皆に、どうしても紹介したい者がいる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "目撃者もいるようなので、そろそろ正式に\n紹介しておきたいと思ってな。さあ、ここへ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（キュイーン！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "とモーター駆動音と共に現れたのは……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "車椅子のウマ娘",
+      "Text": "シュガーライツだ。車椅子から失礼する。\n少々、脚が不自由なものでな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "シュガーライツ"
+      ]
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "みんなからは“ライツ博士”と呼ばれている。\nこの立位式の車椅子も自らデザインしたもの。\nそう、私は――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "ライツ"
+      ]
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "――工学博士。\nメカ開発が専門のウマ娘だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "メカ開発が専門……。\nじゃあやっぱり、あの噂は……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "では――あらためて披露しよう。\n起動！\u3000ここへ来い、ST-2！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "ST-2"
+      ]
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（ガシャーン、ガシャーン！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "What!?\u3000これは――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "メカウマ娘『ST-2』。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "メカウマ娘"
+      ]
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "本物のウマ娘に匹敵する速度で走れる\n二足歩行ロボだ。まだ開発中ではあるが。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "フッ、そう、俺が視たのは、\nこの“未完成のもの”だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "やはり実在していたのか。\nしかし今『開発中』と言いましたが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "うむッ、このST-2はまだ未完成で、\nこれ以上の開発には、テストモデルとなる\nウマ娘の助力がいる。そこで――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事長",
+      "Text": "募集ッ！\u3000このトレセン学園に\n協力してくれる者を募りにきた、\nというわけだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "協力か。\nだが、そもそもの問題点として……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "そンなゲームみたいな操作系で、\nうまく動かせるのか？\n二足歩行の駆動制御は難しいはずだが。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "……ほう、詳しい者がいるようだな。\n無論、こんなコントローラーで\n自由に走らせることはできない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "このST-2の\n正式なコントロール方法は別にある。",
+      "ChoiceDataList": [
+        "正式なコントロール方法？それって……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "とりあえずは見てもらおう、真の操作系を。\nST-2、オープンブレイン。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "ダイブ・イン！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ST-2（サティ）",
+      "Text": "あーあー、聞こえるか？\n私の意識は今、ST-2の中に入り込み、\n完全に一体化している。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ST-2（サティ）",
+      "Text": "このST-2は、私の意識と直結し、\n意のままに動くメカなのだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "意のままに！？\n本当だ……。声もライツ博士の声に……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "フッ、羽化か。\nなら見せるがいい、さらなる深淵を。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "死と再生の狭間を越えて、\nどれほどの速さで疾駆できるか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ST-2（サティ）",
+      "Text": "もちろん最初からそのつもりだ。\nでは、見てもらおう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ST-2（サティ）",
+      "Text": "ロボット工学が、今現在、\nどこまで進化しているのかを。たぁぁあああ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "高らかに叫び、\nメカウマ娘ST-2は走り出した！\n走り出した、が……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（ギィィィ、ガチョーン、\nギィィィ、ガチョーン！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "全員",
+      "Text": "遅っ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ST-2（サティ）",
+      "Text": "なんの、もう少し！\u3000もう少しだけなら。\nたぁあああああああ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "頑張るST-2。だがそれでも、\nメカウマ娘の速度は一向に上がらなかった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ST-2（サティ）",
+      "Text": "今は！\u3000ここまでが！\u3000限界……なのだ……。\nだが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ST-2（サティ）",
+      "Text": "どうか力を貸してほしい。\nいつか本物のウマ娘と同じように走れる、\nその日まで……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘A",
+      "Text": "本物と同じって……。\nあれしか走れないんじゃ、さすがに無理よね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘B",
+      "Text": "うん……。わたし、元々ロボットとか\n興味ないし、力にはなれないかな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "明かされた現実。ウマ娘たちも続々と\n興味を失っていくが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ST-2（サティ）",
+      "Text": "よく見てくれ、もっと！\nこのST-2は必ず行ける、行けるんだ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ST-2（サティ）",
+      "Text": "私はこのメカに全てを懸けている！\n私には――これしかないんだ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "それでも必死なライツ博士の姿。\nどうも、このまま突き放すのも、\nかわいそうな気がした。",
+      "ChoiceDataList": [
+        "（もう少し、話を聞いてみようかな……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "正直、興味を惹かれる部分もある。\n後日、改めて詳しく聞くことにした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

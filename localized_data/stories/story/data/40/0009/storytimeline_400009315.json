@@ -1,0 +1,268 @@
+{
+  "Title": "Mentor",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ウマ娘養成クラブへ1日コーチにやってきた\nシンボリクリスエス。その相方には――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーザリオ",
+      "Text": "――今見てもらったとおり。視線はまっすぐ、\n上半身はリラックスするように。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーザリオ",
+      "Text": "それでは次。\nクリスエスさん、お願いします。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小さなウマ娘たち",
+      "Text": "（ビクッ……）\n（ザワザワ……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "…………私は――感じている。\n皆――すばらしい才能を――もっている、と。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "だから――お手伝い、させてほしい。\n皆が――楽しく、走れるように。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小さなウマ娘たち",
+      "Text": "（…………っ！）\n（……おずおず）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーザリオ",
+      "Text": "皆、大丈夫。\nクリスエスさんは優しい方だから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "犬っぽいウマ娘",
+      "Text": "クリスエスせんせ～～い！\nいまの、どうだった～～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "――Great……\n安定した――フォームだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小さなウマ娘たち",
+      "Text": "――あーー、先生にほめられていーなー！\n――つぎ、わたしが走る～～！",
+      "ChoiceDataList": [
+        "クリスエス、すっかり人気者だな～",
+        "クリスエス、すっかり人気者だね～"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーザリオ",
+      "Text": "それに教えるの、とても上手で。\nふふっ……憧れちゃいます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "シーザリオの――helpのおかげだ。\nだが、そう言われると――嬉しい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "シーザリオ"
+      ]
+    },
+    {
+      "Name": "シーザリオ",
+      "Text": "いえ、そんな――\nあら？\u3000あの子、ひとりだけ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーザリオ",
+      "Text": "……貴方は走らないの？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "拗ねたウマ娘",
+      "Text": "…………どうせ、むだだもん。\nわたし、からだ弱いし……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーザリオ",
+      "Text": "無駄だなんて、限らないよ。体が弱くても、\n活躍している先輩はいっぱいいるでしょ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "拗ねたウマ娘",
+      "Text": "うそだよ、そんなの……。\nそんなヒト、いるわけ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "……シーザリオ。\n私が……この子と話そう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シーザリオ",
+      "Text": "クリスエスさん……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "聞いて、ほしい――……私も――同じだ。\n体が――……弱かった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "拗ねたウマ娘",
+      "Text": "え……？\u3000そんなふうに見えないけど……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "変わった――いや――変えてくれたのだ。\n師匠との――出会いが――私を。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "……お前に――見てもらいたいものが、ある。\n――付き合って、くれるか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "はぁ、はぁ、はぁ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "――The final set!\n博士なら、できる――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "後日。シンボリクリスエスは\nライツ博士とのトレーニングを\n幼いウマ娘に見学してもらっていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "う……くっ……！\n――はあああああっ！",
+      "ChoiceDataList": [
+        "やった！新記録だ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "はぁ、はぁ……今日も、ありがとう。\nこれでまた一歩……近づけたな……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "ああ――そう遠くない、はずだ。\n走りのevolutionを――成し遂げる日は。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "拗ねたウマ娘",
+      "Text": "……ほんとうに……思ってるの？\nがんばれば……昔より走れるって……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "可能性は――諦めない者の前に、ある。\n手を伸ばせば――届く位置に。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "私も――博士と、同じ。\n助けを借りて――手を、伸ばしている。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "お前も――きっと、届くはずだ。\n応援するウマ娘が――ここに、いるのだから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "拗ねたウマ娘",
+      "Text": "……！\n…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "幼いウマ娘を養成クラブに送り届ける。\n彼女の表情は、見学に訪れる前よりも\nどこか明るく――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "――Goodbye, and take care.\nまた悩みがあれば――相談にきてくれ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "拗ねたウマ娘",
+      "Text": "（……ペコリ。タッタッタッ……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "…………。",
+      "ChoiceDataList": [
+        "クリスエス？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "……私は――導けただろうか？\nかつての――師匠のように……。",
+      "ChoiceDataList": [
+        "できたはずだよ、きっと"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "――……そうか。\nならば――Mission Accomplished.",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

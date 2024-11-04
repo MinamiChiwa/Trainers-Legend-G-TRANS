@@ -1,0 +1,242 @@
+{
+  "Title": "Communication",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "――いらっしゃい、ませ。\nHow many――……何名様、ですか？",
+      "ChoiceDataList": [
+        "ひとりです"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "――かしこまり、ました。\nお席に――案内、します。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ある日、ファミレスで短期バイトをしている\nシンボリクリスエスの様子を見に行った。\nというのも――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "私と――博士は、似ている。\n共に――使命を果たそう、と――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "だから――見習いたい。\n困難に立ち向かう――彼女を。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "この間のファン感謝祭での経験から、\nコミュニケーション能力を磨くには\n接客業が最適という結論になった。だが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "9番テーブルに――これを。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "配膳ロボット",
+      "Text": "『了解しましたワン』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "配膳ロボット",
+      "Text": "『ご注文の商品が到着したワン。\nトレーから取ってほしいワン』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……このファミレスには、\n配膳ロボットが配置されていた。\nこれでは接客する機会が少ないだろう。",
+      "ChoiceDataList": [
+        "コミュ力の“修行”になるのかな……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ノーリーズン",
+      "Text": "うぬぬぬ！\u3000迷う！\u3000迷うの～～う！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ノーリーズン",
+      "Text": "『カリカリグリルのスパイシーチキン』と\n『たっぷりチーズのトマトピザ』……！\n此度のコーラのお供は……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "デュランダル",
+      "Text": "どちらも美味しそうで、判断に迷いますね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "――How may I help you?\n――ノーリーズン、デュランダル。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "ノーリーズン",
+        "デュランダル"
+      ]
+    },
+    {
+      "Name": "ノーリーズン",
+      "Text": "おおっ、クリスエス殿！\nコーラに合う馳走、お主はどう見る？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "チキンとピザ――どちらも相性は――good.\nだが、私がオススメするのは――……\nbanana yogurt.",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "デュランダル",
+      "Text": "え？\u3000バナナヨーグルトですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "Yes.\u3000この店のcolaは――炭酸が、強い。\nゆえにyogurtのまろやかさが――際立つ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "そしてcolaとbanana――意外と、合う。\n炭酸とyogurtの組み合わせは――\n整腸効果を――期待、できる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "デュランダル",
+      "Text": "なるほど。健康面からも勧めるなんて、\nクリスエスさんらしいですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ノーリーズン",
+      "Text": "うむ、此度の馳走はおかげで決まりじゃ！\nクリスエス殿、大義であった！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "My pleasure――役に立つことができて、\n光栄だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "――Excuse me.\n――水のおかわりは――いかが？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老婦人",
+      "Text": "まあ、ちょうど頼もうと思っていた\nところなの。あなた、気が利くのね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "――You flatter me.",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老婦人",
+      "Text": "ユー……ええっと……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "――失礼。――ありがとう、ございます。\n――お褒めの言葉――うれしい、です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老婦人",
+      "Text": "あら……うふふ。ご丁寧にどうも。",
+      "ChoiceDataList": [
+        "（へえ……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "悪いな――トレーナー。\n私の休憩に――付き合わせて。",
+      "ChoiceDataList": [
+        "ううん。それより頑張ってるみたいだな",
+        "ううん。それより頑張ってるみたいだね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "――ああ。\n――ここを選んだのは――正解だった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "Robotsが配膳する分――明確になった。\nバイトの『我々』が――どう、仕事するか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "Needsを察知する――観察力……。\n相手にあわせた――言葉選び……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "仕事を通じて――感じている。\nそれらのskillsが――磨かれていくのを。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "どうやら確かな手ごたえを感じているようだ。\n修行になるかという疑問は杞憂だったらしい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "……――すまない。\nそろそろ――時間だ。",
+      "ChoiceDataList": [
+        "ああ、いってらっしゃい！",
+        "うん、いってらっしゃい！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "颯爽と仕事に戻るシンボリクリスエス。\nそんな彼女にエールを送るのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

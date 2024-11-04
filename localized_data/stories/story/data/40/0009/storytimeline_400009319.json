@@ -1,0 +1,260 @@
+{
+  "Title": "4杯目:ギムレットを飲み干せ",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "トレーナー、話がある。この、\nゼウスから授かりし神機に刮目しろ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "そう言って彼女が見せてくれたのは……\nボトルを自由にジャグリングして、\nお酒を提供する、バーテンダーの動画だった。",
+      "ChoiceDataList": [
+        "す、すごい……こんな技術が……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "ハァーッハッハァ！！\u3000オマエにもわかるか！\nこの技術が！！\u3000年月を捧げた狂気が！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "そうだ、これこそが俺の求めていた刺激！！\n黄金郷に至るを記した、地図の一片だ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "故に、トレーナー！\u3000俺もまた、\nこの深淵を覗き込むことにした！",
+      "ChoiceDataList": [
+        "ギムレットならきっとできるよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "すでに、仮初めの器での練習は盤石。\nあとは透き通る本物でやり遂げるのみ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "さあ、用意してくれ。\nヒュドラへと挑む権利を！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "挑戦当日。タニノギムレットの眼前には、\n様々なガラス製のボトルが並んでいた。",
+      "ChoiceDataList": [
+        "今日はここ、好きに使っていいから！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "ククッ……許すのだな？\u3000トレーナー。\n俺のために――ステュクス、あるいは\nアケローンの渡し守となる自分を。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "俺は今より、冥府に挑む。アイアコスの\n鍵を取り上げるなら、今しかないぞ？",
+      "ChoiceDataList": [
+        "まさか！君の挑戦を止めたりはしないよ",
+        "まさか！貴方の挑戦を止めたりはしないよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "学園と交渉し、調理室の使用許可は取った。\nその際、破損の恐れがある物も取り去り……\nできる限りの準備をしておいた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "…………フ。\nでは、幕開けだ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "ハァーハッハッハァ！！\u3000燃え上がれ！\nプロメテウスの焔よ！\u3000人類の種火よ！！！",
+      "ChoiceDataList": [
+        "うおおおおお！？……で、できてるっ！！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "ククッ！\u3000大洪水に飲まれたか？\n僥倖！！\u3000観客を巻き込み、更なる熱狂を！！\n届け箱舟よ！！\u3000パルナッソスまで！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "危なげなど一切ない。彼女は本物のボトルを\n曲芸師のように投げ、操ってみせた――！",
+      "ChoiceDataList": [
+        "すごい……すごいぞギムレット！",
+        "すごい……すごいねギムレット！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "ハ！\u3000いいや。星座へと至る\n賞賛を賜るべきは、俺ではない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "…………やはり、オマエで間違いない。",
+      "ChoiceDataList": [
+        "え……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "ククッ……どうだ？\u3000お礼に1杯。\n無論、俺の奢りだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "では、次なる酩酊に――乾杯。",
+      "ChoiceDataList": [
+        "乾杯！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "タニノギムレットが注文してくれた1杯を\n口にする。そのあとで、今日彼女が\n成し遂げたことについて語った。",
+      "ChoiceDataList": [
+        "これで、君の夢にまた一歩近づいたな！",
+        "これで、貴方の夢にまた一歩近づいたね！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "ああ……俺の幻夢。世界を導く虹の橋。\nそのことだが……トレーナー。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "俺はオマエと、同じ夢を傾けたい。",
+      "ChoiceDataList": [
+        "…………え？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "真の酩酊は、アルコールの有無に依らない。\n――世界に俺を浴びせ、それを証明する。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "デュオニュソスの真似事で、誰しもが\n酩酊する刹那……それこそが、辿り着けぬ頂。\nいずれ迷える羊に提供すべき、新世界だ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "そのために何が必要か？\u3000決まっている。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "時には俺を気遣い、騙り――導き！\n信頼、親愛。俺に、新たな夢を見せた――――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "オマエだ！！\u3000俺を理解し――俺が理解した！\n我が半身とも言うべき、ワタシの理解者だ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "――――さあ、俺と来い。",
+      "ChoiceDataList": [
+        "……え、えっと……ちょっと待って……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "気持ちは嬉しいが、思ってもみなかった\n求めに、ついたじろいでしまう……！\nしばし、考える時間が欲しかったが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "許可できない。時間は有限だ。\n夜の女神が去る前に、さあ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "ククッ――どうせ、答えは出ているのだろう？\nならば、理性を飲み干せ！\u3000衝動を口にしろ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "酩酊から、醒める前に！",
+      "ChoiceDataList": [
+        "…………"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "またひと口、手にあるモクテルを飲む。\nライムのツンとした香りが鼻を抜けた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "タニノギムレットの夢を、隣で見届けたい。\nそう思う気持ちは以前からあった。だから――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "これが、彼女に酔った勢いだとしても……\nそれが醒めてしまう前に。口を開くのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『君と一緒に、俺も――』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『貴方と一緒に、私も――』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
