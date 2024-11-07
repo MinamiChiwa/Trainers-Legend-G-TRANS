@@ -8,233 +8,233 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "シンボリクリスエス",
-      "Text": "――いらっしゃい、ませ。\nHow many――……何名様、ですか？",
+      "Name": "吉兆",
+      "Text": "――欢迎，光临。\nHow many――……请问几位？",
       "ChoiceDataList": [
-        "ひとりです"
+        "一位"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シンボリクリスエス",
-      "Text": "――かしこまり、ました。\nお席に――案内、します。",
+      "Name": "吉兆",
+      "Text": "――好的，客人。\n我带您――到座位上。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "ある日、ファミレスで短期バイトをしている\nシンボリクリスエスの様子を見に行った。\nというのも――",
+      "Text": "某天，我去探望在家庭餐厅\n做兼职的吉兆。\n那是因为――",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シンボリクリスエス",
-      "Text": "私と――博士は、似ている。\n共に――使命を果たそう、と――",
+      "Name": "吉兆",
+      "Text": "我和博士――很相像。\n都在为了――达成使命而奋斗着――",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シンボリクリスエス",
-      "Text": "だから――見習いたい。\n困難に立ち向かう――彼女を。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "この間のファン感謝祭での経験から、\nコミュニケーション能力を磨くには\n接客業が最適という結論になった。だが……。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "シンボリクリスエス",
-      "Text": "9番テーブルに――これを。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "配膳ロボット",
-      "Text": "『了解しましたワン』",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "配膳ロボット",
-      "Text": "『ご注文の商品が到着したワン。\nトレーから取ってほしいワン』",
+      "Name": "吉兆",
+      "Text": "所以――我要向她学习。\n像她一样――面对困难。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "……このファミレスには、\n配膳ロボットが配置されていた。\nこれでは接客する機会が少ないだろう。",
+      "Text": "吸取了前些日子粉丝感谢祭的经验，\n她得出结论，要磨炼交际能力\n服务业是最合适的。但是……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "吉兆",
+      "Text": "给9号桌――这个。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "配餐机器人",
+      "Text": "『明白了汪』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "配餐机器人",
+      "Text": "『您点的菜品到了汪。\n请拿走托盘汪』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……这家家庭餐厅，\n引进了配餐机器人。\n这样子与客人接触的机会就很少了。",
       "ChoiceDataList": [
-        "コミュ力の“修行”になるのかな……？"
+        "真的能进行交际能力的“修行”吗……？"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ノーリーズン",
-      "Text": "うぬぬぬ！\u3000迷う！\u3000迷うの～～う！",
+      "Name": "莫名其妙",
+      "Text": "唔呶呶呶！\u3000很难选！\u3000很难选啊～～！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ノーリーズン",
-      "Text": "『カリカリグリルのスパイシーチキン』と\n『たっぷりチーズのトマトピザ』……！\n此度のコーラのお供は……！",
+      "Name": "莫名其妙",
+      "Text": "『外焦里嫩辣味烤鸡』和\n『芝士满满西红柿披萨』……！\n这次选哪个配可乐……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "デュランダル",
-      "Text": "どちらも美味しそうで、判断に迷いますね。",
+      "Name": "圣剑",
+      "Text": "两样都很好吃的样子，很难抉择呢。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シンボリクリスエス",
-      "Text": "――How may I help you?\n――ノーリーズン、デュランダル。",
+      "Name": "吉兆",
+      "Text": "――How may I help you?\n――莫名其妙，圣剑。",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
-        "ノーリーズン",
-        "デュランダル"
+        "莫名其妙",
+        "圣剑"
       ]
     },
     {
-      "Name": "ノーリーズン",
-      "Text": "おおっ、クリスエス殿！\nコーラに合う馳走、お主はどう見る？",
+      "Name": "莫名其妙",
+      "Text": "噢噢，吉兆阁下！\n适合跟可乐一起享用的料理，\n你有什么主意吗？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シンボリクリスエス",
-      "Text": "チキンとピザ――どちらも相性は――good.\nだが、私がオススメするのは――……\nbanana yogurt.",
+      "Name": "吉兆",
+      "Text": "烤鸡和披萨――两样配可乐都――good.\n但是，我想推荐的是――……\nbanana yogurt.",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "デュランダル",
-      "Text": "え？\u3000バナナヨーグルトですか？",
+      "Name": "圣剑",
+      "Text": "诶？\u3000香蕉酸奶吗？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シンボリクリスエス",
-      "Text": "Yes.\u3000この店のcolaは――炭酸が、強い。\nゆえにyogurtのまろやかさが――際立つ。",
+      "Name": "吉兆",
+      "Text": "Yes.\u3000这家店的cola――碳酸很足。\n因此yogurt的顺滑口感――会更突出。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シンボリクリスエス",
-      "Text": "そしてcolaとbanana――意外と、合う。\n炭酸とyogurtの組み合わせは――\n整腸効果を――期待、できる。",
+      "Name": "吉兆",
+      "Text": "而且cola与banana――意外地很搭。\n炭酸与yogurt的组合――\n有助于――改善肠道功能。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "デュランダル",
-      "Text": "なるほど。健康面からも勧めるなんて、\nクリスエスさんらしいですね。",
+      "Name": "圣剑",
+      "Text": "原来如此。从健康的角度给予建议，\n确实是吉兆同学的作风。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ノーリーズン",
-      "Text": "うむ、此度の馳走はおかげで決まりじゃ！\nクリスエス殿、大義であった！",
+      "Name": "莫名其妙",
+      "Text": "唔呣，那这次点的东西决定好了！\n吉兆阁下，实乃行大义之举啊！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シンボリクリスエス",
-      "Text": "My pleasure――役に立つことができて、\n光栄だ。",
+      "Name": "吉兆",
+      "Text": "My pleasure――能帮上你们，\n我很荣幸。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シンボリクリスエス",
-      "Text": "――Excuse me.\n――水のおかわりは――いかが？",
+      "Name": "吉兆",
+      "Text": "――Excuse me.\n――请问需要――加水吗？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "老婦人",
-      "Text": "まあ、ちょうど頼もうと思っていた\nところなの。あなた、気が利くのね。",
+      "Name": "老妇人",
+      "Text": "哎呀，我正好想拜托加水呢。\n你真是体贴。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シンボリクリスエス",
+      "Name": "吉兆",
       "Text": "――You flatter me.",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "老婦人",
-      "Text": "ユー……ええっと……？",
+      "Name": "老妇人",
+      "Text": "优……什么……？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シンボリクリスエス",
-      "Text": "――失礼。――ありがとう、ございます。\n――お褒めの言葉――うれしい、です。",
+      "Name": "吉兆",
+      "Text": "――抱歉。――谢谢，您。\n――得到您的夸奖―我很，高兴。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "老婦人",
-      "Text": "あら……うふふ。ご丁寧にどうも。",
+      "Name": "老妇人",
+      "Text": "哎呀……呵呵呵。真是懂礼貌的孩子。",
       "ChoiceDataList": [
-        "（へえ……！）"
+        "（哇……！）"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シンボリクリスエス",
-      "Text": "悪いな――トレーナー。\n私の休憩に――付き合わせて。",
+      "Name": "吉兆",
+      "Text": "抱歉――训练员。\n还让你――陪我休息。",
       "ChoiceDataList": [
-        "ううん。それより頑張ってるみたいだな",
-        "ううん。それより頑張ってるみたいだね"
+        "没事。话说你好像有进步呢",
+        "没事。话说你好像有进步呢"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シンボリクリスエス",
-      "Text": "――ああ。\n――ここを選んだのは――正解だった。",
+      "Name": "吉兆",
+      "Text": "――是啊。\n――选择来这里――是正确的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シンボリクリスエス",
-      "Text": "Robotsが配膳する分――明確になった。\nバイトの『我々』が――どう、仕事するか。",
+      "Name": "吉兆",
+      "Text": "Robots负责配餐后――就变明确了。\n做兼职的『我们』――该如何工作。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シンボリクリスエス",
-      "Text": "Needsを察知する――観察力……。\n相手にあわせた――言葉選び……。",
+      "Name": "吉兆",
+      "Text": "察觉客人Needs的――观察力……。\n配合对方――选择措辞……。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シンボリクリスエス",
-      "Text": "仕事を通じて――感じている。\nそれらのskillsが――磨かれていくのを。",
+      "Name": "吉兆",
+      "Text": "通过工作――深有体会。\n交际的skills――在不断进步。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "どうやら確かな手ごたえを感じているようだ。\n修行になるかという疑問は杞憂だったらしい。",
+      "Text": "看来她也切实感受到自己的进步。\n我的担忧似乎是多余的了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シンボリクリスエス",
-      "Text": "……――すまない。\nそろそろ――時間だ。",
+      "Name": "吉兆",
+      "Text": "……――抱歉。\n差不多――到时间了。",
       "ChoiceDataList": [
-        "ああ、いってらっしゃい！",
-        "うん、いってらっしゃい！"
+        "嗯，你加油！",
+        "嗯，你加油！"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "颯爽と仕事に戻るシンボリクリスエス。\nそんな彼女にエールを送るのだった。",
+      "Text": "吉兆飒爽地回去工作了。\n我在后面为她加油助威。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }
