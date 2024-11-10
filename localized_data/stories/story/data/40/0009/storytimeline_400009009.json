@@ -1,0 +1,479 @@
+{
+  "Title": "2.2 参加レポ：メカエキスポ",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "メカ……エキスポ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "ああ。まもなく開催されるイベントだ。\nロボット工学者たちにとっては恒例、\nかつ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "とても重要なイベントだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "全国から、多くの研究者たちが\n自慢のロボを持って、集まる。そして……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "情報交換をする。\nST-2をアップグレードするための\n有用な情報も得られるはずだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "じゃあ……出るんだ、それ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "出たい。是が非でも。だが……。",
+      "ChoiceDataList": [
+        "何か問題でも？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "ああ……うまく交流する自信がない。\n混みあった場所は移動もままならないし……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "この出で立ちだと、話しかけてくる\n研究者たちにも気を使わせてしまうしな……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "他の研究者にとっては問題のない場所。\nだがライツ博士にとっては、\nやや気後れする場所のようだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "では博士。私も同行しましょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "ハヤヒデ……。\n君が？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "はい。不要な気遣いを相手にさせないよう、\nうまく仲介しましょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "ちょっとした助手代わりということで。\nそれから車椅子移動のサポートも……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "だったらアタシも行く。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "タイシン？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "タイシン"
+      ]
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "移動のサポートだったら、\nアタシもできるから。\nハヤヒデは仲介役に集中して。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "あ、ああ……。助かるが……\n珍しいな、タイシン。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ナリタタイシンはどちらかというと、\n交流好きなタイプでも、にぎやかな場所が\n好きなタイプでもない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "なのに、どうして……\n進んで乗ってきてくれたのだろうか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "そうか、2人とも、ありがとう。\nでは、せめてもの礼に……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "メカエキスポ用の衣装は私が用意しよう。\n同じブースに立つためにな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "そしてメカエキスポの開催日――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "すみません、道開けてもらってもいいですか？\n車椅子、通るので。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "博士、ほらこっち。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ロボット研究者A",
+      "Text": "へー、これがメカウマ娘ST-2か。\nなかなか本格的だな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ロボット研究者B",
+      "Text": "開発目的は……って、あ、すみません。\n聞くべき話ではなかったかもしれませんね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "あ、いや、その……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ロボット研究者B",
+      "Text": "では、これで失礼を……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "いえ、聞いていただいて構いません。\nとくに隠している話でもありませんので。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "ST-2は介護用ではなく、博士の意識を\n搭載して動く、フルダイブ型ロボットとして\n設計されています。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "そ、そうだ。隠しているわけでも、\n気にしているわけでもないのだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ロボット研究者B",
+      "Text": "そうでしたか！\u3000では……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "他にもライツ博士と話したい方がいましたら、\nどうぞ。今後の開発についての意見も、\nぜひうかがいたく……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "うまく場を取り持つビワハヤヒデ。\nおかげでライツ博士は、\n多くの研究者と情報交換できた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "ライツ博士のほうは……しばらく\nハヤヒデに任せておいて大丈夫かな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "だったらアタシは会場巡りを……。\nパンフとか資料とか、ST-2のために\nなりそうなものを……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "へぇ、このロボット……。よさそう。\nサッカーやらせてるんだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "速く走らせるのとは違うけど、\nでもなんかの参考に……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "すみません、このパンフ、\nもらってもいいですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ロボット研究者C",
+      "Text": "あ、ごめんね。\nそれ、実は配布用じゃないの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "あ、そうですか……。\nすみません……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ロボット研究者C",
+      "Text": "へぇ……でも……カッコイイ衣装着てるね。\nそれ、コスプレ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "いえ、コスプレ用じゃないです……。素材も\nしっかりしたもので作ってもらっていて……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "レースでも着られるようになってます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ロボット研究者C",
+      "Text": "そう……。\nなかなか、いいものを見せてもらったわ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ロボット研究者C",
+      "Text": "いいわよ。\n特別に1部あげる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "いいんですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ロボット研究者C",
+      "Text": "うん。こっちばかり、いいものを\n見せてもらっちゃ悪いからね。\nありがとう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "い、いえ、どうも……\nありがとうございます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "そしてイベントも終わりに近づいた頃――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "ふぅ、少し疲れたな、トレーナー。\n外の空気を……。",
+      "ChoiceDataList": [
+        "はい、休んだほうがいいと思います"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "あれ……博士……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "タイシンか。どうした？\n君も休憩か？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "……うん。アタシも博士と同じで、\nあんまり得意じゃないから……人込み。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "そうか。なのに……\n今日はどうして手伝ってくれたんだ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "自分も気になっていた。いつも素っ気ない\nナリタタイシンが、なぜライツ博士のために\nここまで頑張ってくれたのか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "別にたいしたことじゃ。\nただ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "気になったんだ……あの言葉が。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ST-2（サティ）",
+      "Text": "よく見てくれ、もっと！\nこのST-2は必ず行ける、行けるんだ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ST-2（サティ）",
+      "Text": "私はこのメカに全てを懸けている！\n私には――これしかないんだ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "『これしかない』。あの言葉を聞いて、\nなんか……少しね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "アタシも『その小さな体で、\nレースなんて無理』って言われ続けた。\nそれでも……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "諦めなかった。\nアタシには……走りしかなかったから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "自分にとってのただひとつを捨てたら、\n何もなくなる。\nそうはさせたくなかったから……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "つい……魔が差した。\n――それだけ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "そうだったのか、ありがとう……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "今日は本当に助かった。\n君の集めてくれた、たくさんのパンフ。\nノーマークの情報も多数あった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "後でありがたく、\nじっくり読ませてもらおう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "……ん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ナリタタイシンはナリタタイシンなりに、\nライツ博士にシンパシーを\n感じていたようだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（ピンパンポーン♪）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "あ……そろそろ終わりの時間。\n撤収準備、だね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "ああ、最後までよろしく頼む。\nハヤヒデのところに戻り、そして――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "ラボに帰ったら、軽くお疲れ様会でもしよう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "……うん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "こうしてメカエキスポ出展は大成功。\nライツ博士とナリタタイシンは\n心の深いところで、わかりあえたようだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

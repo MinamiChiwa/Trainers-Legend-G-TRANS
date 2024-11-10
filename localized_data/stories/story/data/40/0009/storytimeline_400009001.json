@@ -1,0 +1,432 @@
+{
+  "Title": "1.2 開発フローの提示",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――後日。メカウマ娘に興味を持った者が\n集められ、説明会が行われた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "みんな、集まってくれて感謝する。\nこんなに……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "って、たった6人か。\nあのデモンストレーションでは、\n致し方ないかもしれないが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "集まったのは自分、シンボリクリスエス、\nエアシャカール、タニノギムレット、\nビワハヤヒデ、ナリタタイシンの6人だった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "シンボリクリスエス",
+        "エアシャカール",
+        "タニノギムレット",
+        "ビワハヤヒデ",
+        "ナリタタイシン"
+      ]
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "囀れ、車輪の姫。\nブリキ缶に込める衝動――その原初を！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "ブリキ缶に込める……衝動？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "つまり、開発の動機が\n知りたいということです。\n博士はなぜ、メカウマ娘の開発を？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "動機か。いいだろう。\nならば昔話を聞かせよう。\n私がまだ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "このトレセン学園の生徒だった時の話を。",
+      "ChoiceDataList": [
+        "トレセン学園の……生徒？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ということはライツ博士は、\nここにいる5人の先輩ということに\nなりそうだが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "はぁ、はぁ……また勝てなかった……。\nでもっ、楽しい！\u3000次こそ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "（たいして才能があったわけでもない。\n飛び抜けて強かったわけでも。それでも……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "（私は走るのが好きだった。\nそんな、ごく普通のウマ娘の1人だった）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "もう少しだけ、速く走れたら……！\nもう少しだけ、いい景色が見られたら……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "（私の夢は、ごくごく小さなものだった。\n勝利でも成功でもなく、\n現状より少しだけ、速く流れる景色が見たい）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "（だが――神はそれを許さなかった）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "え……じゃあもう2度と……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "医者",
+      "Text": "はい。完治しても……、\nどうにか歩くぐらいが精一杯でしょう。\n車椅子生活は……避けられません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "医者",
+      "Text": "残念ながら、もうレースは……。\n引退をお勧めします。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "レースに出られない……。それはいい。\n構わない。でも……もう走れないなんて……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "諦めるしか……ないのか……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "そうだ、好きに走れたのは、\nもう過去のこと……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "忘れなければ……ならない……。\n忘れなければ、もっと辛くなる……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "だが……この想い。\nそれでも……どうしても……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "完全に消し去ることはできない。\n私は――ウマ娘だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "感じたい。もう1度、自分で走り……\n風を切る心地よさを！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "かつて人は、生活をより便利にするために、\n自動車を、機関車を、飛行機を生み出した。\nだが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "私の発明は、大義のためではない。\n極めて利己的で、\n自分勝手な願いに基づいている。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "だがそれでも……。私はもう1度走り、\n自分の感覚で、流れる景色を味わいたい。",
+      "ChoiceDataList": [
+        "なるほど、それで……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "当然ながらメカウマ娘を完成させても、\nそれでトゥインクル・シリーズに\n出られるわけではない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "トゥインクル・シリーズ"
+      ]
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "しかしライツ博士の夢は、\nそんな大それたものではなく――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "もっとささやかで、儚いものだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "これが包み隠さぬ内情だ。\n申し訳ないが、仮に成し遂げたところで……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "協力してくれた者に返せる対価は\nほとんどない。ビジネスになる見込みも……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "それでも私は……\n私の知らない走りを知る君たちに、\nどうしても手を貸してほしい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "共同開発者になってほしいのだ。\nうまい頼み方もできないが……頼む。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "誰もが押し黙る。実現はかなり困難。\nその上、見返りもなさそうな\n挑戦だが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "ふーむ、しかし『対価はない』と\nライツ博士は言いますが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "一概にそうとも言い切れないのでは\nないでしょうか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "というと……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "メカウマ娘の開発。それに協力することは、\n走る構造を、より深く理解することに\nつながります。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ビワハヤヒデ",
+      "Text": "仕組みを知る中で、あるいは併走する中で、\n得るものも多いように思いますが。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "だな。うまく育てば、疲れ知らずの\n併走パートナーになる。もし失敗しても――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "エアシャカール",
+      "Text": "オレはデータさえ丸ごといただけりゃ、\nそれでいい。\nそっちの方がはるかに旨味がある。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "君たち……。では……！",
+      "ChoiceDataList": [
+        "やりましょう！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "トレーナー……。",
+      "ChoiceDataList": [
+        "俺は……ウマ娘の夢を叶えたい",
+        "私は……ウマ娘の夢を叶えたい"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "走りをより深く学び、<chrname>の\n夢を叶えたい。そして同時に……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "担当ではなくとも、同じくウマ娘である\nライツ博士の夢も、同時に叶えたかった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "フム、共感――した。\nお前のMissionに――手を貸そう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "……まあ、別に。\n時間あるとき、手伝うくらいなら。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "ククククク、窯に火を焼べろ。\n対価？\u3000そんなのはどうでもいい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "タニノギムレット",
+      "Text": "運命を閉ざす扉があるならばッ。\n蹴りつけて、蹴倒して、蹴破って進むのみ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "みんな、ありがとう。\nすまない。感謝する……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "ではメカウマ娘ST-2を\n強化するために、必要なことを伝えよう。\nさあ、研究室へ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "研究室"
+      ]
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "君たちにはこれから、\n私がダイブインしたST-2と、\nなるべく共にトレーニングをしてもらう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "そうすることでデータを蓄積し、\n最適化を目指すわけだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリクリスエス",
+      "Text": "――Data collection.\nそれだけで――速くなるのか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "ああ、そして定期的に\n『Upgrade Exam』で、ST-2が\nどれほど成長したか、確かめる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "Upgrade Exam"
+      ]
+    },
+    {
+      "Name": "ナリタタイシン",
+      "Text": "アップグレードイグザム……って、なに？\n急に言われても、知らないんだけど……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "『Upgrade Exam』はつまり、\nテスト代わりに行う模擬レースだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "そして『Upgrade Exam』が\n終わったら、その結果を参考に、\n強化の方向性を決めてもらう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "これを『チューニング』と言う。",
+      "ChoiceDataList": [
+        "好きにチューニングしていいんですか？"
+      ],
+      "ColorTextInfoList": [
+        "チューニング"
+      ]
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "ああ。私は走れさえすれば構わない。\n細かいところは君たちにゆだねる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "まとめると――\nトレーニング→『Upgrade Exam』→\nチューニングというのが、基本の流れだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シュガーライツ",
+      "Text": "一応、説明は以上になる……。\nでは、まずは一緒に\nトレーニングしてみようか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "こうして、メカウマ娘の研究に\n協力することとなったのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
