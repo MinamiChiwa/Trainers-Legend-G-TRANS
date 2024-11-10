@@ -1,0 +1,43 @@
+{
+  "Title": "缺席的理由……",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "莱茵力量没来训练，于是我便出去找她。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "——呣呀呣呀。\n……太阳公公……今天也……暖洋洋的。",
+      "ChoiceDataList": [
+        "莱茵，到训练时间了哦"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "——诶！？\u3000训练员？\n……不、不是吧，都这个时候了！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莱茵力量",
+      "Text": "因为太舒服所以睡过头了。\n……对不起。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "为了不让同样的事情发生，\n得好好注意莱茵力量的状况。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
