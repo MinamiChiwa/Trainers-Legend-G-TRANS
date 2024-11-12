@@ -1,5 +1,5 @@
 {
-  "Title": "1.1 開発開始",
+  "Title": "1.1 开始开发",
   "TextBlockList": [
     {
       "Name": "",
@@ -8,369 +8,369 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "（ガシャーン、ガシャーン！）",
+      "Name": "独白",
+      "Text": "（哐当，哐当！）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "？？？",
-      "Text": "ふむ、慣らし運転はこんなものか。\nでは――いくぞ。",
+      "Text": "嗯，磨合运行就到此为止吧。\n接下来——出发！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "（ブオオオン、キュイーン！）",
+      "Name": "独白",
+      "Text": "（轰隆、哐！）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シンボリクリスエス",
-      "Text": "フム…… You saw something?\nギムレット、トレーニング場で――\n何を見たと？",
+      "Name": "吉兆",
+      "Text": "唔姆……You saw something？\n美酒，你在训练场上——看到了什么？",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
-        "ギムレット"
+        "美酒"
       ]
     },
     {
-      "Name": "タニノギムレット",
-      "Text": "フハハハハ！\u3000聴け！\n俺が視た、あるいは観たのは――",
+      "Name": "谷野美酒",
+      "Text": "哈哈哈哈！听好了！\n我看到的，或许说遇见的——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "タニノギムレット",
-      "Text": "さまよえる“ブリキ缶”！",
+      "Name": "谷野美酒",
+      "Text": "是一个流浪的“铁皮罐”！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ナリタタイシン",
-      "Text": "え、ロボットが現れた？\nトレーニング場に？",
+      "Name": "成田大进",
+      "Text": "诶，出现了机器人？\n在训练场上？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "ああ、手足のついた金属の塊が\n歩いていたらしい。目撃情報が多数あってな。",
+      "Name": "琵琶晨光",
+      "Text": "是啊，好像有个带着手脚的金属块\n在四处走动。有不少目击报告呢。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ナリタタイシン",
-      "Text": "ハヤヒデ……。清掃マシーンとかなら\nまだわかるけど、さすがにロボなんて……。",
+      "Name": "成田大进",
+      "Text": "晨光……\n如果是清扫机器的话也就算了，\n但是机器人什么的……",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
-        "ハヤヒデ"
+        "晨光"
       ]
     },
     {
-      "Name": "理事長の校内放送",
-      "Text": "『あーあー、\nトレセン学園の生徒諸君、傾注ッ！\n理事長の秋川だ』",
+      "Name": "理事长的校内广播",
+      "Text": "『啊—啊—，特雷森学园的学生们，\n请注意！我是理事长秋川！』",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
-        "トレセン学園",
+        "特雷森学园",
         "秋川"
       ]
     },
     {
-      "Name": "理事長の校内放送",
-      "Text": "『皆に見せたいものがある。\n手の空いている者は、\nトレーニング場に集合ッ！』",
+      "Name": "理事长的校内广播",
+      "Text": "『我有件东西想给大家看，\n各位有空的话请到训练场集合！』",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "エアシャカール",
-      "Text": "チッ、集合だと？\n一体なンだってンだ。",
+      "Name": "空中神宫",
+      "Text": "集合？\n究竟发生了什么？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "秋川理事長からの呼び出し。\nそしてトレーニング場で\n『ロボを見た！』という奇妙な噂。",
+      "Name": "独白",
+      "Text": "秋川理事长的号召。\n再加上在训练场上『看到了机器人！』\n的奇妙传言。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "いろいろと気にかかる。\n自分も外へ急ぐことにした。",
+      "Name": "独白",
+      "Text": "让人很是在意。\n我也急忙赶往外面。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "秋川理事長",
-      "Text": "大儀ッ！\u3000皆よく集まってくれた。\n今回は皆に、どうしても紹介したい者がいる。",
+      "Name": "秋川理事长",
+      "Text": "很好！感谢大家的到来。\n这次，我必须向大家介绍\n一位特殊的存在。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "秋川理事長",
-      "Text": "目撃者もいるようなので、そろそろ正式に\n紹介しておきたいと思ってな。さあ、ここへ！",
+      "Name": "秋川理事长",
+      "Text": "既然已经被人目击到，\n我想差不多该正式介绍一下了。\n来，请到这里！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "（キュイーン！）",
+      "Name": "独白",
+      "Text": "（嗡嗡！）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "とモーター駆動音と共に現れたのは……。",
+      "Name": "独白",
+      "Text": "伴随着马达的轰鸣声出现的是……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "車椅子のウマ娘",
-      "Text": "シュガーライツだ。車椅子から失礼する。\n少々、脚が不自由なものでな。",
+      "Name": "轮椅上的马娘",
+      "Text": "在下砂糖光。\n请原谅我无法从轮椅上起身。\n我的腿脚有些不便。",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
-        "シュガーライツ"
+        "砂糖光"
       ]
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "みんなからは“ライツ博士”と呼ばれている。\nこの立位式の車椅子も自らデザインしたもの。\nそう、私は――",
+      "Name": "砂糖光",
+      "Text": "大家都称呼我“莱兹博士”。\n这个立式轮椅也是自己设计的。\n没错，我——",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
-        "ライツ"
+        "莱兹"
       ]
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "――工学博士。\nメカ開発が専門のウマ娘だ。",
+      "Name": "砂糖光",
+      "Text": "——是一名工程学博士。\n专门从事机械开发的马娘。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ナリタタイシン",
-      "Text": "メカ開発が専門……。\nじゃあやっぱり、あの噂は……。",
+      "Name": "成田大进",
+      "Text": "机械开发的专家……\n果然，那个传闻……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "では――あらためて披露しよう。\n起動！\u3000ここへ来い、ST-2！",
+      "Name": "砂糖光",
+      "Text": "那么——我重新向大家展示一下。\n启动！到我这里来，ST-2！",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
         "ST-2"
       ]
     },
     {
-      "Name": "モノローグ",
-      "Text": "（ガシャーン、ガシャーン！）",
+      "Name": "独白",
+      "Text": "（哐当、哐当！）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シンボリクリスエス",
-      "Text": "What!?\u3000これは――",
+      "Name": "吉兆",
+      "Text": "What!?这是——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "メカウマ娘『ST-2』。",
+      "Name": "砂糖光",
+      "Text": "机械马娘『ST-2』。",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
-        "メカウマ娘"
+        "机械马娘"
       ]
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "本物のウマ娘に匹敵する速度で走れる\n二足歩行ロボだ。まだ開発中ではあるが。",
+      "Name": "砂糖光",
+      "Text": "这是能够以和真正的马娘相匹敌的速度\n奔跑的双足机器人。\n不过目前还在开发阶段。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "タニノギムレット",
-      "Text": "フッ、そう、俺が視たのは、\nこの“未完成のもの”だ。",
+      "Name": "谷野美酒",
+      "Text": "嗯，对了，\n这就是我所看到的“未完成的存在”。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "やはり実在していたのか。\nしかし今『開発中』と言いましたが……。",
+      "Name": "琵琶晨光",
+      "Text": "果然是实际存在的吗。\n但也说了还在『开发中』……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "秋川理事長",
-      "Text": "うむッ、このST-2はまだ未完成で、\nこれ以上の開発には、テストモデルとなる\nウマ娘の助力がいる。そこで――",
+      "Name": "秋川理事长",
+      "Text": "嗯，这台ST-2尚未完成，\n进一步的开发还需要一位马娘作为\n测试模型来协助。因此——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "秋川理事長",
-      "Text": "募集ッ！\u3000このトレセン学園に\n協力してくれる者を募りにきた、\nというわけだ。",
+      "Name": "秋川理事长",
+      "Text": "募集！她来到特雷森学园是为了招募\n愿意协助的志愿者。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "エアシャカール",
-      "Text": "協力か。\nだが、そもそもの問題点として……。",
+      "Name": "空中神宫",
+      "Text": "协助吗？不过，问题首先在于……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "エアシャカール",
-      "Text": "そンなゲームみたいな操作系で、\nうまく動かせるのか？\n二足歩行の駆動制御は難しいはずだが。",
+      "Name": "空中神宫",
+      "Text": "这种游戏一般的操作方式，\n真的能让它顺利运转吗？\n控制双足行走应该很难才对。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "……ほう、詳しい者がいるようだな。\n無論、こんなコントローラーで\n自由に走らせることはできない。",
+      "Name": "砂糖光",
+      "Text": "……哦，看来这里有行家呢。\n当然，用这样的控制器是无法让它\n自由奔跑的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "このST-2の\n正式なコントロール方法は別にある。",
+      "Name": "砂糖光",
+      "Text": "ST-2的正式控制方法另有安排。",
       "ChoiceDataList": [
-        "正式なコントロール方法？それって……"
+        "正式的控制方法？那是指……"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "とりあえずは見てもらおう、真の操作系を。\nST-2、オープンブレイン。",
+      "Name": "砂糖光",
+      "Text": "总之先给大家展示一下真正的操纵方式。\nST-2，启动脑系统。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "ダイブ・イン！！",
+      "Name": "砂糖光",
+      "Text": "Dive in！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "あーあー、聞こえるか？\n私の意識は今、ST-2の中に入り込み、\n完全に一体化している。",
+      "Name": "ST-2（萨蒂）",
+      "Text": "啊—啊—，可以听到吗？\n我的意识现在完全进入了ST-2，\n并与它融为一体。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "このST-2は、私の意識と直結し、\n意のままに動くメカなのだ。",
+      "Name": "ST-2（萨蒂）",
+      "Text": "这台ST-2，和我的意识直接相连，\n能够随心所欲地行动。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ナリタタイシン",
-      "Text": "意のままに！？\n本当だ……。声もライツ博士の声に……。",
+      "Name": "成田大进",
+      "Text": "随心所欲！？真的……\n声音也变成了莱兹博士的声音……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "タニノギムレット",
-      "Text": "フッ、羽化か。\nなら見せるがいい、さらなる深淵を。",
+      "Name": "谷野美酒",
+      "Text": "这就是羽化啊。\n那就让我看看吧，更深的境界。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "タニノギムレット",
-      "Text": "死と再生の狭間を越えて、\nどれほどの速さで疾駆できるか。",
+      "Name": "谷野美酒",
+      "Text": "跨越生死的边界，\n能以多快的速度疾驰。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "もちろん最初からそのつもりだ。\nでは、見てもらおう。",
+      "Name": "ST-2（萨蒂）",
+      "Text": "我本来就有这样的打算。\n那么，就让你们看看吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "ロボット工学が、今現在、\nどこまで進化しているのかを。たぁぁあああ！",
+      "Name": "ST-2（萨蒂）",
+      "Text": "机器人工程程学现在已经进化到了什么程度。\n啊啊啊啊啊！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "高らかに叫び、\nメカウマ娘ST-2は走り出した！\n走り出した、が……。",
+      "Name": "独白",
+      "Text": "博士高喊着，机械马娘ST-2开始奔跑！\n跑起来了，但是……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "（ギィィィ、ガチョーン、\nギィィィ、ガチョーン！）",
+      "Name": "独白",
+      "Text": "（吱嘎、咯吱、吱嘎、咯吱！）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "全員",
-      "Text": "遅っ！！",
+      "Name": "全员",
+      "Text": "太慢了！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "なんの、もう少し！\u3000もう少しだけなら。\nたぁあああああああ！",
+      "Name": "ST-2（萨蒂）",
+      "Text": "再坚持一下！再快一点点！\n啊啊啊啊啊啊啊！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "頑張るST-2。だがそれでも、\nメカウマ娘の速度は一向に上がらなかった。",
+      "Name": "独白",
+      "Text": "ST-2拼命地努力着。\n但尽管如此，机械马娘的速度却\n一点也没有提高。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "今は！\u3000ここまでが！\u3000限界……なのだ……。\nだが……。",
+      "Name": "ST-2（萨蒂）",
+      "Text": "现在！\n目前只能达到这个……极限……\n但是……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "どうか力を貸してほしい。\nいつか本物のウマ娘と同じように走れる、\nその日まで……！",
+      "Name": "ST-2（萨蒂）",
+      "Text": "希望你们能助我一臂之力。\n总有一天能和真正的马娘一样奔跑，\n总有一天……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ウマ娘A",
-      "Text": "本物と同じって……。\nあれしか走れないんじゃ、さすがに無理よね。",
+      "Name": "马娘A",
+      "Text": "像真的一样……\n但现在跑成这样，实在太勉强了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ウマ娘B",
-      "Text": "うん……。わたし、元々ロボットとか\n興味ないし、力にはなれないかな。",
+      "Name": "马娘B",
+      "Text": "嗯……我原本对机器人也没兴趣，\n可能帮不上忙。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "明かされた現実。ウマ娘たちも続々と\n興味を失っていくが……。",
+      "Name": "独白",
+      "Text": "现实被揭露。\n马娘们纷纷失去兴趣，逐渐离开……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "よく見てくれ、もっと！\nこのST-2は必ず行ける、行けるんだ……！",
+      "Name": "ST-2（萨蒂）",
+      "Text": "再好好看看吧！\nST-2一定能成功，它一定可以的……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "私はこのメカに全てを懸けている！\n私には――これしかないんだ！",
+      "Name": "ST-2（萨蒂）",
+      "Text": "我为了这台机器已经倾注所有了！\n我——只剩下这个了！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "それでも必死なライツ博士の姿。\nどうも、このまま突き放すのも、\nかわいそうな気がした。",
+      "Name": "独白",
+      "Text": "尽管如此，莱兹博士的姿态仍然拼命。\n让人觉得，就这么把她抛下太过可怜。",
       "ChoiceDataList": [
-        "（もう少し、話を聞いてみようかな……）"
+        "（再稍微听一下吧……）"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "正直、興味を惹かれる部分もある。\n後日、改めて詳しく聞くことにした。",
+      "Name": "独白",
+      "Text": "说实话，也有一点点吸引我的地方。\n之后决定另找时间好好地问问。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

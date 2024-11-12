@@ -1,5 +1,5 @@
 {
-  "Title": "4.1 研究レポートの配布",
+  "Title": "4.1 研究报告的分发",
   "TextBlockList": [
     {
       "Name": "",
@@ -8,670 +8,670 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "ある日。ライツ博士が、廊下に散らばった\n書類を拾っているところに出くわした。",
+      "Name": "独白",
+      "Text": "某天，遇到了正在走廊上捡起散落文件\n的莱兹博士。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "やれやれ……\nこの量を1人で運ぶのは、無謀だったか。",
+      "Name": "砂糖光",
+      "Text": "哎呀……\n想靠一个人搬这么多文件，\n果然是太鲁莽了。",
       "ChoiceDataList": [
-        "手伝います！どこに運ぶんですか？"
+        "我来帮忙吧！要搬到哪里去呢？"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "！\u3000すごいタイミングだな、トレーナー。\n君たちのもとへだよ。",
+      "Name": "砂糖光",
+      "Text": "！真是好时机啊，训练员。\n就是要送到你们那儿。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "これは<chrname>たちの研究データ。\n併走を繰り返す中で収集した情報を、\nみんなに還元しようと思ってね。",
+      "Name": "砂糖光",
+      "Text": "这是给<chrname>们的研究数据。\n我想把在反复并跑中收集到的信息\n反馈给大家。",
       "ChoiceDataList": [
-        "なおのこと、手伝わせてください"
+        "那更应该让我帮忙了"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "ふふ、ああ。とても助かる。\nでは誰から渡しに行こうか……。",
+      "Name": "砂糖光",
+      "Text": "嗯嗯，好啊。那真是帮大忙了。\n那么，先从谁开始分发呢……",
       "ChoiceDataList": [
-        "ビワハヤヒデ",
-        "ナリタタイシン",
-        "エアシャカール",
-        "シンボリクリスエス",
-        "タニノギムレット",
-        "ライツ博士"
+        "琵琶晨光",
+        "成田大进",
+        "空中神宫",
+        "吉兆",
+        "谷野美酒",
+        "莱兹博士"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "さすがです。自分なりにデータは集めて\nいましたが、より細かな統計を知れました。\n参考にいたします。",
+      "Name": "琵琶晨光",
+      "Text": "不愧是你啊。\n虽然我自己也收集了一些数据，但这些\n统计分析更为详细。我会作为参考的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "そうか。\n力になれたのなら、よかった……うん。",
+      "Name": "砂糖光",
+      "Text": "这样啊。\n如果能有所帮助就太好了……嗯。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "……。\n博士、少しこちらを見ていただけますか？",
+      "Name": "琵琶晨光",
+      "Text": "……\n博士，能稍微向这边看一下吗？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "やはり、目が少し充血している。\nこれをまとめるのに、無理をしましたね？",
+      "Name": "琵琶晨光",
+      "Text": "果然，眼睛有点充血。\n为了整理这些数据，\n您是不是勉强了自己？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "えっ……あ、いや。そんなことはないぞ。\n……ほんの少し、就寝が遅くはなったが。",
+      "Name": "砂糖光",
+      "Text": "诶……啊，不，没那回事。\n……只是睡得稍微晚了一点而已。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "乳製品とバナナの菓子がある。\nそれを渡しましょう。",
+      "Name": "琵琶晨光",
+      "Text": "这里有些乳制品和香蕉点心。\n请让我交给你吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "それらに含まれるトリプトファンは、\n睡眠の質を上げる成分のもとになる。",
+      "Name": "琵琶晨光",
+      "Text": "这些食物含有色氨酸，\n有助于提高睡眠质量。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "3食、食事は摂っていますか？\u3000忙しさに\nかまけて、食をないがしろにしてはダメです。\n食べるための時間を作る意識を持って――",
+      "Name": "琵琶晨光",
+      "Text": "三餐，有在好好吃吗？\n工作忙也不能忽视饮食，\n要有好好吃饭的意识——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "あ、ああ。わかった……。\nそうだな。気をつけるよ。",
+      "Name": "砂糖光",
+      "Text": "啊，啊啊，我知道了……\n是的，我会注意的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "…………あ。\nすみません。どうにも、心配症で……。",
+      "Name": "琵琶晨光",
+      "Text": "……对不起啊，总是不自觉地担心您……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "え？\u3000……ああ、いやいや。\n反省する必要はないぞ、ハヤヒデ。",
+      "Name": "砂糖光",
+      "Text": "诶？……啊，不不不。\n没必要反省啊，晨光。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "それは、君の美点でもあるのだから――",
+      "Name": "砂糖光",
+      "Text": "这也是你的优点——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "……まずいな。ひと雨きそうだ。\n車椅子を、濡らしたくはないが……。",
+      "Name": "砂糖光",
+      "Text": "……糟糕，好像要下雨了。\n不想让轮椅被淋湿……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "――やはり、まだいらしたんですね。",
+      "Name": "琵琶晨光",
+      "Text": "——果然，您还没离开啊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "先ほどの測定に、納得がいっていない\n様子だったので。もしかして、と。",
+      "Name": "琵琶晨光",
+      "Text": "刚才看您对测量数据不太满意，\n想着会不会……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "傘は私が。\nさあ、思う存分データの検証をしましょう。",
+      "Name": "琵琶晨光",
+      "Text": "我来撑伞吧。\n好了，尽情地验证数据吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "改めて思ったよ。君のその思慮深さがあった\nから、私たちはここまで来られたのだとね。",
+      "Name": "砂糖光",
+      "Text": "我又想了想。正是因为有你这般细心，\n我们才能走到今天这一步。",
       "ChoiceDataList": [
-        "君のそれは、短所じゃなくて長所だよ",
-        "貴方のそれは、短所じゃなくて長所だよ"
+        "这不是你的缺点，而是优点啊",
+        "这不是你的缺点，而是优点呢"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "……そうか。視点を変えれば、そうだな。\nふ……気づかされたよ。",
+      "Name": "琵琶晨光",
+      "Text": "……是吗。换个角度看确实如此。\n嗯……我意识到这一点了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "それでは、ご自身のために……\n適度な休息を、取っていただけますか？",
+      "Name": "琵琶晨光",
+      "Text": "那么，请为了您自己……\n好好休息一下吧？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "ぐっ……確かに、睡眠は大事だからな。\n私のほうこそ、反省しよう……。",
+      "Name": "砂糖光",
+      "Text": "嗯……确实，睡眠很重要。\n我也该反思一下了……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ナリタタイシン",
-      "Text": "はあっ、はあっ……。\nもう少し……あと、少しで……。",
+      "Name": "成田大进",
+      "Text": "呼、呼……\n再坚持一下……就快……",
       "ChoiceDataList": [
-        "タイシン！ライツ博士がレポートくれたよ！"
+        "大进！\n莱兹博士给了我报告！"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ナリタタイシン",
-      "Text": "……。\nそこ、置いといて。",
+      "Name": "成田大进",
+      "Text": "……\n放那边吧。",
       "ChoiceDataList": [
-        "あっ、タイシン！？"
+        "啊，大进！？"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "……ふふ。真摯に打ち込んでいるんだな。\nであれば、私はこれで失礼するとしよう。",
+      "Name": "砂糖光",
+      "Text": "……哈哈，她真投入啊。\n既然如此，那我就告辞了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ナリタタイシン",
-      "Text": "んくっ……んくっ……。",
+      "Name": "成田大进",
+      "Text": "嗯……嗯……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ナリタタイシン",
-      "Text": "そういえば……博士たち、来てたな。\n……レポート？\u3000がどうとか。",
+      "Name": "成田大进",
+      "Text": "说起来……博士他们来了啊。\n好像有什么……报告？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ナリタタイシン",
-      "Text": "…………え。",
+      "Name": "成田大进",
+      "Text": "……诶。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ナリタタイシン",
-      "Text": "こんなの……こんな、データ。\n……数日じゃ……。",
+      "Name": "成田大进",
+      "Text": "这……这么多数据。\n……才几天啊……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ナリタタイシン",
-      "Text": "…………。",
+      "Name": "成田大进",
+      "Text": "…………",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "ある日。ライツ博士と今後の予定について、\n話し合っていると――",
+      "Name": "独白",
+      "Text": "一天，\n莱兹博士与我商量未来的安排时——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ナリタタイシン",
-      "Text": "…………これ。",
+      "Name": "成田大进",
+      "Text": "……这个。",
       "ChoiceDataList": [
-        "……え？そのお弁当、どうしたんだ？",
-        "……え？そのお弁当、どうしたの？"
+        "……诶？这便当怎么了？",
+        "……诶？这便当怎么了？"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "驚き、ライツ博士と顔を見合わせる。\nこれは一体どういうことなのか、\n混乱していると――",
+      "Name": "独白",
+      "Text": "惊讶地与莱兹博士面面相觑。\n这到底是怎么回事——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ナリタタイシン",
-      "Text": "……サンドウィッチ、作りすぎたってだけ。\nいらないなら持って帰る。",
+      "Name": "成田大进",
+      "Text": "……三明治，只是做多了而已。\n不要就拿回去了。",
       "ChoiceDataList": [
-        "いやいやいや！ありがたくいただくよ！"
+        "不不不！非常谢谢！"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "その通りだ……！\u3000こんなに文化的な\n食事を口にする機会は、いつ以来だ？",
+      "Name": "砂糖光",
+      "Text": "就是这个……！\n离上次吃这种大餐已经过去多久了？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ナリタタイシン",
-      "Text": "はあ？\u3000文化的って……\n切って挟んでるだけなんだけど。",
+      "Name": "成田大进",
+      "Text": "啊？大餐……只是三明治而已。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ナリタタイシン",
-      "Text": "…………容器。\n洗って返してよ？",
+      "Name": "成田大进",
+      "Text": "……餐盒。\n记得洗干净还回来哦？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "エアシャカール",
-      "Text": "……アア。\nそこ、置いといてくれ。",
+      "Name": "空中神宫",
+      "Text": "……啊。\n那边，放着吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "……ところで、それ。何をしているんだ？\n3Dモデルの設計図のようだが……。",
+      "Name": "砂糖光",
+      "Text": "……对了，那个。你在干什么？\n看起来像是3D模型的设计图……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "エアシャカール",
-      "Text": "オイ、勝手に見てンじゃねえよ。\n……ただの趣味だ、ンなの。",
+      "Name": "空中神宫",
+      "Text": "喂，别随便看啊。\n……只是兴趣而已。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "エアシャカール",
-      "Text": "完全自立型併走ロボット。フラッシュ\nアイディアだが、構想自体はあった。",
+      "Name": "空中神宫",
+      "Text": "完全自主的并跑机器人。\n虽然只是一瞬的灵感，\n但这个构思我早已有了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "エアシャカール",
-      "Text": "リターンに見合わないと思って、\n長ェこと凍結してたが……。",
+      "Name": "空中神宫",
+      "Text": "只不过一直认为回报不够高，\n所以搁置了很久……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "エアシャカール",
-      "Text": "……まあ。\n片手間に作るくらいなら、な。",
+      "Name": "空中神宫",
+      "Text": "……嘛。随手做点东西也不错吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "フフ……そうか。シャカールもようやく、\nロボットを作る楽しさに目覚めたか！",
+      "Name": "砂糖光",
+      "Text": "哈哈……原来如此。\n神宫也终于发现制造机器人的乐趣了啊！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "よし、そういうことであれば――\n先駆者として、私がアドバイスしよう！",
+      "Name": "砂糖光",
+      "Text": "好，那就这样吧——\n作为前辈，我来给你一些建议吧！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "エアシャカール",
-      "Text": "……教えてくれなンて言ってねェけど。",
+      "Name": "空中神宫",
+      "Text": "……我可没说需要建议。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "これで、3Dモデリングまわりの助言は\nひと通りしたかな。OSに関しては……。",
+      "Name": "砂糖光",
+      "Text": "关于3D建模的建议也都说完了。\n至于操作系统嘛……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "エアシャカール",
-      "Text": "――『Parcae』を乗せる。\nオレを知り尽くした相棒だ。適役だろ。",
+      "Name": "空中神宫",
+      "Text": "——决定用『Parcae』。\n那可是最了解我的搭档。非常合适。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "エアシャカール",
-      "Text": "……これで、完成に近づいた。",
+      "Name": "空中神宫",
+      "Text": "……这样，已经接近完成了。",
       "ChoiceDataList": [
-        "上手くいくといいな！",
-        "上手くいくといいね！"
+        "希望一切顺利啊！",
+        "希望一切顺利呢！"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "エアシャカール",
-      "Text": "アア？\u3000どういう意味だ。",
+      "Name": "空中神宫",
+      "Text": "啊？什么意思。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "彼女は片手間の趣味だと言っていたが……\nエアシャカールの打ち込みようを見ていれば、\nそんなことはないとすぐわかった。",
+      "Name": "独白",
+      "Text": "虽然她说只是随便玩玩……\n但看她那种专注的眼神就知道，\n这绝不只是兴趣而已。",
       "ChoiceDataList": [
-        "ロボット作り、すごく真剣みたいだから！"
+        "感觉你是在很认真地制造机器人！"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "エアシャカール",
-      "Text": "……チッ。\nやめろ、そのノリ。",
+      "Name": "空中神宫",
+      "Text": "……啧。\n别说客套话了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "エアシャカール",
-      "Text": "ただ……ライツ博士に、\n不可能じゃねェと証明された。",
+      "Name": "空中神宫",
+      "Text": "只是……\n被博士证明了这是可行的，\n所以才会去做。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "エアシャカール",
-      "Text": "だから、やってるだけだ。",
+      "Name": "空中神宫",
+      "Text": "所以说，我只是在做而已。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "口では気だるそうな彼女の瞳には、\n確かな熱意が宿っているのだった。",
+      "Name": "独白",
+      "Text": "嘴上虽然轻描淡写，\n但那双眼眸中却充满了坚定的热情。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シンボリクリスエス",
-      "Text": "Report――助かる。これで、\ntraining――より、効率的に――",
+      "Name": "吉兆",
+      "Text": "Report——帮大忙了。\n这样，training――更加有效――",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "君には世話になったからな。というか、\n今もまだ、世話になっているが……。",
+      "Name": "砂糖光",
+      "Text": "我一直受你照顾呢。\n甚至现在也是如此……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シンボリクリスエス",
-      "Text": "……――やるか？\u3000今日も。",
+      "Name": "吉兆",
+      "Text": "……——要来吗？今天也一样。",
       "ChoiceDataList": [
-        "え……何を？"
+        "诶……干什么？"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シンボリクリスエス",
-      "Text": "1……2……3……4……\nペース、乱れている――徐々に。",
+      "Name": "吉兆",
+      "Text": "1……2……3……4……\n步伐，有些乱——慢慢来。",
       "ChoiceDataList": [
-        "（筋トレだった！しかも、すごい真剣！）"
+        "（居然是肌肉训练！而且如此认真！）"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シンボリクリスエス",
-      "Text": "Keep――テンポを、意識しろ。\n急いで、おろさず――slowly……。",
+      "Name": "吉兆",
+      "Text": "Keep——注意节奏。\n慢慢放下——slowly……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "くぅぅぅ……！！\nこ、こうか……！？",
+      "Name": "砂糖光",
+      "Text": "呃呃呃……！！\n这、这样……！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シンボリクリスエス",
-      "Text": "――No.\u3000もっとだ。\n今の、貴方なら――更に――",
+      "Name": "吉兆",
+      "Text": "――No.还可以更进一步。\n如果是现在的你——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シンボリクリスエス",
-      "Text": "…………いや。\nなんでも――ない。",
+      "Name": "吉兆",
+      "Text": "……不。\n没什么——算了。",
       "ChoiceDataList": [
-        "……？急にどうしたんだ？",
-        "……？急にどうしたの？"
+        "……？突然怎么了？",
+        "……？突然怎么了？"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シンボリクリスエス",
-      "Text": "……指導。――私の、やり方では――\n怖がらせてしまうことが――多い。",
+      "Name": "吉兆",
+      "Text": "……指导。\n—我的做法——\n总会让人害怕。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シンボリクリスエス",
-      "Text": "後輩が――いつも、怯える。だから――\n――気をつけていた、のだが……。",
+      "Name": "吉兆",
+      "Text": "后辈——总是害怕。\n所以——我很小心，但是……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シンボリクリスエス",
-      "Text": "すまない……。",
+      "Name": "吉兆",
+      "Text": "对不起……",
       "ChoiceDataList": [
-        "なるほど、そういう……"
+        "原来如此，原来是这样……"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "……。\nクリスエス、見ていてくれ。",
+      "Name": "砂糖光",
+      "Text": "……\n吉兆，请看好。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "ライツ博士はそう告げると、どこからか\n数枚の瓦を持ってきて――",
+      "Name": "独白",
+      "Text": "莱兹博士说完，\n不知道从哪里拿出几块瓦片——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "ふぅーーー……はあっ！",
+      "Name": "砂糖光",
+      "Text": "呼———……哈啊！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "（ガシャアアアン！）",
+      "Name": "独白",
+      "Text": "（咔擦！）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "これが、証明だ。君がどれだけ、実直で――\n優秀な指導者であるかのな。",
+      "Name": "砂糖光",
+      "Text": "这就是证明。\n证明你是——一位多么真诚、\n多么优秀的指导者。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "だから、頼む。私には、気を使わずに……\n君の思う“指導”を、続けてくれないか？",
+      "Name": "砂糖光",
+      "Text": "所以，拜托了。\n请不要在我面前顾忌什么，\n继续你认为合适的“指导”吧！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シンボリクリスエス",
-      "Text": "……博士……――そうか。",
+      "Name": "吉兆",
+      "Text": "……博士……——是这样吗。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シンボリクリスエス",
-      "Text": "なら……続けよう。\n――次は、クランチだ。",
+      "Name": "吉兆",
+      "Text": "那么……继续吧。\n——接下来是卷腹训练。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "そう告げるシンボリクリスエスの表情は、\n心なしか……笑っているようにも見えた。",
+      "Name": "独白",
+      "Text": "如此说着，吉兆的表情，\n也许是心理作用吧……\n看起来像是在笑。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "タニノギムレット",
-      "Text": "ハァーッハッハッハァ！\u3000俺の蹄跡を刻んだ、\n全を記した書が完成したか！",
+      "Name": "谷野美酒",
+      "Text": "哈哈哈！\n记载我所有足迹的书完成了吗！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "タニノギムレット",
-      "Text": "感謝を、車輪の姫。これで俺はより速く、\n黄昏の娘たちの園へと向かえる。",
+      "Name": "谷野美酒",
+      "Text": "谢谢你啊，轮上的公主。有了这个，\n我就可以更快地奔向那黄昏的乐园。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "タニノギムレット",
-      "Text": "――さて、貯蔵庫から大樽を吟味するか。\n此度の礼として、オマエに出すべきは――",
+      "Name": "谷野美酒",
+      "Text": "——那么，让我从贮藏室选出一桶酒\n作为此次的回礼——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "タニノギムレット",
-      "Text": "――『Dum spiro, spero.』\nゴールデン・ドリームのノンアルツイストだ。",
+      "Name": "谷野美酒",
+      "Text": "——『Dum spiro, spero.』\n黄金之梦的无酒精调制版。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "……おお！\u3000甘みが強いな。\nけれど、くどくない……。",
+      "Name": "砂糖光",
+      "Text": "……哇！\n味道很甜啊，但并不腻……",
       "ChoiceDataList": [
-        "ああ！飲みやすくて美味しい！",
-        "うん！飲みやすくて美味しい！"
+        "啊！真是好喝啊！",
+        "嗯！真是好喝啊！"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "ああ、本当に……こんなものをササッと\n作ったのか君は！？\u3000すごいな！？",
+      "Name": "砂糖光",
+      "Text": "哈哈，真的……\n你随手就能调出这样的饮品！？\n真了不起！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "タニノギムレット",
-      "Text": "いや。熟成には時をかけた。――2度だ。\n2度、月が欠け――満ちるを見た。",
+      "Name": "谷野美酒",
+      "Text": "不。成熟需要时间。——两次。\n它经历了两个满月的轮回。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "……2か月ほど前から、ということか？\nどうして、そんなことを――",
+      "Name": "砂糖光",
+      "Text": "……两个月前就开始准备了？\n为什么，要这么做呢——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "タニノギムレット",
-      "Text": "フ……わからないか？",
+      "Name": "谷野美酒",
+      "Text": "……不明白吗？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "タニノギムレット",
-      "Text": "理と知の獣が、ST-2を解明した、あの日――\n太陽にさえ手が届くと、俺に確信させた。",
+      "Name": "谷野美酒",
+      "Text": "知识与理性之兽解开了ST-2的秘密，\n那一天——我确信，我可以触及太阳。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "タニノギムレット",
-      "Text": "そう！\u3000オマエは常に、美学を示し続け――\nここに至った！\u3000有翼のサンダルを手にした！",
+      "Name": "谷野美酒",
+      "Text": "是啊！你一直都在展示美学——\n但到此为止了！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "タニノギムレット",
-      "Text": "だからこそ――美学には、美学で。\nワタシなりに、応えたまでだ。",
+      "Name": "谷野美酒",
+      "Text": "美学——正因为如此。\n我也想以自己的方式回报你。",
       "ChoiceDataList": [
-        "ギムレット……"
+        "美酒……"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "彼女の想いに、自分もつい胸を打たれる。\nそれは、彼女らしい“祝いの一杯”だった。",
+      "Name": "独白",
+      "Text": "她的心意让我的内心不禁受到触动，\n这是一杯极具她风格的“庆贺之饮”。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "……ありがとう。まさか、こんな素敵な\nものを……一体、どう返したらいいか。",
+      "Name": "砂糖光",
+      "Text": "……谢谢你，\n真没想到你会准备这么棒的礼物……\n我到底该怎么回报呢。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "タニノギムレット",
-      "Text": "ククッ。終演を称えるには、まだ早い。\nお代はいずれ頂くさ――",
+      "Name": "谷野美酒",
+      "Text": "哼哼。距离终章的上演还早呢。\n终有一天会得到回报的——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "タニノギムレット",
-      "Text": "いずれ来る、終末の日に。\n――東京レース場でな！！",
+      "Name": "谷野美酒",
+      "Text": "会到来的，终末之日。\n—在东京竞马场！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "献身的なライツ博士に対して、荷物運びだけ\nではその心遣いに応えきれない。そこで――",
+      "Name": "独白",
+      "Text": "对热心的莱兹博士而言，仅仅帮忙\n搬运文件似乎还无法完全回报她的关怀。\n于是——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "ありがとう、トレーナー。\nおかげで、全員分渡すことができた。",
+      "Name": "砂糖光",
+      "Text": "谢谢你啊，训练员。\n多亏了你，终于把所有文件都分发完了。",
       "ChoiceDataList": [
-        "いえ、感謝するのは俺のほうです",
-        "いえ、感謝するのは私のほうです"
+        "不，是我应该感谢您",
+        "不，是我应该感谢您"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "<chrname>用のレポートを自分も\n確認したが……とても有益な内容だった。\nだから、少しでも恩を返すために――",
+      "Name": "独白",
+      "Text": "我也看了了<chrname>的报告……\n真是非常有价值的内容。\n所以，为了稍微回报一下——",
       "ChoiceDataList": [
-        "……ちょっとだけ、お時間もらえますか？"
+        "……能给我一点时间吗？"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "……これは？",
+      "Name": "砂糖光",
+      "Text": "……这是？",
       "ChoiceDataList": [
-        "俺なりにまとめた、ST-2のレポートです",
-        "私なりにまとめた、ST-2のレポートです"
+        "我自己总结的关于ST-2的报告",
+        "我自己总结的关于ST-2的报告"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "とはいっても、自分がトレーニング中に\nしていたメモをまとめただけの、急造だ。\n彼女のレポートとは比べるべくもないが……。",
+      "Name": "独白",
+      "Text": "虽然只是把训练中的笔记整理了一下，\n远远比不上她的报告……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "…………いや、いいよ。\nうん……いい。とても。",
+      "Name": "砂糖光",
+      "Text": "……不，不，没关系。\n好……非常好。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "研究者としての目線じゃない。\nまるでST-2を、1人のウマ娘みたいに……\nそんな視点が、ここにはあって――",
+      "Name": "砂糖光",
+      "Text": "并不是从研究者的角度，\n而是把ST-2当成一位马娘来看待……\n就是这样的视角——。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "ああ、そうか……ふふっ。",
+      "Name": "砂糖光",
+      "Text": "啊，是吗……呵呵。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "君は、私のトレーナーでもあったんだな。",
+      "Name": "砂糖光",
+      "Text": "你……果然是我的训练员啊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

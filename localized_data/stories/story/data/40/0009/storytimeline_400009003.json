@@ -1,5 +1,5 @@
 {
-  "Title": "1.4 補完データの取得",
+  "Title": "1.4 获取补充数据",
   "TextBlockList": [
     {
       "Name": "",
@@ -8,335 +8,335 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "タニノギムレット",
-      "Text": "仕掛けてくるがいい、ブリキ缶。\n否、生まれたての素体。",
+      "Name": "谷野美酒",
+      "Text": "放马过来吧，铁皮罐头。\n不，刚诞生的素体。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "タニノギムレット",
-      "Text": "やがて機械神に至りたいのならな！",
+      "Name": "谷野美酒",
+      "Text": "如果你想触及机械之神的领域的话！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "うむ、いくぞギムレット。",
+      "Name": "ST-2（萨蒂）",
+      "Text": "嗯，出发吧，美酒。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "タニノギムレット",
-      "Text": "タアアアアアアアッッ！！",
+      "Name": "谷野美酒",
+      "Text": "喝啊啊啊啊啊！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "くぅぅぅ……。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "（ガッチョン、ガッチョン）",
+      "Name": "ST-2（萨蒂）",
+      "Text": "咕……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "開発はまだ始まったばかり。\nST-2は現時点ではまったくついていけない。\n一方……。",
+      "Text": "（咔嚓、咔嚓）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "ふぅ、どうにかまとまりそうだ。\nところで君、用意してくれると言っていた\n資料は……？",
+      "Name": "",
+      "Text": "开发才刚刚起步，ST-2现在完全跟不上。\n另一方面……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "琵琶晨光",
+      "Text": "嗯，总算差不多了。\n话说回来，你说要准备的资料是……？",
       "ChoiceDataList": [
-        "ほら、これだ",
-        "ほら、これだよ"
+        "看，就是这个",
+        "看，就是这个"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "助かる。その内容も書き加えて、と。",
+      "Name": "琵琶晨光",
+      "Text": "帮大忙了。这些内容我也加进去吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "どうでしょう、博士。\nそのファイル、活かせそうでしょうか？",
+      "Name": "琵琶晨光",
+      "Text": "怎么样，博士。\n这份文件有用吗？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "私たち5人の走行データです。\n細かく分けて記載しているので、\nミニセクター毎の比較も可能です。",
+      "Name": "琵琶晨光",
+      "Text": "这是我们五人的跑步数据。\n详细划分了小节，\n可用来进行每个部分的比较。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "すごい……。これがあれば、\nどの場所でどのくらいST-2が後れているか、\n一目瞭然だな。",
+      "Name": "砂糖光",
+      "Text": "太棒了……有了这个，\nST-2在哪些地方落后就一目了然了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "しかもトレーニングコースだけでなく、\n全レース場が網羅されている。\n助かる……とても助かる……。",
+      "Name": "砂糖光",
+      "Text": "而且不止是训练场，\n所有赛道数据都一网打尽。\n得救了……真是帮大忙了……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "集積には、こちらのトレーナーも\n手を貸してくれました。\nできることはなんでもするつもりです。",
+      "Name": "琵琶晨光",
+      "Text": "这位训练员也帮忙整理了。\n只要是力所能及的事情我都会努力的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "博士、必ず到達しましょう。\nウマ娘と同じ速度に。",
+      "Name": "琵琶晨光",
+      "Text": "博士，一定要实现目标。\n要追上赛马娘的速度。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "ではまた。\n新しい資料ができたら持ってきます。",
+      "Name": "琵琶晨光",
+      "Text": "那就这样吧。\n有新资料我再送来。",
       "ChoiceDataList": [
-        "失礼します"
+        "先告辞了"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "ありがとう。\nビワハヤヒデ、トレーナー。",
+      "Name": "砂糖光",
+      "Text": "谢谢你们。\n琵琶晨光，还有训练员。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "後日、図書室で必死に参考書籍を読み漁る\nビワハヤヒデを見かけた。",
+      "Text": "后来，我在图书室看到了努力查阅\n参考书的琵琶晨光。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "この本は……前の資料と重複するか。\nいや、また別の解釈も……。",
+      "Name": "琵琶晨光",
+      "Text": "这本书……\n会不会和之前的资料重复了？\n不过，也许能找到新的见解……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "どうにかして、トップクラスのウマ娘の\n走りを、メカに落とし込まなければな。",
+      "Name": "琵琶晨光",
+      "Text": "无论如何，\n一定要将顶级赛马娘的奔跑方式\n应用到机械上。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "その橋渡しができるのは――\n私たちしかいない。",
+      "Name": "琵琶晨光",
+      "Text": "能够架起那座桥梁的——\n只有我们。",
       "ChoiceDataList": [
-        "お疲れ様、ハヤヒデ"
+        "辛苦了，晨光"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "君か。労りには感謝するが、\n別に疲れてはいないよ。",
+      "Name": "琵琶晨光",
+      "Text": "是你啊\n。谢谢你的关心，但我并不觉得累。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "どうにかST-2を高速で走らせたいものだ。\nいつの日か必ず。",
+      "Name": "琵琶晨光",
+      "Text": "我只是想让ST-2跑得更快。\n总有一天一定能做到。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "いつも冷静なビワハヤヒデ。\nなのに、その熱の入れようは、\n少しらしくないように思えた。",
+      "Text": "琵琶晨光向来很冷静。\n这份热情有些不像她的作风。",
       "ChoiceDataList": [
-        "ロボット、そんなに好きなのか？",
-        "ロボット、そんなに好きなの？"
+        "你那么喜欢机器人吗？",
+        "你那么喜欢机器人吗？"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "ん？\u3000好きだが……\nすごい好きというわけではないな。",
+      "Name": "琵琶晨光",
+      "Text": "嗯？虽然有好感……\n但算不上迷恋。",
       "ChoiceDataList": [
-        "ライツ博士のこと、気に入ったのか？",
-        "ライツ博士のこと、気に入ったの？"
+        "你对莱兹博士有好感？",
+        "你对莱兹博士有好感？"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "うーん。理知的だし、話は合うが、\n気に入ったとかは別に。",
+      "Name": "琵琶晨光",
+      "Text": "嗯……她很理性，我们的话题也很契合，\n不过谈不上特别喜欢。",
       "ChoiceDataList": [
-        "じゃあなぜ、そこまで真剣に？"
+        "那为什么要那么认真？"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "……そうだな。つい熱が入ってしまうのは、\nよくわかるからだ。彼女の――",
+      "Name": "琵琶晨光",
+      "Text": "……是啊。\n我会这么热情，是因为我能理解。\n她的——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "“喪失感”が、な。",
+      "Name": "琵琶晨光",
+      "Text": "“失落感”啊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "“喪失感”……。\nその言葉だけでは深くはわからないが……。",
+      "Text": "“失落感”……\n只是这个词语，还无法让人理解……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "私もかつて経験したんだ。\n同じような挫折をな。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "（ガシャーーーーン！！）",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "幼いブライアン",
-      "Text": "……ねーちゃん？\u3000目を開けてよ。\nねーちゃん！\u2003ねーちゃん！！",
+      "Name": "琵琶晨光",
+      "Text": "我也体验过。\n那样的挫折。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "（ピーポー……ピーポー……）",
+      "Text": "（咣当——！！）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "幼い頃、大ケガをした。\n妹ナリタブライアンの見ている前でな。",
+      "Name": "年幼的白仁",
+      "Text": "……姐姐？睁开眼睛啊。\n姐姐！！ 姐姐！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（哔哔……哔……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "琵琶晨光",
+      "Text": "小时候我受过重伤，\n那时妹妹成田白仁就在旁边。",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
-        "ナリタブライアン"
+        "成田白仁"
       ]
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "もちろん完治するだろうとは言われていた。\nだが……。",
+      "Name": "琵琶晨光",
+      "Text": "当然大家都说会痊愈。\n但……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "幼いハヤヒデ",
-      "Text": "（もし……もしこのまま\n走れなくなったら……）",
+      "Name": "年幼的晨光",
+      "Text": "（如果……如果再也跑不动了呢……）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "幼いハヤヒデ",
-      "Text": "（う、ううう……）",
+      "Name": "年幼的晨光",
+      "Text": "（呜……呜呜呜……）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "2度と走れなくなる。それに対する恐怖は……\nウマ娘でなければわからないかもしれないな。",
+      "Name": "琵琶晨光",
+      "Text": "再也无法奔跑。\n那种恐惧……也许只有赛马娘才会懂。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "走るという行為。\nそれは私たちウマ娘にとって――",
+      "Name": "琵琶晨光",
+      "Text": "奔跑，对我们赛马娘来说就等于——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "生きることとイコールなのだ。",
+      "Name": "琵琶晨光",
+      "Text": "等于活着。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "例えるなら――まるで毎日、\n呼吸ができなくなってしまうような感覚……。",
+      "Name": "琵琶晨光",
+      "Text": "就像是——每天都无法呼吸的感觉……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "暗闇の中を、ずっと歩き続ける感覚……。\nそういった気分になる。",
+      "Name": "琵琶晨光",
+      "Text": "像是徘徊在黑暗中，无法停下脚步……\n那种心情就是这样。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "幸い私は乗り越えられた。\n前と変わらず走れるようになった。\nだが……。",
+      "Name": "琵琶晨光",
+      "Text": "幸好我挺过去了。\n能够像以前一样奔跑了。\n但是……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "本当に走れなくなってしまったライツ博士が\nどれほどの絶望を感じていることか……。",
+      "Name": "琵琶晨光",
+      "Text": "对无法再奔跑的莱兹博士来说，\n那份绝望到底有多深……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "私には……わかる。\nだから……。",
+      "Name": "琵琶晨光",
+      "Text": "我能体会……\n所以……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "なんとしてでも見せてあげたいんだ。\n苦しんだ分だけの光をな。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "――走りを失ったウマ娘。\nライツ博士の苦しみは、ビワハヤヒデに\nとって、他人事とは思えないようだ。",
+      "Name": "琵琶晨光",
+      "Text": "无论如何都想给她带去，\n她遭受痛苦而应得的光明。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "人間である自分には、その気持ちは100％は\n理解できないかもしれない。だが――",
+      "Text": "——失去奔跑的赛马娘。\n莱兹博士的痛苦对琵琶晨光而言，\n足以感同身受。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "即便我作为人类，无法100%理解她的感受。\n但——",
       "ChoiceDataList": [
-        "やろう、なんとしてでも"
+        "去做吧，不惜一切代价。"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "ん？\u3000君……。",
+      "Name": "琵琶晨光",
+      "Text": "嗯？你……",
       "ChoiceDataList": [
-        "絶対に走れるようにしよう、ST-2を"
+        "一定要让ST-2跑起来"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "ああ、皆で力を合わせてな。\n察してくれて……助かる。",
+      "Name": "琵琶晨光",
+      "Text": "是啊，大家一起努力吧。\n你能理解……真是帮了我大忙。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "では向こうの棚を探してきてもらえるか？\n頼む。",
+      "Name": "琵琶晨光",
+      "Text": "可以去帮忙找找那边的资料吗？\n拜托了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "2人でうなずき合う。\nこうしてビワハヤヒデと、\nさらなる資料作りにいそしむのだった。",
+      "Text": "两人默契地点头，\n接着便开始继续搜集更多资料。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }
