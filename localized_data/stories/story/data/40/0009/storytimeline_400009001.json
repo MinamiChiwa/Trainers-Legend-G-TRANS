@@ -1,5 +1,5 @@
 {
-  "Title": "1.2 開発フローの提示",
+  "Title": "1.2 开发流程演示",
   "TextBlockList": [
     {
       "Name": "",
@@ -8,423 +8,423 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "――後日。メカウマ娘に興味を持った者が\n集められ、説明会が行われた。",
+      "Name": "独白",
+      "Text": "——几天后。\n对机械马娘感兴趣的人聚在一起，\n参加了一场说明会。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "みんな、集まってくれて感謝する。\nこんなに……。",
+      "Name": "砂糖光",
+      "Text": "感谢大家能在此相聚。\n那个……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "って、たった6人か。\nあのデモンストレーションでは、\n致し方ないかもしれないが……。",
+      "Name": "砂糖光",
+      "Text": "只有六个人吗。\n那个演示，可能让大家望而却步了吧……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "集まったのは自分、シンボリクリスエス、\nエアシャカール、タニノギムレット、\nビワハヤヒデ、ナリタタイシンの6人だった。",
+      "Name": "独白",
+      "Text": "聚集在这里的有我自己、吉兆、空中神宫、\n谷野美酒、琵琶晨光、成田大进6人。",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
-        "シンボリクリスエス",
-        "エアシャカール",
-        "タニノギムレット",
-        "ビワハヤヒデ",
-        "ナリタタイシン"
+        "吉兆",
+        "空中神宫",
+        "谷野美酒",
+        "琵琶晨光",
+        "成田大进"
       ]
     },
     {
-      "Name": "タニノギムレット",
-      "Text": "囀れ、車輪の姫。\nブリキ缶に込める衝動――その原初を！",
+      "Name": "谷野美酒",
+      "Text": "诉说吧，轮上的公主。\n盛放在在铁皮罐中的冲动——那份初心！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "ブリキ缶に込める……衝動？",
+      "Name": "砂糖光",
+      "Text": "盛放在铁皮罐中的……冲动？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "つまり、開発の動機が\n知りたいということです。\n博士はなぜ、メカウマ娘の開発を？",
+      "Name": "琵琶晨光",
+      "Text": "也就是说，想了解一下开发的动机。\n博士为什么要开发机械马娘呢？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "動機か。いいだろう。\nならば昔話を聞かせよう。\n私がまだ……。",
+      "Name": "砂糖光",
+      "Text": "动机吗。好吧。\n那就让我讲个故事吧。我还……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "このトレセン学園の生徒だった時の話を。",
+      "Name": "砂糖光",
+      "Text": "是这个特雷森学园的学生的时候的事。",
       "ChoiceDataList": [
-        "トレセン学園の……生徒？"
+        "特雷森学园的……学生？"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "ということはライツ博士は、\nここにいる5人の先輩ということに\nなりそうだが……。",
+      "Name": "独白",
+      "Text": "也就是说，\n莱兹博士其实是这五位的学姐啊……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "はぁ、はぁ……また勝てなかった……。\nでもっ、楽しい！\u3000次こそ！",
+      "Name": "砂糖光",
+      "Text": "哈啊，哈啊……又没赢……\n但是，很开心！下次一定可以的！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "（たいして才能があったわけでもない。\n飛び抜けて強かったわけでも。それでも……）",
+      "Name": "砂糖光",
+      "Text": "（并不是因为我有特别的才能，\n也并非因为我格外强大……\n只是……）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "（私は走るのが好きだった。\nそんな、ごく普通のウマ娘の1人だった）",
+      "Name": "砂糖光",
+      "Text": "（我喜欢奔跑。\n我不过是那种非常普通的马娘。）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "もう少しだけ、速く走れたら……！\nもう少しだけ、いい景色が見られたら……！",
+      "Name": "砂糖光",
+      "Text": "如果能跑得再快一点……！\n再多看到一些更美的风景就好了……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "（私の夢は、ごくごく小さなものだった。\n勝利でも成功でもなく、\n現状より少しだけ、速く流れる景色が見たい）",
+      "Name": "砂糖光",
+      "Text": "（我的梦想十分渺小。\n不是胜利，也不是成功，\n只是想看到比现在更快的风景。）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "（だが――神はそれを許さなかった）",
+      "Name": "砂糖光",
+      "Text": "（但是——神明却不允许这样做。）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "え……じゃあもう2度と……。",
+      "Name": "砂糖光",
+      "Text": "诶……也就是说，再也不能……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "医者",
-      "Text": "はい。完治しても……、\nどうにか歩くぐらいが精一杯でしょう。\n車椅子生活は……避けられません。",
+      "Name": "医生",
+      "Text": "是的。即使完全康复……\n最多也只能勉强行走。\n借助于轮椅的生活……恐怕无法避免了吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "医者",
-      "Text": "残念ながら、もうレースは……。\n引退をお勧めします。",
+      "Name": "医生",
+      "Text": "很遗憾，至于比赛……\n我建议你退役。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "レースに出られない……。それはいい。\n構わない。でも……もう走れないなんて……。",
+      "Name": "砂糖光",
+      "Text": "无法参加比赛？\n那还好，无所谓。\n但是……我再也不能奔跑了吗……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "諦めるしか……ないのか……。",
+      "Name": "砂糖光",
+      "Text": "只能放弃了……吗……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "そうだ、好きに走れたのは、\nもう過去のこと……。",
+      "Name": "砂糖光",
+      "Text": "是啊，奔跑的快乐，\n只是过去的记忆……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "忘れなければ……ならない……。\n忘れなければ、もっと辛くなる……。",
+      "Name": "砂糖光",
+      "Text": "必须忘记……\n如果不那么做的话，只会变得更痛苦……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "だが……この想い。\nそれでも……どうしても……！",
+      "Name": "砂糖光",
+      "Text": "但是……这种心情。\n尽管如此……无论如何……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "完全に消し去ることはできない。\n私は――ウマ娘だ。",
+      "Name": "砂糖光",
+      "Text": "也都无法完全消除。\n我可是——马娘啊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "感じたい。もう1度、自分で走り……\n風を切る心地よさを！",
+      "Name": "砂糖光",
+      "Text": "想要再一次感受。\n自己奔跑起来……那种撕裂空气的快感！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "かつて人は、生活をより便利にするために、\n自動車を、機関車を、飛行機を生み出した。\nだが……。",
+      "Name": "砂糖光",
+      "Text": "为了便利，人类曾发明了汽车、\n火车和飞机。但是……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "私の発明は、大義のためではない。\n極めて利己的で、\n自分勝手な願いに基づいている。",
+      "Name": "砂糖光",
+      "Text": "我的发明不是为了崇高的使命，\n而是源于自私自利的愿望。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "だがそれでも……。私はもう1度走り、\n自分の感覚で、流れる景色を味わいたい。",
+      "Name": "砂糖光",
+      "Text": "无论如何……我还是想再次奔跑，\n想亲自感受那流动的风景。",
       "ChoiceDataList": [
-        "なるほど、それで……"
+        "原来如此，所以……"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "当然ながらメカウマ娘を完成させても、\nそれでトゥインクル・シリーズに\n出られるわけではない。",
+      "Name": "独白",
+      "Text": "当然，即使机械马娘制成了，\n也无法参加闪耀系列赛。",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
-        "トゥインクル・シリーズ"
+        "闪耀系列赛"
       ]
     },
     {
-      "Name": "モノローグ",
-      "Text": "しかしライツ博士の夢は、\nそんな大それたものではなく――",
+      "Name": "独白",
+      "Text": "但莱兹博士的梦想并非\n惊天动地的壮志——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "もっとささやかで、儚いものだった。",
+      "Name": "独白",
+      "Text": "而是更加微小，虚幻的东西。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "これが包み隠さぬ内情だ。\n申し訳ないが、仮に成し遂げたところで……。",
+      "Name": "砂糖光",
+      "Text": "这就是我的隐情。\n十分抱歉地说，即使完成了……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "協力してくれた者に返せる対価は\nほとんどない。ビジネスになる見込みも……。",
+      "Name": "砂糖光",
+      "Text": "能带给大家的回报几乎为零，\n也没什么商机……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "それでも私は……\n私の知らない走りを知る君たちに、\nどうしても手を貸してほしい。",
+      "Name": "砂糖光",
+      "Text": "即便如此……\n我还是希望了解奔跑的你们，\n能助我一臂之力。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "共同開発者になってほしいのだ。\nうまい頼み方もできないが……頼む。",
+      "Name": "砂糖光",
+      "Text": "成为共同开发者吧。\n虽然说不出什么美言……但拜托了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "誰もが押し黙る。実現はかなり困難。\nその上、見返りもなさそうな\n挑戦だが……。",
+      "Name": "独白",
+      "Text": "众人默然。这将是个极其艰难的挑战，\n而且没有什么回报……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "ふーむ、しかし『対価はない』と\nライツ博士は言いますが……。",
+      "Name": "琵琶晨光",
+      "Text": "嗯，虽然莱兹博士说『没有回报』……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "一概にそうとも言い切れないのでは\nないでしょうか？",
+      "Name": "琵琶晨光",
+      "Text": "实际上未必如此吧？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "というと……？",
+      "Name": "砂糖光",
+      "Text": "意思是……？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "メカウマ娘の開発。それに協力することは、\n走る構造を、より深く理解することに\nつながります。",
+      "Name": "琵琶晨光",
+      "Text": "参与机械马娘的开发，\n可以更对奔跑的构造有更深层次的理解。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "仕組みを知る中で、あるいは併走する中で、\n得るものも多いように思いますが。",
+      "Name": "琵琶晨光",
+      "Text": "在学习和并跑中也许会有很多收获。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "エアシャカール",
-      "Text": "だな。うまく育てば、疲れ知らずの\n併走パートナーになる。もし失敗しても――",
+      "Name": "空中神宫",
+      "Text": "是啊。\n如果成功了，它就是不知疲倦的并跑伙伴。\n即使失败了——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "エアシャカール",
-      "Text": "オレはデータさえ丸ごといただけりゃ、\nそれでいい。\nそっちの方がはるかに旨味がある。",
+      "Name": "空中神宫",
+      "Text": "只要能得到完整的数据就好了吧。\n那才是最有价值的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "君たち……。では……！",
+      "Name": "砂糖光",
+      "Text": "你们……\n居然……！",
       "ChoiceDataList": [
-        "やりましょう！"
+        "就这么做吧！"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "トレーナー……。",
+      "Name": "砂糖光",
+      "Text": "训练员……",
       "ChoiceDataList": [
-        "俺は……ウマ娘の夢を叶えたい",
-        "私は……ウマ娘の夢を叶えたい"
+        "我……想实现马娘的梦想",
+        "我……想实现马娘的梦想"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "走りをより深く学び、<chrname>の\n夢を叶えたい。そして同時に……。",
+      "Name": "独白",
+      "Text": "更深入地学习奔跑，\n帮助<chrname>实现梦想，同时……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "担当ではなくとも、同じくウマ娘である\nライツ博士の夢も、同時に叶えたかった。",
+      "Name": "独白",
+      "Text": "也想要成全博士作为马娘的愿望。\n就算她并不是自己的担当。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シンボリクリスエス",
-      "Text": "フム、共感――した。\nお前のMissionに――手を貸そう。",
+      "Name": "吉兆",
+      "Text": "嗯，感到共鸣了。\n你的Mission——让我帮忙吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ナリタタイシン",
-      "Text": "……まあ、別に。\n時間あるとき、手伝うくらいなら。",
+      "Name": "成田大进",
+      "Text": "……嘛，\n反正闲着也是闲着，帮帮忙倒无妨。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "タニノギムレット",
-      "Text": "ククククク、窯に火を焼べろ。\n対価？\u3000そんなのはどうでもいい。",
+      "Name": "谷野美酒",
+      "Text": "哈哈哈，让火焰在炉中燃烧吧！\n回报？那都无所谓啦。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "タニノギムレット",
-      "Text": "運命を閉ざす扉があるならばッ。\n蹴りつけて、蹴倒して、蹴破って進むのみ！",
+      "Name": "谷野美酒",
+      "Text": "倘若命运之门阻拦前路。\n用脚踢开就好了，踢破它，继续前进！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "みんな、ありがとう。\nすまない。感謝する……。",
+      "Name": "砂糖光",
+      "Text": "谢谢大家的支持。\n我感激不尽……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "ではメカウマ娘ST-2を\n強化するために、必要なことを伝えよう。\nさあ、研究室へ。",
+      "Name": "砂糖光",
+      "Text": "那么，为了强化机械马娘ST-2，\n让我来讲解必要的事项吧。\n走吧，去研究室！",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
         "研究室"
       ]
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "君たちにはこれから、\n私がダイブインしたST-2と、\nなるべく共にトレーニングをしてもらう。",
+      "Name": "砂糖光",
+      "Text": "从现在开始，\n请你们与我操纵的ST-2尽可能地一同训练。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "そうすることでデータを蓄積し、\n最適化を目指すわけだ。",
+      "Name": "砂糖光",
+      "Text": "就这样积累数据，以期达到最佳状态。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シンボリクリスエス",
-      "Text": "――Data collection.\nそれだけで――速くなるのか？",
+      "Name": "吉兆",
+      "Text": "——Data collection.\n只是这样——就可以变快吗？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "ああ、そして定期的に\n『Upgrade Exam』で、ST-2が\nどれほど成長したか、確かめる。",
+      "Name": "砂糖光",
+      "Text": "没错，还要定期进行『Upgrade Exam』\n来检测ST-2的成长。",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
         "Upgrade Exam"
       ]
     },
     {
-      "Name": "ナリタタイシン",
-      "Text": "アップグレードイグザム……って、なに？\n急に言われても、知らないんだけど……。",
+      "Name": "成田大进",
+      "Text": "Upgrade Exam……那是什么？\n我完全没听过啊……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "『Upgrade Exam』はつまり、\nテスト代わりに行う模擬レースだ。",
+      "Name": "砂糖光",
+      "Text": "所谓『Upgrade Exam』就是用作测试\n的模拟比赛。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "そして『Upgrade Exam』が\n終わったら、その結果を参考に、\n強化の方向性を決めてもらう。",
+      "Name": "砂糖光",
+      "Text": "在『Upgrade Exam』结束后，\n将依据结果来决定强化的方向。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "これを『チューニング』と言う。",
+      "Name": "砂糖光",
+      "Text": "这称为『调试』。",
       "ChoiceDataList": [
-        "好きにチューニングしていいんですか？"
+        "可以任意调试吗？"
       ],
       "ColorTextInfoList": [
-        "チューニング"
+        "调试"
       ]
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "ああ。私は走れさえすれば構わない。\n細かいところは君たちにゆだねる。",
+      "Name": "砂糖光",
+      "Text": "没错。我只负责奔跑。\n细节相关的事情就交给诸位了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "まとめると――\nトレーニング→『Upgrade Exam』→\nチューニングというのが、基本の流れだ。",
+      "Name": "砂糖光",
+      "Text": "总结一下——\n训练→『Upgrade Exam』→调试\n就是基本流程了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "一応、説明は以上になる……。\nでは、まずは一緒に\nトレーニングしてみようか。",
+      "Name": "砂糖光",
+      "Text": "以上就是说明……\n那么，一起开始训练吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "こうして、メカウマ娘の研究に\n協力することとなったのだった。",
+      "Name": "独白",
+      "Text": "就这样，大家开始协力研究机械马娘。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

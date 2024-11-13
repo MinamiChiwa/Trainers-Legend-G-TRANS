@@ -1,5 +1,5 @@
 {
-  "Title": "2.3 夏季休暇の課題",
+  "Title": "2.3 暑假的课题",
   "TextBlockList": [
     {
       "Name": "",
@@ -8,58 +8,58 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "ふぅ、ここか。ようやくついたな。\nST-2も運び込んで、と。",
+      "Name": "砂糖光",
+      "Text": "呼，就是这里。终于到了啊。\n把ST-2也搬进来吧。",
       "ChoiceDataList": [
-        "ライツ博士！？どうして合宿所に？"
+        "莱兹博士！？你怎么在集训地？"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "どうしてもこうしても、\n来なければ、ST-2の強化ができないだろう？",
+      "Name": "砂糖光",
+      "Text": "当然是因为不来的话就没法强化ST-2啊！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "ついでに<chrname>が合宿中に使う\nトレーニング機器の強化も手伝ってやろう。",
+      "Name": "砂糖光",
+      "Text": "顺便也帮忙升级一下<chrname>\n在集训里要用的训练设备。",
       "ChoiceDataList": [
-        "あ、ありがとうございます……"
+        "啊，非常感谢……"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "急な来客。しかも、手伝いまで\nしてくれるのは、かなりありがたいが……。",
+      "Text": "突然到访。而且，还要亲自帮忙，\n让人意外而又感激。",
       "ChoiceDataList": [
-        "どうして、そこまでしてくれるんですか？"
+        "为什么博士要帮我这么多呢？"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "どうして……か。\nそう聞かれてもな……。",
+      "Name": "砂糖光",
+      "Text": "为什么……这个……\n即使你这么问我……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "まあその、つまり……恩返しというか。\nいや、恩返しと言えるほどでもないが……。",
+      "Name": "砂糖光",
+      "Text": "那个，算是……一种报恩吧。\n不，其实也不算是回报什么恩情……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "ともかく気にするな。私は来たくて\n来ただけだ。迷惑……ではないよな？",
+      "Name": "砂糖光",
+      "Text": "总之不要在意啦。\n我只是单纯想来而已。\n不会……添麻烦吧？",
       "ChoiceDataList": [
-        "もちろんです！ありがとうございます！"
+        "当然不会！真的非常感谢！"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "笑ってうなずく。\n夏の心強い味方を得た気分だった。",
+      "Text": "我微笑着点了点头，\n有一种夏天的可靠伙伴\n陪在身边的安心感。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

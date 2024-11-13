@@ -1,5 +1,5 @@
 {
-  "Title": "1.5 ソフトウェアの進展",
+  "Title": "1.5 软件的进展",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,19 +9,19 @@
     },
     {
       "Name": "",
-      "Text": "ある日のトレーニング後のこと。",
+      "Text": "某天训练结束后。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "ほほう、なるほど。\nではこれが……。",
+      "Name": "砂糖光",
+      "Text": "哦哦，原来如此。\n那么这个就是……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "エアシャカール",
-      "Text": "ああ、『Parcae』だ。\n見せてやるのは特別だからな。",
+      "Name": "空中神宫",
+      "Text": "啊，这是『Parcae』。\n特地给你看看。",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
         "Parcae"
@@ -29,332 +29,332 @@
     },
     {
       "Name": "",
-      "Text": "ライツ博士とエアシャカールが向かい合い、\n共にディスプレイを見て、話していた。",
+      "Text": "莱兹博士和空中神宫面对面坐着，\n一起看着显示器，讨论着什么。",
       "ChoiceDataList": [
-        "何をしているんだ？",
-        "何をしているの？"
+        "你们在干什么呢？",
+        "你们在做什么呢？"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "エアシャカール",
-      "Text": "アー、ライツ博士に、\nオレが組み上げたコードを見せてたンだ。",
+      "Name": "空中神宫",
+      "Text": "啊，我给莱兹博士看了我写的代码。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "エアシャカール",
-      "Text": "プログラム、少しはわかるみたいだからな。\nとはいえ、どこまで理解できるか……。",
+      "Name": "空中神宫",
+      "Text": "看来她懂点编程呢。\n不过，能理解多少就不知道了……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "――！！\nこ、これは……。",
+      "Name": "砂糖光",
+      "Text": "――！！\n这，这是……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "そうか、この考えを応用すれば――\nインスピレーションが湧いてきたぞ。",
+      "Name": "砂糖光",
+      "Text": "对啊，\n如果能把这个想法应用进去的话——\n我有灵感了！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "エアシャカール",
-      "Text": "ン？\u3000インスピレーションって……。",
+      "Name": "空中神宫",
+      "Text": "嗯？灵感……？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "少し失礼する！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "ライツ博士は去っていってしまった。",
+      "Name": "砂糖光",
+      "Text": "抱歉，我失陪一下！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "――数日後。",
+      "Text": "莱兹博士匆匆离开了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "エアシャカール",
-      "Text": "来ねェな、ライツ博士。\nトレーニングの時間だってのに。",
+      "Name": "",
+      "Text": "——几天后。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "エアシャカール",
-      "Text": "どうもこの数日、姿を見せてないようだが。",
+      "Name": "空中神宫",
+      "Text": "没来呢，莱兹博士。\n明明是训练的时间。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "这几天都没有露面啊。",
       "ChoiceDataList": [
-        "見に行ってみようか、ラボに"
+        "要去实验室看看吗？"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "エアシャカール",
-      "Text": "チッ……しゃあねェな、ったく。",
+      "Name": "空中神宫",
+      "Text": "啧……没办法，走吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "トレーナー、エアシャカール……。\nついにできたぞ……見てくれ……。",
+      "Name": "砂糖光",
+      "Text": "训练员，空中神宫……\n终于完成了……快看看吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "『Parcae』を見せてくれたおかげだ。\nこのプログラムをST-2に組み込めば。",
+      "Name": "砂糖光",
+      "Text": "多亏了你给我看了『Parcae』。\n如果把这个程序整合到ST-2里的话。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "エアシャカール",
-      "Text": "――！！\u3000これは……。",
+      "Name": "空中神宫",
+      "Text": "――！！这是……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "エアシャカール",
-      "Text": "『Parcae』の演算シミュレーターで、\n接地面のコンディションを予測させたわけか。\nなるほど……。",
+      "Name": "空中神宫",
+      "Text": "用『Parcae』的模拟器预测了\n接触面的状态吗。原来如此……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "エアシャカール",
-      "Text": "こンな使い方があるとは……。\n博士、やるじゃねェか。アンタ……。",
+      "Name": "空中神宫",
+      "Text": "没想到还能这么用啊……\n博士，还挺厉害嘛。你……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "いや、エアシャカールこそ。\nまさか、これほどのプログラマーに\n出会えるとは思わなかった。",
+      "Name": "砂糖光",
+      "Text": "不，空中神宫才是。\n没想到能遇到你这样的程序员。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "コードを通じて繋がる心。\nそれは専門家でなければ\nわからない言語による交流だった。",
+      "Text": "通过代码沟通的心意。\n那是只有专业人士才能理解的语言。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "エアシャカール",
-      "Text": "しかし、これだけの腕があれば、\nエンジニアや別の仕事をしても\n余裕で食っていけただろうに……。",
+      "Name": "空中神宫",
+      "Text": "但是，有这样的本领，\n即使做工程师之类的工作\n也能轻松地生活下去吧……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "エアシャカール",
-      "Text": "でもお前は……ST-2にこだわったンだな？",
+      "Name": "空中神宫",
+      "Text": "可是你却……一直执着于ST-2吗？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "ああ、もちろん私とて、\n一時期は別の道を考えた……。",
+      "Name": "砂糖光",
+      "Text": "是啊，\n虽然我也曾考虑过其他方向……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "（トレセン学園を辞した後、\n第二のキャリアとして、\nロボット工学の道を選んだ）",
+      "Name": "砂糖光",
+      "Text": "（从特雷森学园离开后，\n我选择了机器人工程学作为第二职业）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "同僚の研究者",
-      "Text": "いい設計図ね！\u3000さすがはシュガーライツ。\nレースより、こっちのほうが\n天職なんじゃない？",
+      "Name": "研究者同事",
+      "Text": "真是好图纸啊！不愧是砂糖光。\n比起奔跑，搞这个可能才是你的天职吧？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "そうだろうか、ありがとう。",
+      "Name": "砂糖光",
+      "Text": "是吗，谢谢你。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "（将来性も申し分なかった。\nだがある日……）",
+      "Name": "砂糖光",
+      "Text": "（职业前景无可挑剔。\n然而有一天……）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "懐かしい……映像だ……。\nこれはレースに出ていた時の……。",
+      "Name": "砂糖光",
+      "Text": "好怀念的……画面啊……\n这是我参赛时的……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "忘れたつもりだった……。\nだが今もよぎる、この感覚……。",
+      "Name": "砂糖光",
+      "Text": "本来打算忘记的……\n可如今仍然萦绕心头的，这种感觉……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "は？\u3000待てよ。\n意識をロボットに組み込む。\nもしそれができれば……。",
+      "Name": "砂糖光",
+      "Text": "哈？等等。\n把意识转移到机器人上……\n如果真能做到的话……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "……超えるべき課題は多い。\nだがもう1度。何としても……！",
+      "Name": "砂糖光",
+      "Text": "……眼前有无数难关。\n但我一定要再试一次。\n无论如何……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "（気づいてしまったあとは、\nもう自分でも抑えが利かなくなっていた）",
+      "Name": "砂糖光",
+      "Text": "（察觉到这一点后，\n自己就已经无法停下来了）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "同僚の研究者",
-      "Text": "シュガーライツ、ほどほどにしておきなよ。\nそんな研究、無茶だって。",
+      "Name": "研究者同事",
+      "Text": "砂糖光，适可而止吧。\n那样的研究太荒唐了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "同僚の研究者",
-      "Text": "意識をロボットと同期させて、しかも\nウマ娘と同じスピードで走らせようなんて。",
+      "Name": "研究者同事",
+      "Text": "让意识和机器人同步，\n让它跑得和马娘一样快。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "理解してもらえないのはわかっている。\nそれでも、どうしても私は……。",
+      "Name": "砂糖光",
+      "Text": "我知道没人能理解我。\n但即便如此，我还是……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "この夢を成し遂げたい。\n必ず実現させてみせる。",
+      "Name": "砂糖光",
+      "Text": "想要实现这个梦想。\n我一定要让它成为现实。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "1度は走りから離れた私だが、それでも……\n小さな夢を完全に捨てることはできなかった。",
+      "Name": "砂糖光",
+      "Text": "虽然我已经离开了赛场，但……\n我始终无法彻底放弃那个小小的梦想。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "捨てられない以上、私は私の信じる道を\n行くしかない。そして結果で示すしか。",
+      "Name": "砂糖光",
+      "Text": "既然无法放弃，\n那我就只能选择我相信的路。\n然后用成果来证明自己。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "エアシャカール",
-      "Text": "そうか……。\nアンタもその口か。",
+      "Name": "空中神宫",
+      "Text": "是吗……\n你也是这样的人啊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "エアシャカール",
-      "Text": "そうだな。周りは理解なンてしちゃくれねェ。\n結果を突きつけない限りな。だから……。",
+      "Name": "空中神宫",
+      "Text": "是啊。周围的人不会理解我们。\n除非我们用结果来证明。所以……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "エアシャカール",
-      "Text": "（ただ1人でも、信じ抜くしかねェ。\n自分のロジックと、\nその研究によってやってくる未来を）",
+      "Name": "空中神宫",
+      "Text": "（哪怕只有自己一个人，也坚信着。\n相信自己的逻辑，\n相信研究带来的未来）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "エアシャカール",
-      "Text": "（『Parcae』は――そのために創った）",
+      "Name": "空中神宫",
+      "Text": "（『Parcae』——就是为此而创作的）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "エアシャカール",
-      "Text": "（どう転ンでも勝てない『日本ダービー』。\nその未来予測を覆し、\n超えられない7cmを超えるために）",
+      "Name": "空中神宫",
+      "Text": "（无论如何都赢不了的『日本德比』。\n为了颠覆未来的预测，\n超越那无法逾越的7厘米）",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
-        "日本ダービー"
+        "日本德比"
       ]
     },
     {
-      "Name": "エアシャカール",
-      "Text": "ライツ博士、ST-2と『Parcae』は\n……同じだ、まったくな。",
+      "Name": "空中神宫",
+      "Text": "莱兹博士，ST-2和『Parcae』……\n确实是一样的啊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "エアシャカール",
-      "Text": "つまりは――信念の結晶。オレにも\n絶対やり抜かなきゃならねェことがある。",
+      "Name": "空中神宫",
+      "Text": "换句话说——是信念的结晶。\n我也有非完成不可的事。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "そうか……。君にも譲れない夢が……。\nだからこその、この完成度なのだな。",
+      "Name": "砂糖光",
+      "Text": "是吗……\n原来你也有无法妥协的梦想……\n正因如此，才有了这样的完成度吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "エアシャカール",
-      "Text": "ああ……。ところで博士、ひとつ提案だ。\n――NDAを結ばねェか？",
+      "Name": "空中神宫",
+      "Text": "嗯……对了，博士，我有个提议。\n——要不要签份NDA？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "NDA？\n機密保持契約か？",
+      "Name": "砂糖光",
+      "Text": "NDA？保密协议？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "エアシャカール",
-      "Text": "ああ。誰にも言うな。\nそれさえ呑ンでもらえれば……。",
+      "Name": "空中神宫",
+      "Text": "对，谁也不要告诉。\n如果你同意的话……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "エアシャカール",
-      "Text": "お前にはすべて教えてやる。\nオレの持つ技術、その全てをな。",
+      "Name": "空中神宫",
+      "Text": "我会全都告诉你。\n我所拥有的，全部的技术。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "エアシャカール……。",
+      "Name": "砂糖光",
+      "Text": "空中神宫……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "エアシャカール",
-      "Text": "使えるモンは好きに使え。\n代わりにそっちも好きに使わせろ。\nそして、いつか必ず――",
+      "Name": "空中神宫",
+      "Text": "有用的话就随意使用吧。\n作为交换，我也想利用你的技术。\n然后，终有一日——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "エアシャカール",
-      "Text": "成し遂げるぞ。ウマ娘と同じ速度で走れる\nロボの開発を。",
+      "Name": "空中神宫",
+      "Text": "我们会成功的。\n开发出能和马娘一样快的机器人。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "ああ、百万の味方を得た気分だ。\nよろしく頼む。",
+      "Name": "砂糖光",
+      "Text": "嗯，感觉如有百万大军支持呢。\n请多指教。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "互いに、研究に夢を懸ける者同士。\nライツ博士は、エアシャカールと\n打ち解けたのだった。",
+      "Text": "彼此都是将梦想寄托于研究的人。\n博士终于和空中神宫打成了一片。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

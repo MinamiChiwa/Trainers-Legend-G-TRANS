@@ -1,5 +1,5 @@
 {
-  "Title": "3.2 計算外の推進力",
+  "Title": "3.2 不可估量的推进力",
   "TextBlockList": [
     {
       "Name": "",
@@ -8,584 +8,584 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "はあっ、はあっ……タイムは悪くない。\nでも、まだ――まだまだ。",
+      "Name": "ST-2（萨蒂）",
+      "Text": "哈……哈……用时不算差。\n不过，还不够——还差得远。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "もう1本！\u3000はあああっ！！",
+      "Name": "ST-2（萨蒂）",
+      "Text": "再来一次！哈啊啊啊！！",
       "ChoiceDataList": [
-        "気合い入ってるな、ライツ博士……！",
-        "気合い入ってるね、ライツ博士……！"
+        "干劲十足啊，莱兹博士……！",
+        "干劲十足呢，莱兹博士……！"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "ST-2が最終形態にアップグレードして以降、\nライツ博士の研究に対する熱意は\nさらに強くなった。",
+      "Name": "独白",
+      "Text": "自从ST-2完成了终极形态的升级，\n莱兹博士对研究的热情更显高涨。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "ふむ、最終形態でテストを重ねてきたが、\n数字的には……停滞気味だな。",
+      "Name": "琵琶晨光",
+      "Text": "嗯……在最终形态的测试中，\n数据表现有些……停滞不前啊。",
       "ChoiceDataList": [
-        "……原因はわかっているのか？",
-        "……原因はわかっているの？"
+        "……找到原因了吗？",
+        "……找到原因了吗？"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "いや、それがどうも……。\n何が原因で頭打ちになっているのか……。",
+      "Name": "琵琶晨光",
+      "Text": "不，这个……\n到底是什么原因造成了阻碍呢……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "くそ……くそう……。なぜだ……。\nわからない。どうしてなんだ……！",
+      "Name": "ST-2（萨蒂）",
+      "Text": "可恶……为什么……\n我搞不懂。为什么啊……！",
       "ChoiceDataList": [
-        "どうか根を詰めすぎずに……"
+        "请别太纠结了……"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "トレーナー……。そうだな、すまない。\nまたみんなの知恵を貸してほしい……。",
+      "Name": "ST-2（萨蒂）",
+      "Text": "训练员……抱歉，\n还得麻烦大家一起出主意……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ナリタタイシン",
-      "Text": "足りないのは、\n最後の最後で追い込む力だと思う。",
+      "Name": "成田大进",
+      "Text": "我认为缺少的是在最后时刻爆发的力量。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ナリタタイシン",
-      "Text": "ロボのことはよくわからないけど、\n緊急ブースターとかを使えば……。",
+      "Name": "成田大进",
+      "Text": "我对机器人不太了解，\n不过如果能用紧急加速器之类的装置……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "いや、それでは走る感触が損なわれる。\nやはり平均的な出力の底上げを……。",
+      "Name": "琵琶晨光",
+      "Text": "不行，那样会影响跑动的感觉。\n需要的是整体输出的提升……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "エアシャカール",
-      "Text": "ハード面は限界だって言ってンだろ。\nそれより“ソフト”の\nバージョンアップを……。",
+      "Name": "空中神宫",
+      "Text": "你说的是硬件瓶颈的情况。\n比起那个，倒不如考虑“软件”升级……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シンボリクリスエス",
-      "Text": "――――",
+      "Name": "吉兆",
+      "Text": "————",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "さまざまな意見を持ち寄ったものの、\n光明は見えない。\nはたして改善の方法はあるのか。",
+      "Name": "独白",
+      "Text": "大家各抒己见，但始终没有找到突破口。\n难道就没有办法改进了吗。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "タニノギムレット",
-      "Text": "車輪の姫、もう1度見せてみろ。\n今できる、至高の走りを。",
+      "Name": "谷野美酒",
+      "Text": "轮上的公主，再让我见识一次吧。\n当下能做到的，极致的奔跑。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "ああ、わかった。",
+      "Name": "砂糖光",
+      "Text": "嗯，明白。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "ハァアアアアアア！",
+      "Name": "ST-2（萨蒂）",
+      "Text": "哈啊啊啊啊啊啊！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シンボリクリスエス",
-      "Text": "速く――なっているな。遥かに。",
+      "Name": "吉兆",
+      "Text": "变快了——比之前快得多。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ナリタタイシン",
-      "Text": "うん、ここまで走れるなら……。",
+      "Name": "成田大进",
+      "Text": "嗯，如果能跑成这样的话……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "エアシャカール",
-      "Text": "付け焼き刃じゃどうしようもねェ。\nヘンなものを足せば、かえって悪くなる。",
+      "Name": "空中神宫",
+      "Text": "临阵磨枪是没用的。\n乱加东西只会适得其反。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "では、どうすれば……。",
+      "Name": "琵琶晨光",
+      "Text": "那么，该怎么办呢……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "タニノギムレット",
-      "Text": "…………。",
+      "Name": "谷野美酒",
+      "Text": "…………",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "タニノギムレットだけが何も言わない。\nただじっと、ST-2を見つめ、そして……。",
+      "Name": "独白",
+      "Text": "只有谷野美酒一言不发。\n只是静静地凝视着ST-2，直到……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "タニノギムレット",
-      "Text": "ブリキ缶――だな。",
+      "Name": "谷野美酒",
+      "Text": "铁皮罐——是啊。",
       "ChoiceDataList": [
-        "ギムレット？"
+        "美酒？"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "タニノギムレット",
-      "Text": "まだブリキ缶だ。見た目は\n完璧な彫像の如く磨かれた。だが――",
+      "Name": "谷野美酒",
+      "Text": "还只是个铁皮罐。\n外表被打磨得宛如精致的雕像。但却——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "タニノギムレット",
-      "Text": "機械神にはほど遠い。\nならば――",
+      "Name": "谷野美酒",
+      "Text": "远非机械之神。\n既然如此——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "（バサァッ）",
+      "Name": "独白",
+      "Text": "（沙沙）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "タニノギムレット",
-      "Text": "答えを啓示してやる。\nこの俺が――いや、ワタシが。",
+      "Name": "谷野美酒",
+      "Text": "赐予你答案。\n由我——不，由吾。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シンボリクリスエス",
-      "Text": "ギムレット、併走――する気か。",
+      "Name": "吉兆",
+      "Text": "美酒，你要一起跑吗。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "タニノギムレット……\n君にはわかるというのか。\n私に足りないものが。",
+      "Name": "ST-2（萨蒂）",
+      "Text": "谷野美酒……\n你知道了吗。我所缺少的东西。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "タニノギムレット",
-      "Text": "如何にも。だがその前に……\n先導者とタイシン――来るがいい。",
+      "Name": "谷野美酒",
+      "Text": "当然。但是在那之前……\n先锋和大进——来吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "……タニノギムレットに呼ばれて、まずは\n3人で、併走の仕方を軽く打ち合わせた。",
+      "Name": "独白",
+      "Text": "……应谷野美酒的呼唤，\n三人先稍微商量了一下如何并跑。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "タニノギムレット",
-      "Text": "――というわけだ。\n俺と博士が先に走り、そして――",
+      "Name": "谷野美酒",
+      "Text": "——就这么办。\n我和博士先跑，然后——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "タニノギムレット",
-      "Text": "角笛は先導者に委ねよう。\n進軍の刻が来たら、鳴らすがいい。",
+      "Name": "谷野美酒",
+      "Text": "号角就交给先锋吧。\n到了进军的时刻就吹响它。",
       "ChoiceDataList": [
-        "……わかった"
+        "……明白了"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ナリタタイシン",
-      "Text": "……アタシも了解。",
+      "Name": "成田大进",
+      "Text": "……我也明白了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "こうして、まずは――\nST-2とタニノギムレットが併走することに。",
+      "Name": "独白",
+      "Text": "就这样，首先——\nST-2和谷野美酒一起奔跑。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "ナリタタイシンは、コース脇に待機させた。",
+      "Name": "独白",
+      "Text": "成田大进在跑道旁待命。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ギムレット＆ST-2",
-      "Text": "ハァァァアアアア！\nたぁああああああ！",
+      "Name": "美酒&ST-2",
+      "Text": "啊啊啊啊啊啊啊！\n啊啊啊啊啊啊！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "タニノギムレット",
-      "Text": "フッ、やるようになったな、ブリキ缶。\nだが――まだまだだ。",
+      "Name": "谷野美酒",
+      "Text": "哼，不错嘛，铁皮罐头。\n但是——还差得远呢。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "なめるな。今のST-2は\n最初のような不完全体ではないぞ。",
+      "Name": "ST-2（萨蒂）",
+      "Text": "别小看我。如今的ST-2\n已经不是最初那个不完全体了！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "速度は大して変わらないな。\n驚きだ。",
+      "Name": "琵琶晨光",
+      "Text": "速度没有太大变化啊。\n真令人吃惊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シンボリクリスエス",
-      "Text": "ああ。But――\nレースはspeed比べ……ではない。",
+      "Name": "吉兆",
+      "Text": "是啊。But——\n比赛不是单纯的speed比拼。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ギムレット＆ST-2",
-      "Text": "ハァアアアアアア！\nウォオオオオオオ！",
+      "Name": "美酒&ST-2",
+      "Text": "啊啊啊啊啊啊啊！\n喔哦哦哦哦哦哦！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "タニノギムレット",
-      "Text": "ウオラアアアアアアッ！",
+      "Name": "谷野美酒",
+      "Text": "喔哦哦哦哦哦哦！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "うぉ……くぅ……！？\n少しずつ……差が……。",
+      "Name": "ST-2（萨蒂）",
+      "Text": "呃……嗯……！？\n一点点……拉开距离了……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "タニノギムレット",
-      "Text": "こんなものか、ブリキ缶。\n為す術もなく、理の泥海に呑まれるか。",
+      "Name": "谷野美酒",
+      "Text": "就这么结束了吗，铁皮罐头？\n束手无策地沉溺在规则的泥沼里吗？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "このままだと、ST-2は\n確実に置いていかれる。なら――",
+      "Name": "独白",
+      "Text": "照这样下去，\nST-2肯定会被甩开。那么——",
       "ChoiceDataList": [
-        "今だ、タイシン！",
-        "今だよ、タイシン！"
+        "就是现在，大进！",
+        "就是现在，大进！"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ナリタタイシン",
-      "Text": "うん！\u3000ハァアアアアア！",
+      "Name": "成田大进",
+      "Text": "好！哈啊啊啊啊啊！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "――すかさずナリタタイシンを投入。\n追走させる。",
+      "Name": "独白",
+      "Text": "——成田大进迅速投入追逐。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "ナリタタイシンはたちまち追いつき、\nそして――",
+      "Name": "独白",
+      "Text": "成田大进很快就追上了，然后——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ナリタタイシン",
-      "Text": "やぁああああああ！！",
+      "Name": "成田大进",
+      "Text": "哈啊啊啊啊啊啊！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "――！？\u3000タイシン！？\n最終直線で……飛び入りだと？",
+      "Name": "ST-2（萨蒂）",
+      "Text": "——！？大进！？\n最后直道上……在这里冲刺？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "このケタ違いのスピード……。\nいや、スピードではない。\n私とまったく違うのは……。",
+      "Name": "ST-2（萨蒂）",
+      "Text": "这截然不同的速度……\n不，不只是速度。\n和我完全不同的是……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ナリタタイシン",
-      "Text": "追いつくために、一気に脚は使った。\nでも最終直線での勝負なら――",
+      "Name": "成田大进",
+      "Text": "为了追赶上来，我倾尽了全力。\n但在这最后的直线上——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ナリタタイシン",
-      "Text": "アタシは――負けない！\n負けるものかァァァッ！！！！",
+      "Name": "成田大进",
+      "Text": "我——绝不会输！不可能输！\n啊啊啊啊啊啊！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "この“闘志”は……！？",
+      "Name": "ST-2（萨蒂）",
+      "Text": "这种“斗志”是……！？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "（そもそもの……質が違う……。\nST-2の走りとは、根本的に……）",
+      "Name": "ST-2（萨蒂）",
+      "Text": "（根本……就不同……\nST-2的跑法和她的根本不同……）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "（私は言わば“乗り物に乗っている”だけ。\nだがタイシンは……）",
+      "Name": "ST-2（萨蒂）",
+      "Text": "（我只是说“驾驶着一台机器”而已。\n但大进……）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ナリタタイシン",
-      "Text": "うああああああああああああッ！！",
+      "Name": "成田大进",
+      "Text": "啊啊啊啊啊啊啊啊啊啊啊！！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "（……気持ちだ。\n気持ちがそのまま、走りになっている！）",
+      "Name": "ST-2（萨蒂）",
+      "Text": "（……意志。\n是意志，直接化为了她的奔跑！）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "（この境地に至らなければ……\n壁など越えられるわけがない）",
+      "Name": "ST-2（萨蒂）",
+      "Text": "（如果不能达到那种境界……\n就不可能跨越障碍）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "タニノギムレット",
-      "Text": "そう、鍵となる熱情は、ブリキの体にはない。\nそれを持つのは――",
+      "Name": "谷野美酒",
+      "Text": "没错，这关键的热情，\n不存在于冰冷的铁皮中。\n拥有它的——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "タニノギムレット",
-      "Text": "オマエだ、車輪の姫！",
+      "Name": "谷野美酒",
+      "Text": "是你，轮上的公主！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "タニノギムレット",
-      "Text": "飛びたければ――喰い千切れ。\n心を縛る、繋がれし姫君の鎖を。",
+      "Name": "谷野美酒",
+      "Text": "想要飞翔的话——就咬碎它吧。\n挣脱束缚着你心灵的枷锁！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "そうだ……私は今まで\n理性で走ろうとしていた。だが……。",
+      "Name": "砂糖光",
+      "Text": "对啊……\n我一直以来，都只是在用理性奔跑。\n但是……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "ST-2が真にウマ娘と等しく走るためには――",
+      "Name": "砂糖光",
+      "Text": "如果ST-2想要真正像马娘一样——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "理性だけでは――届かない。",
+      "Name": "砂糖光",
+      "Text": "只依靠理性——是达不到的。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "気持ちで走ってこそ、気持ちに応えてこそ！",
+      "Name": "砂糖光",
+      "Text": "只有用心去跑，才能回应彼此的心意！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "うおおおおおおおおおおおおおおおッ！",
+      "Name": "ST-2（萨蒂）",
+      "Text": "呜哦哦哦哦哦哦哦哦哦哦哦！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "タニノギムレット",
-      "Text": "フッ――覚醒したか。",
+      "Name": "谷野美酒",
+      "Text": "呼——觉醒了吗。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "私はぁぁぁ、\n私はッ……もっと心のままにーッ！！",
+      "Name": "ST-2（萨蒂）",
+      "Text": "我、我……\n要顺随心意地奔跑！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シンボリクリスエス",
-      "Text": "フム、変わったな――走りが。",
+      "Name": "吉兆",
+      "Text": "嗯，变了啊——奔跑。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "エアシャカール",
-      "Text": "ああ、超えやがった……数値の限界を……。",
+      "Name": "空中神宫",
+      "Text": "啊……居然超过了……数据的极限……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "こうなるのも当然か。本気のタイシンに\n追われれば、こうならざるを得ない……。",
+      "Name": "琵琶晨光",
+      "Text": "这也在情理之中吧。\n被使出全力的大进追赶，\n就不得不爆发出这股力量……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "まさに小さな弾丸。自分の存在全てを懸けた、\nあの追い込みに突き上げられて、\n火がつかない者などいるわけがない。",
+      "Name": "琵琶晨光",
+      "Text": "简直就像一颗小小的子弹。\n将自己的全部存在赌在这份冲刺上，\n在那样的助推下，没有谁会无动于衷。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "私もチケットも、あの熱に追われて、\n強くなってきた。そして今……博士も。",
+      "Name": "琵琶晨光",
+      "Text": "我和奖券都被那热情追赶着变得更强。\n而现在……博士也是。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シンボリクリスエス",
-      "Text": "Hm.\nST-2はもう……machineではない。\nそう――",
+      "Name": "吉兆",
+      "Text": "Hm.\nST-2已经不是……machine了。\n没错——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シンボリクリスエス",
-      "Text": "Realウマ娘だ。",
+      "Name": "吉兆",
+      "Text": "Real赛马娘。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "こうしてST-2はタニノギムレットと\nナリタタイシンとの併走の中で、\n今までにない爆発力を見せた。",
+      "Name": "独白",
+      "Text": "就这样，\n在与谷野美酒和成田大进的并肩竞速中，\nST-2爆发出了前所未有的力量。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "はぁ、はぁ、はぁ。結局勝てなかった。\nだが……！",
+      "Name": "ST-2（萨蒂）",
+      "Text": "呼、呼。呼。最终没能赢啊。\n不过……！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "潤滑油が……熱い。\nこれがST-2なのか。",
+      "Name": "ST-2（萨蒂）",
+      "Text": "润滑油……好热。\n这就是ST-2吗。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "なるほど……。今の併走を見て、\nハッキリと原因が解析できました。",
+      "Name": "琵琶晨光",
+      "Text": "原来如此……\n看过刚才的并跑，\n已经彻底了解原因了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "ふむ、気持ちの問題……ではないのか？",
+      "Name": "ST-2（萨蒂）",
+      "Text": "嗯，是心理上的问题……不是吗？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "雑に言ってしまえばそうですが……\n正確には――",
+      "Name": "琵琶晨光",
+      "Text": "简单来说是这样，不过准确地说——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "博士はまだ“制御”しようとしていたのです。",
+      "Name": "琵琶晨光",
+      "Text": "博士一直在“控制”着ST-2。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "今までは義体であるST-2を、\n意識的に動かそうとしていました。しかし――",
+      "Name": "琵琶晨光",
+      "Text": "一直以来，\n博士都在尝试以意识来操控义体ST-2。\n但是——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "ウマ娘も人も、わざわざ意識的に\n歩いたり走ったりはしません。",
+      "Name": "琵琶晨光",
+      "Text": "无论是马娘还是人类，\n都不会刻意地走路或奔跑。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "全ての動作は“無意識”。\nだからこそ反応が速く、伸び幅も大きい……。",
+      "Name": "琵琶晨光",
+      "Text": "所有的动作都是“无意识的”。\n因此反应更加迅速，提升幅度也更大……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "博士に足りなかったのは、ST-2を信じ、\n本能に委ねることだったのです。",
+      "Name": "琵琶晨光",
+      "Text": "博士缺少的就是对ST-2的信任，\n缺少让其发挥本能的勇气。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "そうか、本能……。\nそれが理由で……。",
+      "Name": "ST-2（萨蒂）",
+      "Text": "原来如此，是本能啊……\n这就是原因……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "追走させたのがタイシンだったのも、\n最適でした。彼女は最終直線、\nいつも本能全開で走ります。",
+      "Name": "琵琶晨光",
+      "Text": "而让大进来追赶，也是最佳选择。\n她在最后的直道上，\n总是会使出全部本能来奔跑。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "その本能に、博士も感化されたのでしょう。\n追わせる指示のタイミングもベストでした。",
+      "Name": "琵琶晨光",
+      "Text": "博士也应该是被她的本能所感染了。\n选择让她追赶的时机也恰到好处。",
       "ChoiceDataList": [
-        "まあ……あそこしかなかったよな",
-        "まあ……あそこしかなかったよね"
+        "嘛……确实只有那个时机吧",
+        "嘛……确实只有那个时机呢"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "モノローグ",
-      "Text": "追わせるなら、ライツ博士が諦めかけた時。\nこちらの判断にも迷いはなかった。",
+      "Name": "独白",
+      "Text": "选择让她追赶的时机，\n正是博士快要放弃的时候。\n我的判断没有犹豫。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "タニノギムレット",
-      "Text": "フッ、かくして――禁忌の門は\n開かれたようだな。ならば――",
+      "Name": "谷野美酒",
+      "Text": "嗯，这样一来——\n禁忌之门似乎已然开启。那么——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "タニノギムレット",
-      "Text": "行くとしよう。\nさらに先の、地平の果てへ。",
+      "Name": "谷野美酒",
+      "Text": "向前迈进吧。\n去往更加遥远的地平线。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

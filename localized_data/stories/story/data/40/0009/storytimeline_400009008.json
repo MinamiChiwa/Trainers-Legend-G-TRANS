@@ -1,5 +1,5 @@
 {
-  "Title": "2.1 動作パターンの拡張",
+  "Title": "2.1 动作模式的扩展",
   "TextBlockList": [
     {
       "Name": "",
@@ -8,369 +8,369 @@
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "たぁぁああああああ！",
+      "Name": "ST-2（萨蒂）",
+      "Text": "啊啊啊啊啊啊！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "（ふむ、かなり速くなってきた。\nなってはきた……が……）",
+      "Name": "ST-2（萨蒂）",
+      "Text": "（嗯，速度明显提升了.。\n虽说如此……但是……）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "し、しまった……。コーナーで膨らみすぎた。\nどうも制動が……。",
+      "Name": "ST-2（萨蒂）",
+      "Text": "糟了……\n在转弯时甩得太开了。\n制动还是不太顺畅啊……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "お？\u3000お？\u3000なぜ下がる……？\nそんな指令を出した覚えは……。こら……。",
+      "Name": "ST-2（萨蒂）",
+      "Text": "咦？诶？怎么自己降速了……？\n我可没下过这种指令啊……喂……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ナリタタイシン",
-      "Text": "なんかさ……たまに暴走するよね。\n細かい動きもイマイチだし。",
+      "Name": "成田大进",
+      "Text": "怎么说呢……偶尔会失控啊。\n而且动作的细节也不太行。",
       "ChoiceDataList": [
-        "ああ、生身と比べるとな",
-        "うん、生身と比べるとね"
+        "嗯，和肉身相比确实如此啊",
+        "嗯，和肉身相比确实如此呢"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "やはり元の体のように、自由に\n動かせるようにはなかなかならない……。",
+      "Text": "毕竟做到能和原本的身体一样自由活动\n就已经很不容易了……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "だが細かい挙動ができないと、\n一体感も感じられないし、\n結局は最高速度も上がらない。",
+      "Text": "但如果不能实现精细的动作，\n就会缺失一体感，\n最终速度也会受到限制。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "自由と性能を獲得するための課題は、\nまだまだたくさん……といったところか。",
+      "Name": "琵琶晨光",
+      "Text": "看来要获得自由和性能，\n还有许多难题要克服啊……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "タニノギムレット",
-      "Text": "フ、フフフフ、クハハハハッ！",
+      "Name": "谷野美酒",
+      "Text": "嘿嘿、嘿嘿……哈哈哈哈哈！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シンボリクリスエス",
-      "Text": "What?\u3000どうしたギムレット？",
+      "Name": "吉兆",
+      "Text": "What? 怎么了，美酒？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "タニノギムレット",
-      "Text": "擬態した体と完全に共鳴できないならば――",
+      "Name": "谷野美酒",
+      "Text": "如果无法与拟态的身体完全共鸣的话——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "タニノギムレット",
-      "Text": "――墜ちるがいい、世俗へ。",
+      "Name": "谷野美酒",
+      "Text": "——那就堕入世俗吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "エアシャカール",
-      "Text": "アン？\u3000つまり？",
+      "Name": "空中神宫",
+      "Text": "啥？什么意思？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "タニノギムレット",
-      "Text": "神々の闘争を忘れ、戯れろと言っている。\nすなわち――",
+      "Name": "谷野美酒",
+      "Text": "忘却众神的争斗，去享受吧。\n也就是说——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "タニノギムレット",
-      "Text": "歓喜の園で！",
+      "Name": "谷野美酒",
+      "Text": "快乐之园！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "ゲームセンターか。\nあまり来ない場所だが……。",
+      "Name": "ST-2（萨蒂）",
+      "Text": "游戏中心吗。\n我平时不怎么来这种地方啊……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ナリタタイシン",
-      "Text": "こんなところで遊んで、\n何かの役に立つの？",
+      "Name": "成田大进",
+      "Text": "在这里玩有什么意义吗？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "なるほど……。\n博士とST-2を、より一体化させるためには、\nいいかもしれないな。",
+      "Name": "琵琶晨光",
+      "Text": "原来如此……\n为了让博士和ST-2更加一体化，\n这倒是个不错的主意。",
       "ChoiceDataList": [
-        "というと？"
+        "何出此言？"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "つまり、こういうことだ。ライツ博士が、\nあまり来ない場所ということは……。",
+      "Name": "琵琶晨光",
+      "Text": "就是说，博士不常来的地方，也是……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "“普段しない動作をする”場所、という\nことになる。",
+      "Name": "琵琶晨光",
+      "Text": "“做平时不做的动作”的地方啊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "イレギュラーな動きに対応させるほど、\n博士とST-2はひとつになれるはずだ。",
+      "Name": "琵琶晨光",
+      "Text": "能应对无规律的动作的话，\n博士就更能和ST-2融为一体了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "そういうことか。ギムレットの言うことは\n難解でも、的を射ているな。",
+      "Name": "ST-2（萨蒂）",
+      "Text": "原来如此。\n美酒说的话虽然有点难懂，\n但确实有道理。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "では私はどんなゲームをすればいい？\nトレーナー、オススメはあるか？",
+      "Name": "ST-2（萨蒂）",
+      "Text": "那么我应该玩什么游戏呢？\n训练员，可以推荐一些吗？",
       "ChoiceDataList": [
-        "はい、任せてください！"
+        "没问题，交给我吧！"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "リズムゲームか。なるほど。\n走行とはまた全然違う動きが求められるな。",
+      "Name": "ST-2（萨蒂）",
+      "Text": "节奏游戏吗。\n确实，这些动作和奔跑完全不同呢。",
       "ChoiceDataList": [
-        "はい、今必要なのはこれです"
+        "是的，现在需要的就是这个。"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ナリタタイシン",
-      "Text": "じゃあやろう。アタシも付き合う。",
+      "Name": "成田大进",
+      "Text": "那就来吧。我也陪着你。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "む、く、くくく……。",
+      "Name": "ST-2（萨蒂）",
+      "Text": "嗡、哐、哐哐……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ナリタタイシン",
-      "Text": "うわ……ポンコツ……。\nそうじゃないって。もっとキレよく……。",
+      "Name": "成田大进",
+      "Text": "哇……笨手笨脚的……\n不是这样的啦。动作要更干净利落些……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ナリタタイシン",
-      "Text": "ST-2……ってか博士、\nトレセン学園にいたときに\nダンスは習わなかったの？",
+      "Name": "成田大进",
+      "Text": "ST-2……博士，\n你在特雷森的时候没有学过跳舞吗？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "習った……ひと通りはな……。\nだが苦手だった上に……。",
+      "Name": "ST-2（萨蒂）",
+      "Text": "学过……基本的……\n但不擅长啊……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "目立つポジションで踊った経験はないからな。\nバックダンサーばかりで。",
+      "Name": "ST-2（萨蒂）",
+      "Text": "而且也没有在显眼的位置跳过舞。\n一直都是当伴舞。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ビワハヤヒデ",
-      "Text": "そうですか。しかし不慣れなら、その分、\n伸び代もあるということにもなります。",
+      "Name": "琵琶晨光",
+      "Text": "这样啊。不过既然不熟练，\n那就意味着有很大的提升空间。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "エアシャカール",
-      "Text": "なら場数を踏ンで、データを増やせ。\n次はハードモード、いくぞ。",
+      "Name": "空中神宫",
+      "Text": "那就多多练习，积累数据吧。\n接下来挑战困难模式。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "うぐぐぐ……。",
+      "Name": "ST-2（萨蒂）",
+      "Text": "唔咕咕咕……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "こうして、ゲームセンターで\nさんざん遊んだ後は……。",
+      "Text": "就这样，\n大家在游戏中心尽情地玩耍了一番后……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "この棒で……遊ぶのか？\nギムレットとクリスエスをつつくとか？",
+      "Name": "ST-2（萨蒂）",
+      "Text": "这个杆子……是用来玩的吗？\n戳美酒和吉兆？",
       "ChoiceDataList": [],
       "ColorTextInfoList": [
-        "クリスエス"
+        "吉兆"
       ]
     },
     {
-      "Name": "タニノギムレット",
-      "Text": "フッ、騎乗試合か。それも一興。\n一角獣から落とされるのは、どちらか。",
+      "Name": "谷野美酒",
+      "Text": "嗯，骑术比赛吗。倒也不错。\n看看到底谁会先从独角兽上摔下来吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シンボリクリスエス",
-      "Text": "Neither.\nやるのは――billiardsだ。",
+      "Name": "吉兆",
+      "Text": "Neither.\n其实要玩的是——billiards。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "ビリヤード……。あの転がっている球を、\n突くのだな。ルールを教えてくれ。",
+      "Name": "ST-2（萨蒂）",
+      "Text": "台球……就是打那个滚动的小球吗。\n教我规则吧。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "タニノギムレット",
-      "Text": "いいだろう。まず弾丸は“揺るがざる白”。\n九つの贖罪を\n罪過の渦に沈められるかどうか！",
+      "Name": "谷野美酒",
+      "Text": "没问题。首先，子弹是“不动的白球”。\n看你能否将九个罪赎淹没在罪恶的漩涡中！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "……わかりやすく頼む。",
+      "Name": "ST-2（萨蒂）",
+      "Text": "……请解释得简单一点。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シンボリクリスエス",
-      "Text": "フム……説明は……苦手だが……。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "代わりに自分が説明する。\n白い球を打ち、番号の1番小さい球に当て、\n最後は9番を落とすゲームだ、と。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "ST-2（サティ）",
-      "Text": "さすがトレーナー。簡潔でわかりやすいな。\n理解した。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "ST-2（サティ）",
-      "Text": "慣れない動作で精度を出すのは大変だが……\nやってみる。",
+      "Name": "吉兆",
+      "Text": "唔……解释这种事……不太擅长啊……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "（コン……カンカンカン！）",
+      "Text": "那就由我来解释吧。\n用白球击打最小号的球，\n最后让9号球入袋，就是这样。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ST-2（萨蒂）",
+      "Text": "不愧是训练员。简洁明了。\n我懂了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ST-2（萨蒂）",
+      "Text": "用不熟练的动作打准确实有些难度……\n我试试",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "やったことのない数々のゲームを、\n仲間たちとこなし、そして――",
+      "Text": "（砰……哐哐哐！）",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "とぉぉぉおおおおお！",
+      "Name": "",
+      "Text": "和大家一起玩了\n许多没有尝试过的游戏后——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ナリタタイシン",
-      "Text": "――！！\nこれは……。",
+      "Name": "ST-2（萨蒂）",
+      "Text": "哇哦哦哦！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ナリタタイシン",
-      "Text": "速くなってる。前よりずっと……。\nここまで変わるなんて……。",
+      "Name": "成田大进",
+      "Text": "――！！\n这是……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "やった、やったぞ、トレーナー！",
+      "Name": "成田大进",
+      "Text": "速度变快了，比之前快了好多……\n变化居然这么大……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ST-2（萨蒂）",
+      "Text": "太好了，太好了，训练员！",
       "ChoiceDataList": [
-        "はい、効果バッチリですね"
+        "是的，效果拔群呢"
       ],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "多彩なゲームをやらせたことで、挙動は\n格段によくなったようだ。そのうえに――",
+      "Text": "通过多种游戏的训练，\n动作显然提升了很多。而且——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "みんなと遊べて、その……いい経験になった。\n車椅子だとなかなか交流もできなくて、な。",
+      "Name": "ST-2（萨蒂）",
+      "Text": "和大家一起玩……也是一段美好的体验。\n平时在轮椅上不太能这么互动。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ナリタタイシン",
-      "Text": "……そっか。だよね。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "車椅子で遊びに行く時は、制約や気遣いも\nあるのだろう。だがそんな壁もST-2は\n越えさせてくれる。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "ST-2（サティ）",
-      "Text": "みんな、もしよければ、なのだが……。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "ST-2（サティ）",
-      "Text": "これからも私とST-2を、いろいろな場所に\n連れて行ってもらえないだろうか？",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "ST-2（サティ）",
-      "Text": "そうしてくれると……助かる。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "ナリタタイシン",
-      "Text": "……うん。\n別にさ……言うまでもないから。",
+      "Name": "成田大进",
+      "Text": "……这样吗。说的是啊。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "放課後の交友は、ST-2の体にとって、\nそしてライツ博士の心にとって、\nいい潤滑油となったのだった。",
+      "Text": "在轮椅上外出时，确实会有许多限制和顾虑。\n不过ST-2能让我突破这些障碍。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ST-2（萨蒂）",
+      "Text": "大家，如果可以的话……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ST-2（萨蒂）",
+      "Text": "以后能不能带我和ST-2去不同的地方？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ST-2（萨蒂）",
+      "Text": "那样的话……真的会帮到我。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "成田大进",
+      "Text": "……嗯。\n这种事……根本不需要特意说啦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "放学后的交友，\n不仅润滑了ST-2的机体，\n更温暖了莱兹博士的心。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }

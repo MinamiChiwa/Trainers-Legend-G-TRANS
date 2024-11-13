@@ -1,5 +1,5 @@
 {
-  "Title": "3.3 新論・イメージ力学",
+  "Title": "3.3 新论・意象动力学",
   "TextBlockList": [
     {
       "Name": "",
@@ -9,448 +9,448 @@
     },
     {
       "Name": "",
-      "Text": "ある日の、研究会にて――",
+      "Text": "有一天，在研究会上——",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2＆タイシン",
-      "Text": "はああああーーーっっっ！！",
+      "Name": "ST-2&大进",
+      "Text": "哈啊啊啊——！",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ST-2（サティ）",
-      "Text": "むぅ、おかしい……。なぜだ……。\nまたリンクが切れた気がする……。",
+      "Name": "ST-2（萨蒂）",
+      "Text": "唔，奇怪……为什么啊……\n感觉又失去连接了……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "ナリタタイシン",
-      "Text": "だね。うまく走れてるときは速いのに。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "本能のままに、無意識で走れるようになった\nST-2。爆発力は上がったが……\nどうしても接続が途切れる時がある。",
+      "Name": "成田大进",
+      "Text": "是啊。跑得好的时候明明速度很快。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "集中状態に入った時、\n一体化を維持し続けられない。\n原因は……。",
-      "ChoiceDataList": [
-        "シャカール、もう1度洗い直してもらえる？"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "エアシャカール",
-      "Text": "データをか？\u3000待ってろ。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "エアシャカール",
-      "Text": "やはり博士の意識とST-2のボディーに\nズレが生まれる瞬間があるな。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "エアシャカール",
-      "Text": "そして再接続までの間、タイムラグが\n生まれる。それが足を引っ張ってやがる。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "シュガーライツ",
-      "Text": "そうか。原因は……私がまだ未熟だからか？",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "シュガーライツ",
-      "Text": "正直、現役の頃に近い状態まで来た気はする。\nだが……。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "シュガーライツ",
-      "Text": "まだ感覚が戻り切っていないのかも\nしれないな。だからST-2の能力を\n持て余してしまっている……。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "エアシャカール",
-      "Text": "かもな。だがもっとよく調べてみないと、\nわからねェ。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "エアシャカール",
-      "Text": "とはいえ、解読に博士を巻き込むと、\n走る体力まで削っちまうし……。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "エアシャカール",
-      "Text": "他に使えそうなヤツっていえば……\nコイツか。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "エアシャカール",
-      "Text": "トレーナー、手を貸せ。\nオレのデータとお前の専門知識を合わせりゃ、\nなにか割り出せるかもしれねェ。",
-      "ChoiceDataList": [
-        "……わかった！"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "エアシャカール",
-      "Text": "キーワードは“無意識”だ。\n博士はもう無意識でST-2を\n操れるようになってる。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "エアシャカール",
-      "Text": "だがなぜか、その無意識の接続が切れる\n瞬間がある。エラーが起き、切断される。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "エアシャカール",
-      "Text": "なぜ乖離は起きるのか。\nそれさえわかれば――問題は解決する。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "エアシャカール",
-      "Text": "考えられるだけの仮説をよこせ。\nデータを洗うにも、とにかく仮説がいる。",
-      "ChoiceDataList": [
-        "……わかった！"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "何が起きているのか。それを考えるだけなら、\nコンピュータの知識がなくてもできそうだ。",
-      "ChoiceDataList": [
-        "ライツ博士の気が緩む、とか？"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "エアシャカール",
-      "Text": "まあ集中力は続かないからな。\nだが、その線はない。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "エアシャカール",
-      "Text": "走っている時間はそれほど長くないし、\nそれに博士の集中持続力はかなりのモンだ。",
-      "ChoiceDataList": [
-        "ST-2の能力が高すぎるから？"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "エアシャカール",
-      "Text": "その線が1番濃厚に見えるンだが、\nどうも違うようだ。現に――",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "エアシャカール",
-      "Text": "この間の併走以前に起きていた\n博士側の精神力不足は、\nデータにはまったく見られねェ。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "エアシャカール",
-      "Text": "全部足りてる。明らかに足りてる。\nそれなのに、うまくいかないとなりゃァ――",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "エアシャカール",
-      "Text": "原因は――なンだ？",
+      "Text": "ST-2已经能够凭直觉，在无意识\n状态下奔跑了。爆发力有所提升，\n但……偶尔还是会断开连接。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "――考える。細かいことにとらわれては\nいけない。細かいことは\nエアシャカールに任せておけばいい。",
+      "Text": "进入专注状态后，\n无法一直保持一体化。\n原因是……",
+      "ChoiceDataList": [
+        "神宫，能再检查一遍吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "数据？稍等。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "果然，博士的意识\n和ST-2的身体总会出现瞬间的错位。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "然后在重新连接的过程中会产生\n时间延迟，这就拖了后腿。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "砂糖光",
+      "Text": "是吗。\n原因是……我还不够成熟吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "砂糖光",
+      "Text": "说实话，\n感觉自己已经回到现役时的状态了。\n可是……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "砂糖光",
+      "Text": "可能还没完全找回曾经的感觉吧。\n所以无法完全发挥ST-2的能力……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "也许吧。\n不过得更仔细地调查一番才能确定。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "话虽如此，如果让博士参与解读的话，\n用来奔跑的体力会被消耗掉……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "能帮得上忙的人……\n大概只有这个家伙了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "训练员，借我一把手吧。\n用上我的数据，再加上你的专业知识，\n也许能找出点什么线索。",
+      "ChoiceDataList": [
+        "……明白了！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "关键词是“无意识”。\n博士现在已经可以无意识地操纵ST-2了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "但不知为何，\n这种无意识的连接会有中断的瞬间。\n会发生错误，断开连接。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "为何会产生这种中断？\n如果能搞清楚这一点——问题就解决了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "把能想到的假说都提出来。\n要分析数据，也得有假说作为支撑。",
+      "ChoiceDataList": [
+        "……明白了！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "如果只是考虑发生了什么，\n就算没有计算机知识也能想到一些。",
+      "ChoiceDataList": [
+        "比如，莱兹博士的注意力松懈了？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "虽然专注力确实难以持续太久，\n但这个可能性不大。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "跑步的时间并不长，\n而且博士的专注力非常强大。",
+      "ChoiceDataList": [
+        "ST-2的性能太过强大了？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "这个看起来最合理，但似乎不是如此。\n事实上——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "上次并跑前博士的精神力不足的状况，\n数据里根本没有显示。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "完全充足。\n明确显示一切都足够。\n但如果还是不行的话——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "原因是——什么？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "全部足りてる。\nなのに、うまくいってないとするならば――",
-      "ChoiceDataList": [
-        "逆に……オーバーしてるとか？"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "エアシャカール",
-      "Text": "――なに？\u3000オーバー？",
-      "ChoiceDataList": [
-        "ああ、不足じゃないなら……過剰？",
-        "うん、不足じゃないなら……過剰？"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "エアシャカール",
-      "Text": "バカ言うな。そンなこと……。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "エアシャカール",
-      "Text": "いや、しかし……。\nまさか……。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "エアシャカール",
-      "Text": "――よし、わかった。\nじゃあ……。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "エアシャカール",
-      "Text": "――出てけ。",
-      "ChoiceDataList": [
-        "え、俺が？",
-        "え、私が？"
-      ],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "エアシャカール",
-      "Text": "ああ、出てけ。洗い出しの邪魔だ。\n今からココはオレの部屋だ。",
+      "Text": "——思考。\n不要拘泥于细节。\n细节交给空中神宫就行了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "仕方なくトレーナー室を譲り渡すことにした。\n事は緊急を要する。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "エアシャカール",
-      "Text": "走っている間、博士はずっと集中している。\nそして無意識で自分の脚を動かしている。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "エアシャカール",
-      "Text": "だが、博士がイメージしている、\nその脚は――",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "エアシャカール",
-      "Text": "“普通に歩けていた頃の、自分の脚”だ。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "エアシャカール",
-      "Text": "ファントムペインと同じ理屈。\n博士は今も、その頃の脚を感じ続けている。\nだが――",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "エアシャカール",
-      "Text": "昔の脚と今の脚が、\n違っていたとしたら――？",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "エアシャカール",
-      "Text": "今の博士のイメージが、\nすでに昔の脚を超えていたとしたら――",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "エアシャカール",
-      "Text": "……見つけた。これだ。\nこのズレだ。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "エアシャカール",
-      "Text": "これを全部リストアップして、\n細かい数値まで割り出す。そうすれば――",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "",
-      "Text": "そして翌日――",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "エアシャカール",
-      "Text": "全員集まったな。\nおし。そンじゃァ……。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "エアシャカール",
-      "Text": "微調整して、ST-2の違和感を解消する。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "シンボリクリスエス",
-      "Text": "フム……できるのか？",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "エアシャカール",
-      "Text": "ああ、糸口を見つけたのはトレーナーだ、\n一応な。",
+      "Text": "一切都充足。\n可依然无法顺利运行的话——",
       "ChoiceDataList": [
-        "（見つけた後……追い出されたけどな）",
-        "（見つけた後……追い出されたけどね）"
+        "是不是……溢出了？"
       ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "エアシャカール",
-      "Text": "解は――ココにある。",
+      "Name": "空中神宫",
+      "Text": "——什么？溢出？",
+      "ChoiceDataList": [
+        "对啊，不是不足的话……那就是过剩？",
+        "是啊，不是不足的话……那就是过剩？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "别开玩笑了。那种事……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "エアシャカール、どうすればいいのだ？",
+      "Name": "空中神宫",
+      "Text": "不过，但是……\n难道……？",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "シュガーライツ",
-      "Text": "やはりダウングレードか？\n私がST-2に追いついていないところを、\n低く調整すれば……。",
+      "Name": "空中神宫",
+      "Text": "——好了，我明白了。\n那么……",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
-      "Name": "エアシャカール",
-      "Text": "いや、解決方法は、\nST-2の調整レベルを……。",
-      "ChoiceDataList": [],
+      "Name": "空中神宫",
+      "Text": "——给我出去。",
+      "ChoiceDataList": [
+        "啊，我？",
+        "啊，我？"
+      ],
       "ColorTextInfoList": []
     },
     {
-      "Name": "エアシャカール",
-      "Text": "逆に上げろ。\n博士、アンタは自分を過小評価している。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "シュガーライツ",
-      "Text": "何、上げるだと！？",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "エアシャカール",
-      "Text": "ああ。アンタは自分の理想を、\n自分が健常だった頃に置いている。\nそして……。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "エアシャカール",
-      "Text": "ST-2もその設定になっている。\nそれがトラブルを招いた。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "エアシャカール",
-      "Text": "アンタはもう現役時を超えているンだ。\n少なくとも、精神はな。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "エアシャカール",
-      "Text": "ST-2はもう行ける。\nかつてのお前が行けなかった領域へ。\nだから……。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "エアシャカール",
-      "Text": "リミッターを外せ。遊びを残してあるだろ。\nそれをオレの言う分だけ解放しろ。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "シュガーライツ",
-      "Text": "リミッターを解放……。\n――よし、わかった。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "ST-2＆ハヤヒデ",
-      "Text": "はぁあああああああ！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "ビワハヤヒデ",
-      "Text": "なんと……！\u3000これは……！\n私と併走して、最後までついてくるとは……。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "ST-2（サティ）",
-      "Text": "リンクが切れる……どころではなかった。\n逆に、意識とボディーの境が消えた……。\n完全に……。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "ST-2（サティ）",
-      "Text": "私はずっと……ST-2だった。\nそしてST-2は私……。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "ST-2（サティ）",
-      "Text": "エアシャカール……！",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "エアシャカール",
-      "Text": "当然だ。数値も言った通りだっただろ。\nもし伸びたら、合わせて微調整すればいい。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "エアシャカール",
-      "Text": "いいか？\u3000これからは自分を\n過大評価も過小評価もするな。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "エアシャカール",
-      "Text": "いつだって数字は――ジャストが最適だ。",
-      "ChoiceDataList": [],
-      "ColorTextInfoList": []
-    },
-    {
-      "Name": "ST-2（サティ）",
-      "Text": "ああ、ありがとう、エアシャカール！",
+      "Name": "空中神宫",
+      "Text": "没错，出去。别妨碍我分析。\n现在开始这里就是我的房间了。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     },
     {
       "Name": "",
-      "Text": "トラブルの原因はまさかのライツ博士の成長。\nエアシャカールは、それを見事見抜き、\n解決したのだった。",
+      "Text": "无奈地让出训练室。\n毕竟事态紧急。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "在跑步时，博士全神贯注，\n无意识地操控双腿。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "但博士脑海中所想象的那双腿——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "“可以正常行动时，自己的双腿”",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "就像幻肢疼痛的原理一样，\n博士感觉到的仍然是那时的腿。但——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "如果当时的腿\n与现在的腿不一样了呢——？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "假如博士现在的想象，\n早已超越了过去的那双腿——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "……找到了。就是这个。\n这个错位。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "把这些全部列出来，\n精确地算出每一个数值。\n这样一来——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "然后，第二天——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "大家都到齐了。\n好，那就开始吧……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "微调ST-2，消除不协调感。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "吉兆",
+      "Text": "嗯……能行吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "啊啊，线索是训练员找到的，\n姑且算是吧。",
+      "ChoiceDataList": [
+        "（找到之后……我被赶了出去）",
+        "（找到之后……我被赶了出去）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "答案——就在这里。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "砂糖光",
+      "Text": "空中神宫，要怎么做？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "砂糖光",
+      "Text": "是不是还是要降级？\n调低我跟不上ST-2的地方……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "不，\n解决方法是提升ST-2的调度水平……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "反而要提高。\n博士，您在低估自己。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "砂糖光",
+      "Text": "什么，提高！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "是的。\n您把自己的理想停留在健康时的水平上。\n而且……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "ST-2的设置也在那水平上。\n这才引发了问题。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "您早已超越了现役的自己。\n至少在精神层面上如此。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "ST-2已经能够超越过去的自己\n所到达不了的领域。所以……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "解除限制。\n还有一点冗余吧？\n把它解放到我指定的程度。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "砂糖光",
+      "Text": "解除限制……\n好，我明白了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ST-2&晨光",
+      "Text": "哈啊啊啊啊啊啊啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "琵琶晨光",
+      "Text": "简直……不可思议！\n居然……能与我并跑到最后……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ST-2（萨蒂）",
+      "Text": "不仅没有断开连接……\n意识与身体的界限还消失了……\n彻底地……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ST-2（萨蒂）",
+      "Text": "我一直以来……都是ST-2。\n而ST-2就是我……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ST-2（萨蒂）",
+      "Text": "空中神宫……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "这当然了。数值也正如我所说的那样。\n如果再有提升，就适度微调即可。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "可以吗？以后请别妄自菲薄。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "空中神宫",
+      "Text": "无论何时，数据——刚刚好才是最佳。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ST-2（萨蒂）",
+      "Text": "嗯，谢谢你，空中神宫！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "麻烦的根源竟是博士的成长。\n空中神宫成功地发现并解决了这个问题。",
       "ChoiceDataList": [],
       "ColorTextInfoList": []
     }
