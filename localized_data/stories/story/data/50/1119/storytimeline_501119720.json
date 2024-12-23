@@ -1,0 +1,811 @@
+{
+  "Title": "あんし～ん笹針師、参☆上",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ある日、<chrname>の体の調子を\n見てもらうため、保健室へやって来ると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "あっ、はいはーい！\u3000お客さ……じゃない、\n生徒さんね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "ケガ？\u3000病気？\u3000それともメンタルケア？\nま、ぜーんぶドドンと任せちゃってよ！",
+      "ChoiceDataList": [
+        "……誰ですか！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "え？\u3000そりゃー保健室にいるんだから……\nちょっぴりファンタスティックな保健の先生？\n的な？",
+      "ChoiceDataList": [
+        "違いますよね……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "あっはっは、さすがに騙されないか。\nやっぱ普通に名乗る感じでいくわね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "ぉほん！\u3000何を隠そう、このあたしこそ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "数多のウマ娘を（たぶん）導く救世主！\n奇跡の腕を持つ（自称）伝説的笹針師！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "その名も、『安心沢\u3000刺々美』よっ！！\nワォ、あんし～ん☆",
+      "ChoiceDataList": [
+        "…………"
+      ],
+      "ColorTextInfoList": [
+        "安心沢\u3000刺々美"
+      ]
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "学園の警備はどうなっているのでしょうか。\n見るからに怪しげな来訪者を放っておくなど。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "ワォ、あんし～んしてなさそ～う☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "まあまあまあまあ、とりあえずね。\n自己紹介も済んだし、ブスッといっとく？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "遠慮しておきましょう。\nよろしければ出口までご案内しますが？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "あっはっは！\u3000怖がらなくていいのよ？\n秘伝の笹針でちょっと秘孔的なのを突くだけ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "そしたらもー、メキメキと……モリモリと……\nとにかくすんんんごいことになるんだから！",
+      "ChoiceDataList": [
+        "（ものすごく怪しい……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "あ！\u3000言っとくけど怪しくないわよ！\n失敗したことなんか1度もないんだから！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "……師匠は。",
+      "ChoiceDataList": [
+        "師匠『は』！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "まーまーあたしだってこれが初仕事なんだし\n広義じゃ失敗したことないわよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "伝説の師匠のもとで10年もの間お茶くみ……\nじゃない、修行した経験もあるんだから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "ワォ、あんし～ん☆",
+      "ChoiceDataList": [
+        "（迸るほどに怪しい……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "さすがにこんな話に乗るわけにはいかない。\n<chrname>を連れ、\n出て行こうとしたのだが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "ま、待って待って待って、待ってってば！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "あなたドリームジャーニーちゃんでしょ！？\n学業優秀品行方正、そして憧れのウマ娘の\n後を追って旅の果てを目指すウマ娘！",
+      "ChoiceDataList": [
+        "……知ってるんですか"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "そりゃ知ってるわよ！\u3000見たもの！！\nファンだものっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "あたし、あなたたちを応援しに来たの！\n手助けしに来たのよ、これでもっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "だからお願いぃ～～～！！\nあたしにチャンスをちょうだいよぉ～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "思ったよりも、こちらをよくご存じだ。\n少しだけなら話を\n聞いてもよいかもしれませんね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "お願いお願いお願いっ！\n秘孔の場所も選ばせてあげるから！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "ぜ～ったい失敗しないからぁ～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "……多分。",
+      "ChoiceDataList": [
+        "多分！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "あーいや多分に程近い絶対？\u3000みたいな？\n……まあ細かいことはいいのよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "それよりどんな秘孔を狙っちゃう！？\n能力アップに健康度アップ……\n魅力アップな～んてのもあるわよ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……恐ろしく危険な香りもするのだが、\nひょっとするとすごい効果が出る可能性も\nなくはない……かもしれない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "どうしようか……？",
+      "ChoiceDataList": [
+        "強いウマ娘になれる秘孔を狙う",
+        "レースで勝てる秘孔を狙う",
+        "元気で健康になれる秘孔を狙う",
+        "魅力アップの秘孔を狙う",
+        "不安なのでやめておく"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "ほむほむ、\n『強いウマ娘になれる秘孔』ね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "じゃあブスッといくわよ？\u3000いいのね？\n……本ッッッッッッッ当に、いいのね？",
+      "ChoiceDataList": [
+        "はい",
+        "いいえ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "おっけーおっけー任しといて！\n出でよ笹針！\u3000見つかれ秘孔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "さあ力を抜いて～……ワォ、あんし～ん☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "ブスッとな！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ブスッと大成功！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "体の中をめぐる……不思議な高揚感。\n力が溢れてきます……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "なるほど、経験してみなければ\nわからないこともあるものですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "……えっ、成功？\u3000マジ！？\u3000え！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "うっそ～～～！！\nあたし、どうやったんだろ～！？！？\n天才～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "<chrname>は見違えるほど\n力をみなぎらせていた！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "どうやら可能性を掴み取ったようだ。\n夢に向けて大きく前進したのを感じた……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……ふ……ふふ……\nそうそう……旨い話などありませんね……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……安心沢さんでしたね。\nお顔、覚えさせていただきました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "<chrname>は、目に見えて\n調子を崩していた……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "あ～……まあ、その……ね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "……ワォ、さようなら～☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "怪しい誘いになど乗るべきでなかった……と、\n大いに後悔したのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "ほむほむ、\n『レースで勝てる秘孔を狙う』ね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "じゃあブスッといくわよ？\u3000いいのね？\n……本ッッッッッッッ当に、いいのね？",
+      "ChoiceDataList": [
+        "はい",
+        "いいえ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "おっけーおっけー任しといて！\n出でよ笹針！\u3000見つかれ秘孔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "さあ力を抜いて～……ワォ、あんし～ん☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "ブスッとな！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ブスッと大成功！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "体の中をめぐる……不思議な高揚感。\n力が溢れてきます……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "なるほど、経験してみなければ\nわからないこともあるものですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "……えっ、成功？\u3000マジ！？\u3000え！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "うっそ～～～！！\nあたし、どうやったんだろ～！？！？\n天才～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "<chrname>の技量が\n大きくアップしているのを感じた！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "どうやら可能性を掴み取ったようだ。\n夢に向けて大きく前進したのを感じた……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……ふ……ふふ……\nそうそう……旨い話などありませんね……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……安心沢さんでしたね。\nお顔、覚えさせていただきました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "<chrname>は、目に見えて\n調子を崩していた……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "あ～……まあ、その……ね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "……ワォ、さようなら～☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "怪しい誘いになど乗るべきでなかった、と\n大いに後悔したのだった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "ほむほむ、\n『元気で健康になれる秘孔を狙う』ね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "じゃあブスッといくわよ？\u3000いいのね？\n……本ッッッッッッッ当に、いいのね？",
+      "ChoiceDataList": [
+        "はい",
+        "いいえ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "おっけーおっけー任しといて！\n出でよ笹針！\u3000見つかれ秘孔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "さあ力を抜いて～……ワォ、あんし～ん☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "ブスッとな！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ブスッと大成功！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "体の中をめぐる……不思議な高揚感。\n力が溢れてきます……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "なるほど、経験してみなければ\nわからないこともあるものですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "……えっ、成功？\u3000マジ！？\u3000え！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "うっそ～～～！！\nあたし、どうやったんだろ～！？！？\n天才～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "<chrname>の全身が、今にも\n光り輝きそうなほどツヤツヤしていた！\n健康的なエネルギーが迸っている……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "どうやら可能性を掴み取ったようだ。\n夢に向けて大きく前進したのを感じた……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……ふ……ふふ……\nそうそう……旨い話などありませんね……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……安心沢さんでしたね。\nお顔、覚えさせていただきました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "<chrname>は、目に見えて\n調子を崩していた……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "あ～……まあ、その……ね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "……ワォ、さようなら～☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "怪しい誘いになど乗るべきでなかった、と\n大いに後悔したのだった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "ほむほむ、\n『魅力アップの秘孔を狙う』ね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "じゃあブスッといくわよ？\u3000いいのね？\n……本ッッッッッッッ当に、いいのね？",
+      "ChoiceDataList": [
+        "はい",
+        "いいえ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "おっけーおっけー任しといて！\n出でよ笹針！\u3000見つかれ秘孔！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "さあ力を抜いて～……ワォ、あんし～ん☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "ブスッとな！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ブスッと大成功！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "体の中をめぐる……不思議な高揚感。\n力が溢れてきます……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "なるほど、経験してみなければ\nわからないこともあるものですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "……えっ、成功？\u3000マジ！？\u3000え！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "うっそ～～～！！\nあたし、どうやったんだろ～！？！？\n天才～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "<chrname>は、道行く誰もが\n振り返りたくなる魅力を溢れさせていた！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "どうやら可能性を掴み取ったようだ。\n夢に向けて大きく前進したのを感じた……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……ふ……ふふ……\nそうそう……旨い話などありませんね……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……安心沢さんでしたね。\nお顔、覚えさせていただきました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "<chrname>は、目に見えて\n調子を崩していた……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "あ～……まあ、その……ね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "……ワォ、さようなら～☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "怪しい誘いになど乗るべきでなかった、と\n大いに後悔したのだった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "ええ！？\u3000そ、そう言わずに～……。",
+      "ChoiceDataList": [
+        "やめておく",
+        "考え直す"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "――こらっ、あなた！\n学園に不法侵入しましたねっ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "ぎゃはー！？\u3000やば、見つかった！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "……ワォ、退散～☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "あ！？\u3000ま、待ちなさぁーいっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "手を回すまでもありませんでしたか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "皆に害が及ぶ前に\n平穏が取り戻されて何よりです。",
+      "ChoiceDataList": [
+        "だな",
+        "だね"
+      ],
+      "ColorTextInfoList": [
+        "安心沢"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "安心沢とは何者だったのか……\n考えても仕方がなさそうなので、\n今日の一件は忘れることにした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "ありゃま、間違えちゃった？\nまーあるある、あるわよねーそういうの！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "じゃ、もう1回教えてちょーだいな。\nどの秘孔狙っちゃう！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "焦らすわね～！？\nいやでも待って、こんな時間かけてると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "――こらっ、あなた！\n学園に不法侵入しましたねっ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "ぎゃはー！？\u3000やば、見つかった！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "安心沢刺々美",
+      "Text": "……ワォ、退散～☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "駿川たづな",
+      "Text": "あ！？\u3000ま、待ちなさぁーいっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……いつまでも悩んでいたら、\nなんだかうやむやになってしまった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "いったいなんだったのか……\n<chrname>と顔を見合わせ、\n首をひねるのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

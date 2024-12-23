@@ -1,0 +1,56 @@
+{
+  "Title": "オールカマーにむけて",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――『オールカマー』当日。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ジャーニーのファンA",
+      "Text": "ドリームジャーニー、楽しみだな～！\nこの夏でいちだんと\n仕上げてきたみたいだし。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ジャーニーのファンB",
+      "Text": "何かとブエナビスタが注目されてるけど、\nやっぱ今の本命はドリームジャーニーでしょ。\nバシッと勝って、はずみつけてほしいな～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "――さて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "刻み込むとしましょうか。\n今の私の走りを。",
+      "ChoiceDataList": [
+        "わからせてやろう、君の実力",
+        "わからせちゃおう、貴方の実力"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ふふッ。\n穏やかではない言い方ですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "誰に影響を受けたのやら――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

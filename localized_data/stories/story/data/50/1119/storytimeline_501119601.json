@@ -1,0 +1,44 @@
+{
+  "Title": "今度こそ！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "トレーナーさんも紅茶はいかがです？\n茶葉はダージリンのファーストフラッシュ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "テアニンを多く含み、集中力を高めると\nされています。勝負の前の1杯に最適ですよ。",
+      "ChoiceDataList": [
+        "余裕があるな",
+        "余裕があるね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ええ、万全ですので。\nフィジカルも、メンタルも、\n前回の敗因分析も、作戦も。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "今すべきことは……紅茶を飲む。\nこれくらいしか思いつきませんね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……私の勝利は確定していますから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

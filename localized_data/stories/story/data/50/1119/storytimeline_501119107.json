@@ -1,0 +1,571 @@
+{
+  "Title": "バレンタイン",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "バレンタインが近づいてきた、2月のある日。\n浮かれる生徒たちの陰で――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "何かが、行われようとしていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘A",
+      "Text": "……その情報、確かなの？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘B",
+      "Text": "ああ、間違いない。\n――明日、“アレ”が出回るそうだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘B",
+      "Text": "19時、場所は学園の……例のところ。\n合言葉は……“ゼロ・ゼロ・ゼロ”。\n……かなりアブない取引になりそうだな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘A",
+      "Text": "そうね、抜け駆けされないようにしないと。\nじゃあ、また明日――バレンタイン当日に。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バンブーメモリー",
+      "Text": "……風紀の乱れを感じるっス！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリルドルフ",
+      "Text": "――明日の夜19時に、\n学園内のどこかで、大きな取引が行われる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリルドルフ",
+      "Text": "というふうに、\n風紀委員会から報告を受けてね。",
+      "ChoiceDataList": [
+        "（シンボリルドルフ……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ある日の午後、突然遠征支援委員会に\n現れたのは……トレセン学園生徒会長にして、\nかつての三冠ウマ娘、シンボリルドルフだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "トレセン学園",
+        "シンボリルドルフ"
+      ]
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "なんと……会長さんとしては、\n気がかりなお話でしょうね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ですが……なぜ、そのお話を私に？\n世間話にしては、少々……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリルドルフ",
+      "Text": "然り、世間話ではないんだ。\n――単刀直入に、尋ねよう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリルドルフ",
+      "Text": "合言葉とされた、\n“ゼロ・ゼロ・ゼロ”……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリルドルフ",
+      "Text": "過日の金細工の展示会で、\nそのような題の作品を見た覚えがある。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリルドルフ",
+      "Text": "君のお父上は、職人だったね。\n何か……心当たりは？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "そうですね……ご協力できず、\n大変心苦しいのですが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "私はこの通り、己の職務を\n遂行しているだけの……ウマ娘ですので。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリルドルフ",
+      "Text": "……確かに君は、善良ないち生徒だ。\nいや、すまない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリルドルフ",
+      "Text": "君がその才気を香気芬々とさせているから、\nつい頭に浮かんでしまった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "おや、大変光栄なことです。\n貴方ほどの方に、香りを残していたとは。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリルドルフ",
+      "Text": "無論、学園のために働いてくれる、\n好謀善断な生徒のことは……\n話も聞くし、常に頭にも入れている。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "シンボリルドルフ",
+      "Text": "生徒会長として、\nいつでも君の活動を見守っているよ。\nくれぐれも……よろしく頼む。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ええ。会長さんのご期待に沿えるよう……\n今後とも、努力して参ります。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "驚きましたね。\nまさか、会長さんがいらっしゃるとは。",
+      "ChoiceDataList": [
+        "……なんだったんだろう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "激励に来てくださっただけ、\nかもしれませんね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "いつでも見守ってくれている、とは。\n幸甚なことです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "あの方ならば……階段の暗い隅に隠れた、\n塵芥さえ見逃さないのでしょうね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……さて、仕事に戻りましょう。\nお手伝い、続けてくださいますか？",
+      "ChoiceDataList": [
+        "……もちろん"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……シンボリルドルフがなんの確信もなしに\n訪れるとは思えず、ドリームジャーニーが\n何も関わっていないとも言い切れないが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……考えていらっしゃいますか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "私が、大きな取引とやらに……\n関わっているのではないか、と。",
+      "ChoiceDataList": [
+        "…………"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "よろしいのですか？\nこのままで。",
+      "ChoiceDataList": [
+        "まあ、問題なさそうだから"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……と、仰いますと。",
+      "ChoiceDataList": [
+        "本当に秘密の時は、塵さえ出さないだろう",
+        "本当に秘密の時は、塵さえ出さないでしょう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "それを見越して、シンボリルドルフも\n特に追及せずに立ち去ったのではないか……\nと、精明強幹な生徒会長を思い出した。",
+      "ChoiceDataList": [
+        "にしても、“ゼロ・ゼロ・ゼロ”って……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……ああ、そういえば。\n今、思い出しました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "1つだけ……心当たりが。",
+      "ChoiceDataList": [
+        "え……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "明日、指定する場所へいらしてください。\n――12時に。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "翌日……つまり、バレンタイン当日。\n言われたとおり、\n12時に指定されたカフェへ行くと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "こちらをどうぞ。",
+      "ChoiceDataList": [
+        "これって……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "チョコレートですよ。\nどうぞ、ご覧になってみてください。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "促され、蓋を開けると……\n思わず声が出た。",
+      "ChoiceDataList": [
+        "す……っっごい……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "中に入っていたのは、とても美しい、\nアーティスティックなチョコレートだった。\n表面を金色の細工でデコレーションしてある。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "とても繊細かつ複雑なデザインは、\n息を呑むほど華麗だ。\nとても食べられるものとは思えない……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……ふふ。\n感激していただけたようで……嬉しいです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "こちら……あるチョコレート職人と、\n私の父がコラボした作品なんですよ。",
+      "ChoiceDataList": [
+        "へえ……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "父の作品を、\nチョコレートで再現しています。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "去年から始めたシリーズですが……\nこれがなかなか、\nご好評いただいているようでして。",
+      "ChoiceDataList": [
+        "そりゃそうだろうな……！",
+        "そりゃそうだろうね……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ですが、いかんせん職人仕事ですので……\n希少品のため、去年は即完売してしまい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "後で価値を釣り上げる方まで現れて……\nまあ、その件は幸い解決はしたのですが。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "今年は実験的に、\n販売方法を変えることにしたのです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "事前抽選方式にして、当たった方にのみ、\nこちらのカフェで\nお渡しすることになりました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "しかし、その話がどこかから漏れたようで……\n巡り巡って、謎の合言葉となったのでしょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "作品名は、“オー・ド・オー”。\n筆記体で表記していたので、\nゼロに見えたのかもしれません。",
+      "ChoiceDataList": [
+        "なるほど、それで……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "販売自体は昨日全て、無事に終えました。\n特に乱入される方もおらず……スムーズに。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ですので、これが最後の1つです。\n貴方に差し上げます。",
+      "ChoiceDataList": [
+        "いいのか！？",
+        "いいの！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "勿論です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "普段からお世話になっている方に\n渡したと話せば、父も喜ぶでしょう。",
+      "ChoiceDataList": [
+        "ありがとう……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "いえいえ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "では、ごゆっくりお召し上がりください。\n私はこれで失礼いたします。",
+      "ChoiceDataList": [
+        "何か用事？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ええ。\nオルにも同じものを届けなければ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "あの子、甘いものも好きなんです。\n愛らしいでしょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "それでは。\n――よいバレンタインを。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "普段からお世話になっている方に\n渡したと話せば、父も喜ぶでしょう。",
+      "ChoiceDataList": [
+        "……本当に、いいのか？",
+        "……本当に、いいの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "このチョコレートは、彼女の父の作品……\n彼女にとっては、とても大切なもののはずだ。\n自分が簡単にもらっていいものなのだろうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "トレーナーさん。\n是非、受け取ってください。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "バレンタインには、\n私なりに思い入れがありまして。\n昔から、母が張り切る日でしたから……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "この日に、大切な贈り物をお渡しするのは……\n私なりの、敬意だと思ってください。",
+      "ChoiceDataList": [
+        "（だからこそ、躊躇っちゃうんだけど……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……どうなさいますか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ある意味、これを受け取るのは……\n自分に発破をかけることと同等だ。\n自分がそれに相応しい人間であるために――",
+      "ChoiceDataList": [
+        "……ありがとう！受け取る！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "はい。\nこちらこそ。",
+      "ChoiceDataList": [
+        "じゃあ、一緒に食べよう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "お気遣い、ありがとうございます。\nですが、お気になさらずで構いませんよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "差し上げたものですし……\n甘いものはそこまで、ですから。",
+      "ChoiceDataList": [
+        "でも、君のためのチョコだろう？",
+        "でも、貴方のためのチョコでしょう？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "チョコレートで再現されたその細工には、\n職人の家族への愛が込められている……\nような、気がする。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ですが、かなり甘く仕上がっています。\nそれが好きな方向け、ですので。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "私には、少々……\nもったいないかと。",
+      "ChoiceDataList": [
+        "エスプレッソで合わせてみれば？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "本場イタリアでは、エスプレッソに\nチョコレートがついてくることがあると、\n聞いたことがある。",
+      "ChoiceDataList": [
+        "そこに合う甘さになってたり……するかも"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……なるほど。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "では、\n確認してみましょうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "――……。",
+      "ChoiceDataList": [
+        "どう？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "美味しいです、とても。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "微笑むドリームジャーニーは……\nどこか、嬉しそうに見えた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

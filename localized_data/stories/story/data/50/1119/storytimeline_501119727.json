@@ -1,0 +1,58 @@
+{
+  "Title": "クレーンゲーム大成功！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "こんなにたくさん獲れるなんて、\n素晴らしい腕前ですね。\n後輩もすごく喜ぶと思います。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "あ、後輩がもう持っている子もありますね。\nそれは他の委員にあげてもよいでしょうか？",
+      "ChoiceDataList": [
+        "いいよ。たくさんあるし、君も1つどう？",
+        "いいよ。たくさんあるし、貴方も1つどう？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "私が、ぬいぐるみを？\n……似合わないでしょう。",
+      "ChoiceDataList": [
+        "そんなことない、似合うよ！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……似合う、ですか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ふふ……本当に、純粋な方ですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "せっかく貴方が獲ってくださったのです。\n私もありがたくいただくとしましょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――大満足の結果だった！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

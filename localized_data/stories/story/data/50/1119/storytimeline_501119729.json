@@ -1,0 +1,45 @@
+{
+  "Title": "クレーンゲーム失敗……",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……やはり、甘くはありませんね。",
+      "ChoiceDataList": [
+        "ごめん……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "謝らないでください。私こそ、\n無理を言ってしまい申し訳なかったです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "つい、頼りすぎてしまいますね。\nトレーナーさんには。",
+      "ChoiceDataList": [
+        "次は獲れるように頑張るよ……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……ええ、次があれば、また。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "残念な結果に終わった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

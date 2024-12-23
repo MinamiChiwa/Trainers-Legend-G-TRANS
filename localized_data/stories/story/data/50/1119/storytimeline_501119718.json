@@ -1,0 +1,50 @@
+{
+  "Title": "リフレッシュ完了",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "トレーナーさん、昨日はお休みをいただき\nありがとうございます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ゴルシさん、ナカヤマさん、\nオルと皆で集まって……\n楽しく過ごしました。",
+      "ChoiceDataList": [
+        "何して遊んだんだ？",
+        "何して遊んだの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "4人で興じられる遊戯とだけ……。\nあとはご想像にお任せします。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "それに何をしたかは\nさほど重要ではありません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "私にとって、皆と過ごせる\nあのひと時こそがかけ替えないものなので。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ドリームジャーニーは、\nしっかりと休養を取ってくれたようだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

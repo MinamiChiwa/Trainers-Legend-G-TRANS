@@ -1,0 +1,616 @@
+{
+  "Title": "福引チャンス！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ドリームジャーニーとトレーニングに使う\n備品の買い出しに、商店街に来ていると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "さあさ、新春・大福引祭り開催中だよ～！\n特賞はなんと『温泉旅行券』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "温泉旅行券"
+      ]
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "1等は『特上にんじんハンバーグ』\n2等は『にんじん山盛り』\n3等は『にんじん1本』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "さあさ、楽しい楽しい福引だよ！\nどなたでもどうぞ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "あの旅館……――",
+      "ChoiceDataList": [
+        "何か気になるのか？",
+        "何か気になるの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ええ。\n特賞の温泉旅行券なのですが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "家族を連れていくのによさそうだと、\n以前から気になっていた旅館でして。",
+      "ChoiceDataList": [
+        "へぇ……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そういえば、先ほどの買い物で福引券が\nちょうど1回分あるのを思い出す。",
+      "ChoiceDataList": [
+        "なら、この福引やってみる？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "おや――……いいのですか？\nそれはトレーナーさんの買い物で\n得たものですが。",
+      "ChoiceDataList": [
+        "俺たちの“旅”に必要な買い物だったから",
+        "私たちの“旅”に必要な買い物だったから"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "…………なるほど。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "では……お言葉に甘えて、\n挑戦させていただきますね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "せっかくなので、\n何かしら当たればいいのですが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ドリームジャーニーが\nゆっくりと抽選器のレバーを回す……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その結果は――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "なんとっ！\u3000おめでとうございまぁぁぁす！！\n特賞『温泉旅行券』、出ましたぁ～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "なんと――",
+      "ChoiceDataList": [
+        "やった！！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "いやはや……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "正直、本当に当たるとは\n思ってもいませんでした。",
+      "ChoiceDataList": [
+        "日頃の行いが出たね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "――――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ふっ……ははッ……！\n面白いことを言いますね、トレーナーさん――",
+      "ChoiceDataList": [
+        "（い、今の笑うところあったか……？）",
+        "（い、今の笑うところあった……？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "随分と寛容な神もいたものだ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "…………さて、こちらの券ですが。",
+      "ChoiceDataList": [
+        "家族とは、いつ行く？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "…………――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……少々考えたのですが、\nこちらはトレーナーさんのほうで\n預かっていただいてもよろしいでしょうか。",
+      "ChoiceDataList": [
+        "えっ？なんで――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "この旅も、大変魅力的ではあるのですが……\n今は我々の“旅”の途中ですから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "こちらが一区切りしてから行くのが\nよいかと思いましてね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……それと、私が持っていると、\nついつい家族のために\n使ってしまいそうになるので――",
+      "ChoiceDataList": [
+        "……そういうことなら、わかったよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ありがとうございます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ふふッ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "…………頑張ってくださいね。\nトレーナーさん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "おめでとうございます、1等賞～！\n賞品は『特上にんじんハンバーグ』です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "おや……！\nこれは素晴らしい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……まぁ、さすがに温泉旅行券は\n当たらないとは思っていましたが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "それでも十分すぎる成果ですね。\nこのハンバーグ、非常にいい品だ……。",
+      "ChoiceDataList": [
+        "オルフェーヴルと食べる？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ふむ……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "トレーナーさん。\nせっかくですので――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "――お待たせしました。\nさぁ、いただきましょうか。",
+      "ChoiceDataList": [
+        "おぉ～……！すごい……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――テーブルには、ドリームジャーニーが\nカフェテリアのキッチンを借りて作った\n食欲そそる香りの料理が並べられている。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "景品のハンバーグを主菜とし、ポテトサラダ、\nミネストローネ、オムレツ、魚のマリネ――\nどれもとても美味しそうだ……！",
+      "ChoiceDataList": [
+        "でも、本当に一緒に食べていいのか？",
+        "でも、本当に一緒に食べていいの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "これらの料理は、ドリームジャーニーが\n自分とハンバーグを一緒に食べることになり、\n彼女が『ついでに』と作ったものだった――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ええ。日頃お世話になっているお礼ですよ。",
+      "ChoiceDataList": [
+        "……たくさん作ってくれて、ありがとう！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ふふッ。いくらものがよくても、\nハンバーグだけでは味気ないですからね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "“旅”を共にする者として、\n今日は食事を共にするとしましょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そうして、ドリームジャーニーと共に\n景品のハンバーグに舌鼓を打ったのだが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "自分の中では、ドリームジャーニーが\n作ってくれた料理に宿る温かさのほうが、\nどこか印象深く感じられたのだった――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "2等賞～！！\n賞品は『にんじん山盛り』です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ふむ。当たったのは僥倖でしたが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "思った以上に\nたくさんいただいてしまいましたね。\n簡単には使い切れなさそうです。",
+      "ChoiceDataList": [
+        "誰かに分けてみる？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "いい考えですね。\nそうしましょうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……では、せっかくなら――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "――っしゃ、ここで最大火力だッ！！\n旨味を一気に閉じこめっぞ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "くくッ……！\nにんじんが焦げるギリギリを突くスリル……！\nたまんねぇな……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ほら、オル。\n焼けたからお食べ。いい塩梅だよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "うむ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "トレーナーさんには今、\nお肉を焼いていますので。\n少し待っていてくださいね。",
+      "ChoiceDataList": [
+        "ありがとう……！俺もジャーニーのを――",
+        "ありがとう……！私もジャーニーのを――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ああ、お気になさらず。\nどうぞ皆と楽しんでください。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "私がやりたくてやっていることなので。\n……ね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――こうして景品のにんじんは、\n団らんの時間に活用されたのだった……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "3等賞～！\n賞品は『にんじん1本』です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ふふッ――\nまぁ……こんなものでしょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "しかし、にんじん1本というのも\n逆に使いどころが難しいですね。",
+      "ChoiceDataList": [
+        "たしかに……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "…………久しぶりにやるか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "トレーナーさん、こちらのにんじん、\n私が預かってもかまいませんか？",
+      "ChoiceDataList": [
+        "それはもちろん、構わないよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ありがとうございます。\nでは、明日をお楽しみに。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "次の日、ミーティングの場にて――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "今日はこちらを食べながら\nミーティングを行いましょうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ドリームジャーニーがそう言って\nテーブルに並べたのは、\n小さなカップケーキだった。",
+      "ChoiceDataList": [
+        "（この匂い、もしかして――）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "――お察しのとおり、\n昨日のにんじんを使ったケーキです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "簡単なものですが、どうぞ召し上がれ。",
+      "ChoiceDataList": [
+        "ありがとう、すごく美味しそうだ……！",
+        "ありがとう、すごく美味しそう……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "…………昔はよく、\nオルに作ってあげていたのですが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "最近はあまり機会がなかったので、\n少し懐かしい気持ちになりましたよ。",
+      "ChoiceDataList": [
+        "……思い出の味なんだな",
+        "……思い出の味なんだね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "…………ええ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "幼いオルフェ",
+      "Text": "……！\n……美味しい――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "幼いジャーニー",
+      "Text": "ふふっ、よかった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "幼いジャーニー",
+      "Text": "……いっぱいお食べ。\nまた作ってあげるから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……大事な、記憶です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……ドリームジャーニーの作ってくれた\nにんじんケーキは、甘くて優しい口当たりの、\nどこかほっとする味で――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "彼女の妹に対する深い想いの一端を\n感じ取ることができたのだった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街の人",
+      "Text": "残念、はずれ！\n参加賞は『ティッシュ』だよ～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『<itemname>』を獲得した",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "やれやれ……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "せっかくトレーナーさんから\n機会をいただけたのに、この結果とは。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "運頼みというのは、\n本当にままならないものだ――",
+      "ChoiceDataList": [
+        "（なんか……思ったより気にしている？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "こちらはトレーナーさんがお使いください。\nせめてもの償いです。",
+      "ChoiceDataList": [
+        "あ、ありがとう……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "さぁ、早く帰りましょうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "外れてしまったことに対し、\n思っていた以上に残念そうな\nドリームジャーニーであった……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

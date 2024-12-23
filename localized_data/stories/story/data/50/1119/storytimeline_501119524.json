@@ -1,0 +1,302 @@
+{
+  "Title": "同じ釜のお茶漬け",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ある日のお昼時、\n遠征支援委員会を訪ねると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "――……ご馳走様でした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ご馳走様。\n……どうだったかな、オル。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "金目鯛の風味が、よく出ている。\n美味であった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "そうか！\u3000では、\nここの業者からは引き続き仕入れよう。",
+      "ChoiceDataList": [
+        "何を食べてるんだ？",
+        "何を食べてるの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "おや、トレーナーさん。\n貴方も召し上がりますか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "お茶漬け。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "どうやら2人はお茶漬けが大好きなようで、\n外に食べに行ったり、日々美味しい\n食べ方を研究していたりするらしい。",
+      "ChoiceDataList": [
+        "お茶漬け、そんなに好きなんだ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ええ。父が好んでいたこともあり、\n幼少期からよく食べておりまして。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "手軽に調理でき、かつ組み合わせは無限。\nどのお米、お茶、出汁にするか……\nこだわるほど、深みの増す世界です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "何より……あの優しい味わいは、\n唯一無二なんですよ。ねぇ、オル？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "ああ。米と汁を分け、\n交互に味わうのも、また好い。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "先に汁用意してよ～う！\nビッショビショにして食うのが1番だろ！",
+      "ChoiceDataList": [
+        "君も好きなんだね、お茶漬け",
+        "貴方も好きなんだね、お茶漬け"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "まーな！\nこいつらともよくかけあってんぜ、茶。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ええ。ゴルシさんの新鮮なアイディアには、\nいつも楽しませていただいています。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "って、ダベッてる場合じゃねー！\nジャーニー、やべぇぞマジで！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "『GOG』がオジャンだ！\nこの世の終わりだーっっ！",
+      "ChoiceDataList": [
+        "『GOG』……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ゴールドシップに連れていかれた先には、\n大量のお椀……その中には全て、\nお茶漬けらしきものが入っていた。",
+      "ChoiceDataList": [
+        "何だこれ、どういう状況！？",
+        "何これ、どういう状況！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "ロシアン……お茶漬けだ……。\nハッ……私としたことが……ザマァねぇ。",
+      "ChoiceDataList": [
+        "ロシアンお茶漬け……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "こいつ、茶漬けに興味ねぇって言うからよ。\n1000杯中、1杯だけ当たり入れたんだよ。\n――激辛激渋激わさび茶漬け！",
+      "ChoiceDataList": [
+        "まさか……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "このヒリつく賭け……乗らないわけが、ねぇ。\n勿論……一発目で、引き当ててみせたさ――",
+      "ChoiceDataList": [
+        "ああっ……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "米は汁を吸ってどんどんどんどん膨らんでく！\n食っても食っても間に合わねぇ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "こうしてる間にも……ああ！\n楽しい『ゴールド・お茶漬け・ギグ』が、\n悪魔の祭りに変わっちまった！",
+      "ChoiceDataList": [
+        "『GOG』ってそういう……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "お茶漬け祭りを楽しみたかったのに……\n残念でしたね。\nそれで、私に協力を仰ぎにきたと。",
+      "ChoiceDataList": [
+        "あれ、そういえばオルフェーヴルは？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "私が残るようにお願いしました。オルには、\n食後の余韻まで楽しんでほしかったのでね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "なあ、頼むよジャーニー！\n俺たちのゴッドママー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ドリームジャーニーはすでに\nお茶漬けを食べている。\n断るだろうと思ったのだが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "承知しました。\n協力しますよ。",
+      "ChoiceDataList": [
+        "え、食べられる……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "わかりません。ですが、同じ釜の飯……\nもとい、お茶漬けを食べた方が困っている。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "助けないわけには、\nいかないでしょう。",
+      "ChoiceDataList": [
+        "よし、全部かっこもう！",
+        "オルフェーヴルにも手伝ってもらおう",
+        "駆けまわって協力を仰ごう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "ウオオオッ！！\nさすがジャーニーだぜ、かませーっっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……そのような応援を受けては、\n頑張らないわけにはいきませんね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "――……ご馳走様です。",
+      "ChoiceDataList": [
+        "す、すごい……食べきった……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ゴルシさんのお願い、ですから……。\n……次回は是非、事前にご相談を。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……ざっと見た様子では、\n米と出汁のバランスは完全に崩れています。\nオルの口に合うかどうか。",
+      "ChoiceDataList": [
+        "お茶漬け好きだし、喜んでくれるかも"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……一応、声はかけてみましょうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "――……味が伸びきっている。\nだが、悪くはない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "こういったものも楽しめるのか。\nさすがだ、オル。お前は偉いな……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "そうですね……。\n確かに、時間との勝負ですからね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "これ以上お米が膨らまないよう、\n急いで探しましょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "スペシャルウィーク",
+      "Text": "やった～、お茶漬けたっくさん♪\nいっただっきまーす♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……適材適所、ですね。\nあっという間に片がつきそうだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

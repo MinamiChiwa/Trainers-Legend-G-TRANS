@@ -1,0 +1,43 @@
+{
+  "Title": "レース疲れ",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……ふう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "今後についての話し合いの最中、\nドリームジャーニーが息をついた。\nどこか気だるげにも見える。",
+      "ChoiceDataList": [
+        "大丈夫？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ああ、すみません。大丈夫ですよ。\n貴方のプランを実現するには、\n私はどうすべきかを考えていて……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ご期待に沿えるよう、\nこれまで以上に、頑張りますね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ドリームジャーニーに、\n無理をさせてしまっているかもしれない。\n今後の出走予定を見直すべきだろう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
