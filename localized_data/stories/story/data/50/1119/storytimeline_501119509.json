@@ -1,0 +1,43 @@
+{
+  "Title": "連続出走で……",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "トレーナーさん。\nデスクの上の書類をご確認いただけますか？",
+      "ChoiceDataList": [
+        "これは？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "今後の出走予定に関する意見書、\nならびに計画書です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ご期待いただけるのは有難いのですが……\n少々すり合わせが必要かと。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ご検討、お願いしますね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "意見書は納得のいくものだった。レース続き\nによる疲労への配慮が足りなかったかも……\n今後の出走予定を見直すべきだろう……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

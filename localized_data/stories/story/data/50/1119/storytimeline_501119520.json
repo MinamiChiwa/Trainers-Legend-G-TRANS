@@ -1,0 +1,301 @@
+{
+  "Title": "Talking",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "昼休み。カフェテリアを訪れると、\nドリームジャーニーが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイワスカーレット",
+      "Text": "ジャーニーさん！\nこの間はありがとうございます！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイワスカーレット",
+      "Text": "おすすめしてくれたチェスの本、\nすごく勉強になって！\u3000おかげで\nタキオンさんといい勝負ができました！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "いえいえ。お役に立てて光栄です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "スカーレットさんは筋がいいですから……\n素晴らしいプレイヤーになるでしょうね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイワスカーレット",
+      "Text": "そんな、筋がいいだなんて……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "本当のことです。スカーレットさんさえ\nよければ、お茶でも飲みながら、\nもっと戦術についてお教えしたいものですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイワスカーレット",
+      "Text": "あっ、それなら『富士View』ってモールに、\nチェスもできるカフェがあるんですけど。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイワスカーレット",
+      "Text": "今度、一緒に行きませんか？\u3000本のお礼に、\nおすすめのショップとか案内しますので！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "おや、よろしいのですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "それならお言葉に甘えさせて\nいただきましょうか。……ふふッ。",
+      "ChoiceDataList": [
+        "（へぇ……ジャーニー、楽しそうだな）",
+        "（へぇ……ジャーニー、楽しそう）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "和やかに語らう彼女を見て、\nどこかほっとしたのだが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "プリファイ",
+      "Text": "『姫たるもの！\u3000華麗に、優雅に、勇ましく！\n爆走猛姫☆プリンセスファイター！！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "なるほど。今、デモで流れているのが\n初代プリファイの劇場版……ですか。",
+      "ChoiceDataList": [
+        "（えっ！？ジャーニー！？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "初代はファンの間でも大人気！\n超絶おすすめの名作ですの！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "『☆'s』『フラっと♭』『シュガらぶ♪』\n……ずいぶんとシリーズが多いのですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "初心者の私としては、どれを観れば\nよいか迷ってしまいますが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "心配ご無用ですわっ！\n私が手取り足取り、教えて差し上げます！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "いつも紅茶をいただいているお礼ですもの！\nジャンジャン聞いてくださいまし！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ふふッ、頼もしい限りですね。",
+      "ChoiceDataList": [
+        "（い、意外な交友関係……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "休日に思わぬ姿を見て、どぎまぎしてしまう。\nそんな出来事から数日後――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "リポーター",
+      "Text": "『見てください！\u3000こちらの見事な金細工。\nさすが、ビリオネアの婚約指輪を請け負った\n職人さん！\u3000いい仕事してますね～！』",
+      "ChoiceDataList": [
+        "何を観ているんだ？",
+        "何を観ているの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……ああ、ワイドショーです。\n父の仕事が取り上げられていましたので。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "なんでも海外の大富豪から、\n婚約指輪の制作を受注したそうで。\nちょっとした話題になっているんですよ。",
+      "ChoiceDataList": [
+        "へぇ！君のお父さん、すごいな！",
+        "へぇ！貴方のお父さん、すごいね！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ふふッ……ありがとうございます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "父は無口ですが、仕事に対して\nこだわりと誠実さを備えた人ですから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "こうして脚光を浴びること、\n心から嬉しく思うんです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "そう彼女が語る間に、ワイドショーは\n仕事を依頼した大富豪への\nインタビュー映像に切り替わった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大富豪",
+      "Text": "『他にも依頼先の候補はいたんだけどね。\nやはり作品の出来映えが決め手になったんだ。\nあと、日本のおもてなしの心かな』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大富豪",
+      "Text": "『富士Viewってモールで、日本のお土産を\n選んでくれたり……色々と世話になったんだ。\nそのサービス精神にいたく感動したのさ』",
+      "ChoiceDataList": [
+        "あれ？そのモールの名前って、確か……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大富豪",
+      "Text": "『あと前から日本のアニメに興味があってね。\n新しい友人のおかげで、プリファイっていう\n素晴らしい作品に出会えたよ。ハハハッ！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "数日前、レンタルショップで\n目撃したやり取りを思い出す。\nこの一致は偶然か、それとも……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "おや、どうしたのですか？\nトレーナーさん。",
+      "ChoiceDataList": [
+        "さっきの『新しい友人』って……",
+        "こんな偶然もあるんだな",
+        "こんな偶然もあるんだね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "おや、どうしたのですか？\nトレーナーさん。",
+      "ChoiceDataList": [
+        "さっきの『新しい友人』って……",
+        "こんな偶然もあるんだな",
+        "こんな偶然もあるんだね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "さあ……私に訊ねられましても。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "薄く笑うドリームジャーニー。\nなんとなく、それ以上は聞けなかった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイワスカーレット",
+      "Text": "あっ、ジャーニーさん。\nよければお茶、ご一緒しませんか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "偶然、とは何のことでしょうか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "首を傾げるドリームジャーニー。\nやはり思い過ごしだろうか。",
+      "ChoiceDataList": [
+        "いや、なんでもないよ",
+        "ううん、なんでもない"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイワスカーレット",
+      "Text": "あっ、ジャーニーさん。\nよければお茶、ご一緒しませんか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ダイワスカーレット",
+      "Text": "それとこの前のチェスの続き、\nぜひお願いしたくて！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カワカミプリンセス",
+      "Text": "私も、私も！\n紹介したいプリファイグッズがありますわ～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "スカーレットさん。カワカミさん。\nお誘い、ありがとうございます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "この間のお話、大変参考になりました。\nまた、いろいろと聞かせてくださいね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

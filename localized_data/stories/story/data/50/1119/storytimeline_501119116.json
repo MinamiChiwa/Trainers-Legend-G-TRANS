@@ -1,0 +1,656 @@
+{
+  "Title": "愛されし者",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――――旅人は言った。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『風の匂いが変わった』、と。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "実況",
+      "Text": "――さぁ、第4コーナーをカーブ！！\n前が4人並んだ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "実況",
+      "Text": "ブエナビスタ！！\nブエナビスタはどこから飛んでくるのか！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "ブエナビスタ"
+      ]
+    },
+    {
+      "Name": "ブエナビスタ",
+      "Text": "――――負け、ないっ……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ブエナビスタ",
+      "Text": "やぁぁぁぁぁぁぁぁぁっ！！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "実況",
+      "Text": "一気に外から！！\u3000ブエナビスタ！！\nまとめてかわすのか！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "実況",
+      "Text": "外からブエナビスタ！！\u3000ブエナビスタッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "実況",
+      "Text": "届くのか！？\u3000ブエナビスタ！！\n届くのかっ、並んだ並んだーーッ！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ブエナビスタ",
+      "Text": "はぁっ、はぁっ、はぁっ、はぁっ……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（ワァァァァァァァァーーーーッ！！！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "実況",
+      "Text": "写真判定が上がりました！\n1着、7番ブエナビスタ！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "実況",
+      "Text": "ブエナビスタ、\nダブルティアラ達成ーーーーッ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "ダブルティアラ"
+      ]
+    },
+    {
+      "Name": "ブエナビスタ",
+      "Text": "勝っ……た……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ブエナビスタ",
+      "Text": "やった――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ブエナビスタ",
+      "Text": "やった……やった……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ブエナビスタ",
+      "Text": "やったぁーーーーっ！！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ブエナのファンA",
+      "Text": "うおおーーっ！！\u3000ブエナビスタ、\nダブルティアラおめでとーーっ！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "レースファン",
+      "Text": "やば……！！\u3000ここまでずっと1番人気で、\n連勝で！\u3000ついにはダブルティアラ！！\n正にニューヒロインじゃん！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "――――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ブエナのファンB",
+      "Text": "ブエナビスターっ！！\nダブルティアラ、おめでとう！！\nすごくかっこよかったよーー！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ブエナのファンA",
+      "Text": "最後の直線、超すごかった！！\n熱いレースをありがとーーっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ブエナビスタ",
+      "Text": "みなさん……！\n本当にありがとうございます……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ブエナビスタ",
+      "Text": "私、こんなたくさんの人に\n応援してもらえて……喜んでもらえて……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ブエナビスタ",
+      "Text": "すっっごく！！\u3000幸せです！！！\nこの絶景、忘れません！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ブエナビスタ",
+      "Text": "みなさんのこと、大好きです！！\nこれからも、応援よろしくお願いしますっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（ワァァァァァァァァーーーーッ！！！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ブエナのファンC",
+      "Text": "は～～っ……いい子だなぁ……\nいつも全力で、キラキラしていて……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ブエナのファンD",
+      "Text": "それね～……！\u3000もうなんか、\n応援したくなっちゃうというか――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ブエナのファンD",
+      "Text": "愛さずにはいられないんだよね……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "番組司会",
+      "Text": "――先日、『オークス』を勝利し、\n見事ダブルティアラを達成したブエナビスタ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "番組司会",
+      "Text": "改めて『凱旋門賞』への\n意欲を表明しました。\nこちら、映像をご覧ください――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "凱旋門賞"
+      ]
+    },
+    {
+      "Name": "インタビュアー",
+      "Text": "――それでは正式に、\n『凱旋門賞』を目指されるのですね！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ブエナビスタ",
+      "Text": "実はまだ登録だけで、\n正式に走ると決めたわけではなくて――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ブエナビスタ",
+      "Text": "夏に『札幌記念』を走って、\nそこで調子を見るつもりでいます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "札幌記念"
+      ]
+    },
+    {
+      "Name": "インタビュアー",
+      "Text": "なるほど！\u3000『凱旋門賞』に出走される場合、\n『秋華賞』に出走することは日程的に\nほぼ不可能になるかとは思いますが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "秋華賞"
+      ]
+    },
+    {
+      "Name": "インタビュアー",
+      "Text": "今もトリプルティアラを期待する声は、\nファンにも多くあるようです……！\nその点については、どうお考えですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ブエナビスタ",
+      "Text": "えっと……私にたくさん期待や夢を\n抱いてくれている方がいて、\nすごく嬉しいって、そう思っています……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ブエナビスタ",
+      "Text": "だからもし『凱旋門賞』に出走できても、\nできなくても……予定が変わって\n『秋華賞』を走ることになっても――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ブエナビスタ",
+      "Text": "私はどんな場所でも全力で、\nみなさんに夢を……\n“絶景”をお見せしたいです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "テレビの音声",
+      "Text": "『いやぁ、真っ直ぐなコメントでしたね～！\nこれからの活躍に、自然と期待が――』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……人気ですね、ブエナさん。",
+      "ChoiceDataList": [
+        "そうだね"
+      ],
+      "ColorTextInfoList": [
+        "ブエナ"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "レース界は今、ティアラ路線に鮮烈に現れた\nニューヒロイン・ブエナビスタに\n大きな注目が集まっている……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "その実力はもちろんのこと、\nひたむきで純粋さを感じさせる言動に\n魅力を感じているファンも多いようだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "愛さずには、いられない――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……天性、なのでしょうね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "彼女の人を惹きつける無垢な力は、\nあまりにも凄まじい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "それこそ……歴史的なほどに。",
+      "ChoiceDataList": [
+        "じゃあやっぱり、彼女は――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ええ。\n間違いなく“嵐”となる存在でしょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "故に……相対してみたい……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……何故だろうか。\nドリームジャーニーの\nその微笑みを見ていると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "遠からず、その対峙が実現するような……\n予感めいたものを覚えた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "そして、その対決を楽しみにする\n自分がいることもまた、自覚したのだった――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ブエナビスタ",
+      "Text": "えっと……海外レースの本は……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "？？？",
+      "Text": "――こんにちは、ブエナさん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ブエナビスタ",
+      "Text": "ジャーニーさん！\nこんにちは。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……もしや、フランスのレースに関する本を\nお探しなのでしょうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ブエナビスタ",
+      "Text": "えっ、すごい……！\nどうしてわかったんですか！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "なんとなく、です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……よろしければ、遠征支援委員会を\nご活用ください。そちらのほうが\nお探しの資料は充実しているかと――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ブエナビスタ",
+      "Text": "――ジャーニーさん！\nいろいろ教えてくださって、\n本当にありがとうございます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ブエナビスタ",
+      "Text": "おかげでたくさん、\n欲しかった資料が見つかりました！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "そのための遠征支援委員会ですから。\nお役に立てて何よりです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ブエナビスタ",
+      "Text": "よ～し……！\nたくさん読んで、いっぱい勉強しなきゃ……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "…………――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……少々、質問をしてもいいでしょうか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ブエナビスタ",
+      "Text": "あっ、はい！\nなんでしょう？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……貴方が『凱旋門賞』を目指す理由は\nいったい、どのようなものなのでしょうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ブエナビスタ",
+      "Text": "――――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ブエナビスタ",
+      "Text": "…………見せたいんです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ブエナビスタ",
+      "Text": "私を応援してくれる人に、\n忘れられない“絶景”を……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ブエナビスタ",
+      "Text": "私がかつて見た、あのレースのように……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "――――『ジャパンカップ』。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "ジャパンカップ"
+      ]
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "日本総大将、スペシャルウィークが\n世界最強であったモンジューと相対した、\n伝説のレース――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "スペシャルウィーク",
+        "モンジュー"
+      ]
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "あの日のスペシャルウィークさんの走りは……\n日本のレースファンの想いを\n全て載せたかのような――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "流星の如き、眩さだった……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ブエナビスタ",
+      "Text": "……！！\u3000わかります！！\nすっごくわかりますっ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ブエナビスタ",
+      "Text": "あの日、場内が1つになって……\nみんな、感動していて……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ブエナビスタ",
+      "Text": "勝ったスペシャルウィークさんは、\n本当にカッコよくて、キラキラしてて！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ブエナビスタ",
+      "Text": "私……！\u3000涙がとまらなくてっ……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ブエナビスタ",
+      "Text": "……って、あれ？\nどうして『あのレース』がスペさんの\n『ジャパンカップ』だって――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ああ、それは――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……貴方がスペシャルウィークさんに\n憧れているというのは知っていましたから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "彼女を語る上で忘れられないレースといえば、\n『ジャパンカップ』かと思いまして。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……もしやと思い、少し言ってみたのです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ブエナビスタ",
+      "Text": "すごい……！\u3000名探偵みたい……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……貴方もスペシャルウィークさんのように、\n感動を、忘れられないレースを作りたい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "そのために目指すのですね。\n……『凱旋門賞』を。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ブエナビスタ",
+      "Text": "はい！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ブエナビスタ",
+      "Text": "あの時もらった感動を、夢を、\n私も誰かに見せられたらって――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ブエナビスタ",
+      "Text": "そんなウマ娘を、\nずっと目指しているんです……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "………………なるほど。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "とても素敵だ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ブエナビスタ",
+      "Text": "あのっ、ジャーニーさんって\n今度『宝塚記念』を走る予定なんですよね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ん？\u3000ええ、そうですが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ブエナビスタ",
+      "Text": "私、応援してますっ！\u3000ジャーニーさんが、\nファンのみなさんの夢をかなえるのを！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ブエナビスタ",
+      "Text": "ジャーニーさんの走りって、\n鋭くて、力強くて……！\n実は私、大好きなんです！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "…………ありがとうございます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "いつか、同じレースで競いたいものですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "私も、貴方の走りが……\n夢を感じられて、好きですから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ブエナビスタ",
+      "Text": "ほ、本当ですか！？\nわぁ……嬉しいです……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ふふッ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "蝶の羽ばたきが、いずれ嵐を生むかの如く。\n因果は積み重なり、歩み出す。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "旅人は、追いかけてくるその音を聞きながら、\n旅路を往く――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

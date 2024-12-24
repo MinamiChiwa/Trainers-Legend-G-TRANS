@@ -1,0 +1,50 @@
+{
+  "Title": "寝不足で……",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ふぁ…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "おっと、失礼……\nごきげんよう、トレーナーさん。",
+      "ChoiceDataList": [
+        "眠そうだけど、どうしたんだ？",
+        "眠そうだけど、どうしたの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "調べものに時間を費やしましてね。\n知識を得られた、その代償です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "とはいえ、気の抜けたところを見られて\nしまっては、大きすぎる代償とも取れますが。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "見なかった――ということでひとつ\nよろしくお願いいたします、トレーナーさん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "謎の圧を発しつつも、ドリームジャーニーは\n明らかに寝不足の顔をしていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

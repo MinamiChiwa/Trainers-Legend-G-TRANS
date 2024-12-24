@@ -1,0 +1,43 @@
+{
+  "Title": "不在の理由は……",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ドリームジャーニーが時間になっても\nトレーニングに現れない。\n探しに出たところ、彼女は委員会室にいた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "本日中に確認が必要なものはデスクの上に\n置いてください。新規仲介業者のリストを\nメールにて送付しましたので各自確認を。",
+      "ChoiceDataList": [
+        "ジャーニー、トレーニング時間過ぎてるよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……トレーナーさん。\nおや、もうこんな時間でしたか……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "仕事に熱中するあまり、気づきませんでした。\n申し訳ございません。以後、気をつけますね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ドリームジャーニーは心からすまなそうに\n謝罪をした。同じことがないようにと、\nしっかり注意をしたのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

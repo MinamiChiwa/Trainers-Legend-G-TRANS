@@ -1,0 +1,320 @@
+{
+  "Title": "秘密の扉、その先に",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "出かけた帰り道。\n今日もドリームジャーニーの寄り道に\n付き合わせてもらうことになった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "では今日は、“知る者にのみ開かれる扉”が\nあることを体験いただきましょうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ドリームジャーニーと足を踏み入れたのは、\n一見、なんの変哲もないプールバーだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バーの黒服",
+      "Text": "いらっしゃいませ。\n当店は初めてのご利用でしょうか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "どうぞ、トレーナーさん。\n先ほどお教えした通りに――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "行く前にひとつ覚えてください。\n特別な“おまじない”ですよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "初めて来たのかと問われたら\n『黄金の翼の導きで再訪した』と。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "かの影はいずこにありや、と問われたら――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バーの黒服",
+      "Text": "……お客様？\n当店は初めてのご利用でしょうか？",
+      "ChoiceDataList": [
+        "お……『黄金の翼の導きで再訪しました』"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バーの黒服",
+      "Text": "おや。……では、かの影はいずこにありや？",
+      "ChoiceDataList": [
+        "『翔けゆく空の旅路の果てに』！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "バーの黒服",
+      "Text": "かしこまりました。どうぞ、こちらへ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "長い廊下を先導されながら高揚感に包まれる。\n先ほどの店に、他に“おまじない”を\n知る者はいたのだろうか？",
+      "ChoiceDataList": [
+        "（これが、知る者にのみ開かれる扉――！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ありがとうございます。貴方の情報は、\nいつも正確で助かっておりますよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秘密の部屋の住人",
+      "Text": "そいつは重畳。\nしかしジャーニー、ひとつ聞きたいんだが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秘密の部屋の住人",
+      "Text": "何故この部屋に、部外者を入れた？\n秘密を守れない者の末路は、わかっているな？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "おや……いけませんね。\nここは退散しましょう、トレーナーさん。",
+      "ChoiceDataList": [
+        "えっ、えええっ！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "追跡者たち",
+      "Text": "いたぞ、あっちだ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "しつこいですね。トレーナーさん、こちらへ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "夜の街を駆けまわり、\nようやく追っ手をまいた頃には、\nへろへろになってしゃがみ込んでしまった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……お顔が真っ青ですね。\n大丈夫ですか、トレーナーさん？",
+      "ChoiceDataList": [
+        "何だったんだ、あれは……？",
+        "何だったの、あれは……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "やりすぎる方なのを失念していました。\nまさか追っ手まで仕向けてくるとは。",
+      "ChoiceDataList": [
+        "捕まったらどうなるんだ……っ！？",
+        "捕まったらどうなっちゃうの……っ！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "それは勿論……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "…………ふッ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ククク……、いえ、失礼。\nしかし……ふ――ははははっ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "思ったより驚かせてしまいましたね。\nご安心ください、\n大したことにはなりませんから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "あれはね、“ごっこ遊び”なんです。\nどうにも凝り性な友人でして。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "時々遊びに付き合わせたがるんですよ。\n金持ちの道楽者ですが、\n正体は善良な一般人です。",
+      "ChoiceDataList": [
+        "なんだ、てっきり……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "何か起きるかと期待しましたか？\nそれでそんなに、もの足りない顔を？",
+      "ChoiceDataList": [
+        "いやいや、さすがにもの足りなくは――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……本当に？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "いつかの日、\n貴方は知識の力で小悪を退けましたね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "また別の日には、さらなる知識を求め\n知の深淵を僅かに覗いてみたりもした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "そして今日。貴方は不用意な知識の行使が\n時に危険を呼ぶことすらも知った。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "それで――いかがですか？\nこれ以上知識を求めるのは恐ろしくなった？",
+      "ChoiceDataList": [
+        "俺は……",
+        "私は……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ぞくり、と背中が震えた。\n今日、大勢に追い回されたのは\n本当に恐ろしかった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "2度とあんな目に遭いたくないと\n心の底から思っている。\nなのに――",
+      "ChoiceDataList": [
+        "（たとえ危険でも、自分はきっとまた――）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ふふッ……だから忠告したのです。\n私についてくると“後悔”しますよ――と。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "弄うような言葉に唇を噛む。\n自分はいつから彼女の掌の上だったのだろう。\nそれでも――",
+      "ChoiceDataList": [
+        "それでも、後悔はしてない",
+        "君がいれば怖くないから",
+        "貴方がいれば怖くないから",
+        "も、もっと強く止めてくれれば……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "弄うような言葉に唇を噛む。\n自分はいつから彼女の掌の上だったのだろう。\nそれでも――",
+      "ChoiceDataList": [
+        "それでも、後悔はしてない",
+        "君がいれば怖くないから",
+        "貴方がいれば怖くないから",
+        "も、もっと強く止めてくれれば……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "そうでしょうとも。\nひとたび快楽を知ってしまえば、\nそれを忘れるのは実に難しいもの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "期待して見守っていますよ。\n貴方が、次の扉に手を伸ばすのを――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "愉しそうに笑う顔から、\n目が離せなくなったのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "おやおや、まさか頼る先が私とは。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "では責任をもって導きましょうか。\n貴方が立ち止まってしまう時までは――ね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ハハハ……ッ！\nこの期に及んでまだそんなことを！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "本当に貴方はおかわいらしい。\n大丈夫、この先も\nゆっくり教えてさしあげますよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "誘うように手を伸ばされ、\nドギマギしてしまったのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

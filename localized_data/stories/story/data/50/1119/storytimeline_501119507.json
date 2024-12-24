@@ -1,0 +1,165 @@
+{
+  "Title": "ファンレター",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ドリームジャーニーに届いたファンレターを\n渡した。彼女はしばらく手紙を読んでいたが、\nその中の1通を手に考え込んでいる様子だ。",
+      "ChoiceDataList": [
+        "どうかした？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……ええ、この手紙。\n小学生の男の子からのものなのですが。\n招待状が同封されていました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "彼が私を描いた絵が、賞を獲ったそうです。\nその授賞イベントに招待されました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "せっかくです、\nお邪魔させていただきましょう。\nお祝いと、応援への感謝も伝えたいですしね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "よろしければ、トレーナーさんもいかがです？\nファンの方々と交流できるいい機会ですから。",
+      "ChoiceDataList": [
+        "ぜひ同行させて"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "美術館の中にあるイベント会場。\nそこには今回受賞した絵も飾られていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "これが私を描いた絵ですね。\nなるほど、レース中の私ですか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "鮮やかな緑の中に浮かぶ深い黒……\n幾度も色を重ね、深みのある色にしています。\n躍動感の表現も斬新で……素晴らしい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "子ども",
+      "Text": "わあ、ドリームジャーニーさんだ！\nぼくの絵、見てくれてたんだ！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ええ、驚きました。貴方は鋭い観察眼を\nお持ちなのですね。自由で大胆な表現も、\nオリジナリティがあって素晴らしいです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "子ども",
+      "Text": "えへへ、ほめられちゃった！\nキレキレのカッコイイ走りを描きたくて、\nがんばったんだ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "子ども",
+      "Text": "あのね、ブラックホールみたいに強くて、\nでも、太陽みたいにカッコいい感じにも\nしたくて……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "この飛んでいるような黒い光ですね。\n確かに……私らしいですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "母親",
+      "Text": "あの、ドリームジャーニーさん。\nこの子と写真をお願いしてもよろしいですか？\nSNSに載せたいのですが……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "勿論、かまいませんよ。\n特別な日に花を添えられるのなら、\n嬉しく思います。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……改めて、受賞おめでとうございます。\nそして、素晴らしい絵と出会いを\nありがとうございます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "参加者",
+      "Text": "あ、あの、すみません。自分もいいですか？\nずっとファンで……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ええ、喜んで。\nそちらの皆さんもですか？\u3000では順番に。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ドリームジャーニーは終始笑顔で、\nファンたちに快く応じたのだった……。\nそして、後日――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "うわぁ、パねーわコレ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "あ、ジャーニーさん。\nこれ、バズりまくってんねー！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "バズり……？\nああ、先日の授賞式の写真ですね。\nこちらの少年にご招待いただいたのですよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "トーセンジョーダン",
+      "Text": "じゃなくて。\n『ファンサ神』とか『推しに決めた』とか\n言われまくってんじゃん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "おや、私は記念撮影に応じただけですよ。\nこれほど話題にしていただけるなんて。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ふふ……ファンの皆さんに喜んでいただけて\nよかったです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

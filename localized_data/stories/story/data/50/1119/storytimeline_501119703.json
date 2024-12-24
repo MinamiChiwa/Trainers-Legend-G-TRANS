@@ -1,0 +1,286 @@
+{
+  "Title": "仰げば危うし",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "出かけた帰り道。ドリームジャーニーは\n今日も寄るところがあるのだと言う。",
+      "ChoiceDataList": [
+        "俺も、一緒に行っていいかな？",
+        "私も、一緒に行っていいかな？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "勿論。トレーナーさんご自身が\n求めるのであれば、歓迎いたしますよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "訪れたのは大きな棚に\nたくさんの茶葉が並ぶお茶の専門店だった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "“先生”、ご無沙汰しております。",
+      "ChoiceDataList": [
+        "“先生”？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ええ。こちらの店主はことお茶に関して、\n素晴らしい見識をお持ちなのですよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "浅学の身ゆえ教えを請うことも多く、\n“先生”と呼ばせていただいております。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老齢の店主",
+      "Text": "ふん。その割にさっぱり顔を見せんで。\n薄情な弟子よ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "まあそうおっしゃらず。\n今日はご依頼の古陶磁をお持ちしましたよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "いつも通り、奥の倉庫で構いませんね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "トレーナーさん。申し訳ありませんが、\nしばらくお待ちいただけますか？\n土産をしまって参りますので。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ドリームジャーニーの戻りを待つ間、\n店の様子をぐるりと見渡す。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "棚にぎっしりと並ぶ茶葉、茶葉、茶葉。\nふと、それぞれの名を分ける\n理由を知りたくなった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "味か、産地か、知らない何かか。\n来歴はどうだろう、香りは？\u3000色は？\n考えるだけでワクワクしてしまう！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老齢の店主",
+      "Text": "…………何をじろじろ見てやがる。\nもし注文したいってんなら――",
+      "ChoiceDataList": [
+        "ぜひ“先生”のお勧めのお茶を！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ドリームジャーニーが師と仰ぐほどの相手。\nそんな人に教えを請えるチャンスは\n2度とないかもしれない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そう思えば止まらなかった。\n新しい知識を得た時の興奮は、1度味わえば\nやみつきになってしまうものらしい――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "知るために闇へと踏み出す勇気。\nそれを試しているのかと思うこともあります。",
+      "ChoiceDataList": [
+        "俺にもお茶のことを教えてください！",
+        "私にもお茶のことを教えてください！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老齢の店主",
+      "Text": "はっ。紅茶と青茶の\n区別もつかなそうな顔して――いや待てよ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老齢の店主",
+      "Text": "そこまで言うなら\nとっておきを出してやろうか。\nちょうど珍しい茶葉が入ったところでな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老齢の店主",
+      "Text": "茶道楽ども垂涎の“本物”のお茶さ。\n今日を逃せば、次はいつ出会えることか――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "おや、ずいぶん楽しそうですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ですが、トレーナーさんが\n“先生”の授業を受けられるのは\n時期尚早かと。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "レッスンならばまたいずれ。\n今日のところはお暇させていただきましょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "――……ふふッ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "せっかくなら飲んでみたかった。\nもしや、そういうお顔でしょうか？",
+      "ChoiceDataList": [
+        "新しいことを知るチャンスだったから"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "それは大変失礼を。\nでは、次は見守ることにいたしましょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……しかしトレーナーさんも大胆ですね。\nあの場で数十万円もする\nお茶を喫そうなどとは。",
+      "ChoiceDataList": [
+        "……えっ、数十万っ！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "さすがに冗談だろうと\nドリームジャーニーの顔を見るが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ええ。“本物”と言われたでしょう？\n勧められたのは、そういう類いのお茶ですよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "古来よりお茶は、過ぎれば\n身持ちを崩す道楽などと言われています。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "それほどまでに奥深く、知るのに\n覚悟のいる世界もあるということですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "それにしても――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "やはり教えたがりの人間にとって、\n貴方のような素直な方は魅力的なのですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "疑わず全て吸収してしまうから、\nついいくらでも智慧の水を注ぎたくなる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ですが覚えていてください。\n中途半端な知識ほど危ういものはないのです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "“先生”には信頼できる者を選ぶこと。\n約束、していただけるでしょうか。",
+      "ChoiceDataList": [
+        "わかりました、ジャーニー先生！",
+        "知らないって怖いね……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "おや、私が“先生”ですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ふふッ……、\n相手は選べと言ったばかりなのですがね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "――いいでしょう。\nせっかくのご指名ですので謹んで。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "次もまた、新しい世界へ\nご案内することといたしましょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "なに、焦る必要はありません。\n知識とは時間をかけて積み重ねるもの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "僭越ながら、お手伝い申し上げますよ。\n貴方は信じて、頼ってくださればいい……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "頼りがいのある申し出なのに、\nなぜかひやりとした汗が流れたのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

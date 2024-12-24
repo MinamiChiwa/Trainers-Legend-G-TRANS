@@ -1,0 +1,678 @@
+{
+  "Title": "縁と盟約",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "――ジャーニーさんはコーヒーも嗜むと\n伺っておりますので、用意いたしました。\n紅茶とどちらになさいますか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ありがとうございます。\nではせっかくなので、コーヒーの方を――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "承知しましたわ。\nトレーナーさんの方はいかがなさいますか？",
+      "ChoiceDataList": [
+        "あ、えっと。俺は――",
+        "あ、えっと。私は――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……自分とドリームジャーニーが\nこうしてメジロ家で歓待を受けている理由は、\n少しばかり遡る――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "…………――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "先日メジロマックイーンが\nドリームジャーニーにもたらした手紙。\n送り主はまさかの“アネゴ”だったのだが――",
+      "ChoiceDataList": [
+        "……いったい、どんな内容だったんだ？",
+        "……いったい、どんな内容だったの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "――『メジロ家を頼ってみろ』。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "…………要約すると、そのような内容です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "どうやらアネゴは、密かに私の旅路を\n見てくれていたようですね……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "それは喜ばしいと思う。だが一方で、\nステイゴールドが何故急にそんな提案を？\n大きな謎が目前に横たわっていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "――――メジロ家に伺ってみましょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "別れ際のマックイーンさんの言葉を考えるに、\n恐らく彼女も手紙の内容を知っているはず――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "マックイーン"
+      ]
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "何故、アネゴがメジロ家を頼れと言うのか。\n何故、マックイーンさんがアネゴの手紙を\n預かっていたのか……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "直接お尋ねすれば、\nきっと全て答えていただけるでしょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "――……マックイーンさんと彼女は、\nどういったご関係なのでしょうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "……そうですわね。\nあえて、一言でまとめるのならば――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "“同志”、でしょうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……同志――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "……実は、あの方が\nトゥインクル・シリーズの最前線を\n駆けていた時――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "私が個人的に、彼女のトレーニングを\n手伝っていた時期があるのですよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "――――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "名付けて『隠密マックイーン特訓』……\nなどと、ふざけて仰っていましたわね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "……どうしてそのようになったのか。\n言葉にしようとすると、紆余曲折ありすぎて、\nそれだけで1つの旅のようになります。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "ただ、重要なのは……\nあの方が力を求め、\n私と共に研鑽をしたこと。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "そして私は、\n彼女の持つ、輝く黄金の如き信念――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "『レースを走るウマ娘として、\nできる限り長く“旅”を続けること』に、\n個人的に感じ入るものがあったということ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "……失礼ながら、密かにジャーニーさんの\nこれまでのレースを追いかけておりました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "……貴方は、今後の自身の成長と、\n将来現れるであろうライバルの力を予見し、\n憂いていらっしゃる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "言い換えると――\n『このままでは、“旅”を続けられない』と。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "そう、思い悩んでいるのではありませんか？",
+      "ChoiceDataList": [
+        "……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……さすがですね。\nお見通しというわけですか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "しかし……これで1つ、\nアネゴの行動について合点がいきました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "アネゴも、過去に向き合っていたのですね？\n同じものに。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "ええ。奇しくも、\n彼女の方も『菊花賞』に挑む前の時でした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "そして、マックイーンさんと共に研鑽した。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "『“旅”を続けるための力』を得るべく――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "…………場所を変えるといたしましょうか。\nここから先は、道すがらお話しいたします。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "――……あの方が私と共に研鑽した力。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "その最たるは……\nレースにおける『頑強さ』にありました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "――私たちメジロ家は、『天皇賞（春）』を\nはじめとした長距離GⅠでの勝利に対し、\nこと強い想いを抱いております。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "天皇賞（春）"
+      ]
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "それ故、長くタフなレースを戦うための戦術、\n肉体、メンタル。それらを構築するための\nノウハウを積み上げてきた自負がございます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "……あの方はそれらを、乾いた砂に水が\n流し込まれるかのように吸収し、\n長い旅路を走りぬくための糧にしてみせた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "……きっと、相性がよかったのでしょうね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "私の……メジロ家のやり方と、\n彼女の在り方は――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "――こちらが、あの方も特訓に使った\n当家のトレーニングコースの1つになります。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "今は……\n当家でもあまり使われてはおりませんが。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "……今を走るお2人ならば、ご存じでしょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "我々メジロ家は現在、\n低迷しておりますことを。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "……長距離レースに重きを置き、\nスタミナの多さを主軸に据えた、\nメジロの伝統ある戦術。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "それはいつしか……\nレースの高速化など、新たな時代の主流に\n適応できなくなっていきました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "そして、これを言葉にすることには\n些か躊躇いもありますが……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "レースの時流に合わせるように、世間では、\n長距離GⅠの価値が、以前に比べいくばくか\n下がっている傾向があります。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "無論、その勝利は依然として、\n望外の栄誉であることは変わりはありません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "ですが……強さの基準として見た際に、\n宿る意味合いが昔とは変わってしまった――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "……そうした現状が合わさり、\n当家の今となってしまっているのです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……レースにおける主流の変化。\nそれに合わせた、長距離GⅠの価値の変化。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "メジロマックイーンが話したそれらは、\n1人のトレーナーとして、確かに実感がある。\nだけれども――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "――ですが、貴方たちは今も、\nメジロ家であることに誇りを抱いている。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "そして……長距離においてメジロ家が今も\n多くの知見を持っていることもまた、事実。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……トレーナーさん。\n今この場で、許可をいただけますか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "かつてアネゴがそうしたように、私も、\nマックイーンさんのお力をお借りすることを。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "頷いて返す。\nこれはステイゴールドの縁がもたらした、\nドリームジャーニーにとっての活路だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『菊花賞』以降のタフなレースを走るための、\nドリームジャーニーの“旅”を続けるための、\n千載一遇の機会――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……勿論、マックイーンさんや\nメジロ家の皆さんがよろしければ、\nという話ではありますが。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "ここまで来て今更だとは思いませんか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "むしろ――\n伺いたいのは我々の方です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "――我々メジロ家は貴方たちに技術を、\n意志を、与えられる限りを継承いたします。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "それをもって、今後の貴方の走りで、\n“証明”いただきたく存じます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "我々メジロ家の強さ。誇り。存在。\nその全てを。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "……お引き受けいただけますか？\nドリームジャーニーさん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "――――謹んで、お受けいたしましょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "そして、必ず証明してみせます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "この出会いをもたらした、\n黄金の縁に誓って。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "こうして新たに、ドリームジャーニーと\nメジロ家の間で盟約が結ばれ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "――やぁぁぁぁぁぁっ！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "くッ……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "――さすがです。\n早くも喰らいついてきましたわね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ふふッ。今のをそう言っていただけるとは……\nお優しいのですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "もっと蹂躙していただいても構いませんよ。\n貴方が退屈になってしまうほどに。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "その方が……\n私の糧になりますから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "……貴方も、言葉より\n走りの方がわかりやすい方ですのね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "その内に宿す渇望にも似たものは、\n頼もしくあり……恐ろしくもあります。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ドリームジャーニーは、\nメジロマックイーンと猛特訓を重ね――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロ家の主治医",
+      "Text": "このように、長距離レースでは\nレース直後のリカバリーの精度が、\nその後の回復速度に直結します。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロ家の主治医",
+      "Text": "速筋と遅筋の割合もこの回復速度に\n影響しますので、体組成についても\n意識をしてください。",
+      "ChoiceDataList": [
+        "なるほど……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロ家のトレーナー",
+      "Text": "こちらはマックイーンお嬢様の『菊花賞』、\n『天皇賞（春）』前後のデータです。\n今の話を加味して参考になさってください。",
+      "ChoiceDataList": [
+        "ありがとうございます……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "自分の方は、メジロ家のスタッフから\n彼らの積み重ねてきたものを\n学ばせてもらっていた――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "――マックイーンさんはやはり、\n恐ろしいウマ娘ですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "彼女の内に宿す意志の強さは、\nまさにメジロ家を体現する輝き……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "史上最強のステイヤーと謳われる走りが、\nターフでかつてどれほどの猛威を振るったか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "その一端を直に味わうことができたのは、\n本当に……貴重な体験でした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……併走を思い出すだけで\n震えてしまう自分がいますよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ああ、まったく情けないですね――",
+      "ChoiceDataList": [
+        "……俺には、君がすごく嬉しそうに見える",
+        "……私には、貴方がすごく嬉しそうに見える"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "――――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……本当に。\n縁とは思わぬ形で結実するものです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……しっかり継承していきましょうね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "彼女の、彼らの、誇りを。\n私たちの“旅”に。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "そうしてその後も、\nメジロ家での特訓は続き――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――――数日後。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "――本当に、お世話になりました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "おかげさまで、今後に向けて多くのことを\n学べたと思っています。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "お礼を言うのはこちらの方ですわ。\n貴方たちのおかげで、私どもはまた\n火がついた心地ですの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "学園に戻ってからも、引き続きメジロ家は\n貴方たちをサポートする所存です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "貴方の“旅”を、\nどうか見届けさせてくださいまし。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "光栄です。\n……必ずや、お見せいたしましょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "我々の“旅”。\nその果てに待つものを――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "夏が迫る。\n潮の香りと共に。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

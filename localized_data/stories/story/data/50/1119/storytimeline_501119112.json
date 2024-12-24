@@ -1,0 +1,314 @@
+{
+  "Title": "温泉旅行",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "――――温泉旅行券を使いたいのですが。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ドリームジャーニーとの“旅”が\n一区切りを迎えたタイミングで、\n彼女はそう言ってきた。",
+      "ChoiceDataList": [
+        "そうだね、ちょうどいい機会だ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "では、日程だけ調整していただけますか？\n行動計画は私の方が立てますので――",
+      "ChoiceDataList": [
+        "……………………ん？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "おや。\n豆鉄砲でもくったような顔ですね。",
+      "ChoiceDataList": [
+        "えっと、家族と行くんじゃ……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "行きますよ。またの機会に。\n今回はその下見と――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "トレーナーさんへの慰労会も兼ねています。",
+      "ChoiceDataList": [
+        "俺の……？",
+        "私の……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ええ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……貴方は今日まで、\n私のためにずっと尽力してくださった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "この機会に、是非とも\n温泉で羽を伸ばしていただきたいと……\nそう、考えているのです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "…………同じ“旅”を歩んだ者として。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……それは、本当に穏やかで\n善意しかない笑顔だと、そう感じられた。",
+      "ChoiceDataList": [
+        "……わかったよ。そういうことなら――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "では……――決まりですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "入浴中……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……うん。料理も素晴らしいですね。\n細部まで心遣いが行き届いていて――",
+      "ChoiceDataList": [
+        "……本当に、すごく落ち着くいい旅館だな",
+        "……本当に、すごく落ち着くいい旅館だね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ええ……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……ゆっくり休めているようで、\n何よりです。",
+      "ChoiceDataList": [
+        "ジャーニー。今回は本当に、ありがとう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ふふッ。\n……どういたしまして。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "…………この後なのですが、\n少し散歩をしませんか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "旅館の方曰く、\n近くに蛍がいる川があるようです。\n今の時期はとても美しいそうですよ。",
+      "ChoiceDataList": [
+        "へぇ……！それは気になるね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "でしょう。\n今日の旅の思い出に、行くとしましょうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――などとこの時は、\n軽い気持ちだったのだが。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（ヒュゥゥゥゥゥ……――）",
+      "ChoiceDataList": [
+        "（お、思ったより暗い……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "目的の場所に向かう道は街灯が一切なく、\n整備されていて足場はしっかりしているが、\n月明かりで辛うじて先が見える程度だった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "――トレーナーさん、大丈夫ですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ヒトより夜目が利くとのことで、\n少し先に行き、道を確認してくれていた\nドリームジャーニーの声が、闇から響く。",
+      "ChoiceDataList": [
+        "ちょっと、見えないかも……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "すみません、少々先を行き過ぎましたね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――急激に視界が更に暗くなる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "どうやら厚い雲で\n月が覆われてしまったようだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "――……トレーナーさん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "私のいるところに、\nそのまま進んでいただけますか。",
+      "ChoiceDataList": [
+        "な、何も見えないんだけど……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "大丈夫――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "（プシュッ――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……微かに響く、聞きなれた音。\nしばらく間をおいて、\n鼻孔をくすぐるのはあの香り――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "さぁ…………こちらへ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "大丈夫、道に危ないものはありませんから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "あの香りを頼りに、闇の中を、\n1歩、また1歩と進み――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "――――つかまえた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ドリームジャーニーが、自分の手を握る。\nその瞬間、月明かりも戻り始め――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "…………よくわかりましたね。",
+      "ChoiceDataList": [
+        "…………君との大事な、契約の香りだから",
+        "…………貴方との大事な、契約の香りだから"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "おやおや――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "…………貴方という人は。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その後、目的の場所まで\nドリームジャーニーと手を繋いだまま\n歩いていき――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "月明かりと蛍に彩られた夜の川を、\n2人で眺めた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『これは、私たちだけの夜だ』と。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そう彼女が呟いたことが……\nこの先も、忘れられそうになかった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ドリームジャーニーとの間に、\nかけがえのない絆を感じた\nひとときだった……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

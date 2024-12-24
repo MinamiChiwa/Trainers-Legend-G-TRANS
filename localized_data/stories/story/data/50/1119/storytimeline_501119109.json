@@ -1,0 +1,580 @@
+{
+  "Title": "クリスマス",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "いよいよ『有馬記念』に向かう\nドリームジャーニー。そんな彼女を、\n応援したい――",
+      "ChoiceDataList": [
+        "（ジャーニーの力になりそうなのは……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ふと思いつく。クリスマスも近い……\nであれば、彼女のための、\nパーティーをするのはどうだろうか――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "――で。\n貴様が、主催する……と？",
+      "ChoiceDataList": [
+        "あ、ああ……",
+        "う、うん……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ドリームジャーニーは身内――\n大切な人に囲まれている時に、\nとてもリラックスしているようだ。",
+      "ChoiceDataList": [
+        "彼女の大切な人を呼びたくて……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "……――",
+      "ChoiceDataList": [
+        "……む、難しいかな？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "馴れ馴れしい口を利くな。\nただ、献上せよ。",
+      "ChoiceDataList": [
+        "え……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "呆けるな。\n――企画書だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "招待客、食事、場所、進行……\n姉上に適うか、余が目を通してやる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "今すぐ、持って参れ。",
+      "ChoiceDataList": [
+        "……！ありがとう！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "――……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "ビンゴ大会は外せ。\n姉上は愉しまぬ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "会場もホテルはなしだ。\n学園内でよい。",
+      "ChoiceDataList": [
+        "なるほど……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "プレゼントは……\n古い万年筆か。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "姉上は効率を重視する。\n使わんだろう。",
+      "ChoiceDataList": [
+        "あ、でもそれは……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "……なんだ？",
+      "ChoiceDataList": [
+        "最近、好きみたいで"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ドリームジャーニーは最近、\n手で書き物をすることが増えていた。\nどうもファンレターに影響されているらしい。",
+      "ChoiceDataList": [
+        "きっと使ってくれると……思う"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "そうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "こうして、オルフェーヴルから\nアドバイスをもらいつつ準備を進め……\n迎えたクリスマス当日――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "――これは……。",
+      "ChoiceDataList": [
+        "メリークリスマス、ジャーニー！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "ジャーニー！\nウリ坊、栗坊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "なんですのそれは！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "コホン。メリークリスマスですわ、\nジャーニーさん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "……清らかな挨拶はもう十分だろう。\n早く乾杯しようぜ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "アンタと遊べるんだろ？\n……ヒリつかせてくれよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "――姉上。\n今宵は、大いに愉しめ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……オル。\nお前が？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "いや。\nそこのが、よく働いた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "労ってやるといい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "トレーナーさん……\nありがとうございます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "私のために、用意してくださったのですね。\n素敵なゲストまで、呼んでいただいて……。",
+      "ChoiceDataList": [
+        "まだゲストは揃ってないぞ",
+        "まだゲストは揃ってないよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "おや……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "その時、ノック音がした。\n入ってきた人物2人を見て……\nドリームジャーニーは、顔を綻ばせた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "こんにちは。\nメジロマックイーンです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "ジャーニーさんとオルフェさんの……\nご両親でいらっしゃいますわね。\nお会いできるのを楽しみにしておりました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "――どもっス。ゴルシちゃんっス。\nお近づきの印に……どぞ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "か、かしこまってますわ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "――……K。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "どうした？\n早う。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "……その余裕の態度。\n真実か、あるいは虚勢か……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "ふん。ならば、叫ぶがよい。\n――敗北を。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "――……今ので、腹が決まった。\nアンタは……“偽の王”だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ナカヤマフェスタ",
+      "Text": "ダウト！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "2人",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "2人とも、\nすごい迫力ですわね……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "んじゃアタシのばーん！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ゴールドシップ",
+      "Text": "A！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "メジロマックイーン",
+      "Text": "ダウッ…………\n…………？？？？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ふふ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "皆、楽しそうですね。",
+      "ChoiceDataList": [
+        "一緒に楽しんでおいでよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "いえ、ここがいいんですよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "楽しそうな皆を、\n眺めていられる……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ありがとうございます、\nトレーナーさん。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "この景色……\n私の全て――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "これ以上ない、\n祝福だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "パーティーが進み……\n先に帰るというご両親を、\nドリームジャーニーと見送った。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "では、戻りましょうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……ああ、その前に。\nお尋ねしたいことが。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "どうですか。\n貴方は、楽しんでいらっしゃいますか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "クリスマスの夜を。",
+      "ChoiceDataList": [
+        "もちろん！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "であれば、よかった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "貴方もまた……\nそこに、いるのですから。",
+      "ChoiceDataList": [
+        "……？どういうこと？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "そういうことです。\nふふ……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "トレーナー室へと戻る途中、ふと……\n彼女の香水が、普段より強いことに気づいた。\nそのことに軽く触れると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ああ……先ほどつけ直したのですが……。\nプッシュしすぎましたかね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "パーティーに、思いのほか\n浮かれていたようです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "不快にさせてしまっていたら、\n申し訳ございません。",
+      "ChoiceDataList": [
+        "いや……いい香りだよな",
+        "ううん……いい香りだよね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……お好きですか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "言われて考える。かつては、少し\n恐れとともに思い出すこともあった……\nだが今は、当たり前に寄り添っている香りだ。",
+      "ChoiceDataList": [
+        "ああ、好きだな",
+        "うん、好きだよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……目を瞑って。",
+      "ChoiceDataList": [
+        "え？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "手を――差し出してください。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ドリームジャーニーに、じっと見つめられる。\n薄暗闇の中、その表情は読めない……\n久々に、背筋の粟立つものを感じる。",
+      "ChoiceDataList": [
+        "（でも……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――ゆっくりと、目を閉じる。\n手を前に差し出し、体の力を抜いた。\n彼女に全てを預ける……意思表示だ。",
+      "ChoiceDataList": [
+        "（従属ではなく、信頼として）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……いい子だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "では、失礼します。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "ひやりと冷たいものが、手首に触れる。\nそのままプシュッという音がして……\nいつもの香りを、近くに感じた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "メリークリスマス、\nトレーナーさん。",
+      "ChoiceDataList": [
+        "これは……君の香水",
+        "これは……貴方の香水"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ええ。\nそのまま、差し上げます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "貴方にこれをプレゼントする日がくるとは……\n思いもしませんでした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "香りは……\n重要ですから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……本来。\n貴方と私を、結ぶものはありません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ですが、今……\n同じものを、纏っている。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "“血”のような、\n濃い香りを――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

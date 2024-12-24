@@ -1,0 +1,615 @@
+{
+  "Title": "黄金色の憧れ",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――ドリームジャーニーのデビュー戦が迫る\nある日のこと。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……今日はドリームジャーニーに\n自分のほうでまとめたデビュー戦の\nシミュレーションを確認してもらっていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ドリームジャーニーは恐ろしく聡明だ。\n半端な情報では彼女のプラスにならないため、\n内心緊張していたのだが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "――……なるほど。\nそして第4コーナー時点では\nここまで進出しておく必要がある、と。",
+      "ChoiceDataList": [
+        "ああ。…………参考になったか？",
+        "うん。…………参考になったかな？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……ええ。とてもなりましたよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "確かに、私の脚質や他出走ウマ娘を鑑みると、\nトレーナーさんが提案してくださった\nこのプランが1番合理的ですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "まとめていただき、ありがとうございます。\n残る期間ではこのシミュレーションに沿って\nトレーニングさせてもらえませんか？",
+      "ChoiceDataList": [
+        "ああ、わかった……！",
+        "うん、わかった……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "少し、ほっとした。\n早速このあとのトレーニングについて\nプランを共有しようとすると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者",
+      "Text": "――お忙しいところすみません！\nドリームジャーニーさんと、\nそのトレーナーさんですよね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "現れたのは1人の記者だった。\nその首には学園で発行された\n取材の許可証が提げられている。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者",
+      "Text": "実は私、今年デビューするウマ娘の皆さんの\n特集記事を組んでいるのですが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者",
+      "Text": "ドリームジャーニーさんに\nぜひお話を伺いたく！\u3000よろしければ、\n少しお時間をいただけないでしょうか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……まだトレーニングを始める前でしたし、\n私は構いませんよ。\nトレーナーさんさえよければ、ですが。",
+      "ChoiceDataList": [
+        "俺も、ジャーニーが大丈夫ならOKだよ",
+        "私も、ジャーニーが大丈夫ならOKだよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "では、決まりですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "――それにしても、驚きました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "まさか私に取材してくださる方がいるとは。\n……ご覧のとおりパッとしないウマ娘なので。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者",
+      "Text": "そんなご謙遜を！\n私としてはデビュー前のウマ娘で、\n1番注目していますよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者",
+      "Text": "なにせ、一目見て\nすぐにピンときましたからね……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者",
+      "Text": "ドリームジャーニーさんの走りはずばり、\nあの“黄金を見たウマ娘”――\nステイゴールドの影響を受けていると！",
+      "ChoiceDataList": [
+        "……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……恐れ入ります。\nお察しのとおり、あの方は私の憧れなんです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者",
+      "Text": "やっぱり！\n実は私、彼女の大ファンなんですよ！\nずっとレースを追いかけていて……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者",
+      "Text": "それでステイゴールドさんを彷彿とさせる\nドリームジャーニーさんには、ぜひぜひ\n今後の意気込みをお伺いしたかった訳です！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "それは――\n…………光栄です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者",
+      "Text": "早速ですが、まずは\nデビュー戦について――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……その後の取材は、ドリームジャーニーが\n澱みなく応対し、無事に終わったのだった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……後日。\n取材をもとにした記事が公開され――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記事の本文",
+      "Text": "『――ドリームジャーニーは\n多くの部分でステイゴールドの影響を\n受けていると自称した』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記事の本文",
+      "Text": "『その走りは確かに、黄金にたどり着いた\nあのウマ娘の姿を、我々の中に蘇らせる――』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "レースファンA",
+      "Text": "――へぇ、このドリームジャーニーって子、\n確かにステイゴールドに\n走りの雰囲気似てるな……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "レースファンB",
+      "Text": "――『憧れ』かぁ。\nステゴと同じ路線で走ったりするのかな？\nちょっと期待したいね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "ステゴ"
+      ]
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "…………――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……反応は上々、か。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……ただ、この一節は……少々――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――トレーナー室にて、公開された記事を\n独りで確認していると、\n少しだけ気になる箇所があった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記事の本文",
+      "Text": "『――ステイゴールドといえばやはり、\n長く走り続け、多くの伝説的なウマ娘と\n競った姿が印象的ではなかろうか』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記事の本文",
+      "Text": "『勝つことはできずとも、その走りで\n名レースの盛り上げに一役買った\n名脇役としての活躍は忘れられない』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記事の本文",
+      "Text": "『ドリームジャーニーのこれからのレースは、\n再び我々に彼女を思い出させるものと\nなるのだろうか。注目せざるを得ない――』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……記事にあるステイゴールドの評価は、\n決して間違いではない。\n自分にも、思い当たる節がある。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "けれど……ステイゴールドを\n名脇役として括ってしまうことに疑問はある。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "レースの歴史を大きく見れば\nその側面もあるが……それが全てではないと。\nそう強く思う自分もいるのだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "それに何よりも、\nステイゴールドのことではなく――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "――失礼します。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……おや。トレーナーさんも\n例の記事をご覧になっていたのですか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "でしたら、ちょうどよかった。\nこれについて、\n少々お伺いしたいことがあったので。",
+      "ChoiceDataList": [
+        "伺いたいこと？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "はい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "――“アネゴ”の書かれ方について。",
+      "ChoiceDataList": [
+        "――――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "…………香りが、鼻孔をくすぐる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "――――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ドリームジャーニーはいつもどおりに、\n落ち着いた声色で、こちらに問うてきた、\nはずだった。なのに――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "どうしてか、先の一瞬……\n彼女の声色と表情が、\nまったく違うように感じてしまった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……ああ、そんなに深い意味はありませんよ？\nただの興味本位ですから。気楽に。",
+      "ChoiceDataList": [
+        "……漠然とした感想になるけどいいかな"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "構いません。\n是非、お聞かせください。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ドリームジャーニーに、\nステイゴールドの評価に対しての違和感を、\n覚えたまま話した……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "――そうですか。\nトレーナーさんもそのように感じたのですね。",
+      "ChoiceDataList": [
+        "……もしかして、ジャーニーも？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ええ。……仰るとおり\n書かれてることに間違いはありません。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ですが……本質ではない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "たとえばですが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ある世紀のレース。\n“嵐”が集い、覇を競った、\n今も語り継がれる至高の一戦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "人々が皆、勝者の偉業を称え……\n誰しもが輝きの余韻に浸る中――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "――“アネゴ”は大敗した。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……きっと、“嵐”に対して今の己の\n非力さを痛感させられたはずでしょう。\nなのに――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "…………あの方は、笑っていた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "出走ウマ娘の誰よりも高らかに。\n勝利したウマ娘よりも楽しげに。\n子どものような黄金を瞳に宿して。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……まったく理解できませんでした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "負けたのにどうしてそんなに、\n楽しそうに、嬉しそうに笑えるのか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "まるで理解できなかったからこそ、私は――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "――――畏れ、憧れた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……あの方の内には恐らく、\n善戦も惜敗も、主役も脇役もない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "その戦績に愛着を、役目を見出すのはきっと、\n我々見る側の都合なのでしょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "“アネゴ”というウマ娘の在り方、本質は……\nそれらを超越した部分にあると――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "――私は、そう思っています。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……少々、私情が入り過ぎましたね。",
+      "ChoiceDataList": [
+        "……いいや、聞かせてくれてありがとう",
+        "……ううん、聞かせてくれてありがとう"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "今の話で、自分がステイゴールドに\nかつて感じていた凄み。\nその1つの側面が言語化されたように思える。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ただ、自分の中には……\nステイゴールドの話とは別で、\nまだ思うことがあった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "…………トレーナーさんはこの記事で、\n何か別のことが気になるのですか？",
+      "ChoiceDataList": [
+        "えっと……――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "よければ聞かせてください。\n先ほどまでは私の話を聞いてもらったので。\n次は、私の番かと。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記者",
+      "Text": "『それでステイゴールドさんを彷彿とさせる\nドリームジャーニーさんには、ぜひぜひ\n今後の意気込みをお伺いしたかった訳です！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "記事の本文",
+      "Text": "『ドリームジャーニーのこれからのレースは、\n再び我々に彼女を思い出させるものと\nなるのだろうか。注目せざるを得ない――』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……トレーナーさん？",
+      "ChoiceDataList": [
+        "――もっとジャーニーを見てほしかったんだ",
+        "――もっとジャーニーを見てほしかったの"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……自分には今回の記事が、\nドリームジャーニーというウマ娘を通して\nステイゴールドを懐かしむものに感じられた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "それが、彼女のトレーナーとして……\n正直少し気に入らなかったのだ。",
+      "ChoiceDataList": [
+        "……君は、そうじゃないかもしれないけど",
+        "……貴方は、そうじゃないかもしれないけど"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……ドリームジャーニーはあの日、\n自分にステイゴールドを重ねられて、\n悪い気はしていないように見えた。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "それゆえに、この不満を口にすることで\nどこか水を差してしまうのではないかと、\nそう思うところがあったのも事実だ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "…………なるほど。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "確かに……\n“アネゴ”を重ねられたことについては、\n悪い気持ちはしませんでした。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "かといって、トレーナーさんがそれに対し\n不満を抱くことが『水を差す』とは\n決してなりませんよ。",
+      "ChoiceDataList": [
+        "……そうか",
+        "……そっか"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……それに――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "これから結果を出せば、\n私自身をきっと見ていただけるはずです。\nなので、ご安心ください。",
+      "ChoiceDataList": [
+        "ジャーニー……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ですので……\nまずはデビュー戦、頑張りましょう。",
+      "ChoiceDataList": [
+        "ああ……！",
+        "うん……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "これから先、\nドリームジャーニー自身を見てもらえるよう、\nよりいっそう励もうと心に誓った――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "…………――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……もっと私を見てほしかった、か。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "本当に……お優しい方だ……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

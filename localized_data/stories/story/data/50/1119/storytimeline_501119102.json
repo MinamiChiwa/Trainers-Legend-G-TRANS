@@ -1,0 +1,656 @@
+{
+  "Title": "初詣",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "いよいよ始まる、\nドリームジャーニーのシニア級の年――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "…………――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "…………――",
+      "ChoiceDataList": [
+        "（い、息がつまりそう……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……トレーナーさん。\nどうかそう固くならずに。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "この時間は、ただお茶の味を楽しめれば\nそれでいいのです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "なので……気楽に。",
+      "ChoiceDataList": [
+        "あ、ああ――",
+        "う、うん――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……こうしてオルフェーヴルを交え、\n年始からお茶会をしているのは、\nどうしてだったか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "自分の緊張を和らげる意図で、\n経緯を思い返すことにする――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "――『お茶会』をしませんか。",
+      "ChoiceDataList": [
+        "お茶会？ジャーニーと？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "はい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……私の両親は、仕事の得意先から\n紅茶やコーヒー豆をもらう機会が\n多くありまして。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "実家にいた頃は年末年始などによく、\nいただいたものを家族皆で\n楽しむ会を開いていたのですよ。",
+      "ChoiceDataList": [
+        "へぇ……！仲良さそうでいいね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ふふ、そうでしょう？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……学園に入ってからも、\n実家からそうした頂き物を\n送ってもらっていたのですが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "実家でやっていたようなお茶会は\nできておらず……\n早い話、少し持て余してしまいそうなのです。",
+      "ChoiceDataList": [
+        "なるほど、それで俺を誘ってくれたのか？",
+        "なるほど、それで私を誘ってくれたの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ええ。よろしければ是非、\n一緒に楽しんでいただきたく。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……この時は、ドリームジャーニーの\n役に立てそうだと軽い気持ちで\nオーケーしてしまったのだが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……まさか、妹のオルフェーヴルと\n一緒にお茶会をするとは。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "これまで話す機会が少なかったのと、\n彼女のオーラのようなものにあてられて、\nどうしても背筋を正したくなってしまう――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……うん。\nあのダージリンのファーストフラッシュは\nとてもよかったね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "オルはどうだい？\n気に入ったものはあったかな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "……ハロウスのブレンドだな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ああ！\u3000ミルクティーに合いそうだったね。\nよし、母さんにまた送ってもらえるよう\n言っておくよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "――トレーナーさんは、\n何か気に入るものがありましたか？",
+      "ChoiceDataList": [
+        "あ、えっと、俺は――",
+        "あ、えっと、私は――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……どうかしたかい？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "変わったな、姉上。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "そうだろう？\nだから、お茶も美味しいんだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "…………――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "おい、貴様。",
+      "ChoiceDataList": [
+        "は、はいっ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "今から問う。\n有体に答えよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "――貴様がトレーナーとして、\n最も重きを置くもの。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "それは、何だ。",
+      "ChoiceDataList": [
+        "――――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……間違いない。\n自分は今、オルフェーヴルに試されている。\nそれを直感した。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "だからこそ、\n真剣な答えとして浮かんだのは――",
+      "ChoiceDataList": [
+        "自分と担当ウマ娘の心身の健康",
+        "トレーナーとしての確かな実力",
+        "担当ウマ娘への絶対の信頼"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ドリームジャーニーは“アネゴ”のように、\n長くこのトゥインクル・シリーズを\n走り続けるつもりでいる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "それを達成させるためにも、彼女と、\n彼女を支えなければならない自分の心身は、\n常に気をつかって維持している。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "『時間と体は、“旅”の限られた資本』。\n旅において、体は前に進むために\n何より必要なものだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "それは、自分とドリームジャーニーの中で\n1つの確固たる方針となっていた――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "……“旅”をするが故、か。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "では、姉上が“旅”を望もうとも、\nそれが叶わぬ身体となってしまったら、\n貴様はどうする。",
+      "ChoiceDataList": [
+        "……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その状況を想像し、胸に一瞬、\n引き裂かれるような感覚が走る。\nけれども――",
+      "ChoiceDataList": [
+        "ジャーニーが望むのならば、再起の道を探す"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そして、そもそもそんな状況に\n陥ってしまう前に、トレーナーとして――",
+      "ChoiceDataList": [
+        "必ず、ジャーニーを守ってみせる"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "…………言うは易し。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "然らば――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "そのすべてをもって、\n貴様の言葉を真にせよ。",
+      "ChoiceDataList": [
+        "――――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ドリームジャーニーは非常に思慮深く、\n実力のあるウマ娘だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "トレーナーとして彼女と共に在るためには、\n誰にも、彼女自身にも文句を言わせない程の\n確かな実力がいる……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "これまでそうしてきた自信がある。\nそして、これから先はもっと\nトレーナーとして高みを目指すつもりでいる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そうして初めて、彼女と共に\n“一筋の黄金”を見つけられるはずだから――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "……力の重きを知るはよい。\nだが――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "姉上が貴様より力ある者を\n新たに見つけ、選ぶとしたらどうする。",
+      "ChoiceDataList": [
+        "……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "その状況を想像し、胸に一瞬、\n引き裂かれるような感覚が走る。\nけれども――",
+      "ChoiceDataList": [
+        "ジャーニーがそう望むのなら、受け入れる"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "1人のトレーナーとして、\nウマ娘が己の夢を叶えるために選んだ道は、\n尊重するべきだろう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "…………だが。\nこれまでドリームジャーニーと共に\n“旅”をしてきた者としては――",
+      "ChoiceDataList": [
+        "――そんな相手は、見つけさせない"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "常にドリームジャーニーにとって\n最良のトレーナーで在り続ける。\nその覚悟は、もうしてあるのだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "…………言うは易し。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "然らば――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "そのすべてをもって、\n貴様の言葉を真にせよ。",
+      "ChoiceDataList": [
+        "――――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "トレーナーは担当ウマ娘の\n実力、夢への姿勢、秘めた可能性、\nその全てを信頼し――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "彼女たちならばきっと勝てると、\n夢を叶えられると、どこまでも成長できると、\nそう信じているからこそ全力で仕事ができる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "それこそ世界で1番信頼してこそ、\n彼女たちもまたトレーナーに夢を預けられる。\n……担当契約とは本来そういうもののはずだ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……確かに自分は、ドリームジャーニーの\nはかり知れない部分について、\nかつて恐れていたかもしれない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "――けれど、今は違う。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "そんな、はかり知れない所も含めて\nドリームジャーニーというウマ娘の\n強さなのだと理解している。だから――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "今は断言できる。\nドリームジャーニーに対して、\n強い信頼を抱いていると。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "……愚直よな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "されど姉上が貴様を信頼しているかは、\n知る由もあるまい。",
+      "ChoiceDataList": [
+        "……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "確かに、ドリームジャーニーが\n自分をどう思ってくれているかは、\n彼女の聖域だ。しかし、だからこそ――",
+      "ChoiceDataList": [
+        "ジャーニーからの信頼は、重要じゃない"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ドリームジャーニーにとって、\nトレーナーである自分が重要なのは――",
+      "ChoiceDataList": [
+        "俺が有用かどうかだ",
+        "私が有用かどうかだよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "信頼は、まず自分からすべきだ。\n彼女からの答えは、積み重ねてきた結果と\n信頼の後にあればそれでいい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "たとえなくても――\nドリームジャーニーの夢が叶うのならば、\nそれが、トレーナーとしての在り方だ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "…………その瞳の光。\nもはや狂信だな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "しかし、色味は悪くない。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "然らばその眼光に誓い、\n貴様の言葉を真にせよ。",
+      "ChoiceDataList": [
+        "――――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "オルフェーヴル",
+      "Text": "……帰る。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "オル、今日はありがとう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……急な質問で、困惑しましたか？",
+      "ChoiceDataList": [
+        "いや、そんなことはないよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "あれはオルフェーヴルなりに、\n姉のトレーナーとして自分が相応しいかを\n確かめたのだと、そう解釈している。",
+      "ChoiceDataList": [
+        "むしろ、問われて嬉しかったぐらいだ",
+        "むしろ、問われて嬉しかったぐらいだよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……きっと、自分が矮小な存在だったら、\nオルフェーヴルがあのように\n直接問うてくることはなかったはずだから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "迷いのない真っ直ぐな言葉で、\nとても心強かったですよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "そんな貴方にだからこそ……\n少し、話しておきたいことがあります。",
+      "ChoiceDataList": [
+        "話しておきたいこと？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ええ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "知ってのとおり、私は妹を家族として、\n1人のウマ娘として、とても敬愛しています。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……敬愛しているからこそ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "示さなければならないと思っています。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "――オルが到達できない領域を、私の走りで。",
+      "ChoiceDataList": [
+        "……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……それは、自分が知る限り初めて見る\nドリームジャーニーの表情、感情だった。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "音を大きく立てないように気をつけながら、\nつばを飲み込む――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "……今話したこと、\n忘れないでいてくださいね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "トレーナーさんだけですから。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "…………さて。\nこの後はせっかくですから\n初詣にでも行きませんか？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "私たちの“旅”が、\n今年もよいものになるように、ね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……\u3000\u3000姉\u3000\u3000と、\u3000\u3000妹\u3000\u3000。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "2人の間に存在するもの。それを自分はまだ、\nまったく窺い知れていないことを実感する。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "だけれども――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "……迷うことなく、進もう。\nシニア級の年も、ドリームジャーニーと共に。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "同じ“旅”をする者として――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

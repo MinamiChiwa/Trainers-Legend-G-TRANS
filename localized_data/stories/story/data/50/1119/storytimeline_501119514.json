@@ -1,0 +1,335 @@
+{
+  "Title": "『遠征支援委員会』へようこそ",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ある日、遠征支援委員会を訪ねると――\n先客がいた。",
+      "ChoiceDataList": [
+        "遠征の相談中？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ええ。カレンさん、\n夏の北海道に興味がおありのようでして。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "遠征プランにプラスして、\n映えスポットも探していらっしゃるのです。",
+      "ChoiceDataList": [
+        "映えスポット……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "はいっ。遠征の思い出を、\nSNSにも残したくて♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "記録は大切ですからね。では、早速……\nいくつか提案させていただきます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "まずは函館レース場への遠征について。\n午前中にお時間があるようでしたら、\n函館駅前の、朝市をオススメします。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "朝市！\u3000北海道っぽ～い！\n海鮮丼とか、よくバズってますよね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "夏の旬のネタですと、イカでしょうか。\n夜は港からイカ釣り漁船の明かりが\nよく見えて、とても綺麗なようです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "なるほど！\n朝も夜も要チェック、と！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "それでは、レース場へ向かいましょう。\n函館レース場は、日本に現存する\nレース場の中で、最も長い歴史を持ちます。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "更にURAの所有するレース場の中で唯一、\nスタンドから海を望むこともできるんですよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "へえ～！\u3000海とレース場とカレン……\nうん、よさそう♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "きっと特別な1枚になりますよ。\n更に、こちらには\n出走ウマ娘が利用できる温泉もあります。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "トレーナーさんも利用したい場合は、\n近くに温泉宿もございますので、\nご一緒に楽しむことも可能です。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "函館レース場には、\nウッドチップコースもありますので、\n調整もこちらで済ませるのがよいでしょう。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ひとまず……こんなところで、\nいかがでしょうか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "まずは、って情報量じゃなかったですよ！\nパッとこれだけ出てくるの、すご～い！",
+      "ChoiceDataList": [
+        "本当に詳しいな",
+        "本当に詳しいね"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "いえ、そこまででは……\n遠征支援委員会として、最低限の知識は\n備えるよう意識しているだけですよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "素敵な委員会ですよね。\nみんな助かってると思います♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "そう仰っていただけるのは、光栄ですが……\n利用者はそう多くなく。広報不足ですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "あれ、確か委員会のウマスタアカウント、\nありますよね？",
+      "ChoiceDataList": [
+        "そうなのか？",
+        "そうなの？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "はい！\u3000投稿も充実しててー、\nフォロワーさんもけっこういましたよね？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ありがたいことに。ですが……\n委員会に足を運ぶまでは、至らないようです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "私にも、カレンさんのような……\n豊富なアイディアがあれば、いいのですが。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "……なるほど♪\u3000そしたら、\nカレンとコラボ配信とかどうでしょ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "ジャーニーさんの投稿って、\nすっごく洗練されてて、\nわかりやすいじゃないですか。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "もしかするとそれで逆に、ちょびーっと！\n格式高く感じられてるのかもですね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "けど、実際はこんな雰囲気なんだよーって、\n配信で伝えたら、みんな来てくれるかも！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "なるほど。さすがカレンさんです。\nコラボ配信、是非やらせてください。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "なるべく多くの方の、\nお力になれればと思っていますので。",
+      "ChoiceDataList": [
+        "どうしてそこまで……？",
+        "じゃあ、俺が撮影するよ",
+        "じゃあ、私が撮影するよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "なるべく多くの方の、\nお力になれればと思っていますので。",
+      "ChoiceDataList": [
+        "どうしてそこまで……？",
+        "じゃあ、俺が撮影するよ",
+        "じゃあ、私が撮影するよ"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "ドリームジャーニーの言葉には、\n対象を問わない献身を感じる。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "なぜ……とは、\n不思議なことを仰いますね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "遠征はとても重要なものです。\nそして万全な旅は、万全な成果に繋がります。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "どなたであれ、よい旅をしていただきたい……\n手助けしたいと思うのは、普通のことですよ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "わぁ、素敵～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "ジャーニーさんの志を知ったら、\nきっとみんな利用したくなると思いますよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "そう願っています。\n――配信、よろしくお願いいたします。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘A",
+      "Text": "――ねね、カレンちゃんの配信見た？\nジャーニーさんって、本当に優しいんだね。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ウマ娘B",
+      "Text": "ね、なんで今まで敬遠してたんだろ……？\n今度行ってみようかな。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "モノローグ",
+      "Text": "配信があった翌日以降、\n遠征支援委員会に足を運ぶウマ娘が、\nちょっとずつ増えている……らしい。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ありがとうございます。\nお願いします。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "――というわけで！\u3000今日は\n遠征支援委員会からお送りしてま～す！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "お！\u3000『気になってた委員会』！\n『なんとなく行けず……紹介うれしいです』\nコメント続々きてますよ！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "ご関心を寄せていただき、\nありがとうございます。\nご質問など、なんでも受けつけますよ――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "配信、かなり感触よかったですね！\nきっとたくさんの子が来てくれますよ♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "重ね重ね、ありがとうございます。\nカレンさんの高い影響力のおかげです。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "以前から、SNSの運用や対人関係など……\n貴方からは学ぶことが多いと感じていました。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "ドリームジャーニー",
+      "Text": "またいつでも、委員会へいらしてください。\n……今後ともよい付き合いを、お願いします。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "うれしいっ。\nカレンこそ、よろしくお願いします！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "カレンチャン",
+      "Text": "カレンも、ジャーニーさんみたいな人……\n大好きでーす♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
