@@ -1,0 +1,292 @@
+{
+  "Title": "秘密的侧脸",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "某天，特雷森学园的走廊上\n看见了几个兴奋地讨论什么的赛马娘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "赛马娘A",
+      "Text": "看到了吗！？\u3000那两位认真的表情！\n到底在谈什么事情呢～～！",
+      "ChoiceDataList": [
+        "（那两位……？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "很在意就透过窗外观察，\n离得远听不到在说什么，\n但是那两个人确实表情很认真。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "赛马娘B",
+      "Text": "一定是在聊高端的比赛战术！\n因为丸善学姐，\n总是教给我好厉害的比赛知识！",
+      "ChoiceDataList": [
+        "（真厉害啊，我也要努力了，不能输给她！）",
+        "（真厉害啊，我也要努力了，不能输给她！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "――我知道了。\n那我也不会手下留情的哦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善＆CB",
+      "Text": "石头，剪刀――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善＆CB",
+      "Text": "布！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "讨厌，不是吧！？\n我以为一定能赢的～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "千明代表",
+      "Text": "哼哼，约定就是约定。\n今晚宴会，拜托你作为学园代表出席了哦？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "呜～～，我不擅长应付别人的抬举啦～。\n好紧张的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "哎。宴会开始前，\n该怎么打发时间呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "……啊！\u3000对了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "我～说～。\n休息一下和我聊聊天嘛？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "最新的景点啦～，流行的甜点啦～。\n聊聊天说不定灵感就有了哦？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白高峰",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "啊～～，好了好了对不起！\n不会打扰你的再让我待一会吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "我是真想和小高峰\n再多待一会的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "呼～～，好厉害啊。\n培育得这么好啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城王牌",
+      "Text": "是吧！\n……话说，光是看着也没意思吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城王牌",
+      "Text": "方便的话一起来种地嘛。\n我可以借你工具的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "诶诶诶～～，我能行吗～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "自家的绿色植物都枯死了，\n我觉得我肯定，\n和绿色的东西相性不好吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城王牌",
+      "Text": "哈哈哈！\n那你来这是干嘛的？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "那当然是想和小ACE\n说说话啦～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "一个人好孤单的，想有人理理我！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城王牌",
+      "Text": "什么啊，真爱撒娇啊。\n明明在后辈面前，\n还是个相当可靠的前辈。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "那和这个是两码事。\n我总不能在那些孩子面前显露出来吧？\n我其实――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城王牌",
+      "Text": "――等一下，丸善。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（窸窸窣窣――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鲁道夫象征",
+      "Text": "两位都在这里啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鲁道夫象征",
+      "Text": "我收到了上好的茶叶，悠哉游哉――\n稍微休息一下如何？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "……什么啊～，原来是你。\n害我紧张了一下！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鲁道夫象征",
+      "Text": "怎么了？\n难道，我来的不是时候吗。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城王牌",
+      "Text": "没事。\n只是觉得可以尽情地享受喝茶的乐趣了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "没错没错♪\u3000来悠悠闲闲地，\n进行成熟女性的茶话会吧♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "某天，看见了丸善斯基她们正往\n食堂方向走去。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "肯定是像之前看到的那样，\n要进行认真的交谈吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "赛马娘A",
+      "Text": "哎……这点事都做不好……\n我，……真的是没用啊……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "――哎呀。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "嗨！\u3000怎么了可爱的妹妹？\n有什么烦恼吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "赛马娘A",
+      "Text": "丸善学姐！？\u3000那，那个……\n是训练内容上的烦恼。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "是吗？\n不介意的话可以找我商量哦？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "丸善斯基",
+      "Text": "就是这样小ACE，我先走了哦。\n……事情后面再聊♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "葛城王牌",
+      "Text": "知道了。\n好好当你的好学姐吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "某天，在训练跑道\n看见了接受后辈们请教的\n丸善斯基。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "不禁感叹，什么时候见到她，\n都是这么可靠。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
