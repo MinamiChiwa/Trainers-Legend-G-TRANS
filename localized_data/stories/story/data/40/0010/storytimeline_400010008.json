@@ -1,0 +1,459 @@
+{
+  "Title": "“The Classics”",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "第1次的『Dream Fest』之后——\n世间的对比赛的关注度比以前更高了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "行人A",
+      "Text": "——啊，对了！\n就是这孩子，<chrname>！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "行人A",
+      "Text": "我完全沦陷了！\n以后我要为她加油。好久没去竞马场了，\n看来又要开始频繁光顾了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "走在街上，\n能听到对『Dream Fest』的期待，\n以及对整个闪耀系列赛的热烈讨论。",
+      "ChoiceDataList": [
+        "（嗯，气氛越来越热烈了！）",
+        "（嗯，气氛越来越热烈了！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "行人B",
+      "Text": "不过我们回来得正是时候啊。\n因为马上就要……——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "赛马娘比赛中，\n有按世代划分的“级别”。\n第一年是少年级，第二年是经典级。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "之后则属于古马级。\n其中特别重要的是，经典级独有的、\n一生只有一次的赛事——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "古马级"
+      ]
+    },
+    {
+      "Name": "前辈训练员",
+      "Text": "——今年也要开始了！\n经典级比赛……！",
+      "ChoiceDataList": [
+        "好紧张啊……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院训练员",
+      "Text": "虽然每场比赛都很有趣，\n但经典级赛事的热度是特别的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院训练员",
+      "Text": "在实力相当的选手之间，\n真正的实力被考验，激烈碰撞！\n那样的热情真是惊人！",
+      "ChoiceDataList": [
+        "我明白的！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "前辈训练员",
+      "Text": "还有就是，\n会不会有大记录诞生呢？\n真让人在意啊～。",
+      "ChoiceDataList": [
+        "三冠，是吗……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "王道路线的『皐月赏』『日本德比』\n『菊花赏』，达成经典三冠——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "皐月赏",
+        "菊花赏"
+      ]
+    },
+    {
+      "Name": "独白",
+      "Text": "或者是后冠路线的『樱花赏』『橡树大赛』\n『秋华赏』，达成三后冠……",
+      "ChoiceDataList": [
+        "三冠赛马娘，可是最高的荣誉啊！"
+      ],
+      "ColorTextInfoList": [
+        "后冠",
+        "樱花赏",
+        "橡树大赛",
+        "秋华赏",
+        "三后冠"
+      ]
+    },
+    {
+      "Name": "后辈训练员",
+      "Text": "啊！话说回来，\n提到经典三冠……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "后辈训练员",
+      "Text": "圣烈特！我第一次亲眼见到了她！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "——圣烈特。\n史上第一位“经典三冠赛马娘”。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "她在达成三冠后，\n仅仅一年之后就结束了现役生涯。\n只留下了耀眼的光芒——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "一直活跃在舞台上的海塞克、\nURA职员和学园相关人员\n都能听到动向的速度象征……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "与她们不同，\n退役后的圣烈特几乎音信全无。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "后辈训练员",
+      "Text": "从进入这个世界开始我就一直憧憬着她！\n但是，她太传奇了……没想到真的能见到！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院训练员",
+      "Text": "她的父母，我记得……\n是英国的某个贵族吧！",
+      "ChoiceDataList": [
+        "贵、贵族……！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院训练员",
+      "Text": "是的！我从小就在社交界\n听说过她的传闻……真是荣幸！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "前辈训练员",
+      "Text": "哈哈，你们两个真是精神啊。\n我还在紧张，话都说不利索……",
+      "ChoiceDataList": [
+        "（其实我也是……）",
+        "（其实我也是……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "在<chrname>的训练得到帮助的时候\n也是……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣烈特",
+      "Text": "……………………",
+      "ChoiceDataList": [
+        "那个，<nickname>怎么了……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣烈特",
+      "Text": "不。\n只是在看着而已。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣烈特",
+      "Text": "嗯……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "从她那里每天都能学到很多。\n训练的帮助也很到位，非常感激……",
+      "ChoiceDataList": [
+        "真是个谜一样的人物啊……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院训练员",
+      "Text": "……对了！现在，赛马娘\n博物馆正在举办经典三冠特辑展出。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "桐生院训练员",
+      "Text": "好像也有圣烈特小姐的资料。\n说不定能学到一些关于她的东西。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "前辈训练员",
+      "Text": "不错嘛！<chrname>，\n现在已经是经典级了……\n应该能受到不少启发吧。",
+      "ChoiceDataList": [
+        "（赛马娘博物馆……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂热粉丝A",
+      "Text": "——哇，三冠的展览……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老粉丝A",
+      "Text": "对对！超热血的！\n三冠赛马娘可是很少见的，\n深入研究的话，简直是个无底洞啊～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂热粉丝A",
+      "Text": "哎呀，我是『Dream Fest』的新人。\n现在先了解自己的推就够了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老粉丝A",
+      "Text": "不过，要是自己的推成为三冠赛马娘，\n那可是一辈子都忘不了的回忆啊？\n多了解一些，感动也会加倍吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂热粉丝A",
+      "Text": "嗯……嘛，我只是喜欢自己的推而已！\n结果什么的都无所谓。只要她开心地跑，\n那就够了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "和前辈训练员们聊完的第二天。\n我去了东京竞马场旁边的博物馆……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "贵妇人",
+      "Text": "啊啦，您好。",
+      "ChoiceDataList": [
+        "啊，你们两个是一起来的吗——"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黄金巨匠",
+      "Text": "……",
+      "ChoiceDataList": [
+        "——怎么可能啊！",
+        "——怎么可能啊！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "贵妇人",
+      "Text": "巨匠同学似乎也对这次特展感兴趣。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "贵妇人",
+      "Text": "看来您也是……对吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "就这样，我们三人沉默地\n走向了博物馆……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣烈特",
+      "Text": "Welcome, my darlings.",
+      "ChoiceDataList": [
+        "圣烈特小姐……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "贵妇人",
+      "Text": "您好。能见到您真是荣幸。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黄金巨匠",
+      "Text": "……嗯。",
+      "ChoiceDataList": [
+        "（……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "就连黄金巨匠和贵妇人都收敛了态度……\n光是这一点，就能看出圣烈特有多么特别。",
+      "ChoiceDataList": [
+        "那个，为什么您会在这里——"
+      ],
+      "ColorTextInfoList": [
+        "贵妇人"
+      ]
+    },
+    {
+      "Name": "圣烈特",
+      "Text": "请看看吧。刚刚补充了一些资料。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣烈特",
+      "Text": "这是我的相册。\n——刚达成经典三冠时的。",
+      "ChoiceDataList": [
+        "……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黄金巨匠",
+      "Text": "——让我看看吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣烈特",
+      "Text": "“近代赛马娘赛事的发源地”英国。\n以此为范本，整理出的就是——\n经典三冠路线。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣烈特",
+      "Text": "当时，在日本赛马界，\n经典三冠被认为是无法实现的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣烈特",
+      "Text": "“最快”“最幸运”“最强”……\n无法同时满足。于是，为了达成这一切，\n诞生的是——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣烈特",
+      "Text": "——我，圣烈特。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黄金巨匠",
+      "Text": "……——这是，刚刚达成经典三冠的时候吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣烈特",
+      "Text": "Indeed。在岩手的宅邸拍摄的。\n为了展示三冠达成的威光。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "贵妇人",
+      "Text": "真美。\n能感受到骄傲和威严。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣烈特",
+      "Text": "这正是当时日本赛马界所需要的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣烈特",
+      "Text": "比赛不仅仅是激烈的胜负。\n它也是追求荣耀的象征——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣烈特",
+      "Text": "——为了让后来者不迷失方向，\n以耀眼的光芒铺就道路。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣烈特",
+      "Text": "我肩负的使命，仅此而已。\n如今，我可以明确地说。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣烈特",
+      "Text": "“三冠”是日本赛马界最大的伟业。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "两人",
+      "Text": "……――",
+      "ChoiceDataList": [
+        "（多么强大的气势啊……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "仿佛有光环笼罩一般。\n那种压迫感让人说不出话来——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "独自一人时，终于平静了下来。\n再次回想起圣烈特的话……\n突然有了个想法。",
+      "ChoiceDataList": [
+        "（刚才的话，能不能传达给其他人呢）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "——尤其是经典级的赛马娘们。\n不仅仅是经典三冠，每条路线都有其\n荣耀的历史……荣耀本身。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "看到圣烈特的样子，大家一定会\n带着骄傲去挑战比赛。那样的身影——\n一定会让粉丝们热血沸腾。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

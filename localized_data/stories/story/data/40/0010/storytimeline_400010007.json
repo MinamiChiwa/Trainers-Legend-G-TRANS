@@ -1,0 +1,299 @@
+{
+  "Title": "『Dream Fest』Stella之后",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "首次『Dream Fest』——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "在众多闪耀的个性中，\n<chrname>成功夺冠！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "在众多闪耀的个性中，\n<chrname>也坚持跑完了全程。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她的表现，在粉丝中引起了热议——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉丝A",
+      "Text": "<chrname>，真是太棒了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉丝A",
+      "Text": "她的跑姿真是让人着迷。\nlive也很棒♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉丝B",
+      "Text": "太棒了，感觉可以推！\n我也找到了新的推！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉丝B",
+      "Text": "虽然早就知道她的名字，\n但亲眼看到她奔跑的样子，\n简直……太帅了！",
+      "ChoiceDataList": [
+        "（……嗯，感觉不错！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "海塞克",
+      "Text": "训练员先生！",
+      "ChoiceDataList": [
+        "海塞——"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "海塞克",
+      "Text": "哇哇，嘘！",
+      "ChoiceDataList": [
+        "……『小海』！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "海塞克",
+      "Text": "就是这样。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "海塞克",
+      "Text": "……果然还是在意大家的反应吧。\n我也是。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "海塞克",
+      "Text": "嘿嘿，其实我有点在意。\n我一直在想，\n大家是不是都玩得开心……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂热粉丝A",
+      "Text": "——对对，虽然是第一次看……\n比赛真的很有冲击力！\n最重要的是，赛马娘们都超级可爱！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂热粉丝B",
+      "Text": "我懂！\n仔细看的话，决胜服什么的也很有个性……\n我的推超级华丽，表现也超棒！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂热粉丝C",
+      "Text": "看了winning live，\n发现有个可爱的孩子……！\n啊～，我现在还在心跳加速！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂热粉丝C",
+      "Text": "话说回来，既然这么有缘，\n不如交换联系方式吧？\n我们都是观赛新手，一起去看比赛吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "海塞克",
+      "Text": "……嗯嗯。这是第一步，对吧！",
+      "ChoiceDataList": [
+        "没错！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "海塞克",
+      "Text": "啊，对了！<nickname>酱，辛苦了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "海塞克",
+      "Text": "她的个性真的很闪耀。\n—一定是个非常棒的赛马娘！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "电视声音",
+      "Text": "『——因此，备受瞩目的\nDream Fest，下次还会举办吗？\n真是让人期待！接下来是新闻——』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "一个孩子",
+      "Text": "诶……赛马娘比赛啊～。\n说起来我好像还没看过。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "一个孩子",
+      "Text": "爸爸，你以前不是很喜欢吗？\n下次一起去看看吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "一位父亲",
+      "Text": "嗯？唔……爸爸就算了。\n爸爸以前支持的赛马娘，\n现在已经不参赛了……——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "与小海告别，独自一人边走边思考。\n关于传达赛马娘魅力的事，\n似乎已经取得了一定的成果。",
+      "ChoiceDataList": [
+        "（那么，接下来需要的是——）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉丝D",
+      "Text": "——我支持的孩子，\n在那个节日比赛中好像吸引了不少粉丝！\n在社交平台上有很多帖子！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉丝D",
+      "Text": "真是场好比赛啊～，以后肯定会更热闹吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉丝C",
+      "Text": "……谁知道呢。\n虽然节日活动也不错……\n但那些粉丝可能很快就会消失。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉丝C",
+      "Text": "果然还是想看那种激烈的比赛，\n比赛就该是那样的。",
+      "ChoiceDataList": [
+        "（激烈的比赛吗……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "监视器声音",
+      "Text": "『Dream Fest的感想？超有趣的！\n原来有这么多不同的赛马娘啊』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "监视器声音",
+      "Text": "『还会再举办吗？我想去！\n不过，我也想看看那种激烈的比赛？』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "监视器声音",
+      "Text": "『闪耀系列赛，果然还是得有\n那种激烈的比赛才对吧！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "监视器声音",
+      "Text": "『请多尝试各种挑战！\n我会支持你的～！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "速度象征",
+      "Text": "……呵。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "速度象征",
+      "Text": "果然。\n在这之后……——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣烈特",
+      "Text": "——在这之后，是什么？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣烈特",
+      "Text": "『Dream Fest』的下一步发展？\n还是……更远的事情呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "速度象征",
+      "Text": "不，与其说是那样……\n不如说是非常私人的事情。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣烈特",
+      "Text": "哎呀。Secretive……是这样呢。\n和现役时相比，你有些变化了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣烈特",
+      "Text": "没错，有点……\n“更有气质”了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "速度象征",
+      "Text": "……真是荣幸。\n你竟然还记得我现役时的样子。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣烈特",
+      "Text": "Of course。你也……\n走上了“我的道路”。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣烈特",
+      "Text": "每年，每年……我都在看着。\n——明年，当然也是。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "速度象征",
+      "Text": "……『Dream Fest』的下一步发展，\n难道就在你心中？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣烈特",
+      "Text": "Indeed。\n我，已经决定了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣烈特",
+      "Text": "我会出色地完成新的使命。\n—就像那时一样。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
