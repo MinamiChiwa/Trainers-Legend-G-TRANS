@@ -1,0 +1,30 @@
+{
+  "Title": "目标比赛决定！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "漂亮地赢得了目标比赛！\n在此基础上，与<chrname>一起\n考虑下一个目标——",
+      "ChoiceDataList": [
+        "选择选项①",
+        "选择选项②",
+        "选择选项③",
+        "选择选项④",
+        "选择选项⑤",
+        "选择选项⑥"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "——就这样，下一个目标比赛决定了！\n通过不断训练，争取新的胜利吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

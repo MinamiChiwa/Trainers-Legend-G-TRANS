@@ -1,0 +1,25 @@
+{
+  "Title": "Brimming with Motivation",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣烈特",
+      "Text": "<chrname>的表情……\n呵呵，充满了干劲呢。",
+      "ChoiceDataList": [
+        "（说起来……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "<chrname>现在的状态很好！\n让训练更加充实，\n期待她进一步的成长吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

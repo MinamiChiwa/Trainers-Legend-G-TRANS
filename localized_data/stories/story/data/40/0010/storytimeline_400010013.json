@@ -1,0 +1,332 @@
+{
+  "Title": "『Dream Fest』Pride之后",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "决定最强的一战，一生一次的大对决。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "（哇啊啊啊啊啊啊……！！）",
+      "ChoiceDataList": [
+        "上吧，<nickname>——！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "赢得这场荣誉之战的是——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉丝们",
+      "Text": "呜哦哦～～！！\n<nickname>——！恭喜你！",
+      "ChoiceDataList": [
+        "（没错，那就是……——）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "接受喝彩的<chrname>的身影……\n在出道前描绘的蓝图，正在成为现实。",
+      "ChoiceDataList": [
+        "（那么……向着更远的景色——！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "<chrname>竭尽全力跑完了。\n虽然没有赢得胜利——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉丝们",
+      "Text": "呜哦哦～～！！\n<chrname>——！太好了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣烈特",
+      "Text": "……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣烈特",
+      "Text": "<chrname>……\n那个孩子，或许……——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "——粉丝的热情，\n飞出了赛场……继续无限蔓延。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉丝A",
+      "Text": "哦哦哦……！\n就是这个，这就是赛马娘比赛！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉丝A",
+      "Text": "真心的碰撞！绝不退让的心情！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉丝B",
+      "Text": "啊啊～，为什么没去现场呢！？\n明明知道一定会后悔的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉丝A",
+      "Text": "……好，决定了！！\n明年——GⅠ全制霸吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "GⅠ"
+      ]
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "啊——，小北她们！\n看了吗，『Dream Fest』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "小北"
+      ]
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "真是场激烈的战斗呢。\n大家的比赛，想要更认真地加油！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄驹",
+      "Text": "啊，谢谢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "里见光钻",
+      "Text": "好厉害啊，小北。\n大家都在关注着……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄驹",
+      "Text": "嗯！感觉燃起来了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄驹",
+      "Text": "……燃起来了～～！！\n走吧，光钻！一起跑吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "光钻"
+      ]
+    },
+    {
+      "Name": "里见光钻",
+      "Text": "嗯嗯。\n哦—！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "热情呼唤着更多的热情——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "——好！\n这就是全部了。",
+      "ChoiceDataList": [
+        "这些，都是给<nickname>的……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "骏川手纲",
+      "Text": "是的，是粉丝信！\n请一定要交给她♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣烈特",
+      "Text": "――Wonderful.",
+      "ChoiceDataList": [
+        "圣烈特小姐！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣烈特",
+      "Text": "<chrname>，拥有着强大的凝聚力。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣烈特",
+      "Text": "与最强相称……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣烈特",
+      "Text": "我感受到了。\n这个『Dream Fest』……不。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣烈特",
+      "Text": "今后闪耀系列赛的关键点——\n就是<chrname>。",
+      "ChoiceDataList": [
+        "……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣烈特",
+      "Text": "就像我们被称为“Legend”\n一样……——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣烈特",
+      "Text": "下一个被这样称呼的，\n或许就是你的赛马娘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "<chrname>的关注度，确实在提高。\n她将名留史册，并且——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "我相信她会成为与圣烈特她们\n并肩的赛马娘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "——想象着她那堂堂正正的举止，\n心中为之颤抖。",
+      "ChoiceDataList": [
+        "（那正是……我所期望的景色）",
+        "（那正是……我所期望的景色）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "一个孩子",
+      "Text": "——呐，呐！很厉害吧？\n刚才的比赛，和爸爸那时候一样\n激烈吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "一位父亲",
+      "Text": "啊，真是厉害啊。\n不，老实说我很惊讶。\n现在水平已经这么高了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "一位父亲",
+      "Text": "记录也在不断更新，\n训练环境也在进化……\n哎呀，真的很厉害呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "一个孩子",
+      "Text": "对吧！下次一起去吧！\n爸爸，你很了解吧？教教我各种事情吧！\n比如以前的赛马娘什么的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "一位父亲",
+      "Text": "……以前的——……是吗。\n已经过了那么久的时间啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "一位父亲",
+      "Text": "“那个孩子”的时候，\n没能实现……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "一位父亲",
+      "Text": "——如果这样继续进化下去，\n也许总有一天能到达……“世界”。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "速度象征",
+      "Text": "嗯嗯。\nThank you. See you soon.",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "海塞克",
+      "Text": "不愧是速度象征小姐，\n英语也很棒呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "速度象征",
+      "Text": "谢谢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "速度象征",
+      "Text": "从现役时就开始学习了。\n不变得更好可不行。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "速度象征",
+      "Text": "那么，海塞克君。\n又有点有趣的事情要发生了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "海塞克",
+      "Text": "诶？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "速度象征",
+      "Text": "只要行动，\n时代和世界都会改变……\n眼前的景色就是证明。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "速度象征",
+      "Text": "没错，“总有一天”一定会到来。\n只要我们挑战……——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "速度象征",
+      "Text": "——无论何时，未来才是希望。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
