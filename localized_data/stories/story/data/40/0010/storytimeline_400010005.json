@@ -1,0 +1,580 @@
+{
+  "Title": "闪耀吧，我们！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "一边想着马娘的个性一边走在学园里，\n我再次意识到这里有各种各样的孩子。",
+      "ChoiceDataList": [
+        "（比如说——）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "春丽",
+      "Text": "好——！\n加油吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "春丽——充满活力的她，\n即将挑战模拟比赛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "春丽"
+      ]
+    },
+    {
+      "Name": "马娘们",
+      "Text": "乌拉拉酱！\n拿下第一名吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "乌拉拉"
+      ]
+    },
+    {
+      "Name": "春丽",
+      "Text": "嗯！谢谢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "许多马娘为她加油……\n究其原因，是因为她的天真烂漫——\n不仅于此。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "春丽",
+      "Text": "嘿咻！嘿咻！嘿咻！嘿咻！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "文静的马娘",
+      "Text": "乌拉拉前辈～！\n就这样保持下去——！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "然而……逐渐被领先的选手甩开。\n老实说，她并没有比其他孩子\n更突出的实力。尽管如此——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "春丽",
+      "Text": "呼——！嘿咻！嘿咻！嘿咻！！！！",
+      "ChoiceDataList": [
+        "加油……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "春丽输了。\n但她直到最后都没有放弃，\n全力奔跑，赢得了温暖的掌声。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "春丽",
+      "Text": "又输了！\n不过，下次一定要拿第一名！",
+      "ChoiceDataList": [
+        "（她的努力给了我们勇气——）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "文静的马娘",
+      "Text": "哈～……乌拉拉前辈，真棒啊。\n嗯，我也要加油！",
+      "ChoiceDataList": [
+        "你是乌拉拉的粉丝吗？",
+        "你是乌拉拉的粉丝吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "文静的马娘",
+      "Text": "是的。我来自九州……\n乌拉拉前辈也是那边的吧。\n所以，有种亲切感。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "文静的马娘",
+      "Text": "想像前辈那样，\n即使输了也要笑着努力……\n想为家乡赢得荣誉。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "开朗的她也是拥有独特个性的马娘。\n每个马娘都有自己独特的地方。",
+      "ChoiceDataList": [
+        "（最了解这种个性的……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "这时，突然灵光一闪！\n从粉丝那里听听她们支持的人——\n“推”的故事，应该会有参考价值。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "——因此，\n和秋川理事长商量了一下……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "批准！\n为了『粉丝感谢日』，\n特雷森学园将开放大门！",
+      "ChoiceDataList": [
+        "还有，有个请求……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "不仅想让到场的粉丝，\n还想让更多人了解马娘们的个性。\n所以——",
+      "ChoiceDataList": [
+        "可以在SNS上发布介绍视频吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "秋川理事长",
+      "Text": "当然！\n——批准！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "于是，在『粉丝感谢日』，\n将会特别允许粉丝们参观马娘们\n的训练场景。",
+      "ChoiceDataList": [
+        "（好，听听各种故事吧——）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "东商变革",
+      "Text": "不——要——！！！",
+      "ChoiceDataList": [
+        "！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "东商变革",
+      "Text": "不要！\n我——不——要——跑——！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "教官A",
+      "Text": "不，但是……\n想让粉丝们看看你的实力——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "东商变革",
+      "Text": "所以说，现在展示也没意义！\n要展示就在赛场上！因为——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "东商变革",
+      "Text": "“真正的比赛”才是最厉害的魔法！\n在这里，我不会跑！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黄金船",
+      "Text": "哦，真巧啊，东商。\n我也正好有空。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "东商"
+      ]
+    },
+    {
+      "Name": "教官A",
+      "Text": "啊！\n又来了个问题儿童……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "东商变革、黄金船。\n两人都是个性十足、\n魅力无法被简单定义的马娘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "东商变革",
+        "黄金船"
+      ]
+    },
+    {
+      "Name": "黄金船",
+      "Text": "喂，反正闲着也是闲着……\n来点刺激的，怎么样？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "东商变革",
+      "Text": "！\n喂，那是……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黄金船",
+      "Text": "山舞！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "东商变革",
+      "Text": "是比赛吧！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黄金船",
+      "Text": "那是什么！？\n来玩山舞吧！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "东商变革",
+      "Text": "不——要——！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黄金船",
+      "Text": "山——舞——！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "两人",
+      "Text": "——啊啊啊啊！！",
+      "ChoiceDataList": [
+        "（好强的气势……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "突然开始的两人追逐，\n渐渐变成了真正的较量。\n然后——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉丝们",
+      "Text": "啊啊啊啊啊啊！！！！",
+      "ChoiceDataList": [
+        "（嗯？旁边也……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "公司职员A",
+      "Text": "东商酱……好帅啊……\n那么可爱，却又有自己的主见……\n不在乎别人的眼光。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "东商"
+      ]
+    },
+    {
+      "Name": "公司职员A",
+      "Text": "跑起来时能感受到末脚的锐利感……！\n……我也想那样坚强地生活。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "公司职员B",
+      "Text": "唔～～，小金船……！\n真是破天荒啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "小金船"
+      ]
+    },
+    {
+      "Name": "公司职员B",
+      "Text": "不过，她并不是旁若无人……\n虽然是这样，但不会伤害别人。\n……我也想有那样的自信。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "公司职员A",
+      "Text": "！！\n啊……那个！我，我也是！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "公司职员A",
+      "Text": "我也……想像东商酱那样，\n能清楚地表达自己的意见，好憧憬啊。\n推，真的很帅呢……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "公司职员B",
+      "Text": "我懂！！！！\n……可以的话，再多聊会儿吧！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "东商变革",
+      "Text": "——真是的……！\n黄金船，你太缠人了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "就在这时——一位戴着黑色面具的\n优雅马娘和一位白发格外美丽的马娘\n并肩走过。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "东商变革",
+      "Text": "啊！你！那边那个黑色的！\n代替我——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "东商变革",
+      "Text": "喂，为什么是狮子舞！？\n等等，你要去哪儿啊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉丝A",
+      "Text": "哈哈，真是活泼的孩子们啊！\n……喂，你怎么了？发什么呆呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉丝B",
+      "Text": "那个白发的孩子……好可爱……！\n太美了……！我想为她应援！",
+      "ChoiceDataList": [
+        "（一见钟情，也是常有的事呢）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "一边拍摄视频，\n一边走向练习用的舞台，\n那里也挤满了粉丝。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉丝们",
+      "Text": "啊……！看，来了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黄金巨匠",
+      "Text": "——欢呼吧，子民们。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黄金巨匠",
+      "Text": "吾乃王者。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉丝们",
+      "Text": "哎呀！黄金巨匠大人～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "黄金巨匠"
+      ]
+    },
+    {
+      "Name": "独白",
+      "Text": "散发着压倒性存在感，\n出现在眼前的是——黄金巨匠\n。她个性鲜明，实力也毋庸置疑。",
+      "ChoiceDataList": [
+        "（对了，直接听听粉丝的声音……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "巨匠的粉丝",
+      "Text": "说到巨匠大人，首先是那身姿！\n金光闪闪……好帅～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "巨匠"
+      ]
+    },
+    {
+      "Name": "巨匠的粉丝",
+      "Text": "而且……最重要的是，奔跑时的气势！\n非常强大，又有点霸道……\n简直就是王者！那种气质最棒了……♡",
+      "ChoiceDataList": [
+        "原来如此……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "巨匠的粉丝",
+      "Text": "啊！训练员先生！那个孩子！\n刚出来的孩子也拍一下吧！\n是我的二推～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "被催促着，看向刚出来的马娘……\n她低着头，一直看着地面。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "看起来有些沮丧，也没有干劲……",
+      "ChoiceDataList": [
+        "那孩子，没事吧……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "巨匠的粉丝",
+      "Text": "没问题的，那反而是“绝佳状态”！\n因为那个孩子——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "巨匠的粉丝",
+      "Text": "起来沮丧的时候，反而是最强的！\n一定要看她的比赛！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "没有干劲的？马娘",
+      "Text": "——哈啊啊啊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "正如粉丝所说，\n在随后的模拟比赛中，\n她取得了压倒性的胜利——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "巨匠的粉丝",
+      "Text": "马娘们，真的有很多不同的孩子……！\n推的名单一直在增加。\n老实说——非常开心！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "之后也感受到了粉丝们的热情……\n拍下了许多个性十足的马娘们的影像。",
+      "ChoiceDataList": [
+        "（剪辑，得加油了！）",
+        "（剪辑，得加油呢！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "独白",
+      "Text": "想在『Dream Fest』举办前发布，\n提升热度。\n在艰难地整理SNS用的视频时——",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "海塞克",
+      "Text": "——啊，真是精彩的影像呢！",
+      "ChoiceDataList": [
+        "海塞克小姐！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "海塞克",
+      "Text": "这是谁拍的？\n难道是训练员先生？",
+      "ChoiceDataList": [
+        "想多传达一些马娘们的魅力！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "海塞克",
+      "Text": "！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "海塞克",
+      "Text": "嗯嗯，一定会传达出去的！\n因为真的很棒。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "海塞克",
+      "Text": "大家的个性闪闪发光……非常迷人！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "海塞克",
+      "Text": "——啊，对了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "海塞克",
+      "Text": "其实，接下来的全明星赛……\n『Dream Fest』，我们正在考虑宣传主题。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "海塞克",
+      "Text": "现在，我突然想到了！\n—『Stella』，怎么样？",
+      "ChoiceDataList": [
+        "意大利语中的“星”……是吗"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "海塞克",
+      "Text": "是的！\n希望所有的马娘都能像星星一样闪耀！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "海塞克",
+      "Text": "然后，\n也希望支持她们的人能享受这份光芒……",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "海塞克",
+      "Text": "<nickname>酱也会参加吧。",
+      "ChoiceDataList": [
+        "是的，计划如此！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "海塞克",
+      "Text": "嗯嗯。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "海塞克",
+      "Text": "相信一定会抓住大家的心，\n展现出精彩的跑法！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "海塞克",
+      "Text": "跨越世代的Stella竞演！\n——真让人期待呢♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
